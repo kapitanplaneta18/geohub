@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz5-t6",
+                     "title":  "Gospodarka morska",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Gospodarka morska",
+                                              "definition":  "Ogół działalności człowieka związanej z wykorzystaniem morza, obejmujący żeglugę morską, eksploatację portów, przemysł stoczniowy oraz rybołówstwo morskie."
+                                          },
+                                          {
+                                              "term":  "Tania bandera",
+                                              "definition":  "Zjawisko rejestrowania statków w krajach oferujących niższe podatki i opłaty (np. Bahamy), co stosują polscy armatorzy w celu obniżenia kosztów."
+                                          },
+                                          {
+                                              "term":  "Port morski",
+                                              "definition":  "Węzeł transportowy umożliwiający wymianę towarową i pasażerską drogą morską; główne polskie porty to Gdańsk, Gdynia, Szczecin i Świnoujście."
+                                          },
+                                          {
+                                              "term":  "Terminal LNG (Gazoport)",
+                                              "definition":  "Specjalistyczny port w Świnoujściu przystosowany do odbioru i przeładunku skroplonego gazu ziemnego, mający kluczowe znaczenie dla bezpieczeństwa energetycznego."
+                                          },
+                                          {
+                                              "term":  "DCT Gdańsk",
+                                              "definition":  "Deepwater Container Terminal – największy głębokowodny terminal kontenerowy na Bałtyku, zlokalizowany w Porcie Północnym w Gdańsku,."
+                                          },
+                                          {
+                                              "term":  "Drobnica",
+                                              "definition":  "Przemysłowe produkty o małych gabarytach, najczęściej przewożone w kontenerach; ich przeładunek odbywa się głównie w Gdyni i Gdańsku."
+                                          },
+                                          {
+                                              "term":  "Masowce",
+                                              "definition":  "Statki przystosowane do przewozu ładunków stałych luzem (np. węgla, rud metali, zbóż), stanowiące przeważającą część polskiej floty handlowej."
+                                          },
+                                          {
+                                              "term":  "Przemysł stoczniowy w Polsce",
+                                              "definition":  "Sektor gospodarki, który po transformacji ustrojowej przeszedł restrukturyzację; obecnie specjalizuje się w produkcji jachtów, luksusowych łodzi i jednostek specjalistycznych,."
+                                          },
+                                          {
+                                              "term":  "Stocznie jachtowe",
+                                              "definition":  "Polski segment rynku stoczniowego o znaczącej pozycji światowej; Polska jest czołowym producentem małych łodzi motorowych i jachtów."
+                                          },
+                                          {
+                                              "term":  "Morska energetyka wiatrowa (Offshore)",
+                                              "definition":  "Prężnie rozwijający się dział gospodarki morskiej polegający na produkcji energii przez farmy wiatrowe na morzu (np. na Bałtyku)."
+                                          },
+                                          {
+                                              "term":  "Rybołówstwo morskie",
+                                              "definition":  "Dział gospodarki obejmujący połów organizmów morskich; w Polsce dominują połowy na Bałtyku (głównie szproty), ograniczone limitami UE,."
+                                          },
+                                          {
+                                              "term":  "Szproty",
+                                              "definition":  "Gatunek ryby dominujący w strukturze gatunkowej polskich połowów na Morzu Bałtyckim (ponad 35% masy połowów)."
+                                          },
+                                          {
+                                              "term":  "Przetwórstwo rybne",
+                                              "definition":  "Dynamicznie rozwijający się sektor w Polsce, oparty w dużej mierze na imporcie ryb i eksporcie przetworzonych produktów (np. wędzonych, konserw)."
+                                          },
+                                          {
+                                              "term":  "Żegluga promowa",
+                                              "definition":  "Transport pasażerów i samochodów promami; główne bazy promowe w Polsce to Świnoujście (rejsy do Szwecji) i Gdynia."
+                                          },
+                                          {
+                                              "term":  "Konwencja Narodów Zjednoczonych o prawie morza",
+                                              "definition":  "Dokument z 1982 r., którego wprowadzenie ograniczyło polskie rybołówstwo dalekomorskie poprzez ustanowienie wyłącznych stref ekonomicznych państw."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Port Gdańsk",
+                                                 "pair2":  "Największe obroty ładunkowe w Polsce, przeładunek ropy naftowej i kontenerów."
+                                             },
+                                             {
+                                                 "pair1":  "Port Świnoujście",
+                                                 "pair2":  "Specjalizacja w przeładunku skroplonego gazu ziemnego (LNG) i obsługa promów pasażerskich,."
+                                             },
+                                             {
+                                                 "pair1":  "Port Gdynia",
+                                                 "pair2":  "Specjalizacja w przeładunku drobnicy (kontenerów) oraz zbóż."
+                                             },
+                                             {
+                                                 "pair1":  "Polska flota handlowa",
+                                                 "pair2":  "Dominacja statków pływających pod tzw. tanią banderą (np. Bahamów)."
+                                             },
+                                             {
+                                                 "pair1":  "Polska specjalność stoczniowa",
+                                                 "pair2":  "Produkcja luksusowych jachtów, łodzi motorowych i jednostek specjalistycznych."
+                                             },
+                                             {
+                                                 "pair1":  "Morska energetyka wiatrowa",
+                                                 "pair2":  "Perspektywiczny rozwój farm wiatrowych na Bałtyku zwiększający bezpieczeństwo energetyczne."
+                                             },
+                                             {
+                                                 "pair1":  "Ograniczenie połowów dalekomorskich",
+                                                 "pair2":  "Skutek utraty dostępu do łowisk przez ustanowienie stref ekonomicznych i limitów UE."
+                                             },
+                                             {
+                                                 "pair1":  "Województwo pomorskie i zachodniopomorskie",
+                                                 "pair2":  "Koncentracja zakładów przetwórstwa rybnego (np. Kołobrzeg, Ustka, Gdynia)."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który polski port morski charakteryzuje się największymi obrotami ładunkowymi i specjalizuje się w przeładunku ropy naftowej?",
+                                      "options":  [
+                                                      "Gdynia, znana z terminalu kontenerowego.",
+                                                      "Szczecin, będący portem śródlądowym.",
+                                                      "Gdańsk.",
+                                                      "Świnoujście, obsługujące promy pasażerskie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Port Północny w Gdańsku (Naftoport) to największy polski port, obsługujący największe statki (np. tankowce) wchodzące na Bałtyk."
+                                  },
+                                  {
+                                      "question":  "W jakim celu polscy armatorzy rejestrują swoje statki pod tzw. tanią banderą (np. Bahamów)?",
+                                      "options":  [
+                                                      "Aby ominąć międzynarodowe wymogi bezpieczeństwa na morzu.",
+                                                      "Ze względu na niższe podatki i opłaty ubezpieczeniowe w tych krajach.",
+                                                      "Z powodu braku fizycznych miejsc w polskim rejestrze okrętowym.",
+                                                      "Aby móc pływać wyłącznie po ciepłych wodach tropikalnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rejestracja statków w „rajach podatkowych” (np. Panama, Liberia) pozwala armatorom na znaczne obniżenie kosztów pracy i eksploatacji."
+                                  },
+                                  {
+                                      "question":  "Co jest współczesną polską specjalnością w przemyśle stoczniowym, w której krajowi producenci mają znaczący udział w rynku światowym?",
+                                      "options":  [
+                                                      "Budowa wielkich tankowców oceanicznych o napędzie jądrowym.",
+                                                      "Produkcja luksusowych jachtów i łodzi motorowych.",
+                                                      "Budowa atomowych okrętów podwodnych dla marynarki wojennej.",
+                                                      "Produkcja masowców o nośności powyżej 100 tys. ton."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Polska jest jednym z liderów w produkcji jachtów (szczególnie motorowych do 10 m długości), które są eksportowane na cały świat."
+                                  },
+                                  {
+                                      "question":  "Jaka funkcja jest dominująca dla portu w Świnoujściu w kontekście bezpieczeństwa energetycznego Polski?",
+                                      "options":  [
+                                                      "Eksport polskiego węgla kamiennego do krajów skandynawskich.",
+                                                      "Przeładunek skroplonego gazu ziemnego (LNG).",
+                                                      "Magazynowanie rudy żelaza importowanej z Brazylii.",
+                                                      "Produkcja odnawialnej energii z fal morskich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Terminal LNG w Świnoujściu umożliwia dywersyfikację dostaw gazu, uniezależniając Polskę od dostaw rurociągowych ze Wschodu."
+                                  },
+                                  {
+                                      "question":  "Jaki gatunek ryby dominuje w strukturze połowów polskiej floty na Morzu Bałtyckim?",
+                                      "options":  [
+                                                      "Dorsz, którego populacja jest obecnie zagrożona.",
+                                                      "Szprot.",
+                                                      "Łosoś, poławiany głównie rekreacyjnie.",
+                                                      "Flądra, będąca rybą przydenną."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Szprot i śledź stanowią większość masy połowowej (ponad 80%), wykorzystywanej głównie do produkcji mączki rybnej i pasz."
+                                  },
+                                  {
+                                      "question":  "Co było jedną z głównych przyczyn drastycznego spadku polskich połowów dalekomorskich po latach 80. XX wieku?",
+                                      "options":  [
+                                                      "Całkowite wyczerpanie się wszystkich zasobów ryb w oceanach.",
+                                                      "Wprowadzenie wyłącznych stref ekonomicznych przez państwa nadbrzeżne.",
+                                                      "Całkowity zakaz spożywania ryb morskich w Polsce.",
+                                                      "Zamknięcie wszystkich polskich portów rybackich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dostęp do łowisk na otwartych oceanach (np. u wybrzeży Afryki, Ameryki Płd.) został ograniczony przez prawo międzynarodowe, co uderzyło w polską flotę."
+                                  },
+                                  {
+                                      "question":  "W przeładunku jakiej grupy towarów specjalizuje się port w Gdyni?",
+                                      "options":  [
+                                                      "Ropy naftowej transportowanej z Bliskiego Wschodu.",
+                                                      "Gazu ziemnego w postaci skroplonej.",
+                                                      "Zbóż.",
+                                                      "Węgla brunatnego wydobywanego w Polsce."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gdynia posiada nowoczesne terminale zbożowe, będąc kluczowym punktem eksportu i importu produktów rolnych w Polsce."
+                                  },
+                                  {
+                                      "question":  "Jaka zmiana zaszła w strukturze własnościowej polskiego przemysłu stoczniowego po transformacji ustrojowej?",
+                                      "options":  [
+                                                      "Wszystkie stocznie zostały upaństwowione i scentralizowane.",
+                                                      "Upadły wielkie stocznie państwowe, a rozwinęły się mniejsze firmy prywatne.",
+                                                      "Przemysł stoczniowy całkowicie zniknął z polskiego wybrzeża.",
+                                                      "Polska stała się światowym monopolistą w produkcji wielkich kontenerowców."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wielkie zakłady (np. Stocznia Gdańska, Szczecińska) nie wytrzymały konkurencji z Azją, natomiast powstało wiele prywatnych stoczni remontowych i jachtowych."
+                                  },
+                                  {
+                                      "question":  "Czym jest tzw. drobnica, której udział w obrotach portowych rośnie?",
+                                      "options":  [
+                                                      "Towarami sypkimi przewożonymi luzem w ładowniach, jak węgiel.",
+                                                      "Płynnymi paliwami transportowanymi rurociągami.",
+                                                      "Produktami przemysłowymi przewożonymi najczęściej w kontenerach.",
+                                                      "Rybami łowionymi przy brzegu przez małe kutry rybackie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Drobnica to zróżnicowane towary (elektronika, odzież, części), które dzięki konteneryzacji są łatwe w przeładunku i transporcie."
+                                  },
+                                  {
+                                      "question":  "Jaką szansę dla polskich stoczni stwarza rozwój morskiej energetyki wiatrowej?",
+                                      "options":  [
+                                                      "Możliwość budowy wież i turbin dla morskich farm wiatrowych.",
+                                                      "Konieczność demontażu wszystkich istniejących platform wiertniczych.",
+                                                      "Całkowity zakaz budowy statków w pobliżu farm wiatrowych.",
+                                                      "Przekształcenie stoczni w wielkie elektrownie wodne."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Sektor offshore (morskie farmy wiatrowe) generuje popyt na specjalistyczne statki instalacyjne i konstrukcje stalowe, które mogą produkować polskie stocznie."
+                                  },
+                                  {
+                                      "question":  "Dlaczego sektor przetwórstwa rybnego w Polsce rozwija się dynamicznie mimo spadku krajowych połowów?",
+                                      "options":  [
+                                                      "Ponieważ Polacy całkowicie przestali jeść ryby morskie.",
+                                                      "Opiera się w dużej mierze na imporcie ryb, które są przetwarzane i eksportowane.",
+                                                      "Wykorzystuje wyłącznie ryby słodkowodne z polskich jezior.",
+                                                      "Dzięki całkowitemu zniesieniu limitów połowowych przez Unię Europejską."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Polska jest jednym z największych w Europie przetwórców łososia (importowanego z Norwegii) i śledzia, wysyłając gotowe produkty na zachód."
+                                  },
+                                  {
+                                      "question":  "Które porty obsługują większość międzynarodowych połączeń promowych z Polski?",
+                                      "options":  [
+                                                      "Ustka i Łeba, znane z turystyki plażowej.",
+                                                      "Kołobrzeg i Darłowo, będące portami rybackimi.",
+                                                      "Świnoujście, Gdynia i Gdańsk.",
+                                                      "Elbląg i Frombork, obsługujące Zalew Wiślany."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Promy pasażersko-samochodowe kursują głównie do Szwecji (Ystad, Karlskrona, Nynäshamn) ze Świnoujścia, Gdyni i Gdańska."
+                                  },
+                                  {
+                                      "question":  "Jaki trend obserwuje się w polskiej flocie handlowej od lat 80. XX wieku?",
+                                      "options":  [
+                                                      "Systematyczny wzrost liczby i nośności statków pod polską banderą.",
+                                                      "Utrzymanie stałego poziomu tonażu przez ostatnie 40 lat.",
+                                                      "Znaczny spadek liczby statków należących do krajowych armatorów.",
+                                                      "Całkowite przejęcie rynku przez państwowe firmy żeglugowe."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Polska flota handlowa skurczyła się drastycznie; większość statków należących do polskich firm (PŻM) pływa pod obcymi banderami."
+                                  },
+                                  {
+                                      "question":  "Gdzie znajduje się największy terminal kontenerowy w Polsce (DCT)?",
+                                      "options":  [
+                                                      "W Porcie Północnym w Gdańsku.",
+                                                      "W ścisłym centrum Gdyni, przy Skwerze Kościuszki.",
+                                                      "Na nabrzeżu w Szczecinie, w głębi lądu.",
+                                                      "W porcie wojennym w Świnoujściu."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "DCT Gdańsk (Deepwater Container Terminal) to jedyny terminal na Bałtyku zdolny przyjmować największe kontenerowce świata płynące z Azji."
+                                  },
+                                  {
+                                      "question":  "Jaki jest główny cel planowanych inwestycji w portach morskich w Gdańsku, Gdyni i Świnoujściu?",
+                                      "options":  [
+                                                      "Zmniejszenie głębokości torów wodnych w celu ochrony dna morskiego.",
+                                                      "Budowa głębokowodnych terminali wysuniętych w morze w celu obsługi rosnącego przeładunku kontenerów.",
+                                                      "Całkowita likwidacja funkcji handlowych na rzecz turystyki jachtowej.",
+                                                      "Budowa luksusowych hoteli bezpośrednio na terenie portów przeładunkowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Projekty takie jak Port Centralny w Gdańsku czy Port Zewnętrzny w Gdyni mają zwiększyć przepustowość i umożliwić obsługę największych jednostek."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Port w Szczecinie jest portem morskim położonym bezpośrednio nad otwartym Morzem Bałtyckim.",
+                                           "answer":  false,
+                                           "explanation":  "Szczecin leży w głębi lądu, nad Odrą, w znacznej odległości od morza; funkcję portu zewnętrznego (awanportu) pełni dla niego Świnoujście,."
+                                       },
+                                       {
+                                           "sentence":  "Polska jest obecnie światowym liderem w produkcji wielkich statków oceanicznych, takich jak kontenerowce i masowce.",
+                                           "answer":  false,
+                                           "explanation":  "Wielkie stocznie produkcyjne upadły, a Polska specjalizuje się obecnie w produkcji luksusowych jachtów, łodzi motorowych oraz jednostek specjalistycznych,."
+                                       },
+                                       {
+                                           "sentence":  "Większość statków należących do polskiej floty handlowej pływa pod banderami innych państw, np. Bahamów.",
+                                           "answer":  true,
+                                           "explanation":  "Zjawisko to wynika z chęci obniżenia kosztów (podatków, ubezpieczeń); w 2019 r. tylko 16 z 96 polskich statków pływało pod polską banderą."
+                                       },
+                                       {
+                                           "sentence":  "Terminal DCT w Gdańsku jest przystosowany do obsługi największych kontenerowców na świecie.",
+                                           "answer":  true,
+                                           "explanation":  "Deepwater Container Terminal Gdańsk (DCT) to największy terminal w Polsce, głębokowodny, mogący przyjmować największe jednostki oceaniczne,."
+                                       },
+                                       {
+                                           "sentence":  "Polskie rybołówstwo opiera się obecnie głównie na połowach dalekomorskich na Pacyfiku i Atlantyku.",
+                                           "answer":  false,
+                                           "explanation":  "Połowy dalekomorskie drastycznie spadły (do 2 trawlerów); obecnie dominują połowy na Morzu Bałtyckim, wykonywane przez kutry i łodzie."
+                                       },
+                                       {
+                                           "sentence":  "Gazoport w Świnoujściu został wybudowany w celu masowego eksportu polskiego gazu ziemnego za granicę.",
+                                           "answer":  false,
+                                           "explanation":  "Terminal LNG w Świnoujściu służy do odbioru (przeładunku) skroplonego gazu ziemnego importowanego do Polski, co zwiększa bezpieczeństwo energetyczne."
+                                       },
+                                       {
+                                           "sentence":  "Port w Gdyni specjalizuje się przede wszystkim w przeładunku ropy naftowej i paliw płynnych.",
+                                           "answer":  false,
+                                           "explanation":  "W przeładunku ropy naftowej specjalizuje się port w Gdańsku; Gdynia dominuje w przeładunku zbóż oraz drobnicy."
+                                       },
+                                       {
+                                           "sentence":  "Warunki przyrodnicze na Bałtyku, takie jak głębokość i wietrzność, sprzyjają rozwojowi morskiej energetyki wiatrowej.",
+                                           "answer":  true,
+                                           "explanation":  "Eksperci oceniają warunki na Bałtyku (niewielka głębokość, wietrzność) jako jedne z najlepszych na świecie do budowy farm wiatrowych (offshore)."
+                                       },
+                                       {
+                                           "sentence":  "W strukturze gatunkowej polskich połowów na Bałtyku dominują ryby szlachetne, takie jak łosoś.",
+                                           "answer":  false,
+                                           "explanation":  "Dominującym gatunkiem w polskich połowach są szproty (ponad 35% masy), a także śledzie i ostroboki,."
+                                       },
+                                       {
+                                           "sentence":  "Polska flota handlowa od lat 80. XX wieku systematycznie rośnie w siłę i zwiększa swój tonaż.",
+                                           "answer":  false,
+                                           "explanation":  "Flota traci na znaczeniu; liczba statków krajowych armatorów spadła o ponad 70%, a ich nośność o 40% w latach 1980–2019,."
+                                       },
+                                       {
+                                           "sentence":  "Największy ruch pasażerski w Polsce, związany z przeprawami promowymi, obsługuje port w Świnoujściu.",
+                                           "answer":  true,
+                                           "explanation":  "Świnoujście jest największym portem pasażerskim, obsługującym połączenia promowe m.in. do Ystad i Trelleborga w Szwecji,."
+                                       },
+                                       {
+                                           "sentence":  "Port w Gdańsku posiada największy udział w ogólnych obrotach ładunkowych wśród polskich portów morskich.",
+                                           "answer":  true,
+                                           "explanation":  "W 2019 r. port w Gdańsku obsługiwał 48,5% wszystkich obrotów ładunkowych w polskich portach."
+                                       }
+                                   ]
+                 }
+}

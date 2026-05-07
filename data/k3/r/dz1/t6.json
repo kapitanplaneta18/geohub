@@ -1,0 +1,341 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz1-t6",
+                     "title":  "Zasoby wodne Polski. Sieć rzeczna",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Zasoby wodne Polski na tle Europy",
+                                              "definition":  "Polska posiada ubogie zasoby wodne; na jednego mieszkańca przypada ok. 1,7 tys. m³ wody rocznie, podczas gdy średnia europejska wynosi ok. 4,6 tys. m³."
+                                          },
+                                          {
+                                              "term":  "Bilans wodny Polski",
+                                              "definition":  "Zestawienie przychodu i rozchodu wody, w którym 97% przychodu stanowią opady atmosferyczne, a większość rozchodu (ok. 70%) stanowi parowanie i zużycie gospodarcze."
+                                          },
+                                          {
+                                              "term":  "Rok hydrologiczny",
+                                              "definition":  "Okres obliczeniowy stosowany w hydrologii, który w Polsce rozpoczyna się 1 listopada, a kończy 31 października następnego roku."
+                                          },
+                                          {
+                                              "term":  "Zlewisko Morza Bałtyckiego",
+                                              "definition":  "Obszar obejmujący 99,8% terytorium Polski, odwadniany głównie przez Wisłę, Odrę, rzeki pobrzeża, Niemen i Pregołę."
+                                          },
+                                          {
+                                              "term":  "Zlewisko Morza Czarnego (Orawa, Strwiąż)",
+                                              "definition":  "Niewielki obszar w Karpatach, z którego wody odprowadzane są przez rzekę Orawę (dorzecze Dunaju) oraz Strwiąż (dorzecze Dniestru)."
+                                          },
+                                          {
+                                              "term":  "Zlewisko Morza Północnego (Izera, Orlica)",
+                                              "definition":  "Fragmenty dorzecza Łaby w Sudetach, odwadniane przez dopływy takie jak Izera czy Orlica."
+                                          },
+                                          {
+                                              "term":  "Asymetria dorzeczy Wisły i Odry",
+                                              "definition":  "Zjawisko polegające na tym, że prawobrzeżne części dorzeczy są znacznie większe niż lewobrzeżne, co wynika z nachylenia powierzchni Polski w kierunku północno-zachodnim."
+                                          },
+                                          {
+                                              "term":  "Ustrój deszczowo-śnieżny",
+                                              "definition":  "Reżim rzeczny charakterystyczny dla większości rzek in Polsce, z dwoma okresami wysokich stanów wód: wiosennym (roztopy) i letnim (opady deszczu)."
+                                          },
+                                          {
+                                              "term":  "Powódź opadowo-nawalna",
+                                              "definition":  "Gwałtowne wezbranie wody, często o charakterze lokalnym, występujące latem (głównie w górach) na skutek krótkotrwałych, lecz bardzo intensywnych ulew."
+                                          },
+                                          {
+                                              "term":  "Powódź zatorowo-lodowa",
+                                              "definition":  "Wezbranie wody spowodowane jej spiętrzeniem przez zator lodowy w czasie wiosennego spływu lodu rzeką."
+                                          },
+                                          {
+                                              "term":  "Powódź sztormowa (cofka)",
+                                              "definition":  "Wezbranie wód w ujściowych odcinkach rzek przymorskich spowodowane silnym wiatrem wiejącym od morza, który wtłacza słoną wodę w głąb lądu."
+                                          },
+                                          {
+                                              "term":  "Obszary deficytu wody (rolnictwo)",
+                                              "definition":  "Regiony zagrożone niedoborem wody dla rolnictwa, głównie Nizina Wielkopolska, Kujawy i Wyżyna Lubelska (obszary o najniższych opadach i cieniu opadowym)."
+                                          },
+                                          {
+                                              "term":  "Obszary deficytu wody (przemysł)",
+                                              "definition":  "Regiony o dużej koncentracji ludności i przemysłu, zagrożone niedoborem wody komunalnej i technologicznej, np. aglomeracja górnośląska, krakowska i łódzka."
+                                          },
+                                          {
+                                              "term":  "Susza hydrologiczna",
+                                              "definition":  "Etap suszy objawiający się znacznym obniżeniem stanów wody w rzekach oraz zanikaniem źródeł."
+                                          },
+                                          {
+                                              "term":  "Retencja wodna",
+                                              "definition":  "Zdolność dorzecza do okresowego zatrzymywania wody (np. w lasach, glebie, zbiornikach), która w Polsce jest zbyt mała, co pogłębia problem niedoborów."
+                                          },
+                                          {
+                                              "term":  "Dział wodny",
+                                              "definition":  "Linia w terenie (zazwyczaj grzbiet wzniesienia) rozdzielająca dwa sąsiednie dorzecza lub zlewiska."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Wisła",
+                                                 "pair2":  "Zlewisko Morza Bałtyckiego"
+                                             },
+                                             {
+                                                 "pair1":  "Strwiąż",
+                                                 "pair2":  "Zlewisko Morza Czarnego (dorzecze Dniestru)"
+                                             },
+                                             {
+                                                 "pair1":  "Orawa",
+                                                 "pair2":  "Zlewisko Morza Czarnego (dorzecze Dunaju)"
+                                             },
+                                             {
+                                                 "pair1":  "Izera i Orlica (dorzecze Łaby)",
+                                                 "pair2":  "Zlewisko Morza Północnego"
+                                             },
+                                             {
+                                                 "pair1":  "Wezbranie wiosenne",
+                                                 "pair2":  "Topnienie pokrywy śnieżnej"
+                                             },
+                                             {
+                                                 "pair1":  "Wezbranie letnie",
+                                                 "pair2":  "Intensywne opady deszczu"
+                                             },
+                                             {
+                                                 "pair1":  "Pojezierze Kujawskie",
+                                                 "pair2":  "Obszar deficytu wody (cień opadowy)"
+                                             },
+                                             {
+                                                 "pair1":  "Karpaty",
+                                                 "pair2":  "Obszar nadwyżki wody (wysokie opady)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaka jest główna przyczyna asymetrii dorzeczy Wisły i Odry, polegająca na znacznie większej powierzchni ich prawych części?",
+                                      "options":  [
+                                                      "Występowanie twardych, nieprzepuszczalnych skał krystalicznych na zachodnim brzegu rzek",
+                                                      "Ogólne nachylenie powierzchni Polski z południowego wschodu na północny zachód",
+                                                      "Działalność lądolodu, który trwale zablokował naturalny odpływ lewobrzeżnych dopływów",
+                                                      "Sztuczna regulacja rzek przeprowadzona na masową skalę w XIX wieku"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Asymetria dorzeczy (prawe części są ok. 2 razy większe od lewych) wynika z geologicznego nachylenia obszaru Polski z południowego wschodu na północny zachód, co wymusza spływ wód w tym kierunku."
+                                  },
+                                  {
+                                      "question":  "Do zlewiska którego morza należy niemal 99,8% powierzchni Polski?",
+                                      "options":  [
+                                                      "Morza Czarnego",
+                                                      "Morza Północnego",
+                                                      "Morza Bałtyckiego",
+                                                      "Morza Norweskiego"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Zdecydowana większość terytorium Polski jest odwadniana przez Wisłę, Odrę i rzeki przymorza do Bałtyku; tylko niewielkie fragmenty należą do zlewisk Morza Czarnego i Północnego."
+                                  },
+                                  {
+                                      "question":  "Jaki typ ustroju (reżimu) rzecznego jest charakterystyczny dla większości rzek w Polsce?",
+                                      "options":  [
+                                                      "Ustrój lodowcowy z jednym wyraźnym maksimum przepływu w lecie",
+                                                      "Ustrój śnieżny z jednym, krótkotrwałym maksimum na wiosnę",
+                                                      "Ustrój deszczowo-śnieżny z regularnymi wezbraniami wiosennymi i letnimi",
+                                                      "Ustrój deszczowy z wyrównanymi i stabilnymi przepływami przez cały rok"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Polskie rzeki mają ustrój złożony deszczowo-śnieżny: wysokie stany wód występują wiosną (topnienie śniegu) oraz latem (intensywne opady deszczu)."
+                                  },
+                                  {
+                                      "question":  "Które rzeki w Polsce odprowadzają wody do zlewiska Morza Czarnego?",
+                                      "options":  [
+                                                      "Izera i Orlica (górskie dopływy Łaby)",
+                                                      "Strwiąż (dorzecze Dniestru) i Orawa (dorzecze Dunaju)",
+                                                      "Nysa Łużycka i Bóbr (dopływy Odry)",
+                                                      "Bug i Narew (dopływy Wisły)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Strwiąż (Bieszczady) należy do dorzecza Dniestru, a Orawa (Podhale) do dorzecza Dunaju; obie rzeki odprowadzają wody do Morza Czarnego."
+                                  },
+                                  {
+                                      "question":  "Czym jest zjawisko cofki (powodzi sztormowej) występujące na polskim wybrzeżu?",
+                                      "options":  [
+                                                      "Gwałtownym spływem wód roztopowych z terenów pojeziernych",
+                                                      "Wylaniem rzeki spowodowanym masywnym zatorem lodowym",
+                                                      "Spiętrzeniem wód rzecznych przez silny wiatr wiejący od morza",
+                                                      "Nagłym podniesieniem poziomu wód gruntowych po ulewach"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Powódź sztormowa powstaje, gdy silny wiatr północny wtłacza wody Bałtyku do ujściowych odcinków rzek, blokując ich swobodny odpływ i powodując wezbranie."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Polska jest zaliczana do krajów o ubogich zasobach wodnych w skali Europy?",
+                                      "options":  [
+                                                      "Na mieszkańca przypada zaledwie ok. 1,7 tys. m³ wody rocznie (średnia UE to 4,6 tys.)",
+                                                      "Ponad 90% zasobów wodnych w Polsce jest zasolone i niezdatne do spożycia",
+                                                      "Polska nie posiada żadnych naturalnych ani sztucznych zbiorników retencyjnych",
+                                                      "Większość dużych rzek w Polsce całkowicie wysycha w okresie letnim"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wskaźnik zasobów wodnych na mieszkańca w Polsce jest jednym z niższych w Europie, co wynika m.in. z relatywnie niskich opadów i dużego parowania."
+                                  },
+                                  {
+                                      "question":  "Który czynnik antropogeniczny przyczynia się do pogłębiania deficytu wody w Polsce?",
+                                      "options":  [
+                                                      "Budowa licznych małych zbiorników retencyjnych na terenach wiejskich",
+                                                      "Masowe zalesianie nieużytków rolnych i gruntów słabej jakości",
+                                                      "Uszczelnianie podłoża (betonowanie) i osuszanie terenów podmokłych",
+                                                      "Znaczne ograniczenie zużycia wody w procesach przemysłowych"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Pokrywanie gruntu asfaltem i betonem przyspiesza spływ powierzchniowy, uniemożliwiając wsiąkanie wody (retencję gruntową), a osuszanie mokradeł niszczy naturalne magazyny wody."
+                                  },
+                                  {
+                                      "question":  "W jakich regionach Polski występują największe niedobory wody dla rolnictwa?",
+                                      "options":  [
+                                                      "Na Pojezierzu Mazurskim oraz na Pobrzeżu Koszalińskim",
+                                                      "W wysokich partiach Karpat i Sudetów (powyżej 1000 m n.p.m.)",
+                                                      "Na Nizinie Wielkopolskiej, Kujawach i Wyżynie Lubelskiej",
+                                                      "Na Żuławach Wiślanych i w delcie Odry"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Obszary te leżą w strefie cienia opadowego lub charakteryzują się niskimi opadami rocznymi i dużym parowaniem, co przy intensywnym rolnictwie prowadzi do deficytów."
+                                  },
+                                  {
+                                      "question":  "Co jest bezpośrednią przyczyną powodzi opadowo-nawalnych, występujących latem głównie w górach?",
+                                      "options":  [
+                                                      "Powolne topnienie grubej pokrywy śnieżnej przy słonecznej pogodzie",
+                                                      "Długotrwałe, kilkutygodniowe mżawki o niewielkim natężeniu",
+                                                      "Krótkotrwałe, lecz bardzo intensywne ulewy (oberwanie chmury)",
+                                                      "Tworzenie się zatorów lodowych na rzekach górskich"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Latem gwałtowne burze z ulewnym deszczem powodują nagły spływ wody po stromych stokach górskich, co prowadzi do błyskawicznego wezbrania potoków."
+                                  },
+                                  {
+                                      "question":  "Kiedy w Polsce rozpoczyna się rok hydrologiczny?",
+                                      "options":  [
+                                                      "1 stycznia",
+                                                      "1 marca",
+                                                      "1 listopada",
+                                                      "1 września"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Rok hydrologiczny w Polsce trwa od 1 listopada do 31 października następnego roku, co pozwala ująć w jednym cyklu okres gromadzenia zasobów (zima) i ich odpływu."
+                                  },
+                                  {
+                                      "question":  "Czym jest śryż, który może powodować powodzie zatorowe?",
+                                      "options":  [
+                                                      "Grubą i jednolitą taflą lodu pokrywającą całą szerokość rzeki",
+                                                      "Gąbczastą masą kryształków lodu powstającą w wodzie przechłodzonej",
+                                                      "Drzewami i konarami powalonymi do koryta rzeki przez bobry",
+                                                      "Osadem skalnym niesionym przez rzekę podczas wezbrania"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Śryż to lód prądowy w postaci gąbczastej masy, który powstaje w rzekach przy temperaturze wody nieco poniżej 0°C i może zatykać koryto, tworząc zatory."
+                                  },
+                                  {
+                                      "question":  "Jaka była główna przyczyna „powodzi tysiąclecia” w dorzeczu Odry w 1997 roku?",
+                                      "options":  [
+                                                      "Nagłe roztopy w Karkonoszach połączone z potężnym zatorem lodowym",
+                                                      "Poważna awaria techniczna zbiornika retencyjnego w Czechach",
+                                                      "Długotrwałe i ekstremalnie obfite opady deszczu w górach",
+                                                      "Silny sztorm na Bałtyku całkowicie blokujący ujście Odry"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Katastrofalna powódź w lipcu 1997 r. została wywołana przez rekordowe opady deszczu w górnych częściach dorzecza Odry (Sudety), co doprowadziło do nałożenia się fal wezbraniowych dopływów."
+                                  },
+                                  {
+                                      "question":  "Dlaczego bezśnieżne zimy przyczyniają się do suszy w Polsce?",
+                                      "options":  [
+                                                      "Ponieważ ziemia zamarza wtedy znacznie głębiej i nie przepuszcza wody",
+                                                      "Ponieważ brak śniegu oznacza brak zasilania wód gruntowych wiosną",
+                                                      "Ponieważ pokrywa śnieżna chroni rzeki przed nadmiernym parowaniem",
+                                                      "Ponieważ bez śniegu rośliny zimozielone szybciej zużywają wodę"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Woda z topniejącego śniegu jest kluczowym źródłem odnawiania zasobów wód podziemnych i powierzchniowych na wiosnę; brak śniegu oznacza brak tego zasilania na start okresu wegetacyjnego."
+                                  },
+                                  {
+                                      "question":  "Które rzeki w Polsce należą do zlewiska Morza Północnego?",
+                                      "options":  [
+                                                      "Dopływy Odry i Wisły",
+                                                      "Izera i Orlica (dopływy Łaby)",
+                                                      "Strwiąż i Orawa",
+                                                      "Pasłęka i Łyna"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Izera i Orlica w Sudetach są dopływami Łaby, która uchodzi do Morza Północnego."
+                                  },
+                                  {
+                                      "question":  "Czym jest retencja wodna?",
+                                      "options":  [
+                                                      "Procesem szybkiego odprowadzania nadmiaru wody do morza kanałami",
+                                                      "Zdolnością dorzecza do okresowego zatrzymywania wody (lasy, gleba)",
+                                                      "Zjawiskiem intensywnego parowania wody z powierzchni roślin",
+                                                      "Ilością wody zużywaną przez przemysł energochłonny"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Retencja to zdolność do magazynowania wody w środowisku, co opóźnia jej odpływ i łagodzi skutki zarówno powodzi, jak i suszy."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Cały obszar Polski należy do zlewiska Morza Bałtyckiego.",
+                                           "answer":  false,
+                                           "explanation":  "Choć 99,8% terytorium Polski należy do zlewiska Bałtyku, niewielkie fragmenty na południu należą do zlewisk Morza Czarnego (Strwiąż, Orawa) i Północnego (Izera, Orlica)."
+                                       },
+                                       {
+                                           "sentence":  "Asymetria dorzeczy Wisły i Odry polega na tym, że ich lewobrzeżne dorzecza są znacznie większe od prawobrzeżnych.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie: prawobrzeżne części dorzeczy są znacznie większe (nawet dwukrotnie) z powodu nachylenia terenu Polski w kierunku północno-zachodnim."
+                                       },
+                                       {
+                                           "sentence":  "Powodzie sztormowe (cofki) występują w górnych biegach rzek w wyniku gwałtownych opadów.",
+                                           "answer":  false,
+                                           "explanation":  "Powodzie sztormowe występują przy ujściach rzek do morza (na wybrzeżu), gdy silny wiatr wtłacza wody morskie w głąb lądu, blokując odpływ rzek."
+                                       },
+                                       {
+                                           "sentence":  "Polska zalicza się do krajów o ubogich zasobach wodnych, przewyższających średnią europejską.",
+                                           "answer":  false,
+                                           "explanation":  "Polska ma ubogie zasoby wodne; na jednego mieszkańca przypada ok. 1,7 tys. m³ wody rocznie, podczas gdy średnia europejska to ok. 4,6 tys. m³."
+                                       },
+                                       {
+                                           "sentence":  "Rok hydrologiczny w Polsce rozpoczyna się 1 stycznia, pokrywając się z rokiem kalendarzowym.",
+                                           "answer":  false,
+                                           "explanation":  "Rok hydrologiczny w Polsce zaczyna się 1 listopada, aby ująć w jednym cyklu okres zimowego gromadzenia zasobów wodnych (śnieg) i ich wiosennego odpływu."
+                                       },
+                                       {
+                                           "sentence":  "Bezśnieżne zimy przyczyniają się do pogłębiania deficytu wody w Polsce w okresie wiosennym.",
+                                           "answer":  true,
+                                           "explanation":  "Brak pokrywy śnieżnej zimą oznacza, że wiosną nie następuje zasilanie wód gruntowych i powierzchniowych z topniejącego śniegu, co zwiększa ryzyko suszy."
+                                       },
+                                       {
+                                           "sentence":  "Rzeka Strwiąż w Bieszczadach odprowadza wody do Morza Czarnego.",
+                                           "answer":  true,
+                                           "explanation":  "Strwiąż jest dopływem Dniestru, który wpada do Morza Czarnego, stanowiąc jeden z nielicznych wyjątków w hydrografii Polski."
+                                       },
+                                       {
+                                           "sentence":  "Największe niedobory wody dla rolnictwa występują na terenach górskich, w Karpatach i Sudetach.",
+                                           "answer":  false,
+                                           "explanation":  "Tereny górskie mają nadwyżki wody (wysokie opady); największe niedobory występują na nizinach z cieniem opadowym, np. w Wielkopolsce i na Kujawach."
+                                       },
+                                       {
+                                           "sentence":  "Powodzie zatorowo-śryżowe powstają w wyniku nagromadzenia gąbczastej masy kryształków lodu w przechłodzonej wodzie rzecznej.",
+                                           "answer":  true,
+                                           "explanation":  "Śryż (lód prądowy) tworzy się w wodzie o temperaturze nieco poniżej 0°C i może zatykać koryto rzeki, powodując spiętrzenie wody i powódź."
+                                       },
+                                       {
+                                           "sentence":  "Polskie rzeki charakteryzują się ustrojem deszczowo-śnieżnym z dwoma okresami wysokich stanów wód.",
+                                           "answer":  true,
+                                           "explanation":  "Wezbrania występują wiosną (topnienie śniegu) oraz latem (nawalne lub długotrwałe opady deszczu), co jest typowe dla reżimu deszczowo-śnieżnego."
+                                       },
+                                       {
+                                           "sentence":  "Zlewisko Morza Północnego obejmuje w Polsce dorzecza dopływów Łaby w Sudetach.",
+                                           "answer":  true,
+                                           "explanation":  "Rzeki takie jak Izera czy Orlica wpadają do Łaby, która uchodzi do Morza Północnego."
+                                       },
+                                       {
+                                           "sentence":  "Powodzie opadowo-nawalne są typowe dla okresu zimowego i są związane z topnieniem śniegu.",
+                                           "answer":  false,
+                                           "explanation":  "Powodzie opadowo-nawalne występują latem i są spowodowane gwałtownymi, krótkotrwałymi ulewami (burzami), a nie topnieniem śniegu."
+                                       }
+                                   ]
+                 }
+}

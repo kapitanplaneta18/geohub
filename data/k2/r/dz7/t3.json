@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t3",
+    "title": "Wpływ działalności człowieka na hydrosferę",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Eutrofizacja wód",
+        "definition": "Zjawisko polegające na przeżyźnieniu wód wywołanym zbyt dużą zawartością związków azotu i fosforu, skutkujące zakwitem glonów i zmniejszeniem ilości tlenu."
+      },
+      {
+        "term": "Zanieczyszczenie wód",
+        "definition": "Zmiana parametrów fizycznych, chemicznych bądź biologicznych wód, wynikająca najczęściej z wprowadzania ścieków przemysłowych, komunalnych lub nawozów rolniczych."
+      },
+      {
+        "term": "Najbardziej wodochłonne działy przemysłu",
+        "definition": "Energetyka, górnictwo, hutnictwo, przemysł chemiczny, przemysł papierniczy i przemysł spożywczy."
+      },
+      {
+        "term": "Wykorzystanie wody w rolnictwie",
+        "definition": "Stosowana jest przede wszystkim do chowu i hodowli zwierząt gospodarskich oraz do nawadniania gruntów i zraszania upraw."
+      },
+      {
+        "term": "Naruszenie naturalnych stosunków wodnych",
+        "definition": "Zmiany w środowisku spowodowane m.in. regulacją rzek, budową obiektów hydrotechnicznych, zabiegami melioracyjnymi oraz odwadnianiem podczas budowy kopalń."
+      },
+      {
+        "term": "Tama Trzech Przełomów",
+        "definition": "Jedna z największych inwestycji hydrotechnicznych na świecie, zbudowana na rzece Jangcy w Chinach, wyposażona w hydroelektrownię o ogromnej mocy."
+      },
+      {
+        "term": "Wysoka Tama",
+        "definition": "Ogromna budowla hydrotechniczna na rzece Nil w pobliżu Asuanu (Egipt), w wyniku której utworzono sztuczny zbiornik wodny - Jezioro Nasera."
+      },
+      {
+        "term": "Skutki budowy Zapory Gilgel Gibe III",
+        "definition": "Inwestycja na rzece Omo w Etiopii, która zakłóca proces wylewania rzeki, grożąc znacznym zmniejszeniem ilości wody docierającej do jeziora Turkana."
+      },
+      {
+        "term": "Pozytywne skutki Tamy Trzech Przełomów",
+        "definition": "Wzrost produkcji energii elektrycznej, znaczne zmniejszenie zagrożenia powodziowego oraz zwiększenie żeglowności rzeki Jangcy dla statków morskich."
+      },
+      {
+        "term": "Negatywne skutki Tamy Trzech Przełomów",
+        "definition": "Przymusowe przesiedlenia ponad 1,26 mln ludności, zatopienie wielu miast, stanowisk archeologicznych oraz zaburzenie lokalnych ekosystemów i wzrost aktywności sejsmicznej."
+      },
+      {
+        "term": "Pozytywne skutki Wysokiej Tamy na Nilu",
+        "definition": "Regulacja poziomu wód eliminująca zagrożenie suszą i powodziami, rozwój rybołówstwa oraz pozyskanie nowych obszarów nawadnianych dla rolnictwa."
+      },
+      {
+        "term": "Negatywne skutki Wysokiej Tamy na Nilu",
+        "definition": "Przesiedlenie ponad 100 tys. osób, erozja wybrzeży Morza Śródziemnego oraz brak użyźniania doliny rzeki namułami, co wymusza stosowanie nawozów sztucznych."
+      },
+      {
+        "term": "Przyczyny zanikania jeziora Czad",
+        "definition": "Budowa rozbudowanej sieci kanałów nawadniających do upraw rolniczych (np. bawełny) oraz globalne ocieplanie się i wysychanie klimatu w strefie Sahelu."
+      },
+      {
+        "term": "Fizyczne skutki regulacji rzek",
+        "definition": "Skracanie biegu rzeki, zwężanie lub pogłębianie koryta, co w efekcie prowadzi do większego spadku rzeki i szybszego przepływu wody."
+      },
+      {
+        "term": "Wpływ infrastruktury kopalnianej na wody",
+        "definition": "Prace odwadniające i drążenie tuneli prowadzą do znacznego obniżenia zwierciadła wód podziemnych oraz zaniku wody w studniach na terenach przyległych."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Zanieczyszczenia wód (rolnicze)",
+        "pair2": "Są skutkiem intensywnego nawożenia oraz stosowania chemicznych środków ochrony roślin, co może prowadzić do eutrofizacji zbiorników."
+      },
+      {
+        "pair1": "Zanieczyszczenia wód (komunalne i przemysłowe)",
+        "pair2": "Powstają w wyniku przedostawania się do rzek i jezior nieoczyszczonych ścieków z gospodarstw domowych oraz zakładów produkcyjnych."
+      },
+      {
+        "pair1": "Wielkie inwestycje hydrologiczne (skutek pozytywny)",
+        "pair2": "Pozwalają na zwiększenie produkcji czystej energii elektrycznej, rozwój żeglugi śródlądowej oraz dają możliwość nawadniania pól."
+      },
+      {
+        "pair1": "Wielkie inwestycje hydrologiczne (skutek negatywny)",
+        "pair2": "Powodują konieczność przymusowych przesiedleń setek tysięcy ludzi, zatopienie zabytków kultury oraz blokadę naturalnych szlaków migracyjnych zwierząt."
+      },
+      {
+        "pair1": "Wykorzystanie wód (przemysł)",
+        "pair2": "Pełni funkcję ważnego nośnika energii, rozpuszczalnika wielu substancji chemicznych oraz wykorzystywana jest powszechnie do chłodzenia maszyn."
+      },
+      {
+        "pair1": "Zabiegi melioracyjne (niewłaściwe przeprowadzenie)",
+        "pair2": "Mogą doprowadzić do silnego przesuszenia gleby, niepożądanego podtapiania okolicznych terenów lub ich nadmiernego zasolenia."
+      },
+      {
+        "pair1": "Zanikanie jeziora Czad (przyczyna antropogeniczna)",
+        "pair2": "Budowa rozległego systemu irygacyjnego i ogromny pobór wód zasilających akwen w celu utrzymania upraw rolniczych (m.in. ryżu, bawełny)."
+      },
+      {
+        "pair1": "Regulacja rzek (skutek fizyczny)",
+        "pair2": "Prowadzi do widocznego skrócenia biegu cieku, uregulowania jego koryta oraz znacznego przyspieszenia spływu wód z danego obszaru."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co jest główną antropogeniczną przyczyną zjawiska eutrofizacji wód powierzchniowych?",
+        "options": [
+          "Wydobycie węgla kamiennego i brunatnego.",
+          "Masowy połów ryb i organizmów morskich.",
+          "Spływ nawozów sztucznych z pól uprawnych.",
+          "Podgrzewanie wód przez elektrownie cieplne."
+        ],
+        "answer": "C",
+        "explanation": "Eutrofizacja, czyli przeżyźnienie wód, wynika ze zbytniej koncentracji związków azotu i fosforu, które spływają z obszarów rolniczych do rzek i jezior."
+      },
+      {
+        "question": "Który sektor gospodarki odpowiada za największe globalne zużycie wody, głównie na potrzeby nawadniania i hodowli?",
+        "options": [
+          "Transport lądowy oraz żegluga morska.",
+          "Działalność rolnicza i chów zwierząt.",
+          "Usługi turystyczne i obiekty hotelowe.",
+          "Przemysł wydobywczy oraz hutnictwo."
+        ],
+        "answer": "B",
+        "explanation": "Rolnictwo pochłania największe ilości wody na świecie, wykorzystując ją przede wszystkim do zraszania upraw, nawadniania gruntów oraz w chowie zwierząt gospodarskich."
+      },
+      {
+        "question": "Jakie codzienne działanie proekologiczne w obiektach hotelowych pozwala bezpośrednio ograniczyć zużycie wody?",
+        "options": [
+          "Instalacja wydajnych paneli fotowoltaicznych.",
+          "Wymienianie pościeli tylko na życzenie gości.",
+          "Stosowanie energooszczędnego oświetlenia.",
+          "Całkowita rezygnacja z używania klimatyzacji."
+        ],
+        "answer": "B",
+        "explanation": "Rzadsze pranie ręczników i pościeli w obiektach noclegowych znacząco redukuje zapotrzebowanie na wodę oraz zmniejsza ilość wprowadzanych do niej detergentów."
+      },
+      {
+        "question": "Jaka była główna przyczyna drastycznego kurczenia się powierzchni afrykańskiego jeziora Czad od lat sześćdziesiątych XX wieku?",
+        "options": [
+          "Katastrofalne wycieki ropy z pobliskich rafinerii.",
+          "Trwałe zasypanie zbiornika odpadami górniczymi.",
+          "Intensywny pobór wody przez kanały irygacyjne.",
+          "Zablokowanie rzek przez osuwiska tektoniczne."
+        ],
+        "answer": "C",
+        "explanation": "Skurczenie się jeziora o 95% to skutek m.in. budowy sieci kanałów nawadniających, które spowodowały czterokrotny wzrost poboru wody na potrzeby rolnictwa."
+      },
+      {
+        "question": "Które gałęzie przemysłu zaliczają się do najbardziej wodochłonnych dziedzin gospodarki?",
+        "options": [
+          "Przemysł odzieżowy i produkcja obuwia.",
+          "Przemysł elektroniczny i precyzyjny.",
+          "Energetyka, górnictwo oraz hutnictwo.",
+          "Produkcja maszyn i urządzeń biurowych."
+        ],
+        "answer": "C",
+        "explanation": "Najbardziej wodochłonnymi działami przemysłu są: energetyka, górnictwo, hutnictwo, przemysł chemiczny, przemysł papierniczy i przemysł spożywczy."
+      },
+      {
+        "question": "W jaki sposób konwencjonalna energetyka węglowa wywiera najsilniejszy wpływ na zasoby hydrosfery?",
+        "options": [
+          "Prowadzi do powstawania wielkich rozlewisk.",
+          "Wymaga ogromnych ilości wody do chłodzenia.",
+          "Zwiększa naturalne zasolenie wód podziemnych.",
+          "Powoduje zarastanie koryt rzecznych florą."
+        ],
+        "answer": "B",
+        "explanation": "Elektrownie cieplne charakteryzują się bardzo wysoką wodochłonnością, ponieważ woda jest w nich niezbędnym elementem procesów produkcyjnych, głównie jako środek chłodzący."
+      },
+      {
+        "question": "Jakie są bezpośrednie biologiczne konsekwencje nadmiernej eutrofizacji zbiorników wodnych?",
+        "options": [
+          "Spadek przejrzystości i masowy zakwit glonów.",
+          "Gwałtowny wzrost populacji ryb drapieżnych.",
+          "Całkowity zanik procesów gnilnych na dnie.",
+          "Zwiększenie zawartości tlenu w toni wodnej."
+        ],
+        "answer": "A",
+        "explanation": "Nadmiar azotu i fosforu prowadzi do bujnego rozwoju glonów, co skutkuje zmniejszeniem ilości tlenu w wodzie i stwarza zagrożenie dla wielu organizmów wodnych."
+      },
+      {
+        "question": "Jaki negatywny skutek dla rolnictwa w Egipcie wywołała budowa Wysokiej Tamy na Nilu w pobliżu Asuanu?",
+        "options": [
+          "Całkowite wstrzymanie dopływu wód do delty Nilu.",
+          "Zatrzymanie żyznych namułów i jałowienie gleb.",
+          "Gwałtowne i niekontrolowane powodzie wiosenne.",
+          "Znaczne oziębienie klimatu w całej dolinie rzeki."
+        ],
+        "answer": "B",
+        "explanation": "Brak naturalnych wylewów rzeki spowodował niemożność użyźniania terenów rolniczych namułami rzecznymi, co wymusiło stosowanie nawozów sztucznych i przyspieszyło jałowienie ziemi."
+      },
+      {
+        "question": "Na czym polega proekologiczny system obiegu zamkniętego wody stosowany w nowoczesnym przemyśle?",
+        "options": [
+          "Na pobieraniu wody wyłącznie z naturalnych opadów.",
+          "Na wielokrotnym wykorzystaniu wody w tej fabryce.",
+          "Na zrzucaniu nieoczyszczonych ścieków do rzek.",
+          "Na całkowitym zastąpieniu wody płynami nowymi."
+        ],
+        "answer": "B",
+        "explanation": "Zastosowanie systemów obiegu zamkniętego drastycznie zmniejsza zapotrzebowanie zakładów na czystą wodę oraz minimalizuje ilość odprowadzanych zanieczyszczonych ścieków."
+      },
+      {
+        "question": "Czym może skutkować niewłaściwie przeprowadzony zabieg melioracyjny polegający na nadmiernym odwadnianiu?",
+        "options": [
+          "Znacznym obniżeniem wód gruntowych i erozją gleb.",
+          "Katastrofalnym podniesieniem temperatury jezior.",
+          "Trwałym usunięciem metali ciężkich z wód rzek.",
+          "Powstawaniem lodowców na obszarach umiarkowanych."
+        ],
+        "answer": "A",
+        "explanation": "Źle zaplanowane odwadnianie terenów obniża zwierciadło wód podziemnych, co w konsekwencji prowadzi do przesuszenia obszarów rolniczych i przyspiesza erozję gleby."
+      },
+      {
+        "question": "Dlaczego masowa turystyka stanowi szczególne zagrożenie dla hydrosfery na wyspach i w suchym klimacie?",
+        "options": [
+          "Generuje hałas odstraszający lokalne gatunki ryb.",
+          "Pochłania ogromne ilości ograniczonych zasobów wody.",
+          "Promuje wyłącznie sporty motorowodne na jeziorach.",
+          "Całkowicie hamuje rozwój lokalnych portów morskich."
+        ],
+        "answer": "B",
+        "explanation": "Utrzymanie infrastruktury hotelowej, basenów czy pól golfowych wymaga ogromnych nakładów słodkiej wody, która na obszarach o niewielkich opadach jest towarem deficytowym."
+      },
+      {
+        "question": "Jakie zjawisko hydrologiczne jest bezpośrednim efektem ciągłego odwadniania kopalń odkrywkowych?",
+        "options": [
+          "Formowanie się rozległych i płytkich mokradeł.",
+          "Powstawanie głębokiego leja depresyjnego wokół.",
+          "Zwiększenie częstotliwości występowania opadów.",
+          "Samoczynne oczyszczanie się lokalnych strumieni."
+        ],
+        "answer": "B",
+        "explanation": "Wypompowywanie wody z wyrobisk prowadzi do znacznego obniżenia zwierciadła wód podziemnych, tworząc lej depresyjny, który osusza okoliczne studnie i strumienie."
+      },
+      {
+        "question": "Jaki mierzalny w skali planetarnej skutek wywołało zgromadzenie ogromnej masy wody za Zaporą Trzech Przełomów?",
+        "options": [
+          "Odwrócenie biegów głównych prądów na Pacyfiku.",
+          "Spowolnienie rotacji Ziemi i wydłużenie doby.",
+          "Gwałtowne podniesienie średniego poziomu oceanów.",
+          "Przebiegunowanie pola magnetycznego półkuli."
+        ],
+        "answer": "B",
+        "explanation": "Koncentracja gigantycznej masy wody w jednym punkcie sztucznego zbiornika wpłynęła na dystrybucję masy na planecie, co według naukowców z NASA spowolniło nieznacznie ruch obrotowy Ziemi."
+      },
+      {
+        "question": "Jakie systemowe zagrożenie niesie ze sobą budowa zapory Gilgel Gibe III na rzece Omo w Etiopii?",
+        "options": [
+          "Całkowite wstrzymanie prądów morskich u wybrzeży.",
+          "Ryzyko wyschnięcia bezodpływowego jeziora Turkana.",
+          "Skażenie wód substancjami promieniotwórczymi.",
+          "Nieodwracalne zasolenie gleb w północnej Afryce."
+        ],
+        "answer": "B",
+        "explanation": "Zapora na rzece Omo drastycznie ogranicza dopływ słodkiej wody do jeziora Turkana, któremu z tego powodu grozi los wysychającego Jeziora Aralskiego lub Czad."
+      },
+      {
+        "question": "Jakie poważne zagrożenie dla jakości wód występuje po całkowitym zaprzestaniu wydobycia w kopalniach głębinowych?",
+        "options": [
+          "Szybkie przyspieszenie samooczyszczania się rzek.",
+          "Samoczynny wypływ skażonych wód z dawnych sztolni.",
+          "Permanentne zablokowanie krążenia wód w dorzeczu.",
+          "Trwałe i nieodwracalne ocieplenie lokalnych mórz."
+        ],
+        "answer": "B",
+        "explanation": "Zaprzestanie odpompowywania wód z nieczynnych kopalń skutkuje ich zatapianiem, co prowadzi do niekontrolowanego wypływu roztworów o pogorszonym stanie chemicznym na powierzchnię."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Rolnictwo zużywa wodę głównie do chłodzenia systemów i jako nośnik energii, podczas gdy przemysł wykorzystuje ją do nawadniania gruntów i zraszania upraw.",
+        "answer": false,
+        "explanation": "W rolnictwie woda jest wykorzystywana do nawadniania i zraszania upraw oraz w chowie zwierząt, natomiast do chłodzenia systemów i jako nośnik energii służy w przemyśle."
+      },
+      {
+        "sentence": "Nadmierna eutrofizacja wód to pożądany proces polegający na natlenianiu zbiorników wodnych w wyniku celowego wprowadzania związków azotu i fosforu.",
+        "answer": false,
+        "explanation": "Eutrofizacja to negatywne zjawisko przeżyźnienia wód nadmiarem związków azotu i fosforu, co prowadzi do zakwitu glonów i zmniejszenia ilości tlenu w wodzie."
+      },
+      {
+        "sentence": "Budowa Tamy Trzech Przełomów przyniosła wyłącznie korzyści gospodarcze, takie jak ograniczenie zużycia węgla i poprawa warunków żeglugowych, nie powodując żadnych negatywnych zmian w środowisku.",
+        "answer": false,
+        "explanation": "Budowa tamy wiązała się z przymusowym przesiedleniem ponad 1,26 mln osób, zatopieniem wielu miast, wsi i stanowisk archeologicznych oraz zaburzeniem lokalnych ekosystemów i wzrostem aktywności sejsmicznej."
+      },
+      {
+        "sentence": "Głębokie wody podziemne są w znacznie mniejszym stopniu narażone na zanieczyszczenia antropogeniczne niż wody rzek, jezior, mórz oraz wody zaskórne.",
+        "answer": true,
+        "explanation": "Najbardziej podatne na zanieczyszczenia są wody zgromadzone w rzekach i jeziorach, wody mórz i oceanów oraz płytko zalegające wody zaskórne, natomiast głębiej położone wody podziemne są przed nimi w znacznie mniejszym stopniu narażone."
+      },
+      {
+        "sentence": "Wzniesienie Wysokiej Tamy na Nilu wyeliminowało konieczność stosowania nawozów sztucznych w egipskim rolnictwie, ponieważ wezbrania rzeki naturalnie i regularnie użyźniają glebę.",
+        "answer": false,
+        "explanation": "Budowa tamy powstrzymała naturalne wylewy rzeki niosące żyzne namuły, co wymusiło zwiększone zużycie nawozów sztucznych i przyczyniło się do większego zanieczyszczenia środowiska."
+      },
+      {
+        "sentence": "Jedyną przyczyną drastycznego kurczenia się jeziora Czad na przestrzeni ostatnich 50 lat jest globalne ocieplenie klimatu w strefie Sahelu.",
+        "answer": false,
+        "explanation": "Kluczowym czynnikiem przyspieszającym wysychanie jeziora była budowa sieci kanałów nawadniających, co spowodowało wielokrotny wzrost poboru wody do celów rolniczych, występując równolegle ze zmianami klimatycznymi."
+      },
+      {
+        "sentence": "Regulacja rzek prowadzi do wydłużenia ich biegu oraz spowolnienia przepływu wody, co sprzyja zachowaniu naturalnych stosunków wodnych.",
+        "answer": false,
+        "explanation": "Regulacja rzek powoduje skracanie ich biegu oraz zwężanie lub pogłębianie koryta, co w efekcie prowadzi do większego spadku rzeki i szybszego przepływu wody."
+      }
+    ]
+  }
+}

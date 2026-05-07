@@ -1,0 +1,371 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz3-t2",
+                     "unit":  "III",
+                     "title":  "Temperatura powietrza",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Promieniowanie bezpośrednie",
+                                              "definition":  "Strumień energii słonecznej docierający do powierzchni Ziemi bez zmiany kierunku, dominujący przy bezchmurnym niebie."
+                                          },
+                                          {
+                                              "term":  "Promieniowanie rozproszone",
+                                              "definition":  "Światło słoneczne, które zmieniło kierunek na cząsteczkach atmosfery lub chmurach; jest jedynym rodzajem promieniowania docierającym do Ziemi, gdy Słońce znajduje się za chmurami."
+                                          },
+                                          {
+                                              "term":  "Główne źródło ciepła dla atmosfery",
+                                              "definition":  "Promieniowanie cieplne (długofalowe) emitowane przez nagrzaną powierzchnię Ziemi, a nie bezpośrednie promienie słoneczne przechodzące przez atmosferę."
+                                          },
+                                          {
+                                              "term":  "Albedo",
+                                              "definition":  "Stosunek ilości promieniowania odbitego od danej powierzchni do ilości promieniowania padającego na nią."
+                                          },
+                                          {
+                                              "term":  "Powierzchnia o wysokim albedo",
+                                              "definition":  "Świeży śnieg, który odbija od 75% do 95% promieniowania słonecznego, co sprawia, że podłoże słabo się nagrzewa."
+                                          },
+                                          {
+                                              "term":  "Powierzchnia o niskim albedo",
+                                              "definition":  "Ciemne powierzchnie, np. droga asfaltowa (5–10%), które silnie pochłaniają promieniowanie i mocno się nagrzewają."
+                                          },
+                                          {
+                                              "term":  "Gradient wilgotnoadiabatyczny (średni)",
+                                              "definition":  "Średnia wartość spadku temperatury powietrza w troposferze wynosząca około 0,6°C na każde 100 m wzrostu wysokości."
+                                          },
+                                          {
+                                              "term":  "Inwersja temperatury",
+                                              "definition":  "Anomalia termiczna w troposferze polegająca na wzroście temperatury powietrza wraz z wysokością, zamiast jej spadku."
+                                          },
+                                          {
+                                              "term":  "Izoterma",
+                                              "definition":  "Linia na mapie łącząca punkty o jednakowej wartości temperatury powietrza."
+                                          },
+                                          {
+                                              "term":  "Amplituda temperatury powietrza",
+                                              "definition":  "Różnica między maksymalną a minimalną wartością temperatury zanotowaną w danym okresie (np. w ciągu doby lub roku)."
+                                          },
+                                          {
+                                              "term":  "Średnia dobowa temperatura powietrza",
+                                              "definition":  "Średnia arytmetyczna czterech wartości pomiarowych z doby: temperatury maksymalnej, minimalnej oraz zmierzonej o godzinie 7.00 i 19.00."
+                                          },
+                                          {
+                                              "term":  "Kontynentalizm termiczny",
+                                              "definition":  "Cecha klimatu obszarów oddalonych od oceanów, charakteryzująca się dużymi rocznymi amplitudami temperatury (upalne lata, mroźne zimy) z powodu szybkiego nagrzewania i wychładzania lądu."
+                                          },
+                                          {
+                                              "term":  "Oceanizm termiczny",
+                                              "definition":  "Wpływ dużych zbiorników wodnych na klimat, objawiający się mniejszymi amplitudami temperatury (chłodniejsze lato, cieplejsza zima) z powodu wolniejszego oddawania ciepła przez wodę."
+                                          },
+                                          {
+                                              "term":  "Wpływ zachmurzenia na dobową amplitudę",
+                                              "definition":  "Brak chmur zwiększa amplitudę (szybkie nagrzewanie w dzień i wychładzanie w nocy), natomiast zachmurzenie ją zmniejsza, ograniczając dopływ słońca w dzień i utratę ciepła w nocy."
+                                          },
+                                          {
+                                              "term":  "Termiczne skutki ekspozycji stoku",
+                                              "definition":  "Na półkuli północnej stoki o ekspozycji południowej są cieplejsze (dłuższe nasłonecznienie, większy kąt padania promieni) niż stoki północne."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Ciepły prąd morski",
+                                                 "pair2":  "Podwyższenie temperatury powietrza i wzrost sumy opadów na wybrzeżu."
+                                             },
+                                             {
+                                                 "pair1":  "Zimny prąd morski",
+                                                 "pair2":  "Obniżenie temperatury powietrza i zmniejszenie sumy opadów na wybrzeżu."
+                                             },
+                                             {
+                                                 "pair1":  "Świeży śnieg",
+                                                 "pair2":  "Wysokie albedo (75–95%) – silne odbijanie światła"
+                                             },
+                                             {
+                                                 "pair1":  "Droga asfaltowa",
+                                                 "pair2":  "Niskie albedo (5–10%) – silne pochłanianie ciepła"
+                                             },
+                                             {
+                                                 "pair1":  "Strefa równikowa (wpływ na amplitudę)",
+                                                 "pair2":  "Najmniejsza roczna amplituda temperatury (wyrównany dopływ energii)"
+                                             },
+                                             {
+                                                 "pair1":  "Wzrost wysokości n.p.m.",
+                                                 "pair2":  "Spadek temperatury powietrza (średnio 0,6°C na 100 m)."
+                                             },
+                                             {
+                                                 "pair1":  "Inwersja temperatury",
+                                                 "pair2":  "Zjawisko występowania wyższej temperatury w wyższych warstwach niż w niższych"
+                                             },
+                                             {
+                                                 "pair1":  "Średnia roczna temperatura powietrza",
+                                                 "pair2":  "Średnia arytmetyczna wartości średnich miesięcznych ze wszystkich miesięcy roku"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Co stanowi główne źródło energii cieplnej ogrzewającej powietrze atmosferyczne (troposferę)?",
+                                      "options":  [
+                                                      "Promieniowanie długofalowe emitowane przez nagrzaną powierzchnię Ziemi",
+                                                      "Promieniowanie bezpośrednie docierające prosto ze Słońca i przenikające przez warstwy atmosfery bez przeszkód.",
+                                                      "Ciepło pochodzące z wnętrza Ziemi (geotermalne)",
+                                                      "Promieniowanie rozproszone przez chmury w górnych warstwach"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Głównym źródłem energii cieplnej dla atmosfery jest promieniowanie cieplne emitowane przez nagrzaną powierzchnię Ziemi, a nie bezpośrednie promienie słoneczne."
+                                  },
+                                  {
+                                      "question":  "Który rodzaj promieniowania słonecznego dociera do powierzchni Ziemi w pochmurny dzień, gdy Słońce jest niewidoczne?",
+                                      "options":  [
+                                                      "Wyłącznie promieniowanie rozproszone",
+                                                      "Wyłącznie promieniowanie bezpośrednie",
+                                                      "Zarówno promieniowanie bezpośrednie, jak i rozproszone",
+                                                      "Żadne promieniowanie nie dociera do powierzchni"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gdy Słońce znajduje się za chmurami, do powierzchni Ziemi dociera jedynie promieniowanie rozproszone."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych powierzchni charakteryzuje się najwyższym albedo, czyli najsilniej odbija promieniowanie słoneczne?",
+                                      "options":  [
+                                                      "Świeży śnieg",
+                                                      "Droga asfaltowa",
+                                                      "Las iglasty",
+                                                      "Zaorana gleba"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Świeży śnieg ma bardzo wysokie albedo wynoszące 75–95%, co oznacza, że odbija większość promieniowania."
+                                  },
+                                  {
+                                      "question":  "Turysta wyrusza ze schroniska na wysokości 1000 m n.p.m., gdzie temperatura wynosi 14°C. Wchodzi na szczyt położony na wysokości 2000 m n.p.m. Zakładając średni gradient wilgotnoadiabatyczny (0,6°C/100m), jaka temperatura panuje na szczycie?",
+                                      "options":  [
+                                                      "8°C",
+                                                      "20°C",
+                                                      "4°C",
+                                                      "10°C"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Różnica wysokości wynosi 1000 m (10 jednostek po 100 m). Spadek temperatury: 10 * 0,6°C = 6°C. Temperatura na szczycie: 14°C - 6°C = 8°C."
+                                  },
+                                  {
+                                      "question":  "Jak oblicza się średnią dobową temperaturę powietrza według standardu opisanego w podręczniku?",
+                                      "options":  [
+                                                      "Średnia z temp. maksymalnej, minimalnej oraz z godz. 7.00 i 19.00",
+                                                      "Średnia z temperatury zmierzonej o każdej pełnej godzinie doby",
+                                                      "Średnia arytmetyczna temperatury maksymalnej i minimalnej",
+                                                      "Średnia z pomiarów dokonanych o godzinie 8.00, 12.00 i 20.00"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jest to średnia arytmetyczna czterech wartości: maksymalnej, minimalnej oraz zmierzonej o 7.00 i 19.00."
+                                  },
+                                  {
+                                      "question":  "Dlaczego najwyższe średnie roczne temperatury powietrza notuje się w pobliżu zwrotników, a nie na równiku?",
+                                      "options":  [
+                                                      "W okolicach zwrotników niebo jest bezchmurne, co zwiększa dopływ promieniowania",
+                                                      "Na równiku kąt padania promieni słonecznych jest zawsze najmniejszy ze wszystkich stref oświetlenia Ziemi.",
+                                                      "Prądy morskie wokół równika są zawsze zimne i chłodzą powietrze",
+                                                      "Dzień na równiku jest znacznie krótszy niż w strefie zwrotnikowej przez cały rok"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Cyrkulacja atmosferyczna sprawia, że wokół zwrotników niebo jest bezchmurne, więc dociera tam więcej promieniowania bezpośredniego niż na zachmurzonym równiku."
+                                  },
+                                  {
+                                      "question":  "Samolot startuje z lotniska położonego na poziomie morza (0 m n.p.m.), gdzie temperatura wynosi 24°C. Wznosi się na wysokość 3000 m n.p.m. Jaka jest przewidywana temperatura otoczenia na tej wysokości (gradient 0,6°C/100m)?",
+                                      "options":  [
+                                                      "6°C",
+                                                      "42°C",
+                                                      "-6°C",
+                                                      "18°C"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Różnica wysokości: 3000 m (30 setek). Spadek temperatury: 30 * 0,6°C = 18°C. Temperatura docelowa: 24°C - 18°C = 6°C."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko opisuje sytuację, w której temperatura powietrza w górach jest wyższa niż w dolinach?",
+                                      "options":  [
+                                                      "Inwersja temperatury",
+                                                      "Konwekcja termiczna",
+                                                      "Gradient adiabatyczny",
+                                                      "Efekt cieplarniany"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Inwersja to anomalia polegająca na wzroście temperatury wraz z wysokością; występuje np. gdy zimne powietrze zalega w dolinach."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na klimat wybrzeża ma przepływający w pobliżu zimny prąd morski?",
+                                      "options":  [
+                                                      "Obniżenie temperatury powietrza i zmniejszenie sumy opadów",
+                                                      "Podwyższenie temperatury powietrza i wzrost sumy opadów",
+                                                      "Obniżenie temperatury powietrza przy jednoczesnym wzroście opadów",
+                                                      "Podwyższenie temperatury powietrza i zmniejszenie sumy opadów"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Zimne prądy morskie wpływają na obniżenie temperatury powietrza oraz zmniejszenie opadów (np. pustynia Namib)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na półkuli północnej stoki górskie o ekspozycji południowej są cieplejsze niż stoki północne?",
+                                      "options":  [
+                                                      "Promienie słoneczne padają na nie pod większym kątem i dłużej je oświetlają",
+                                                      "Są one całkowicie osłonięte od chłodnych, mroźnych mas powietrza napływających znad obszarów polarnych.",
+                                                      "Występuje tam częstsze zjawisko inwersji temperatury",
+                                                      "Mają niższe albedo ze względu na gęstszą roślinność"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ekspozycja stoków wpływa na kąt padania promieni i czas nasłonecznienia; na półkuli północnej stoki południowe są bardziej uprzywilejowane."
+                                  },
+                                  {
+                                      "question":  "Wspinacz znajduje się na wysokości 2500 m n.p.m., gdzie termometr wskazuje 5°C. Jaka temperatura panuje w tym samym czasie w dolinie na wysokości 500 m n.p.m. (gradient 0,6°C/100m)?",
+                                      "options":  [
+                                                      "17°C",
+                                                      "-7°C",
+                                                      "12°C",
+                                                      "25°C"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Różnica wysokości: 2000 m. Zmiana temp: 20 * 0,6°C = 12°C. Schodząc w dół, temperatura rośnie: 5°C + 12°C = 17°C."
+                                  },
+                                  {
+                                      "question":  "Jak zachmurzenie wpływa na dobową amplitudę temperatury powietrza?",
+                                      "options":  [
+                                                      "Zmniejsza ją – ogranicza nagrzewanie w dzień i wypromieniowanie ciepła w nocy",
+                                                      "Zwiększa ją – chmury soczewkują promienie słoneczne w dzień",
+                                                      "Zwiększa ją – nocą chmury powodują gwałtowne ochłodzenie gruntu",
+                                                      "Nie ma wpływu – amplituda zależy tylko od szerokości geograficznej"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Chmury ograniczają dopływ słońca w dzień (chłodniej) i zatrzymują ciepło w nocy (cieplej), co zmniejsza amplitudę."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się klimat obszarów położonych w głębi dużego kontynentu (kontynentalizm termiczny)?",
+                                      "options":  [
+                                                      "Dużą roczną amplitudą temperatury (upalne lata, mroźne zimy)",
+                                                      "Małą roczną amplitudą temperatury i łagodnymi zimami",
+                                                      "Wysokimi opadami rozłożonymi równomiernie w ciągu roku",
+                                                      "Stałą temperaturą w ciągu roku dzięki bezwładności cieplnej lądu"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ląd szybko się nagrzewa i wychładza, co w oddaleniu od oceanów skutkuje dużymi amplitudami (kontynentalizm)."
+                                  },
+                                  {
+                                      "question":  "Kiedy w ciągu doby zazwyczaj notuje się najwyższą temperaturę powietrza?",
+                                      "options":  [
+                                                      "Około 1–2 godziny po górowaniu Słońca",
+                                                      "Dokładnie w momencie górowania Słońca (południe słoneczne)",
+                                                      "Tuż przed zachodem Słońca",
+                                                      "Około godziny 10:00 rano"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Maksimum temperatury osiągane jest ok. 1–2 godzin po górowaniu Słońca, po nagrzaniu się podłoża i oddaniu ciepła atmosferze."
+                                  },
+                                  {
+                                      "question":  "W stacji A (nizina) średnia temperatura stycznia to -2°C, a lipca 18°C. W stacji B (równina w głębi lądu) styczeń to -15°C, a lipiec 25°C. Co można stwierdzić o tych stacjach?",
+                                      "options":  [
+                                                      "Stacja B ma cechy klimatu bardziej kontynentalnego",
+                                                      "Stacja A leży znacznie wyżej nad poziomem morza",
+                                                      "Stacja B znajduje się pod silnym wpływem oceanu",
+                                                      "Stacja A ma wyższą roczną amplitudę temperatury"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Większa amplituda (gorętsze lato, mroźniejsza zima) w stacji B (40°C różnicy vs 20°C w A) wskazuje na kontynentalizm."
+                                  },
+                                  {
+                                      "question":  "Dlaczego najniższą temperaturę na Ziemi (-89,2°C) zanotowano na stacji Wostok na Antarktydzie?",
+                                      "options":  [
+                                                      "Wpływ wysokości n.p.m., lądolodu i nocy polarnej",
+                                                      "Położenie w depresji, gdzie spływa zimne powietrze",
+                                                      "Bardzo wilgotne powietrze, które szybko traci ciepło",
+                                                      "Sąsiedztwo ciepłych prądów morskich wywołujących inwersję"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Stacja leży wysoko (3488 m n.p.m.), powietrze było suche, trwała noc polarna, a podłoże stanowił lądolód."
+                                  },
+                                  {
+                                      "question":  "Jaka jest przybliżona wartość spadku temperatury powietrza w troposferze (gradient wilgotnoadiabatyczny)?",
+                                      "options":  [
+                                                      "0,6°C na każde 100 m",
+                                                      "1,0°C na każde 1000 m",
+                                                      "2,5°C na każde 100 m",
+                                                      "6,0°C na każde 1000 m (tylko w nocy)"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Średni gradient wilgotnoadiabatyczny wynosi około 0,6°C na każde 100 m wzrostu wysokości."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych czynników najbardziej przyczynia się do występowania tzw. miejskiej wyspy ciepła?",
+                                      "options":  [
+                                                      "Przewaga betonu i asfaltu, które szybko gromadzą ciepło",
+                                                      "Obecność dużej liczby parków i terenów zielonych",
+                                                      "Zwiększona prędkość wiatru w kanałach ulicznych",
+                                                      "Białe dachy budynków odbijające promieniowanie"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Betonowa zabudowa i asfalt (niskie albedo) szybko akumulują energię i oddają ją w nocy, podnosząc temperaturę w mieście."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Głównym bezpośrednim źródłem ciepła ogrzewającym troposferę jest promieniowanie słoneczne przenikające przez atmosferę.",
+                                           "answer":  false,
+                                           "explanation":  "Głównym źródłem ciepła dla troposfery jest energia oddawana przez nagrzaną powierzchnię Ziemi (promieniowanie długofalowe), a nie bezpośrednie promienie słoneczne."
+                                       },
+                                       {
+                                           "sentence":  "W pochmurny dzień do powierzchni Ziemi nie dociera żadne promieniowanie słoneczne.",
+                                           "answer":  false,
+                                           "explanation":  "Gdy Słońce jest za chmurami, do powierzchni dociera promieniowanie rozproszone."
+                                       },
+                                       {
+                                           "sentence":  "Świeży śnieg posiada bardzo niskie albedo, dlatego powierzchnia nim pokryta szybko się nagrzewa.",
+                                           "answer":  false,
+                                           "explanation":  "Świeży śnieg ma bardzo wysokie albedo (75–95%), co sprawia, że odbija większość promieniowania i słabo się nagrzewa."
+                                       },
+                                       {
+                                           "sentence":  "Najwyższa temperatura powietrza w ciągu doby występuje dokładnie w momencie górowania Słońca (w południe słoneczne).",
+                                           "answer":  false,
+                                           "explanation":  "Maksimum temperatury notuje się zazwyczaj około 1–2 godzin po górowaniu Słońca, z powodu bezwładności cieplnej gruntu."
+                                       },
+                                       {
+                                           "sentence":  "Gradient wilgotnoadiabatyczny opisuje wzrost temperatury powietrza o 0,6°C na każde 100 m wysokości.",
+                                           "answer":  false,
+                                           "explanation":  "Gradient ten opisuje spadek (a nie wzrost) temperatury powietrza wraz z wysokością (średnio o 0,6°C na 100 m)."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko inwersji temperatury polega na gwałtownym spadku temperatury powietrza wraz ze wzrostem wysokości.",
+                                           "answer":  false,
+                                           "explanation":  "Inwersja to anomalia polegająca na wzroście temperatury powietrza wraz z wysokością (wyżej jest cieplej niż niżej)."
+                                       },
+                                       {
+                                           "sentence":  "Najwyższe średnie roczne wartości temperatury powietrza na Ziemi notowane są w strefie równikowej.",
+                                           "answer":  false,
+                                           "explanation":  "Najwyższe temperatury występują w pobliżu zwrotników, gdzie niebo jest bezchmurne, w przeciwieństwie do zachmurzonych okolic równika."
+                                       },
+                                       {
+                                           "sentence":  "Lądy nagrzewają się i oddają ciepło wolniej niż oceany, co stabilizuje temperaturę na kontynentach.",
+                                           "answer":  false,
+                                           "explanation":  "Ląd nagrzewa się i wychładza znacznie szybciej niż woda, co prowadzi do większych amplitud temperatury."
+                                       },
+                                       {
+                                           "sentence":  "Zachmurzenie nieba w ciągu dnia sprzyja występowaniu wysokiej dobowej amplitudy temperatury.",
+                                           "answer":  false,
+                                           "explanation":  "Chmury zmniejszają amplitudę: w dzień ograniczają nagrzewanie (jest chłodniej), a w nocy zatrzymują ciepło Ziemi (jest cieplej)."
+                                       },
+                                       {
+                                           "sentence":  "Na półkuli północnej stoki górskie o ekspozycji północnej są cieplejsze od stoków o ekspozycji południowej.",
+                                           "answer":  false,
+                                           "explanation":  "Na półkuli północnej to stoki południowe są cieplejsze, ponieważ promienie słoneczne padają na nie pod większym kątem."
+                                       },
+                                       {
+                                           "sentence":  "Zimne prądy morskie przyczyniają się do wzrostu temperatury powietrza i zwiększenia sumy opadów na wybrzeżu.",
+                                           "answer":  false,
+                                           "explanation":  "Zimne prądy morskie obniżają temperaturę powietrza i zmniejszają opady (np. pustynia Namib)."
+                                       },
+                                       {
+                                           "sentence":  "Obszary położone w głębi lądu charakteryzują się mniejszą roczną amplitudą temperatury niż obszary nadmorskie.",
+                                           "answer":  false,
+                                           "explanation":  "Obszary w głębi lądu mają znacznie większą roczną amplitudę temperatury (kontynentalizm) z powodu braku łagodzącego wpływu oceanu."
+                                       }
+                                   ]
+                 }
+}

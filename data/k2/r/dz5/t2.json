@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t2",
+    "title": "Przemysł tradycyjny i przemysł zaawansowanych technologii",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Przemysł tradycyjny",
+        "definition": "Sektor przemysłu opierający się na stosunkowo mało zaawansowanym przetwórstwie surowców, wytwarzający dobra konsumpcyjne i produkcyjne."
+      },
+      {
+        "term": "Przemysł zaawansowanych technologii (high-tech)",
+        "definition": "Dział przemysłu wykorzystujący najnowsze osiągnięcia naukowe i technologiczne z takich dziedzin jak biotechnologia, nanotechnologia czy technologia informacyjna."
+      },
+      {
+        "term": "Przykłady działów przemysłu tradycyjnego",
+        "definition": "Górnictwo i wydobywanie, produkcja artykułów spożywczych, wyrobów tekstylnych, odzieży, drewna, mebli, papieru, metali oraz maszyn i urządzeń."
+      },
+      {
+        "term": "Przykłady działów przemysłu high-tech",
+        "definition": "Produkcja substancji farmaceutycznych, komputerów, wyrobów elektronicznych i optycznych, instrumentów medycznych oraz statków powietrznych i kosmicznych."
+      },
+      {
+        "term": "Kapitał ludzki w przemyśle high-tech",
+        "definition": "Odgrywa bardzo dużą rolę; wymaga wykształcenia, innowacyjności i kompetencji do projektowania nowoczesnych urządzeń oraz opracowywania nowych technologii."
+      },
+      {
+        "term": "Nakłady kapitałowe (porównanie)",
+        "definition": "W przemyśle tradycyjnym są duże na budowę i wyposażenie zakładów, a w przemyśle high-tech duże nakłady przeznacza się głównie na badania i rozwój."
+      },
+      {
+        "term": "Cykl życia produktu",
+        "definition": "Okres obecności produktu na rynku. W przemyśle tradycyjnym jest długi (od kilkunastu do 30 lat), a w przemyśle high-tech krótki (od 2 do 7 lat)."
+      },
+      {
+        "term": "Czynniki lokalizacji przemysłu tradycyjnego",
+        "definition": "Baza surowcowa, dostęp do wody, odległość od rynku zbytu, zasoby pracy, baza energetyczna oraz rozwinięta infrastruktura techniczna."
+      },
+      {
+        "term": "Czynniki lokalizacji przemysłu high-tech (faza innowacji)",
+        "definition": "Kapitał finansowy, zaplecze naukowo-badawcze, wysoce wykwalifikowani pracownicy oraz czynniki ekologiczne."
+      },
+      {
+        "term": "Czynniki lokalizacji przemysłu high-tech (faza produkcji masowej)",
+        "definition": "Głównym czynnikiem decydującym o lokalizacji zakładów w tej fazie są niskie koszty siły roboczej."
+      },
+      {
+        "term": "Uciążliwość dla środowiska przyrodniczego",
+        "definition": "Zwykle duża w przypadku przemysłu tradycyjnego i bardzo mała w działach przemysłu zaawansowanych technologii."
+      },
+      {
+        "term": "Efekty mnożnikowe",
+        "definition": "Pozytywne zmiany w innych działach przemysłu i sektorach gospodarki (np. rozwój usług, edukacji) wywoływane przez rozwój przemysłu zaawansowanych technologii."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Górnictwo, produkcja wyrobów tekstylnych, hutnictwo metali i przemysł meblarski",
+        "pair2": "Przemysł tradycyjny"
+      },
+      {
+        "pair1": "Produkcja leków, komputerów, światłowodów i statków kosmicznych",
+        "pair2": "Przemysł zaawansowanych technologii (high-tech)"
+      },
+      {
+        "pair1": "Wysoka wydajność pracy, wysoka rentowność, krótki czas zwrotu z inwestycji i duży odsetek pracowników umysłowych",
+        "pair2": "Cechy przemysłu zaawansowanych technologii"
+      },
+      {
+        "pair1": "Wysoka materiałochłonność i energochłonność, niska rentowność oraz duża uciążliwość dla środowiska",
+        "pair2": "Cechy przemysłu tradycyjnego"
+      },
+      {
+        "pair1": "Główne czynniki lokalizacji: wielkość i bliskość bazy surowcowej, infrastruktura techniczna oraz rynek zbytu",
+        "pair2": "Lokalizacja przemysłu tradycyjnego"
+      },
+      {
+        "pair1": "Główne czynniki lokalizacji: bliskość zaplecza naukowo-badawczego, kapitał ludzki i infrastruktura telekomunikacyjna",
+        "pair2": "Lokalizacja przemysłu high-tech"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Który z poniższych działów zaliczany jest do przemysłu tradycyjnego?",
+        "options": [
+          "Produkcja wyrobów z drewna oraz różnego rodzaju mebli domowych.",
+          "Konstruowanie zaawansowanych statków powietrznych i kosmicznych.",
+          "Wytwarzanie wysoce specjalistycznych substancji farmaceutycznych.",
+          "Montaż skomplikowanych instrumentów optycznych i elektronicznych."
+        ],
+        "answer": "A",
+        "explanation": "Przemysł tradycyjny obejmuje działalność opartą na mało zaawansowanym przetwórstwie surowców, taką jak produkcja artykułów spożywczych, tekstylnych, wyrobów z drewna, mebli czy papieru. Pozostałe opcje to przykłady przemysłu zaawansowanych technologii (high-tech)."
+      },
+      {
+        "question": "Czym charakteryzuje się przemysł zaawansowanych technologii?",
+        "options": [
+          "Dużym udziałem masowych pracowników fizycznych w strukturze pracy.",
+          "Krótkim okresem obecności gotowego innowacyjnego produktu na rynku.",
+          "Bardzo niską rentownością oraz wieloletnim czasem zwrotu nakładów.",
+          "Zawsze wysoką materiałochłonnością i dużą uciążliwością dla natury."
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z tabelą porównawczą, cykl życia produktu (okres obecności na rynku) w przemyśle high-tech jest bardzo krótki i wynosi od 2 do 7 lat, podczas gdy w przemyśle tradycyjnym może sięgać nawet 30 lat."
+      },
+      {
+        "question": "Który dział reprezentuje przemysł zaawansowanych technologii?",
+        "options": [
+          "Górnictwo oraz intensywne wydobywanie surowców energetycznych.",
+          "Masowa produkcja cementu oraz podstawowych materiałów ściennych.",
+          "Wytwarzanie standardowych wyrobów tekstylnych i prostej odzieży.",
+          "Produkcja zaawansowanych komputerów oraz instrumentów optycznych."
+        ],
+        "answer": "D",
+        "explanation": "Przemysł zaawansowanych technologii wykorzystuje najnowsze osiągnięcia naukowe m.in. w technologii informacyjnej. Do jego działów należy produkcja komputerów, instrumentów medycznych, optycznych i elektroniki. Cement, odzież i górnictwo to działy tradycyjne."
+      },
+      {
+        "question": "Co jest podstawą funkcjonowania przemysłu tradycyjnego?",
+        "options": [
+          "Stałe i masowe zatrudnianie badaczy z tytułami uniwersyteckimi.",
+          "Stosunkowo mało zaawansowane masowe przetwórstwo surowców Ziemi.",
+          "Oparcie całej produkcji na najnowszych odkryciach biotechnologii.",
+          "Ciągłe wydawanie ogromnych funduszy na prace badawczo-rozwojowe."
+        ],
+        "answer": "B",
+        "explanation": "Przemysł tradycyjny opiera się na stosunkowo mało zaawansowanym przetwórstwie surowców, produkując dobra konsumpcyjne i produkcyjne bez konieczności angażowania przełomowych osiągnięć nanotechnologii czy biotechnologii."
+      },
+      {
+        "question": "Jaka jest różnica w cyklu życia produktu między opisywanymi przemysłami?",
+        "options": [
+          "Tradycyjny ma krótki, a high-tech wyjątkowo długi cykl rynkowy.",
+          "Tradycyjny ma długi, a high-tech znacznie krótszy cykl obecności.",
+          "Cykl życia w obu omawianych przypadkach wynosi dokładnie dekadę.",
+          "Czas obecności dóbr na rynku absolutnie nie zależy od branży firm."
+        ],
+        "answer": "B",
+        "explanation": "Cykl życia produktu w przemyśle tradycyjnym jest długi (od kilkunastu do 30 lat), a w przemyśle high-tech krótki (od 2 do 7 lat), co wynika z szybkiego starzenia się technologicznego innowacji."
+      },
+      {
+        "question": "Gdzie najczęściej lokowane są zakłady high-tech w fazie produkcji masowej?",
+        "options": [
+          "Powstają one wyłącznie w badawczych centrach największych aglomeracji.",
+          "Lokalizuje się je zazwyczaj w państwach o niskich kosztach siły roboczej.",
+          "Ich rozmieszczenie pokrywa się bezpośrednio z wielkimi złożami minerałów.",
+          "Powstają głównie na obszarach dysponujących nadmiarem surowców drzewnych."
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z podręcznikiem, w fazie produkcji masowej najważniejszym czynnikiem lokalizacji dla przemysłu high-tech stają się niskie koszty pracy, dlatego przenosi się on z krajów wysoko rozwiniętych do państw o taniej sile roboczej (np. w Azji Południowo-Wschodniej)."
+      },
+      {
+        "question": "Który czynnik lokalizacji jest kluczowy dla innowacyjnej fazy przemysłu high-tech?",
+        "options": [
+          "Największe zasoby wyjątkowo taniej, niewykwalifikowanej siły roboczej.",
+          "Bliskość zaplecza badawczego oraz kapitał i wysokie kwalifikacje kadry.",
+          "Szeroko rozbudowana infrastruktura służąca ciężkiemu transportowi dóbr.",
+          "Bardzo bezpośredni i łatwy dostęp do głównych rolniczych rynków zbytu."
+        ],
+        "answer": "B",
+        "explanation": "Faza innowacji wymaga prowadzenia badań naukowych i opracowywania prototypów. Dlatego wymaga kapitału finansowego, wykwalifikowanych pracowników, centrów naukowo-badawczych oraz dobrego środowiska."
+      },
+      {
+        "question": "Jakie nakłady finansowe dominują w sektorze zaawansowanych technologii?",
+        "options": [
+          "Wybitnie duże koszty ponoszone przez firmy na transport wielkogabarytowy.",
+          "Ogromne fundusze przeznaczane na wyposażenie fizyczne i wznoszenie hal.",
+          "Bardzo duże nakłady kapitałowe przekazywane na badania oraz ciągły rozwój.",
+          "Koszty niezbędne do masowego zatrudniania tysięcy pracowników fizycznych."
+        ],
+        "answer": "C",
+        "explanation": "W przemyśle high-tech nakłady na budowę są relatywnie mniejsze w porównaniu do tradycyjnego, za to główny strumień finansowania (duże nakłady) kieruje się w stronę badań i rozwoju (R&D)."
+      },
+      {
+        "question": "Jak ocenia się uciążliwość dla środowiska w obu sektorach przemysłowych?",
+        "options": [
+          "Tradycyjny jest na ogół bardzo uciążliwy, a high-tech minimalnie szkodliwy.",
+          "Tradycyjny jest bardzo czysty, a high-tech wybitnie degraduje naturę i lasy.",
+          "Oba typy przemysłu w identycznym stopniu niszczą okoliczne ekosystemy leśne.",
+          "Wyłącznie klasyczne fabryki ubrań negatywnie rzutują na czystość atmosfery."
+        ],
+        "answer": "A",
+        "explanation": "Tabela cech obu przemysłów wyraźnie wskazuje, że uciążliwość dla środowiska przyrodniczego jest zwykle duża w przypadku przemysłu tradycyjnego (materiało- i energochłonność) oraz bardzo mała w dziale high-tech."
+      },
+      {
+        "question": "Dlaczego infrastruktura transportowa często traci na znaczeniu w przemyśle high-tech?",
+        "options": [
+          "Stosowane w nim surowce i gotowe wyroby mają zwykle niewielką wagę i małą objętość.",
+          "Tego typu zakłady umiejscawia się zawsze tam, skąd w ogóle nie wywozi się dóbr.",
+          "Transport w tym wąskim sektorze opiera się od dawna wyłącznie na drogich rurociągach.",
+          "Kluczowy rynek zbytu znajduje się zawsze zaledwie kilkanaście metrów od samej fabryki."
+        ],
+        "answer": "A",
+        "explanation": "Podręcznik stwierdza, że rozbudowana ciężka infrastruktura transportowa ma mniejsze znaczenie dla high-tech, ponieważ wykorzystywane komponenty oraz wytwarzane produkty (np. podzespoły elektroniczne, leki) są zazwyczaj małe, lekkie i nie wymagają masowego transportu jak surowce kopalne."
+      },
+      {
+        "question": "Jakie efekty gospodarcze wywołuje rozwój przemysłu zaawansowanych technologii?",
+        "options": [
+          "Pozytywne efekty mnożnikowe napędzające rozwój innych działów oraz licznych usług.",
+          "Zauważalne i nieodwracalne załamanie się stabilnego rynku lokalnych usług dla firm.",
+          "Gwałtowny spadek zapotrzebowania na bardzo wysoce wykwalifikowanych pracowników.",
+          "Skokowy wzrost bezrobocia strukturalnego w najlepiej rozwiniętych państwach świata."
+        ],
+        "answer": "A",
+        "explanation": "Rozwój przemysłu high-tech wywołuje tzw. efekty mnożnikowe, które powodują korzystne zmiany w innych działach gospodarki (rozwój kooperantów, zapotrzebowanie na usługi wyższe, edukację)."
+      },
+      {
+        "question": "W jaki sposób zmienia się znaczenie czynników lokalizacji w miarę rozwoju cywilizacji?",
+        "options": [
+          "Konsekwentnie rośnie ranga bazy surowcowej kosztem znaczenia zaplecza technologicznego.",
+          "Rola czynników techniczno-ekonomicznych staje się coraz większa, a przyrodniczych maleje.",
+          "Czynniki związane z rygorystyczną ochroną środowiska naturalnego tracą zupełnie znaczenie.",
+          "Bliskość dużych i chłonnych rynków zbytu rygorystycznie determinuje lokalizację fabryk."
+        ],
+        "answer": "B",
+        "explanation": "Wraz z postępem innowacyjnym systematycznie rośnie znaczenie uwarunkowań społecznych oraz techniczno-ekonomicznych (wykształcenie, klimat inwestycyjny), a rola czynników przyrodniczych (poza normami ekologicznymi) ulega ciągłemu obniżeniu."
+      },
+      {
+        "question": "Jakie zagrożenie ekonomiczne wiąże się ze zbyt silną koncentracją produkcji high-tech?",
+        "options": [
+          "Rozpoczęcie wytwarzania wyjątkowo uciążliwych produktów niszczących czystość środowiska.",
+          "Ryzyko monopolizacji rynku, co pozwala wąskiej grupie firm dyktować mocno zawyżone ceny.",
+          "Natychmiastowy i masowy odpływ pracowników do znacznie gorzej płatnych tradycyjnych form.",
+          "Zmniejszenie sumarycznej wartości eksportu ze względu na stricte lokalny model dystrybucji."
+        ],
+        "answer": "B",
+        "explanation": "Podręcznik wspomina o negatywnych skutkach – zbyt duża koncentracja powoduje, że na rynku zostaje ograniczona liczba gigantycznych korporacji, które sprzedają swoje pożądane wyroby po znacznie zawyżonych cenach (monopolizacja rynku)."
+      },
+      {
+        "question": "Jak opisywana jest zależność między stopniem innowacyjności produkcji a wydajnością pracy?",
+        "options": [
+          "Wydajność w przemyśle zaawansowanych technologii jest statystycznie o połowę niższa.",
+          "Tradycyjne hutnictwo i górnictwo nieznacznie przewyższają sektor elektroniczny na tym polu.",
+          "Działalność w przemyśle high-tech osiąga wydajność średnio o pięćdziesiąt procent wyższą.",
+          "W obydwu analizowanych sektorach wydajność utrzymuje się przez lata na podobnym poziomie."
+        ],
+        "answer": "C",
+        "explanation": "Charakterystyka obydwu sektorów bezpośrednio wskazuje, że wydajność pracy w nowoczesnym przemyśle jest wyższa średnio o 50% względem gałęzi przemysłu tradycyjnego."
+      },
+      {
+        "question": "W jaki sposób sektor high-tech często wpływa na procesy przestrzenne w starej tkance przemysłowej?",
+        "options": [
+          "Najnowocześniejsze obiekty tego typu są wznoszone wyłącznie na naturalnych leśnych terenach.",
+          "Ich lokowanie na dawnych terenach klasycznej produkcji przemysłowej wspiera ich rewitalizację.",
+          "Powstawanie licznych zakładów w centrach ugruntowuje zjawisko nieodwracalnej degradacji miast.",
+          "Potężni inwestorzy z tej gałęzi gospodarki celowo i skutecznie bojkotują granice starych osad."
+        ],
+        "answer": "B",
+        "explanation": "Podręcznik jako jeden ze skutków pozytywnych wskazuje rewitalizację poprzemysłowych terenów – czyste instalacje high-tech lokowane w dawnych zrujnowanych strefach przemysłu tradycyjnego wspierają odrodzenie tkanki miejskiej."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Ze względu na skomplikowane i kosztowne technologie wydobywcze, współczesne górnictwo rud metali zaliczane jest do przemysłu zaawansowanych technologii.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem górnictwo i wydobywanie, mimo stosowania specjalistycznych maszyn, to typowy dział przemysłu tradycyjnego, opierający się na mało zaawansowanym przetwórstwie surowców."
+      },
+      {
+        "sentence": "Przemysł zaawansowanych technologii odznacza się krótkim cyklem życia produktu, wynoszącym zazwyczaj od 2 do 7 lat.",
+        "answer": true,
+        "explanation": "Z tabeli porównawczej wynika, że cykl obecności produktu high-tech na rynku jest krótki (2-7 lat), co silnie kontrastuje z przemysłem tradycyjnym (kilkanaście do 30 lat)."
+      },
+      {
+        "sentence": "Głównym czynnikiem decydującym o lokalizacji zakładów przemysłu high-tech w początkowej fazie innowacji są rozległe zasoby bardzo taniej i niewykwalifikowanej siły roboczej.",
+        "answer": false,
+        "explanation": "W fazie innowacji kluczowe są kapitał, wykwalifikowani pracownicy oraz zaplecze naukowo-badawcze. Tania siła robocza staje się decydująca dopiero na późniejszym etapie - w fazie produkcji masowej."
+      },
+      {
+        "sentence": "Produkcja artykułów spożywczych, niezależnie od stopnia zmechanizowania fabryk, zaliczana jest do działów przemysłu tradycyjnego.",
+        "answer": true,
+        "explanation": "Produkcja artykułów spożywczych polega na stosunkowo mało zaawansowanym przetwórstwie surowców rolniczych i uchodzi za klasyczny dział przemysłu tradycyjnego."
+      },
+      {
+        "sentence": "W przemyśle tradycyjnym większość ogromnych nakładów kapitałowych przeznacza się na ciągłe badania naukowe i stały rozwój innowacji (R&D).",
+        "answer": false,
+        "explanation": "To cecha przemysłu high-tech. W przemyśle tradycyjnym duże nakłady przeznaczane są głównie na budowę i fizyczne wyposażenie samych zakładów, a na badania przeznacza się ich niewiele."
+      },
+      {
+        "sentence": "Wydajność pracy w przemyśle zaawansowanych technologii jest wysoka i średnio o 50% wyższa w porównaniu do wydajności notowanej w przemyśle tradycyjnym.",
+        "answer": true,
+        "explanation": "Tekst podręcznika wprost wskazuje w tabeli z cechami, że wysoka wydajność pracy w sektorze high-tech jest średnio o 50% wyższa niż w tradycyjnych gałęziach produkcyjnych."
+      },
+      {
+        "sentence": "Rozbudowana i ciężka infrastruktura transportowa zyskuje na znaczeniu w przemyśle high-tech, ponieważ wyroby elektroniczne wymagają przewozu w masowych wolumenach.",
+        "answer": false,
+        "explanation": "Infrastruktura transportowa traci na znaczeniu dla przemysłu high-tech, ponieważ wykorzystywane surowce oraz gotowe, bardzo drogie produkty (np. elektronika) charakteryzują się małą wagą i niewielką objętością."
+      },
+      {
+        "sentence": "Działy przemysłu zaawansowanych technologii odznaczają się zazwyczaj bardzo małą uciążliwością dla otaczającego je środowiska przyrodniczego.",
+        "answer": true,
+        "explanation": "W przeciwieństwie do wysokiej uciążliwości zakładów tradycyjnych, mniejsza energochłonność i materiałochłonność sprawia, że zakłady high-tech są przyjazne środowisku, co często pozwala na ich lokowanie wokół czystych rezerwatów."
+      },
+      {
+        "sentence": "Rentowność zakładów w przemyśle tradycyjnym jest niezwykle wysoka, co gwarantuje właścicielom krótki czas zwrotu z poniesionych wielomilionowych inwestycji.",
+        "answer": false,
+        "explanation": "Przemysł tradycyjny charakteryzuje się niską rentownością (zaledwie kilka procent) oraz długim czasem zwrotu z inwestycji (do kilkunastu lat)."
+      },
+      {
+        "sentence": "Dynamiczny rozwój przemysłu zaawansowanych technologii powoduje powstawanie efektów mnożnikowych, czyli między innymi rozwoju usług wyższego rzędu i edukacji.",
+        "answer": true,
+        "explanation": "Podręcznik wskazuje, że efekty mnożnikowe sektora high-tech przynoszą pozytywne zmiany dla całej gospodarki, m.in. stymulują firmy współpracujące i powodują duży rozwój specjalistycznej edukacji."
+      },
+      {
+        "sentence": "Podstawowym czynnikiem lokalizacji farmaceutycznych ośrodków naukowo-badawczych jest ich bezpośrednie sąsiedztwo z głównymi bazami surowców kopalnych.",
+        "answer": false,
+        "explanation": "Zakłady farmaceutyczne zaliczane do high-tech lokalizuje się w oparciu o czynniki ekologiczne (czyste powietrze), wykwalifikowaną kadrę oraz zaplecze badawcze, a baza kopalna nie ma dla nich wielkiego znaczenia."
+      },
+      {
+        "sentence": "W fazie produkcji masowej przedsiębiorstwa high-tech przenoszą swoje zakłady na obszary o niskich kosztach siły roboczej, takie jak państwa Azji Południowo-Wschodniej.",
+        "answer": true,
+        "explanation": "Początkowa faza innowacji opiera się na wiedzy i badaniach (często w centrach krajów bogatych), natomiast seryjna produkcja gotowych elementów przenoszona jest tam, gdzie pracownicy są znacznie tańsi."
+      }
+    ]
+  }
+}

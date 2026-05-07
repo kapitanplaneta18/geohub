@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t3",
+    "title": "Łączność",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Łączność",
+        "definition": "Dział komunikacji obejmujący przesyłanie i przekazywanie informacji za pośrednictwem poczty, firm kurierskich oraz telekomunikacji."
+      },
+      {
+        "term": "Telekomunikacja",
+        "definition": "Nadawanie, odbiór oraz transmisja informacji za pomocą przewodów, fal radiowych, optycznych lub innych środków wykorzystujących energię elektromagnetyczną."
+      },
+      {
+        "term": "Zintegrowany system telekomunikacyjny",
+        "definition": "System tworzony przez telekomunikację wraz z całą infrastrukturą zapewniającą jej funkcjonowanie."
+      },
+      {
+        "term": "Działy telekomunikacji",
+        "definition": "W jej skład wchodzą: telefonia (stacjonarna, komórkowa, satelitarna), telekomunikacja komputerowa, telewizja, radiofonia oraz telegrafia."
+      },
+      {
+        "term": "Usługi pocztowe (zmiana znaczenia)",
+        "definition": "Tracą znaczenie w przekazie informacji i finansów na rzecz telekomunikacji, jednak zyskują na przewozie paczek dzięki rozwojowi handlu elektronicznego."
+      },
+      {
+        "term": "Miejsce łączności w PKD",
+        "definition": "Usługi pocztowe i kurierskie zalicza się do sekcji transport i gospodarka magazynowa (H), a telekomunikację do sekcji informacja i komunikacja (J)."
+      },
+      {
+        "term": "Telefonia satelitarna",
+        "definition": "Technologia umożliwiająca łączność głosową i przesyłanie danych z wykorzystaniem sztucznych satelitów, działająca nawet na morzu czy pustyni."
+      },
+      {
+        "term": "Telefonia internetowa",
+        "definition": "Technologia przesyłania dźwięku i obrazu za pomocą łączy internetowych oraz specjalnych komunikatorów (np. Skype, WhatsApp)."
+      },
+      {
+        "term": "Wpływ internetu na gospodarkę",
+        "definition": "Swobodny dostęp do ofert i bezpośredni kontakt z producentem zwiększa konkurencję, co prowadzi do obniżania i wyrównywania cen w skali światowej."
+      },
+      {
+        "term": "Telepraca",
+        "definition": "Wykonywanie obowiązków zawodowych w miejscu zamieszkania z wykorzystaniem połączenia sieciowego do kontaktu z pracodawcą."
+      },
+      {
+        "term": "Wykluczenie cyfrowe",
+        "definition": "Zjawisko braku umiejętności obsługi komputera lub możliwości korzystania z nowoczesnych technologii informacyjnych, dotykające m.in. osoby starsze."
+      },
+      {
+        "term": "E-usługi",
+        "definition": "Usługi realizowane przez internet, obejmujące m.in. bankowość (e-banking), edukację (e-learning), zakupy (e-handel) czy usługi urzędowe."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Usługi pocztowe i kurierskie (klasyfikacja PKD)",
+        "pair2": "Sekcja H (transport i gospodarka magazynowa)"
+      },
+      {
+        "pair1": "Telekomunikacja (klasyfikacja PKD)",
+        "pair2": "Sekcja J (informacja i komunikacja)"
+      },
+      {
+        "pair1": "Telefonia stacjonarna",
+        "pair2": "Dział telekomunikacji, w którym od 2006 roku widoczny jest stały spadek liczby abonentów w skali świata"
+      },
+      {
+        "pair1": "Telefonia komórkowa",
+        "pair2": "Dział telekomunikacji notujący dynamiczny rozwój, który doprowadził do spadku dynamiki wzrostu telefonii stacjonarnej od połowy lat 90. XX w."
+      },
+      {
+        "pair1": "Telepraca (korzyść dla pracownika)",
+        "pair2": "Możliwość podjęcia działalności zarobkowej przez osoby niepełnosprawne lub wychowujące małe dzieci"
+      },
+      {
+        "pair1": "Telepraca (korzyść dla pracodawcy)",
+        "pair2": "Zmniejszenie kosztów związanych z utrzymaniem biur"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co składa się na łączność w ujęciu gospodarczym?",
+        "options": [
+          "Usługi pocztowe, kurierskie i telekomunikacja.",
+          "Transport lądowy, wodny oraz powietrzny.",
+          "Handel zagraniczny, wewnętrzny i usługi.",
+          "Edukacja, bankowość oraz ubezpieczenia."
+        ],
+        "answer": "A",
+        "explanation": "Łączność obejmuje przesyłanie informacji za pośrednictwem poczty, firm kurierskich oraz telekomunikacji."
+      },
+      {
+        "question": "Do jakiej sekcji PKD zalicza się telekomunikację?",
+        "options": [
+          "Sekcja H (transport i magazynowanie)",
+          "Sekcja J (informacja i komunikacja)",
+          "Sekcja K (finanse i ubezpieczenia)",
+          "Sekcja L (obsługa nieruchomości)"
+        ],
+        "answer": "B",
+        "explanation": "Telekomunikacja przypisana jest do sekcji J, która obejmuje informację i komunikację."
+      },
+      {
+        "question": "Jakie zjawisko dotyczy telefonii stacjonarnej od 2006 roku?",
+        "options": [
+          "Dynamiczny przyrost liczby abonentów na świecie.",
+          "Stopniowe wypieranie przez telefonię satelitarną.",
+          "Stały spadek liczby korzystających z niej osób.",
+          "Całkowite wycofanie z użycia w państwach Unii."
+        ],
+        "answer": "C",
+        "explanation": "Od 2006 roku widoczne jest systematyczne zmniejszanie się liczby osób korzystających z telefonii stacjonarnej."
+      },
+      {
+        "question": "Który element jest kluczowym składnikiem zintegrowanego systemu telekomunikacyjnego?",
+        "options": [
+          "Placówki pocztowe i sortownie paczek.",
+          "Firmy kurierskie i transport drogowy.",
+          "Telekomunikacja i jej infrastruktura.",
+          "Administracja rządu i samorządowców."
+        ],
+        "answer": "C",
+        "explanation": "Telekomunikacja wraz z infrastrukturą zapewniającą jej funkcjonowanie tworzy zintegrowany system telekomunikacyjny."
+      },
+      {
+        "question": "Jaka jest główna wada telefonii internetowej (np. Skype, WhatsApp)?",
+        "options": [
+          "Bardzo wysokie koszty połączeń na świecie.",
+          "Niemożność przesyłania obrazu w czasie.",
+          "Zależność od dostępu do globalnej sieci.",
+          "Konieczność budowy własnych nadajników."
+        ],
+        "answer": "C",
+        "explanation": "Wymaga ona dostępu do internetu i odpowiedniego oprogramowania, a jej zawodność bywa większa niż telefonii tradycyjnej."
+      },
+      {
+        "question": "Co jest główną przyczyną zmniejszenia roli tradycyjnej poczty w przekazach pieniężnych?",
+        "options": [
+          "Zakaz prowadzenia działalności finansowej.",
+          "Zastąpienie jej przez przepływy internetowe.",
+          "Brak odpowiednio wykwalifikowanego personelu.",
+          "Wzrost opłat za tradycyjne usługi pocztowe."
+        ],
+        "answer": "B",
+        "explanation": "Przepływy finansowe odbywają się obecnie głównie za pośrednictwem komputerów oraz połączeń sieciowych."
+      },
+      {
+        "question": "Kogo najczęściej dotyka zjawisko wykluczenia cyfrowego?",
+        "options": [
+          "Pracowników firm z branży informatycznej.",
+          "Osoby starsze nieobsługujące komputerów.",
+          "Mieszkańców wielkich metropolii miejskich.",
+          "Młodzież często korzystającą ze smartfonów."
+        ],
+        "answer": "B",
+        "explanation": "Wykluczenie cyfrowe dotyka ludzi niepotrafiących obsługiwać nowoczesnych technologii, głównie z racji starszego wieku."
+      },
+      {
+        "question": "W jakim środowisku telefonia satelitarna wykazuje największą skuteczność użytkową?",
+        "options": [
+          "Gęsto zabudowane centra wielkich metropolii.",
+          "Sieci podziemnych linii metra w aglomeracjach.",
+          "Miejsca poza zasięgiem sieci, takie jak morza.",
+          "Zamknięte kompleksy biurowe i parki naukowe."
+        ],
+        "answer": "C",
+        "explanation": "Bezpośrednia łączność radiowa z satelitą pozwala na kontakt na obszarach pozbawionych stacji bazowych, np. na morzach i pustyniach."
+      },
+      {
+        "question": "Jaki jest wpływ rozwoju Internetu na ogólnoświatowe ceny towarów?",
+        "options": [
+          "Prowadzi do ich ujednolicenia oraz spadku.",
+          "Powoduje drastyczny wzrost marży handlowej.",
+          "Ogranicza dostępność do tanich produktów.",
+          "Wzmacnia lokalne monopole wielkich firm."
+        ],
+        "answer": "A",
+        "explanation": "Możliwość bezpośredniego kontaktu nabywcy z producentem zwiększa konkurencję, co wyrównuje i obniża ceny w skali światowej."
+      },
+      {
+        "question": "Jakie korzyści przynosi pracodawcy popularyzacja stanowisk związanych z telepracą?",
+        "options": [
+          "Gwarantuje brak rotacji kadr w całym biurze.",
+          "Redukuje koszty wynajmu i utrzymania biur.",
+          "Wymusza zakup dużej floty aut służbowych.",
+          "Zwiększa potrzebę bezpośredniego nadzoru."
+        ],
+        "answer": "B",
+        "explanation": "Wykonywanie obowiązków w miejscu zamieszkania za pomocą sieci zmniejsza wydatki firmy na stacjonarną infrastrukturę biurową."
+      },
+      {
+        "question": "Dlaczego usługi pocztowe i kurierskie przeniesiono w Polsce do sekcji transportowej PKD?",
+        "options": [
+          "Z powodu likwidacji większości ich placówek.",
+          "Z uwagi na dominujący w nich przewóz paczek.",
+          "Ze względu na rządowe programy oszczędności.",
+          "Z racji zakazu świadczenia innych usług firm."
+        ],
+        "answer": "B",
+        "explanation": "Z powodu popularyzacji handlu elektronicznego profil tych usług polega obecnie przede wszystkim na transportowaniu przesyłek do klientów."
+      },
+      {
+        "question": "Co jest powszechnie uznawane za jeden z atrybutów nowoczesnego społeczeństwa informacyjnego?",
+        "options": [
+          "Dominacja ciężkiego przemysłu przetwórczego.",
+          "Zastąpienie pieniądza elektronicznego gotówką.",
+          "Powszechne używanie urządzeń mobilnych w sieci.",
+          "Całkowity brak relacji międzyludzkich w świecie."
+        ],
+        "answer": "C",
+        "explanation": "Społeczeństwo informacyjne charakteryzuje się powszechnym wykorzystaniem technologii informacyjnych, w tym urządzeń mobilnych, w życiu codziennym."
+      },
+      {
+        "question": "Dlaczego w państwach słabo rozwiniętych powszechność telefonii komórkowej znacznie wyprzedza telefonię stacjonarną?",
+        "options": [
+          "Ze względu na unijne dotacje na sprzęt mobilny.",
+          "Z powodu braku kosztownej infrastruktury kabli.",
+          "Z racji wprowadzonych tam rządowych ograniczeń.",
+          "Z uwagi na całkowity brak elektrowni w miastach."
+        ],
+        "answer": "B",
+        "explanation": "Rozwój telefonii komórkowej nie wymaga kładzenia sieci przewodowych, co pozwala słabiej rozwiniętym krajom omijać kosztochłonny etap budowy infrastruktury stacjonarnej."
+      },
+      {
+        "question": "W jaki sposób najnowsze technologie informacyjne przekształcają struktury dystrybucji towarów na globalnym rynku?",
+        "options": [
+          "Zwiększają znacząco liczbę pośredników między wytwórcą a klientem.",
+          "Eliminują rolę handlowych pośredników na rzecz relacji bezpośrednich.",
+          "Wymuszają korzystanie wyłącznie z rozbudowanych państwowych sieci.",
+          "Ograniczają możliwość dokonywania zwrotów wielu zakupionych dóbr."
+        ],
+        "answer": "B",
+        "explanation": "Swobodny dostęp do sieciowych ofert sprawia, że klienci kontaktują się z producentami bezpośrednio, czyniąc pośrednictwo zbędnym."
+      },
+      {
+        "question": "Jaka zależność występuje na świecie pomiędzy poziomem rozwoju technologii telekomunikacyjnych a dysproporcjami rozwojowymi państw?",
+        "options": [
+          "Różnice rozwojowe zacierają się całkowicie bez względu na nakłady.",
+          "Opóźnienia w budowie sieci telekomunikacyjnych pogłębiają dysproporcje.",
+          "Szybki rozwój łączności globalnej sprzyja wyłącznie biednym państwom.",
+          "Cyfrowy dostęp do globalnej sieci nie wywiera wpływu na gospodarkę."
+        ],
+        "answer": "B",
+        "explanation": "Jeśli innowacyjne usługi łącznościowe w biedniejszych państwach rozwijają się wolniej, istniejące dysproporcje względem bogatych krajów ulegają zwiększeniu."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Usługi pocztowe oraz usługi telekomunikacyjne są klasyfikowane w Polskiej Klasyfikacji Działalności (PKD) do tej samej sekcji ze względu na wspólną funkcję przesyłania informacji.",
+        "answer": false,
+        "explanation": "Usługi pocztowe i kurierskie zalicza się do sekcji transport i gospodarka magazynowa (H), natomiast telekomunikację do sekcji informacja i komunikacja (J)."
+      },
+      {
+        "sentence": "Wraz z postępem technologicznym usługi pocztowe zyskują na znaczeniu w realizacji międzynarodowych przekazów pieniężnych na rzecz globalnego rynku.",
+        "answer": false,
+        "explanation": "Poczta odgrywa coraz mniejszą rolę w przekazach pieniężnych, ponieważ przepływy finansowe odbywają się obecnie głównie za pośrednictwem komputera i internetu."
+      },
+      {
+        "sentence": "Od 2006 roku na świecie obserwuje się stałe zmniejszanie się liczby osób korzystających z telefonii stacjonarnej.",
+        "answer": true,
+        "explanation": "Spadek dynamiki wzrostu liczby abonentów tradycyjnej telefonii zapoczątkowano w latach 90. XX wieku, a od 2006 roku widoczny jest bezwzględny spadek liczby użytkowników na rzecz telefonii komórkowej."
+      },
+      {
+        "sentence": "Telefonia internetowa charakteryzuje się znacznie wyższą niezawodnością niż telefonia tradycyjna, choć wymaga opłacania wysokich kosztów abonamentowych.",
+        "answer": false,
+        "explanation": "Telefonia internetowa cechuje się niskimi kosztami połączeń, ale jej wadą jest większa zawodność w porównaniu z telefonią tradycyjną oraz konieczność posiadania dostępu do sieci."
+      },
+      {
+        "sentence": "Rozwój handlu elektronicznego i łatwiejszy dostęp do informacji przyczyniają się do obniżania i wyrównywania cen produktów w skali światowej.",
+        "answer": true,
+        "explanation": "Swobodny dostęp do ofert w internecie oraz możliwość kupowania bezpośrednio u producenta eliminują pośredników i zwiększają konkurencję, co ujednolica ceny na świecie."
+      },
+      {
+        "sentence": "Telefonia satelitarna jest rozwiązaniem technologicznym wdrażanym wyłącznie w najgęściej zaludnionych obszarach miejskich państw wysoko rozwiniętych.",
+        "answer": false,
+        "explanation": "Telefonia satelitarna umożliwia łączność na obszarach znajdujących się poza zasięgiem tradycyjnych sieci komórkowych, takich jak otwarte morza czy pustynie."
+      },
+      {
+        "sentence": "Telepraca to forma zatrudnienia polegająca na obsłudze centrali telekomunikacyjnej z wymogiem codziennej fizycznej obecności w biurze firmy.",
+        "answer": false,
+        "explanation": "Telepraca polega na wykonywaniu obowiązków zawodowych w miejscu zamieszkania i kontaktowaniu się z pracodawcą za pomocą połączenia sieciowego."
+      },
+      {
+        "sentence": "Zjawisko wykluczenia cyfrowego dotyka głównie osoby starsze, które nie potrafią obsługiwać komputera lub poruszać się w internecie.",
+        "answer": true,
+        "explanation": "Brak umiejętności korzystania z nowoczesnych technologii informacyjnych pozbawia wiele osób, zwłaszcza starszych, dostępu do usług elektronicznych i informacji."
+      },
+      {
+        "sentence": "Spadek znaczenia usług pocztowych w przekazywaniu informacji i finansów sprawił, że całkowicie zaprzestały one działalności w krajach wysoko rozwiniętych gospodarczo.",
+        "answer": false,
+        "explanation": "Usługi pocztowe wciąż funkcjonują, a ze względu na ogromną popularność handlu elektronicznego ich działalność opiera się obecnie w dużej mierze na transporcie paczek."
+      },
+      {
+        "sentence": "We współczesnej łączności następuje integracja działów telekomunikacji, przez co usługi telefoniczne, telewizyjne i internetowe są realizowane na wzajemnie przenikających się urządzeniach.",
+        "answer": true,
+        "explanation": "Nowoczesne urządzenia, takie jak smartfony, komputery czy telewizory, są wielofunkcyjne – umożliwiają korzystanie z internetu, komunikatorów oraz odbiór mediów na jednym sprzęcie."
+      }
+    ]
+  }
+}

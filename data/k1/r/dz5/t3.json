@@ -1,0 +1,379 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t3",
+                     "unit":  "V",
+                     "title":  "Tektonika płyt litosfery",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Tektonika płyt litosfery",
+                                              "definition":  "Teoria wyjaśniająca budowę litosfery, która nie jest jednolita, lecz składa się z ruchomych fragmentów przypominających puzzle."
+                                          },
+                                          {
+                                              "term":  "Płyty litosfery",
+                                              "definition":  "Elementy litosfery (siedem dużych i kilkanaście mniejszych), które znajdują się w nieustannym ruchu."
+                                          },
+                                          {
+                                              "term":  "Prądy konwekcyjne",
+                                              "definition":  "Strumienie magmy w płaszczu Ziemi, które wędrują z głębi ku powierzchni i są przyczyną przemieszczania się płyt litosfery."
+                                          },
+                                          {
+                                              "term":  "Płyty oceaniczne",
+                                              "definition":  "Rodzaj płyt litosfery znajdujących się pod oceanami, np. płyta pacyficzna."
+                                          },
+                                          {
+                                              "term":  "Płyty kontynentalne",
+                                              "definition":  "Rodzaj płyt litosfery obejmujących obszary lądowe, np. płyta afrykańska."
+                                          },
+                                          {
+                                              "term":  "Strefa spredingu",
+                                              "definition":  "Obszar, w którym prądy konwekcyjne rozdzielają się i płyną na boki, powodując rozsuwanie się płyt litosfery."
+                                          },
+                                          {
+                                              "term":  "Ryft",
+                                              "definition":  "Wąskie i długie pęknięcie w litosferze powstające w strefie rozsuwania się płyt, do którego wdziera się magma."
+                                          },
+                                          {
+                                              "term":  "Spreding",
+                                              "definition":  "Proces rozrastania się dna oceanicznego wskutek zastygania lawy w ryftach i powstawania nowych fragmentów skorupy."
+                                          },
+                                          {
+                                              "term":  "Grzbiet śródoceaniczny",
+                                              "definition":  "Rozległe podmorskie wzniesienie tworzące się po obu stronach ryftu w wyniku procesów wulkanicznych."
+                                          },
+                                          {
+                                              "term":  "Subdukcja",
+                                              "definition":  "Proces podsuwania się jednej płyty litosfery (zazwyczaj oceanicznej) pod drugą w miejscu opadania prądów konwekcyjnych."
+                                          },
+                                          {
+                                              "term":  "Rów oceaniczny",
+                                              "definition":  "Długa i głęboka forma terenu na dnie oceanu, powstająca w strefie subdukcji."
+                                          },
+                                          {
+                                              "term":  "Wyspy wulkaniczne (łuk wysp)",
+                                              "definition":  "Formy terenu powstające, gdy płyta oceaniczna podsuwa się pod inną płytę oceaniczną (np. Mariany)."
+                                          },
+                                          {
+                                              "term":  "Strefa kolizji",
+                                              "definition":  "Miejsce zderzenia dwóch płyt kontynentalnych, gdzie dochodzi do fałdowania i wypiętrzania osadów (brak subdukcji)."
+                                          },
+                                          {
+                                              "term":  "Himalaje",
+                                              "definition":  "Łańcuch górski powstały w strefie kolizji płyty indyjskiej z płytą eurazjatycką."
+                                          },
+                                          {
+                                              "term":  "Grzbiet Śródatlantycki",
+                                              "definition":  "Najdłuższy grzbiet śródoceaniczny na Ziemi, biegnący dnem Atlantyku od Islandii aż po Antarktydę."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Rozsuwanie się płyt litosfery",
+                                                 "pair2":  "Powstawanie ryftów i spreding"
+                                             },
+                                             {
+                                                 "pair1":  "Prądy konwekcyjne",
+                                                 "pair2":  "Strumienie magmy poruszające płyty litosfery"
+                                             },
+                                             {
+                                                 "pair1":  "Subdukcja (oceaniczna pod kontynentalną)",
+                                                 "pair2":  "Powstanie rowu oceanicznego i łańcucha gór na lądzie"
+                                             },
+                                             {
+                                                 "pair1":  "Subdukcja (oceaniczna pod oceaniczną)",
+                                                 "pair2":  "Powstanie rowu oceanicznego i wysp wulkanicznych"
+                                             },
+                                             {
+                                                 "pair1":  "Kolizja płyt kontynentalnych",
+                                                 "pair2":  "Fałdowanie osadów i wypiętrzanie gór (np. Himalaje)"
+                                             },
+                                             {
+                                                 "pair1":  "Rów Mariański",
+                                                 "pair2":  "Najgłębszy rów oceaniczny, strefa subdukcji na Pacyfiku"
+                                             },
+                                             {
+                                                 "pair1":  "Andy",
+                                                 "pair2":  "Góry powstałe na styku płyty południowoamerykańskiej i Nazca"
+                                             },
+                                             {
+                                                 "pair1":  "Płyta Pacyficzna",
+                                                 "pair2":  "Przykład płyty oceanicznej"
+                                             },
+                                             {
+                                                 "pair1":  "Płyta Afrykańska",
+                                                 "pair2":  "Przykład płyty kontynentalnej"
+                                             },
+                                             {
+                                                 "pair1":  "Litosfera",
+                                                 "pair2":  "Skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Co jest bezpośrednią przyczyną nieustannego przemieszczania się płyt litosfery?",
+                                      "options":  [
+                                                      "Oddziaływanie grawitacyjne Księżyca.",
+                                                      "Prądy morskie opływające kontynenty.",
+                                                      "Prądy konwekcyjne w płaszczu Ziemi.",
+                                                      "Ruch obrotowy Ziemi wokół własnej osi."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ciągły ruch płyt wywołują prądy konwekcyjne, czyli strumienie magmy wędrujące z głębi Ziemi do litosfery."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych płyt litosfery jest przykładem płyty oceanicznej?",
+                                      "options":  [
+                                                      "Płyta afrykańska.",
+                                                      "Płyta pacyficzna.",
+                                                      "Płyta euroazjatycka.",
+                                                      "Płyta południowoamerykańska."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wśród płyt litosfery wyróżnia się płyty oceaniczne, takie jak płyta pacyficzna, oraz kontynentalne, np. płyta afrykańska."
+                                  },
+                                  {
+                                      "question":  "Czym jest litosfera w ujęciu budowy wnętrza Ziemi?",
+                                      "options":  [
+                                                      "Tylko sztywną i lita skorupą ziemską.",
+                                                      "Skorupą ziemską wraz z zewnętrzną częścią płaszcza górnego.",
+                                                      "Płaszczem górnym oraz płaszczem dolnym.",
+                                                      "Warstwą gorącej magmy pod skorupą ziemską."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego tworzą litosferę."
+                                  },
+                                  {
+                                      "question":  "Jak nazywamy miejsce we wnętrzu Ziemi, z którego rozchodzą się fale sejsmiczne?",
+                                      "options":  [
+                                                      "Epicentrum.",
+                                                      "Krater.",
+                                                      "Hipocentrum.",
+                                                      "Ryft."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Miejsce we wnętrzu Ziemi, z którego rozchodzą się fale sejsmiczne, to ognisko trzęsienia ziemi, czyli hipocentrum."
+                                  },
+                                  {
+                                      "question":  "Gdzie znajduje się obszar zwany Ognistym Pierścieniem Pacyfiku?",
+                                      "options":  [
+                                                      "Wzdłuż Grzbietu Śródatlantyckiego.",
+                                                      "Wokół wybrzeży Oceanu Spokojnego.",
+                                                      "W centrum płyty afrykańskiej.",
+                                                      "W basenie Morza Śródziemnego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Największe skupiska czynnych wulkanów występują wokół wybrzeży Oceanu Spokojnego, tworząc Ognisty Pierścień Pacyfiku."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces spredingu?",
+                                      "options":  [
+                                                      "Na podsuwaniu się jednej płyty pod drugą.",
+                                                      "Na fałdowaniu osadów w strefie kolizji.",
+                                                      "Na rozrastaniu się dna oceanicznego wskutek wypływu lawy w ryftach.",
+                                                      "Na gromadzeniu się magmy w intruzjach podziemnych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wypływanie lawy przez ryfty powoduje powstawanie nowych fragmentów dna oceanicznego, a jego rozrastanie się nazywane jest spredingiem."
+                                  },
+                                  {
+                                      "question":  "Jaki typ granicy płyt litosfery występuje w miejscu, gdzie prądy konwekcyjne płyną w przeciwnych kierunkach i rozsuwają płyty?",
+                                      "options":  [
+                                                      "Strefa subdukcji.",
+                                                      "Strefa kolizji.",
+                                                      "Strefa spredingu.",
+                                                      "Strefa uskoków przesuwczych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Płyty litosfery rozsuwają się tam, gdzie prądy konwekcyjne płyną w przeciwnych kierunkach, tworząc strefy spredingu."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko zachodzi, gdy płyta oceaniczna podsuwa się pod płytę kontynentalną?",
+                                      "options":  [
+                                                      "Kolizja kontynentalna.",
+                                                      "Subdukcja.",
+                                                      "Spreding.",
+                                                      "Ruch epejrogeniczny."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy jedna płyta litosfery (najczęściej oceaniczna) podsuwa się pod drugą (np. kontynentalną), proces ten nazywamy subdukcją."
+                                  },
+                                  {
+                                      "question":  "Czym różni się lawa od magmy?",
+                                      "options":  [
+                                                      "Lawa zawiera więcej gazów niż magma.",
+                                                      "Magma to stop skalny na powierzchni, a lawa w głębi Ziemi.",
+                                                      "Magma znajduje się w głębi litosfery, a lawa to odgazowana magma na powierzchni.",
+                                                      "Nie ma między nimi różnicy, to synonimy."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Magma wydostaje się na powierzchnię w trakcie erupcji i staje się wówczas lawą; procesy plutoniczne dotyczą magmy w głębi, wulkaniczne lawy na powierzchni."
+                                  },
+                                  {
+                                      "question":  "Jakie formy rzeźby powstają w wyniku subdukcji płyty oceanicznej pod płytę oceaniczną?",
+                                      "options":  [
+                                                      "Grzbiety śródoceaniczne i ryfty.",
+                                                      "Potężne góry fałdowe typu Alpejskiego.",
+                                                      "Rowy oceaniczne i łańcuchy wysp wulkanicznych.",
+                                                      "Rozległe wyżyny kontynentalne."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gdy płyta oceaniczna podsuwa się pod inną płytę oceaniczną, oprócz rowu oceanicznego powstaje łańcuch wysp wulkanicznych."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych form jest intruzją magmatyczną powstałą w głębi litosfery?",
+                                      "options":  [
+                                                      "Stożek wulkaniczny.",
+                                                      "Lakolit.",
+                                                      "Potok lawy.",
+                                                      "Pokrywa piroklastyczna."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Intruzjami magmowymi, powstającymi głęboko pod powierzchnią, są m.in. lakolity, dajki i batolity."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzują się stratowulkany, takie jak Etna czy Wezuwiusz?",
+                                      "options":  [
+                                                      "Wyłącznie spokojnymi wylewami rzadkiej lawy.",
+                                                      "Niewielkimi rozmiarami i jednorazową erupcją.",
+                                                      "Przeplataniem gwałtownych erupcji z erupcjami o spokojnym przebiegu.",
+                                                      "Brakiem stożka wulkanicznego."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Stratowulkany to wulkany, których gwałtowne erupcje są przeplatane erupcjami o spokojnym przebiegu."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają góry fałdowe w strefie kolizji?",
+                                      "options":  [
+                                                      "Poprzez wylewy lawy na dnie oceanu.",
+                                                      "Przez wypiętrzanie warstw wzdłuż uskoków (zręby).",
+                                                      "Przez fałdowanie i wypiętrzanie osadów znajdujących się między zderzającymi się płytami kontynentalnymi.",
+                                                      "Przez zapadanie się stropu ogniska magmowego."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W strefach kolizji zderzają się dwie płyty kontynentalne, a osady między nimi są fałdowane i wypiętrzane."
+                                  },
+                                  {
+                                      "question":  "Wzdłuż zachodnich wybrzeży Ameryki Południowej płyta Nazca podsuwa się pod płytę południowoamerykańską. Jaki jest skutek tego procesu?",
+                                      "options":  [
+                                                      "Powstanie Grzbietu Śródatlantyckiego.",
+                                                      "Powstanie Rowu Atakamskiego oraz gór Andów.",
+                                                      "Powstanie Archipelagu Filipińskiego.",
+                                                      "Odsunięcie się Ameryki Południowej od Pacyfiku."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na granicy płyty południowoamerykańskiej i płyty Nazca utworzyły się Rów Atakamski oraz Andy w wyniku subdukcji."
+                                  },
+                                  {
+                                      "question":  "Płyta indyjska zderza się z płytą euroazjatycką. Jakie formy terenu powstały w wyniku tego procesu?",
+                                      "options":  [
+                                                      "Andy i Rów Atakamski.",
+                                                      "Himalaje (góry fałdowe).",
+                                                      "Rów Mariański i wyspy Mariany.",
+                                                      "Wielkie Rowy Afrykańskie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Himalaje powstały jako efekt kolizji płyty indyjskiej z płytą eurazjatycką."
+                                  },
+                                  {
+                                      "question":  "Na środku Atlantyku, od Islandii po Antarktydę, biegnie Grzbiet Śródatlantycki. Jaki proces geodynamiczny odpowiada za jego powstanie?",
+                                      "options":  [
+                                                      "Kolizja dwóch płyt kontynentalnych.",
+                                                      "Subdukcja płyty oceanicznej pod kontynentalną.",
+                                                      "Spreding (rozsuwanie się płyt).",
+                                                      "Ruchy epejrogeniczne (obniżanie lądu)."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Najdłuższy grzbiet śródoceaniczny - Grzbiet Śródatlantycki - powstał w strefie spredingu, gdzie płyty się rozsuwają."
+                                  },
+                                  {
+                                      "question":  "Archipelag Marianów i Rów Mariański powstały w zachodniej części Pacyfiku. Jaki mechanizm doprowadził do ich utworzenia?",
+                                      "options":  [
+                                                      "Zderzenie dwóch płyt kontynentalnych bez udziału procesów wulkanicznych.",
+                                                      "Podsuwanie się jednej płyty oceanicznej pod drugą płytę oceaniczną.",
+                                                      "Pęknięcie płyty kontynentalnej i powstanie ryftu.",
+                                                      "Aktywność plamy gorąca położonej z dala od granic płyt litosfery."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy płyta oceaniczna podsuwa się pod inną płytę oceaniczną, powstaje rów oceaniczny i łańcuch wysp; tak utworzyły się Rów Mariański i Mariany."
+                                  },
+                                  {
+                                      "question":  "Wulkany na Hawajach nie leżą na granicy płyt litosfery. Jaka jest geneza ich powstania?",
+                                      "options":  [
+                                                      "Powstały nad plamą gorąca, gdzie magma przebiła cienką skorupę oceaniczną.",
+                                                      "Są wynikiem kolizji płyty pacyficznej z płytą północnoamerykańską.",
+                                                      "Powstały w strefie ryftowej na skutek rozerwania kontynentu.",
+                                                      "Są to stare wulkany wygasłe przeniesione przez lodowiec."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wulkany na Hawajach powstały nad plamami gorąca, czyli tam, gdzie gorąca magma przebiła się przez cienką skorupę oceaniczną z dala od granic płyt."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Prądy konwekcyjne, które są przyczyną ruchu płyt litosfery, zachodzą w jądrze Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Prądy konwekcyjne to strumienie magmy wędrujące w płaszczu Ziemi, a nie w jej jądrze."
+                                       },
+                                       {
+                                           "sentence":  "Litosfera składa się ze skorupy ziemskiej oraz zewnętrznej części płaszcza górnego.",
+                                           "answer":  true,
+                                           "explanation":  "Skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego tworzą litosferę."
+                                       },
+                                       {
+                                           "sentence":  "Płyty litosfery są strukturami nieruchomymi, które ściśle do siebie przylegają.",
+                                           "answer":  false,
+                                           "explanation":  "Płyty litosfery znajdują się w nieustannym ruchu i przemieszczają się względem siebie."
+                                       },
+                                       {
+                                           "sentence":  "Płyty litosfery obejmują wyłącznie obszary lądowe, czyli kontynenty.",
+                                           "answer":  false,
+                                           "explanation":  "Wyróżnia się zarówno płyty kontynentalne, jak i płyty oceaniczne (np. płytę pacyficzną)."
+                                       },
+                                       {
+                                           "sentence":  "W strefach spredingu dochodzi do rozsuwania się płyt litosfery i powstawania nowych fragmentów dna oceanicznego.",
+                                           "answer":  true,
+                                           "explanation":  "Spreding to proces rozrastania się dna oceanicznego w miejscach, gdzie płyty się rozsuwają."
+                                       },
+                                       {
+                                           "sentence":  "Ryfty to wąskie i długie pęknięcia powstające w miejscach, gdzie płyty litosfery zderzają się ze sobą.",
+                                           "answer":  false,
+                                           "explanation":  "Ryfty powstają tam, gdzie litosfera jest rozciągana i płyty rozsuwają się (strefy spredingu), a nie zderzają."
+                                       },
+                                       {
+                                           "sentence":  "Grzębiety śródoceaniczne tworzą się w wyniku wypływania i zastygania lawy po obu stronach ryftu.",
+                                           "answer":  true,
+                                           "explanation":  "W efekcie spredingu i zastygania lawy tworzą się rozległe podmorskie wzniesienia zwane grzbietami śródoceanicznymi."
+                                       },
+                                       {
+                                           "sentence":  "Proces subdukcji polega na podsuwaniu się jednej płyty litosfery pod drugą.",
+                                           "answer":  true,
+                                           "explanation":  "Subdukcja zachodzi tam, gdzie prądy konwekcyjne opadają, powodując wciąganie jednej płyty pod drugą."
+                                       },
+                                       {
+                                           "sentence":  "Najmłodsza skorupa oceaniczna występuje w sąsiedztwie rowów oceanicznych.",
+                                           "answer":  false,
+                                           "explanation":  "Najmłodsza skorupa powstaje w strefach spredingu (przy grzbietach), natomiast w rowach oceanicznych (strefy subdukcji) skorupa jest niszczona."
+                                       },
+                                       {
+                                           "sentence":  "Himalaje powstały w wyniku kolizji dwóch płyt kontynentalnych.",
+                                           "answer":  true,
+                                           "explanation":  "Himalaje są efektem zderzenia płyty indyjskiej z płytą eurazjatycką (strefa kolizji)."
+                                       },
+                                       {
+                                           "sentence":  "W wyniku subdukcji płyty oceanicznej pod płytę oceaniczną powstaje rów oceaniczny oraz łuk wysp wulkanicznych.",
+                                           "answer":  true,
+                                           "explanation":  "Takim procesem wyjaśnia się powstanie Rowu Mariańskiego i archipelagu Marianów."
+                                       },
+                                       {
+                                           "sentence":  "Źródłem energii wywołującej ruch płyt litosfery jest promieniowanie słoneczne.",
+                                           "answer":  false,
+                                           "explanation":  "Źródłem energii dla procesów wewnętrznych (w tym ruchu płyt) jest energia cieplna wnętrza Ziemi."
+                                       }
+                                   ]
+                 }
+}

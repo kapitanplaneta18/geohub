@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "id": "k3-r-dz1-t8",
+    "title": "Środowisko przyrodnicze Morza Bałtyckiego",
+    "level": "R",
+    "class": "3"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Morze szelfowe",
+        "definition": "Płytkie morze leżące na zalanym przez wody oceaniczne brzegu kontynentu (szelfie), do którego zalicza się Bałtyk ze średnią głębokością 52 m."
+      },
+      {
+        "term": "Morze wewnątrzkontynentalne",
+        "definition": "Typ morza głęboko wciętego w ląd, połączonego z oceanem jedynie wąskimi cieśninami; przykładem jest Bałtyk połączony z Morzem Północnym przez Cieśniny Duńskie."
+      },
+      {
+        "term": "Zasolenie Bałtyku",
+        "definition": "Wartość średnia dla wód powierzchniowych wynosi 7–8 promili, co klasyfikuje Bałtyk jako morze słonawe (brakicze)."
+      },
+      {
+        "term": "Przyczyny niskiego zasolenia",
+        "definition": "Duży dopływ słodkich wód rzecznych, niewielkie parowanie (chłodny klimat) oraz utrudniona wymiana wód z silnie zasolonym Morzem Północnym."
+      },
+      {
+        "term": "Głębia Landsort",
+        "definition": "Najgłębsze miejsce w Morzu Bałtyckim, znajdujące się w Basenie Gotlandzkim, osiągające głębokość 459 m."
+      },
+      {
+        "term": "Bałtyckie Jezioro Lodowe",
+        "definition": "Pierwszy, słodkowodny etap rozwoju Bałtyku (12–10 tys. lat temu), powstały z wód topniejącego lądolodu skandynawskiego."
+      },
+      {
+        "term": "Morze Yoldiowe",
+        "definition": "Drugi etap rozwoju Bałtyku (10–9 tys. lat temu), charakteryzujący się połączeniem z oceanem i napływem słonych wód."
+      },
+      {
+        "term": "Jezioro Ancylusowe",
+        "definition": "Trzeci etap rozwoju (9–8 tys. lat temu), w którym nastąpiło odcięcie od oceanu i wysłodzenie wód zbiornika."
+      },
+      {
+        "term": "Morze Litorynowe",
+        "definition": "Czwarty etap (8–4 tys. lat temu), powstały po ponownym połączeniu z oceanem przez Cieśniny Duńskie; wody były cieplejsze i bardziej słone niż obecnie."
+      },
+      {
+        "term": "Morze Mya",
+        "definition": "Współczesny etap rozwoju Bałtyku, trwający od około 4 tys. lat, charakteryzujący się mniejszym zasoleniem niż w fazie litorynowej."
+      },
+      {
+        "term": "Eutrofizacja",
+        "definition": "Proces przeżyźnienia wód spowodowany nadmiarem biogenów (azotu i fosforu), prowadzący do zakwitów glonów i sinic."
+      },
+      {
+        "term": "Pustynie tlenowe",
+        "definition": "Martwe strefy przy dnie morza pozbawione tlenu, powstałe w wyniku rozkładu materii organicznej opadającej z przeżyźnionych warstw powierzchniowych."
+      },
+      {
+        "term": "Wybrzeże szkierowe",
+        "definition": "Typ wybrzeża występujący m.in. w Szwecji i Finlandii, charakteryzujący się tysiącami małych, skalistych wysepek (szkierów) wygładzonych przez lądolód."
+      },
+      {
+        "term": "Wybrzeże klifowe",
+        "definition": "Wysoki, stromy brzeg powstający w wyniku niszczącej działalności fal morskich (abrazji), występujący w Polsce np. na wyspie Wolin czy w Gdyni."
+      },
+      {
+        "term": "Wybrzeże mierzejowo-zalewowe",
+        "definition": "Typ wybrzeża charakterystyczny dla południowego Bałtyku, gdzie piaszczyste wały (mierzeje) odcinają zatoki, tworząc zalewy (np. Wiślany, Szczeciński)."
+      },
+      {
+        "term": "Konwencja Helsińska",
+        "definition": "Międzynarodowe porozumienie podpisane w 1974 r. (zaktualizowane w 1992 r.) mające na celu ochronę środowiska morskiego Bałtyku."
+      },
+      {
+        "term": "HELCOM",
+        "definition": "Komisja Ochrony Środowiska Morskiego Bałtyku, organ wykonawczy konwencji helsińskiej, monitorujący stan morza."
+      },
+      {
+        "term": "Biogeny",
+        "definition": "Związki azotu i fosforu spływające do morza z pól uprawnych i ścieków komunalnych, będące główną przyczyną eutrofizacji Bałtyku."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Morze Yoldiowe",
+        "pair2": "Połączenie z oceanem (woda słona)"
+      },
+      {
+        "pair1": "Jezioro Ancylusowe",
+        "pair2": "Brak połączenia z oceanem (woda słodka)"
+      },
+      {
+        "pair1": "Morze Litorynowe",
+        "pair2": "Szczyt zasolenia i temperatury w historii Bałtyku"
+      },
+      {
+        "pair1": "Wybrzeże szkierowe",
+        "pair2": "Szwecja i Finlandia (liczne wysepki skalne)"
+      },
+      {
+        "pair1": "Wybrzeże mierzejowe",
+        "pair2": "Polska (akumulacja piasku przez prądy)"
+      },
+      {
+        "pair1": "Głębia Landsort",
+        "pair2": "Największa głębia (459 m)"
+      },
+      {
+        "pair1": "Pustynie tlenowe",
+        "pair2": "Obszary beztlenowe na dnie morza"
+      },
+      {
+        "pair1": "Cieśniny Duńskie",
+        "pair2": "Wymiana wód z Morzem Północnym"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Do jakiego typu mórz zalicza się Morze Bałtyckie ze względu na jego głębokość i położenie na cokole kontynentalnym?",
+        "options": [
+          "Do głębokich mórz oceanicznych",
+          "Do płytkich mórz szelfowych",
+          "Do mórz abisalnych",
+          "Do otwartych mórz przybrzeżnych"
+        ],
+        "answer": "B",
+        "explanation": "Bałtyk jest morzem szelfowym, co oznacza, że leży na zalanym przez wodę fragmencie bloku kontynentalnego (szelfie), a jego średnia głębokość wynosi zaledwie 52 m."
+      },
+      {
+        "question": "Który czynnik NIE przyczynia się do niskiego zasolenia Morza Bałtyckiego (średnio 7–8 promili)?",
+        "options": [
+          "Duży dopływ słodkich wód z licznych rzek",
+          "Niewielkie parowanie wynikające z chłodnego klimatu",
+          "Utrudniona wymiana wód z Morzem Północnym przez wąskie cieśniny",
+          "Występowanie intensywnych pływów morskich mieszających wody"
+        ],
+        "answer": "D",
+        "explanation": "Pływy na Bałtyku są minimalne (kilka do kilkudziesięciu centymetrów) i nie wpływają znacząco na wymianę wód. Niskie zasolenie wynika z dużej dostawy wód słodkich, małego parowania i izolacji od oceanu."
+      },
+      {
+        "question": "W której części Morza Bałtyckiego zasolenie wody powierzchniowej jest najniższe (spada nawet poniżej 2 promili)?",
+        "options": [
+          "W Cieśninach Duńskich",
+          "W Basenie Bornholmskim",
+          "W Zatoce Botnickiej",
+          "W Rynnie Słupskiej"
+        ],
+        "answer": "C",
+        "explanation": "Zatoka Botnicka (północ) jest najmniej zasolona, ponieważ jest najbardziej oddalona od słonych wód Morza Północnego i uchodzi do niej wiele rzek, a parowanie jest tam najmniejsze."
+      },
+      {
+        "question": "Który etap rozwoju Morza Bałtyckiego charakteryzował się wodami cieplejszymi i bardziej słonymi niż obecnie?",
+        "options": [
+          "Bałtyckie Jezioro Lodowe",
+          "Jezioro Ancylusowe",
+          "Morze Litorynowe",
+          "Morze Yoldiowe"
+        ],
+        "answer": "C",
+        "explanation": "Morze Litorynowe (ok. 8–4 tys. lat temu) powstało po ponownym, szerokim połączeniu z oceanem; panował wówczas cieplejszy klimat, co sprzyjało wyższemu zasoleniu i temperaturze wód."
+      },
+      {
+        "question": "Czym są tzw. szkiery, charakterystyczne dla wybrzeży Szwecji i Finlandii?",
+        "options": [
+          "Piaszczystymi wałami odcinającymi zatoki",
+          "Wysokimi klifami wapiennymi",
+          "Setkami małych, skalistych wysepek wygładzonych przez lądolód",
+          "Głębokimi fiordami o stromych ścianach"
+        ],
+        "answer": "C",
+        "explanation": "Wybrzeże szkierowe składa się z tysięcy małych, skalistych wysepek (szkierów) i przylądków, które zostały oszlifowane przez lądolód skandynawski."
+      },
+      {
+        "question": "Jaki jest główny skutek nadmiernego dopływu związków azotu i fosforu (biogenów) do Bałtyku?",
+        "options": [
+          "Zwiększenie populacji dorsza i śledzia",
+          "Eutrofizacja (przeżyźnienie) wód prowadząca do zakwitów glonów i sinic",
+          "Obniżenie temperatury wód powierzchniowych",
+          "Zwiększenie zasolenia w strefach przybrzeżnych"
+        ],
+        "answer": "B",
+        "explanation": "Nadmiar biogenów z rolnictwa i ścieków powoduje gwałtowny rozwój glonów (eutrofizację). Ich obumieranie i rozkład zużywają tlen, co prowadzi do powstawania martwych stref."
+      },
+      {
+        "question": "Gdzie w Polsce pokrywa lodowa na Bałtyku utrzymuje się zazwyczaj najdłużej (od końca listopada do kwietnia)?",
+        "options": [
+          "Na otwartym morzu na wysokości Łeby",
+          "W Zatoce Pomorskiej",
+          "Na Zalewie Wiślanym",
+          "W Zatoce Puckiej"
+        ],
+        "answer": "C",
+        "explanation": "Zalew Wiślany jest płytkim, niemal zamkniętym akwenem o niskim zasoleniu, co sprzyja szybkiemu zamarzaniu i długiemu utrzymywaniu się lodu."
+      },
+      {
+        "question": "Jak powstają tzw. pustynie tlenowe w głębiach Bałtyku?",
+        "options": [
+          "Wskutek wycieków ropy naftowej blokujących wymianę gazową",
+          "Przez działalność podwodnych wulkanów",
+          "W wyniku rozkładu opadającej materii organicznej przy braku pionowego mieszania się wód",
+          "Z powodu nadmiernego zasolenia, które wypiera tlen"
+        ],
+        "answer": "C",
+        "explanation": "Materia organiczna (z zakwitów) opada na dno, gdzie jej rozkład zużywa tlen. Słaba wymiana wód i stratyfikacja (brak mieszania) uniemożliwiają dostawę tlenu, tworząc strefy beztlenowe."
+      },
+      {
+        "question": "Która głębia jest najgłębszym punktem Morza Bałtyckiego (459 m)?",
+        "options": [
+          "Głębia Gdańska",
+          "Głębia Bornholmska",
+          "Głębia Landsort",
+          "Głębia Gotlandzka"
+        ],
+        "answer": "C",
+        "explanation": "Głębia Landsort, położona w Basenie Gotlandzkim, jest najgłębszym miejscem Bałtyku, osiągającym 459 m p.p.m."
+      },
+      {
+        "question": "Co jest cechą charakterystyczną etapu Jeziora Ancylusowego w historii Bałtyku?",
+        "options": [
+          "Był to zbiornik słodkowodny odcięty od oceanu",
+          "Był to zbiornik o najwyższym zasoleniu w historii",
+          "Połączony był z Morzem Białym",
+          "Występowały w nim małże morskie z gatunku Mya arenaria"
+        ],
+        "answer": "A",
+        "explanation": "Jezioro Ancylusowe powstało w wyniku podniesienia się lądu (izostazja), co odcięło dopływ słonych wód; wody zbiornika uległy wysłodzeniu."
+      },
+      {
+        "question": "Dlaczego wymiana wód w Bałtyku jest bardzo powolna (trwa 40–50 lat)?",
+        "options": [
+          "Ponieważ Bałtyk jest morzem bardzo głębokim",
+          "Z powodu połączenia z oceanem jedynie przez wąskie i płytkie Cieśniny Duńskie",
+          "Z powodu braku rzek wpadających do morza",
+          "Ponieważ parowanie przewyższa opady"
+        ],
+        "answer": "B",
+        "explanation": "Wąskie i płytkie Cieśniny Duńskie stanowią barierę (próg), która drastycznie ogranicza wlewy świeżej, słonej i natlenionej wody z Morza Północnego."
+      },
+      {
+        "question": "Jaki typ wybrzeża dominuje w południowej części Bałtyku (Polska)?",
+        "options": [
+          "Wybrzeże szkierowe i fiordowe",
+          "Wybrzeże dalmatyńskie",
+          "Wybrzeże riasowe",
+          "Wybrzeże z piaszczystymi plażami, wydmami i mierzejami"
+        ],
+        "answer": "D",
+        "explanation": "Południowe wybrzeże jest obszarem akumulacji piasku, co tworzy szerokie plaże, wydmy i mierzeje (wybrzeże mierzejowo-zalewowe) oraz odcinki klifowe."
+      },
+      {
+        "question": "Czym zajmuje się Komisja HELCOM?",
+        "options": [
+          "Regulacją rybołówstwa na Morzu Północnym",
+          "Ochroną środowiska morskiego Morza Bałtyckiego",
+          "Budową gazociągów na dnie Bałtyku",
+          "Promocją turystyki w Skandynawii"
+        ],
+        "answer": "B",
+        "explanation": "HELCOM (Komisja Helsińska) to organ wykonawczy konwencji helsińskiej, którego celem jest monitorowanie i ochrona środowiska przyrodniczego Bałtyku."
+      },
+      {
+        "question": "Dlaczego latem temperatura wód powierzchniowych Bałtyku jest wyższa na południu niż na północy?",
+        "options": [
+          "Z powodu działania Prądu Zatokowego na południu",
+          "Wynika to z położenia geograficznego i różnic w dopływie energii słonecznej",
+          "Z powodu zrzutu ciepłych wód przemysłowych w Polsce",
+          "Wody na północy są ogrzewane przez wulkany"
+        ],
+        "answer": "B",
+        "explanation": "Południowa część Bałtyku leży w niższych szerokościach geograficznych, co latem zapewnia większy dopływ energii słonecznej i wyższe temperatury wód."
+      },
+      {
+        "question": "Jakie zjawisko powoduje, że powierzchnia Morza Bałtyckiego powoli się zmniejsza?",
+        "options": [
+          "Wysychanie morza z powodu zmian klimatu",
+          "Ruchy izostatyczne podnoszące Skandynawię po ustąpieniu lądolodu",
+          "Budowa sztucznych wysp",
+          "Zapadanie się dna oceanicznego"
+        ],
+        "answer": "B",
+        "explanation": "Północna część zlewni Bałtyku (Zatoka Botnicka) wciąż się podnosi (ruchy izostatyczne) po uwolnieniu od ciężaru lądolodu, co powoduje wyłanianie się lądu i zmniejszanie powierzchni morza."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Morze Bałtyckie jest głębokim morzem oceanicznym o średniej głębokości przekraczającej 1000 metrów.",
+        "answer": false,
+        "explanation": "Bałtyk jest płytkim morzem szelfowym, którego średnia głębokość wynosi zaledwie 52 m, a maksymalna głębia (Landsort) osiąga 459 m."
+      },
+      {
+        "sentence": "Główną przyczyną powstawania pustyń tlenowych w głębiach Bałtyku jest nadmierna eutrofizacja spowodowana spływem biogenów.",
+        "answer": true,
+        "explanation": "Spływ związków azotu i fosforu (głównie z rolnictwa) powoduje zakwity glonów; ich rozkład na dnie zużywa tlen, tworząc strefy beztlenowe."
+      },
+      {
+        "sentence": "Wymiana wód między Bałtykiem a Morzem Północnym jest swobodna i następuje bardzo szybko, w ciągu kilku lat.",
+        "answer": false,
+        "explanation": "Wymiana wód jest utrudniona przez wąskie i płytkie Cieśniny Duńskie, a całkowity czas wymiany wody w Bałtyku szacuje się na 40–50 lat."
+      },
+      {
+        "sentence": "Północna część Bałtyku, w tym Zatoka Botnicka, zamarza niemal każdej zimy.",
+        "answer": true,
+        "explanation": "Z powodu niskiego zasolenia i surowego klimatu północna część Bałtyku pokrywa się lodem, podczas gdy w polskiej strefie lód pojawia się rzadziej (głównie na zalewach)."
+      },
+      {
+        "sentence": "Bałtyk jest jednym z najstarszych mórz w Europie, powstałym w erze paleozoicznej.",
+        "answer": false,
+        "explanation": "Bałtyk to najmłodsze morze Europy, które zaczęło się formować w czwartorzędzie (ok. 12 tys. lat temu) w wyniku topnienia lądolodu."
+      },
+      {
+        "sentence": "Średnie zasolenie Bałtyku jest kilkakrotnie niższe niż zasolenie Morza Północnego.",
+        "answer": true,
+        "explanation": "Bałtyk jest morzem słonawym (ok. 7–8‰), podczas gdy zasolenie otwartego Morza Północnego wynosi 31–35‰."
+      },
+      {
+        "sentence": "Wybrzeża szkierowe, charakterystyczne dla Szwecji i Finlandii, powstały w wyniku działalności akumulacyjnej rzek.",
+        "answer": false,
+        "explanation": "Wybrzeża szkierowe powstały w wyniku działalności lądolodu, który wygładził tysiące skalistych wysepek i przylądków."
+      },
+      {
+        "sentence": "Jezioro Ancylusowe było etapem rozwoju Bałtyku, w którym zbiornik był całkowicie odcięty od oceanu i wypełniony słodką wodą.",
+        "answer": true,
+        "explanation": "W fazie Jeziora Ancylusowego (ok. 9–8 tys. lat temu) podnoszenie się lądu odcięło dopływ słonych wód, co doprowadziło do wysłodzenia zbiornika."
+      },
+      {
+        "sentence": "Największe zanieczyszczenie Bałtyku pochodzi z wycieków ropy naftowej na pełnym morzu.",
+        "answer": false,
+        "explanation": "Aż ok. 97% zanieczyszczeń trafiających do Bałtyku pochodzi z lądu (rolnictwo, przemysł, gospodarka komunalna), a nie z działalności na morzu."
+      },
+      {
+        "sentence": "Powierzchnia zlewiska Morza Bałtyckiego jest ponad czterokrotnie większa od powierzchni samego morza.",
+        "answer": true,
+        "explanation": "Powierzchnia morza to ok. 415 tys. km², natomiast jego zlewisko zajmuje aż 1,7 mln km², co sprzyja gromadzeniu zanieczyszczeń spływających rzekami."
+      },
+      {
+        "sentence": "Współczesny etap rozwoju Bałtyku nosi nazwę Morza Litorynowego.",
+        "answer": false,
+        "explanation": "Obecny etap (trwający od ok. 4 tys. lat) to Morze Mya; Morze Litorynowe było wcześniejszą fazą o wyższym zasoleniu i temperaturze."
+      },
+      {
+        "sentence": "Komisja HELCOM zajmuje się monitorowaniem i ochroną środowiska Morza Bałtyckiego.",
+        "answer": true,
+        "explanation": "Jest to organ wykonawczy konwencji helsińskiej powołany do ochrony ekosystemu Bałtyku przed zanieczyszczeniami."
+      }
+    ]
+  }
+}

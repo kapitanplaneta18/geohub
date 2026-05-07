@@ -1,0 +1,407 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz2-t3",
+                     "title":  "Wyżyny Polskie",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Geneza wąwozów lessowych (Wyżyna Lubelska)",
+                                              "definition":  "Grube pokrywy lessowe są skałą zwięzłą, ale bardzo podatną na erozję wodną, co po usunięciu roślinności leśnej doprowadziło do powstania gęstej sieci głębokich wąwozów i parowów."
+                                          },
+                                          {
+                                              "term":  "Krasowienie wapieni (Jura Krakowsko-Częstochowska)",
+                                              "definition":  "Proces chemicznego rozpuszczania skał wapiennych przez wodę nasyconą dwutlenkiem węgla, skutkujący powstaniem jaskiń, dolin krasowych i ostańców."
+                                          },
+                                          {
+                                              "term":  "Występowanie węgla kamiennego (Wyżyna Śląska)",
+                                              "definition":  "Wynika z obecności zapadliska tektonicznego powstałego w orogenezie hercyńskiej (karbon), w którym bujna roślinność bagienna przekształciła się w pokłady węgla, przykryte później osadami mezozoicznymi."
+                                          },
+                                          {
+                                              "term":  "Deficyt wód powierzchniowych na Wyżynie Śląskiej",
+                                              "definition":  "Jest skutkiem położenia na dziale wodnym Wisły i Odry oraz działalności górniczej, która powoduje powstawanie lejów depresyjne i ucieczkę wód do wyrobisk podziemnych."
+                                          },
+                                          {
+                                              "term":  "Gleby rędziny",
+                                              "definition":  "Żyzne, ale trudne w uprawie (kamieniste) gleby powstające bezpośrednio na skałach węglanowych (wapieniach, dolomitach) lub siarczanowych (gipsach), charakterystyczne dla Wyżyny Krakowsko-Częstochowskiej i Niecki Nidziańskiej."
+                                          },
+                                          {
+                                              "term":  "Ostańce wapienne (np. Maczuga Herkulesa)",
+                                              "definition":  "Izolowane formy skalne zbudowane z twardszych partii wapienia, które oparły się procesom wietrzenia i erozji, podczas gdy otaczające je mniej odporne skały zostały usunięte."
+                                          },
+                                          {
+                                              "term":  "Kras gipsowy (Niecka Nidziańska)",
+                                              "definition":  "Unikalny rodzaj procesów krasowych zachodzący w osadach gipsowych (siarczan wapnia), prowadzący do powstania lejów, zapadlisk i jaskiń w rejonie Buska-Zdroju."
+                                          },
+                                          {
+                                              "term":  "Geneza czarnoziemów na Wyżynie Lubelskiej",
+                                              "definition":  "Powstały na podłożu lessowym przy udziale roślinności stepowej i lasostepowej, co pozwoliło na wytworzenie grubego poziomu próchnicznego i stworzenie najlepszych gleb w Polsce."
+                                          },
+                                          {
+                                              "term":  "Pustynia Błędowska",
+                                              "definition":  "Obszar piaszczysk pochodzenia polodowcowego, który został odsłonięty i aktywowany eolicznie (przewiewany) w wyniku intensywnej wycinki lasów na potrzeby górnictwa."
+                                          },
+                                          {
+                                              "term":  "Krajobraz antropogeniczny Wyżyny Śląskiej",
+                                              "definition":  "Ukształtowanie terenu silnie zmienione przez człowieka, obejmujące hałdy, wyrobiska, leje zapadliskowe oraz gęstą zabudowę miejsko-przemysłową."
+                                          },
+                                          {
+                                              "term":  "Budowa geologiczna Niecki Nidziańskiej",
+                                              "definition":  "Struktura synklinalna (niecka) wypełniona osadami morskimi z kredy (margle), a następnie pokryta osadami trzeciorzędowymi (gipsy) i czwartorzędowymi (lessy)."
+                                          },
+                                          {
+                                              "term":  "Wody mineralne Niecki Nidziańskiej",
+                                              "definition":  "Występowanie wód siarczkowych i chlorkowo-sodowych związane jest z obecnością pokładów gipsu i soli w budowie geologicznej, co umożliwiło rozwój uzdrowisk."
+                                          },
+                                          {
+                                              "term":  "Roztocze - odrębność geomorfologiczna",
+                                              "definition":  "Wyraźny wał wzniesień oddzielający Wyżynę Lubelską od Kotliny Sandomierskiej, zbudowany z wapieni i piaskowców, charakteryzujący się większą lesistością niż sąsiednie krainy lessowe."
+                                          },
+                                          {
+                                              "term":  "Suche doliny (Wyżyna Krakowsko-Częstochowska)",
+                                              "definition":  "Doliny rzeczne pozbawione stałego cieku wodnego, co wynika z dużej przepuszczalności krasowiejącego podłoża wapiennego i ucieczki wody w głąb górotworu."
+                                          },
+                                          {
+                                              "term":  "Monokultura rolnicza Wyżyny Lubelskiej",
+                                              "definition":  "Dominacja gruntów ornych i bardzo niska lesistość (ok. 10% w niektórych powiatach) wynikająca z występowania wybitnie żyznych czarnoziemów lessowych."
+                                          },
+                                          {
+                                              "term":  "Skamieniałości amonitów (Jura)",
+                                              "definition":  "Świadectwo morskiej przeszłości tego terenu w mezozoiku (jurze), kiedy w ciepłym i płytkim morzu osadzały się wapienie budujące dziś wyżynę."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Wyżyna Krakowsko-Częstochowska (Skała)",
+                                                 "pair2":  "Wapienie górnej jury"
+                                             },
+                                             {
+                                                 "pair1":  "Wyżyna Śląska (Skała)",
+                                                 "pair2":  "Karbońskie piaskowce i łupki z węglem"
+                                             },
+                                             {
+                                                 "pair1":  "Niecka Nidziańska (Skała)",
+                                                 "pair2":  "Gipsy i margle"
+                                             },
+                                             {
+                                                 "pair1":  "Wyżyna Lubelska (Skała)",
+                                                 "pair2":  "Grube pokrywy lessowe"
+                                             },
+                                             {
+                                                 "pair1":  "Krasowienie (Skutek)",
+                                                 "pair2":  "Powstanie jaskiń i dolin bezodpływowych"
+                                             },
+                                             {
+                                                 "pair1":  "Erozja wąwozowa (Skutek)",
+                                                 "pair2":  "Rozcięcie pokryw lessowych przez wody opadowe"
+                                             },
+                                             {
+                                                 "pair1":  "Górnictwo węglowe (Skutek)",
+                                                 "pair2":  "Osiadanie terenu i powstawanie hałd"
+                                             },
+                                             {
+                                                 "pair1":  "Przepuszczalność wapieni (Skutek)",
+                                                 "pair2":  "Niedobór wód powierzchniowych (suche doliny)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Dlaczego na Wyżynie Lubelskiej, w przeciwieństwie do Roztocza, występuje bardzo niska lesistość (w niektórych powiatach ok. 10%)?",
+                                      "options":  [
+                                                      "Ponieważ na Wyżynie Lubelskiej występują deficyty wód uniemożliwiające wzrost lasów.",
+                                                      "Ze względu na występowanie bardzo żyznych czarnoziemów lessowych, które zostały zajęte pod intensywne rolnictwo.",
+                                                      "Ponieważ podłoże wapienne Wyżyny Lubelskiej jest zbyt skaliste dla systemów korzeniowych drzew.",
+                                                      "Z powodu silnego zanieczyszczenia powietrza, które doprowadziło do obumarcia naturalnych lasów bukowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na grubej warstwie lessów, przy udziale dawnej roślinności stepowej, wykształciły się najżyźniejsze w Polsce gleby (czarnoziemy). Sprawiło to, że człowiek wyciął pierwotne lasy pod uprawy."
+                                  },
+                                  {
+                                      "question":  "Jaki ciąg przyczynowo-skutkowy wyjaśnia powstawanie głębokich wąwozów na Wyżynie Lubelskiej?",
+                                      "options":  [
+                                                      "Wapienne podłoże -\u003e Rozpuszczanie przez wodę z CO2 -\u003e Zapadanie się stropów jaskiń.",
+                                                      "Lessowe podłoże -\u003e Usunięcie lasów przez człowieka -\u003e Łatwe wypłukiwanie luźnej skały przez wody opadowe.",
+                                                      "Występowanie gipsów -\u003e Uwadosienie gruntu -\u003e Powstanie lejów zapadliskowych.",
+                                                      "Działalność lodowca -\u003e Akumulacja moren -\u003e Rozcięcie moren przez wody roztopowe."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Less jest skałą zwięzłą, ale mało odporną na erozję wodną. Po usunięciu naturalnej pokrywy leśnej, wody opadowe zaczęły gwałtownie żłobić grunt."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na Wyżynie Śląskiej występuje zjawisko deficytu wód powierzchniowych, mimo relatywnie wysokich opadów?",
+                                      "options":  [
+                                                      "Ponieważ woda szybko paruje z nagrzanych betonowych powierzchni miast.",
+                                                      "Z powodu położenia na dziale wodnym Wisły i Odry oraz ucieczki wód do podziemnych wyrobisk górniczych.",
+                                                      "Ponieważ podłoże zbudowane jest z silnie krasowiejących wapieni jurajskich, które wchłaniają całą wodę.",
+                                                      "Ze względu na brak rzek w tym regionie i całkowite uzależnienie od wód opadowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Deficyt wynika z położenia na dziale wodnym (wody odpływają) oraz działalności górniczej, która narusza warstwy wodonośne."
+                                  },
+                                  {
+                                      "question":  "Co jest geologiczną przyczyną występowania rzadkiego krasu gipsowego w Niecce Nidziańskiej?",
+                                      "options":  [
+                                                      "Występowanie trzeciorzędowych osadów siarczanowych (gipsów), które rozpuszczają się w wodzie łatwiej niż węglany.",
+                                                      "Obecność starych skał wulkanicznych, które ulegają wietrzeniu chemicznemu.",
+                                                      "Nagromadzenie soli kamiennej, która tworzy wysady solne przebijające warstwy osadowe.",
+                                                      "Występowanie głębokich pęknięć tektonicznych w skałach granitowych."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Niecka Nidziańska wypełniona jest osadami morskimi z trzeciorzędu, w tym gipsami, które są znacznie łatwiej rozpuszczalne w wodzie niż wapienie."
+                                  },
+                                  {
+                                      "question":  "Z czego wynika występowanie ostańców wapiennych (np. Maczugi Herkulesa) na Wyżynie Krakowsko-Częstochowskiej?",
+                                      "options":  [
+                                                      "Są to fragmenty skał przywleczone przez lądolód skandynawski (eratyki).",
+                                                      "Powstały z twardszych partii wapienia, które oparły się procesom krasowienia, podczas gdy otoczenie uległo rozpuszczeniu.",
+                                                      "Są to skamieniałe kominy dawnych wulkanów podmorskich.",
+                                                      "Zostały zbudowane przez człowieka jako elementy średniowiecznych fortyfikacji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ostańce to twardzielce – fragmenty masywu skalnego, które ze względu na większą odporność nie uległy zniszczeniu tak szybko jak skały je otaczające."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Pustynia Błędowska jest nazywana „antropogeniczną”, mimo że piasek jest pochodzenia naturalnego?",
+                                      "options":  [
+                                                      "Ponieważ piasek został tam przywieziony ciężarówkami w celu stworzenia poligonu.",
+                                                      "Ponieważ odsłonięcie naturalnych piasków polodowcowych nastąpiło wskutek masowej wycinki lasów na potrzeby górnictwa.",
+                                                      "Ponieważ klimat tego obszaru został sztucznie zmieniony przez emisje przemysłowe.",
+                                                      "Ponieważ jest to teren po dawnym wyrobisku kopalni piasku podsadzkowego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Piaski są naturalne, ale pustynia powstała, gdy w XIII w. ludzie wycięli bory sosnowe dla górnictwa, co uruchomiło procesy eoliczne."
+                                  },
+                                  {
+                                      "question":  "Jaki proces geologiczny odpowiada za powstanie złóż węgla kamiennego na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Osadzanie się szczątków zwierząt morskich na dnie płytkiego morza w jurze.",
+                                                      "Gromadzenie się roślinności bagiennej w zapadlisku tektonicznym w karbonie i jej późniejsze uwęglenie pod ciśnieniem.",
+                                                      "Wylewy lawy bazaltowej, która przykryła lasy tropikalne w trzeciorzędzie.",
+                                                      "Naniesienie materiału organicznego przez rzeki spływające z gór w plejstocenie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W karbonie w gorącym klimacie roślinność bagienna gromadziła się w zapadlisku i przekształciła w węgiel."
+                                  },
+                                  {
+                                      "question":  "Dlaczego doliny rzeczne na Wyżynie Krakowsko-Częstochowskiej często są suche (bezodpływowe) na znacznych odcinkach?",
+                                      "options":  [
+                                                      "Ponieważ opady w tym regionie są najniższe w Polsce.",
+                                                      "Z powodu krasowienia podłoża wapiennego, co powoduje ucieczkę wód powierzchniowych szczelinami w głąb górotworu.",
+                                                      "Wskutek poboru wody przez przemysł aglomeracji krakowskiej.",
+                                                      "Ponieważ rzeki zostały sztucznie skanalizowane i poprowadzone rurociągami."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wapienie są przepuszczalne. Woda opadowa wnika w głąb systemu szczelin i jaskiń krasowych, zamiast spływać po powierzchni."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną występowania bogatych złóż wód mineralnych (siarczkowych, solankowych) w Niecce Nidziańskiej?",
+                                      "options":  [
+                                                      "Obecność w podłożu gipsów i soli, które wzbogacają wody podziemne w specyficzne minerały.",
+                                                      "Sąsiedztwo z Górami Świętokrzyskimi, skąd spływają wody zmineralizowane.",
+                                                      "Działalność wulkaniczna, która podgrzewa wody gruntowe.",
+                                                      "Zanieczyszczenie wód powierzchniowych przez przemysł siarkowy."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wody krążące w osadach morskich (gipsy, sole) rozpuszczają minerały, stając się wodami leczniczymi."
+                                  },
+                                  {
+                                      "question":  "Dlaczego gleby rędziny, mimo wysokiej żyzności, są trudne w uprawie?",
+                                      "options":  [
+                                                      "Ponieważ są silnie zakwaszone przez kwaśne deszcze.",
+                                                      "Ponieważ zawierają liczne odłamki skał wapiennych (szkieletowe) i są trudne do orania.",
+                                                      "Z powodu zbyt wysokiego poziomu wód gruntowych, co powoduje gnicie roślin.",
+                                                      "Ponieważ występują wyłącznie na bardzo stromych stokach górskich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rędziny są płytkie i przemieszane z twardymi okruchami skały macierzystej, co utrudnia mechanizację prac polowych."
+                                  },
+                                  {
+                                      "question":  "Jaką rolę w krajobrazie Wyżyny Krakowsko-Częstochowskiej odgrywają „bramy” (np. Brama Krakowska)?",
+                                      "options":  [
+                                                      "Są to sztuczne przekopy wykonane pod drogi.",
+                                                      "Są to zwężenia dolin rzecznych powstałe w miejscach występowania twardszych skał wapiennych.",
+                                                      "To pozostałości po dawnych systemach jaskiniowych, których strop się zawalił.",
+                                                      "Są to miejsca, gdzie rzeka zmienia bieg o 90 stopni."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bramy skalne to zwężenia dolin powstałe, gdy rzeka napotyka na swojej drodze wyjątkowo odporne bloki skalne."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają stalaktyty w jaskiniach krasowych?",
+                                      "options":  [
+                                                      "Przez erozję mechaniczną wody płynącej pod ciśnieniem.",
+                                                      "W wyniku wytrącania się węglanu wapnia z wody kapiącej ze stropu i ulatniania się CO2.",
+                                                      "Przez krystalizację soli kamiennej z oparów wodnych.",
+                                                      "Na skutek zamarzania wody przeciekającej przez szczeliny skalne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ulatnianie się dwutlenku węgla z kapiącej wody powoduje wytrącenie się kalcytu, który buduje naciek."
+                                  },
+                                  {
+                                      "question":  "Co świadczy o morskim pochodzeniu skał budujących Wyżynę Krakowsko-Częstochowską?",
+                                      "options":  [
+                                                      "Obecność pokładów soli kamiennej na powierzchni.",
+                                                      "Liczne skamieniałości amonitów i jeżowców w wapieniach.",
+                                                      "Występowanie otoczaków rzecznych w jaskiniach.",
+                                                      "Ślady falowania utrwalone w granitach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wapienie górnej jury osadzały się na dnie morza, czego dowodem są skamieniałości np. amonitów."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Wyżyna Śląska geologicznie określana jest jako „niecka” (Niecka Górnośląska), mimo że jest wzniesieniem?",
+                                      "options":  [
+                                                      "Ponieważ jej powierzchnia jest wklęsła jak misa.",
+                                                      "Ponieważ geologicznie stanowi zapadlisko wypełnione osadami, które zostało później wypiętrzone.",
+                                                      "Jest to błąd w nazewnictwie geograficznym.",
+                                                      "Ponieważ została sztucznie obniżona przez wydobycie węgla."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W sensie tektonicznym jest to niecka (zapadlisko), która wypełniła się osadami i została wypiętrzona w kenozoiku."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na rolnictwo ma budowa geologiczna Niecki Nidziańskiej?",
+                                      "options":  [
+                                                      "Negatywny, z powodu zasolenia gleb przez wysady solne.",
+                                                      "Pozytywny, dzięki występowaniu żyznych gleb (rędziny na gipsach/wapieniach, czarnoziemy na lessach).",
+                                                      "Neutralny, ponieważ rolnictwo zależy tylko od klimatu.",
+                                                      "Negatywny, z powodu braku wody pitnej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mozaika żyznych gleb (rędziny, czarnoziemy) czyni ten region bardzo korzystnym dla rolnictwa."
+                                  },
+                                  {
+                                      "question":  "Dlaczego krajobraz wyżyn polskich określa się mianem „staroglacjalnego”?",
+                                      "options":  [
+                                                      "Ponieważ lądolód nigdy nie dotarł na tereny wyżynne.",
+                                                      "Ponieważ lądolód pokrywał je tylko podczas starszych zlodowaceń, a formy polodowcowe uległy zniszczeniu.",
+                                                      "Ponieważ jeziora wyparowały na skutek ocieplenia klimatu.",
+                                                      "Ponieważ woda z jezior uciekła do wyrobisk górniczych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wyżyny były objęte starszymi zlodowaceniami, ale nie ostatnim, dlatego rzeźba jest zdenudowana i pozbawiona jezior."
+                                  },
+                                  {
+                                      "question":  "Jaka cecha budowy geologicznej Roztocza odróżnia je od sąsiedniej Wyżyny Lubelskiej?",
+                                      "options":  [
+                                                      "Brak pokrywy lessowej i występowanie nagich skał wapiennych.",
+                                                      "Występowanie wychodni starszych skał i mniejsza miąższość lessów, co skutkuje wyższą lesistością.",
+                                                      "Całkowite przykrycie terenu piaskami sandrowymi.",
+                                                      "Obecność skał wulkanicznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Roztocze ma cieńsze i nieciągłe pokrywy lessowe oraz słabsze gleby piaszczyste w porównaniu do rolniczej Wyżyny Lubelskiej."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną powstawania lejów depresyjnych na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Naturalne procesy krasowe w wapieniach.",
+                                                      "Wypompowywanie wód podziemnych z kopalń w celu umożliwienia wydobycia surowców.",
+                                                      "Nadmierny pobór wody przez rolnictwo.",
+                                                      "Zapadanie się pustych przestrzeni po jaskiniach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Odwadnianie wyrobisk górniczych powoduje obniżenie zwierciadła wód podziemnych, tworząc lej depresyjny."
+                                  },
+                                  {
+                                      "question":  "Dlaczego rzeki na Wyżynie Lubelskiej i Roztoczu mają charakterystyczny, głęboko wcięty profil?",
+                                      "options":  [
+                                                      "Ponieważ płyną po bardzo twardym podłożu granitowym.",
+                                                      "Ponieważ obszar ten ulega powolnemu wypiętrzaniu, co zmusza rzeki do erozji wgłębnej w miękkim podłożu.",
+                                                      "Ponieważ są to rzeki okresowe.",
+                                                      "Ponieważ zostały sztucznie pogłębione."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rzeki erodują wgłębnie, wcinając się w podatny less i spękane wapienie."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstały złoża rud cynku i ołowiu na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Powstały w bagnach karbońskich razem z węglem.",
+                                                      "Wytrąciły się z roztworów wodnych w skałach węglanowych (dolomitach) triasu.",
+                                                      "Są pochodzenia wulkanicznego.",
+                                                      "Zostały naniesione przez lodowiec."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rudy te powstały w procesach hydrotermalnych lub osadowych w dolomitach triasowych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Wyżyna Lubelska nazywana jest „spichlerzem Polski”?",
+                                      "options":  [
+                                                      "Z powodu rozwiniętego przemysłu przetwórczego.",
+                                                      "Ze względu na dominację upraw zbóż i buraków cukrowych na bardzo żyznych czarnoziemach.",
+                                                      "Ponieważ magazynuje się tam rezerwy żywności.",
+                                                      "Dzięki występowaniu wielkich gospodarstw hodowlanych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dzięki czarnoziemom lessowym, region ten specjalizuje się w wymagających uprawach (pszenica, buraki)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Występujące na Wyżynie Śląskiej złoża węgla kamiennego powstały w erze mezozoicznej (w triasie).",
+                                           "answer":  false,
+                                           "explanation":  "Złoża węgla kamiennego na Wyżynie Śląskiej powstały w erze paleozoicznej (w karbonie)."
+                                       },
+                                       {
+                                           "sentence":  "Krajobraz wyżyn polskich określa się mianem staroglacjalnego, ponieważ lądolód pokrywał te tereny tylko w czasie starszych zlodowaceń.",
+                                           "answer":  true,
+                                           "explanation":  "Lądolód dotarł na wyżyny podczas starszych zlodowaceń, ale nie objął ich podczas ostatniego."
+                                       },
+                                       {
+                                           "sentence":  "W Niecce Nidziańskiej zjawiska krasowe zachodzą głównie w skałach gipsowych.",
+                                           "answer":  true,
+                                           "explanation":  "Niecka Nidziańska słynie z unikalnego krasu gipsowego w osadach trzeciorzędowych."
+                                       },
+                                       {
+                                           "sentence":  "Monokultura rolnicza i niska lesistość Wyżyny Lubelskiej wynikają z występowania tam mało żyznych gleb bielicowych.",
+                                           "answer":  false,
+                                           "explanation":  "Wyżyna Lubelska jest regionem rolniczym ze względu na występowanie bardzo żyznych czarnoziemów."
+                                       },
+                                       {
+                                           "sentence":  "Deficyt wód na Wyżynie Śląskiej jest spowodowany wyłącznie czynnikami naturalnymi.",
+                                           "answer":  false,
+                                           "explanation":  "Deficyt wód jest potęgowany przez działalność człowieka (górnictwo)."
+                                       },
+                                       {
+                                           "sentence":  "Ostańce skalne na Wyżynie Krakowsko-Częstochowskiej są fragmentami skał twardszych, które oparły się procesom krasowienia.",
+                                           "answer":  true,
+                                           "explanation":  "Ostańce to twardzielce z odpornych partii wapienia."
+                                       },
+                                       {
+                                           "sentence":  "Gęsta sieć wąwozów na Wyżynie Lubelskiej jest skutkiem dużej odporności pokryw lessowych na erozję wodną.",
+                                           "answer":  false,
+                                           "explanation":  "Less jest bardzo podatny na erozję wodną."
+                                       },
+                                       {
+                                           "sentence":  "Pustynia Błędowska powstała w wyniku naturalnych zmian klimatycznych.",
+                                           "answer":  false,
+                                           "explanation":  "Pustynia Błędowska ma genezę antropogeniczną (wycinka lasów)."
+                                       },
+                                       {
+                                           "sentence":  "Występowanie wód mineralnych w Niecce Nidziańskiej jest związane z obecnością w podłożu gipsów i soli.",
+                                           "answer":  true,
+                                           "explanation":  "Wody podziemne wzbogacają się w minerały z osadów morskich (gipsy, sole)."
+                                       },
+                                       {
+                                           "sentence":  "Obecność skamieniałych amonitów w skałach Wyżyny Krakowsko-Częstochowskiej dowodzi, że obszar ten w mezozoiku był lądem.",
+                                           "answer":  false,
+                                           "explanation":  "Amonity to organizmy morskie, dowodzą istnienia morza."
+                                       },
+                                       {
+                                           "sentence":  "Gleby rędziny charakteryzują się wysoką żyznością, ale są trudne w uprawie ze względu na obecność odłamków skalnych.",
+                                           "answer":  true,
+                                           "explanation":  "Rędziny są bogate w próchnicę, ale kamieniste."
+                                       },
+                                       {
+                                           "sentence":  "Geologicznie Wyżyna Śląska stanowi wypiętrzony zrąb tektoniczny, który nigdy nie był przykryty morzem.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to niecka wypełniona osadami, która była zalana przez morze (np. w triasie)."
+                                       }
+                                   ]
+                 }
+}

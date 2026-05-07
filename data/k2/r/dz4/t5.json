@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-dz4-t5",
+    "title": "Główne obszary chowu zwierząt",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Pogłowie",
+        "definition": "Liczba zwierząt jednego gatunku występujących w danym czasie na określonym obszarze."
+      },
+      {
+        "term": "Chów ekstensywny",
+        "definition": "Typ chowu polegający na wypasaniu zwierząt na naturalnych pastwiskach, prowadzony głównie w państwach słabo rozwiniętych oraz m.in. w USA, Australii i Brazylii."
+      },
+      {
+        "term": "Chów intensywny",
+        "definition": "Typ chowu odbywający się na wyspecjalizowanych farmach (np. w Belgii czy Holandii), gdzie zwierzęta karmi się wysokowartościowymi paszami przyspieszającymi przyrost masy."
+      },
+      {
+        "term": "Chów oborowy",
+        "definition": "Forma chowu intensywnego, w którym zwierzęta przez cały rok są utrzymywane w specjalnie przystosowanych budynkach gospodarskich."
+      },
+      {
+        "term": "Chów pastwiskowo-oborowy",
+        "definition": "Rodzaj chowu mieszanego, w którym zwierzęta spędzają część roku na pastwisku, a pozostałą część w pomieszczeniu."
+      },
+      {
+        "term": "Wpływ hinduizmu na rolnictwo",
+        "definition": "Uznawanie krów za zwierzęta święte, co skutkuje zakazem ich zabijania i sprawia, że w Indiach chów bydła nie wiąże się z produkcją wołowiny."
+      },
+      {
+        "term": "Wpływ islamu i judaizmu na rolnictwo",
+        "definition": "Zakaz spożywania wieprzowiny narzucony przez te religie powoduje, że chów trzody chlewnej ma w tych kręgach kulturowych marginalne znaczenie."
+      },
+      {
+        "term": "Chów bydła",
+        "definition": "Prowadzony głównie w kierunku mlecznym (np. w USA i Europie) oraz mięsnym (np. wypas pastwiskowy w Ameryce Południowej). Największe pogłowie posiadają Brazylia i Indie."
+      },
+      {
+        "term": "Chów trzody chlewnej",
+        "definition": "Najbardziej dochodowa gałąź produkcji zwierzęcej charakteryzująca się szybkim przyrostem masy i dużą rozrodczością. Zdecydowanym liderem pogłowia są Chiny."
+      },
+      {
+        "term": "Chów owiec",
+        "definition": "Ma charakter ekstensywny ze względu na niewielkie wymagania pokarmowe i odporność na trudny klimat. Największe pogłowie występuje w Chinach i Australii."
+      },
+      {
+        "term": "Chów drobiu",
+        "definition": "Produkcja łatwa, tania i bardzo popularna, głównie o charakterze intensywnym (klatkowym), z nastawieniem na mięso i jaja. Dominują Chiny i USA."
+      },
+      {
+        "term": "Chów zwierząt a hodowla",
+        "definition": "Chów to wszelka działalność związana z utrzymaniem zwierząt gospodarskich, natomiast hodowla to węższe pojęcie oznaczające ulepszanie cech dziedzicznych i wartości użytkowej zwierząt."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Hinduizm",
+        "pair2": "Zakaz zabijania krów i spożywania wołowiny (np. w Indiach)"
+      },
+      {
+        "pair1": "Islam i Judaizm",
+        "pair2": "Zakaz spożywania wieprzowiny ograniczający chów trzody chlewnej"
+      },
+      {
+        "pair1": "Trzoda chlewna",
+        "pair2": "Chiny, które posiadają niemal połowę światowego pogłowia tego gatunku"
+      },
+      {
+        "pair1": "Bydło",
+        "pair2": "Brazylia (głównie kierunek mięsny) oraz Indie (względy religijne)"
+      },
+      {
+        "pair1": "Owce",
+        "pair2": "Australia (np. merynosy dające wysokiej jakości wełnę) oraz Chiny"
+      },
+      {
+        "pair1": "Renifery",
+        "pair2": "Strefa okołobiegunowa (jedyny udomowiony tam gatunek zwierzęcia gospodarskiego)"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Które państwo zajmuje pozycję lidera i posiada największe na świecie pogłowie trzody chlewnej?",
+        "options": [
+          "Dania",
+          "Rosja",
+          "Indie",
+          "Chiny"
+        ],
+        "answer": "D",
+        "explanation": "Według podręcznika zdecydowanym liderem światowego pogłowia trzody chlewnej są Chiny, które skupiają niemal połowę zwierząt tego gatunku."
+      },
+      {
+        "question": "Z powodu jakich barier religijnych chów trzody chlewnej na niektórych obszarach ma jedynie marginalne znaczenie?",
+        "options": [
+          "Buddyzm oraz islam",
+          "Judaizm i hinduizm",
+          "Islam oraz judaizm",
+          "Hinduizm i buddyzm"
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z tekstem, islam oraz judaizm zabraniają spożywania wieprzowiny, co silnie ogranicza chów trzody chlewnej w obrębie tych kultur."
+      },
+      {
+        "question": "Dlaczego w Indiach, mimo bardzo dużego pogłowia bydła domowego, produkcja wołowiny pozostaje stosunkowo niewielka?",
+        "options": [
+          "Klimat uniemożliwia produkcję dużych ilości",
+          "Krowy są tam święte ze względu na hinduizm",
+          "Brak tam odpowiednich rzeźni przemysłowych",
+          "Większość zwierząt eksportuje się do Europy"
+        ],
+        "answer": "B",
+        "explanation": "W hinduizmie, który jest religią dominującą w Indiach, krowy uznawane są za zwierzęta święte, z czym wiąże się kategoryczny zakaz ich zabijania i spożywania."
+      },
+      {
+        "question": "Czym różni się ogólne pojęcie chowu zwierząt od bardziej specjalistycznego pojęcia hodowli?",
+        "options": [
+          "Chów to ogólne utrzymanie, a hodowla ulepszanie.",
+          "Hodowla to ogólne utrzymanie, a chów ulepszanie.",
+          "Chów dotyczy tylko ptaków, a hodowla tylko ssaków.",
+          "Hodowla dotyczy tylko ptaków, a chów tylko ssaków."
+        ],
+        "answer": "A",
+        "explanation": "Podręcznik definiuje chów jako samą działalność związaną z utrzymaniem zwierząt gospodarskich, natomiast hodowla ma węższe znaczenie i oznacza ulepszanie cech dziedzicznych zwierząt."
+      },
+      {
+        "question": "Która z wymienionych cech najlepiej opisuje tradycyjny, ekstensywny typ chowu zwierząt gospodarskich?",
+        "options": [
+          "Zwierzęta utrzymuje się w oborach przez cały rok",
+          "Zwierzęta karmi się wysokowartościowymi paszami",
+          "Zwierzęta wykazują najszybszy przyrost masy ciała",
+          "Zwierzęta wypasa się na naturalnych pastwiskach"
+        ],
+        "answer": "D",
+        "explanation": "Chów ekstensywny opiera się na tradycyjnym wypasie zwierząt na naturalnych łąkach i pastwiskach i rzadko wspomagany jest paszami o wysokiej wartości z dodatkami przyspieszającymi przyrost."
+      },
+      {
+        "question": "Dla których z poniższych państw najbardziej charakterystyczny jest wysoko zmechanizowany, intensywny chów zwierząt?",
+        "options": [
+          "W krajach takich jak Czad oraz Madagaskar",
+          "W krajach takich jak Belgia oraz Holandia",
+          "W krajach takich jak Mongolia i Kazachstan",
+          "W krajach takich jak Boliwia oraz Paragwaj"
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z tekstem, chów intensywny w wyspecjalizowanych oborach (z zastosowaniem wysokowartościowych pasz) dominuje w wysoko rozwiniętych krajach zachodniej Europy, np. w Belgii i Holandii."
+      },
+      {
+        "question": "Z jakiego powodu chów owiec przeważnie odbywa się w systemie ekstensywnym, często na terenach o słabszej jakości gleb?",
+        "options": [
+          "Ponieważ znoszą wyłącznie łagodny klimat nizinny",
+          "Ponieważ wymagają stałego dostępu do antybiotyków",
+          "Ponieważ mają bardzo małe wymagania pokarmowe",
+          "Ponieważ ich chów intensywny jest zakazany prawem"
+        ],
+        "answer": "C",
+        "explanation": "Owce charakteryzują się niewielkimi wymaganiami pokarmowymi i są odporne na trudny klimat, przez co można je z powodzeniem wypasać na gorszych, trudnodostępnych pastwiskach."
+      },
+      {
+        "question": "Jaki główny kierunek chowu bydła wykształcił się i dominuje w rozwiniętych gospodarczo krajach Europy Zachodniej?",
+        "options": [
+          "Kierunek mleczny w systemie oborowym",
+          "Kierunek wełnisty na wielkich ranczach",
+          "Kierunek mięsny w systemie pastwiskowym",
+          "Kierunek pociągowy w systemie tradycyjnym"
+        ],
+        "answer": "A",
+        "explanation": "W Europie, w odróżnieniu od Ameryki Południowej nastawionej na pastwiskowy chów mięsny, zdecydowanie większe znaczenie ma intensywny chów oborowy prowadzony w kierunku mlecznym."
+      },
+      {
+        "question": "Dlaczego kierunek mleczny w chowie bydła uważa się powszechnie za bardziej kapitałochłonny niż kierunek mięsny?",
+        "options": [
+          "Potrzebuje sprowadzania pasz z zagranicy",
+          "Potrzebuje wielkiego nakładu pracy ręcznej",
+          "Potrzebuje chłodni i urządzeń udojowych",
+          "Potrzebuje ogromnych pastwisk naturalnych"
+        ],
+        "answer": "C",
+        "explanation": "Kierunek mleczny jest droższy, ponieważ produkcja, przechowywanie i transport mleka wymagają odpowiedniej infrastruktury technicznej: sterylnych chłodni i specjalistycznych maszyn udojowych."
+      },
+      {
+        "question": "Który z poniższych ssaków stanowi jedyny udomowiony gatunek utrzymywany przez człowieka w skrajnie surowej strefie okołobiegunowej?",
+        "options": [
+          "Bawoły",
+          "Wielbłądy",
+          "Alpaki",
+          "Renifery"
+        ],
+        "answer": "D",
+        "explanation": ", że chów uwarunkowany jest klimatycznie, a jedynym zwierzęciem gospodarskim z powodzeniem hodowanym w strefie polarnej i subpolarnej są renifery."
+      },
+      {
+        "question": "Co jest główną rynkową przyczyną zahamowania wzrostu pogłowia owiec w skali globu w ostatnich kilku dekadach?",
+        "options": [
+          "Przez drastyczne zmiany klimatyczne na pastwiskach",
+          "Przez dużą popularność tańszych włókien sztucznych",
+          "Przez ogromną podatność tych zwierząt na mrozy zimą",
+          "Przez ogólnoświatowy zakaz eksportu wełny do Azji"
+        ],
+        "answer": "B",
+        "explanation": "Globalne pogłowie owiec nie rośnie z uwagi na rosnącą popularność nowoczesnych włókien sztucznych, których wyprodukowanie jest znacznie tańsze od pozyskiwania naturalnej wełny owczej."
+      },
+      {
+        "question": "Dlaczego drób wykazuje największą ze wszystkich zwierząt gospodarskich dynamikę wzrostu pogłowia w ostatnich latach?",
+        "options": [
+          "Tania i łatwa produkcja pokrywająca rosnący popyt",
+          "Wprowadzenie dużych dotacji do ekstensywnych farm",
+          "Masowe wymieranie pozostałych gatunków hodowlanych",
+          "Gwałtowne ocieplenie klimatu w strefie umiarkowanej"
+        ],
+        "answer": "A",
+        "explanation": "Znaczenie gospodarcze drobiu gwałtownie wzrasta, ponieważ jego chów jest relatywnie prosty i tani (zwykle intensywny system klatkowy), a cykl produkcyjny szybko zaspokaja rosnący popyt na mięso."
+      },
+      {
+        "question": "Które państwo uchodziło przez dekady za niekwestionowanego lidera w ekstensywnym chowie owiec oraz produkcji wysokiej jakości wełny?",
+        "options": [
+          "Republika Federalna Niemiec",
+          "Stany Zjednoczone Ameryki",
+          "Związek Australijski",
+          "Chińska Republika Ludowa"
+        ],
+        "answer": "C",
+        "explanation": "Australia znana jest ze stadek merynosów zaspokajających globalny rynek wełny, choć w roku 2010 zmuszona była oddać pozycję największego wolumenowo producenta tego surowca Chinom."
+      },
+      {
+        "question": "Na czym polega logistyka utrzymania zwierząt w cyklu zwanym systemem pastwiskowo-oborowym?",
+        "options": [
+          "Zwierzęta są na pastwisku wyłącznie latem podczas upałów",
+          "Zwierzęta spędzają całe życie w oborze z dostępem wybiegu",
+          "Zwierzęta jedzą trawę z pastwiska, ale nigdy nie wychodzą",
+          "Część roku zwierzęta są na pastwisku, a część w oborze"
+        ],
+        "answer": "D",
+        "explanation": "Chów pastwiskowo-oborowy jest modelem mieszanym, dostosowującym się do pór roku - w odpowiednim sezonie stado przebywa na łąkach, a zimą przenoszone jest pod dach do obór."
+      },
+      {
+        "question": "Jakie fundamentalne cechy biologiczne sprawiają, że produkcja rzeźna trzody chlewnej charakteryzuje się bardzo dużą opłacalnością?",
+        "options": [
+          "Możliwość wykorzystania wyłącznie całkowicie darmowej paszy",
+          "Szybki przyrost masy ciała i bardzo wysoka rozrodczość",
+          "Pozyskiwanie rzadkich surowców do kosztownych leków kardiologicznych",
+          "Wyjątkowa odporność tych zwierząt na surowe warunki polarne"
+        ],
+        "answer": "B",
+        "explanation": "Opłacalność i popularność chowu trzody chlewnej wynikają wprost z fizjologii tego gatunku – szybkiego budowania masy przy przeciętnych kosztach paszy oraz zdolności do wydawania licznego potomstwa."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "W Indiach, ze względu na dominujący tam islam, występuje całkowity zakaz chowu trzody chlewnej, co silnie wpływa na statystyki rolnicze tego kraju.",
+        "answer": false,
+        "explanation": "W Indiach dominującą religią jest hinduizm, który uznaje krowy za zwierzęta święte i zakazuje ich zabijania. Zakaz spożywania wieprzowiny (i wynikające z niego ograniczenia w chowie trzody chlewnej) jest charakterystyczny dla islamu i judaizmu."
+      },
+      {
+        "sentence": "Chów ekstensywny odbywa się na wyspecjalizowanych farmach w krajach takich jak Belgia i Holandia, gdzie zwierzęta karmione są wysokowartościowymi paszami.",
+        "answer": false,
+        "explanation": "Opis ten dotyczy chowu intensywnego, dominującego w wysoko rozwiniętych państwach Europy. Chów ekstensywny polega na wypasaniu zwierząt na naturalnych pastwiskach (np. w krajach słabo rozwiniętych, USA czy Australii)."
+      },
+      {
+        "sentence": "Pojęcie chowu ma węższe znaczenie niż pojęcie hodowli, ponieważ oznacza wyłącznie ulepszanie cech dziedzicznych zwierząt w celu zwiększenia ich wartości użytkowej.",
+        "answer": false,
+        "explanation": "Jest dokładnie odwrotnie. Według podręcznika to hodowla ma węższe znaczenie (ulepszanie cech dziedzicznych), a chów to pojęcie ogólne obejmujące wszelką działalność związaną z utrzymaniem zwierząt."
+      },
+      {
+        "sentence": "Znaczenie gospodarcze drobiu na świecie spada, ponieważ przemysłowy chów tych ptaków w systemie klatkowym uchodzi za bardzo kosztowny i trudny technicznie.",
+        "answer": false,
+        "explanation": "Pogłowie drobiu na świecie dynamicznie rośnie, ponieważ jego chów (szczególnie intensywny, klatkowy) jest łatwy, tani i w krótkim czasie zaspokaja rosnący popyt na mięso i jaja."
+      },
+      {
+        "sentence": "Światowe pogłowie owiec od lat utrzymuje się na zbliżonym poziomie, do czego w dużym stopniu przyczynia się konkurencja ze strony tańszych w produkcji włókien sztucznych.",
+        "answer": true,
+        "explanation": "Zgodnie z tekstem podręcznika, brak wzrostu globalnego pogłowia owiec wynika z rosnącej popularności nowoczesnych włókien syntetycznych, które stopniowo zastępują owczą wełnę."
+      },
+      {
+        "sentence": "Kierunek mleczny w chowie bydła uważa się za znacznie bardziej kapitałochłonny niż kierunek mięsny, ponieważ wymaga odpowiedniej infrastruktury technicznej.",
+        "answer": true,
+        "explanation": "Kierunek mleczny jest droższy w utrzymaniu, ponieważ do produkcji, dojenia, przechowywania i transportu mleka niezbędne są specjalistyczne maszyny oraz sterylne chłodnie."
+      },
+      {
+        "sentence": "Chów trzody chlewnej charakteryzuje się bardzo niską dochodowością, co wynika z powolnego przyrostu masy ciała oraz niskiej rozrodczości tych zwierząt.",
+        "answer": false,
+        "explanation": "Chów trzody chlewnej to jedna z najbardziej dochodowych gałęzi rolnictwa, a wynika to z fizjologii tych zwierząt, które cechują się właśnie bardzo szybkim przyrostem masy ciała oraz znaczną rozrodczością."
+      },
+      {
+        "sentence": "Renifer stanowi jedyny udomowiony gatunek zwierzęcia gospodarskiego, którego chów jest powszechnie i z powodzeniem prowadzony w skrajnie surowej strefie okołobiegunowej.",
+        "answer": true,
+        "explanation": "Podręcznik wskazuje, że rolnictwo dostosowuje się do stref klimatycznych, a w strefie okołobiegunowej jedynym udomowionym i hodowanym gatunkiem zwierzęcia gospodarskiego jest renifer."
+      },
+      {
+        "sentence": "Australia, od ponad dwóch stuleci słynąca z jakościowego runa merynosów, posiada obecnie zdecydowanie największe na świecie pogłowie owiec.",
+        "answer": false,
+        "explanation": "Choć Australia jest kluczowym eksporterem owiec i wysokiej jakości wełny, krajem o bezwzględnie największym pogłowiu owiec na świecie są obecnie Chiny, które wyprzedziły Australię również w wielkości produkcji wełny."
+      },
+      {
+        "sentence": "System pastwiskowo-oborowy polega na okresowej zmienności przebywania stada – przez jedną część roku zwierzęta przebywają na łąkach, a przez pozostałą w budynkach.",
+        "answer": true,
+        "explanation": "Chów pastwiskowo-oborowy to typowy chów mieszany dostosowany do sezonowości klimatu, gdzie w zależności od pory roku zwierzęta są wypasane na zewnątrz lub chowane pod dachem."
+      }
+    ]
+  }
+}

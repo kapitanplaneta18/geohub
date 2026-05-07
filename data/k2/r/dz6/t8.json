@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t8",
+    "title": "Regiony turystyczne świata",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Atrakcyjność turystyczna",
+        "definition": "Cechy danego miejsca przyciągające turystów, na które składają się walory przyrodnicze, walory kulturowe oraz infrastruktura turystyczna."
+      },
+      {
+        "term": "Walory przyrodnicze",
+        "definition": "Elementy środowiska naturalnego sprzyjające turystyce, m.in. korzystny klimat, urozmaicona rzeźba terenu, czyste plaże, osobliwości flory i fauny oraz parki narodowe."
+      },
+      {
+        "term": "Walory kulturowe",
+        "definition": "Pozaprzyrodnicze obiekty i wydarzenia przyciągające turystów, takie jak zabytki architektoniczne, muzea, rezerwaty archeologiczne, skanseny i miejsca kultu religijnego."
+      },
+      {
+        "term": "Infrastruktura turystyczna",
+        "definition": "Obiekty i urządzenia służące obsłudze ruchu turystycznego, w tym zróżnicowana baza noclegowo-gastronomiczna, sieć transportowa i tereny sportowe."
+      },
+      {
+        "term": "Basen Morza Śródziemnego",
+        "definition": "Najliczniej odwiedzany region turystyczny Europy (np. Francja, Hiszpania, Włochy), przyciągający turystów ciepłym klimatem, morzem oraz cennymi zabytkami."
+      },
+      {
+        "term": "Kraje alpejskie",
+        "definition": "Region w Europie obejmujący m.in. Austrię i Szwajcarię, stanowiący popularny cel turystyczny szczególnie w okresie zimowym ze względu na dogodne warunki narciarskie."
+      },
+      {
+        "term": "Turystyka w Europie",
+        "definition": "Region skupiający około 50% wszystkich światowych przyjazdów turystycznych, charakteryzujący się najlepiej rozwiniętą infrastrukturą turystyczną."
+      },
+      {
+        "term": "Azja (region turystyczny)",
+        "definition": "Kontynent przyjmujący niemal 25% światowych turystów, z dominującą pozycją Chin i Tajlandii, oferujący różnorodne krajobrazy i egzotyczną kulturę."
+      },
+      {
+        "term": "Turystyka w Ameryce Północnej",
+        "definition": "Region turystyczny, w którym zdecydowanie przodują Stany Zjednoczone – państwo o największych na świecie dochodach z turystyki (ok. 80 mln turystów rocznie)."
+      },
+      {
+        "term": "Ograniczenia w rozwoju turystyki",
+        "definition": "Czynniki drastycznie zmniejszające ruch turystyczny, do których należą konflikty zbrojne, ataki terrorystyczne, restrykcyjne prawo oraz klęski żywiołowe (np. tsunami, trzęsienia ziemi)."
+      },
+      {
+        "term": "Miejsca święte",
+        "definition": "Miejsca uznawane za wyjątkowe przez wyznawców danej religii, związane z ważnymi wydarzeniami religijnymi lub pochówkiem ważnych postaci, stanowiące główny cel pielgrzymek."
+      },
+      {
+        "term": "Sanktuarium",
+        "definition": "Szczególny ośrodek kultu i cel pielgrzymek w chrześcijaństwie, w którym znajdują się święte obrazy, relikwie lub w którym miały miejsce cudowne wydarzenia."
+      },
+      {
+        "term": "Bazylika Matki Boskiej z Guadalupe",
+        "definition": "Znajdujące się w Meksyku największe na świecie sanktuarium maryjne, które corocznie odwiedza około 20 milionów pielgrzymów."
+      },
+      {
+        "term": "Mekka",
+        "definition": "Najświętsze miasto islamu, miejsce narodzin Mahometa. W jej centralnym punkcie znajduje się świątynia Al-Kaba z Czarnym Kamieniem."
+      },
+      {
+        "term": "Jerozolima",
+        "definition": "Święte miasto stanowiące cel pielgrzymek wyznawców trzech wielkich religii monoteistycznych: judaizmu, chrześcijaństwa i islamu."
+      },
+      {
+        "term": "Ściana Płaczu",
+        "definition": "Najważniejsze miejsce święte dla wyznawców judaizmu w Jerozolimie, stanowiące jedyną pozostałość po zburzonej w 70 r. n.e. świątyni jerozolimskiej."
+      },
+      {
+        "term": "Waranasi",
+        "definition": "Najważniejsze i najświętsze z siedmiu świętych miast hinduizmu, położone nad rzeką Ganges, której wody mają moc oczyszczania z grzechów."
+      },
+      {
+        "term": "Jasna Góra w Częstochowie",
+        "definition": "Najpopularniejsze sanktuarium i miejsce pielgrzymkowe w Polsce, przechowujące obraz Matki Boskiej Częstochowskiej."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Walory turystyczne (przyrodnicze)",
+        "pair2": "Urozmaicona rzeźba terenu, czyste plaże, jaskinie, jeziora oraz flora i fauna."
+      },
+      {
+        "pair1": "Walory turystyczne (kulturowe)",
+        "pair2": "Zabytki architektoniczne, miejsca kultu religijnego, muzea oraz imprezy kulturalne."
+      },
+      {
+        "pair1": "Europa (region turystyczny)",
+        "pair2": "Kontynent przyjmujący około 50% przyjazdów turystycznych z najlepiej rozwiniętą infrastrukturą."
+      },
+      {
+        "pair1": "Stany Zjednoczone (gospodarka turystyczna)",
+        "pair2": "Kraj czerpiący najwyższe na świecie dochody z obsługi międzynarodowego ruchu turystycznego."
+      },
+      {
+        "pair1": "Mekka i Medyna (religia islamu)",
+        "pair2": "Dwa najświętsze miasta związane z życiem i śmiercią Mahometa, do których pielgrzymują wyznawcy."
+      },
+      {
+        "pair1": "Jerozolima (religia judaizmu)",
+        "pair2": "Miasto, w którym znajduje się Ściana Płaczu stanowiąca cel pielgrzymek wyznawców."
+      },
+      {
+        "pair1": "Ganges (religia hinduizmu)",
+        "pair2": "Rzeka uznawana za świętą, której wody według wyznawców oczyszczają z grzechów."
+      },
+      {
+        "pair1": "Jasna Góra (pielgrzymki w Polsce)",
+        "pair2": "Główny narodowy ośrodek kultu katolickiego z obrazem Matki Boskiej Częstochowskiej."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Który z poniższych elementów środowiska należy do walorów kulturowych (pozaprzyrodniczych) danego regionu turystycznego?",
+        "options": [
+          "Zabytki architektoniczne",
+          "Osobliwości flory fauny",
+          "Rzeźba powierzchni ziemi",
+          "Piaszczyste czyste plaże"
+        ],
+        "answer": "A",
+        "explanation": "Zabytki architektoniczne są wynikiem działalności człowieka, dlatego zalicza się je do walorów kulturowych, w przeciwieństwie do form rzeźby, plaż czy elementów biosfery."
+      },
+      {
+        "question": "Który region świata przyjmuje największą liczbę zagranicznych turystów i generuje najwyższe globalne wpływy?",
+        "options": [
+          "Kontynent afrykański",
+          "Kontynent europejski",
+          "Ameryka Południowa",
+          "Ameryka Północna"
+        ],
+        "answer": "B",
+        "explanation": "Europa skupia około 50% wszystkich przyjazdów turystycznych na świecie dzięki zróżnicowanym walorom oraz rozbudowanej infrastrukturze."
+      },
+      {
+        "question": "Co stanowi główny przyrodniczy walor turystyczny państw leżących w obrębie basenu Morza Śródziemnego?",
+        "options": [
+          "Liczne festiwale muzyczne",
+          "Bardzo urozmaicona rzeźba",
+          "Ciepły oraz łagodny klimat",
+          "Cenne zabytki historyczne"
+        ],
+        "answer": "C",
+        "explanation": "Ciepły klimat i dostęp do ciepłego morza to kluczowe walory przyrodnicze tego regionu, obok których występują również liczne walory kulturowe."
+      },
+      {
+        "question": "Które z poniższych miast jest najważniejszym ośrodkiem pielgrzymkowym oraz centrum religijnym islamu?",
+        "options": [
+          "Miasto Jerozolima",
+          "Miasto Medyna",
+          "Miasto Mekka",
+          "Miasto Stambuł"
+        ],
+        "answer": "C",
+        "explanation": "Mekka stanowi religijne centrum islamu, a odbycie pielgrzymki do tego miasta jest jednym z pięciu filarów tej religii."
+      },
+      {
+        "question": "W którym z wymienionych państw znajduje się Bazylika Matki Boskiej z Guadalupe, będąca największym na świecie sanktuarium maryjnym?",
+        "options": [
+          "W państwie brazylijskim",
+          "W państwie portugalskim",
+          "W państwie meksykańskim",
+          "W państwie hiszpańskim"
+        ],
+        "answer": "C",
+        "explanation": "Bazylika Matki Boskiej z Guadalupe mieści się w Meksyku i jest odwiedzana przez około 20 milionów pielgrzymów rocznie."
+      },
+      {
+        "question": "Rzeka Ganges oraz miasto Waranasi to bardzo ważne miejsca święte będące celem masowych pielgrzymek wyznawców:",
+        "options": [
+          "Religii hinduistycznej",
+          "Religii buddyjskiej",
+          "Religii judaistycznej",
+          "Religii chrześcijańskiej"
+        ],
+        "answer": "A",
+        "explanation": "Waranasi jest najświętszym z siedmiu miast hinduizmu, a kąpiel w rzece Ganges ma dla wyznawców tej religii moc oczyszczania z grzechów."
+      },
+      {
+        "question": "Ściana Płaczu zlokalizowana w Jerozolimie stanowi absolutnie najważniejsze miejsce święte oraz cel modlitw dla wyznawców:",
+        "options": [
+          "Religii hinduistycznej",
+          "Religii judaistycznej",
+          "Religii islamskiej",
+          "Religii chrześcijańskiej"
+        ],
+        "answer": "B",
+        "explanation": "Ściana Płaczu to jedyna zachowana pozostałość po świątyni jerozolimskiej zburzonej przez Rzymian, co czyni ją najświętszym miejscem judaizmu."
+      },
+      {
+        "question": "Które z wymienionych zestawów państw afrykańskich należą do grupy najchętniej odwiedzanych przez zagranicznych turystów?",
+        "options": [
+          "Maroko, RPA oraz Tunezja",
+          "Kenia, Czad oraz Somalia",
+          "Zambia, Gwinea i Angola",
+          "Nigeria, Sudan oraz Niger"
+        ],
+        "answer": "A",
+        "explanation": "Z wyłączeniem Bliskiego Wschodu, to właśnie Maroko, Republika Południowej Afryki oraz Tunezja przyjmują na kontynencie afrykańskim najwięcej gości."
+      },
+      {
+        "question": "Machu Picchu, jedno z najbardziej znanych i unikalnych historycznych miejsc na świecie, to kluczowa atrakcja turystyczna:",
+        "options": [
+          "Ameryki Północnej",
+          "Ameryki Południowej",
+          "Europy Południowej",
+          "Azji Południowej"
+        ],
+        "answer": "B",
+        "explanation": "Machu Picchu znajduje się w Ameryce Południowej (na terytorium Peru) i jest jednym z najważniejszych walorów kulturowych tego kontynentu."
+      },
+      {
+        "question": "Które z państw leżących w granicach Bliskiego Wschodu uznawane są obecnie za ścisłych liderów turystycznych tego obszaru?",
+        "options": [
+          "ZEA, Arabia Saud. i Egipt",
+          "Syria, Liban oraz Jordania",
+          "Jemen, Oman oraz Bahrajn",
+          "Irak, Kuwejt oraz Izrael"
+        ],
+        "answer": "A",
+        "explanation": "Zjednoczone Emiraty Arabskie, Arabia Saudyjska i Egipt pełnią rolę turystycznych liderów Bliskiego Wschodu, mimo napięć występujących w innych państwach regionu."
+      },
+      {
+        "question": "Miasto Allahabad, w którym regularnie odbywa się jedno z największych na świecie świąt religijnych Kumbh Mela, to ośrodek kultu:",
+        "options": [
+          "Wyznawców islamu",
+          "Wyznawców judaizmu",
+          "Wyznawców hinduizmu",
+          "Wyznawców buddyzmu"
+        ],
+        "answer": "C",
+        "explanation": "Allahabad jest jednym z czterech miast związanych z hinduistycznym świętem Kumbh Mela, które gromadzi dziesiątki milionów wyznawców."
+      },
+      {
+        "question": "Które z podanych państw położonych w Ameryce Północnej odnotowuje największe wpływy z turystyki w skali całego świata?",
+        "options": [
+          "Meksykańskie Stany",
+          "Stany Zjednoczone",
+          "Republika Kanady",
+          "Państwa Karaibskie"
+        ],
+        "answer": "B",
+        "explanation": "Stany Zjednoczone zajmują pierwsze miejsce na świecie pod względem całkowitych dochodów pochodzących z obsługi międzynarodowego ruchu turystycznego."
+      },
+      {
+        "question": "Dlaczego obszar Australii i Oceanii ma najmniejszy procentowy udział w przyjazdach turystycznych na świecie?",
+        "options": [
+          "Region ten posiada najuboższą sieć dróg i hoteli",
+          "Region ten bez przerwy boryka się z terroryzmem",
+          "Region ten jest znacznie oddalony i drogi w podróży",
+          "Region ten charakteryzuje się bardzo surową aurą"
+        ],
+        "answer": "C",
+        "explanation": "Najmniejszy udział Australii i Oceanii wynika z dużej odległości geograficznej od państw bogatych oraz wysokich kosztów transportu lotniczego."
+      },
+      {
+        "question": "Z jakich głównych powodów Europa niezmiennie dominuje w statystykach dotyczących międzynarodowego ruchu turystycznego?",
+        "options": [
+          "Brak wymogu posiadania wiz dla wszystkich na świecie",
+          "Zróżnicowane walory oraz wysoka zamożność populacji",
+          "Globalny obowiązek spędzania urlopów na tym obszarze",
+          "Powszechna znajomość jednego wspólnego języka w UE"
+        ],
+        "answer": "B",
+        "explanation": "Pozycja Europy wynika z silnych walorów przyrodniczych i kulturowych, bardzo dobrej infrastruktury oraz faktu, że zamożni Europejczycy podróżują głównie w obrębie kontynentu."
+      },
+      {
+        "question": "Które z wymienionych zjawisk społeczno-politycznych stanowią najważniejsze czynniki radykalnie ograniczające rozwój turystyki?",
+        "options": [
+          "Zbyt wysoki kurs walut oraz bardzo duża gęstość miast",
+          "Konflikty zbrojne, akty terroryzmu i bardzo surowe kary",
+          "Obecność wielu starych fabryk i brak dobrych pensjonatów",
+          "Liczne obszary ochrony przyrody i duże parki narodowe"
+        ],
+        "answer": "B",
+        "explanation": "Brak bezpieczeństwa wynikający z wojen, terroryzmu czy bardzo restrykcyjnego prawa (np. surowe kary fizyczne) gwałtownie odstrasza potencjalnych turystów i hamuje rozwój branży."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Zabytki architektoniczne, festiwale muzyczne oraz parki narodowe to przykłady walorów kulturowych danego regionu.",
+        "answer": false,
+        "explanation": "Parki narodowe zaliczane są do walorów przyrodniczych, natomiast zabytki i festiwale to walory kulturowe."
+      },
+      {
+        "sentence": "Około 50% wszystkich przyjazdów turystycznych na świecie przypada na Azję, co czyni ją najchętniej odwiedzanym regionem.",
+        "answer": false,
+        "explanation": "Około 50% wszystkich przyjazdów turystycznych przypada na Europę, która odznacza się zróżnicowanymi warunkami przyrodniczymi i bogatą infrastrukturą."
+      },
+      {
+        "sentence": "Machu Picchu, jeden z najważniejszych walorów kulturowych Ameryki Północnej, stanowi główny cel podróży na tym kontynencie.",
+        "answer": false,
+        "explanation": "Machu Picchu to jedna z głównych atrakcji turystycznych zlokalizowana w Ameryce Południowej."
+      },
+      {
+        "sentence": "Mekka to miejsce śmierci Mahometa, w którym zlokalizowany jest meczet Proroka, będący głównym celem islamskich pielgrzymek.",
+        "answer": false,
+        "explanation": "Mekka jest miejscem narodzin Mahometa i znajduje się w niej świątynia Al-Kaba, natomiast meczet Proroka oraz miejsce pochówku założyciela islamu zlokalizowane są w Medynie."
+      },
+      {
+        "sentence": "Ściana Płaczu, będąca pozostałością po zburzonej świątyni, oraz bazylika Grobu Świętego zlokalizowane są na terenie Jerozolimy.",
+        "answer": true,
+        "explanation": "Jerozolima jest świętym miastem trzech religii monoteistycznych, gdzie znajdują się zarówno główne obiekty kultu judaizmu, jak i chrześcijaństwa."
+      }
+    ]
+  }
+}

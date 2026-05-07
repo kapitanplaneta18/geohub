@@ -1,0 +1,354 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz3-t4",
+                     "unit":  "III",
+                     "title":  "Wilgotność powietrza i opady",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Wilgotność powietrza",
+                                              "definition":  "Zawartość pary wodnej w powietrzu, która dostaje się do atmosfery na skutek parowania wody (ewaporacji i transpiracji) oraz sublimacji."
+                                          },
+                                          {
+                                              "term":  "Wilgotność bezwzględna",
+                                              "definition":  "Masa pary wodnej zawarta w jednostce objętości powietrza, wyrażana w gramach na metr sześcienny (g/m³)."
+                                          },
+                                          {
+                                              "term":  "Wilgotność względna",
+                                              "definition":  "Stosunek rzeczywistej ilości pary wodnej zawartej w powietrzu do jej maksymalnej zawartości w danej temperaturze, wyrażany w procentach (%)."
+                                          },
+                                          {
+                                              "term":  "Temperatura punktu rosy",
+                                              "definition":  "Wartość temperatury, do której powietrze musi się ochłodzić, aby zawarta w nim para wodna stała się parą nasyconą (osiągnęła 100% wilgotności)."
+                                          },
+                                          {
+                                              "term":  "Kondensacja",
+                                              "definition":  "Proces przejścia wody ze stanu gazowego w stan ciekły, zachodzący m.in. przy powstawaniu chmur."
+                                          },
+                                          {
+                                              "term":  "Resublimacja",
+                                              "definition":  "Proces przejścia wody ze stanu gazowego bezpośrednio w stan stały (np. w kryształki lodu)."
+                                          },
+                                          {
+                                              "term":  "Jądra kondensacji",
+                                              "definition":  "Mikroskopijne cząsteczki stałe lub ciekłe (np. kryształki soli morskiej, pyły), na których może osadzać się woda, niezbędne do powstania chmur."
+                                          },
+                                          {
+                                              "term":  "Chmura",
+                                              "definition":  "Zbiór kropelek wody lub kryształków lodu (albo ich mieszanina) swobodnie unoszący się w powietrzu, powstający na różnych wysokościach."
+                                          },
+                                          {
+                                              "term":  "Mgła",
+                                              "definition":  "Zawiesina kropelek wody lub kryształków lodu w przyziemnej warstwie powietrza, ograniczająca widzialność poniżej 1 km."
+                                          },
+                                          {
+                                              "term":  "Chmury piętra wysokiego",
+                                              "definition":  "Chmury występujące na wysokości od 7 do 13 km, zbudowane z kryształków lodu (np. Cirrus, Cirrostratus)."
+                                          },
+                                          {
+                                              "term":  "Chmury piętra średniego",
+                                              "definition":  "Chmury występujące na wysokości od 2 do 7 km, często oznaczane przedrostkiem \u0027alto-\u0027 (np. Altocumulus)."
+                                          },
+                                          {
+                                              "term":  "Chmury piętra niskiego",
+                                              "definition":  "Chmury występujące do wysokości 2 km, często dające opady (np. Nimbostratus, Stratus)."
+                                          },
+                                          {
+                                              "term":  "Cumulonimbus (Chmura kłębiasta deszczowa)",
+                                              "definition":  "Potężna chmura o rozciągłości pionowej w kształcie kowadła, przynosząca obfite, krótkotrwałe opady, którym często towarzyszą burze."
+                                          },
+                                          {
+                                              "term":  "Opady konwekcyjne",
+                                              "definition":  "Opady powstające nad silnie nagrzanymi obszarami, gdzie ciepłe powietrze unosi się (prąd wstępujący), ochładza i kondensuje."
+                                          },
+                                          {
+                                              "term":  "Opady orograficzne",
+                                              "definition":  "Opady powstające, gdy przemieszczające się powietrze napotyka barierę górską, wznosi się na stoku, ochładza i ulega kondensacji."
+                                          },
+                                          {
+                                              "term":  "Opady frontalne",
+                                              "definition":  "Opady występujące w strefie styku dwóch mas powietrza o różnej temperaturze, gdzie cieplejsze powietrze unosi się i ochładza."
+                                          },
+                                          {
+                                              "term":  "Cień opadowy",
+                                              "definition":  "Zjawisko po zawietrznej stronie gór, gdzie docierające powietrze zawiera mało wilgoci, co skutkuje niskimi sumami opadów."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Cirrus",
+                                                 "pair2":  "Chmury pierzaste, zbudowane z kryształków lodu, nie przesłaniają Słońca"
+                                             },
+                                             {
+                                                 "pair1":  "Cirrostratus",
+                                                 "pair2":  "Chmury warstwowo-pierzaste, tworzące biały welon i zjawisko halo"
+                                             },
+                                             {
+                                                 "pair1":  "Altocumulus",
+                                                 "pair2":  "Chmury kłębiaste piętra średniego, tworzące regularne kłęby lub płaty"
+                                             },
+                                             {
+                                                 "pair1":  "Nimbostratus",
+                                                 "pair2":  "Chmury warstwowo-deszczowe, dające długotrwały opad deszczu"
+                                             },
+                                             {
+                                                 "pair1":  "Stratus",
+                                                 "pair2":  "Chmury warstwowe, pokrywające niebo szarą zasłoną, mogące dawać mżawkę"
+                                             },
+                                             {
+                                                 "pair1":  "Cumulonimbus",
+                                                 "pair2":  "Ciemnoszare chmury burzowe o dużej rozciągłości pionowej (kowadło)"
+                                             },
+                                             {
+                                                 "pair1":  "Opad konwekcyjny",
+                                                 "pair2":  "Wznoszenie się silnie nagrzanego powietrza (prądy wstępujące)"
+                                             },
+                                             {
+                                                 "pair1":  "Opad orograficzny",
+                                                 "pair2":  "Wymuszone wznoszenie powietrza na stoku górskim"
+                                             },
+                                             {
+                                                 "pair1":  "Opad frontalny",
+                                                 "pair2":  "Wznoszenie się powietrza w strefie styku mas o różnej temperaturze"
+                                             },
+                                             {
+                                                 "pair1":  "Mgła",
+                                                 "pair2":  "Kondensacja pary wodnej w przyziemnej warstwie powietrza"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Obserwator dostrzega na niebie delikatne, włókniste chmury o kształcie piór lub haczyków, które nie przesłaniają Słońca i nie rzucają cienia. Jaką nazwę noszą te chmury?",
+                                      "options":  [
+                                                      "Cirrus (Chmury pierzaste)",
+                                                      "Stratus (Chmury warstwowe)",
+                                                      "Cumulus (Chmury kłębiaste)",
+                                                      "Altocumulus (Chmury kłębiaste piętra średniego)"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Chmury Cirrus tworzą pierzaste, regularnie ułożone kłęby lub płaty, są przejrzyste i nie przesłaniają Słońca."
+                                  },
+                                  {
+                                      "question":  "W upalne popołudnie na niebie rozbudowała się potężna chmura o ciemnej podstawie i wierzchołku w kształcie kowadła. Jakiego zjawiska meteorologicznego należy się spodziewać?",
+                                      "options":  [
+                                                      "Długotrwałej mżawki",
+                                                      "Zjawiska halo wokół Słońca",
+                                                      "Burzy z gwałtownym opadem deszczu lub gradu",
+                                                      "Rozpogodzenia i braku opadów"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Chmura Cumulonimbus (kłębiasta deszczowa) ma kształt kowadła i przynosi obfite, krótkotrwałe opady, którym często towarzyszą burze."
+                                  },
+                                  {
+                                      "question":  "Temperatura pewnej masy powietrza wzrosła z 15°C do 25°C, przy czym zawartość pary wodnej (w gramach) pozostała bez zmian. Jak wpłynęło to na wilgotność względną tego powietrza?",
+                                      "options":  [
+                                                      "Wilgotność względna powietrza uległa wyraźnemu zmniejszeniu z powodu wzrostu temperatury.",
+                                                      "Wilgotność względna wzrosła",
+                                                      "Wilgotność względna pozostała bez zmian",
+                                                      "Wilgotność względna osiągnęła 100%"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Im cieplejsze powietrze, tym więcej pary wodnej może ono pomieścić. Jeśli ilość pary jest stała, a temperatura rośnie (zwiększając maksymalną pojemność), stosunek rzeczywistej ilości pary do maksymalnej (wilgotność względna) maleje."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych zjawisk jest przykładem resublimacji w atmosferze?",
+                                      "options":  [
+                                                      "Powstanie kropel deszczu z pary wodnej",
+                                                      "Powstanie kryształków lodu bezpośrednio z pary wodnej",
+                                                      "Parowanie wody z powierzchni oceanu",
+                                                      "Topnienie gradu w dolnych warstwach atmosfery"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Resublimacja to proces przejścia wody ze stanu gazowego bezpośrednio w stan stały (np. w kryształki lodu)."
+                                  },
+                                  {
+                                      "question":  "Jaki warunek musi zostać spełniony, aby w powietrzu mogła powstać chmura?",
+                                      "options":  [
+                                                      "Temperatura powietrza musi wzrosnąć powyżej 30°C",
+                                                      "Musi wystąpić całkowity brak wiatru i wysokie ciśnienie",
+                                                      "Powietrze musi osiągnąć temperaturę punktu rosy oraz muszą być obecne jądra kondensacji, na których osadzi się woda.",
+                                                      "Wilgotność względna powietrza musi spaść poniżej 50%"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Procesy powstawania chmur zachodzą wtedy, gdy powietrze osiągnie temperaturę punktu rosy i wystąpią w nim jądra kondensacji (np. pyły, sól morska)."
+                                  },
+                                  {
+                                      "question":  "Turysta w górach zauważył, że po stronie dowietrznej pasma występują obfite opady, a po stronie zawietrznej niebo jest czyste i jest sucho. Jak nazywa się zjawisko występujące po stronie zawietrznej?",
+                                      "options":  [
+                                                      "Cień opadowy",
+                                                      "Inwersja temperatury",
+                                                      "Konwekcja termiczna",
+                                                      "Opad frontalny"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Po zawietrznej stronie gór występuje cień opadowy, ponieważ docierające tam powietrze zawiera mało wilgoci (została ona utracona na stoku dowietrznym)."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych chmur jest chmurą piętra niskiego, dającą długotrwały, jednostajny opad deszczu?",
+                                      "options":  [
+                                                      "Cirrus (Ci)",
+                                                      "Nimbostratus (Ns)",
+                                                      "Altocumulus (Ac)",
+                                                      "Cirrocumulus (Cc)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nimbostratus to ciemne, niskie chmury warstwowo-deszczowe, które dają długotrwały opad deszczu."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstaje opad konwekcyjny?",
+                                      "options":  [
+                                                      "W wyniku wślizgiwania się ciepłego powietrza na masę chłodną",
+                                                      "Na skutek wymuszonego wznoszenia powietrza na stoku górskim",
+                                                      "Przez gwałtowne wznoszenie się silnie nagrzanego powietrza (prądy wstępujące) w wyniku konwekcji termicznej.",
+                                                      "Wskutek poziomego przemieszczania się mgły nad zimnym lądem"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Opad konwekcyjny powstaje nad silnie nagrzanymi obszarami, gdzie tworzy się prąd wstępujący, powietrze wznosi się, ochładza i kondensuje."
+                                  },
+                                  {
+                                      "question":  "Czym różni się rosa od deszczu w kontekście genezy zjawiska?",
+                                      "options":  [
+                                                      "Rosa jest osadem powstającym bezpośrednio na wychłodzonej powierzchni, a deszcz opadem spadającym z chmur",
+                                                      "Rosa powstaje w wyniku resublimacji, a deszcz w wyniku kondensacji",
+                                                      "Rosa występuje tylko w dzień, a deszcz tylko w nocy",
+                                                      "Rosa jest zjawiskiem optycznym, a deszcz meteorologicznym"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Rosa to osad atmosferyczny (krople wody na powierzchni), natomiast deszcz to opad atmosferyczny powstający w chmurach i spadający na ziemię."
+                                  },
+                                  {
+                                      "question":  "Na niebie widoczna jest cienka, biaława zasłona, która powoduje powstanie świetlistego pierścienia wokół Słońca (zjawisko halo). Jaki to rodzaj chmury?",
+                                      "options":  [
+                                                      "Stratus",
+                                                      "Cumulus",
+                                                      "Cirrostratus",
+                                                      "Nimbostratus"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Chmury Cirrostratus przesłaniają niebo białym welonem i czasem pojawiają się w nich otoczki wokół Słońca, zwane halo."
+                                  },
+                                  {
+                                      "question":  "Jak definiowana jest wilgotność bezwzględna powietrza?",
+                                      "options":  [
+                                                      "Jako stosunek pary wodnej do maksymalnej możliwej jej zawartości w danej temperaturze",
+                                                      "Jako masa pary wodnej zawarta w jednostce objętości powietrza (g/m³)",
+                                                      "Jako temperatura, w której następuje skroplenie pary wodnej",
+                                                      "Jako całkowita masa wody w chmurze"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wilgotność bezwzględna to masa pary wodnej w jednostce objętości powietrza, wyrażana w g/m³."
+                                  },
+                                  {
+                                      "question":  "Co dzieje się z powietrzem w strefie frontu chłodnego?",
+                                      "options":  [
+                                                      "Ciepłe powietrze powoli wślizguje się na chłodne, dając słabe opady",
+                                                      "Chłodne, cięższe powietrze wypycha gwałtownie lżejsze ciepłe powietrze do góry, tworząc wypiętrzone chmury burzowe.",
+                                                      "Powietrze osiada i ogrzewa się, co powoduje zanik zachmurzenia",
+                                                      "Dwie masy powietrza mieszają się bez wznoszenia, tworząc mgłę"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W strefie frontu chłodnego chłodne, ciężkie powietrze wsuwa się pod cieplejsze i wypycha je do góry, co prowadzi do powstania chmur Cumulonimbus i burz."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych czynników NIE jest wymieniany w podręczniku jako główny czynnik wpływający na wielkość opadów atmosferycznych?",
+                                      "options":  [
+                                                      "Cyrkulacja atmosferyczna",
+                                                      "Prądy morskie",
+                                                      "Odległość od mórz i oceanów",
+                                                      "Skład chemiczny skał podłoża"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Podręcznik wymienia cyrkulację, wysokość n.p.m., rzeźbę terenu, odległość od mórz, prądy morskie i pokrycie terenu jako czynniki wpływające na opady. Rodzaj skał nie jest wymieniony."
+                                  },
+                                  {
+                                      "question":  "Jaki rodzaj mgły powstaje, gdy wilgotne i cieplejsze powietrze napływa nad wychłodzony teren?",
+                                      "options":  [
+                                                      "Mgła radiacyjna (z wypromieniowania)",
+                                                      "Mgła adwekcyjna (napływowa)",
+                                                      "Mgła frontowa",
+                                                      "Mgła z parowania"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mgła powstaje m.in. gdy cieplejsze powietrze napłynie nad chłodniejszy teren (jest to mechanizm adwekcji)."
+                                  },
+                                  {
+                                      "question":  "Szara, jednolita warstwa chmur pokrywająca niebo, z której może padać mżawka lub ziarnisty śnieg, to:",
+                                      "options":  [
+                                                      "Stratus (St)",
+                                                      "Cumulus (Cu)",
+                                                      "Cirrus (Ci)",
+                                                      "Altocumulus (Ac)"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Stratus zasnuwa niebo grubą, ciemną warstwą, spoza której nie widać Słońca, a opady mają postać mżawki lub ziarnistego śniegu."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Ogrzanie masy powietrza, przy zachowaniu stałej zawartości pary wodnej, powoduje wzrost jej wilgotności względnej.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie – im cieplejsze powietrze, tym więcej pary wodnej może pomieścić, więc przy stałej ilości wody jej stosunek do maksimum (wilgotność względna) maleje."
+                                       },
+                                       {
+                                           "sentence":  "Temperatura punktu rosy to wartość, do której powietrze musi się ogrzać, aby zawarta w nim para wodna uległa skropleniu.",
+                                           "answer":  false,
+                                           "explanation":  "Temperatura punktu rosy to temperatura, do której powietrze musi się ochłodzić, aby stało się nasycone parą wodną."
+                                       },
+                                       {
+                                           "sentence":  "Chmury piętra wysokiego, takie jak Cirrus czy Cirrostratus, zbudowane są wyłącznie z kropel wody.",
+                                           "answer":  false,
+                                           "explanation":  "Chmury piętra wysokiego występują w temperaturach ujemnych i są zbudowane z kryształków lodu."
+                                       },
+                                       {
+                                           "sentence":  "Wilgotność bezwzględna powietrza wyrażana jest w procentach i określa stopień nasycenia powietrza parą wodną.",
+                                           "answer":  false,
+                                           "explanation":  "Wilgotność bezwzględna to masa pary wodnej w jednostce objętości (g/m³); w procentach wyraża się wilgotność względną."
+                                       },
+                                       {
+                                           "sentence":  "Mgła jest zjawiskiem fizycznie różnym od chmury, ponieważ składa się z pary wodnej, podczas gdy chmura składa się z kropel wody.",
+                                           "answer":  false,
+                                           "explanation":  "Zarówno mgła, jak i chmura to zawiesina kropelek wody lub kryształków lodu; para wodna jest niewidocznym gazem. Mgła to po prostu chmura stykająca się z powierzchnią ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Do powstania chmury konieczna jest obecność w powietrzu jąder kondensacji, na których może osadzać się woda.",
+                                           "answer":  true,
+                                           "explanation":  "Kondensacja pary wodnej w atmosferze wymaga obecności mikroskopijnych cząsteczek stałych lub ciekłych, zwanych jądrami kondensacji."
+                                       },
+                                       {
+                                           "sentence":  "Chmury Nimbostratus (warstwowo-deszczowe) charakteryzują się dużą rozciągłością pionową i przynoszą gwałtowne burze.",
+                                           "answer":  false,
+                                           "explanation":  "Chmury Nimbostratus dają długotrwały, jednostajny opad; burze i gwałtowne opady są domeną chmur Cumulonimbus."
+                                       },
+                                       {
+                                           "sentence":  "Cień opadowy to strefa zwiększonych opadów atmosferycznych występująca po dowietrznej stronie bariery górskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Cień opadowy występuje po stronie zawietrznej, gdzie powietrze jest już osuszone i opady są niskie."
+                                       },
+                                       {
+                                           "sentence":  "Resublimacja to proces przejścia wody ze stanu gazowego bezpośrednio w stan stały, prowadzący np. do powstania szronu.",
+                                           "answer":  true,
+                                           "explanation":  "Resublimacja to przemiana fazowa pary wodnej w lód, z pominięciem fazy ciekłej, odpowiedzialna m.in. za powstawanie szronu."
+                                       },
+                                       {
+                                           "sentence":  "Najniższe roczne sumy opadów na Ziemi notuje się w strefie równikowej ze względu na wysokie temperatury powodujące parowanie kropel deszczu.",
+                                           "answer":  false,
+                                           "explanation":  "Strefa równikowa charakteryzuje się wysokimi opadami; najniższe opady występują w okolicach zwrotników oraz w strefach polarnych."
+                                       },
+                                       {
+                                           "sentence":  "Opad konwekcyjny powstaje w wyniku wznoszenia się silnie nagrzanego powietrza, co prowadzi do jego ochłodzenia i kondensacji pary wodnej.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to mechanizm powstawania opadów konwekcyjnych, typowy dla silnie nagrzanych obszarów."
+                                       },
+                                       {
+                                           "sentence":  "Chmura Cumulonimbus należy wyłącznie do piętra wysokiego, ponieważ jej wierzchołek sięga kilkunastu kilometrów.",
+                                           "answer":  false,
+                                           "explanation":  "Mimo że wierzchołek sięga wysoko, podstawa chmury Cumulonimbus znajduje się w piętrze niskim, jest to chmura o rozciągłości pionowej."
+                                       }
+                                   ]
+                 }
+}

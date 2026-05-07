@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t11",
+    "title": "Urbanizacja",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Urbanizacja",
+        "definition": "Proces rozwoju miast, obejmujący powstawanie nowych ośrodków, rozwój istniejących oraz przekształcenie tradycyjnego społeczeństwa wiejskiego w miejskie."
+      },
+      {
+        "term": "Wskaźnik urbanizacji",
+        "definition": "Miara wyrażająca procentowy udział mieszkańców miast w ogólnej liczbie ludności danego obszaru."
+      },
+      {
+        "term": "Płaszczyzna demograficzna urbanizacji",
+        "definition": "Wzrost liczby ludności miejskiej wynikający z migracji (ze wsi do miast) oraz z przyrostu naturalnego w miastach."
+      },
+      {
+        "term": "Płaszczyzna przestrzenna urbanizacji",
+        "definition": "Zwiększanie przestrzeni miejskiej poprzez włączanie do istniejących miast terenów przyległych oraz powstawanie nowych ośrodków miejskich."
+      },
+      {
+        "term": "Płaszczyzna ekonomiczna urbanizacji",
+        "definition": "Zmiany w strukturze zatrudnienia polegające na wzroście liczby osób pracujących poza rolnictwem (w przemyśle i usługach)."
+      },
+      {
+        "term": "Płaszczyzna społeczna urbanizacji",
+        "definition": "Upowszechnianie miejskiego stylu życia wśród ludności zamieszkującej wieś."
+      },
+      {
+        "term": "Urbanizacja wstępna",
+        "definition": "Faza urbanizacji odznaczająca się stopniowym wzrostem koncentracji ludności w centrach miast na skutek rozwoju przemysłu i usług (typowa dla najbiedniejszych państw)."
+      },
+      {
+        "term": "Suburbanizacja (eksplozja miast)",
+        "definition": "Faza polegająca na szybkim wzroście zaludnienia przedmieść, przy jednoczesnym zmniejszaniu się liczby osób zamieszkujących centra miast."
+      },
+      {
+        "term": "Dezurbanizacja (kryzys miasta centralnego)",
+        "definition": "Faza urbanizacji polegająca na masowym osiedlaniu się ludzi w strefach podmiejskich i wyludnianiu śródmieść, typowa dla państw wysoko rozwiniętych."
+      },
+      {
+        "term": "Reurbanizacja (renesans śródmieścia)",
+        "definition": "Faza ponownego wzrostu liczby ludności centrów miast na skutek działań mających na celu odnowę centralnych dzielnic."
+      },
+      {
+        "term": "Nadurbanizacja (urbanizacja pozorna)",
+        "definition": "Wysoki odsetek ludności miejskiej niewynikający z rozwoju gospodarczego, lecz z ucieczki biedoty wiejskiej do miast (np. w Ameryce Południowej)."
+      },
+      {
+        "term": "Slumsy (dzielnice nędzy)",
+        "definition": "Peryferyjne strefy miast w państwach słabo rozwiniętych, cechujące się prowizoryczną zabudową i brakiem infrastruktury technicznej (np. Kibera)."
+      },
+      {
+        "term": "Metropolizacja",
+        "definition": "Nowy typ urbanizacji obejmujący kształtowanie się wielkich miast i obszarów metropolitalnych stanowiących węzły w sieci powiązań globalnych."
+      },
+      {
+        "term": "Metropolia",
+        "definition": "Duże miasto (zwykle powyżej 1 mln mieszkańców), stanowiące centrum rozwoju społeczno-gospodarczego i skupiające siedziby ważnych instytucji oraz firm."
+      },
+      {
+        "term": "Suburbia",
+        "definition": "Peryferyjne strefy podmiejskie o rozległej, niskiej zabudowie mieszkalnej, powstające na skutek wyludniania miast centralnych w krajach wysoko rozwiniętych."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Kraje o najniższym poziomie rozwoju (np. Uganda, Wietnam)",
+        "pair2": "Urbanizacja wstępna"
+      },
+      {
+        "pair1": "Upowszechnianie miejskiego stylu życia na wsi",
+        "pair2": "Płaszczyzna społeczna urbanizacji"
+      },
+      {
+        "pair1": "Powiększanie obszaru miast o tereny przyległe",
+        "pair2": "Płaszczyzna przestrzenna urbanizacji"
+      },
+      {
+        "pair1": "Kraje o wysokim poziomie rozwoju (wyludnianie śródmieść i rozwój suburbiów)",
+        "pair2": "Dezurbanizacja"
+      },
+      {
+        "pair1": "Odnowa dzielnic centralnych i ponowny napływ ludności do śródmieścia",
+        "pair2": "Reurbanizacja"
+      },
+      {
+        "pair1": "Szybki wzrost zaludnienia przedmieść w krajach takich jak Indie czy Nigeria",
+        "pair2": "Suburbanizacja"
+      },
+      {
+        "pair1": "Zmiany w strukturze zatrudnienia na korzyść przemysłu i usług",
+        "pair2": "Płaszczyzna ekonomiczna urbanizacji"
+      },
+      {
+        "pair1": "Niekontrolowany rozrost dzielnic nędzy z braku pracy w państwach Ameryki Południowej",
+        "pair2": "Nadurbanizacja (urbanizacja pozorna)"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Na czym polega społeczna płaszczyzna procesów urbanizacyjnych?",
+        "options": [
+          "Zmianach w strukturze zatrudnienia z rolnictwa do usług.",
+          "Wzroście całkowitej liczby ludności poprzez fale migracji.",
+          "Zwiększaniu przestrzeni na skutek rozwoju granic miejskich.",
+          "Upowszechnianiu miejskiego stylu życia w społeczeństwie."
+        ],
+        "answer": "D",
+        "explanation": "Społeczna płaszczyzna urbanizacji polega na upowszechnianiu miejskiego stylu życia wśród ludności zamieszkującej wieś."
+      },
+      {
+        "question": "Jakie zjawisko najlepiej charakteryzuje przestrzenną płaszczyznę procesu urbanizacji?",
+        "options": [
+          "Wzrost odsetka osób pracujących w innowacyjnych usługach.",
+          "Włączanie podmiejskich obszarów wiejskich w granice miast.",
+          "Stopniowa adaptacja miejskiego trybu życia w małych wsiach.",
+          "Zwiększenie przyrostu naturalnego w gęstych aglomeracjach."
+        ],
+        "answer": "B",
+        "explanation": "Płaszczyzna przestrzenna urbanizacji obejmuje powiększanie terytorium miast przez włączanie obszarów przyległych oraz powstawanie nowych miast."
+      },
+      {
+        "question": "W którym z podanych państw wskaźnik urbanizacji wykazuje obecnie bardzo niskie wartości (poniżej 40%)?",
+        "options": [
+          "W wysoko zurbanizowanej i bogatej gospodarczo Belgii.",
+          "W silnie rozwiniętym państwie europejskim takim jak Szwecja.",
+          "W słabo rozwiniętym afrykańskim państwie takim jak Burundi.",
+          "W amerykańskim, wysoce uprzemysłowionym państwie jak USA."
+        ],
+        "answer": "C",
+        "explanation": "Burundi to przykład państwa słabo rozwiniętego, w którym większość ludności pracuje w rolnictwie, a wskaźnik urbanizacji wynosi zaledwie 13%."
+      },
+      {
+        "question": "Które sformułowanie najtrafniej definiuje proces urbanizacji w jego podstawowym znaczeniu?",
+        "options": [
+          "Zjawisko dynamicznej zmiany struktury płci społeczeństwa.",
+          "Proces ciągłego rozwoju nowo powstających i starych miast.",
+          "Proces celowego przenoszenia ciężkiego przemysłu na wsie.",
+          "Zjawisko masowego wyludniania historycznych centrów miast."
+        ],
+        "answer": "B",
+        "explanation": "Urbanizacja to przede wszystkim proces rozwoju miast, obejmujący powstawanie nowych ośrodków oraz rozwój i powiększanie już istniejących."
+      },
+      {
+        "question": "Które z wymienionych województw w Polsce odznaczają się obecnie najwyższym wskaźnikiem urbanizacji?",
+        "options": [
+          "Małopolskie oraz wybitnie rolnicze podkarpackie.",
+          "Lubelskie i odznaczające się małą gęstością świętokrzyskie.",
+          "Śląskie oraz silnie uprzemysłowione regiony dolnośląskie.",
+          "Podkarpackie i sąsiadujące z nim bezpośrednio mazowieckie."
+        ],
+        "answer": "C",
+        "explanation": "Najwyższe wartości wskaźnika urbanizacji w Polsce odnotowuje się w województwach o wysokim stopniu uprzemysłowienia: śląskim (ok. 77%) i dolnośląskim (ok. 69%)."
+      },
+      {
+        "question": "Jakie zjawisko przestrzenne charakteryzuje urbanizację wstępną w krajach najsłabiej rozwiniętych?",
+        "options": [
+          "Szybki wzrost zaludnienia wyłącznie odległych przedmieść.",
+          "Planowy odpływ najbogatszych mieszkańców na wolne wsie.",
+          "Stopniowa koncentracja napływającej ludności w centrach.",
+          "Kompleksowa odnowa całej zabudowy historycznych miast."
+        ],
+        "answer": "C",
+        "explanation": "Faza urbanizacji wstępnej odznacza się stopniowym wzrostem koncentracji ludności, która napływa ze wsi w poszukiwaniu pracy, głównie w centrach miast."
+      },
+      {
+        "question": "Jaki proces przestrzenny jest wybitnie charakterystyczny dla fazy suburbanizacji w biednych państwach?",
+        "options": [
+          "Estetyczna rozbudowa zamożnych dzielnic biznesowych.",
+          "Żywiołowe powstawanie peryferyjnych dzielnic nędzy.",
+          "Zauważalne ożywienie kulturalne w starych śródmieściach.",
+          "Trwałe przenoszenie usług miejskich na tereny rolnicze."
+        ],
+        "answer": "B",
+        "explanation": "W krajach rozwijających się suburbanizacja obejmuje szybki napływ ludności wiejskiej, co prowadzi do rozrastania się osiedli peryferyjnych i powstawania dzielnic nędzy (slumsów)."
+      },
+      {
+        "question": "Który z poniższych opisów najlepiej wyjaśnia proces dezurbanizacji (tzw. kryzysu miasta centralnego)?",
+        "options": [
+          "Ucieczka ubogiej ludności z peryferii prosto do centrum.",
+          "Proces osiedlania się ludności na terenach podmiejskich.",
+          "Gwałtowny spadek liczby narodzin w gęstych aglomeracjach.",
+          "Odnowa starych budynków w historycznych strefach miast."
+        ],
+        "answer": "B",
+        "explanation": "Dezurbanizacja polega na wyludnianiu się śródmieść i masowym osiedlaniu się mieszkańców w strefach podmiejskich (powstawanie suburbiów), co jest typowe dla krajów wysoko rozwiniętych."
+      },
+      {
+        "question": "Co stanowi dominujący czynnik (wypychający) napływu ludności ze wsi do miast w krajach słabo rozwiniętych?",
+        "options": [
+          "Powszechny i łatwy dostęp do opieki kardiologicznej.",
+          "Doskonale rozbudowana komunikacja zbiorowa w centrum.",
+          "Możliwość korzystania z miejskich teatrów oraz muzeów.",
+          "Brak miejsc zatrudnienia w rolnictwie i tzw. głód ziemi."
+        ],
+        "answer": "D",
+        "explanation": "W krajach biednych głównym czynnikiem wypychającym ludność ze wsi jest brak ziemi do uprawy oraz ograniczona liczba miejsc pracy w rolnictwie."
+      },
+      {
+        "question": "Wskaż jeden z dotkliwych i wyraźnych negatywnych skutków postępującej urbanizacji w wielkich metropoliach.",
+        "options": [
+          "Znaczny spadek wskaźnika poziomu wiedzy u starszych.",
+          "Tworzenie się zjawiska określanego jako wyspa ciepła.",
+          "Budowa i modernizacja niskoemisyjnego transportu miast.",
+          "Miejscowe upowszechnianie modelu wielodzietnej rodziny."
+        ],
+        "answer": "B",
+        "explanation": "Negatywnym skutkiem ekologicznym urbanizacji jest powstawanie miejskiej wyspy ciepła, wynikającej m.in. z dużej powierzchni asfaltu i smogu, co podwyższa temperaturę powietrza w mieście."
+      },
+      {
+        "question": "W jakich państwach lub regionach najczęściej można obecnie zaobserwować proces reurbanizacji?",
+        "options": [
+          "W krajach o wysokim rozwoju, na przykład w USA i Japonii.",
+          "W najbiedniejszych państwach leżących w środkowej Afryce.",
+          "W intensywnie rosnących krajach na obszarze Ameryki Południowej.",
+          "W uboższych państwach Europy, gdzie wciąż dominuje rolnictwo."
+        ],
+        "answer": "A",
+        "explanation": "Reurbanizacja (renesans śródmieścia) to proces ponownego wzrostu liczby ludności centrów miast, obserwowany obecnie w dużych metropoliach państw wysoko rozwiniętych, np. USA (Detroit) czy Japonii."
+      },
+      {
+        "question": "Czym w geografii osadnictwa charakteryzuje się forma układu przestrzennego znana jako megalopolis?",
+        "options": [
+          "Jest to jedno miasto liczące równo dziesięć milionów osób.",
+          "To wielki obszar łączących się bezpośrednio zespołów miast.",
+          "Jest to nowa, zrewitalizowana strefa dla wielkiego biznesu.",
+          "To ogromna dzielnica slumsów pozbawiona infrastruktury."
+        ],
+        "answer": "B",
+        "explanation": "Megalopolis to rozległy i silnie zurbanizowany obszar, w którym sąsiadujące zespoły miejskie (aglomeracje i konurbacje) wzajemnie się przenikają i łączą."
+      },
+      {
+        "question": "Jakie zjawisko określa się terminem nadurbanizacji (urbanizacji pozornej), spotykanej w Ameryce Południowej?",
+        "options": [
+          "Sztuczne zawyżanie urzędowych statystyk o zaludnieniu miast.",
+          "Ogromny napływ biedoty bez rozwoju miejscowej gospodarki.",
+          "Celowe tworzenie nowoczesnych przestrzeni przemysłowych.",
+          "Konwersję stref rolniczych w bardzo drogie osiedla domów."
+        ],
+        "answer": "B",
+        "explanation": "Urbanizacja pozorna (nadurbanizacja) zachodzi, gdy wysoki odsetek ludności miejskiej nie wynika z rozwoju gospodarczego, lecz z braku pracy na wsi i ucieczki biedoty do peryferyjnych dzielnic nędzy w miastach."
+      },
+      {
+        "question": "Które z wymienionych działań architektonicznych i miejskich leży u podstaw rozpoczęcia fazy reurbanizacji?",
+        "options": [
+          "Szeroka budowa tanich bloków socjalnych dla bezrobotnych.",
+          "Ustawowe przyłączanie dalekich wsi do terytorium wielkich miast.",
+          "Świadoma odnowa i fizyczna zmiana funkcji dzielnic śródmieścia.",
+          "Częściowe przeniesienie gałęzi przemysłu ciężkiego do centrum."
+        ],
+        "answer": "C",
+        "explanation": "Reurbanizacja wiąże się z działaniami mającymi na celu odnowę centralnych dzielnic. Często odbudowane centra przyjmują nowe funkcje (np. stają się centrami finansowymi), co na nowo przyciąga do nich ludność."
+      },
+      {
+        "question": "Jakie specyficzne funkcje funkcjonalno-przestrzenne decydują o tym, że dane miasto uznaje się za metropolię?",
+        "options": [
+          "Posiada ono ogromne plantacje rolne oraz wielkie kopalnie węgla.",
+          "Stanowi węzeł powiązań globalnych i skupia instytucje decyzyjne.",
+          "Cechuje się ujemnym wskaźnikiem rocznych migracji wewnętrznych.",
+          "Koncentruje wyłączną i tradycyjną produkcję przemysłu odzieżowego."
+        ],
+        "answer": "B",
+        "explanation": "Metropolie to miasta, które m.in. pełnią funkcję węzłów powiązań, skupiają siedziby wielkich zarządów i instytucji (centra decyzyjne) oraz oddziałują innowacyjnie w skali ponadnarodowej."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Wzrost odsetka osób pracujących w przemyśle i usługach zamiast w rolnictwie to główny przejaw społecznej płaszczyzny urbanizacji.",
+        "answer": false,
+        "explanation": "Zmiany w strukturze zatrudnienia polegające na wzroście liczby osób pracujących poza rolnictwem to przejaw ekonomicznej, a nie społecznej płaszczyzny urbanizacji. Płaszczyzna społeczna dotyczy upowszechniania miejskiego stylu życia."
+      },
+      {
+        "sentence": "Faza dezurbanizacji, określana również jako kryzys miasta centralnego, charakteryzuje się masowym wyludnianiem stref podmiejskich na rzecz nowo budowanych centrów wielkich miast.",
+        "answer": false,
+        "explanation": "Dezurbanizacja polega na wyludnianiu się śródmieść na rzecz stref podmiejskich (powstawanie suburbiów), a nie odwrotnie. Procesem ponownego zasiedlania centrów miast jest reurbanizacja."
+      },
+      {
+        "sentence": "Nadurbanizacja, zwana też urbanizacją pozorną, jest zjawiskiem typowym dla krajów wysoko rozwiniętych Europy Zachodniej i wynika z ucieczki zamożnej ludności na peryferia.",
+        "answer": false,
+        "explanation": "Nadurbanizacja (urbanizacja pozorna) jest zjawiskiem charakterystycznym dla państw słabo i średnio rozwiniętych (np. w Ameryce Południowej) i wynika z ucieczki biednej ludności ze wsi do miast z powodu braku miejsc pracy, co prowadzi do powstawania dzielnic nędzy."
+      },
+      {
+        "sentence": "Płaszczyzna przestrzenna urbanizacji obejmuje powiększanie terytorium miast poprzez włączanie do nich terenów przyległych oraz tworzenie zupełnie nowych ośrodków miejskich.",
+        "answer": true,
+        "explanation": "Przestrzenna płaszczyzna urbanizacji polega właśnie na zwiększaniu przestrzeni miejskiej poprzez włączanie do istniejących miast obszarów przyległych i powstawanie nowych miast."
+      },
+      {
+        "sentence": "Faza urbanizacji wstępnej, polegająca na powolnym wzroście koncentracji ludności w centrach miast, występuje obecnie najczęściej w państwach wysoko rozwiniętych, takich jak Stany Zjednoczone czy Japonia.",
+        "answer": false,
+        "explanation": "Urbanizacja wstępna jest typowa dla miast w najbiedniejszych państwach Azji i Afryki (np. Laos, Uganda, Etiopia). Z kolei Stany Zjednoczone czy Japonia znajdują się obecnie na etapie dezurbanizacji lub reurbanizacji."
+      },
+      {
+        "sentence": "W niektórych państwach Ameryki Południowej, takich jak Brazylia czy Wenezuela, wskaźnik urbanizacji jest bardzo wysoki, co nie wynika z szybkiego rozwoju gospodarczego, lecz ze zjawiska urbanizacji pozornej.",
+        "answer": true,
+        "explanation": "Kraje te są wyjątkami – odsetek ludności miejskiej sięga tam 70-90%, co wynika z braku miejsc pracy na wsi i żywiołowej migracji biedoty do dzielnic nędzy, czyli nadurbanizacji."
+      },
+      {
+        "sentence": "Gwałtowne rozrastanie się peryferyjnych dzielnic nędzy (slumsów) w biednych państwach azjatyckich i afrykańskich jest procesem charakterystycznym dla fazy reurbanizacji.",
+        "answer": false,
+        "explanation": "Żywiołowe powstawanie dzielnic nędzy w wyniku napływu ludności wiejskiej na przedmieścia to proces typowy dla fazy suburbanizacji (eksplozji miast) w państwach rozwijających się, a nie reurbanizacji."
+      },
+      {
+        "sentence": "Zjawisko semiurbanizacji, czyli przejmowanie miejskiego stylu życia przez ludność zamieszkującą wieś, jest kluczowym elementem demograficznej płaszczyzny urbanizacji.",
+        "answer": false,
+        "explanation": "Upowszechnianie miejskiego stylu życia wśród ludności wiejskiej (semiurbanizacja) to definicja społecznej, a nie demograficznej płaszczyzny urbanizacji. Płaszczyzna demograficzna odnosi się bezpośrednio do zmian liczby ludności wynikających z migracji i przyrostu naturalnego."
+      },
+      {
+        "sentence": "Wskaźnik urbanizacji w Polsce po 2000 roku zaczął się obniżać w wyniku wzmożonego odpływu ludności z miast na obszary podmiejskie i wiejskie.",
+        "answer": true,
+        "explanation": "Po 2000 r. w Polsce odnotowano spadek wskaźnika urbanizacji, który w 2018 r. wynosił 60,1%. Było to spowodowane odpływem ludności z miast na obszary podmiejskie (na wieś)."
+      },
+      {
+        "sentence": "Działania mające na celu odnowę centralnych dzielnic i nadanie im nowych funkcji, na przykład finansowych, przyczyniają się do powrotu ludności do śródmieścia w fazie określanej jako renesans śródmieścia.",
+        "answer": true,
+        "explanation": "Reurbanizacja (renesans śródmieścia) polega na ponownym wzroście zaludnienia centrów miast dzięki działaniom rewitalizacyjnym i zmianie funkcji dawnych zabudowań, co obserwuje się w państwach wysoko rozwiniętych."
+      },
+      {
+        "sentence": "Aby miasto mogło zostać współcześnie uznane za metropolię, jego dominującą funkcją musi być rozwój tradycyjnych, ciężkich gałęzi przemysłu wydobywczego i hutniczego.",
+        "answer": false,
+        "explanation": "Metropolie to współcześnie centra decyzyjne i finansowe o wysokim potencjale innowacyjnym. Skupiają siedziby wielkich instytucji, rozwija się w nich przemysł zaawansowanych technologii oraz usługi, a nie tradycyjny przemysł wydobywczy."
+      },
+      {
+        "sentence": "W szerokim, socjologicznym ujęciu urbanizacja oznacza proces przekształcania tradycyjnego społeczeństwa wiejskiego w miejskie i upodabnianie się wsi do miast.",
+        "answer": true,
+        "explanation": "W znaczeniu socjologicznym urbanizacja to właśnie przeobrażenie tradycyjnego społeczeństwa wiejskiego w miejskie i upodobnienie warunków bytowych oraz społecznych na wsi do miejskich."
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t9",
+                     "title":  "Sieć osadnicza i urbanizacja",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Urbanizacja",
+                                              "definition":  "Proces rozwoju miast, wzrostu liczby ludności miejskiej oraz upowszechniania się miejskiego stylu życia."
+                                          },
+                                          {
+                                              "term":  "Wskaźnik urbanizacji w Polsce (2019 r.)",
+                                              "definition":  "Wynosił 60% (spadł z 62% w 1991 r.)."
+                                          },
+                                          {
+                                              "term":  "Miasto (definicja w Polsce)",
+                                              "definition":  "Jednostka osadnicza posiadająca prawa miejskie nadane aktem administracyjnym."
+                                          },
+                                          {
+                                              "term":  "Aglomeracja monocentryczna",
+                                              "definition":  "Zespół miejski z jednym silnie dominującym ośrodkiem centralnym i otaczającymi go mniejszymi miastami satelickimi (np. Warszawa)."
+                                          },
+                                          {
+                                              "term":  "Konurbacja (aglomeracja policentryczna)",
+                                              "definition":  "Zespół sąsiadujących miast o podobnej wielkości i funkcjach, bez jednego dominującego ośrodka (np. konurbacja górnośląska)."
+                                          },
+                                          {
+                                              "term":  "Suburbanizacja",
+                                              "definition":  "Faza urbanizacji polegająca na odpływie ludności z centrów miast na obszary peryferyjne i wiejskie (strefę podmiejską)."
+                                          },
+                                          {
+                                              "term":  "Semiurbanizacja",
+                                              "definition":  "Proces częściowego upodabniania się wsi do miasta (funkcje, styl życia), zachodzący na obszarach oddalonych od bezpośredniego sąsiedztwa aglomeracji."
+                                          },
+                                          {
+                                              "term":  "Urban sprawl (rozlewanie się miast)",
+                                              "definition":  "Żywiołowy i chaotyczny rozwój terytorialny stref podmiejskich, prowadzący do zaburzenia ładu przestrzennego."
+                                          },
+                                          {
+                                              "term":  "Wielofunkcyjność miast",
+                                              "definition":  "Cecha dużych miast polegająca na równoczesnym pełnieniu wielu funkcji (np. usługowej, przemysłowej, administracyjnej, edukacyjnej)."
+                                          },
+                                          {
+                                              "term":  "Fizjonomia miasta średniowiecznego",
+                                              "definition":  "Regularny układ ulic przecinających się pod kątem prostym, centralny rynek, owalny zarys, mury obronne (np. centrum Krakowa)."
+                                          },
+                                          {
+                                              "term":  "Fizjonomia miasta przemysłowego (XIX w.)",
+                                              "definition":  "Chaotyczny rozrost, sąsiedztwo dzielnic fabrycznych i osiedli robotniczych (np. familoki w Katowicach)."
+                                          },
+                                          {
+                                              "term":  "Miasto socjalistyczne (okres PRL)",
+                                              "definition":  "Dominacja dużych osiedli mieszkaniowych z wielkiej płyty, budowanych często na peryferiach, z dala od centrum."
+                                          },
+                                          {
+                                              "term":  "Gettoizacja przestrzeni miejskiej",
+                                              "definition":  "Proces powstawania odizolowanych stref: osiedli zamkniętych (getta dobrobytu) oraz obszarów zdegradowanych (getta biedy)."
+                                          },
+                                          {
+                                              "term":  "Rewitalizacja",
+                                              "definition":  "Kompleksowe działania (społeczne, techniczne, gospodarcze) mające na celu przywrócenie do życia zdegradowanych obszarów miasta."
+                                          },
+                                          {
+                                              "term":  "Genius loci",
+                                              "definition":  "Duch miejsca – niepowtarzalny klimat i atmosfera miasta wynikająca z jego historii, architektury i układu przestrzennego."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Aglomeracja monocentryczna",
+                                                 "pair2":  "Warszawa, Kraków, Łódź (jeden dominujący ośrodek)"
+                                             },
+                                             {
+                                                 "pair1":  "Konurbacja (aglomeracja policentryczna)",
+                                                 "pair2":  "Górny Śląsk (brak jednego centrum, np. Katowice, Gliwice, Sosnowiec)"
+                                             },
+                                             {
+                                                 "pair1":  "Województwo śląskie",
+                                                 "pair2":  "Najwyższy wskaźnik urbanizacji w Polsce (77%)"
+                                             },
+                                             {
+                                                 "pair1":  "Województwo podkarpackie",
+                                                 "pair2":  "Najniższy wskaźnik urbanizacji w Polsce (41%)"
+                                             },
+                                             {
+                                                 "pair1":  "Suburbanizacja",
+                                                 "pair2":  "Eksplozja demograficzna na terenach wiejskich wokół dużych miast"
+                                             },
+                                             {
+                                                 "pair1":  "Deindustrializacja po 1989 r.",
+                                                 "pair2":  "Depopulacja miast będących monokulturami przemysłowymi (np. Wałbrzych, Łódź)"
+                                             },
+                                             {
+                                                 "pair1":  "Osiedla z wielkiej płyty",
+                                                 "pair2":  "Charakterystyczny element fizjonomii miast z okresu PRL"
+                                             },
+                                             {
+                                                 "pair1":  "Województwa zachodnie i północne",
+                                                 "pair2":  "Wyższy poziom urbanizacji (dziedzictwo historyczne i uprzemysłowienie)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Ile wynosił wskaźnik urbanizacji w Polsce w 2019 roku?",
+                                      "options":  [
+                                                      "Około 45%, co jest typowe dla krajów o dominacji rolnictwa w gospodarce.",
+                                                      "Około 50%, co oznaczałoby równowagę między ludnością miejską a wiejską.",
+                                                      "Około 60%",
+                                                      "Ponad 75%, co jest standardem w wysokorozwiniętych państwach Europy Zachodniej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wskaźnik urbanizacji (udział ludności miejskiej) od lat 90. XX wieku powoli spadał z 62% do 60%, głównie z powodu suburbanizacji."
+                                  },
+                                  {
+                                      "question":  "Które polskie miasto jest najludniejsze?",
+                                      "options":  [
+                                                      "Kraków, historyczna stolica Polski i ważne centrum akademickie.",
+                                                      "Łódź, niegdyś drugie co do wielkości, obecnie tracące mieszkańców.",
+                                                      "Warszawa",
+                                                      "Wrocław, dynamicznie rozwijające się centrum Dolnego Śląska."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Warszawa, jako jedyne miasto w Polsce, liczy blisko 1,8 mln mieszkańców (dane GUS), znacznie wyprzedzając Kraków (ok. 780 tys.)."
+                                  },
+                                  {
+                                      "question":  "Co formalnie odróżnia miasto od wsi w polskim systemie osadniczym?",
+                                      "options":  [
+                                                      "Liczba mieszkańców powyżej 5 tysięcy, co jest kryterium demograficznym.",
+                                                      "Posiadanie praw miejskich nadanych aktem administracyjnym",
+                                                      "Obecność rynku i ratusza jako centralnych punktów miejscowości.",
+                                                      "Dostęp do pełnej infrastruktury kanalizacyjnej i wodociągowej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W Polsce o statusie miasta decyduje kryterium prawne (nadanie praw przez Radę Ministrów), a nie tylko liczba ludności czy zwarta zabudowa."
+                                  },
+                                  {
+                                      "question":  "W którym województwie odnotowuje się najwyższy wskaźnik urbanizacji (77% w 2019 r.)?",
+                                      "options":  [
+                                                      "Mazowieckim, mimo obecności największego miasta Polski.",
+                                                      "Śląskim",
+                                                      "Dolnośląskim, które posiada gęstą sieć miast średniej wielkości.",
+                                                      "Pomorskim, dzięki aglomeracji trójmiejskiej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Województwo śląskie, zdominowane przez konurbację katowicką i silnie zurbanizowane tereny przemysłowe, przoduje pod tym względem."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się aglomeracja policentryczna (konurbacja), taka jak na Górnym Śląsku?",
+                                      "options":  [
+                                                      "Posiada jeden dominujący ośrodek centralny, wokół którego skupiają się mniejsze miasta satelickie pełniące funkcje sypialni.",
+                                                      "Składa się z kilku miast o podobnej wielkości i funkcjach, bez jednego dominującego ośrodka",
+                                                      "Jest to zespół wsi połączonych funkcją rolniczą i wspólną infrastrukturą.",
+                                                      "To miasto otoczone wyłącznie terenami leśnymi i rekreacyjnymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W konurbacji (np. Katowice, Chorzów, Sosnowiec) miasta są równorzędne, wzajemnie się uzupełniają i posiadają rozwiniętą sieć powiązań komunikacyjnych."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się proces odpływu ludności z centrów miast na obszary peryferyjne i do stref podmiejskich?",
+                                      "options":  [
+                                                      "Industrializacja, czyli uprzemysłowienie terenów wiejskich.",
+                                                      "Reurbanizacja, czyli powrót mieszkańców do odnowionych centrów miast.",
+                                                      "Suburbanizacja",
+                                                      "Urbanizacja wstępna, polegająca na powolnym wzroście liczby ludności miast."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Suburbanizacja (eksplozja przedmieść) to druga faza urbanizacji, dominująca obecnie w Polsce, prowadząca do wyludniania śródmieść."
+                                  },
+                                  {
+                                      "question":  "Dlaczego miasta takie jak Łódź, Bytom czy Wałbrzych doświadczają silnej depopulacji?",
+                                      "options":  [
+                                                      "Z powodu braku terenów zielonych, co zniechęca do osiedlania się.",
+                                                      "W wyniku likwidacji dużych zakładów przemysłowych (monokultur) i transformacji gospodarczej",
+                                                      "Z powodu prawnego zakazu osiedlania się nowych mieszkańców spoza regionu.",
+                                                      "Ponieważ utraciły prawa miejskie i stały się wsiami."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Są to miasta, które oparły swój rozwój na jednej gałęzi przemysłu (włókiennictwo, górnictwo). Upadek tych branż spowodował bezrobocie i odpływ ludności."
+                                  },
+                                  {
+                                      "question":  "Czym jest zjawisko „urban sprawl” (rozlewanie się miast)?",
+                                      "options":  [
+                                                      "Planowym i zrównoważonym rozwojem terenów zielonych wewnątrz miast.",
+                                                      "Żywiołowym i chaotycznym rozwojem terytorialnym stref podmiejskich",
+                                                      "Budową wysokich wieżowców w ścisłym centrum biznesowym.",
+                                                      "Procesem łączenia się rzek w granicach administracyjnych miasta."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Urban sprawl to negatywny aspekt suburbanizacji, prowadzący do niszczenia krajobrazu, wzrostu kosztów infrastruktury i problemów komunikacyjnych."
+                                  },
+                                  {
+                                      "question":  "Jakie funkcje pełnią obecnie miasta takie jak Szczawnica czy Ciechocinek?",
+                                      "options":  [
+                                                      "Głównie przemysłowe, związane z wydobyciem węgla kamiennego.",
+                                                      "Wyłącznie administracyjne, jako stolice województw.",
+                                                      "Specyficzne funkcje usługowe – uzdrowiskowe",
+                                                      "Rolnicze, będące centrami przetwórstwa owocowo-warzywnego."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Miasta te wykorzystują swoje walory przyrodnicze (wody mineralne, mikroklimat) do świadczenia usług leczniczych i turystycznych."
+                                  },
+                                  {
+                                      "question":  "Jaki element jest charakterystyczny dla fizjonomii „miast socjalistycznych” powstałych lub rozbudowanych w PRL?",
+                                      "options":  [
+                                                      "Wąskie, kręte uliczki i mury obronne typowe dla średniowiecza.",
+                                                      "Rynek z ratuszem i zabytkowymi kamienicami mieszczańskimi.",
+                                                      "Duże osiedla mieszkaniowe z wielkiej płyty, często na peryferiach",
+                                                      "Rezydencje magnackie i pałace otoczone rozległymi parkami."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W okresie PRL (np. w Tychach, Nowej Hucie, na Ursynowie) dominowała zabudowa blokowa z prefabrykatów, mająca zaspokoić głód mieszkaniowy."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „wielofunkcyjność” w odniesieniu do dużych miast?",
+                                      "options":  [
+                                                      "Pełnienie tylko jednej, dominującej funkcji, np. przemysłowej.",
+                                                      "Równoczesne pełnienie wielu funkcji (usługowych, administracyjnych, przemysłowych, edukacyjnych)",
+                                                      "Możliwość częstej zmiany oficjalnej nazwy miasta.",
+                                                      "Posiadanie wielu burmistrzów zarządzających różnymi dzielnicami."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Duże miasta (metropolie) nie opierają się na jednej branży, lecz oferują szeroki wachlarz usług, miejsc pracy i instytucji, co zwiększa ich odporność na kryzysy."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces semiurbanizacji?",
+                                      "options":  [
+                                                      "Na całkowitym wyludnieniu wsi i zamianie jej w teren leśny.",
+                                                      "Na częściowym upodabnianiu się wsi do miasta (styl życia, funkcje) bez formalnej zmiany w miasto, na obszarach nieprzylegających bezpośrednio do aglomeracji",
+                                                      "Na nadawaniu praw miejskich każdej wsi, która przekroczy liczbę 1000 mieszkańców.",
+                                                      "Na masowym powrocie ludności miejskiej do pracy w tradycyjnym rolnictwie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Semiurbanizacja dotyczy wsi, które przyjmują miejski styl życia i architekturę, a ich mieszkańcy nie pracują w rolnictwie, choć formalnie pozostają wsiami."
+                                  },
+                                  {
+                                      "question":  "Czym jest rewitalizacja w kontekście rozwoju miast?",
+                                      "options":  [
+                                                      "Wyłącznie powierzchownym odmalowaniem elewacji starych budynków.",
+                                                      "Kompleksowym procesem obejmującym działania społeczne, techniczne i gospodarcze w celu ożywienia zdegradowanych obszarów",
+                                                      "Wyburzeniem starych, zabytkowych dzielnic i budową nowoczesnych wieżowców.",
+                                                      "Zalesianiem terenów miejskich w celu poprawy jakości powietrza."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prawdziwa rewitalizacja (jak np. w Łodzi czy na krakowskim Kazimierzu) nie kończy się na remoncie, lecz ma na celu rozwiązanie problemów społecznych (bezrobocie, przestępczość)."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko statystyczne obserwuje się w Polsce po 2000 roku w relacji miasto-wieś?",
+                                      "options":  [
+                                                      "Masowy powrót ludności do tradycyjnego rolnictwa.",
+                                                      "Gwałtowny wzrost liczby ludności miast przy jednoczesnym spadku liczby ludności wsi.",
+                                                      "Spadek liczby ludności miast i wzrost liczby ludności wsi (pozorna dezurbanizacja wynikająca z suburbanizacji)",
+                                                      "Całkowite zatrzymanie wszelkich migracji między miastem a wsią."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Miasta się wyludniają, a wsie (szczególnie te wokół miast) zyskują mieszkańców, co statystycznie wygląda jak dezurbanizacja, choć de facto jest ekspansją miejskości."
+                                  },
+                                  {
+                                      "question":  "Co charakteryzuje „miasta inteligentne” (smart cities)?",
+                                      "options":  [
+                                                      "Wyłącznie bardzo wysoki poziom wykształcenia wszystkich mieszkańców.",
+                                                      "Wdrażanie innowacji technologicznych (np. sterowanie ruchem, e-urzędy) podnoszących jakość życia i oszczędzających zasoby",
+                                                      "Całkowity brak sygnalizacji świetlnej na ulicach.",
+                                                      "Wprowadzenie całkowitego zakazu ruchu samochodowego w całym mieście."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Smart city wykorzystuje technologie informacyjno-komunikacyjne (ICT) do zarządzania infrastrukturą miejską w sposób efektywny i przyjazny dla mieszkańców."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Wskaźnik urbanizacji w Polsce w ostatnich trzech dekadach systematycznie rośnie.",
+                                           "answer":  false,
+                                           "explanation":  "Wskaźnik urbanizacji w Polsce spadł z 62% w 1991 roku do 60% w 2019 roku, co jest związane m.in. z odpływem ludności z miast na wieś (suburbanizacją)."
+                                       },
+                                       {
+                                           "sentence":  "Najbardziej zurbanizowanym regionem Polski jest województwo mazowieckie ze względu na obecność Warszawy.",
+                                           "answer":  false,
+                                           "explanation":  "Najwyższy wskaźnik urbanizacji (77% w 2019 r.) odnotowuje się w województwie śląskim, co wynika z wysokiego stopnia uprzemysłowienia tego regionu."
+                                       },
+                                       {
+                                           "sentence":  "Konurbacja (aglomeracja policentryczna) charakteryzuje się brakiem jednego dominującego ośrodka i występowaniem kilku równorzędnych miast.",
+                                           "answer":  true,
+                                           "explanation":  "W aglomeracjach policentrycznych, takich jak konurbacja górnośląska, nie ma jednego głównego miasta; skupiają one ośrodki podobne pod względem wielkości i funkcji."
+                                       },
+                                       {
+                                           "sentence":  "Proces suburbanizacji przyczynia się do wyludniania centrów dużych miast na rzecz stref podmiejskich.",
+                                           "answer":  true,
+                                           "explanation":  "Suburbanizacja polega na napływie ludności z miast na sąsiadujące obszary wiejskie, co jest jedną z głównych przyczyn depopulacji miast."
+                                       },
+                                       {
+                                           "sentence":  "Liczba miast w Polsce maleje, ponieważ małe ośrodki tracą prawa miejskie.",
+                                           "answer":  false,
+                                           "explanation":  "Liczba miast w Polsce rośnie; w latach 1950–2021 na mapie pojawiło się 206 nowych ośrodków miejskich dzięki nadawaniu praw miejskich wsiom."
+                                       },
+                                       {
+                                           "sentence":  "Aglomeracja warszawska jest przykładem aglomeracji monocentrycznej.",
+                                           "answer":  true,
+                                           "explanation":  "Warszawa stanowi typowy przykład aglomeracji monocentrycznej, w której wokół jednego, silnie dominującego ośrodka koncentrują się mniejsze miejscowości."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko „urban sprawl” (rozlewanie się miast) oznacza planowy i uporządkowany rozwój przedmieść.",
+                                           "answer":  false,
+                                           "explanation":  "Urban sprawl to żywiołowy i chaotyczny rozwój terytorialny stref podmiejskich, który często zaburza ład przestrzenny i generuje problemy komunikacyjne."
+                                       },
+                                       {
+                                           "sentence":  "Depopulacja dotyczy nie tylko małych miasteczek, ale także dużych ośrodków będących dawnymi monokulturami przemysłowymi, jak Łódź czy Katowice.",
+                                           "answer":  true,
+                                           "explanation":  "Duże miasta, których rozwój opierał się na przemyśle (np. włókienniczym w Łodzi, wydobywczym w Katowicach), doświadczają spadku liczby ludności po likwidacji zakładów."
+                                       },
+                                       {
+                                           "sentence":  "Większość miast w Polsce to duże ośrodki liczące powyżej 100 tysięcy mieszkańców.",
+                                           "answer":  false,
+                                           "explanation":  "Większość miast w Polsce (77%) stanowią małe i bardzo małe miasta liczące do 20 tys. mieszkańców."
+                                       },
+                                       {
+                                           "sentence":  "Semiurbanizacja to proces upodabniania się wsi do miasta zachodzący na obszarach oddalonych od bezpośredniego sąsiedztwa aglomeracji.",
+                                           "answer":  true,
+                                           "explanation":  "Semiurbanizacja polega na zmianach demograficznych i funkcjonalnych wsi przypominających te w mieście, ale zachodzi wolniej i dalej od dużych ośrodków niż suburbanizacja."
+                                       },
+                                       {
+                                           "sentence":  "Gettoizacja przestrzeni miejskiej w Polsce polega wyłącznie na powstawaniu dzielnic biedy.",
+                                           "answer":  false,
+                                           "explanation":  "Gettoizacja obejmuje zarówno powstawanie gett biedy (obszarów zdegradowanych), jak i gett dobrobytu, czyli zamkniętych osiedli dla osób zamożnych."
+                                       },
+                                       {
+                                           "sentence":  "Najniższym wskaźnikiem urbanizacji w Polsce charakteryzują się województwa Polski południowo-wschodniej, np. podkarpackie.",
+                                           "answer":  true,
+                                           "explanation":  "Województwo podkarpackie ma najniższy wskaźnik urbanizacji (41%), co wiąże się z dużym rozdrobnieniem rolnictwa i strukturą osadniczą tego regionu."
+                                       }
+                                   ]
+                 }
+}

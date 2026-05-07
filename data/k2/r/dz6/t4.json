@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t4",
+    "title": "Społeczeństwo informacyjne. Gospodarka oparta na wiedzy",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Społeczeństwo informacyjne",
+        "definition": "Społeczeństwo, którego funkcjonowanie zależy od tworzenia, gromadzenia i obiegu informacji."
+      },
+      {
+        "term": "Gospodarka oparta na wiedzy (GOW)",
+        "definition": "Model gospodarki, w którym najważniejszym zasobem jest kapitał ludzki."
+      },
+      {
+        "term": "Kapitał ludzki",
+        "definition": "Wykształcenie, doświadczenie, kompetencje oraz wiedza pracowników."
+      },
+      {
+        "term": "Narzędzia społeczeństwa informacyjnego",
+        "definition": "Internet, programy komputerowe oraz urządzenia takie jak komputery i smartfony."
+      },
+      {
+        "term": "E-learning",
+        "definition": "Kształcenie odbywające się dzięki połączeniu sieciowemu, bez bezpośredniego kontaktu z nauczycielem."
+      },
+      {
+        "term": "E-administracja",
+        "definition": "Usługi urzędów świadczone przez internet."
+      },
+      {
+        "term": "Innowacyjność gospodarki",
+        "definition": "Wdrażanie przez przedsiębiorców nowych lub znacząco udoskonalonych produktów."
+      },
+      {
+        "term": "Start-upy",
+        "definition": "Młode firmy, których działalność opiera się na innowacyjnym pomyśle i zazwyczaj na wykorzystywaniu nowoczesnych technologii."
+      },
+      {
+        "term": "Inkubatory przedsiębiorczości",
+        "definition": "Instytucje otoczenia biznesu pomagające początkującym przedsiębiorcom m.in. poprzez pomoc prawną, księgową lub udostępnianie przestrzeni biurowej."
+      },
+      {
+        "term": "Akceleratory biznesu",
+        "definition": "Instytucje wspomagające funkcjonujące już start-upy i oferujące im pomoc m.in. w zakresie marketingu oraz administracji."
+      },
+      {
+        "term": "Europejski Ranking Innowacyjności",
+        "definition": "Publikowany od 2011 r. przez Komisję Europejską ranking przedstawiający poziom innowacyjności gospodarek państw UE i kilku innych krajów."
+      },
+      {
+        "term": "Indeks innowacyjności",
+        "definition": "Wskaźnik oceniający gospodarki, wykorzystujący m.in. liczbę zgłoszonych wniosków patentowych i nakłady na działalność badawczą i rozwojową."
+      },
+      {
+        "term": "Telepraca",
+        "definition": "Wykonywanie pracy zdalnej, której upowszechnianie się jest jednym z głównych przejawów kształtowania się społeczeństwa informacyjnego."
+      },
+      {
+        "term": "Nowe czynniki produkcji (w GOW)",
+        "definition": "Przedsiębiorczość i wiedza, które są związane z kapitałem ludzkim i zastępują w znaczeniu tradycyjne czynniki, np. bazę surowcową."
+      },
+      {
+        "term": "Liderzy innowacji",
+        "definition": "Jedna z czterech grup państw w Europejskim Rankingu Innowacyjności z najwyższą wartością indeksu innowacyjności."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Kapitał ludzki (główny zasób w GOW)",
+        "pair2": "Wykształcenie, doświadczenie, kompetencje oraz wiedza pracowników."
+      },
+      {
+        "pair1": "Start-upy (rodzaj przedsiębiorstwa)",
+        "pair2": "Młode firmy, których działalność opiera się na innowacyjnym pomyśle i wykorzystywaniu nowoczesnych technologii."
+      },
+      {
+        "pair1": "Inkubatory przedsiębiorczości (wsparcie w fazie początkowej)",
+        "pair2": "Instytucje udostępniające początkującym przedsiębiorcom m.in. przestrzeń biurową oraz pomoc prawną i księgową."
+      },
+      {
+        "pair1": "Akceleratory biznesu (wsparcie w fazie rozwoju)",
+        "pair2": "Instytucje wspomagające funkcjonujące już start-upy w marketingu i administracji, zazwyczaj w zamian za udziały w zyskach."
+      },
+      {
+        "pair1": "E-learning (forma edukacji w społeczeństwie informacyjnym)",
+        "pair2": "Kształcenie odbywające się dzięki połączeniu sieciowemu, bez bezpośredniego kontaktu z nauczycielem."
+      },
+      {
+        "pair1": "Europejski Ranking Innowacyjności (narzędzie oceny)",
+        "pair2": "Zestawienie przedstawiające poziom innowacyjności gospodarek państw m.in. na podstawie nakładów na prace badawczo-rozwojowe."
+      },
+      {
+        "pair1": "Społeczeństwo informacyjne (główna cecha funkcjonowania)",
+        "pair2": "Społeczeństwo zależne od tworzenia, gromadzenia i obiegu informacji."
+      },
+      {
+        "pair1": "Gospodarka oparta na wiedzy (GOW) (cecha inwestycyjna)",
+        "pair2": "Model gospodarki wyróżniający się dużymi nakładami finansowymi na prace badawczo-rozwojowe."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co jest kluczowym zasobem w gospodarce opartej na wiedzy (GOW)?",
+        "options": [
+          "Nowoczesne maszyny produkcyjne.",
+          "Wiedza i pracowniczy kapitał.",
+          "Międzynarodowe szlaki handlowe.",
+          "Rozbudowany transport drogowy."
+        ],
+        "answer": "B",
+        "explanation": "W gospodarce opartej na wiedzy najważniejszym zasobem jest kapitał ludzki, czyli wykształcenie, doświadczenie, kompetencje i wiedza pracowników."
+      },
+      {
+        "question": "Czym charakteryzuje się funkcjonowanie społeczeństwa informacyjnego?",
+        "options": [
+          "Gromadzeniem oraz obiegiem informacji.",
+          "Wydobyciem surowców głęboko pod ziemią.",
+          "Masową produkcją ubrań i obuwia w fabryce.",
+          "Rolnictwem opartym na sztucznych nawozach."
+        ],
+        "answer": "A",
+        "explanation": "Funkcjonowanie społeczeństwa informacyjnego zależy w głównej mierze od tworzenia, gromadzenia oraz ciągłego obiegu informacji."
+      },
+      {
+        "question": "Czym jest zjawisko e-learningu w nowoczesnym społeczeństwie?",
+        "options": [
+          "Zdalnym zarządzaniem transportową flotą.",
+          "Zdalnym dokonywaniem zakupów w sieci web.",
+          "Zdalnym kształceniem i wymianą informacji.",
+          "Zdalnym wykonywaniem stałej pracy w biurze."
+        ],
+        "answer": "C",
+        "explanation": "E-learning to kształcenie odbywające się dzięki połączeniu sieciowemu, prowadzone bez konieczności bezpośredniego kontaktu z nauczycielem."
+      },
+      {
+        "question": "Na czym polega telepraca w warunkach współczesnej gospodarki?",
+        "options": [
+          "Ręczną naprawą zaawansowanego sprzętu cyfrowego.",
+          "Pracą z domu przez nowoczesne łącze internetowe.",
+          "Sprzedażą nowoczesnych odbiorników telewizyjnych.",
+          "Produkcją urządzeń mobilnych dla telekomunikacji."
+        ],
+        "answer": "B",
+        "explanation": "Telepraca polega na wykonywaniu obowiązków zawodowych w miejscu zamieszkania przy użyciu stałego połączenia sieciowego z pracodawcą."
+      },
+      {
+        "question": "Kogo i w jakim aspekcie dotyczy problem tzw. wykluczenia cyfrowego?",
+        "options": [
+          "Osób cierpiących przez stałe awarie światłowodów w dużych miastach.",
+          "Grup o poważnym braku kompetencji do obsługi sieci internetowej.",
+          "Zorganizowanych grup kradnących dane za pomocą złośliwego kodu.",
+          "Obywateli masowo łamiących prawa autorskie na globalnych portalach."
+        ],
+        "answer": "B",
+        "explanation": "Wykluczenie cyfrowe dotyczy osób, które nie potrafią obsługiwać komputerów ani poruszać się w internecie, przez co nie mogą korzystać z e-usług."
+      },
+      {
+        "question": "Co zastępuje klasyczną bazę surowcową w modelu gospodarki opartej na wiedzy?",
+        "options": [
+          "Silne wydobycie węgla kamiennego.",
+          "Nowoczesna wiedza i przedsiębiorczość.",
+          "Importowanie tanich półproduktów.",
+          "Rozwój transportu wewnątrzkrajowego."
+        ],
+        "answer": "B",
+        "explanation": "W GOW spada znaczenie tradycyjnych czynników produkcji, a w ich miejsce rośnie rola postaw przedsiębiorczych oraz wiedzy, powiązanych z kapitałem ludzkim."
+      },
+      {
+        "question": "Jakie miary wchodzą w skład europejskiego indeksu innowacyjności?",
+        "options": [
+          "Całkowita wielkość rocznego wydobycia węgla w danym państwie.",
+          "Liczba zgłoszonych wniosków patentowych wobec wielkości PKB.",
+          "Średnia gęstość państwowych węzłów logistycznych i kolejowych.",
+          "Zsumowana całkowita długość oddanych dróg o statusie ekspresowym."
+        ],
+        "answer": "B",
+        "explanation": "Indeks innowacyjności ocenia gospodarki na podstawie m.in. liczby absolwentów, nakładów na badania oraz zgłoszonych wniosków patentowych."
+      },
+      {
+        "question": "Na jakie główne grupy dzieli kraje Europejski Ranking Innowacyjności?",
+        "options": [
+          "Na gospodarki w pełni rynkowe i te w pełni centralnie sterowane.",
+          "Na państwa zamożne, wysoko uprzemysłowione i słabo rozwinięte.",
+          "Na liderów innowacji oraz innowatorów silnych, umiarkowanych i słabych.",
+          "Na potęgi całkowicie rolnicze oraz państwa mocno zurbanizowane i biedne."
+        ],
+        "answer": "C",
+        "explanation": "Ranking publikowany przez Komisję Europejską dzieli państwa na cztery zdefiniowane grupy: liderów innowacji oraz silnych, umiarkowanych i słabych innowatorów."
+      },
+      {
+        "question": "Jaką funkcję pełnią instytucje znane jako inkubatory przedsiębiorczości?",
+        "options": [
+          "Udzielają wsparcia bardzo dużym rynkowym korporacjom w kryzysie.",
+          "Pomagają początkującym firmom udostępniając księgowość oraz biura.",
+          "Zajmują się wyłącznie odpłatnym eksportem specjalistycznych doradztw.",
+          "Budują nowe, wielkopowierzchniowe parki przemysłowe dla starych branż."
+        ],
+        "answer": "B",
+        "explanation": "Inkubatory pomagają przedsiębiorcom w najwcześniejszej fazie, oferując pomoc prawną, księgową i fizyczną przestrzeń biurową do pracy."
+      },
+      {
+        "question": "Z którą fazą rozwoju cywilizacyjnego nierozerwalnie wiąże się ustrój GOW?",
+        "options": [
+          "Z początkową erą w pełni rewolucji preindustrialnej.",
+          "Z nowoczesną, czwartą i najwyższą fazą informacyjną.",
+          "Z mocno zmechanizowaną wczesną fazą uprzemysłowioną.",
+          "Z tradycyjnym rozwojem potężnych gospodarek rolniczych."
+        ],
+        "answer": "B",
+        "explanation": "Gospodarka oparta na wiedzy i społeczeństwo informacyjne wykształcają się w państwach, które osiągnęły czwartą, informacyjną fazę rozwoju cywilizacyjnego."
+      },
+      {
+        "question": "Na czym polega profilowa różnica między akceleratorami a inkubatorami biznesu?",
+        "options": [
+          "Finansowo wspierają i silnie promują te funkcjonujące już sprawnie start-upy.",
+          "Budują i finansują zaawansowaną ciężką infrastrukturę drogową oraz autostrady.",
+          "Zajmują się tylko i wyłącznie logistyką oraz transportem między dużymi miastami.",
+          "Koncentrują się wyłącznie na badaniu i finansowaniu procesów wydobycia surowców."
+        ],
+        "answer": "A",
+        "explanation": "Akceleratory biznesu wspomagają firmy innowacyjne (start-upy), które funkcjonują już od pewnego czasu, oferując im dofinansowanie w zamian za udziały."
+      },
+      {
+        "question": "Jak kształtują się trendy zatrudnieniowe w strukturach gospodarki opartej na wiedzy?",
+        "options": [
+          "Wzrasta ilość kadr w badawczych placówkach nauki i samej edukacji.",
+          "Dynamicznie rośnie zatrudnienie w zmechanizowanym masowym rolnictwie.",
+          "Dominującym miejscem pracy stają się nowo powstające fabryki odzieżowe.",
+          "Przeważająca rzesza pracowników skupia się w tradycyjnym hutnictwie metali."
+        ],
+        "answer": "A",
+        "explanation": "W GOW obserwuje się wyraźny wzrost zatrudnienia w oświatowych instytucjach edukacyjnych, uczelniach wyższych i sektorze badawczo-rozwojowym."
+      },
+      {
+        "question": "Czym w kontekście struktury finansowej GOW charakteryzują się nakłady na sektor B+R?",
+        "options": [
+          "Kosztują budżet o wiele mniej niż standardowa budowa nowoczesnych osiedli w regionie.",
+          "Zazwyczaj są znacznie wyższe niż inwestycje w widoczny i tradycyjny twardy majątek rzeczowy.",
+          "Powodują bardzo wyraźne, ogólnokrajowe spowolnienie tempa obecnego postępu cywilizacyjnego.",
+          "Zmniejszają wielkie rynkowe szanse młodych firm technicznych na tle starych tradycyjnych korporacji."
+        ],
+        "answer": "B",
+        "explanation": "W zaawansowanej GOW nakłady finansowe na prace badawczo-rozwojowe bardzo często przekraczają wielkość klasycznych inwestycji w majątek rzeczowy (jak budynki i sprzęt)."
+      },
+      {
+        "question": "W jaki strategiczny sposób rozwijają GOW wyspecjalizowane instytucje otoczenia biznesu?",
+        "options": [
+          "Odgórnie zastępują swobodny kapitał ścisłym planowaniem budżetowym z centrali rządowej.",
+          "Prawnie ograniczają ogromną rynkową konkurencję i blokują tworzenie się nowych marek lokalnych.",
+          "Celowo redukują i mocno kontrolują coroczną liczbę wydawanych ważnych patentów w nowym państwie.",
+          "Maksymalnie ułatwiają oraz bezpośrednio promują współpracę uczelni z nowymi prywatnymi przedsiębiorstwami."
+        ],
+        "answer": "D",
+        "explanation": "Instytucje takie jak parki naukowo-technologiczne odgrywają rolę stymulatora, łącząc wiedzę i projekty środowisk naukowych z komercyjnymi firmami technologicznymi."
+      },
+      {
+        "question": "Z jakiego powodu istnieje silny i wymierny związek między innowacjami a kapitałem ludzkim?",
+        "options": [
+          "Potencjał wynalazczy drastycznie maleje, gdy cała spółka zbyt mocno opiera się na stałej kadrze badawczej.",
+          "Skuteczne i bezbłędne wdrażanie rewolucyjnych rozwiązań bezwzględnie wymaga wysoce wykwalifikowanej załogi.",
+          "Mocny rozwój kompetencji technicznych personelu całkowicie i ostatecznie niszczy krótkoterminowe zyski firmy.",
+          "Wszystkie te najprężniejsze komercyjne przedsiębiorstwa celowo i w pełni rezygnują z tradycyjnego kapitału pracowniczego."
+        ],
+        "answer": "B",
+        "explanation": "Innowacyjność gospodarki bezpośrednio zależy od kapitału ludzkiego, ponieważ to wiedza, pomysły i kompetencje ludzi odpowiadają za kreowanie nowoczesnych technologii."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "W modelu gospodarki opartej na wiedzy nakłady finansowe na inwestycje w majątek rzeczowy, taki jak budynki i sprzęt maszynowy, zawsze przewyższają wydatki na prace badawczo-rozwojowe.",
+        "answer": false,
+        "explanation": "W gospodarce opartej na wiedzy nakłady na prace badawczo-rozwojowe bardzo często są wyższe niż inwestycje w tradycyjny majątek rzeczowy."
+      },
+      {
+        "sentence": "Europejski Ranking Innowacyjności dzieli oceniane państwa na trzy główne grupy: kraje wysoce innowacyjne, średnio innowacyjne i słabo innowacyjne.",
+        "answer": false,
+        "explanation": "Ranking dzieli kraje na cztery zdefiniowane grupy: liderów innowacji oraz silnych, umiarkowanych i słabych innowatorów."
+      },
+      {
+        "sentence": "Inkubatory przedsiębiorczości to instytucje otoczenia biznesu pomagające wyłącznie dojrzałym firmom, które funkcjonują od lat i mają ugruntowaną pozycję na rynku.",
+        "answer": false,
+        "explanation": "Inkubatory przedsiębiorczości pomagają początkującym przedsiębiorcom, znajdującym się w najwcześniejszej fazie działalności lub dopiero ją planującym."
+      },
+      {
+        "sentence": "Społeczeństwo informacyjne wykształca się przede wszystkim w państwach znajdujących się we wczesnej, industrialnej fazie rozwoju cywilizacyjnego.",
+        "answer": false,
+        "explanation": "Społeczeństwo informacyjne i gospodarka oparta na wiedzy wykształcają się w państwach, które osiągnęły czwartą fazę rozwoju cywilizacyjnego – fazę informacyjną."
+      },
+      {
+        "sentence": "Akceleratory biznesu zazwyczaj wspomagają nowo powstałe innowacyjne firmy (start-upy) poprzez pomoc finansową, marketingową i administracyjną w zamian za udziały w zyskach.",
+        "answer": true,
+        "explanation": "Akceleratory oferują wsparcie funkcjonującym już start-upom, dofinansowując je i pomagając w rozwoju w zamian za udziały w przedsiębiorstwie."
+      },
+      {
+        "sentence": "Indeks innowacyjności publikowany przez Komisję Europejską opiera się wyłącznie na ocenie liczby nowo zgłoszonych wniosków patentowych na milion mieszkańców.",
+        "answer": false,
+        "explanation": "Indeks innowacyjności uwzględnia aż 27 różnych wskaźników, w tym m.in. udział absolwentów szkół wyższych, nakłady na badania w sektorze publicznym i liczbę wniosków patentowych wobec PKB."
+      },
+      {
+        "sentence": "W gospodarce opartej na wiedzy tradycyjne czynniki produkcji, takie jak surowce mineralne, zyskują na znaczeniu kosztem zasobów niematerialnych.",
+        "answer": false,
+        "explanation": "W GOW obserwuje się spadek znaczenia tradycyjnych czynników produkcji na rzecz nowych, związanych z kapitałem ludzkim, czyli przedsiębiorczości i wiedzy."
+      },
+      {
+        "sentence": "Zjawisko wykluczenia cyfrowego polega na celowym odłączaniu całych państw słabo rozwiniętych od dostępu do globalnej sieci światłowodowej.",
+        "answer": false,
+        "explanation": "Wykluczenie cyfrowe dotyczy osób, które nie potrafią obsługiwać komputerów ani poruszać się w internecie, co uniemożliwia im korzystanie z nowoczesnych e-usług."
+      },
+      {
+        "sentence": "Gospodarka oparta na wiedzy charakteryzuje się dynamicznym wzrostem zatrudnienia w sektorze instytucji oświatowych, szkolnictwa wyższego i placówkach badawczo-rozwojowych.",
+        "answer": true,
+        "explanation": "Jedną z kluczowych cech GOW jest przesunięcie zapotrzebowania na pracę w stronę edukacji, usług konsultingowych oraz działalności B+R, co bezpośrednio rozwija kapitał ludzki."
+      },
+      {
+        "sentence": "Zjawisko e-learningu oznacza zdalne zakupy towarów oświatowych przez internet z bezpośrednią dostawą materiałów do miejsca zamieszkania ucznia.",
+        "answer": false,
+        "explanation": "E-learning to forma edukacji i kształcenia odbywająca się dzięki połączeniu sieciowemu, prowadzona bez bezpośredniego, fizycznego kontaktu z nauczycielem."
+      }
+    ]
+  }
+}

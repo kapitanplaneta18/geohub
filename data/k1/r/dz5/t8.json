@@ -1,0 +1,347 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t8",
+                     "unit":  "V",
+                     "title":  "Odtwarzanie i datowanie dziejów Ziemi",
+                     "level":  "R",
+                     "class":  "1",
+                     "disclaimer":  "Treści szczegółowe uzupełniono w oparciu o wiedzę ekspercką zgodnie z wymaganiami podstawy programowej."
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Wiek względny",
+                                              "definition":  "Ustalanie kolejności procesów geologicznych lub starszeństwa skał względem siebie (określanie co jest starsze, a co młodsze), bez podawania czasu w latach."
+                                          },
+                                          {
+                                              "term":  "Wiek bezwzględny",
+                                              "definition":  "Określanie czasu, jaki upłynął od danego wydarzenia geologicznego lub powstania skały, wyrażane w konkretnych jednostkach czasu, np. w tysiącach lub milionach lat."
+                                          },
+                                          {
+                                              "term":  "Zasada superpozycji (nadległości)",
+                                              "definition":  "Jedna z podstawowych zasad stratygrafii mówiąca, że w nienaruszonych warstwach skalnych warstwy leżące głębiej są starsze od warstw leżących płycej."
+                                          },
+                                          {
+                                              "term":  "Skamieniałość przewodnia",
+                                              "definition":  "Szczątki organizmów, które odznaczają się krótkim zasięgiem czasowym (żyły krótko) oraz szerokim zasięgiem geograficznym, kluczowe dla datowania warstw skalnych. "
+                                          },
+                                          {
+                                              "term":  "Metoda radiowęglowa (C14)",
+                                              "definition":  "Metoda datowania bezwzględnego wykorzystująca izotop węgla C14, służąca do określania wieku szczątków organicznych nie starszych niż około 60 tysięcy lat."
+                                          },
+                                          {
+                                              "term":  "Metoda uranowo-ołowiowa",
+                                              "definition":  "Metoda izotopowa oparta na rozpadzie uranu do ołowiu, wykorzystywana do datowania bardzo starych skał magmowych, których wiek sięga nawet miliardów lat."
+                                          },
+                                          {
+                                              "term":  "Dendrochronologia",
+                                              "definition":  "Metoda datowania bezwzględnego polegająca na analizie liczby i szerokości rocznych przyrostów słojów drzew, pozwalająca ustalić wiek z dokładnością do jednego roku."
+                                          },
+                                          {
+                                              "term":  "Stratygrafia",
+                                              "definition":  "Dział geologii historycznej zajmujący się badaniem następstwa warstw skalnych, ich wieku oraz korelacją w różnych rejonach Ziemi."
+                                          },
+                                          {
+                                              "term":  "Metoda paleontologiczna",
+                                              "definition":  "Metoda datowania względnego polegająca na ustalaniu wieku skał na podstawie zawartych w nich skamieniałości, w szczególności skamieniałości przewodnich."
+                                          },
+                                          {
+                                              "term":  "Zasada przecięcia",
+                                              "definition":  "Reguła określająca wiek względny, według której struktura przecinająca (np. intruzja magmowa, uskok) jest młodsza od struktur, które zostały przez nią przecięte."
+                                          },
+                                          {
+                                              "term":  "Skamieniałości",
+                                              "definition":  "Zachowane w skałach osadowych szczątki organizmów roślinnych i zwierzęcych z minionych epok geologicznych lub ślady ich działalności."
+                                          },
+                                          {
+                                              "term":  "Metody izotopowe (radiometryczne)",
+                                              "definition":  "Grupa metod datowania bezwzględnego wykorzystujących zjawisko naturalnego rozpadu promieniotwórczego izotopów pierwiastków zawartych w skałach."
+                                          },
+                                          {
+                                              "term":  "Metoda sedymentologiczna (warwowa)",
+                                              "definition":  "Metoda polegająca na liczeniu naprzemianległych warstewek osadów (jasnych i ciemnych warw) w zbiornikach wodnych, np. jeziorach polodowcowych."
+                                          },
+                                          {
+                                              "term":  "Metoda potasowo-argonowa",
+                                              "definition":  "Metoda radiometryczna wykorzystująca rozpad potasu do argonu, stosowana powszechnie do datowania skał magmowych i popiołów wulkanicznych."
+                                          },
+                                          {
+                                              "term":  "Paleontologia",
+                                              "definition":  "Nauka z pogranicza biologii i geologii zajmująca się badaniem organizmów kopalnych na podstawie ich skamieniałości zachowanych w skorupie ziemskiej."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Zasada superpozycji",
+                                                 "pair2":  "Warstwy skalne leżące niżej są starsze od warstw leżących wyżej"
+                                             },
+                                             {
+                                                 "pair1":  "Wiek bezwzględny",
+                                                 "pair2":  "Skała powstała 250 mln lat temu"
+                                             },
+                                             {
+                                                 "pair1":  "Skamieniałość przewodnia",
+                                                 "pair2":  "Szeroki zasięg geograficzny i krótki czas występowania"
+                                             },
+                                             {
+                                                 "pair1":  "Dendrochronologia",
+                                                 "pair2":  "Analiza rocznych przyrostów słojów drzew"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda radiowęglowa (C14)",
+                                                 "pair2":  "Datowanie młodych szczątków organicznych (do ok. 60 tys. lat)"
+                                             },
+                                             {
+                                                 "pair1":  "Zasada przecięcia",
+                                                 "pair2":  "Intruzja magmowa jest młodsza od skał, które przecina"
+                                             },
+                                             {
+                                                 "pair1":  "Wiek względny",
+                                                 "pair2":  "Określanie, czy skała jest starsza, czy młodsza od innej"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda uranowo-ołowiowa",
+                                                 "pair2":  "Datowanie najstarszych skał magmowych Ziemi"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda paleontologiczna",
+                                                 "pair2":  "Ustalanie wieku skał na podstawie zawartych w nich skamieniałości"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda warwowa",
+                                                 "pair2":  "Liczenie rocznych warstw osadów in jeziorach"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Na czym polega zasada aktualizmu geologicznego wykorzystywana w odtwarzaniu dziejów Ziemi?",
+                                      "options":  [
+                                                      "Przeszłość nie ma wpływu na teraźniejszość.",
+                                                      "Procesy geologiczne zachodzące obecnie przebiegały tak samo w przeszłości.",
+                                                      "Zjawiska geologiczne w przeszłości były gwałtowniejsze niż obecnie.",
+                                                      "Tylko katastrofy naturalne kształtują powierzchnię Ziemi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zgodnie z zasadą aktualizmu, której hasłem jest „teraźniejszość jest kluczem do przeszłości”, procesy kształtujące Ziemię dziś działały w podobny sposób w minionych epokach."
+                                  },
+                                  {
+                                      "question":  "Która metoda datowania bezwzględnego wykorzystuje izotop C14?",
+                                      "options":  [
+                                                      "Metoda uranowo-ołowiowa",
+                                                      "Metoda radiowęglowa",
+                                                      "Metoda potasowo-argonowa",
+                                                      "Metoda sedymentologiczna"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metoda radiowęglowa opiera się na rozpadzie promieniotwórczym izotopu węgla C14."
+                                  },
+                                  {
+                                      "question":  "Do jakich znalezisk stosuje się metodę dendrochronologiczną?",
+                                      "options":  [
+                                                      "Do skał magmowych z prekambru.",
+                                                      "Do skamieniałości dinozaurów.",
+                                                      "Do pni drzew i drewnianych obiektów z niedalekiej przeszłości.",
+                                                      "Do osadów na dnie oceanów."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Metoda dendrochronologiczna polega na analizie rocznych przyrostów słojów drzew, co pozwala datować drewniane zabytki lub pnie."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się skamieniałość przewodnia?",
+                                      "options":  [
+                                                      "Długim czasem występowania i małym zasięgiem geograficznym.",
+                                                      "Krótkim czasem występowania i szerokim zasięgiem geograficznym.",
+                                                      "Występowaniem tylko w skałach magmowych.",
+                                                      "Brakiem szkieletu wapiennego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skamieniałości przewodnie to szczątki organizmów, które żyły krótko, ale rozprzestrzeniły się na dużych obszarach Ziemi."
+                                  },
+                                  {
+                                      "question":  "Jaka jest prawidłowa kolejność jednostek w tabeli stratygraficznej, od największej do najmniejszej? ",
+                                      "options":  [
+                                                      "Epoka, okres, era, eon",
+                                                      "Eon, era, okres, epoka",
+                                                      "Okres, era, eon, epoka",
+                                                      "Era, eon, epoka, okres"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dzieje Ziemi dzieli się na eony, które dzielą się na ery, ery na okresy, a okresy na epoki."
+                                  },
+                                  {
+                                      "question":  "W jakim celu stosuje się metodę uranowo-ołowiową?",
+                                      "options":  [
+                                                      "Do datowania młodych szczątków organicznych.",
+                                                      "Do określania wieku najstarszych skał magmowych (miliardy lat).",
+                                                      "Do badania wieku lodowców.",
+                                                      "Do analizy słojów drzew."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ze względu na długi czas połowicznego rozpadu uranu, metoda ta służy do datowania skał powstałych nawet miliardy lat temu."
+                                  },
+                                  {
+                                      "question":  "Co określa wiek względny skał?",
+                                      "options":  [
+                                                      "Dokładną liczbę lat, jaka upłynęła od powstania skały.",
+                                                      "Kolejność zdarzeń (starszeństwo) bez podawania liczb.",
+                                                      "Skład chemiczny skały.",
+                                                      "Stopień radioaktywności skały."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wiek względny pozwala jedynie ustalić, czy dana skała lub zjawisko jest starsze bądź młodsze od innego."
+                                  },
+                                  {
+                                      "question":  "Jak brzmi zasada superpozycji?",
+                                      "options":  [
+                                                      "Warstwy skalne leżące wyżej są starsze od tych leżących niżej.",
+                                                      "W nienaruszonym układzie warstwy głębsze są starsze od warstw płytszych.",
+                                                      "Wszystkie warstwy skalne powstają jednocześnie.",
+                                                      "Skały magmowe zawsze leżą na skałach osadowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zasada superpozycji mówi, że każda warstwa osadowa jest młodsza od warstwy leżącej pod nią (w układzie niezaburzonym)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego metoda radiowęglowa nie jest użyteczna do datowania skał z ery mezozoicznej?",
+                                      "options":  [
+                                                      "Ponieważ węgiel C14 występuje tylko w wodzie.",
+                                                      "Ponieważ jej zasięg to tylko ok. 60 tys. lat, a mezozoik był miliony lat temu.",
+                                                      "Ponieważ skały mezozoiczne nie zawierają węgla.",
+                                                      "Ponieważ metoda ta działa tylko na skały magmowe."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Krótki czas połowicznego rozpadu C14 ogranicza stosowanie tej metody do znalezisk nie starszych niż kilkadziesiąt tysięcy lat."
+                                  },
+                                  {
+                                      "question":  "Na czym polega zasada przecięcia w datowaniu względnym?",
+                                      "options":  [
+                                                      "Struktura przecinająca jest starsza od struktury przecinanej.",
+                                                      "Obie struktury są tego samego wieku.",
+                                                      "Struktura przecinająca (np. intruzja) jest młodsza od skał, które przecina.",
+                                                      "Przecięcie nie ma znaczenia dla wieku skał."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Intruzja magmowa lub uskok muszą być młodsze od warstw skalnych, które zostały przez nie przecięte."
+                                  },
+                                  {
+                                      "question":  "Co jest podstawą metody sedymentologicznej?",
+                                      "options":  [
+                                                      "Pomiar promieniowania izotopów.",
+                                                      "Analiza tempa przyrostu osadów w zbiornikach wodnych.",
+                                                      "Liczenie słojów w pniach drzew.",
+                                                      "Badanie skamieniałości przewodnich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metoda ta polega na szacowaniu wieku warstw na podstawie grubości osadów i rocznego tempa ich sedymentacji."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych stwierdzeń opisuje wiek bezwzględny?",
+                                      "options":  [
+                                                      "Granit jest młodszy od gnejsu.",
+                                                      "Skała powstała 350 milionów lat temu.",
+                                                      "Wapień leży powyżej piaskowca.",
+                                                      "Amonity żyły po trylobitach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podanie konkretnej wartości czasu (w latach) od momentu powstania skały to określenie jej wieku bezwzględnego."
+                                  },
+                                  {
+                                      "question":  "Jaką rolę w datowaniu odgrywają trylobity?",
+                                      "options":  [
+                                                      "Są skamieniałościami przewodnimi dla ery paleozoicznej.",
+                                                      "Są skamieniałościami przewodnimi dla ery kenozoicznej.",
+                                                      "Służą do datowania metodą radiowęglową.",
+                                                      "Wskazują na lądowe środowisko powstania skały."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Trylobity to organizmy morskie, które są uznawane za skamieniałości przewodnie dla ery paleozoicznej."
+                                  },
+                                  {
+                                      "question":  "Jeśli w profilu geologicznym starsze warstwy leżą na młodszych, o czym to świadczy?",
+                                      "options":  [
+                                                      "O zachowaniu zasady superpozycji.",
+                                                      "O błędzie w datowaniu izotopowym.",
+                                                      "O zaburzeniu tektonicznym, np. obaleniu fałdu.",
+                                                      "O braku procesów geologicznych w tym rejonie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Taki układ jest niezgodny z zasadą superpozycji i świadczy o silnych ruchach tektonicznych, które odwróciły warstwy."
+                                  },
+                                  {
+                                      "question":  "Która metoda pozwala na datowanie z dokładnością do jednego roku?",
+                                      "options":  [
+                                                      "Metoda uranowo-ołowiowa",
+                                                      "Metoda dendrochronologiczna",
+                                                      "Analiza skamieniałości przewodnich",
+                                                      "Metoda potasowo-argonowa"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Analiza sekwencji rocznych przyrostów słojów drzew pozwala określić wiek z dokładnością do roku."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Metoda radiowęglowa (C14) pozwala na precyzyjne datowanie skał magmowych, takich jak granit, które powstały miliardy lat temu.",
+                                           "answer":  false,
+                                           "explanation":  "Metoda ta służy do datowania stosunkowo młodych szczątków organicznych, a nie starych skał magmowych."
+                                       },
+                                       {
+                                           "sentence":  "Zasada superpozycji zakłada, że w nienaruszonym układzie warstw skalnych warstwy leżące głębiej są młodsze od tych położonych wyżej.",
+                                           "answer":  false,
+                                           "explanation":  "Zgodnie z zasadą superpozycji warstwy leżące głębiej są starsze od tych, które osadziły się na nich później."
+                                       },
+                                       {
+                                           "sentence":  "Mianem skamieniałości przewodniej określa się każdy dowolny szczątek organizmu, który został znaleziony w skałach osadowych.",
+                                           "answer":  false,
+                                           "explanation":  "Skamieniałość przewodnia musi pochodzić od organizmu, który żył krótko, ale miał szeroki zasięg geograficzny."
+                                       },
+                                       {
+                                           "sentence":  "Stwierdzenie, że pokład węgla kamiennego jest starszy od leżącego nad nim piaskowca, stanowi przykład określania wieku względnego.",
+                                           "answer":  true,
+                                           "explanation":  "Ustalanie starszeństwa warstw względem siebie to określanie wieku względnego."
+                                       },
+                                       {
+                                           "sentence":  "Analiza przebiegu fal sejsmicznych jest jedną z pośrednich metod pozwalających na poznanie budowy wnętrza Ziemi.",
+                                           "answer":  true,
+                                           "explanation":  "Fale sejsmiczne zmieniają prędkość i kierunek w zależności od ośrodka, co pozwala badać wnętrze planety."
+                                       },
+                                       {
+                                           "sentence":  "Litosfera jest zbudowana ze skorupy ziemskiej oraz zewnętrznej, sztywnej części płaszcza górnego.",
+                                           "answer":  true,
+                                           "explanation":  "Litosfera obejmuje skorupę ziemską wraz z zewnętrzną warstwą płaszcza górnego."
+                                       },
+                                       {
+                                           "sentence":  "Prądy konwekcyjne magmy występujące w płaszczu Ziemi są przyczyną przemieszczania się płyt litosfery.",
+                                           "answer":  true,
+                                           "explanation":  "Strumienie magmy krążące we wnętrzu Ziemi wywołują ruch płyt litosfery, powodując ich rozsuwanie lub zbliżanie."
+                                       },
+                                       {
+                                           "sentence":  "Granit jest skałą osadową pochodzenia organicznego, powstającą z nagromadzenia szczątków roślinnych.",
+                                           "answer":  false,
+                                           "explanation":  "Granit to skała magmowa głębinowa, natomiast z nagromadzenia szczątków organicznych powstają skały takie jak węgiel czy wapień."
+                                       },
+                                       {
+                                           "sentence":  "Skorupa kontynentalna jest znacznie grubsza od skorupy oceanicznej i może osiągać grubość około 80 km.",
+                                           "answer":  true,
+                                           "explanation":  "Skorupa kontynentalna ma grubość ok. 80 km, podczas gdy oceaniczna wynosi jedynie 5–12 km."
+                                       },
+                                       {
+                                           "sentence":  "Proces, w którym ląd ulega obniżeniu i zostaje zalany przez wody morskie, nazywany jest transgresją morza.",
+                                           "answer":  true,
+                                           "explanation":  "Gdy lądy się obniżają i są zalewane przez morze, zachodzi zjawisko zwane transgresją."
+                                       },
+                                       {
+                                           "sentence":  "Wapień jest skałą magmową wylewną, która powstaje w wyniku szybkiego zastygania lawy na powierzchni.",
+                                           "answer":  false,
+                                           "explanation":  "Wapień to skała osadowa pochodzenia organicznego (np. z muszli), a z lawy powstają skały magmowe wylewne, jak bazalt."
+                                       },
+                                       {
+                                           "sentence":  "Góry fałdowe powstają wyłącznie w wyniku gromadzenia się materiałów wulkanicznych wyrzucanych podczas erupcji.",
+                                           "answer":  false,
+                                           "explanation":  "Góry fałdowe tworzą się w wyniku fałdowania osadów podczas kolizji lub subdukcji płyt, natomiast z erupcji powstają góry wulkaniczne."
+                                       }
+                                   ]
+                 }
+}

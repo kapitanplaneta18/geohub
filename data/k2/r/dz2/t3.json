@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t3",
+    "title": "Rozmieszczenie ludności na świecie",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Ekumena",
+        "definition": "Obszary stale zamieszkiwane i zagospodarowane przez człowieka."
+      },
+      {
+        "term": "Subekumena",
+        "definition": "Tereny, które tylko okresowo są zamieszkiwane i wykorzystywane gospodarczo."
+      },
+      {
+        "term": "Anekumena",
+        "definition": "Tereny bezludne, na których nie występuje stałe ani okresowe osadnictwo."
+      },
+      {
+        "term": "Gęstość zaludnienia",
+        "definition": "Stosunek liczby mieszkańców danego terytorium do wielkości jego powierzchni."
+      },
+      {
+        "term": "Bariera termiczna",
+        "definition": "Ograniczenie osadnicze wywołane zbyt wysoką lub zbyt niską średnią temperaturą powietrza (np. na Antarktydzie i w Arktyce)."
+      },
+      {
+        "term": "Bariera świetlna",
+        "definition": "Przeszkoda osadnicza związana z deficytem lub nadmiarem światła, decydująca o braku stałego osadnictwa na obszarach polarnych (np. Antarktyda, Arktyka)."
+      },
+      {
+        "term": "Bariera wodna (deficyt wody)",
+        "definition": "Brak wystarczającej ilości wody utrudniający osadnictwo i gospodarowanie, występujący głównie na obszarach pustynnych (np. Sahara, Półwysep Arabski)."
+      },
+      {
+        "term": "Bariera wodna (nadmiar wilgoci)",
+        "definition": "Nadmiar wody obniżający wydolność organizmu i utrudniający rolnictwo, typowy dla wilgotnych lasów równikowych (np. Amazonia, Kotlina Konga)."
+      },
+      {
+        "term": "Bariera wysokościowa",
+        "definition": "Ograniczenie osadnicze związane z za dużą wysokością nad poziomem morza i urozmaiconą rzeźbą terenu (np. w Himalajach, Andach, Kordylierach)."
+      },
+      {
+        "term": "Bariera ekologiczna",
+        "definition": "Przeszkoda osadnicza związana z niemal całkowitą degradacją terenu, wynikająca z działalności człowieka."
+      },
+      {
+        "term": "Historyczne czynniki rozmieszczenia ludności",
+        "definition": "Wydarzenia z przeszłości kształtujące zaludnienie, takie jak odkrycia geograficzne i kolonizacja, które doprowadziły m.in. do zasiedlenia Ameryki Północnej i Południowej."
+      },
+      {
+        "term": "Polityczne czynniki rozmieszczenia ludności",
+        "definition": "Sytuacja polityczna, dyktatury oraz konflikty zbrojne, które zmuszają ludność do opuszczenia danego obszaru (np. konflikt zbrojny we wschodniej Ukrainie)."
+      },
+      {
+        "term": "Gospodarcze czynniki rozmieszczenia ludności",
+        "definition": "Poziom rozwoju obszaru, rynki pracy czy występowanie surowców mineralnych, które przyciągają ludność nawet w trudnych warunkach (np. wydobycie rud żelaza w szwedzkiej Kirunie)."
+      },
+      {
+        "term": "Obszary największej koncentracji ludności",
+        "definition": "Trzy główne regiony zamieszkiwane przez ok. 70% mieszkańców Ziemi: Europa, południowo-wschodnia Azja oraz wschodnie wybrzeże Ameryki Północnej i Kraina Wielkich Jezior."
+      },
+      {
+        "term": "Prawidłowości rozmieszczenia ludności",
+        "definition": "Tendencje w zasiedlaniu Ziemi: ok. 90% ludzi zamieszkuje półkulę północną, a 60% żyje w Azji. Ludność koncentruje się głównie na nizinach (do 200 m n.p.m.) i na wybrzeżach."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Bariera wodna (niedobór wody)",
+        "pair2": "Obszary pustynne (np. Sahara, Półwysep Arabski)"
+      },
+      {
+        "pair1": "Bariera wodna (nadmiar wilgoci)",
+        "pair2": "Obszary wilgotnych lasów równikowych (np. Amazonia, Kotlina Konga)"
+      },
+      {
+        "pair1": "Bariera termiczna i świetlna",
+        "pair2": "Obszary polarne i subpolarne (np. Antarktyda, Arktyka)"
+      },
+      {
+        "pair1": "Bariera wysokościowa",
+        "pair2": "Obszary wysokogórskie (np. Himalaje, Andy, Kordyliery)"
+      },
+      {
+        "pair1": "Obszar stale zamieszkany i zagospodarowany",
+        "pair2": "Ekumena"
+      },
+      {
+        "pair1": "Tereny okresowo zamieszkiwane i wykorzystywane gospodarczo",
+        "pair2": "Subekumena"
+      },
+      {
+        "pair1": "Tereny bezludne (całkowicie pozbawione osadnictwa)",
+        "pair2": "Anekumena"
+      },
+      {
+        "pair1": "Stosunek liczby mieszkańców danego terytorium do jego powierzchni",
+        "pair2": "Gęstość zaludnienia"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jak nazywa się obszar na kuli ziemskiej, który jest stale zamieszkiwany i zagospodarowany przez człowieka?",
+        "options": [
+          "Ekumena",
+          "Subekumena",
+          "Anekumena",
+          "Metropolia"
+        ],
+        "answer": "A",
+        "explanation": "Ekumena to tereny stale zamieszkiwane i wykorzystywane gospodarczo przez człowieka."
+      },
+      {
+        "question": "Który z wymienionych kontynentów charakteryzuje się największą liczbą ludności i skupia około 60% mieszkańców Ziemi?",
+        "options": [
+          "Afryka",
+          "Europa",
+          "Azja",
+          "Ameryka"
+        ],
+        "answer": "C",
+        "explanation": "Od wieków najludniejszym kontynentem jest Azja, którą zamieszkuje około 60% populacji całego świata."
+      },
+      {
+        "question": "Który z podanych poniżej wskaźników opisuje stosunek liczby mieszkańców danego terytorium do wielkości jego powierzchni?",
+        "options": [
+          "Przyrost naturalny",
+          "Gęstość zaludnienia",
+          "Przyrost rzeczywisty",
+          "Współczynnik dzietności"
+        ],
+        "answer": "B",
+        "explanation": "Rozmieszczenie ludności na danym obszarze przedstawia się za pomocą wskaźnika gęstości zaludnienia, czyli stosunku liczby mieszkańców do powierzchni."
+      },
+      {
+        "question": "Wskaż region, który należy do trzech głównych obszarów największej koncentracji ludności, skupiających łącznie około 70% mieszkańców Ziemi.",
+        "options": [
+          "Wschodnie wybrzeże Ameryki Północnej",
+          "Środkowe i zachodnie wybrzeże Afryki",
+          "Północna część kontynentu australijskiego",
+          "Południowo-zachodnia część Azji Mniejszej"
+        ],
+        "answer": "A",
+        "explanation": "Trzy największe skupiska ludności na świecie to: Europa, Azja Południowo-Wschodnia oraz wschodnie wybrzeże Ameryki Północnej i Kraina Wielkich Jezior."
+      },
+      {
+        "question": "Jaka bariera osadnicza w największym stopniu utrudnia stałe osadnictwo i rozwój rolnictwa na obszarze Amazonii oraz Kotliny Konga?",
+        "options": [
+          "Bariera wodna związana z deficytem wody",
+          "Bariera wodna w postaci nadmiaru wilgoci",
+          "Bariera termiczna wywołana niską temperaturą",
+          "Bariera świetlna związana z deficytem światła"
+        ],
+        "answer": "B",
+        "explanation": "W Amazonii i Kotlinie Konga występuje bariera wodna polegająca na nadmiarze wilgoci, co obniża wydolność organizmu i utrudnia rozwój rolnictwa."
+      },
+      {
+        "question": "Który z wymienionych elementów jest społeczno-gospodarczym czynnikiem silnie przyciągającym ludność i wpływającym na rozmieszczenie osadnictwa?",
+        "options": [
+          "Dostęp do zasobów czystej wody pitnej",
+          "Urozmaicona rzeźba terenu górzystego",
+          "Odkrycia geograficzne oraz kolonizacja",
+          "Koncentracja działalności usługowej"
+        ],
+        "answer": "D",
+        "explanation": "Koncentracja działalności usługowej i przemysłowej w miastach ułatwia znalezienie pracy i jest kluczowym czynnikiem społeczno-gospodarczym."
+      },
+      {
+        "question": "W jakiej strefie szerokości geograficznych na półkuli północnej zamieszkuje zdecydowana większość (około 90%) współczesnej populacji świata?",
+        "options": [
+          "Od równika do 20° szerokości północnej",
+          "Między 20° a 60° szerokości północnej",
+          "Między 60° a 80° szerokości północnej",
+          "Od zwrotnika Raka do równika na południu"
+        ],
+        "answer": "B",
+        "explanation": "Prawidłowości rozmieszczenia ludności wskazują, że aż 90% mieszkańców zamieszkuje półkulę północną, a szczególnie pas między 20°N a 60°N."
+      },
+      {
+        "question": "Z jakimi ograniczeniami wiąże się bariera wysokościowa, stanowiąca główną przeszkodę w rozwoju osadnictwa w Himalajach, Andach oraz Kordylierach?",
+        "options": [
+          "Strome stoki oraz spadek ilości tlenu",
+          "Całkowita degradacja środowiska natury",
+          "Długotrwały brak światła słonecznego",
+          "Wieloletnia zmarzlina na dnie dolin"
+        ],
+        "answer": "A",
+        "explanation": "Bariera wysokościowa na terenach wysokogórskich (Himalaje, Andy) ogranicza osadnictwo przez duże nachylenie stoków oraz spadek zawartości tlenu w powietrzu."
+      },
+      {
+        "question": "Z jakiego powodu rozległe obszary Antarktydy oraz Arktyki stanowią anekumenę, będąc terenami pozbawionymi stałego osadnictwa ludzkiego?",
+        "options": [
+          "Występuje tam skrajnie mała wilgotność powietrza",
+          "Przeważa tam bariera termiczna oraz świetlna",
+          "Dominuje tam bariera ekologiczna i wysokościowa",
+          "Brakuje tam jakichkolwiek surowców mineralnych"
+        ],
+        "answer": "B",
+        "explanation": "Obszary polarne i subpolarne są anekumeną ze względu na bariery: termiczną (skrajnie niskie temperatury) oraz świetlną (noce i dnie polarne)."
+      },
+      {
+        "question": "Jaki czynnik decyduje o koncentracji ludności w szwedzkim mieście Kiruna położonym za kołem podbiegunowym, pomimo wybitnie niesprzyjającego klimatu?",
+        "options": [
+          "Obowiązywanie korzystnych przepisów podatkowych",
+          "Bardzo wysoki poziom rozwoju usług turystycznych",
+          "Obecność bogatych złóż cennych rud żelaza",
+          "Rozbudowana sieć połączeń śródlądowych dróg"
+        ],
+        "answer": "C",
+        "explanation": "Bogate złoża surowców mineralnych (rud żelaza) zadecydowały o założeniu i rozwoju miasta Kiruna mimo niesprzyjających warunków termicznych."
+      },
+      {
+        "question": "Do jakiej grupy uwarunkowań rozmieszczenia ludności należą prześladowania i reżimy dyktatorskie zmuszające obywateli do przymusowej emigracji?",
+        "options": [
+          "Przyrodnicze czynniki lokalizacji",
+          "Zjawiska historyczno-polityczne",
+          "Uwarunkowania społeczno-kulturowe",
+          "Bariery o charakterze gospodarczym"
+        ],
+        "answer": "B",
+        "explanation": "Reżimy i prześladowania są klasyfikowane jako sytuacja polityczna, należąca do grupy uwarunkowań historyczno-politycznych."
+      },
+      {
+        "question": "Dlaczego na wyspie Bali występuje gęste osadnictwo rolne bezpośrednio w pobliżu wulkanów, pomimo istniejącego tam ogromnego zagrożenia erupcjami?",
+        "options": [
+          "Znajdują się tam wydajne złoża węgla",
+          "Występują tam bardzo żyzne gleby",
+          "Panują tam warunki do budowy portów",
+          "Zlokalizowane są tam węzły kolejowe"
+        ],
+        "answer": "B",
+        "explanation": "Osadnictwo wokół wulkanów na wyspie Bali rozwija się dzięki występowaniu niezwykle żyznych gleb wulkanicznych, co sprzyja rozwojowi rolnictwa."
+      },
+      {
+        "question": "Jak klasyfikowany jest obszar, na którym sezonowo przebywają koczownicze plemiona wypasające zwierzęta, ale brakuje tam stałych form osadnictwa?",
+        "options": [
+          "Obszar określany jako klasyczna ekumena",
+          "Terytorium zaliczane do pełnej anekumeny",
+          "Obszar nazywany w geografii subekumeną",
+          "Region stanowiący aglomerację miejską"
+        ],
+        "answer": "C",
+        "explanation": "Subekumena to tereny wykorzystywane i zamieszkiwane przez ludzi wyłącznie okresowo, w przeciwieństwie do stałej ekumeny i bezludnej anekumeny."
+      },
+      {
+        "question": "Z czego wynika ogromna dysproporcja w gęstości zaludnienia Egiptu, gdzie średnia to około 101 os./km2, a w Dolinie Nilu przekracza 1500 os./km2?",
+        "options": [
+          "Pustynny charakter większości kraju",
+          "Silna bariera wysokościowa na południu",
+          "Skupienie przemysłu w samej delcie Nilu",
+          "Obowiązywanie zakazów osiedlania się"
+        ],
+        "answer": "A",
+        "explanation": "Dysproporcje zaludnienia w Egipcie wynikają z faktu, że ok. 96% terytorium państwa stanowią obszary pustynne z barierą wodną, uniemożliwiające stałe osadnictwo."
+      },
+      {
+        "question": "Jakie wydarzenia historyczne w największym stopniu zapoczątkowały proces trwałego i masowego zasiedlania rozległych obszarów Ameryki Północnej?",
+        "options": [
+          "Wielkie odkrycia oraz silna kolonizacja",
+          "Powstanie starożytnych cywilizacji rzecznych",
+          "Wynalezienie metod odsalania wody morskiej",
+          "Rewolucja neolityczna i chów zwierząt"
+        ],
+        "answer": "A",
+        "explanation": "Czynniki historyczne takie jak odkrycia geograficzne i późniejsza kolonizacja doprowadziły do znacznego zasiedlenia obszarów Ameryki Północnej i Południowej."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Obszary, na których sezonowo przebywają pasterze koczownicy wypasający stada, zaliczane są do anekumeny, ponieważ brakuje na nich stałych form osadnictwa.",
+        "answer": false,
+        "explanation": "Tereny, które tylko okresowo są zamieszkiwane i wykorzystywane gospodarczo przez człowieka, nazywamy subekumeną. Anekumena to tereny całkowicie bezludne."
+      },
+      {
+        "sentence": "Wraz z postępem naukowo-technicznym rola czynników przyrodniczych rośnie, a osadnictwo staje się coraz silniej uwarunkowane występowaniem barier naturalnych.",
+        "answer": false,
+        "explanation": "Z tekstu wynika odwrotność tej tezy: dzięki rozwojowi techniki i nauki człowiek stopniowo uniezależnia się od warunków przyrodniczych, a obecnie decydujący wpływ na osadnictwo mają czynniki pozaprzyrodnicze."
+      },
+      {
+        "sentence": "Główną przeszkodą ograniczającą osadnictwo rolnicze w Kotlinie Konga oraz w Amazonii jest bariera termiczna wywołana skrajnie wysokimi temperaturami powietrza.",
+        "answer": false,
+        "explanation": "Na obszarach wilgotnych lasów równikowych (Amazonia, Kotlina Konga) utrudnieniem w zagospodarowaniu jest przede wszystkim bariera wodna polegająca na nadmiarze wilgoci, a nie sama temperatura."
+      },
+      {
+        "sentence": "Przykładem przezwyciężenia bariery termicznej przez czynniki gospodarcze jest szwedzkie miasto Kiruna, gdzie osadnictwo rozwinęło się za kołem podbiegunowym dzięki złożom rud żelaza.",
+        "answer": true,
+        "explanation": "Chęć czerpania korzyści z eksploatacji bogatych surowców mineralnych to silny czynnik pozaprzyrodniczy, który doprowadził do zasiedlenia okolic Kiruny mimo wybitnie niesprzyjającego klimatu."
+      },
+      {
+        "sentence": "Zdecydowana większość (około 90%) współczesnej populacji świata zamieszkuje półkulę południową w pasie szerokości geograficznych od 20° do 60°.",
+        "answer": false,
+        "explanation": "Jest to przekłamanie. Aż 90% mieszkańców Ziemi zasiedla półkulę północną, a szczególnie obszar rozciągający się właśnie między 20°N a 60°N."
+      },
+      {
+        "sentence": "Blisko 60% populacji świata koncentruje się na obszarach nizinnych, których wysokość bezwzględna nie przekracza 200 m n.p.m.",
+        "answer": true,
+        "explanation": "Jest to jedna z głównych prawidłowości rozmieszczenia ludności wyraźnie podana w podręczniku – niziny leżące do 200 m n.p.m. przyciągają ok. 60% ludności Ziemi."
+      },
+      {
+        "sentence": "W Andach, Himalajach i Kordylierach główną przyczyną braku stałego osadnictwa jest wyłącznie bardzo niska temperatura powietrza w skali całego roku.",
+        "answer": false,
+        "explanation": "W rejonach wysokogórskich występuje wieloskładnikowa bariera wysokościowa, na którą oprócz klimatu wpływa duże nachylenie stoków, intensywna erozja oraz spadek zawartości tlenu w powietrzu."
+      },
+      {
+        "sentence": "Ze względu na wysokie zagrożenie tsunami i sztormami, ludność na świecie unika osiedlania się w strefach nadmorskich, wybierając bezpieczne wnętrza kontynentów.",
+        "answer": false,
+        "explanation": "Dostęp do wód morskich ułatwia transport i gospodarkę, dlatego prawie połowa ludności Ziemi zamieszkuje obszary oddalone nie więcej niż 200 km od wybrzeży mórz i oceanów."
+      },
+      {
+        "sentence": "Średnia gęstość zaludnienia w skali całego państwa może nie ukazywać rzeczywistej koncentracji ludności, czego przykładem jest znaczne skupienie obywateli Egiptu wokół Doliny Nilu.",
+        "answer": true,
+        "explanation": "Egipt ma średnią gęstość zaludnienia na poziomie 101 os./km2, jednak z powodu bariery wodnej (96% terytorium to pustynie), wzdłuż Doliny Nilu i w delcie gęstość ta drastycznie wzrasta do ponad 1500 os./km2."
+      },
+      {
+        "sentence": "Zasiedlenie wschodniego wybrzeża Ameryki Północnej wynika wyłącznie z doskonałych warunków przyrodniczych, bez jakiegokolwiek wpływu procesów historycznych.",
+        "answer": false,
+        "explanation": "Wschodnie wybrzeże Ameryki Północnej zostało masowo zasiedlone m.in. dzięki czynnikom historyczno-politycznym – wielkim odkryciom geograficznym i późniejszej kolonizacji tego kontynentu."
+      },
+      {
+        "sentence": "Europa, południowo-wschodnia Azja oraz wschodnie wybrzeże Ameryki Północnej z Krainą Wielkich Jezior to trzy wielkie obszary koncentracji, skupiające około 70% ludności Ziemi.",
+        "answer": true,
+        "explanation": "Wskazane trzy regiony są wymieniane w tekście jako główne obszary o największej gęstości zaludnienia, które łącznie zamieszkuje blisko 70% populacji świata."
+      },
+      {
+        "sentence": "Głównym czynnikiem hamującym stałe osadnictwo na Alasce i obszarach subpolarnych jest bariera ekologiczna, która powstała na skutek degradacji środowiska.",
+        "answer": false,
+        "explanation": "Osadnictwo na obszarach subpolarnych ograniczają warunki naturalne (zimny klimat, mało żyzne gleby, wieloletnia zmarzlina). Bariera ekologiczna odnosi się do terenów zdegradowanych działalnością człowieka."
+      }
+    ]
+  }
+}

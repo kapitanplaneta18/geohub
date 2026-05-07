@@ -1,0 +1,338 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz3-t5",
+                     "unit":  "III",
+                     "title":  "Prognozowanie pogody",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Pogoda",
+                                              "definition":  "Chwilowy stan atmosfery w danym miejscu, określony przez zespół elementów meteorologicznych, takich jak temperatura, ciśnienie czy wiatr."
+                                          },
+                                          {
+                                              "term":  "Prognozowanie pogody",
+                                              "definition":  "Działania polegające na przewidywaniu przebiegu pogody na podstawie aktualnego stanu atmosfery, danych historycznych oraz modeli matematycznych."
+                                          },
+                                          {
+                                              "term":  "Mapa synoptyczna",
+                                              "definition":  "Mapa przedstawiająca stan pogody na dużym obszarze w określonym momencie, wykorzystująca międzynarodowe oznaczenia (symbole) do prezentacji układów barycznych i frontów."
+                                          },
+                                          {
+                                              "term":  "Masa powietrza",
+                                              "definition":  "Duży fragment troposfery charakteryzujący się określonymi właściwościami fizycznymi (głównie temperaturą i wilgotnością), nabytymi nad jednolitym podłożem."
+                                          },
+                                          {
+                                              "term":  "Front atmosferyczny",
+                                              "definition":  "Wąska strefa przejściowa rozdzielająca masy powietrza o różnych właściwościach, w której zachodzą gwałtowne zmiany pogody."
+                                          },
+                                          {
+                                              "term":  "Front chłodny",
+                                              "definition":  "Strefa, gdzie chłodne powietrze wsuwa się pod ciepłe, wypychając je do góry; na mapie synoptycznej oznaczany linią z trójkątami."
+                                          },
+                                          {
+                                              "term":  "Front ciepły",
+                                              "definition":  "Strefa, gdzie cieplejsze powietrze wślizguje się na masę chłodną, co prowadzi do kondensacji pary wodnej; na mapie synoptycznej oznaczany linią z półkolami."
+                                          },
+                                          {
+                                              "term":  "Front zokludowany",
+                                              "definition":  "Powstaje, gdy szybciej przemieszczający się front chłodny dogoni front ciepły i masy się połączą; na mapie oznaczany linią z naprzemiennymi trójkątami i półkolami."
+                                          },
+                                          {
+                                              "term":  "Niż baryczny (N)",
+                                              "definition":  "Układ zamkniętych izobar, w którym ciśnienie atmosferyczne maleje w kierunku środka; na mapie oznaczany literą N."
+                                          },
+                                          {
+                                              "term":  "Wyż baryczny (W)",
+                                              "definition":  "Układ zamkniętych izobar, w którym ciśnienie atmosferyczne wzrasta w kierunku środka; na mapie oznaczany literą W."
+                                          },
+                                          {
+                                              "term":  "PA (skrót)",
+                                              "definition":  "Oznaczenie masy powietrza arktycznego stosowane na mapach synoptycznych."
+                                          },
+                                          {
+                                              "term":  "PP (skrót)",
+                                              "definition":  "Oznaczenie masy powietrza polarnego stosowane na mapach synoptycznych."
+                                          },
+                                          {
+                                              "term":  "PZ (skrót)",
+                                              "definition":  "Oznaczenie masy powietrza zwrotnikowego stosowane na mapach synoptycznych."
+                                          },
+                                          {
+                                              "term":  "Obserwacje meteorologiczne",
+                                              "definition":  "Pomiary elementów pogody wykonywane w stacjach meteorologicznych (co najmniej 8 razy na dobę) i posterunkach (3 razy na dobę) według jednolitych zasad."
+                                          },
+                                          {
+                                              "term":  "Synoptyka",
+                                              "definition":  "Dział meteorologii zajmujący się prognozowaniem pogody na podstawie analizy map i danych o stanie atmosfery."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "PA",
+                                                 "pair2":  "Powietrze arktyczne"
+                                             },
+                                             {
+                                                 "pair1":  "PZ",
+                                                 "pair2":  "Powietrze zwrotnikowe"
+                                             },
+                                             {
+                                                 "pair1":  "Front chłodny",
+                                                 "pair2":  "Gwałtowne wznoszenie powietrza, chmury burzowe, krótkotrwałe i obfite opady"
+                                             },
+                                             {
+                                                 "pair1":  "Front ciepły",
+                                                 "pair2":  "Powolne wślizgiwanie się powietrza, chmury warstwowe, długotrwałe opady"
+                                             },
+                                             {
+                                                 "pair1":  "Linia z trójkątami",
+                                                 "pair2":  "Symbol frontu chłodnego na mapie synoptycznej"
+                                             },
+                                             {
+                                                 "pair1":  "Linia z półkolami",
+                                                 "pair2":  "Symbol frontu ciepłego na mapie synoptycznej"
+                                             },
+                                             {
+                                                 "pair1":  "Niż baryczny",
+                                                 "pair2":  "Ruch wstępujący powietrza, wzrost zachmurzenia i opady"
+                                             },
+                                             {
+                                                 "pair1":  "Wyż baryczny",
+                                                 "pair2":  "Ruch zstępujący powietrza, brak zachmurzenia i opadów"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Na mapie synoptycznej zauważasz linię oznaczoną niebieskimi trójkątami zwróconymi w kierunku ruchu. Jakiego zjawiska dotyczy ten symbol i jakiej zmiany pogody możesz się spodziewać po jego przejściu?",
+                                      "options":  [
+                                                      "Jest to front ciepły; przyniesie długotrwałe mżawki i powolny wzrost temperatury.",
+                                                      "Jest to front chłodny; przyniesie gwałtowne, krótkotrwałe opady, możliwe burze i wyraźne ochłodzenie powietrza.",
+                                                      "Jest to front zokludowany; przyniesie zanik opadów i bezchmurne niebo.",
+                                                      "Jest to linia niżu barycznego; przyniesie wzrost ciśnienia i mgły."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Front chłodny na mapie oznaczany jest linią z trójkątami. Jego przejście wiąże się z gwałtownymi zjawiskami: wypychaniem ciepłego powietrza, powstaniem chmur burzowych i ochłodzeniem."
+                                  },
+                                  {
+                                      "question":  "Analizujesz prognozę pogody dla Polski na styczeń. Zapowiadany jest napływ masy powietrza polarnego morskiego (PPm). Jakiego typu pogody należy się spodziewać w porównaniu do wyżu kontynentalnego?",
+                                      "options":  [
+                                                      "Silnych mrozów, bezchmurnego nieba i braku opadów.",
+                                                      "Wzrostu temperatury (odwilży), dużego zachmurzenia i opadów śniegu lub deszczu.",
+                                                      "Gwałtownego spadku ciśnienia i nadejścia fali upałów.",
+                                                      "Stabilizacji pogody, inwersji temperatury i gęstych mgieł radiacyjnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Masy morskie (w tym PPm) zimą przynoszą ocieplenie i wilgoć, w przeciwieństwie do mas kontynentalnych, które są suchsze i sprzyjają mrozom. Masy morskie formują się nad oceanami i zawierają więcej wilgoci."
+                                  },
+                                  {
+                                      "question":  "Barometr w Twoim domu wskazuje stały, powolny spadek ciśnienia. Na niebie, które wcześniej było bezchmurne, zaczynają pojawiać się chmury pierzaste (Cirrus), a po nich warstwowe (Cirrostratus). Co zwiastują te objawy?",
+                                      "options":  [
+                                                      "Zbliżanie się frontu ciepłego.",
+                                                      "Zbliżanie się frontu chłodnego.",
+                                                      "Powstawanie lokalnego wyżu barycznego.",
+                                                      "Nadejście burzy wewnątrzmasowej."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Przed frontem ciepłym ciśnienie spada, a charakterystyczną sekwencją chmur jest pojawienie się najpierw chmur Cirrus, a następnie Cirrostratus i Altostratus, co wynika z wślizgiwania się ciepłego powietrza na chłodne."
+                                  },
+                                  {
+                                      "question":  "Na mapie synoptycznej widzisz układ zamkniętych izobar, w którym wartości ciśnienia maleją w kierunku środka (np. 1005, 1000, 995 hPa). Jaki to układ i jaki ogólny typ pogody jest z nim związany?",
+                                      "options":  [
+                                                      "Wyż baryczny; pogoda słoneczna, bezopadowa.",
+                                                      "Niż baryczny; duże zachmurzenie i opady wynikające z prądów wstępujących powietrza.",
+                                                      "Wał wyżowy; silny wiatr i brak chmur.",
+                                                      "Siodło baryczne; zmienna pogoda bez opadów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Niż baryczny (cyklon) to układ, w którym ciśnienie maleje ku środkowi. Występują w nim prądy wstępujące, co sprzyja kondensacji pary wodnej, powstawaniu chmur i opadom."
+                                  },
+                                  {
+                                      "question":  "W prognozie pogody użyto skrótu \u0027PA\u0027. Co oznacza ten symbol w kontekście mas powietrza docierających nad Polskę?",
+                                      "options":  [
+                                                      "Powietrze atlantyckie – wilgotne i ciepłe.",
+                                                      "Powietrze arktyczne – chłodne, napływające z północy.",
+                                                      "Powietrze antycyklonalne – związane z wyżem.",
+                                                      "Powietrze afrykańskie – bardzo gorące i suche."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skrót PA oznacza masę powietrza arktycznego (Masy Powietrza Arktycznego), która napływa z wysokich szerokości geograficznych."
+                                  },
+                                  {
+                                      "question":  "Zaobserwowałeś gwałtowną burzę z intensywnym deszczem, po której temperatura powietrza szybko spadła, a wiatr zmienił kierunek. Jak zachowywało się ciśnienie atmosferyczne w trakcie tego zjawiska (przejścia frontu chłodnego)?",
+                                      "options":  [
+                                                      "Ciśnienie powoli spadało przez cały czas trwania zjawiska.",
+                                                      "Ciśnienie było stabilne, a po burzy gwałtownie spadło.",
+                                                      "Ciśnienie spadało przed frontem, a w czasie jego przechodzenia wzrosło.",
+                                                      "Ciśnienie rosło przed frontem, a w czasie opadów gwałtownie spadło."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Przed frontem chłodnym ciśnienie się obniża, natomiast w czasie przechodzenia frontu (i bezpośrednio po nim) następuje jego wzrost."
+                                  },
+                                  {
+                                      "question":  "Mapa synoptyczna przedstawia izobary położone bardzo blisko siebie na obszarze Polski. Jakiego elementu pogody dotyczy ta informacja w pierwszej kolejności?",
+                                      "options":  [
+                                                      "Bardzo wysokiej temperatury powietrza.",
+                                                      "Silnego wiatru.",
+                                                      "Gęstej mgły.",
+                                                      "Braku zachmurzenia."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prędkość wiatru zależy od różnicy ciśnień (gradientu barycznego). Im izobary są gęściej rozmieszczone (większa różnica ciśnień na małym obszarze), tym większa jest prędkość wiatru."
+                                  },
+                                  {
+                                      "question":  "Na mapie synoptycznej zaznaczono linię, na której naprzemiennie występują trójkąty i półkola (po tej samej stronie linii). Co oznacza ten symbol?",
+                                      "options":  [
+                                                      "Front stacjonarny, który nie przemieszcza się.",
+                                                      "Front ciepły w fazie zaniku.",
+                                                      "Front zokludowany, powstały z połączenia frontu chłodnego i ciepłego.",
+                                                      "Linię szkwału przed burzą."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Front zokludowany powstaje, gdy front chłodny dogoni front ciepły. Na mapie oznacza się go linią z naprzemiennymi trójkątami i półkolami."
+                                  },
+                                  {
+                                      "question":  "Jaka jest podstawowa różnica między pogodą a klimatem?",
+                                      "options":  [
+                                                      "Pogoda dotyczy tylko opadów, a klimat temperatury.",
+                                                      "Pogoda to chwilowy stan atmosfery w danym miejscu, a klimat to charakterystyczny układ warunków pogodowych ustalony na podstawie wieloletnich obserwacji.",
+                                                      "Pogoda jest przewidywana przez synoptyków, a klimat przez geologów.",
+                                                      "Pogoda dotyczy obszarów nizinnych, a klimat obszarów górskich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pogoda to chwilowy stan atmosfery w danym miejscu, natomiast klimat to charakterystyczny dla danego obszaru układ warunków pogodowych ustalony na podstawie wieloletnich (np. 30-letnich) obserwacji."
+                                  },
+                                  {
+                                      "question":  "Latem nad Polską rozbudował się trwały układ wysokiego ciśnienia (wyż). Jakiej pogody należy się spodziewać?",
+                                      "options":  [
+                                                      "Pochmurnej, z ciągłymi opadami mżawki.",
+                                                      "Wietrznej, z gwałtownymi burzami frontowymi.",
+                                                      "Słonecznej, bezchmurnej i ciepłej (lub upalnej).",
+                                                      "Zmiennej, z przelotnymi opadami śniegu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W wyżu barycznym (antycyklonie) powietrze opada i ogrzewa się, co prowadzi do braku zachmurzenia i opadów. Latem skutkuje to słoneczną pogodą i dopływem dużej ilości promieniowania."
+                                  },
+                                  {
+                                      "question":  "W ogrodzie meteorologicznym pomiary temperatury i wilgotności powietrza wykonuje się w klatce meteorologicznej. Na jakiej standardowej wysokości umieszczone są przyrządy?",
+                                      "options":  [
+                                                      "Bezpośrednio przy gruncie (5 cm).",
+                                                      "2 metry nad poziomem gruntu.",
+                                                      "10 metrów nad poziomem gruntu.",
+                                                      "Na dachu budynku stacji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przyrządy do pomiaru temperatury i wilgotności powietrza znajdują się w klatce meteorologicznej umieszczonej na wysokości 2 m nad poziomem gruntu."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych opisów najlepiej charakteryzuje chmury Cumulonimbus (Cb) widoczne na mapach synoptycznych lub zdjęciach satelitarnych jako strefy burzowe?",
+                                      "options":  [
+                                                      "Cienkie, pierzaste chmury nieprzysłaniające słońca, zwiastujące zmianę pogody.",
+                                                      "Niskie, szare chmury warstwowe dające długotrwały opad mżawki.",
+                                                      "Potężne chmury o dużej rozciągłości pionowej w kształcie kowadła, przynoszące ulewne deszcze, grad i wyładowania atmosferyczne.",
+                                                      "Regularne \u0027baranki\u0027 na niebie, niewywołujące żadnych opadów."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Cumulonimbus to chmury kłębiaste deszczowe o dużej rozciągłości pionowej, często w kształcie kowadła. Przynoszą obfite, krótkotrwałe opady i burze."
+                                  },
+                                  {
+                                      "question":  "W opisie prognozy pogody czytasz: \u0027Po przejściu frontu ciepłego wiatr zmienił kierunek, a opady ustały lub przeszły w mżawkę\u0027. Jak zmieni się temperatura w tej sytuacji?",
+                                      "options":  [
+                                                      "Gwałtownie spadnie.",
+                                                      "Wzrośnie lub pozostanie bez większych zmian (powolny wzrost).",
+                                                      "Będzie wahać się o ponad 10 stopni w ciągu godziny.",
+                                                      "Spadnie poniżej zera niezależnie od pory roku."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Po przejściu frontu ciepłego, gdy napływa cieplejsza masa powietrza, temperatura powietrza powoli wzrasta lub zmienia się nieznacznie (ale nie spada)."
+                                  },
+                                  {
+                                      "question":  "Jeśli w prognozie pogody słyszysz o \u0027przejściowych, ale gwałtownych zjawiskach, szkwałach i gradzie\u0027, to najprawdopodobniej mowa o:",
+                                      "options":  [
+                                                      "Centrum stabilnego wyżu.",
+                                                      "Przechodzeniu frontu chłodnego.",
+                                                      "Przechodzeniu frontu ciepłego.",
+                                                      "Adwekcji suchego powietrza kontynentalnego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Front chłodny charakteryzuje się intensywnymi, ale krótkotrwałymi opadami, możliwością wystąpienia burz oraz silnym, porywistym wiatrem (szkwałem)."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób na mapie synoptycznej oznacza się zachmurzenie całkowite (niebo całkowicie pokryte chmurami)?",
+                                      "options":  [
+                                                      "Pustym okręgiem.",
+                                                      "Okręgiem całkowicie zamalowanym (czarnym).",
+                                                      "Okręgiem z pionową kreską.",
+                                                      "Symbolem słońca za chmurą."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na mapach synoptycznych stopień zachmurzenia oznacza się stopniem zamalowania okręgu. Okrąg całkowicie zamalowany (8/8) oznacza zachmurzenie całkowite."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Mapa synoptyczna przedstawia prognozę pogody dla danego obszaru na najbliższe 24 godziny.",
+                                           "answer":  false,
+                                           "explanation":  "Mapa synoptyczna przedstawia stan pogody w określonym momencie (np. o godzinie 0.00 UTC), a nie prognozę na przyszłość, choć służy do jej opracowania."
+                                       },
+                                       {
+                                           "sentence":  "Front chłodny na mapach synoptycznych oznaczany jest linią z czerwonymi półkolami.",
+                                           "answer":  false,
+                                           "explanation":  "Front chłodny oznacza się linią z trójkątami (zazwyczaj niebieskimi), natomiast linia z półkolami symbolizuje front ciepły."
+                                       },
+                                       {
+                                           "sentence":  "W wyżu barycznym powietrze unosi się, co sprzyja kondensacji pary wodnej i powstawaniu opadów.",
+                                           "answer":  false,
+                                           "explanation":  "W wyżu barycznym powietrze opada (ruchy zstępujące), ogrzewa się i osusza, co prowadzi do zaniku zachmurzenia i braku opadów."
+                                       },
+                                       {
+                                           "sentence":  "Izobary to linie na mapie łączące punkty o jednakowej temperaturze powietrza.",
+                                           "answer":  false,
+                                           "explanation":  "Izobary łączą punkty o jednakowej wartości ciśnienia atmosferycznego, a nie temperatury."
+                                       },
+                                       {
+                                           "sentence":  "Numeryczna prognoza pogody powstaje w wyniku komputerowych obliczeń modeli matematycznych opisujących stan atmosfery.",
+                                           "answer":  true,
+                                           "explanation":  "Do prognozowania coraz częściej stosuje się modele matematyczne z równaniami opisywanymi przez komputery, co nazywamy prognozą numeryczną."
+                                       },
+                                       {
+                                           "sentence":  "Prognozy długoterminowe (np. dwutygodniowe) charakteryzują się wyższą sprawdzalnością niż prognozy krótkoterminowe.",
+                                           "answer":  false,
+                                           "explanation":  "Prognozy krótkoterminowe (1–3 dni) mają sprawdzalność ok. 90%, natomiast długoterminowe sprawdzają się maksymalnie w 60–70%."
+                                       },
+                                       {
+                                           "sentence":  "Całkowite zachmurzenie nieba oznacza się na mapie synoptycznej symbolem pustego okręgu.",
+                                           "answer":  false,
+                                           "explanation":  "Pusty okrąg oznacza brak zachmurzenia (0/8), natomiast zachmurzenie całkowite (8/8) oznacza się okręgiem całkowicie zamalowanym."
+                                       },
+                                       {
+                                           "sentence":  "Standardowa wysokość, na której umieszcza się klatkę meteorologiczną z przyrządami do pomiaru temperatury, wynosi 2 metry nad poziomem gruntu.",
+                                           "answer":  true,
+                                           "explanation":  "Przyrządy do pomiaru temperatury i wilgotności znajdują się w klatce umieszczonej na wysokości 2 m nad poziomem gruntu."
+                                       },
+                                       {
+                                           "sentence":  "Front zokludowany powstaje, gdy szybciej przemieszczający się front chłodny dogoni front ciepły i obie masy chłodne odetną ciepłe powietrze od powierzchni ziemi.",
+                                           "answer":  true,
+                                           "explanation":  "Front zokludowany tworzy się, gdy front chłodny dogania ciepły, co prowadzi do wypchnięcia ciepłego powietrza ku górze."
+                                       },
+                                       {
+                                           "sentence":  "Przejście frontu ciepłego wiąże się zazwyczaj z gwałtownymi burzami i silnym, porywistym wiatrem.",
+                                           "answer":  false,
+                                           "explanation":  "Front ciepły przynosi opady mało intensywne, ale długotrwałe (mżawka, deszcz), natomiast gwałtowne burze są charakterystyczne dla frontu chłodnego."
+                                       },
+                                       {
+                                           "sentence":  "Pogoda to układ warunków atmosferycznych ustalony na podstawie wieloletnich obserwacji.",
+                                           "answer":  false,
+                                           "explanation":  "Pogoda to chwilowy stan atmosfery w danym miejscu; układ warunków na podstawie wieloletnich obserwacji to klimat."
+                                       },
+                                       {
+                                           "sentence":  "W stacjach meteorologicznych pomiary głównych elementów pogody wykonuje się co najmniej osiem razy na dobę.",
+                                           "answer":  true,
+                                           "explanation":  "Pomiary w stacjach meteorologicznych przeprowadza się co najmniej osiem razy na dobę o stałych godzinach."
+                                       }
+                                   ]
+                 }
+}

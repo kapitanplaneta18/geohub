@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz1-t3",
+                     "title":  "Surowce mineralne Polski",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Węgiel kamienny (GZW i Lubelszczyzna)",
+                                              "definition":  "Skała osadowa pochodzenia roślinnego, która powstała w karbonie (paleozoik) w warunkach gorącego i wilgotnego klimatu z obumarłych szczątków paproci, skrzypów i widłaków."
+                                          },
+                                          {
+                                              "term":  "Węgiel brunatny (Bełchatów, Bogatynia, Konin)",
+                                              "definition":  "Skała osadowa energetyczna powstała w neogenie (kenozoik) w warunkach lądowych, w zapadliskach tektonicznych, ze szczątków roślinnych."
+                                          },
+                                          {
+                                              "term":  "Rudy miedzi (Legnicko-Głogowski Okręg Miedziowy)",
+                                              "definition":  "Skała osadowa (łupki miedzionośne) powstała w permie (paleozoik) w wyniku osadzania się cząstek mineralnych na dnie płytkiego, wysychającego morza (cechsztyńskiego)."
+                                          },
+                                          {
+                                              "term":  "Sól kamienna na Kujawach (struktury wysadowe)",
+                                              "definition":  "Chemiczna skała osadowa powstała w permie (paleozoik) wskutek intensywnego parowania wód morskich w gorącym klimacie, często tworząca wysady solne."
+                                          },
+                                          {
+                                              "term":  "Sól kamienna w Zapadlisku przedkarpackim (Wieliczka, Bochnia)",
+                                              "definition":  "Skała chemiczna powstała w neogenie (miocen), kiedy to rów tektoniczny na przedpolu Karpat został zalany przez morze, w którym zachodziła sedymentacja chlorków."
+                                          },
+                                          {
+                                              "term":  "Siarka rodzima (ok. Tarnobrzega)",
+                                              "definition":  "Surowiec chemiczny powstały w neogenie (miocen) w Zapadlisku przedkarpackim w wyniku biochemicznej przemiany osadów gipsowych."
+                                          },
+                                          {
+                                              "term":  "Ropa naftowa i gaz ziemny (Niż Polski)",
+                                              "definition":  "Surowce energetyczne występujące m.in. w skałach permu (paleozoik) i karbonu, a także pod dnem Bałtyku, powstałe z materii organicznej w środowisku morskim."
+                                          },
+                                          {
+                                              "term":  "Wapienie Wyżyny Krakowsko-Częstochowskiej",
+                                              "definition":  "Skały węglanowe powstałe w jurze (mezozoik) w ciepłym i płytkim morzu, głównie ze szkieletów organizmów morskich (gąbek, korali)."
+                                          },
+                                          {
+                                              "term":  "Granity dolnośląskie (Strzegom, Strzelin)",
+                                              "definition":  "Skały magmowe głębinowe, które powstały w karbonie (paleozoik) jako intruzje magmy towarzyszące orogenezie hercyńskiej."
+                                          },
+                                          {
+                                              "term":  "Bazalty na Przedgórzu Sudeckim",
+                                              "definition":  "Skały wylewne będące efektem działalności wulkanicznej w neogenie (kenozoik), związanej z orogenezą alpejskiej i spękaniami skorupy ziemskiej."
+                                          },
+                                          {
+                                              "term":  "Gipsy i anhydryty (Niecka Nidziańska)",
+                                              "definition":  "Skały chemiczne powstałe w neogenie (miocen) w wyniku odparowywania wody morskiej w płytkim zbiorniku zapadliska przedkarpackiego."
+                                          },
+                                          {
+                                              "term":  "Piaskowce ciosowe Gór Stołowych",
+                                              "definition":  "Skały osadowe okruchowe powstałe w górnej kredzie (mezozoik) na dnie morza, budujące jedyne w Polsce góry płytowe."
+                                          },
+                                          {
+                                              "term":  "Rudy cynku i ołowiu (Olkusz, rejon bytomski)",
+                                              "definition":  "Surowce metaliczne występujące w skałach węglanowych (dolomitach) pochodzących z triasu (mezozoik), zlokalizowane na obrzeżach GZW."
+                                          },
+                                          {
+                                              "term":  "Bursztyn (Pobrzeże Bałtyku, Lubelszczyzna)",
+                                              "definition":  "Kopalna żywica drzew iglastych z paleogenu (trzeciorzęd), transportowana i osadzana w późniejszych okresach, m.in. w czwartorzędzie."
+                                          },
+                                          {
+                                              "term":  "Rudy żelaza, tytanu i wanadu (Suwałki)",
+                                              "definition":  "Nieeksploatowane złoża związane z krystalicznym fundamentem platformy wschodnioeuropejskiej (prekambr), zalegające na dużych głębokościach."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Węgiel kamienny",
+                                                 "pair2":  "Karbon (GZW i LZW)"
+                                             },
+                                             {
+                                                 "pair1":  "Rudy miedzi (Lubin)",
+                                                 "pair2":  "Perm (Osady morskie)"
+                                             },
+                                             {
+                                                 "pair1":  "Sól kamienna (Kłodawa)",
+                                                 "pair2":  "Perm (Wysady solne)"
+                                             },
+                                             {
+                                                 "pair1":  "Sól kamienna (Wieliczka)",
+                                                 "pair2":  "Neogen (Zapadlisko)"
+                                             },
+                                             {
+                                                 "pair1":  "Siarka rodzima",
+                                                 "pair2":  "Neogen (Biochemia gipsów)"
+                                             },
+                                             {
+                                                 "pair1":  "Węgiel brunatny",
+                                                 "pair2":  "Neogen (Bełchatów)"
+                                             },
+                                             {
+                                                 "pair1":  "Wapienie jurajskie",
+                                                 "pair2":  "Jura (Mezozoik)"
+                                             },
+                                             {
+                                                 "pair1":  "Granity sudeckie",
+                                                 "pair2":  "Karbon (Hercynidy)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który region Polski posiada największe udokumentowane zasoby węgla kamiennego, stanowiące ponad 80% zasobów krajowych?",
+                                      "options":  [
+                                                      "Lubelskie Zagłębie Węglowe (rejon Bogdanki)",
+                                                      "Dolnośląskie Zagłębie Węglowe (okolice Wałbrzycha)",
+                                                      "Górnośląskie Zagłębie Węglowe",
+                                                      "Zagłębie Bełchatowskie (złoża węgla brunatnego)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Najzasobniejsze złoża węgla kamiennego znajdują się na Górnym Śląsku (GZW) i stanowią ponad 80% udokumentowanych zasobów krajowych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w Polsce zaprzestano wydobycia siarki rodzimej metodą górniczą na dużą skalę, ograniczając się głównie do jednej kopalni?",
+                                      "options":  [
+                                                      "Całkowite wyczerpanie się osadów gipsowych w Zapadlisku przedkarpackim",
+                                                      "Tańsze pozyskiwanie surowca z odsiarczania paliw kopalnych (ropy i gazu)",
+                                                      "Zakaz stosowania siarki w przemyśle chemicznym ze względu na ochronę środowiska",
+                                                      "Zalanie wyrobisk przez wody podziemne w rejonie Tarnobrzega i Machowa"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Większość siarki na świecie pochodzi obecnie z odsiarczania gazu ziemnego i ropy naftowej, co jest tańsze i bardziej ekologiczne niż tradycyjne wydobycie."
+                                  },
+                                  {
+                                      "question":  "W jakim okresie geologicznym i w jakich warunkach powstały złoża rud miedzi na Dolnym Śląsku?",
+                                      "options":  [
+                                                      "W karbonie, w gorącym i wilgotnym klimacie sprzyjającym rozwojowi paproci",
+                                                      "W jurze, w płytkim morzu ze szkieletów gąbek i organizmów koralowych",
+                                                      "W permie, w wyniku sedymentacji w wysychającym morzu cechsztyńskim",
+                                                      "W neogenie, w rowie tektonicznym na przedpolu nowo powstałych Karpat"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Złoża miedzi w LGOM powstały w permie w wyniku osadzania się minerałów na dnie płytkiego zbiornika morskiego."
+                                  },
+                                  {
+                                      "question":  "Która informacja dotycząca współczesnego wydobycia soli kamiennej w Polsce jest prawdziwa?",
+                                      "options":  [
+                                                      "Ponad 80% produkcji pochodzi ze złóż permskich na Kujawach (np. Kłodawa)",
+                                                      "Większość soli kamiennej wydobywa się obecnie w historycznej kopalni w Wieliczce",
+                                                      "Sól pozyskiwana jest wyłącznie metodą odkrywkową w okolicach Inowrocławia",
+                                                      "Złoża neogeńskie w Bochni stanowią główne źródło surowca dla przemysłu chemicznego"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Współczesna eksploatacja opiera się na złożach permskich, m.in. na Kujawach, gdzie sól tworzy struktury wysadowe."
+                                  },
+                                  {
+                                      "question":  "Dlaczego bogate złoża rud żelaza, tytanu i wanadu w okolicach Suwałk nie są eksploatowane?",
+                                      "options":  [
+                                                      "Niska zawartość czystego metalu w skałach fundamentu platformy",
+                                                      "Lokalizacja złóż w bezpośrednim sąsiedztwie złóż bursztynu na Pobrzeżu",
+                                                      "Bardzo duża głębokość zalegania surowców w krystalicznym podłożu",
+                                                      "Przebieg granicy państwowej bezpośrednio nad głównym polem wydobywczym"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Złoża suwalskie zalegają na dużych głębokościach w prehistorycznym fundamencie krystalicznym, co czyni wydobycie nieopłacalnym."
+                                  },
+                                  {
+                                      "question":  "Jaką genezę mają złoża węgla brunatnego eksploatowane w okolicach Bełchatowa i Konina?",
+                                      "options":  [
+                                                      "Powstały z osadów morskich kredy górnej w jedynych w Polsce górach płytowych",
+                                                      "Są efektem przeobrażenia (metamorfizmu) skał osadowych w paleozoiku",
+                                                      "Powstały ze szczątków roślinnych w lądowych zapadliskach tektonicznych neogenu",
+                                                      "Stanowią dziedzictwo działalności wulkanicznej związanej z orogenezą alpejską"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Węgiel brunatny powstał w kenozoiku (neogen) w zapadliskach lądowych wypełnionych materią organiczną."
+                                  },
+                                  {
+                                      "question":  "Które województwo w Polsce posiada największe zasoby kamieni drogowych i budowlanych (ok. 50% kraju)?",
+                                      "options":  [
+                                                      "Mazowieckie",
+                                                      "Dolnośląskie",
+                                                      "Pomorskie",
+                                                      "Podlaskie"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Województwo dolnośląskie, dzięki obecności Sudetów (granity, bazalty), skupia około połowy krajowych zasobów surowców skalnych."
+                                  },
+                                  {
+                                      "question":  "Jaki jest stopień samowystarczalności Polski w zakresie zaopatrzenia w gaz ziemny?",
+                                      "options":  [
+                                                      "100%",
+                                                      "20%",
+                                                      "50%",
+                                                      "5%"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Krajowe wydobycie gazu ziemnego na Niżu Polskim i Podkarpaciu pokrywa jedynie około 20% zapotrzebowania."
+                                  },
+                                  {
+                                      "question":  "Gdzie w Polsce zlokalizowane są złoża ropy naftowej, dostarczające obecnie ponad 75% krajowego wydobycia?",
+                                      "options":  [
+                                                      "W Bieszczadach (tradycyjne zagłębie krośnieńskie)",
+                                                      "Na Niżu Polskim (m.in. woj. lubuskie i zachodniopomorskie)",
+                                                      "Wyłącznie w polskiej strefie ekonomicznej na Morzu Bałtyckim",
+                                                      "W Niecce Nidziańskiej w sąsiedztwie złóż gipsów i anhydrytów"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Obecnie dominującym regionem wydobycia ropy naftowej w Polsce jest Niż Polski, mimo historycznej roli Karpat."
+                                  },
+                                  {
+                                      "question":  "Z jakim procesem geologicznym wiąże się występowanie bursztynu na Pomorzu i Lubelszczyźnie?",
+                                      "options":  [
+                                                      "Z akumulacją i skamienieniem żywicy drzew iglastych w paleogenie",
+                                                      "Z intruzjami magmy w podłoże krystaliczne podczas orogenezy hercyńskiej",
+                                                      "Z biochemiczną przemianą osadów chlorkowych w Zapadlisku przedkarpackim",
+                                                      "Z osadzaniem się szkieletów gąbek w ciepłych morzach ery mezozoicznej"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Bursztyn to żywica kopalna z drzew paleogeńskich, osadzona pierwotnie w deltach rzek i strefach brzegowych."
+                                  },
+                                  {
+                                      "question":  "Co było główną przyczyną zakończenia eksploatacji rud cynku i ołowiu w rejonie Olkusza w 2020 roku?",
+                                      "options":  [
+                                                      "Wyraźne wyczerpanie się dostępnych zasobów o znaczeniu przemysłowym",
+                                                      "Całkowity zakaz wykorzystywania ołowiu w przemyśle akumulatorowym",
+                                                      "Budowa kopalni odkrywkowej, która wywołała protesty mieszkańców regionu",
+                                                      "Odkrycie znacznie bogatszych złóż tych metali w krystalicznym fundamencie"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ostatnią kopalnię w rejonie olkuskim zamknięto ze względu na wyczerpanie złóż triasowych."
+                                  },
+                                  {
+                                      "question":  "Które surowce mineralne są współwystępujące i wydobywane łącznie z rudami miedzi w LGOM?",
+                                      "options":  [
+                                                      "Metan oraz węgiel kamienny typu koksowego",
+                                                      "Srebro, złoto oraz metale rzadkie (np. kobalt)",
+                                                      "Siarka rodzima i minerały z grupy gipsów",
+                                                      "Sól potasowo-magnezowa oraz bursztyn kopalny"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Polskie złoża miedzi są polimetaliczne; odzyskuje się z nich m.in. znaczne ilości srebra i złota."
+                                  },
+                                  {
+                                      "question":  "Jaką funkcję pełni obecnie kopalnia „Bogdanka” zlokalizowana na Lubelszczyźnie?",
+                                      "options":  [
+                                                      "Stanowi skansen górnictwa podziemnego w dawnym zaborze rosyjskim",
+                                                      "Jest jedyną czynną kopalnią węgla kamiennego w Lubelskim Zagłębiu",
+                                                      "Obsługuje największą w Polsce odkrywkę węgla brunatnego i elektrownię",
+                                                      "Pełni rolę terminalu przeładunkowego dla węgla importowanego ze wschodu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W Lubelskim Zagłębiu Węglowym (LZW) jedynym aktywnym zakładem wydobywczym jest kopalnia „Bogdanka”."
+                                  },
+                                  {
+                                      "question":  "Z jakiego okresu geologicznego pochodzą wapienie budujące Wyżynę Krakowsko-Częstochowską?",
+                                      "options":  [
+                                                      "Z karbonu (powstałe z obumarłych szczątków paproci i skrzypów)",
+                                                      "Z jury (powstałe w ciepłym morzu ze szkieletów gąbek i korali)",
+                                                      "Z neogenu (powstałe w wyniku parowania wód w płytkim zbiorniku)",
+                                                      "Z permu (powstałe w warunkach gorącego klimatu i parowania morza)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wapienie jurajskie to skały osadowe pochodzenia organicznego, które utworzyły się w morzach ery mezozoicznej."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstały gipsy i anhydryty występujące m.in. w Niecce Nidziańskiej?",
+                                      "options":  [
+                                                      "Poprzez zastyganie magmy w pęknięciach skorupy ziemskiej w kenozoiku",
+                                                      "Przez odparowanie wody morskiej w płytkich zbiornikach zapadliskowych",
+                                                      "Na drodze metamorfizmu skał węglanowych pod wpływem intruzji granitów",
+                                                      "Przez transport i osadzanie żywicy kopalnej wzdłuż brzegów dawnych mórz"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gipsy to skały chemiczne powstałe w wyniku ewaporacji (parowania) wód morskich, m.in. w neogenie."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Złoża węgla brunatnego w Polsce są geologicznie starsze od złóż węgla kamiennego.",
+                                           "answer":  false,
+                                           "explanation":  "Węgiel kamienny powstał w paleozoiku (karbon), a węgiel brunatny jest znacznie młodszy – pochodzi z kenozoiku (neogen)."
+                                       },
+                                       {
+                                           "sentence":  "Polskie złoża rud miedzi na Dolnym Śląsku powstały w okresie permu w warunkach morskich.",
+                                           "answer":  true,
+                                           "explanation":  "Rudy miedzi (łupki miedzionośne) osadziły się w permie (koniec paleozoiku) na dnie płytkiego morza cechsztyńskiego."
+                                       },
+                                       {
+                                           "sentence":  "Sól kamienna wydobywana na Kujawach (np. Kłodawa) jest młodsza niż sól w kopalni w Wieliczce.",
+                                           "answer":  false,
+                                           "explanation":  "Sól na Kujawach pochodzi z permu (paleozoik), natomiast złoża w Wieliczce powstały w neogenie (kenozoik), więc sól kujawska jest starsza."
+                                       },
+                                       {
+                                           "sentence":  "Większość ropy naftowej wydobywanej obecnie w Polsce pochodzi ze złóż w Karpatach.",
+                                           "answer":  false,
+                                           "explanation":  "Złoża karpackie są na wyczerpaniu; obecnie ponad 75% krajowego wydobycia pochodzi z Niżu Polskiego."
+                                       },
+                                       {
+                                           "sentence":  "Bogate złoża rud żelaza i tytanu w okolicach Suwałk nie są eksploatowane ze względu na dużą głębokość i ochronę środowiska.",
+                                           "answer":  true,
+                                           "explanation":  "Złoża te znajdują się głęboko w krystalicznym fundamencie platformy, a ich eksploatacja byłaby nieopłacalna i szkodliwa dla przyrody."
+                                       },
+                                       {
+                                           "sentence":  "Województwo dolnośląskie posiada około połowy krajowych zasobów kamieni drogowych i budowlanych.",
+                                           "answer":  true,
+                                           "explanation":  "Dzięki urozmaiconej budowie geologicznej Sudetów, Dolny Śląsk jest głównym zagłębiem surowców skalnych (granity, bazalty, piaskowce)."
+                                       },
+                                       {
+                                           "sentence":  "Wydobycie węgla kamiennego w Polsce odbywa się obecnie w trzech zagłębiach: Górnośląskim, Dolnośląskim i Lubelskim.",
+                                           "answer":  false,
+                                           "explanation":  "Wydobycie w Dolnośląskim Zagłębiu Węglowym zakończono w 2000 roku; czynne są tylko zagłębia Górnośląskie i Lubelskie."
+                                       },
+                                       {
+                                           "sentence":  "Siarka rodzima w Polsce jest obecnie pozyskiwana głównie metodą odkrywkową w wielu kopalniach.",
+                                           "answer":  false,
+                                           "explanation":  "Wydobycie ze złóż ograniczono do jednej kopalni (Osiek/Tarnobrzeg); większość siarki pozyskuje się teraz z odsiarczania ropy i gazu."
+                                       },
+                                       {
+                                           "sentence":  "Bursztyn bałtycki to skamieniała żywica drzew iglastych, która powstała w erze paleozoicznej.",
+                                           "answer":  false,
+                                           "explanation":  "Bursztyn powstał w paleogenie, który jest okresem ery kenozoicznej, a nie paleozoicznej."
+                                       },
+                                       {
+                                           "sentence":  "Krajowe wydobycie gazu ziemnego pokrywa zaledwie około 20% zapotrzebowania Polski na ten surowiec.",
+                                           "answer":  true,
+                                           "explanation":  "Zasoby gazu na Niżu Polskim i Podkarpaciu są zbyt małe, aby zapewnić samowystarczalność energetyczną kraju."
+                                       },
+                                       {
+                                           "sentence":  "Wapienie budujące Wyżynę Krakowsko-Częstochowską powstały w jurze w wyniku akumulacji szczątków organizmów morskich.",
+                                           "answer":  true,
+                                           "explanation":  "Wapienie te są skałami osadowymi pochodzenia organicznego, utworzonymi w ciepłym morzu w erze mezozoicznej (jura)."
+                                       },
+                                       {
+                                           "sentence":  "Rudy cynku i ołowiu w rejonie Olkusza są nadal intensywnie wydobywane i stanowią podstawę polskiego przemysłu hutniczego.",
+                                           "answer":  false,
+                                           "explanation":  "Ostatnią kopalnię rud cynku i ołowiu w rejonie olkuskim zamknięto w 2020 roku z powodu wyczerpania zasobów."
+                                       }
+                                   ]
+                 }
+}

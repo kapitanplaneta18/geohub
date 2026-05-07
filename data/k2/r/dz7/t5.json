@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t5",
+    "title": "Wpływ działalności górniczej na środowisko przyrodnicze",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Kopalnie otworowe",
+        "definition": "Kopalnie, w których surowce (np. ropa naftowa, gaz ziemny, sól kamienna, siarka) wydobywa się w postaci ciekłej lub gazowej za pomocą specjalnych otworów."
+      },
+      {
+        "term": "Kopalnie głębinowe",
+        "definition": "Kopalnie, w których wydobycie surowców (np. węgla kamiennego, rud metali) odbywa się pod ziemią poprzez pionowy szyb lub sztolnię."
+      },
+      {
+        "term": "Kopalnie odkrywkowe",
+        "definition": "Kopalnie, w których surowce (np. węgiel brunatny, piasek, żwir) wydobywa się bezpośrednio z powierzchni ziemi po zdjęciu warstwy nadkładu."
+      },
+      {
+        "term": "Lej depresyjny",
+        "definition": "Obszar, na którym poziom zwierciadła wód podziemnych uległ obniżeniu w stosunku do naturalnego stanu, najczęściej w wyniku ciągłego wypompowywania wody z kopalni."
+      },
+      {
+        "term": "Szkody górnicze",
+        "definition": "Ogół negatywnych zjawisk na powierzchni terenu, takich jak pękanie budynków, osiadanie i zapadanie się gruntu, bezpośrednio wywołanych działalnością kopalń głębinowych."
+      },
+      {
+        "term": "Zwałowiska (hałdy)",
+        "definition": "Sztuczne wzniesienia tworzone z materiału niewykorzystywanego gospodarczo (skał płonnych) usuwanego podczas prac górniczych."
+      },
+      {
+        "term": "Wstrząsy tektoniczne i sejsmiczne",
+        "definition": "Przesunięcia ogromnych mas skalnych wywołane zawałami pod ziemią lub odciążeniem warstw skalnych, odczuwalne na powierzchni jako wstrząsy."
+      },
+      {
+        "term": "Wpływ kopalń odkrywkowych na atmosferę",
+        "definition": "Zwiększona emisja pyłów wynikająca z pozbawienia ogromnych powierzchni terenu roślinności oraz prowadzenia prac wydobywczych i zwałowania skały płonnej."
+      },
+      {
+        "term": "Zniszczenie pokrywy glebowej",
+        "definition": "Skutek działalności kopalń odkrywkowych polegający na całkowitym usunięciu gleby w obrębie wyrobisk i zwałowisk, co wyłącza te obszary z użytkowania rolniczego i leśnego."
+      },
+      {
+        "term": "Wpływ kopalń otworowych na wody",
+        "definition": "Negatywny wpływ polegający na ryzyku zanieczyszczenia wód powierzchniowych i podziemnych substancjami chemicznymi używanymi do wypłukiwania kopalin."
+      },
+      {
+        "term": "Metoda filarowa i równoległa",
+        "definition": "Dwa główne sposoby drążenia złóż i pozyskiwania surowców w kopalniach głębinowych."
+      },
+      {
+        "term": "Niekontrolowany napływ wód",
+        "definition": "Zjawisko zatapiania nieużywanych fragmentów kopalń po zaprzestaniu odpompowywania wód, prowadzące do powstawania zalewisk i reakcji chemicznych pogarszających jakość wody."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Kopalnia (odkrywkowa)",
+        "pair2": "Wydobywa surowce (np. węgiel brunatny) bezpośrednio z powierzchni po zdjęciu nadkładu, tworząc wyrobiska, zwałowiska i duże leje depresyjne."
+      },
+      {
+        "pair1": "Kopalnia (głębinowa)",
+        "pair2": "Eksploatuje złoża znajdujące się głęboko pod ziemią (np. węgiel kamienny), co często prowadzi do szkód górniczych, osiadania terenu i wstrząsów."
+      },
+      {
+        "pair1": "Kopalnia (otworowa)",
+        "pair2": "Wydobywa surowce w postaci ciekłej lub gazowej (np. ropa, siarka), co stwarza duże ryzyko chemicznego zanieczyszczenia wód podziemnych."
+      },
+      {
+        "pair1": "Wpływ na stosunki wodne (lej depresyjny)",
+        "pair2": "Obniżenie zwierciadła wód wokół wyrobiska w wyniku ich ciągłego wypompowywania, skutkujące wysychaniem studni, źródeł i małych cieków."
+      },
+      {
+        "pair1": "Zniekształcenie powierzchni (zwałowisko skały płonnej)",
+        "pair2": "Sztuczne wzniesienie utworzone z materiału skalnego niezawierającego użytecznego surowca, powstające podczas eksploatacji górniczej."
+      },
+      {
+        "pair1": "Skutek w biosferze (ingerencja we florę i faunę)",
+        "pair2": "Degradacja szaty roślinnej oraz siedlisk zwierząt z powodu powstania wyrobisk, hałd i przesuszenia gleb w promieniu leja depresyjnego."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "W jakich kopalniach wydobywa się węgiel brunatny, piasek, żwir oraz bazalt?",
+        "options": [
+          "W kopalniach otworowych.",
+          "W kopalniach odkrywkowych.",
+          "W kopalniach głębinowych.",
+          "W kopalniach wypłukujących."
+        ],
+        "answer": "B",
+        "explanation": "Kopalnie odkrywkowe służą do pozyskiwania z powierzchni ziemi m.in. węgla brunatnego, piasku, żwiru, a także granitu, bazaltu czy wapienia."
+      },
+      {
+        "question": "Które z wymienionych surowców mineralnych są najczęściej wydobywane metodą głębinową?",
+        "options": [
+          "Węgiel kamienny, a także rudy metali.",
+          "Węgiel brunatny, a także piaski i żwiry.",
+          "Ropa naftowa, gaz ziemny oraz siarka.",
+          "Granit, bazalt, a także skały wapienne."
+        ],
+        "answer": "A",
+        "explanation": "Metoda głębinowa, wykorzystująca pionowe szyby i sztolnie wchodzące w głąb górotworu, służy najczęściej do wydobycia węgla kamiennego oraz rud metali."
+      },
+      {
+        "question": "Jaki rodzaj surowca pozyskuje się w kopalniach otworowych w postaci ciekłej lub gazowej?",
+        "options": [
+          "Węgiel kamienny i twarde rudy żelaza.",
+          "Węgiel brunatny i gruby piasek szklarski.",
+          "Ropę naftową, gaz ziemny oraz siarkę.",
+          "Granit, twardy bazalt oraz rudy miedzi."
+        ],
+        "answer": "C",
+        "explanation": "Kopalnie otworowe służą do wydobycia kopalin w postaci ciekłej lub gazowej, do których zalicza się głównie ropę naftową, gaz ziemny oraz wypłukiwaną siarkę i sól."
+      },
+      {
+        "question": "Jaki odsetek światowego wydobycia węgla brunatnego pochodzi obecnie z kopalń odkrywkowych?",
+        "options": [
+          "Około 30 procent całkowitego wydobycia.",
+          "Około 50 procent całkowitego wydobycia.",
+          "Około 70 procent całkowitego wydobycia.",
+          "Około 97 procent całkowitego wydobycia."
+        ],
+        "answer": "D",
+        "explanation": "Zdecydowana większość, bo aż 97% węgla brunatnego na świecie, pozyskiwana jest metodą odkrywkową, natomiast tylko 3% pochodzi z kopalń głębinowych."
+      },
+      {
+        "question": "Na czym polega zjawisko powstawania leja depresyjnego w rejonach prowadzenia działalności górniczej?",
+        "options": [
+          "Na obniżeniu poziomu zwierciadła wód podziemnych.",
+          "Na usypywaniu wielkich zwałowisk skał płonnych.",
+          "Na osiadaniu gruntu nad pustymi korytarzami.",
+          "Na trwałym zanieczyszczeniu wód powierzchniowych."
+        ],
+        "answer": "A",
+        "explanation": "Lej depresyjny to obszar znacznie obniżonego poziomu wód podziemnych, powstający w wyniku intensywnego wypompowywania wody podczas osuszania kopalń."
+      },
+      {
+        "question": "Jakie negatywne zjawisko należy do głównych, bezpośrednich skutków funkcjonowania kopalń głębinowych?",
+        "options": [
+          "Tworzenie bardzo rozległych wyrobisk na ziemi.",
+          "Osiadanie i zapadanie się powierzchni terenu.",
+          "Silna emisja pyłów z pozbawionych roślin hałd.",
+          "Powstawanie olbrzymich zwałowisk skał płonnych."
+        ],
+        "answer": "B",
+        "explanation": "Działalność kopalń głębinowych powoduje szkody górnicze, w tym pękanie i zapadanie się budynków oraz infrastruktury w wyniku powstawania pustych przestrzeni pod ziemią."
+      },
+      {
+        "question": "W jaki sposób kopalnie odkrywkowe w największym stopniu przekształcają naturalną rzeźbę terenu?",
+        "options": [
+          "Tworzą głębokie wyrobiska i wysokie hałdy.",
+          "Wywołują liczne zapadliska nad korytarzami.",
+          "Wtłaczają pod ziemię toksyczne roztwory.",
+          "Powodują samoczynny wypływ wód ze sztolni."
+        ],
+        "answer": "A",
+        "explanation": "Eksploatacja odkrywkowa wiąże się ze zdejmowaniem nakładu skalnego, co fizycznie przekształca krajobraz poprzez powstawanie ogromnych zagłębień oraz sztucznych wzniesień."
+      },
+      {
+        "question": "Z jakiego materiału najczęściej usypywane są sztuczne zwałowiska (hałdy) wokół zakładów wydobywczych?",
+        "options": [
+          "Z bezużytecznych skał płonnych z kopalni.",
+          "Z przetworzonych śmieci i odpadów z miast.",
+          "Z kompostu i substancji do rekultywacji.",
+          "Z pyłów i popiołów z lokalnych elektrowni."
+        ],
+        "answer": "A",
+        "explanation": "Zwałowiska zewnętrzne i wewnętrzne wokół kopalń są usypywane z materiału skalnego usuniętego w trakcie docierania do właściwego złoża, czyli ze skał płonnych."
+      },
+      {
+        "question": "Dlaczego obszary kopalń odkrywkowych charakteryzują się wyjątkowo wysoką emisją pyłów do atmosfery?",
+        "options": [
+          "Rozległe obszary hałd są pozbawione roślinności.",
+          "Proces wypłukiwania wymaga podgrzewania skał.",
+          "System wentylacji szybów wyrzuca brudny pył.",
+          "Zapadanie wyrobisk generuje stałe podmuchy."
+        ],
+        "answer": "A",
+        "explanation": "W procesie zwałowania i wydobycia ogromne powierzchnie lądu pozbawiane są pokrywy roślinnej, przez co nawet słaby wiatr unosi cząstki pyłu na znaczne odległości."
+      },
+      {
+        "question": "Jaką nową funkcję nadano w procesie rekultywacji dawnej Kopalni Węgla Kamiennego Julia w Wałbrzychu?",
+        "options": [
+          "Przekształcono ją w centrum handlowe.",
+          "Stworzono obiekt o funkcji edukacyjnej.",
+          "Zalano ją wodą, tworząc zbiornik wodny.",
+          "Zalesiono cały obszar dawną roślinnością."
+        ],
+        "answer": "B",
+        "explanation": "Dawna KWK Julia w Wałbrzychu została pomyślnie zrekultywowana na centrum nauki i sztuki „Stara Kopalnia”, które obecnie realizuje funkcje stricte edukacyjne i kulturalne."
+      },
+      {
+        "question": "Co stanowi główne zagrożenie dla stanu chemicznego wód przy stosowaniu metody otworowej?",
+        "options": [
+          "Chemiczne substancje używane do rozpuszczania.",
+          "Emisja toksycznych pyłów z głębokich szybów.",
+          "Składowanie skał pełnych metali ciężkich.",
+          "Przesączanie spalin z ciężkich maszyn i aut."
+        ],
+        "answer": "A",
+        "explanation": "W metodzie otworowej wykorzystuje się specjalne substancje chemiczne i gorące roztwory do wypłukiwania kopalin, co grozi zanieczyszczeniem wód powierzchniowych i podziemnych."
+      },
+      {
+        "question": "Jaki jest kluczowy, negatywny skutek ciągłego osuszania wyrobisk w wielkich kopalniach odkrywkowych?",
+        "options": [
+          "Wzrost zagrożenia trzęsieniami ziemi w regionie.",
+          "Tworzenie się leja depresyjnego i wysychanie wód.",
+          "Skokowy wzrost temperatury lokalnych wód gruntowych.",
+          "Zjawisko powstawania niebezpiecznych mgieł i smogu."
+        ],
+        "answer": "B",
+        "explanation": "Odwadnianie gruntu, niezbędne do eksploatacji złóż, skutkuje powstawaniem leja depresyjnego, który obniża poziom wód podziemnych i prowadzi do zanikania rzek oraz studni."
+      },
+      {
+        "question": "W jaki sposób przemieszczanie kolosalnych mas skalnych podczas eksploatacji odkrywkowej oddziałuje na litosferę?",
+        "options": [
+          "Powoduje zapadanie się ogromnych pustek podziemnych.",
+          "Wywołuje naprężenia skorupy i wstrząsy sejsmiczne.",
+          "Zwiększa porowatość i nadmierną chłonność gruntu.",
+          "Przyspiesza procesy chemiczne i twardnienie gleby."
+        ],
+        "answer": "B",
+        "explanation": "Przesunięcie milionów ton skał na powierzchni zakłóca naturalną równowagę, wywołując silne naprężenia w skorupie ziemskiej, które rozładowują się jako wstrząsy sejsmiczne."
+      },
+      {
+        "question": "Jakie są ekologiczne konsekwencje zatrzymania odpompowywania wód po zaprzestaniu wydobycia głębinowego?",
+        "options": [
+          "Samoczynny wypływ wód i pogorszenie ich chemizmu.",
+          "Trwałe i gwałtowne obniżenie wód powierzchniowych.",
+          "Systematyczna poprawa bilansu wodnego w regionie.",
+          "Intensywne zarastanie dawnych szybów roślinnością."
+        ],
+        "answer": "A",
+        "explanation": "Wyłączenie pomp po zamknięciu kopalni prowadzi do niekontrolowanego zalewania wyrobisk podziemnych, a w konsekwencji wypływu roztworów o zmienionym składzie chemicznym."
+      },
+      {
+        "question": "Który z mechanizmów najlepiej wyjaśnia przyczyny zapadania się terenu wokół terenów eksploatacji otworowej?",
+        "options": [
+          "Drgania ciężkiego sprzętu uszkadzają głębokie warstwy.",
+          "Odpompowywanie słodkich wód trwale osłabia strukturę gleb.",
+          "Składowanie skał płonnych drastycznie obciąża podłoże.",
+          "Wypłukanie surowców zostawia puste przestrzenie pod ziemią."
+        ],
+        "answer": "D",
+        "explanation": "Podczas eksploatacji otworowej surowiec w postaci roztworu wydostaje się na zewnątrz, pozostawiając pod powierzchnią puste strefy, nad którymi pęka i osiada grunt."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Węgiel brunatny pozyskuje się głównie metodą głębinową, co pozwala skutecznie chronić pokrywę glebową przed całkowitym zniszczeniem.",
+        "answer": false,
+        "explanation": "Aż 97% węgla brunatnego wydobywa się w kopalniach odkrywkowych. Taki rodzaj eksploatacji wiąże się z całkowitym zniszczeniem pokrywy glebowej w obrębie wyrobisk i zwałowisk."
+      },
+      {
+        "sentence": "Lej depresyjny to rozległe obniżenie terenu (zapadlisko) powstające na powierzchni wskutek osiadania warstw skalnych po podziemnym wybraniu złoża.",
+        "answer": false,
+        "explanation": "Lej depresyjny to obszar, na którym uległ obniżeniu poziom zwierciadła wód podziemnych. Zjawisko to powstaje wskutek intensywnego wypompowywania wody w celu osuszenia kopalni."
+      },
+      {
+        "sentence": "Kopalnie otworowe silnie oddziałują na stan chemiczny wód powierzchniowych i podziemnych z powodu wtłaczania szkodliwych substancji rozpuszczających kopaliny.",
+        "answer": true,
+        "explanation": "Metoda otworowa wpływa negatywnie na stan chemiczny wód, ponieważ do rozpuszczania i wypłukiwania kopalin stosuje się szkodliwe substancje chemiczne."
+      },
+      {
+        "sentence": "Eksploatacja surowców w kopalniach odkrywkowych prowadzi do silnego przekształcenia rzeźby terenu, ale nie generuje wstrząsów sejsmicznych.",
+        "answer": false,
+        "explanation": "Działalność kopalń odkrywkowych skutkuje wstrząsami sejsmicznymi, ponieważ przesuwanie ogromnych mas skalnych wywołuje naprężenia w wierzchniej warstwie skorupy ziemskiej."
+      },
+      {
+        "sentence": "Rekultywacja obszarów pogórniczych może polegać na trwałym zalaniu dawnego wyrobiska i utworzeniu w jego miejscu zbiornika o funkcjach rekreacyjnych.",
+        "answer": true,
+        "explanation": "Przekształcenie wyrobiska w zbiornik wodny pełniący funkcje gospodarcze lub rekreacyjne (np. łowisko, miejsce uprawiania sportów wodnych) jest jednym z głównych kierunków rekultywacji."
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t12",
+    "title": "Miasta świata",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Aglomeracja monocentryczna",
+        "definition": "Zespół miejski składający się z jednego dużego miasta centralnego, pełniącego wiele funkcji, oraz otaczającej go strefy podmiejskiej, w której skład wchodzą mniejsze miasta (satelity)."
+      },
+      {
+        "term": "Konurbacja (aglomeracja policentryczna)",
+        "definition": "Zespół miejski złożony z kilku dużych miast o podobnej wielkości, wśród których żadne nie jest dominujące, a ich funkcje uzupełniają się dzięki dobrze rozwiniętej sieci transportowej."
+      },
+      {
+        "term": "Megalopolis",
+        "definition": "Rozległy, silnie zurbanizowany obszar, w którym poszczególne zespoły miejskie (aglomeracje monocentryczne i konurbacje) wzajemnie się przenikają i ze sobą łączą."
+      },
+      {
+        "term": "Miasto arabskie",
+        "definition": "Typ fizjonomiczny miasta charakteryzujący się chaotycznym układem wąskich i krętych uliczek, medyną w centrum, meczetami z minaretami oraz tradycyjnymi domami bez okien od strony ulicy."
+      },
+      {
+        "term": "Miasto amerykańskie",
+        "definition": "Typ fizjonomiczny, w którego centrum znajduje się dzielnica biznesu (city) o wysokiej zabudowie, odznaczający się regularnym, prostokątnym układem ulic."
+      },
+      {
+        "term": "Miasto wschodnioazjatyckie",
+        "definition": "Typ fizjonomiczny, w którym stare dzielnice (zakładane na planie prostokąta i dawniej oddzielone murami) z tradycyjną architekturą współistnieją z nowoczesnymi city z drapaczami chmur."
+      },
+      {
+        "term": "Miasto europejskie",
+        "definition": "Typ fizjonomiczny, w którym centralną część stanowi starówka otoczona XIX-wiecznymi terenami przemysłowymi, a na obrzeżach powstają nowoczesne osiedla i centra handlowe."
+      },
+      {
+        "term": "Megamiasto",
+        "definition": "Ośrodek miejski o bardzo dużej liczbie mieszkańców, liczący kilkanaście lub kilkadziesiąt milionów osób (zazwyczaj powyżej 10 mln), np. Tokio, Delhi czy Szanghaj."
+      },
+      {
+        "term": "Funkcja administracyjno-polityczna miasta",
+        "definition": "Rola miasta jako siedziby władz centralnych lub lokalnych (np. wojewódzkich, powiatowych) i urzędów. Przykłady: Londyn, Ottawa, Warszawa."
+      },
+      {
+        "term": "Funkcja przemysłowa miasta",
+        "definition": "Funkcja związana z obecnością zakładów produkcyjnych, rozwijająca się m.in. w miejscach eksploatacji surowców mineralnych. Przykłady: Dortmund, Gliwice, Johannesburg."
+      },
+      {
+        "term": "Funkcja handlowa miasta",
+        "definition": "Funkcja wynikająca ze skupiska licznych sklepów, hurtowni i giełd towarowych, rozwijająca się historycznie wzdłuż szlaków transportowych. Przykłady: Frankfurt nad Menem, Mediolan, Poznań."
+      },
+      {
+        "term": "Funkcja transportowa miasta",
+        "definition": "Wykonywana przez miasto rola ważnego węzła komunikacyjnego lub ośrodka transportowego ułatwiająca przepływ towarów i ludzi. Przykłady: Chicago, Gdańsk, Rotterdam."
+      },
+      {
+        "term": "Funkcja edukacyjna miasta",
+        "definition": "Rola miasta polegająca na byciu siedzibą szkół i wyższych uczelni. Przykłady: Lublin, Cambridge, Oksford."
+      },
+      {
+        "term": "Miasto wielofunkcyjne (poligenetyczne)",
+        "definition": "Współczesny ośrodek miejski o długiej historii ewolucji, który pełni jednocześnie wiele zróżnicowanych funkcji gospodarczych i społecznych."
+      },
+      {
+        "term": "Fizjonomia miasta",
+        "definition": "Zewnętrzny wygląd ośrodka miejskiego, obejmujący jego układ przestrzenny (plan), sposób zabudowy oraz styl architektoniczny, zależny od uwarunkowań kulturowych, historycznych i przyrodniczych."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Warszawa, Paryż, Moskwa",
+        "pair2": "Aglomeracja monocentryczna"
+      },
+      {
+        "pair1": "Konurbacja górnośląska (katowicka), miasta w centralnej części Nadrenii-Północnej Westfalii",
+        "pair2": "Aglomeracja policentryczna (konurbacja)"
+      },
+      {
+        "pair1": "BosWash, ChiPitts, Tokaido, Wizagmahanagar",
+        "pair2": "Megalopolis"
+      },
+      {
+        "pair1": "Medyna w centrum, meczety z minaretami, domy bez okien od strony krętych, wąskich uliczek",
+        "pair2": "Miasto arabskie"
+      },
+      {
+        "pair1": "Dzielnica biznesu (city) w centrum, wysoka zabudowa i regularny, prostokątny układ ulic",
+        "pair2": "Miasto amerykańskie"
+      },
+      {
+        "pair1": "Historyczna starówka w centrum, otoczona terenami poprzemysłowymi z XIX w., na obrzeżach nowoczesne osiedla i zakłady",
+        "pair2": "Miasto europejskie"
+      },
+      {
+        "pair1": "Częstochowa, Mekka, Santiago de Compostela",
+        "pair2": "Miasta o dominującej funkcji religijnej"
+      },
+      {
+        "pair1": "Baden-Baden, Krynica-Zdrój, Vichy",
+        "pair2": "Miasta o dominującej funkcji uzdrowiskowej"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Które z wymienionych miast stanowią przykłady ośrodków o dominującej funkcji administracyjno-politycznej?",
+        "options": [
+          "Aspen, Zakopane oraz Chamonix",
+          "Ruda Śląska, Gliwice, Katowice",
+          "Ottawa, Londyn oraz Warszawa",
+          "Mediolan, Poznań oraz Frankfurt"
+        ],
+        "answer": "C",
+        "explanation": "Ottawa, Londyn i Warszawa to przykłady miast o silnej funkcji administracyjno-politycznej, pełniących rolę siedzib władz i urzędów."
+      },
+      {
+        "question": "W którym regionie świata zlokalizowany jest silnie zurbanizowany obszar megalopolis znany jako BosWash?",
+        "options": [
+          "Północny fragment Japonii",
+          "Wschodnie wybrzeże USA",
+          "Zachodnie wybrzeże USA",
+          "Południowo-wschodnie Chiny"
+        ],
+        "answer": "B",
+        "explanation": "Megalopolis BosWash znajduje się na północno-wschodnim wybrzeżu Stanów Zjednoczonych, od Bostonu po Waszyngton."
+      },
+      {
+        "question": "Które z podanych zespołów miejskich wchodzą w skład japońskiego megalopolis zwanego Tokaido?",
+        "options": [
+          "Chicago, Detroit oraz Cleveland",
+          "Londyn, Birmingham, Liverpool",
+          "Kolkata, Dhaka a także Khulna",
+          "Tokio, Jokohama, Osaka, Kioto"
+        ],
+        "answer": "D",
+        "explanation": "Japońskie megalopolis Tokaido obejmuje takie zespoły miejskie jak Tokio, Jokohama, Osaka czy Kioto."
+      },
+      {
+        "question": "Co wpłynęło najsilniej na rozwój dużych miast w kształcie takim, w jakim ewoluowały Katowice i Ruda Śląska?",
+        "options": [
+          "Przez rozwój wyższego poziomu",
+          "Z racji funkcji uzdrowiskowej",
+          "Dzięki dawnym szlakom handlowym",
+          "Z powodu eksploatacji surowców"
+        ],
+        "answer": "D",
+        "explanation": "Miasta te rozwinęły się jako osiedla przemysłowe, ściśle związane z eksploatacją surowców mineralnych."
+      },
+      {
+        "question": "Jaką formę wielkoprzestrzenną tworzy zespół kliku miast o podobnej wielkości, spośród których żadne wyraźnie nie dominuje?",
+        "options": [
+          "Aglomerację monocentryczną",
+          "Aglomerację policentryczną",
+          "Metropolię rangi światowej",
+          "Obszar nazywany megalopolis"
+        ],
+        "answer": "B",
+        "explanation": "Aglomeracja policentryczna (konurbacja) to układ kilku miast podobnej wielkości bez głównego ośrodka centralnego, których funkcje się uzupełniają."
+      },
+      {
+        "question": "Który z poniższych przykładów najlepiej ilustruje strukturę typowej aglomeracji monocentrycznej z mniejszymi miastami satelitarnymi?",
+        "options": [
+          "Klasyczna aglomeracja paryska",
+          "Rozległe megalopolis Tokaido",
+          "Znana konurbacja górnośląska",
+          "Miasta leżące blisko Nadrenii"
+        ],
+        "answer": "A",
+        "explanation": "Aglomeracja paryska stanowi klasyczny przykład aglomeracji monocentrycznej, charakteryzującej się jednym wielkim miastem centralnym z wieloma satelitami."
+      },
+      {
+        "question": "Jaka cecha fizjonomiczna odróżnia centralne, biznesowe dzielnice wielkich ośrodków w Ameryce Północnej (tzw. city)?",
+        "options": [
+          "Kręte uliczki oraz niska zabudowa",
+          "Zamknięte, tradycyjne małe osiedla",
+          "Historyczna starówka w samym sercu",
+          "Regularny układ i wysoka zabudowa"
+        ],
+        "answer": "D",
+        "explanation": "Centra miast amerykańskich odznaczają się dzielnicami biznesu (city) posiadającymi regularny, prostokątny układ ulic oraz bardzo wysoką zabudowę."
+      },
+      {
+        "question": "W którym z typów fizjonomicznych miast kluczowym elementem historycznej zabudowy jest medyna otoczona licznymi minaretami?",
+        "options": [
+          "W klasycznym mieście europejskim",
+          "W ośrodku latynoamerykańskim",
+          "W tradycyjnym mieście arabskim",
+          "W dawnym mieście amerykańskim"
+        ],
+        "answer": "C",
+        "explanation": "Zabudowa tradycyjnego miasta arabskiego charakteryzuje się medyną, meczetami z minaretami, podziałem religijnym oraz krętymi, wąskimi uliczkami."
+      },
+      {
+        "question": "Dla którego modelu miasta najbardziej typowa jest zabytkowa starówka otoczona zwartymi dziewiętnastowiecznymi terenami przemysłowymi?",
+        "options": [
+          "W mieście latynoamerykańskim",
+          "W mieście północnoamerykańskim",
+          "W dynamicznym mieście arabskim",
+          "W mieście zachodnioeuropejskim"
+        ],
+        "answer": "D",
+        "explanation": "Fizjonomia miasta europejskiego wywodzi się z połączenia historycznej starówki położonej w centrum z otaczającymi ją obszarami poprzemysłowymi z XIX wieku."
+      },
+      {
+        "question": "Która odpowiedź trafnie wskazuje azjatycki zespół miejski zaliczany do grona najludniejszych metropolii (megamiast) świata?",
+        "options": [
+          "Olbrzymia metropolia Mumbaju",
+          "Dolina miasta Nowego Jorku",
+          "Strefa metropolitalna Kairu",
+          "Zespół miejski obszaru Tokio"
+        ],
+        "answer": "D",
+        "explanation": "Tokio to obecnie najludniejszy zespół miejski świata leżący w Azji, od lat będący największym globalnym megamiastem."
+      },
+      {
+        "question": "Co stanowi główną przyczynę suburbanizacji w biednych krajach, prowadzącej m.in. do gwałtownego rozrostu dzielnic biedy (slumsów)?",
+        "options": [
+          "Masowy napływ ludności wiejskiej",
+          "Zbyt ciasna zabudowa miejska city",
+          "Migracje powrotne do starych osad",
+          "Utrata znaczenia starych dzielnic"
+        ],
+        "answer": "A",
+        "explanation": "Masowy, niekontrolowany napływ najbiedniejszej ludności ze wsi powoduje rozrost ubogich przedmieść o prowizorycznej zabudowie, prowadząc do zjawiska tzw. urbanizacji pozornej."
+      },
+      {
+        "question": "W jakim regionie świata najostrzej rysują się współcześnie fizjonomiczne kontrasty między nowoczesnym centrum i bogatymi enklawami a prowizorycznymi slumsami?",
+        "options": [
+          "Miastach na kontynencie Azji",
+          "Biznesowych miastach Kanady",
+          "Miastach latynoamerykańskich",
+          "Starych ośrodkach europejskich"
+        ],
+        "answer": "C",
+        "explanation": "To w miastach Ameryki Łacińskiej można najłatwiej dostrzec pozostałości kolonialnego układu przeplatające się z wyraźnymi dysproporcjami pomiędzy bogatymi i najbiedniejszymi dzielnicami."
+      },
+      {
+        "question": "Do dominujących w życiu pielgrzymkowym i turystycznym osad, takich jak Częstochowa, Mekka oraz Santiago de Compostela, odnosi się funkcja:",
+        "options": [
+          "Turystyczno-pielgrzymkowa",
+          "Społeczno-oświatowa i naukowa",
+          "Historyczno-administracyjna",
+          "Przemysłowo-technologiczna"
+        ],
+        "answer": "A",
+        "explanation": "Miasta te posiadają przede wszystkim funkcję religijną, w której centrum leży kult i ruch pielgrzymkowy (turystyczny) wiernych."
+      },
+      {
+        "question": "Który z typów fizjonomicznych charakteryzuje dawniej odgrodzone murami historyczne dzielnice współistniejące współcześnie z nowymi dzielnicami typu CBD?",
+        "options": [
+          "Duże metropolie we wschodniej Azji",
+          "Miasta wschodnioazjatyckie",
+          "Wielkie miasta amerykańskie",
+          "Główne miasta obszaru Europy"
+        ],
+        "answer": "B",
+        "explanation": "W fizjonomii wschodnioazjatyckiej wyraźne jest współistnienie dawnych ośrodków władzy (zakładanych na regularnym planie) oraz współczesnych city inspirowanych amerykańskim modelem urbanizacji."
+      },
+      {
+        "question": "Jaki rodzaj relacji przestrzennej charakteryzuje wielkie obszary zurbanizowane tworzące struktury w typie amerykańskiego megalopolis?",
+        "options": [
+          "Całkowite wyludnienie śródmieść",
+          "Powszechne niszczenie obszarów wsi",
+          "Wzajemne przenikanie przedmieść",
+          "Ograniczenie rozrostu zabudowy"
+        ],
+        "answer": "C",
+        "explanation": "Megalopolis powstaje z silnie rozrastających się stref podmiejskich aglomeracji oraz konurbacji, które zaczynają się ze sobą trwale łączyć i przenikać."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Megalopolis Tokaido znajduje się na wschodnim wybrzeżu Stanów Zjednoczonych i obejmuje takie zespoły miejskie jak Boston i Waszyngton.",
+        "answer": false,
+        "explanation": "Megalopolis Tokaido znajduje się w Japonii. Na północno-wschodnim wybrzeżu Stanów Zjednoczonych położone jest megalopolis nazywane BosWash."
+      },
+      {
+        "sentence": "W aglomeracji monocentrycznej występuje kilka równorzędnych miast o podobnej wielkości, spośród których żadne nie jest dominujące, a ich funkcje się uzupełniają.",
+        "answer": false,
+        "explanation": "Ten opis definiuje aglomerację policentryczną (konurbację). Aglomeracja monocentryczna charakteryzuje się jednym wielkim, wyraźnie dominującym miastem centralnym z otaczającymi je miastami satelitarnymi."
+      },
+      {
+        "sentence": "Cechą charakterystyczną tradycyjnych miast arabskich jest szeroka, prostopadła siatka ulic krzyżująca się pod kątem prostym oraz domy z dużymi oknami wychodzącymi na ulicę.",
+        "answer": false,
+        "explanation": "Układ przestrzenny tradycyjnego miasta arabskiego jest chaotyczny, pełen krętych i wąskich uliczek. Cechą charakterystyczną tradycyjnych domów w tych miastach jest właśnie brak okien od strony ulicy."
+      },
+      {
+        "sentence": "Centra wielkich miast północnoamerykańskich (tzw. city) charakteryzują się regularnym, prostokątnym układem ulic oraz bardzo wysoką zabudową skupioną na stosunkowo niewielkiej powierzchni.",
+        "answer": true,
+        "explanation": "Biznesowe dzielnice w miastach amerykańskich odznaczają się obecnością bardzo wysokich drapaczy chmur oraz wytyczonym, regularnym planem ulic."
+      },
+      {
+        "sentence": "Pojęcie megamiasta odnosi się wyłącznie do rozległych stref, w których łączą się ze sobą aglomeracje monocentryczne i konurbacje, takich jak rejon Wielkich Jezior w USA.",
+        "answer": false,
+        "explanation": "Połączenie ze sobą wielu aglomeracji tworzy formę zwaną megalopolis. Pojęcie megamiasta określa po prostu pojedynczy wielki ośrodek (zespół miejski) liczący kilkanaście lub kilkadziesiąt milionów mieszkańców."
+      },
+      {
+        "sentence": "Główną funkcją takich miast jak Częstochowa, Mekka i Santiago de Compostela jest funkcja administracyjno-polityczna.",
+        "answer": false,
+        "explanation": "Wymienione miasta pełnią przede wszystkim funkcję religijną, będąc wielkimi ośrodkami kultu i celami podróży licznych rzesz pielgrzymów."
+      },
+      {
+        "sentence": "Przykładem megalopolis na terytorium Europy jest Megalopolis Angielskie, obejmujące między innymi Londyn, Birmingham, Liverpool i Manchester.",
+        "answer": true,
+        "explanation": "Megalopolis Angielskie to olbrzymia struktura zurbanizowana w Wielkiej Brytanii, tworzona wskutek łączenia i wzajemnego przenikania się leżących blisko siebie zespołów miejskich."
+      },
+      {
+        "sentence": "Aglomeracja paryska jest klasycznym przykładem konurbacji, w której żadne miasto nie dominuje pod względem pełnionych funkcji nad pozostałymi.",
+        "answer": false,
+        "explanation": "Aglomeracja paryska (podobnie jak moskiewska czy warszawska) to klasyczny przykład aglomeracji monocentrycznej z jednym dominującym dużym miastem centralnym."
+      },
+      {
+        "sentence": "Centrum większości miast położonych w Europie Środkowej i Zachodniej stanowi starówka, którą zazwyczaj otaczają tereny przemysłowe powstałe w XIX wieku.",
+        "answer": true,
+        "explanation": "W modelu miasta europejskiego zachowało się historyczne centrum (starówka), otoczone pierścieniem obszarów poprzemysłowych rozwijających się w okresie szybkiej industrializacji."
+      },
+      {
+        "sentence": "Miasta latynoamerykańskie charakteryzują się całkowitym brakiem układu prostokątnego oraz niewystępowaniem dysproporcji majątkowych między dzielnicami.",
+        "answer": false,
+        "explanation": "Miasta Ameryki Łacińskiej mają często układ prostokątny z centralnym placem (pozostałość układu kolonialnego), a w ich fizjonomii uderzają gigantyczne dysproporcje między dzielnicami bogatymi a slumsami."
+      },
+      {
+        "sentence": "Zaliczany do azjatyckich megamiast zespół miejski Tokio jest obecnie najludniejszym tego typu obszarem na świecie.",
+        "answer": true,
+        "explanation": "Tokio zdecydowanie przoduje w rankingach światowych megamiast – obszar ten skupia ponad 37 milionów mieszkańców."
+      },
+      {
+        "sentence": "Oksford, Cambridge oraz Lublin stanowią przykłady ośrodków miejskich, których rozwój i współczesne znaczenie opierają się na pełnieniu przez nie dominującej funkcji edukacyjnej.",
+        "answer": true,
+        "explanation": "Funkcja edukacyjna miast wiąże się bezpośrednio z byciem istotnymi ośrodkami kształcenia, ze skupieniem wielu znanych szkół i wyższych uczelni akademickich."
+      }
+    ]
+  }
+}

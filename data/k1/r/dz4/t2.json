@@ -1,0 +1,383 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz4-t2",
+                     "unit":  "IV",
+                     "title":  "Dynamika mórz i oceanów",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Pływy morskie",
+                                              "definition":  "Pionowe ruchy wody morskiej polegające na cyklicznym wznoszeniu się i opadaniu poziomu morza, wywołane grawitacyjnym oddziaływaniem Księżyca i Słońca oraz ruchem obrotowym Ziemi."
+                                          },
+                                          {
+                                              "term":  "Upwelling",
+                                              "definition":  "Pionowy ruch wody polegający na powolnym wynoszeniu na powierzchnię oceanu zimnych wód głębinowych, zawierających substancje odżywcze."
+                                          },
+                                          {
+                                              "term":  "Upwelling przybrzeżny",
+                                              "definition":  "Zjawisko zachodzące u zachodnich wybrzeży kontynentów, gdzie pasaty odsuwają ciepłe wody powierzchniowe od brzegu, co umożliwia napływanie w ich miejsce zimnych wód głębinowych."
+                                          },
+                                          {
+                                              "term":  "Upwelling równikowy",
+                                              "definition":  "Zjawisko wywoływane przez Prąd Północnorównikowy i Południoworównikowy, które rozsuwają powierzchniową warstwę wody, umożliwiając napływanie wody z głębin."
+                                          },
+                                          {
+                                              "term":  "Downwelling",
+                                              "definition":  "Pionowy ruch wody morskiej polegający na opadaniu chłodnych wód powierzchniowych w głąb oceanu; zachodzi, gdy prądy niosą ciepłą wodę w wyższe szerokości, gdzie woda się ochładza i zwiększa gęstość."
+                                          },
+                                          {
+                                              "term":  "Prądy morskie",
+                                              "definition":  "Poziome ruchy wód morskich wywoływane przez stałe wiatry, różnice gęstości wód oraz zróżnicowanie poziomu zwierciadła wody; tworzą zamknięte kręgi cyrkulacyjne."
+                                          },
+                                          {
+                                              "term":  "Ciepłe prądy morskie",
+                                              "definition":  "Prądy niosące wody cieplejsze od wód otaczających, płynące najczęściej od niższych szerokości geograficznych ku wyższym (np. Prąd Zatokowy, Brazylijski)."
+                                          },
+                                          {
+                                              "term":  "Zimne prądy morskie",
+                                              "definition":  "Prądy niosące wody zimniejsze od wód otaczających, płynące najczęściej od wyższych szerokości geograficznych ku niższym (np. Prąd Kanaryjski, Peruwiański)."
+                                          },
+                                          {
+                                              "term":  "Falowanie wiatrowe",
+                                              "definition":  "Poziomy ruch wody morskiej wywoływany przez wiatr, w którym cząsteczki wody poruszają się ruchem oscylacyjnym po torach kołowych, nie przemieszczając się poziomo na duże odległości."
+                                          },
+                                          {
+                                              "term":  "Tsunami",
+                                              "definition":  "Szczególny rodzaj fal wywoływany najczęściej podwodnymi trzęsieniami ziemi lub wybuchami wulkanów; na otwartym oceanie niskie i szybkie, przy brzegu gwałtownie rosną i wdzierają się w ląd."
+                                          },
+                                          {
+                                              "term":  "Falowanie przyboju",
+                                              "definition":  "Zjawisko powstające przy brzegu w końcowej fazie załamywania się fali, gdy woda przemieszcza się ruchem postępowym, wdzierając się na plażę."
+                                          },
+                                          {
+                                              "term":  "ENSO (Oscylacja Południowa El Niño)",
+                                              "definition":  "Cykliczna cyrkulacja oceaniczno-atmosferyczna w strefie równikowej Pacyfiku, obejmująca dwie fazy: ciepłą (El Niño) i zimną (La Niña), wpływająca na klimat całej Ziemi."
+                                          },
+                                          {
+                                              "term":  "El Niño",
+                                              "definition":  "Ciepła faza ENSO, podczas której następuje osłabienie pasatów i zanik upwellingu u wybrzeży Ameryki Południowej, co prowadzi do anomalii pogodowych (np. ulewne deszcze w Andach, susze w Australii)."
+                                          },
+                                          {
+                                              "term":  "La Niña",
+                                              "definition":  "Zimna faza ENSO, charakteryzująca się wzmocnieniem pasatów i intensywnym upwellingiem u wybrzeży Ameryki Południowej oraz niskim ciśnieniem nad Australią i Indonezją."
+                                          },
+                                          {
+                                              "term":  "Najbogatsze łowiska świata",
+                                              "definition":  "Obszary, gdzie wody prądów zimnych mieszają się z wodami prądów ciepłych (np. styk Prądu Zatokowego i Labradorskiego), co sprzyja rozwojowi planktonu i ryb."
+                                          },
+                                          {
+                                              "term":  "Wpływ prądów na klimat (Europa)",
+                                              "definition":  "Ciepłe prądy (Północnoatlantycki, Norweski) podnoszą temperaturę powietrza i zapobiegają zamarzaniu portów w północnej Europie."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Tsunami",
+                                                 "pair2":  "Podwodne trzęsienie ziemi lub wybuch wulkanu"
+                                             },
+                                             {
+                                                 "pair1":  "Upwelling przybrzeżny",
+                                                 "pair2":  "Pasaty odsuwające wody powierzchniowe od brzegu"
+                                             },
+                                             {
+                                                 "pair1":  "El Niño (zjawisko)",
+                                                 "pair2":  "Osłabienie pasatów i zanik upwellingu u wybrzeży Peru"
+                                             },
+                                             {
+                                                 "pair1":  "Prąd Zatokowy (Golfsztrom)",
+                                                 "pair2":  "Niezamarzanie portów w północnej Europie"
+                                             },
+                                             {
+                                                 "pair1":  "Prądy zimne",
+                                                 "pair2":  "Spadek temperatury powietrza i zmniejszenie opadów (pustynnienie)"
+                                             },
+                                             {
+                                                 "pair1":  "Downwelling",
+                                                 "pair2":  "Zwiększenie gęstości ochładzającej się wody w wyższych szerokościach"
+                                             },
+                                             {
+                                                 "pair1":  "Falowanie wiatrowe",
+                                                 "pair2":  "Ruch oscylacyjny cząsteczek wody po torach kołowych"
+                                             },
+                                             {
+                                                 "pair1":  "Upwelling równikowy",
+                                                 "pair2":  "Rozsuwanie się prądów Północno- i Południoworównikowego"
+                                             },
+                                             {
+                                                 "pair1":  "Fale przyboju",
+                                                 "pair2":  "Załamywanie się fali przy brzegu i ruch postępowy wody"
+                                             },
+                                             {
+                                                 "pair1":  "Najbogatsze łowiska",
+                                                 "pair2":  "Miejsca mieszania się wód prądów zimnych i ciepłych"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Woda w morzach i oceanach nieustannie się porusza. Które z poniższych zjawisk jest poziomym ruchem wody wywoływanym głównie przez wiatr, w którym cząsteczki wody poruszają się po torach kołowych?",
+                                      "options":  [
+                                                      "Pływy morskie (syzygijne)",
+                                                      "Prądy gęstościowe",
+                                                      "Falowanie wiatrowe",
+                                                      "Upwelling przybrzeżny"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Falowanie to poziomy ruch wody morskiej wywoływany głównie przez wiatr, podczas którego ruch wody ma charakter oscylacyjny i odbywa się po torach kołowych."
+                                  },
+                                  {
+                                      "question":  "Statek badawczy znajduje się na otwartym Oceanie Spokojnym. Aparatura wykryła przejście fali tsunami wywołanej trzęsieniem ziemi. Jakich parametrów fali powinna spodziewać się załoga w tym miejscu?",
+                                      "options":  [
+                                                      "Małej wysokości (1–2 m) i znacznej długości (100–200 km)",
+                                                      "Ogromnej wysokości (kilkadziesiąt metrów) i małej długości",
+                                                      "Małej prędkości przemieszczania się i bardzo krótkiego okresu",
+                                                      "Wyłącznie ruchu oscylacyjnego bez przemieszczania energii"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Na otwartym oceanie tsunami ma małą wysokość (1–2 m), znaczną długość (100–200 km) i przemieszcza się z ogromną prędkością."
+                                  },
+                                  {
+                                      "question":  "Kapitan statku płynącego z okolic równika w kierunku bieguna północnego zauważył, że temperatura wody wokół statku jest wyższa niż temperatura wód otaczających w danej szerokości geograficznej. Z jakim rodzajem prądu morskiego ma do czynienia?",
+                                      "options":  [
+                                                      "Z prądem zimnym, płynącym od wyższych szerokości geograficznych",
+                                                      "Z prądem ciepłym, płynącym od niższych szerokości geograficznych ku wyższym",
+                                                      "Z prądem wznoszącym (upwellingiem), wynoszącym wody głębinowe",
+                                                      "Z prądem kompensacyjnym, wyrównującym poziom morza"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ciepłe prądy morskie przenoszą wodę o wyższej temperaturze do wyższych szerokości geograficznych, płynąc najczęściej od niższych szerokości ku wyższym."
+                                  },
+                                  {
+                                      "question":  "Obserwator na wybrzeżu zauważył, że amplituda pływów jest w danym dniu najmniejsza (pływ kwadraturowy). Jaki jest w tym czasie układ ciał niebieskich (Ziemi, Księżyca i Słońca)?",
+                                      "options":  [
+                                                      "Słońce, Ziemia i Księżyc znajdują się w jednej linii (pełnia lub nów)",
+                                                      "Księżyc znajduje się w pierwszej lub trzeciej kwadrze (kąt prosty względem linii Ziemia–Słońce)",
+                                                      "Ziemia znajduje się w peryhelium, a Księżyc w apogeum",
+                                                      "Występuje zaćmienie Słońca, co wzmacnia siłę grawitacji"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pływy to ruchy wywołane grawitacyjnym oddziaływaniem Księżyca i Słońca. Choć tekst źródłowy definiuje ogólnie mechanizm grawitacyjny, wiedza o fazach (kwadrach) dla pływów o mniejszej amplitudzie wynika z mechanizmu sumowania sił pod kątem prostym."
+                                  },
+                                  {
+                                      "question":  "Dlaczego obszary, w których mieszają się wody prądów zimnych z wodami prądów ciepłych (np. styk Prądu Zatokowego i Labradorskiego), są gospodarczo istotne?",
+                                      "options":  [
+                                                      "Występują tam najbogatsze złoża ropy naftowej na szelfach",
+                                                      "Są to najbezpieczniejsze szlaki żeglugowe wolne od sztormów",
+                                                      "Znajdują się tam najbardziej wydajne łowiska świata",
+                                                      "Woda w tych miejscach ma najwyższe zasolenie, co sprzyja pozyskiwaniu soli"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Najbardziej wydajne łowiska świata znajdują się tam, gdzie wody prądów zimnych mieszają się z wodami prądów ciepłych, co sprzyja rozwojowi planktonu i ryb."
+                                  },
+                                  {
+                                      "question":  "U zachodnich wybrzeży Ameryki Południowej wieją stałe wiatry – pasaty, które odsuwają ciepłe wody powierzchniowe od brzegu. Jakie zjawisko jest bezpośrednim skutkiem tego procesu?",
+                                      "options":  [
+                                                      "Downwelling (zapadanie się wód powierzchniowych)",
+                                                      "Upwelling przybrzeżny (wynoszenie zimnych wód głębinowych)",
+                                                      "Powstanie ciepłego prądu morskiego (np. Prądu Brazylijskiego)",
+                                                      "Tsunami o dużej sile niszczenia"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pasaty powodują, że ciepłe wody powierzchniowe odpływają od wybrzeży i są zastępowane przez zimne wody głębinowe; jest to upwelling przybrzeżny."
+                                  },
+                                  {
+                                      "question":  "Na oceanach w strefie równikowej Prąd Północnorównikowy i Południoworównikowy rozsuwają powierzchniową warstwę wody. Jaki typ ruchu pionowego wody tam zachodzi?",
+                                      "options":  [
+                                                      "Upwelling równikowy",
+                                                      "Downwelling strefowy",
+                                                      "Pływy syzygijne",
+                                                      "Prądy gęstościowe"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Upwelling równikowy wywołują Prąd Północnorównikowy i Południoworównikowy, które rozsuwają powierzchniową warstwę wody i umożliwiają napływanie wody z głębin."
+                                  },
+                                  {
+                                      "question":  "W wyższych szerokościach geograficznych (powyżej 50°N i 50°S) woda morska ochładza się i zwiększa swoją gęstość. Do jakiego procesu prowadzi to zjawisko?",
+                                      "options":  [
+                                                      "Do upwellingu, czyli wynoszenia wód na powierzchnię",
+                                                      "Do downwellingu, czyli opadania wód powierzchniowych w głąb",
+                                                      "Do powstania falowania wiatrowego o dużej amplitudzie",
+                                                      "Do nagłego zmniejszenia zasolenia wód głębinowych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy wody stopniowo się ochładzają i zwiększają swą gęstość, opadają na głębokość nawet kilku tysięcy metrów; jest to downwelling."
+                                  },
+                                  {
+                                      "question":  "Podczas falowania na otwartym morzu cząsteczki wody poruszają się po torach kołowych. Co dzieje się z tym ruchem, gdy fala dociera do płytkiej strefy przybrzeżnej i ulega załamaniu?",
+                                      "options":  [
+                                                      "Ruch ustaje całkowicie, a energia fali znika",
+                                                      "Ruch oscylacyjny zamienia się w ruch pionowy (upwelling)",
+                                                      "Woda zaczyna przemieszczać się ruchem postępowym (fale przyboju)",
+                                                      "Tor ruchu cząsteczek zmienia się z kołowego na idealnie pionowy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Dopiero przy brzegu, w końcowej fazie załamywania się fali, woda przemieszcza się ruchem postępowym, tworząc fale przyboju."
+                                  },
+                                  {
+                                      "question":  "Statek płynie wzdłuż wybrzeża, które obmywa zimny prąd morski (np. Prąd Peruwiański lub Benguelski). Jakiego wpływu tego prądu na klimat wybrzeża powinien spodziewać się kapitan?",
+                                      "options":  [
+                                                      "Wzrostu temperatury powietrza i gwałtownych burz",
+                                                      "Spadku temperatury powietrza i drastycznego zmniejszenia opadów, co może prowadzić do suszy.",
+                                                      "Zwiększonego parowania i powstawania gęstych lasów równikowych",
+                                                      "Podniesienia średniej rocznej temperatury i obfitych opadów śniegu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prądy zimne decydują o spadku temperatury powietrza i zmniejszeniu opadów, co utrudnia lub uniemożliwia gospodarowanie (np. pustynnienie)."
+                                  },
+                                  {
+                                      "question":  "Porty w północnej Norwegii (np. Narwik) nie zamarzają zimą, mimo położenia za kołem podbiegunowym. Który element dynamiki oceanu za to odpowiada?",
+                                      "options":  [
+                                                      "Ciepły Prąd Północnoatlantycki i Norweski",
+                                                      "Zimny Prąd Labradorski niosący kry",
+                                                      "Intensywny upwelling przybrzeżny",
+                                                      "Wysokie zasolenie wód Morza Norweskiego"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ciepłe prądy morskie: Prąd Północnoatlantycki i Prąd Norweski powodują, że porty morskie w północnej Europie nie zamarzają."
+                                  },
+                                  {
+                                      "question":  "W północnej części Oceanu Indyjskiego kierunek prądów morskich zmienia się dwa razy w roku. Co jest główną przyczyną tej zmienności?",
+                                      "options":  [
+                                                      "Cykliczne występowanie zjawiska El Niño",
+                                                      "Cyrkulacja monsunowa (sezonowa zmiana kierunku wiatrów)",
+                                                      "Zmiana zasolenia wód wskutek topnienia lodowców himalajskich",
+                                                      "Ruch obrotowy Ziemi zmieniający kierunek co pół roku"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W północnej części Oceanu Indyjskiego kierunek prądów morskich zmienia się sezonowo, zgodnie z cyrkulacją monsunową."
+                                  },
+                                  {
+                                      "question":  "Naukowcy ogłosili nadejście ciepłej fazy ENSO (El Niño). Jakiej zmiany w układzie barycznym nad Pacyfikiem należy się spodziewać?",
+                                      "options":  [
+                                                      "Wyżu barycznego nad Australią (zachodni Pacyfik) oraz niżu barycznego u wybrzeży Ameryki Południowej.",
+                                                      "Niżu barycznego nad Australią i wyżu u wybrzeży Ameryki Południowej (sytuacja normalna)",
+                                                      "Wyżu barycznego na obu krańcach Pacyfiku",
+                                                      "Zaniku wszelkich różnic ciśnienia w strefie równikowej"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Podczas El Niño w zachodniej części Oceanu Spokojnego tworzy się wyż baryczny, a w części wschodniej – niż."
+                                  },
+                                  {
+                                      "question":  "Co dzieje się z pasatami i upwellingiem u wybrzeży Peru podczas występowania zjawiska El Niño?",
+                                      "options":  [
+                                                      "Pasaty przybierają na sile, a upwelling staje się intensywniejszy",
+                                                      "Pasaty zmieniają kierunek na zachodni, a upwelling zanika lub słabnie",
+                                                      "Pasaty wieją bez zmian, ale upwelling przenosi się na środek oceanu",
+                                                      "Występuje La Niña, więc wody stają się wyjątkowo zimne"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podczas El Niño następuje zmiana typowej cyrkulacji pasatowej i osłabienie lub zanik upwellingu u wybrzeży Ameryki Południowej."
+                                  },
+                                  {
+                                      "question":  "Jakie anomalie pogodowe są charakterystyczne dla ciepłej fazy ENSO (El Niño) w Ameryce Południowej (np. w Andach)?",
+                                      "options":  [
+                                                      "Ekstremalne susze i pożary lasów",
+                                                      "Ulewne deszcze i powodzie",
+                                                      "Silne mrozy i opady śniegu na wybrzeżu",
+                                                      "Brak jakichkolwiek zmian w pogodzie"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Anomalie pogodowe będące następstwem ciepłej fazy ENSO to m.in. ulewne deszcze w Ameryce Południowej."
+                                  },
+                                  {
+                                      "question":  "Zjawisko La Niña (zimna faza ENSO) jest przeciwieństwem El Niño. Czym charakteryzuje się sytuacja u wschodnich wybrzeży Australii i Indonezji podczas La Niña?",
+                                      "options":  [
+                                                      "Tworzy się potężny wyż baryczny przynoszący susze",
+                                                      "Tworzy się ośrodek niskiego ciśnienia sprzyjający opadom",
+                                                      "Zanikają pasaty, a woda staje się cieplejsza niż zwykle",
+                                                      "Występuje downwelling, który ogrzewa klimat"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W zimnej fazie (La Niña) u wschodnich wybrzeży Australii oraz Indonezji tworzy się ośrodek niskiego ciśnienia."
+                                  },
+                                  {
+                                      "question":  "Rybołówstwo w Peru jest silnie uzależnione od upwellingu przybrzeżnego. Jaki wpływ na gospodarkę tego kraju ma wystąpienie silnego zjawiska El Niño?",
+                                      "options":  [
+                                                      "Zwiększenie połowów dzięki napływowi ciepłolubnych gatunków ryb",
+                                                      "Wyraźne zmniejszenie połowów ryb z powodu zaniku zimnych, żyznych wód",
+                                                      "Rozwój rolnictwa dzięki suszom na wybrzeżu",
+                                                      "Spadek cen ryb z powodu ich nadmiernej ilości"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "ENSO przyczynia się m.in. do wyraźnego zmniejszenia połowów ryb na wschodnim Pacyfiku (zanik upwellingu)."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych par poprawnie łączy nazwę prądu morskiego z jego wpływem na warunki przyrodnicze sąsiadującego lądu?",
+                                      "options":  [
+                                                      "Prąd Zatokowy – pustynnienie Półwyspu Skandynawskiego",
+                                                      "Prąd Benguelski – wysokie opady w Namibii",
+                                                      "Prąd Labradorski – transport gór lodowych i ochładzanie wschodniej Kanady",
+                                                      "Prąd Peruwiański – ulewne deszcze na pustyni Atacama"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Zimny Prąd Labradorski ogranicza możliwości żeglugi, ponieważ niesie z północy kry i góry lodowe, oraz obniża temperaturę powietrza."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Podczas falowania wiatrowego na otwartym oceanie cząsteczki wody przemieszczają się poziomo na duże odległości wraz z przemieszczającym się grzbietem fali.",
+                                           "answer":  false,
+                                           "explanation":  "Na otwartym morzu ruch wody ma charakter oscylacyjny i odbywa się po torach kołowych; woda nie przemieszcza się poziomo, przemieszcza się jedynie kształt fali."
+                                       },
+                                       {
+                                           "sentence":  "Słońce, ze względu na swoją ogromną masę, wywiera silniejszy wpływ grawitacyjny na powstawanie pływów morskich na Ziemi niż Księżyc.",
+                                           "answer":  false,
+                                           "explanation":  "Pływy są wywoływane oddziaływaniem zarówno Księżyca, jak i Słońca, ale to Księżyc (mimo mniejszej masy) znajduje się znacznie bliżej Ziemi i ma decydujący wpływ."
+                                       },
+                                       {
+                                           "sentence":  "W trakcie zjawiska El Niño pasaty wieją z większą siłą niż zazwyczaj, co intensyfikuje zjawisko upwellingu u wybrzeży Ameryki Południowej.",
+                                           "answer":  false,
+                                           "explanation":  "Podczas El Niño następuje osłabienie cyrkulacji pasatowej, co prowadzi do zaniku upwellingu u wybrzeży Ameryki Południowej."
+                                       },
+                                       {
+                                           "sentence":  "Upwelling polega na wynoszeniu ku powierzchni oceanu ciepłych wód głębinowych, które są ubogie w tlen i składniki odżywcze.",
+                                           "answer":  false,
+                                           "explanation":  "Upwelling to powolne wynoszenie na powierzchnię zimnych wód głębinowych, które zawierają substancje odżywcze."
+                                       },
+                                       {
+                                           "sentence":  "Główną przyczyną powstawania tsunami są silne, długotrwałe wiatry sztormowe wiejące nad otwartym oceanem.",
+                                           "answer":  false,
+                                           "explanation":  "Tsunami to fale wywoływane najczęściej przez podwodne trzęsienia ziemi lub wybuchy podwodnych wulkanów, a nie przez wiatr."
+                                       },
+                                       {
+                                           "sentence":  "Na otwartym oceanie fala tsunami jest niska i długa, natomiast w pobliżu brzegu jej prędkość maleje, a wysokość gwałtownie wzrasta.",
+                                           "answer":  true,
+                                           "explanation":  "Na otwartym oceanie tsunami ma małą wysokość (1–2 m) i znaczną długość, a spiętrza się dopiero po dotarciu do płytkich wód przybrzeżnych."
+                                       },
+                                       {
+                                           "sentence":  "Downwelling zachodzi w wyższych szerokościach geograficznych, gdzie ochładzająca się woda zwiększa swoją gęstość i opada w głębiny.",
+                                           "answer":  true,
+                                           "explanation":  "Kiedy prądy morskie niosą wodę w wyższe szerokości, ochładza się ona, zwiększa gęstość i opada na głębokość nawet kilku tysięcy metrów."
+                                       },
+                                       {
+                                           "sentence":  "Kierunki prądów morskich pokrywają się idealnie z kierunkami wiatrów stałych, ponieważ siła Coriolisa nie wpływa na ruchy wód oceanicznych.",
+                                           "answer":  false,
+                                           "explanation":  "Kierunki prądów nie zawsze pokrywają się z wiatrami m.in. z powodu działania siły Coriolisa, która odchyla tor ruchu wody."
+                                       },
+                                       {
+                                           "sentence":  "Zimne prądy morskie przyczyniają się do spadku temperatury powietrza oraz zmniejszenia opadów na wybrzeżach, które opływają.",
+                                           "answer":  true,
+                                           "explanation":  "Prądy zimne decydują o spadku temperatury i zmniejszeniu opadów, co może prowadzić do powstawania pustyń (utrudnia gospodarowanie)."
+                                       },
+                                       {
+                                           "sentence":  "Podczas ciepłej fazy ENSO (El Niño) nad zachodnim Pacyfikiem (Australia, Indonezja) tworzy się wyż baryczny, co skutkuje występowaniem susz.",
+                                           "answer":  true,
+                                           "explanation":  "W fazie El Niño w zachodniej części Oceanu Spokojnego tworzy się wyż, co przynosi susze w Australii i Indonezji."
+                                       },
+                                       {
+                                           "sentence":  "Pasaty odsuwające ciepłe wody powierzchniowe od zachodnich wybrzeży kontynentów są mechanizmem napędzającym upwelling przybrzeżny.",
+                                           "answer":  true,
+                                           "explanation":  "Wiatry te (pasaty) powodują odpływ ciepłych wód powierzchniowych od brzegu, co umożliwia napływanie w ich miejsce zimnych wód z głębin."
+                                       },
+                                       {
+                                           "sentence":  "Dopiero w strefie przyboju, przy brzegu, ruch oscylacyjny cząsteczek wody ulega załamaniu i zamienia się w ruch postępowy.",
+                                           "answer":  true,
+                                           "explanation":  "W końcowej fazie załamywania się fali przy brzegu woda przemieszcza się ruchem postępowym, wdzierając się na plażę."
+                                       }
+                                   ]
+                 }
+}

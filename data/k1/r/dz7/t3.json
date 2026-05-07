@@ -1,0 +1,389 @@
+{
+    "metadata":  {
+                     "id":  "t3",
+                     "unit":  "VII",
+                     "title":  "Strefy roślinne"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Wilgotny las równikowy",
+                                              "definition":  "Najbujniejsza formacja roślinna na Ziemi o ogromnej różnorodności gatunków, występująca w strefie klimatów równikowych wybitnie wilgotnych; charakteryzuje się wielowarstwowością i obecnością epifitów oraz lian."
+                                          },
+                                          {
+                                              "term":  "Suchy las podrównikowy (las parkowy)",
+                                              "definition":  "Formacja leśna strefy podrównikowej, w której drzewa (np. tekowe) gubią liście w porze suchej, a w niższych warstwach dominują trawy (np. bambusy) i kolczaste krzewy."
+                                          },
+                                          {
+                                              "term":  "Lasy liściaste zrzucające liście na zimę",
+                                              "definition":  "Formacja strefy umiarkowanej o łagodnych zimach i równomiernych opadach, zdominowana przez drzewa takie jak buki, dęby, graby, lipy i klony, które sezonowo tracą liście."
+                                          },
+                                          {
+                                              "term":  "Tajga (borealny las iglasty)",
+                                              "definition":  "Lasy północne strefy umiarkowanej chłodnej, złożone głównie z drzew iglastych (świerk, sosna, jodła, modrzew) z niewielkim udziałem brzóz i wierzb oraz licznymi torfowiskami."
+                                          },
+                                          {
+                                              "term":  "Sawanna",
+                                              "definition":  "Formacja trawiasta strefy podrównikowej z pojedynczymi drzewami (akacje, baobaby), gdzie wegetacja zależy od pory suchej i deszczowej, a trawy są twardolistne i sucholubne."
+                                          },
+                                          {
+                                              "term":  "Step (pampa, preria)",
+                                              "definition":  "Formacja trawiasta strefy umiarkowanej ciepłej kontynentalnej, pozbawiona drzew (poza dolinami rzek), zdominowana przez kostrzewy, ostnice i turzyce."
+                                          },
+                                          {
+                                              "term":  "Makia (roślinność śródziemnomorska)",
+                                              "definition":  "Wiecznie zielone, twardolistne zarośla (np. oleandry, jałowce, mirty) charakterystyczne dla strefy podzwrotnikowej morskiej, często powstające w miejscu wyciętych lasów."
+                                          },
+                                          {
+                                              "term":  "Tundra",
+                                              "definition":  "Bezleśna formacja strefy podbiegunowej porośnięta przez mchy, porosty, krzewinki i karłowate drzewa (np. wierzba lapońska), występująca na obszarach z wieloletnią zmarzliną."
+                                          },
+                                          {
+                                              "term":  "Pustynia gorąca",
+                                              "definition":  "Obszar w strefie zwrotnikowej lub podzwrotnikowej o skąpej roślinności sucholubnej (kserofity) lub jej braku, wynikającej z bardzo niskich sum opadów."
+                                          },
+                                          {
+                                              "term":  "Pustynia lodowa",
+                                              "definition":  "Obszar w strefie biegunowej, gdzie roślinność (glony, mchy, porosty) występuje wyłącznie na skałach niepokrytych lodem (nunatakach)."
+                                          },
+                                          {
+                                              "term":  "Epifity",
+                                              "definition":  "Rośliny rosnące na innych roślinach (głównie na drzewach), wykorzystujące je jako podporę, ale niebędące pasożytami, np. storczyki w wilgotnym lesie równikowym."
+                                          },
+                                          {
+                                              "term":  "Sukulenty",
+                                              "definition":  "Rośliny przystosowane do życia w suchym środowisku poprzez magazynowanie wody w liściach, łodygach lub korzeniach, np. kaktusy, aloesy i litopsy."
+                                          },
+                                          {
+                                              "term":  "Kserofity",
+                                              "definition":  "Ogólna nazwa roślinności sucholubnej, przystosowanej do niedoboru wody, obejmująca sukulenty (magazynujące wodę) i sklerofity (ograniczające parowanie)."
+                                          },
+                                          {
+                                              "term":  "Regiel dolny",
+                                              "definition":  "Najniższe piętro leśne w górach strefy umiarkowanej (powyżej piętra pogórza), w którym występują lasy liściaste i mieszane."
+                                          },
+                                          {
+                                              "term":  "Regiel górny",
+                                              "definition":  "Piętro roślinne w górach położone powyżej regla dolnego, charakteryzujące się występowaniem lasów iglastych (np. świerkowych) ze względu na chłodniejszy klimat."
+                                          },
+                                          {
+                                              "term":  "Kosodrzewina",
+                                              "definition":  "Piętro zarośli krzewiastych (np. sosna kosa) występujące w górach powyżej górnej granicy lasu."
+                                          },
+                                          {
+                                              "term":  "Hale (łąki górskie)",
+                                              "definition":  "Piętro roślinne w wysokich górach, porośnięte przez trawy i roślinność zielną, rozciągające się powyżej piętra zarośli krzewiastych."
+                                          },
+                                          {
+                                              "term":  "Turnie",
+                                              "definition":  "Najwyższe piętro roślinne w górach o bardzo surowym klimacie, gdzie roślinność jest skąpa i ogranicza się do mchów oraz porostów w szczelinach skalnych."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Baobab, Akacja",
+                                                 "pair2":  "Sawanna"
+                                             },
+                                             {
+                                                 "pair1":  "Wierzba lapońska, Brzoza karłowata",
+                                                 "pair2":  "Tundra"
+                                             },
+                                             {
+                                                 "pair1":  "Makia",
+                                                 "pair2":  "Klimat podzwrotnikowy morski (śródziemnomorski)"
+                                             },
+                                             {
+                                                 "pair1":  "Drzewo tekowe",
+                                                 "pair2":  "Suchy las podrównikowy"
+                                             },
+                                             {
+                                                 "pair1":  "Epifit",
+                                                 "pair2":  "Roślina rosnąca na innej roślinie, np. storczyk"
+                                             },
+                                             {
+                                                 "pair1":  "Step",
+                                                 "pair2":  "Klimat umiarkowany ciepły kontynentalny"
+                                             },
+                                             {
+                                                 "pair1":  "Tajga",
+                                                 "pair2":  "Klimat umiarkowany chłodny"
+                                             },
+                                             {
+                                                 "pair1":  "Sukulent",
+                                                 "pair2":  "Roślina magazynująca wodę, np. kaktus"
+                                             },
+                                             {
+                                                 "pair1":  "Dąb korkowy, Oliwka",
+                                                 "pair2":  "Roślinność typu śródziemnomorskiego"
+                                             },
+                                             {
+                                                 "pair1":  "Preria, Pampa",
+                                                 "pair2":  "Step (nazwy regionalne)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Która formacja roślinna występuje wyłącznie na półkuli północnej i charakteryzuje się przewagą drzew iglastych, takich jak świerk i sosna?",
+                                      "options":  [
+                                                      "Wilgotny las równikowy",
+                                                      "Las liściasty",
+                                                      "Tajga",
+                                                      "Sawanna"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Tajga to lasy północne iglaste, które występują w strefie klimatów umiarkowanych chłodnych wyłącznie na półkuli północnej."
+                                  },
+                                  {
+                                      "question":  "Jaka cecha budowy jest charakterystyczna dla wilgotnego lasu równikowego?",
+                                      "options":  [
+                                                      "Brak warstwy drzew",
+                                                      "Występowanie kilku pięter",
+                                                      "Dominacja roślin trawiastych",
+                                                      "Ubóstwo gatunkowe roślin"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wilgotny las równikowy cechuje się występowaniem kilku warstw roślinności, od wysokich pojedynczych drzew po rośliny cieniolubne."
+                                  },
+                                  {
+                                      "question":  "Na jakich glebach najczęściej rozwija się roślinność stepowa?",
+                                      "options":  [
+                                                      "Na glebach bielicowych",
+                                                      "Na glebach tundrowych",
+                                                      "Na czarnoziemach",
+                                                      "Na glebach ferralitowych"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Dla stepów charakterystyczne są czarnoziemy, które powstają przy udziale roślinności trawiastej."
+                                  },
+                                  {
+                                      "question":  "Jakie rośliny dominują w krajobrazie tundry?",
+                                      "options":  [
+                                                      "Wysokie drzewa liściaste",
+                                                      "Mchy, porosty i krzewinki",
+                                                      "Twardolistne zarośla",
+                                                      "Gęste trawy i akacje"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Roślinność tundry składa się głównie z mchów, krzewinek, porostów oraz nielicznych karłowatych drzew."
+                                  },
+                                  {
+                                      "question":  "Jak nazywają się gęste, wiecznie zielone zarośla twardolistne typowe dla strefy śródziemnomorskiej?",
+                                      "options":  [
+                                                      "Makia",
+                                                      "Preria",
+                                                      "Tajga",
+                                                      "Puszta"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Makia to wiecznie zielone, twardolistne zarośla (np. oleandry, mirty) występujące w klimacie śródziemnomorskim."
+                                  },
+                                  {
+                                      "question":  "W jakim celu sukulenty, takie jak kaktusy, magazynują wodę w łodygach lub liściach?",
+                                      "options":  [
+                                                      "Aby odstraszać roślinożerców",
+                                                      "Aby przetrwać okresy suszy",
+                                                      "Aby przyspieszyć swój wzrost",
+                                                      "Aby zwiększyć parowanie wody"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sukulenty to rośliny magazynujące wodę w liściach lub łodygach, co pozwala im przetrwać w suchym klimacie pustynnym."
+                                  },
+                                  {
+                                      "question":  "Co jest główną przyczyną zrzucania liści przez drzewa w suchym lesie podrównikowym?",
+                                      "options":  [
+                                                      "Nadejście mroźnej zimy",
+                                                      "Wystąpienie pory suchej",
+                                                      "Nadmiar wody w glebie",
+                                                      "Silne wiatry monsunowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W suchym lesie podrównikowym gatunki takie jak drzewa tekowe gubią liście w porze suchej."
+                                  },
+                                  {
+                                      "question":  "Który rodzaj drzew jest charakterystyczny dla lasów podzwrotnikowych Australii?",
+                                      "options":  [
+                                                      "Eukaliptusy",
+                                                      "Sekwoje",
+                                                      "Araukarie",
+                                                      "Rododendrony"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W lasach strefy podzwrotnikowej w Australii występują eukaliptusy oraz akacje."
+                                  },
+                                  {
+                                      "question":  "Jakie drzewa są typowe dla lasów podzwrotnikowych występujących w Ameryce Północnej?",
+                                      "options":  [
+                                                      "Dęby korkowe",
+                                                      "Eukaliptusy",
+                                                      "Baobaby",
+                                                      "Sekwoje"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "W Ameryce Północnej w lasach strefy podzwrotnikowej rosną głównie sekwoje i daglezje."
+                                  },
+                                  {
+                                      "question":  "Dlaczego gleby ferralitowe w wilgotnych lasach równikowych zawierają mało próchnicy?",
+                                      "options":  [
+                                                      "Przez brak opadów deszczu",
+                                                      "Przez niską temperaturę",
+                                                      "Przez intensywne wymywanie",
+                                                      "Przez brak szaty roślinnej"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Intensywne przemywanie gleby wodą z opadów (ferralityzacja) powoduje wypłukiwanie składników i małą zawartość próchnicy."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia warunki klimatyczne strefy stepów od warunków panujących na sawannie?",
+                                      "options":  [
+                                                      "Występowanie mroźnej zimy",
+                                                      "Brak opadów przez cały rok",
+                                                      "Stała wysoka temperatura",
+                                                      "Brak roślinności trawiastej"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Step występuje w klimacie umiarkowanym z mroźną zimą, podczas gdy sawanna cechuje się wysoką temperaturą przez cały rok."
+                                  },
+                                  {
+                                      "question":  "Jaką funkcję pełnią niewielkie, twarde liście u roślin typu sklerofity?",
+                                      "options":  [
+                                                      "Zwiększają pobór światła",
+                                                      "Ograniczają parowanie",
+                                                      "Ułatwiają magazynowanie wody",
+                                                      "Chronią przed mrozem"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sklerofity to rośliny o niewielkich liściach, co ogranicza ich powierzchnię parowania w suchym klimacie."
+                                  },
+                                  {
+                                      "question":  "Która nazwa określa formację trawiastą (step) występującą w Ameryce Południowej?",
+                                      "options":  [
+                                                      "Preria",
+                                                      "Pampa",
+                                                      "Puszta",
+                                                      "Tajga"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Inne nazwy stepu to m.in. pampa w Ameryce Południowej oraz preria w Ameryce Północnej."
+                                  },
+                                  {
+                                      "question":  "Dla jakiej formacji roślinnej charakterystyczne są gleby brunatne i płowe?",
+                                      "options":  [
+                                                      "Dla lasów liściastych",
+                                                      "Dla wilgotnych lasów",
+                                                      "Dla roślinności tundry",
+                                                      "Dla pustyń i półpustyń"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gleby brunatne i płowe są charakterystyczne dla lasów liściastych i mieszanych strefy umiarkowanej."
+                                  },
+                                  {
+                                      "question":  "Jaki główny czynnik decyduje o wykształceniu się pięter roślinnych v górach?",
+                                      "options":  [
+                                                      "Wzrost ciśnienia atmosferycznego",
+                                                      "Spadek temperatury z wysokością",
+                                                      "Stała wilgotność powietrza",
+                                                      "Brak wiatrów na szczytach"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na rozwój roślin w górach wyraźnie wpływa temperatura powietrza, która spada wraz ze wzrostem wysokości."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób ekspozycja stoku wpływa na układ pięter roślinnych w górach?",
+                                      "options":  [
+                                                      "Nie ma żadnego wpływu na rośliny",
+                                                      "Zmienia skład chemiczny gleby",
+                                                      "Przesuwa granice pięter roślinnych",
+                                                      "Eliminuje występowanie lasów"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Granice pięter roślinnych na stokach północnych i południowych często przebiegają na innej wysokości."
+                                  },
+                                  {
+                                      "question":  "Dlaczego powyżej poziomu kondensacji chmur szata roślinna w górach staje się bardzo uboga?",
+                                      "options":  [
+                                                      "Z powodu braku opadów",
+                                                      "Z powodu braku tlenu",
+                                                      "Przez działalność ludzi",
+                                                      "Przez zbyt żyzne gleby"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Powyżej poziomu kondensacji chmur opady nie występują, dlatego szata roślinna najwyższych partii gór jest uboga."
+                                  },
+                                  {
+                                      "question":  "Do jakiego układu nawiązuje sekwencja pionowych pięter roślinnych w górach?",
+                                      "options":  [
+                                                      "Do układu prądów morskich",
+                                                      "Do rozmieszczenia lądów",
+                                                      "Do stref klimatycznych Ziemi",
+                                                      "Do układu płyt tektonicznych"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Pionowy układ pięter roślinnych w górach przypomina układ stref klimatycznych na kuli ziemskiej."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Tajga to formacja lasów iglastych występująca w strefie klimatów umiarkowanych chłodnych na obu półkulach Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Tajga występuje wyłącznie na półkuli północnej."
+                                       },
+                                       {
+                                           "sentence":  "Lokalna nazwa stepów występujących na obszarze Węgier to pampa.",
+                                           "answer":  false,
+                                           "explanation":  "Pampa to nazwa stepów w Ameryce Południowej, natomiast na Węgrzech stepy nazywane są pusztą."
+                                       },
+                                       {
+                                           "sentence":  "W lasach podzwrotnikowych Australii dominującym gatunkiem drzewa jest eukaliptus, tworzący formację zwaną skrubem.",
+                                           "answer":  true,
+                                           "explanation":  "W Australii w lasach podzwrotnikowych występują eukaliptusy, a grubolistne zarośla z ich przewagą to skrub."
+                                       },
+                                       {
+                                           "sentence":  "Sklerofity to rośliny pustynne posiadające niewielkie liście lub rozbudowany system korzeniowy w celu ograniczenia parowania i poboru wody.",
+                                           "answer":  true,
+                                           "explanation":  "Sklerofity to rośliny sucholubne przystosowane do warunków pustynnych poprzez małe liście i długie korzenie."
+                                       },
+                                       {
+                                           "sentence":  "Chaparral to nazwa twardolistnych zarośli typu śródziemnomorskiego występujących w Australii.",
+                                           "answer":  false,
+                                           "explanation":  "Chaparral to zarośla występujące w Ameryce Północnej; w Australii ich odpowiednikiem jest skrub."
+                                       },
+                                       {
+                                           "sentence":  "Tundra jest formacją roślinną zdominowaną przez mchy, porosty i krzewinki, w której występują jedynie nieliczne karłowate drzewa.",
+                                           "answer":  true,
+                                           "explanation":  "Roślinność tundry składa się głównie z mchów, porostów oraz karłowatych drzew, jak wierzba lapońska."
+                                       },
+                                       {
+                                           "sentence":  "Sukulenty to rośliny typowe dla wilgotnych lasów równikowych, przystosowane do magazynowania nadmiaru wody opadowej w liściach.",
+                                           "answer":  false,
+                                           "explanation":  "Sukulenty to rośliny pustynne (kserofity), które magazynują wodę, aby przetrwać okresy suszy, a nie nadmiar wilgoci."
+                                       },
+                                       {
+                                           "sentence":  "W wilgotnym lesie równikowym występuje ogromna różnorodność gatunkowa, w tym wysokie drzewa takie jak hebanowce i drzewa kapokowe.",
+                                           "answer":  true,
+                                           "explanation":  "Wilgotny las równikowy to najbujniejsza formacja z drzewami takimi jak hebanowce i drzewa kapokowe."
+                                       },
+                                       {
+                                           "sentence":  "Pod formacją trawiastą sawanny w klimacie podrównikowym wykształcają się żyzne czarnoziemy.",
+                                           "answer":  false,
+                                           "explanation":  "Pod sawannami występują gleby czerwonobure i cynamonowoczerwone; czarnoziemy są typowe dla stepów."
+                                       },
+                                       {
+                                           "sentence":  "Pionowy układ pięter roślinnych w górach nawiązuje do układu stref klimatycznych, gdzie najniższe piętro odpowiada strefie, w której leży dane pasmo.",
+                                           "answer":  true,
+                                           "explanation":  "Układ pięter przypomina układ stref, a najniższe piętro ma warunki zbliżone do otaczającej strefy klimatycznej."
+                                       },
+                                       {
+                                           "sentence":  "Roślinność astrefowa to zbiorowiska roślinne, których rozmieszczenie jest ściśle powiązane z układem stref klimatycznych, np. wilgotne lasy równikowe.",
+                                           "answer":  false,
+                                           "explanation":  "Roślinność astrefowa nie ma związku ze strefami klimatycznymi (np. roślinność wodna), natomiast lasy równikowe to roślinność strefowa."
+                                       },
+                                       {
+                                           "sentence":  "Stepy to formacje trawiaste rozwijające się w klimacie umiarkowanym kontynentalnym ciepłym, gdzie lato jest gorące, a zima mroźna.",
+                                           "answer":  true,
+                                           "explanation":  "Step występuje w strefie klimatów umiarkowanych o typie kontynentalnym ciepłym z gorącym latem i mroźną zimą."
+                                       }
+                                   ]
+                 }
+}

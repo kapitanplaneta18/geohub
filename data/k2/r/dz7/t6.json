@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t6",
+    "title": "Wpływ transportu i turystyki na środowisko",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Wpływ transportu na atmosferę",
+        "definition": "Emisja zanieczyszczeń, takich jak tlenki węgla, tlenki azotu, węglowodory, sadza i dwutlenek siarki, przyczyniających się m.in. do powstawania smogu."
+      },
+      {
+        "term": "Przekształcanie krajobrazu przez transport",
+        "definition": "Zmiany form morfologicznych w wyniku budowy dróg, linii kolejowych i kanałów, obejmujące powstawanie nasypów, tuneli oraz wyrównywanie obszarów."
+      },
+      {
+        "term": "Wpływ transportu na florę i faunę",
+        "definition": "Zniszczenie siedlisk, wycinka lasów, fragmentacja ekosystemów oraz bezpośrednie zagrożenie życia zwierząt na skutek kolizji z pojazdami i zanieczyszczeń."
+      },
+      {
+        "term": "Hałas komunikacyjny",
+        "definition": "Negatywny czynnik transportowy wpływający na zdrowie człowieka, powodujący zmęczenie, niepokój, obniżenie sprawności intelektualnej oraz wyzwalanie agresji."
+      },
+      {
+        "term": "Presja turystyczna",
+        "definition": "Szkodliwy wpływ masowej turystyki na środowisko geograficzne, dotyczący w największym stopniu obszarów najcenniejszych przyrodniczo ze względu na ich wyjątkową atrakcyjność."
+      },
+      {
+        "term": "Wpływ turystyki na zasoby wodne",
+        "definition": "Wzrost poboru wody do celów rekreacyjnych, takich jak baseny czy pola golfowe, oraz bytowych, powodujący problemy w miejscach o ograniczonych zasobach."
+      },
+      {
+        "term": "Urbanizacja turystyczna",
+        "definition": "Gęsta zabudowa hotelowa, apartamentowa i infrastrukturalna na terenach wypoczynkowych, prowadząca do znacznego przekształcenia lub zniszczenia naturalnego krajobrazu."
+      },
+      {
+        "term": "Zanieczyszczenie powietrza w regionach turystycznych",
+        "definition": "Zjawisko wynikające głównie z emisji spalin z autokarów i samolotów oraz działania systemów grzewczych i klimatyzacyjnych w obiektach hotelowych."
+      },
+      {
+        "term": "Degradacja gleb w turystyce",
+        "definition": "Niszczenie warstwy glebowej poprzez zajmowanie terenów pod infrastrukturę, zatruwanie toksycznymi związkami ze spalin oraz jej wydeptywanie, zwłaszcza na górskich szlakach."
+      },
+      {
+        "term": "Zrównoważona turystyka",
+        "definition": "Koncepcja ograniczająca negatywny wpływ usług na środowisko, promująca ochronę przyrody, oszczędność zasobów oraz zachowanie różnorodności biologicznej i kulturowej."
+      },
+      {
+        "term": "Ochrona obszarów turystycznych",
+        "definition": "Działania zapobiegające antropopresji, np. w parkach narodowych, polegające m.in. na limitowaniu wejść, wyznaczaniu szlaków czy stosowaniu odnawialnych źródeł energii."
+      },
+      {
+        "term": "Bariery ekologiczne w transporcie",
+        "definition": "Infrastruktura komunikacyjna przecinająca szlaki migracyjne zwierząt, której negatywne skutki dla fauny łagodzone są poprzez budowę specjalnych zielonych wiaduktów."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Hałas komunikacyjny (skutek zdrowotny)",
+        "pair2": "Prowadzi do zmęczenia, zdenerwowania, obniżenia sprawności intelektualnej oraz wyzwalania agresji u ludzi."
+      },
+      {
+        "pair1": "Rozwój infrastruktury drogowej (skutek przyrodniczy)",
+        "pair2": "Ograniczanie terenów niezabudowanych, fragmentacja siedlisk zwierząt i zniekształcanie naturalnych form morfologicznych."
+      },
+      {
+        "pair1": "Presja turystyczna (zagrożenie dla krajobrazu)",
+        "pair2": "Zastępowanie naturalnych obszarów chronionych i leśnych gęstą zabudową rekreacyjną i hotelową."
+      },
+      {
+        "pair1": "Wydeptywanie szlaków górskich (skutek przyrodniczy)",
+        "pair2": "Przyspieszona degradacja gleby, niszczenie warstwy roślinnej i wywoływanie nieodwracalnych zmian w pokryciu terenu."
+      },
+      {
+        "pair1": "Masowa turystyka (skutek dla hydrosfery)",
+        "pair2": "Wykorzystywanie ogromnych ilości wody do basenów czy nawadniania pól golfowych oraz zwiększone zanieczyszczanie rzek i mórz."
+      },
+      {
+        "pair1": "Zrównoważona turystyka (zasada)",
+        "pair2": "Promowanie wypoczynku niezagrażającego środowisku, ochrona przyrody oraz oszczędne gospodarowanie energią elektryczną i wodą."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Głównym źródłem jakich zanieczyszczeń powietrza na obszarach gęsto zaludnionych miast jest ruch samochodowy?",
+        "options": [
+          "Tlenków węgla, tlenków azotu i węglowodorów.",
+          "Związków fluoru, tlenków siarki oraz freonów.",
+          "Odpadów stałych, pyłów oraz metali ciężkich.",
+          "Nawozów sztucznych, pestycydów i herbicydów."
+        ],
+        "answer": "A",
+        "explanation": "Spalanie paliw płynnych w silnikach samochodowych powoduje uwalnianie do atmosfery głównie tlenków węgla, węglowodorów i tlenków azotu."
+      },
+      {
+        "question": "Jakie jest główne założenie koncepcji zrównoważonej turystyki?",
+        "options": [
+          "Ograniczenie negatywnego wpływu usług na środowisko.",
+          "Maksymalizacja zysków z lokalnej infrastruktury.",
+          "Rozbudowa masowego ruchu turystycznego w miastach.",
+          "Zwiększenie przepustowości popularnych kurortów."
+        ],
+        "answer": "A",
+        "explanation": "Zrównoważona turystyka polega na minimalizowaniu szkodliwego wpływu działalności wypoczynkowej na środowisko geograficzne przy jednoczesnym zachowaniu zysków."
+      },
+      {
+        "question": "Jaki czynnik związany z transportem najsilniej obniża sprawność intelektualną i wywołuje agresję?",
+        "options": [
+          "Nadmierny hałas na szlakach komunikacyjnych.",
+          "Wysokie stężenie freonów w spalinach silników.",
+          "Zwiększona emisja tlenku siarki do hydrosfery.",
+          "Całkowita fragmentacja lokalnych siedlisk fauny."
+        ],
+        "answer": "A",
+        "explanation": "Hałas komunikacyjny negatywnie wpływa na ludzkie zdrowie, wywołując zmęczenie, obniżając sprawność intelektualną oraz potęgując agresję."
+      },
+      {
+        "question": "Jakie pojęcie opisuje szkodliwy wpływ nadmiernego ruchu turystycznego na najcenniejsze przyrodniczo obszary?",
+        "options": [
+          "Zjawisko silnej presji turystycznej.",
+          "Proces masowej turystyki globalnej.",
+          "Efekt gwałtownej urbanizacji terenu.",
+          "Problem intensywnej rozbudowy dróg."
+        ],
+        "answer": "A",
+        "explanation": "Problem presji turystycznej oznacza negatywne i szkodliwe oddziaływanie turystów na najbardziej atrakcyjne oraz cenne przyrodniczo obszary."
+      },
+      {
+        "question": "Jakie pojazdy uznaje się za mniej emisyjne, lecz generujące poważne problemy ekologiczne podczas utylizacji baterii?",
+        "options": [
+          "Samochody w pełni elektryczne oraz hybrydowe.",
+          "Pojazdy z nowoczesnymi silnikami dieslowskimi.",
+          "Pociągi z napędem parowym oraz silnikami na gaz.",
+          "Statki o napędzie atomowym i wodorowym na morzu."
+        ],
+        "answer": "A",
+        "explanation": "Samochody hybrydowe i elektryczne emitują mniej spalin, jednak ich produkcja oraz recykling zasilających je baterii są niezwykle uciążliwe dla środowiska."
+      },
+      {
+        "question": "Który element infrastruktury turystycznej jest przyczyną drastycznego wzrostu zużycia słodkiej wody na wyspach?",
+        "options": [
+          "Regularnie nawadniane trawniki i pola golfowe.",
+          "Ogromne systemy oczyszczania ścieków w hotelach.",
+          "Lokalne stacje uzdatniania pitnej wody morskiej.",
+          "Kompleksowe instalacje fotowoltaiczne na dachach."
+        ],
+        "answer": "A",
+        "explanation": "Słodka woda w turystyce jest masowo wykorzystywana do wypełniania basenów oraz estetycznego nawadniania pól golfowych i trawników."
+      },
+      {
+        "question": "W jaki sposób budowa linii kolejowych i autostrad bezpośrednio przekształca naturalną morfologię terenu?",
+        "options": [
+          "Poprzez tworzenie wysokich nasypów oraz tuneli.",
+          "Poprzez emisję tlenków siarki do wierzchniej gleby.",
+          "Poprzez stałe zanieczyszczanie wód rzecznych i mórz.",
+          "Poprzez potężny wzrost poziomu hałasu w aglomeracji."
+        ],
+        "answer": "A",
+        "explanation": "Rozwój infrastruktury transportowej wiąże się ze zniekształcaniem form morfologicznych na powierzchni ziemi i powstawaniem sztucznych nasypów lub tuneli."
+      },
+      {
+        "question": "Jakie zrównoważone rozwiązanie infrastrukturalne zastosowano w wysokogórskich schroniskach Tatrzańskiego Parku Narodowego?",
+        "options": [
+          "Instalacja biologicznych oczyszczalni ścieków.",
+          "Surowy zakaz używania wszelkiego sprzętu AGD.",
+          "Termiczne spalanie śmieci w wielkich piecach.",
+          "Doprowadzanie prądu tylko z wielkich elektrowni."
+        ],
+        "answer": "A",
+        "explanation": "W ramach działań minimalizujących presję turystyczną schroniska w Tatrach są wyposażane w oczyszczalnie biologiczne oraz systemy odnawialnych źródeł energii."
+      },
+      {
+        "question": "Co stanowi najważniejsze źródło szkodliwych czynników chłodniczych w obiektach hotelowo-gastronomicznych?",
+        "options": [
+          "Systemy klimatyzacyjne obecne w budynkach.",
+          "Pojazdy wypożyczane codziennie przez turystów.",
+          "Nieszczelne oczyszczalnie ścieków przy hotelach.",
+          "Stare piece węglowe ogrzewające małe pensjonaty."
+        ],
+        "answer": "A",
+        "explanation": "Urządzenia klimatyzacyjne masowo stosowane w hotelach emitują do atmosfery szkodliwe czynniki chłodnicze."
+      },
+      {
+        "question": "Jakie działanie proekologiczne jest powszechnie stosowane w nowoczesnych hotelach w celu oszczędzania wody oraz energii?",
+        "options": [
+          "Pranie pościeli i ręczników tylko na życzenie.",
+          "Wprowadzenie zakazu korzystania z pryszniców.",
+          "Używanie przefiltrowanej wody morskiej w kuchni.",
+          "Drastyczne ograniczenie liczby wydawanych dań."
+        ],
+        "answer": "A",
+        "explanation": "Aby zmniejszyć zużycie zasobów, hotele decydują się na rzadsze wymienianie ręczników i pościeli, realizując to zadanie wyłącznie na życzenie gości."
+      },
+      {
+        "question": "Który środek codziennego transportu miejskiego jest uważany za kilkanaście razy mniej szkodliwy dla środowiska niż samochód osobowy?",
+        "options": [
+          "Rower tradycyjny lub nowoczesny rower elektryczny.",
+          "Autobus spalinowy oraz szybki tramwaj aglomeracyjny.",
+          "Motocykl o stosunkowo niskiej pojemności silnika.",
+          "Pociąg dalekobieżny lub podziemne metro miejskie."
+        ],
+        "answer": "A",
+        "explanation": "Według statystyk, korzystanie z roweru tradycyjnego lub elektrycznego jest średnio 13 razy mniej szkodliwe dla przyrody niż podróżowanie samochodem."
+      },
+      {
+        "question": "Jakie zjawisko zachodzi w krajobrazie nadmorskim w wyniku nadmiernego wznoszenia infrastruktury hotelowej bardzo blisko plaż?",
+        "options": [
+          "Postępująca urbanizacja turystyczna brzegów.",
+          "Naturalna renaturalizacja lokalnego wybrzeża.",
+          "Formowanie się olbrzymich lejów depresyjnych.",
+          "Potężny wzrost bioróżnorodności ekosystemów."
+        ],
+        "answer": "A",
+        "explanation": "Gęsta zabudowa hotelowa powstająca w niewielkiej odległości od linii brzegowej prowadzi do silnego przekształcenia terenu, określanego mianem urbanizacji turystycznej."
+      },
+      {
+        "question": "Jaką funkcję względem procesów migracyjnych zwierząt lądowych pełni wielkoskalowa infrastruktura, taka jak gęsta sieć autostrad?",
+        "options": [
+          "Tworzą nieprzekraczalną barierę dla ekosystemów.",
+          "Ułatwiają swobodną migrację wielu drapieżników.",
+          "Wspomagają łączenie pofragmentowanych siedlisk.",
+          "Stymulują naturalny rozrost pokrywy lasów i łąk."
+        ],
+        "answer": "A",
+        "explanation": "Szerokie autostrady i olbrzymie kanały wodne stanowią dla większości fauny nieprzekraczalną barierę, wymuszając konieczność budowy zielonych wiaduktów."
+      },
+      {
+        "question": "W jaki sposób transport drogowy we współczesnym świecie bezpośrednio przyczynia się do masowych zachorowań dzikich zwierząt roślinożernych?",
+        "options": [
+          "Poprzez skażenie przydrożnej roślinności spalinami.",
+          "Poprzez potężny hałas powodujący utratę słuchu.",
+          "Poprzez fizyczne niszczenie ściółki i gniazd ptaków.",
+          "Poprzez blokowanie naturalnych szlaków wędrówek."
+        ],
+        "answer": "A",
+        "explanation": "Zwierzęta spożywające florę zanieczyszczoną toksycznymi spalinami drogowymi ulegają zatruciom, co skutkuje rozwojem groźnych chorób i utratą apetytu."
+      },
+      {
+        "question": "Jaki proces wynikający z masowej turystyki powoduje nieodwracalne zmiany i fizyczną degradację gleby w partiach wysokogórskich?",
+        "options": [
+          "Wydeptywanie szlaków i bezpośrednia dewastacja.",
+          "Składowanie wielkogabarytowych odpadów z hoteli.",
+          "Masowe wyręby lasów pod infrastrukturę narciarską.",
+          "Przenikanie czynników chłodniczych do wód gruntowych."
+        ],
+        "answer": "A",
+        "explanation": "W specyficznych warunkach górskich samo wydeptywanie szlaków przez tłumy turystów prowadzi do niemal nieodwracalnej degradacji wierzchniej warstwy gleby i roślinności."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Transport samochodowy jest głównym źródłem emisji dwutlenku węgla, siarki i pyłów w ogólnym, światowym bilansie zanieczyszczeń atmosfery.",
+        "answer": false,
+        "explanation": "Zanieczyszczenia komunikacyjne nie przeważają w ogólnym bilansie emisji tych substancji do atmosfery, choć na obszarach gęsto zaludnionych miast ruch samochodowy jest ich głównym źródłem."
+      },
+      {
+        "sentence": "Problem presji turystycznej dotyczy w najmniejszym stopniu najcenniejszych przyrodniczo obszarów, ponieważ chroni je rygorystyczne prawo przed napływem odwiedzających.",
+        "answer": false,
+        "explanation": "Problem presji turystycznej w największym stopniu dotyczy najcenniejszych obszarów, ponieważ ze względu na wyjątkową atrakcyjność przyciągają one największą liczbę odwiedzających."
+      },
+      {
+        "sentence": "Zrównoważona turystyka na obszarach chronionych, takich jak Tatrzański Park Narodowy, polega na całkowitym zakazie wstępu turystów w celu ochrony naturalnych ekosystemów.",
+        "answer": false,
+        "explanation": "Zrównoważona turystyka nie polega na zakazie wstępu, lecz na łagodzeniu negatywnego wpływu poprzez kontrolowanie liczby turystów, wydzielanie szlaków oraz stosowanie proekologicznych rozwiązań w infrastrukturze."
+      },
+      {
+        "sentence": "Infrastruktura transportowa na świecie zajmuje około 1% powierzchni lądów, z czego zdecydowana większość przypada na infrastrukturę transportu kolejowego.",
+        "answer": false,
+        "explanation": "Z powierzchni zajmowanej przez wszystkie elementy infrastruktury transportowej na świecie aż dwie trzecie przypada na transport samochodowy, a nie kolejowy."
+      },
+      {
+        "sentence": "Utrzymanie infrastruktury rekreacyjnej, takiej jak pola golfowe na wyspach, generuje problemy ekologiczne głównie ze względu na bardzo wysokie zużycie ograniczonych zasobów słodkiej wody.",
+        "answer": true,
+        "explanation": "Rozwój turystyki i utrzymanie miejsc rekreacji wymaga ogromnych ilości wody, co stanowi największy problem tam, gdzie jej zasoby są ograniczone, m.in. na wyspach."
+      }
+    ]
+  }
+}

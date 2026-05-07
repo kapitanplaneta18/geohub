@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-dz4-t6",
+    "title": "Lasy na Ziemi. Gospodarka leśna",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Wskaźnik lesistości (lesistość)",
+        "definition": "Procentowy udział lasów w ogólnej powierzchni danego obszaru."
+      },
+      {
+        "term": "Leśnictwo",
+        "definition": "Dział gospodarki obejmujący ochronę lasów, ich hodowlę, odnawianie oraz wyrąb."
+      },
+      {
+        "term": "Gospodarka leśna",
+        "definition": "Pojęcie szersze od leśnictwa, obejmujące powiększanie zasobów leśnych, gospodarowanie zwierzyną, pozyskiwanie płodów runa leśnego oraz realizację pozaprodukcyjnych funkcji lasów."
+      },
+      {
+        "term": "Przyrodnicze (ekologiczne) funkcje lasów",
+        "definition": "Funkcje polegające m.in. na pochłanianiu dwutlenku węgla, produkcji tlenu, regulacji stosunków wodnych (retencja), ochronie gleb przed erozją oraz stanowieniu środowiska życia dla wielu gatunków."
+      },
+      {
+        "term": "Społeczne funkcje lasów",
+        "definition": "Funkcje obejmujące m.in. stanowienie miejsca rekreacji i wypoczynku, edukacji ekologicznej, korzystny wpływ na zdrowie ludzi oraz generowanie miejsc pracy."
+      },
+      {
+        "term": "Gospodarcze funkcje lasów",
+        "definition": "Funkcje polegające m.in. na dostarczaniu drewna użytkowego i opałowego, płodów runa leśnego oraz stanowieniu miejsca gospodarki łowieckiej."
+      },
+      {
+        "term": "Deforestacja (wylesianie)",
+        "definition": "Proces wycinania zbyt dużej liczby drzew przez człowieka, skutkujący m.in. erozją gleb, powodziami i wymieraniem organizmów."
+      },
+      {
+        "term": "Zrównoważona gospodarka leśna",
+        "definition": "Wykorzystywanie lasów w sposób zapewniający trwałe zachowanie ich bogactwa biologicznego, produkcyjności oraz możliwości regeneracji, przy jednoczesnym pełnieniu funkcji przyrodniczych, społecznych i gospodarczych."
+      },
+      {
+        "term": "Wilgotne lasy równikowe",
+        "definition": "Jeden z głównych typów lasów na Ziemi, rozwijający się w klimacie gorącym i wilgotnym, który poddawany jest obecnie najintensywniejszej deforestacji."
+      },
+      {
+        "term": "Lasy północne iglaste (tajga)",
+        "definition": "Główna formacja leśna występująca w północnych szerokościach geograficznych, zdominowana przez gatunki iglaste."
+      },
+      {
+        "term": "Lasy liściaste i mieszane strefy umiarkowanej",
+        "definition": "Jeden z głównych typów naturalnych lasów na Ziemi, którego charakterystyczną cechą jest zrzucanie liści na zimę."
+      },
+      {
+        "term": "Górna i północna granica lasu",
+        "definition": "Linia uwarunkowana czynnikami klimatycznymi (niedostatkiem ciepła i światła), powyżej lub na północ od której lasy nie występują w sposób naturalny."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Pochłanianie dwutlenku węgla, produkcja tlenu, skuteczna retencja wód opadowych",
+        "pair2": "Przyrodnicza (ekologiczna) funkcja lasów"
+      },
+      {
+        "pair1": "Miejsce rekreacji i wypoczynku, edukacja ekologiczna, korzystny wpływ na ludzkie zdrowie",
+        "pair2": "Społeczna funkcja lasów"
+      },
+      {
+        "pair1": "Dostarczanie surowca dla przemysłu (np. papier, meble, budownictwo) oraz materiału opałowego",
+        "pair2": "Gospodarcza funkcja lasów"
+      },
+      {
+        "pair1": "Brazylia, Demokratyczna Republika Konga, Indonezja",
+        "pair2": "Państwa o najintensywniejszej deforestacji na świecie"
+      },
+      {
+        "pair1": "Województwo lubuskie i podkarpackie",
+        "pair2": "Obszary odznaczające się najwyższym wskaźnikiem lesistości w Polsce"
+      },
+      {
+        "pair1": "Ameryka Południowa",
+        "pair2": "Kontynent o największej lesistości na świecie"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Czym jest wskaźnik lesistości?",
+        "options": [
+          "Udziałem lasów w ogólnej powierzchni danego terytorium",
+          "Oceną stanu zdrowotnego gatunków drzewiastych w lesie",
+          "Całkowitą powierzchnią rezerwatów na wybranym obszarze",
+          "Ilością pozyskanego surowca drzewnego w danym regionie"
+        ],
+        "answer": "A",
+        "explanation": "Zgodnie z podręcznikiem wskaźnik lesistości to procentowy udział lasów w ogólnej powierzchni danego obszaru."
+      },
+      {
+        "question": "Który kontynent odznacza się najmniejszym udziałem lasów w ogólnej powierzchni?",
+        "options": [
+          "Kontynent afrykański",
+          "Kontynent australijski",
+          "Ameryka Północna",
+          "Ameryka Południowa"
+        ],
+        "answer": "B",
+        "explanation": "Najmniejszą lesistością spośród kontynentów, na skutek dominacji klimatów suchych, odznacza się Australia."
+      },
+      {
+        "question": "Który z podanych przykładów zalicza się do gospodarczych funkcji obszarów leśnych?",
+        "options": [
+          "Utrzymywanie optymalnego poziomu wód gruntowych",
+          "Prowadzenie zorganizowanych zajęć edukacyjnych",
+          "Zabezpieczenie żyznych gleb przed procesem erozji",
+          "Dostarczanie cennego surowca dla branży budowlanej"
+        ],
+        "answer": "D",
+        "explanation": "Dostarczanie drewna użytkowego dla przemysłu i budownictwa to bezpośrednia funkcja gospodarcza lasu."
+      },
+      {
+        "question": "Jakie działanie jest elementem gospodarki leśnej, ale wykracza poza węższe pojęcie leśnictwa?",
+        "options": [
+          "Obejmuje również racjonalne gospodarowanie zwierzyną",
+          "Skupia się wyłącznie na wycince najstarszych drzew",
+          "Ogranicza się jedynie do sadzenia młodych sadzonek",
+          "Odnosi się tylko do pozyskiwania drewna na eksport"
+        ],
+        "answer": "A",
+        "explanation": "Leśnictwo zajmuje się hodowlą i wyrębem, natomiast gospodarka leśna obejmuje też np. gospodarowanie zwierzyną czy płodami runa leśnego."
+      },
+      {
+        "question": "Jaka z głównych formacji leśnych dominuje w północnych, chłodnych szerokościach geograficznych?",
+        "options": [
+          "Bujne wilgotne lasy strefy równikowej",
+          "Sezonowe wilgotne lasy podrównikowe",
+          "Rozległe lasy północne iglaste (tajga)",
+          "Mieszane lasy zrzucające liście na zimę"
+        ],
+        "answer": "C",
+        "explanation": "Lasy północne iglaste, potocznie zwane tajgą, to główna formacja leśna zimnych rejonów półkuli północnej."
+      },
+      {
+        "question": "Które polskie województwo cechuje się współcześnie najniższym wskaźnikiem lesistości?",
+        "options": [
+          "Województwo łódzkie",
+          "Województwo podlaskie",
+          "Województwo pomorskie",
+          "Województwo lubuskie"
+        ],
+        "answer": "A",
+        "explanation": "Zgodnie z danymi statystycznymi przytoczonymi w podręczniku, najniższy wskaźnik lesistości (poniżej 22%) ma województwo łódzkie."
+      },
+      {
+        "question": "W jaki sposób zalesione tereny pełnią swoje istotne przyrodnicze (ekologiczne) funkcje?",
+        "options": [
+          "Generują liczne i wysoce płatne miejsca pracy w regionie",
+          "Pozwalają na masowy zbiór runa z przeznaczeniem na handel",
+          "Skutecznie łagodzą warunki klimatyczne i zmniejszają erozję",
+          "Służą jako popularne obszary komercyjnego wypoczynku ludzi"
+        ],
+        "answer": "C",
+        "explanation": "Łagodzenie klimatu oraz zapobieganie erozji gleb i pustynnieniu to kluczowe ekologiczne (przyrodnicze) funkcje lasów."
+      },
+      {
+        "question": "Co jest główną przyczyną bezleśności w takich krajach jak Arabia Saudyjska, Libia czy Egipt?",
+        "options": [
+          "Skrajnie niskie temperatury powstrzymują cykl wegetacyjny",
+          "Trwały niedobór opadów całkowicie uniemożliwia rozwój lasu",
+          "Wyjątkowo kwaśne gleby nie pozwalają na zakorzenienie drzew",
+          "Masowe i celowe wylesianie pod miejską infrastrukturę drogową"
+        ],
+        "answer": "B",
+        "explanation": "Brak lasów w tych krajach wynika z gorącego i wybitnie suchego klimatu, w którym brakuje opadów do rozwoju drzew."
+      },
+      {
+        "question": "Jak w ostatnich dekadach zmienia się łączna powierzchnia obszarów leśnych w Stanach Zjednoczonych?",
+        "options": [
+          "Ich całkowita powierzchnia powoli i systematycznie się kurczy",
+          "Powierzchnia starych lasów ustępuje miejsca nowym miastom",
+          "Z uwagi na regularne zalesienia ich powierzchnia się powiększa",
+          "Rozmiar terenów leśnych utrzymuje się na stałym poziomie od lat"
+        ],
+        "answer": "C",
+        "explanation": "W Stanach Zjednoczonych, mimo że są one czołowym producentem drewna, od połowy XX w. powierzchnia lasów się zwiększa dzięki zalesieniom."
+      },
+      {
+        "question": "Jak najczęściej zagospodarowuje się drewno współcześnie pozyskiwane w wilgotnych lasach równikowych?",
+        "options": [
+          "Używane jest powszechnie do lokalnego wytwarzania papieru",
+          "Służy za wyłączny surowiec do budowy ekologicznych osiedli",
+          "Dostarcza celulozy na potrzeby światowego przemysłu odzieżowego",
+          "Większość przeznaczana jest na opał, a cenniejsze gatunki na eksport"
+        ],
+        "answer": "D",
+        "explanation": "Podręcznik wskazuje, że w rejonach Amazonii czy Afryki Równikowej drewno służy głównie jako materiał opałowy oraz cenny surowiec eksportowy."
+      },
+      {
+        "question": "Co fizycznie determinuje zasięg górnej i północnej (okołobiegunowej) granicy występowania lasów?",
+        "options": [
+          "Wyraźny niedostatek życiodajnego światła słonecznego oraz ciepła",
+          "Skrajne zanieczyszczenie płytkich wód gruntowych metalami ciężkimi",
+          "Powtarzające się nadmierne sumy opadów atmosferycznych w lecie",
+          "Całkowicie skalista pokrywa pozbawiona makro- i mikroelementów"
+        ],
+        "answer": "A",
+        "explanation": "Klimatyczne czynniki ograniczające, takie jak niskie temperatury i brak wystarczającej ilości słońca, blokują rozwój drzew."
+      },
+      {
+        "question": "W których współczesnych państwach proces wycinania wilgotnych lasów równikowych zachodzi najszybciej?",
+        "options": [
+          "Republika Południowej Afryki, Ekwador oraz wyspiarska Mauretania",
+          "Demokratyczna Republika Konga, dynamiczna Brazylia i Indonezja",
+          "Stany Zjednoczone Ameryki Północnej, Kanada, a także Nowa Zelandia",
+          "Wielka Brytania, surowa Federacja Rosyjska oraz chłodna Szwecja"
+        ],
+        "answer": "B",
+        "explanation": "Państwa te przodują w rankingu deforestacji z uwagi na masowe pozyskiwanie drewna tropikalnego oraz terenów pod rolnictwo."
+      },
+      {
+        "question": "Jakie są najpoważniejsze, bezpośrednie skutki środowiskowe długotrwałej rabunkowej gospodarki leśnej?",
+        "options": [
+          "Globalne i równomierne obniżenie średniej temperatury na całej planecie",
+          "Trwałe powstrzymanie ubożenia wierzchniej warstwy gleb uprawnych",
+          "Groźne nasilenie erozji gleb oraz wyraźnie zwiększone ryzyko powodzi",
+          "Ograniczenie szkodliwego zjawiska pustynnienia na suchych kontynentach"
+        ],
+        "answer": "C",
+        "explanation": "Rabunkowa wycinka niszczy warstwę glebową, osłabiając retencję, co skutkuje powszechną erozją i zwiększonym zagrożeniem powodziowym."
+      },
+      {
+        "question": "Co stanowi zasadniczy cel i fundament prowadzenia zrównoważonej gospodarki leśnej we współczesnym świecie?",
+        "options": [
+          "Radykalny i bezwzględny zakaz wycinania jakichkolwiek starych drzew",
+          "Maksymalizacja krótkoterminowych korzyści dla lokalnych przedsiębiorstw",
+          "Całkowite przeniesienie odpowiedzialności produkcyjnej na kraje uboższe",
+          "Zapewnienie biologicznej regeneracji przy jednoczesnym pełnieniu funkcji"
+        ],
+        "answer": "D",
+        "explanation": "Gospodarka zrównoważona opiera się na umiejętnym łączeniu celów gospodarczych, ekologicznych i społecznych przy zachowaniu produkcyjności."
+      },
+      {
+        "question": "Jakie działanie ochronne uwzględnia prawno-społeczny wymiar zaleceń zrównoważonej gospodarki leśnej?",
+        "options": [
+          "Zapewnienie ludności rdzennej nienaruszalnego prawa korzystania z lasu",
+          "Ograniczenie naturalnego ruchu turystycznego do absolutnego minimum",
+          "Nakaz obsadzania terenów wyłącznie gatunkami o szybkim tempie wzrostu",
+          "Skupienie całej krajowej produkcji leśnej wyłącznie na drewnie opałowym"
+        ],
+        "answer": "A",
+        "explanation": "Jednym z fundamentów zrównoważonej opieki nad lasami jest przestrzeganie praw tradycyjnych mieszkańców do korzystania z tych ekosystemów."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Mimo że Stany Zjednoczone są największym na świecie producentem i eksporterem drewna, powierzchnia lasów w tym kraju systematycznie się powiększa od połowy XX wieku.",
+        "answer": true,
+        "explanation": "Zgodnie z podręcznikiem, dzięki zrównoważonej gospodarce leśnej i regularnym zalesieniom, powierzchnia lasów w USA stale rośnie pomimo intensywnej eksploatacji gospodarczej tych zasobów."
+      },
+      {
+        "sentence": "Pojęcia „leśnictwo” oraz „gospodarka leśna” są synonimami i oznaczają wyłącznie procesy związane z hodowlą, ochroną oraz wyrębem drzew.",
+        "answer": false,
+        "explanation": "Gospodarka leśna to pojęcie znacznie szersze od leśnictwa. Obejmuje również m.in. gospodarowanie zwierzyną, pozyskiwanie płodów runa leśnego i realizację pozaprodukcyjnych funkcji lasów."
+      },
+      {
+        "sentence": "Zbieranie grzybów, jagód oraz innych płodów runa leśnego na sprzedaż stanowi ważny element przyrodniczych funkcji lasu.",
+        "answer": false,
+        "explanation": "Dostarczanie płodów runa leśnego (np. owoców, grzybów) jest bezpośrednio zaliczane do gospodarczych, a nie przyrodniczych (ekologicznych), funkcji lasów."
+      },
+      {
+        "sentence": "Od zakończenia II wojny światowej lesistość w Polsce systematycznie maleje z powodu gwałtownego rozwoju przestrzennego miast i przemysłu.",
+        "answer": false,
+        "explanation": "Wbrew pozorom, powierzchnia lasów w Polsce od zakończenia II wojny światowej systematycznie się zwiększa i wynosi obecnie około 29,6% powierzchni kraju."
+      },
+      {
+        "sentence": "Głównym powodem wylesiania obszarów wilgotnych lasów równikowych w Brazylii jest wyłącznie pozyskiwanie cennego drewna, takiego jak mahoń, dla przemysłu i na eksport.",
+        "answer": false,
+        "explanation": "Choć pozyskuje się tam cenne drewno na eksport, lasy Amazonii w Brazylii ulegają deforestacji w znacznej mierze poprzez przekształcanie ich w użytki rolne (np. wielkoobszarowe farmy i pastwiska), co wynika z rosnącego zapotrzebowania na żywność."
+      },
+      {
+        "sentence": "Główną przyczyną występowania górnej oraz północnej (okołobiegunowej) granicy występowania lasów jest chroniczna i trwała susza uwarunkowana zmianami klimatycznymi.",
+        "answer": false,
+        "explanation": "Górna i okołobiegunowa granica lasu wynika bezpośrednio z niedostatecznej ilości ciepła i światła słonecznego. Brak opadów atmosferycznych ogranicza lasy na obszarach gorących i suchych."
+      },
+      {
+        "sentence": "Generowanie nowych miejsc pracy przez sektor gospodarki leśnej, który w Polsce zatrudnia około 50 tysięcy osób, podręcznik zalicza do społecznych funkcji lasu.",
+        "answer": true,
+        "explanation": "Tworzenie miejsc pracy jest elementem społecznych funkcji lasów, obok edukacji ekologicznej, rekreacji czy korzystnego wpływu na ludzkie zdrowie."
+      },
+      {
+        "sentence": "Zrównoważona gospodarka leśna zakłada całkowity zakaz ingerencji człowieka w ekosystemy leśne, co oznacza między innymi odbieranie rdzennej ludności prawa do tradycyjnego korzystania z ich zasobów.",
+        "answer": false,
+        "explanation": "Zrównoważona gospodarka nie oznacza całkowitego zakazu ingerencji. Wręcz przeciwnie, jednym z jej filarów, uwarunkowanym w przepisach, jest przestrzeganie i gwarancja prawa rdzennej ludności do korzystania z zasobów leśnych."
+      },
+      {
+        "sentence": "Spośród wszystkich kontynentów na kuli ziemskiej najmniejszym udziałem obszarów leśnych w ogólnej powierzchni odznacza się współcześnie Australia.",
+        "answer": true,
+        "explanation": "Zgodnie z informacjami źródłowymi, Ameryka Południowa wykazuje największą lesistość, natomiast Australia ma najniższy wskaźnik lesistości na świecie."
+      },
+      {
+        "sentence": "Większość drewna pozyskiwanego podczas masowej deforestacji wilgotnych lasów równikowych, np. w Demokratycznej Republice Konga, jest wykorzystywana na całym świecie do produkcji najwyższej jakości mebli.",
+        "answer": false,
+        "explanation": "Podręcznik jednoznacznie wskazuje, że większość drewna pozyskiwanego w rejonach wilgotnych lasów równikowych (np. DR Konga, Brazylia, Indonezja) przeznaczana jest lokalnie na opał, a jedynie nieliczne, najcenniejsze gatunki eksportuje się do innych zastosowań."
+      }
+    ]
+  }
+}

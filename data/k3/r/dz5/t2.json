@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz5-t2",
+                     "title":  "Rolnictwo ekologiczne",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Rolnictwo ekologiczne",
+                                              "definition":  "Sposób gospodarowania zakładający pełną współpracę z naturą, rezygnację z chemii rolnej i GMO, mający na celu produkcję wysokiej jakości żywności przy minimalnym wpływie na środowisko."
+                                          },
+                                          {
+                                              "term":  "Euroliść",
+                                              "definition":  "Unijne logo produktów ekologicznych w postaci liścia ułożonego z 12 białych gwiazdek na zielonym tle, gwarantujące, że produkt pochodzi z certyfikowanego gospodarstwa."
+                                          },
+                                          {
+                                              "term":  "Nawozy naturalne",
+                                              "definition":  "Nawozy organiczne (np. obornik, kompost, mączka skalna) stosowane w rolnictwie ekologicznym zamiast nawozów sztucznych w celu użyźniania gleby."
+                                          },
+                                          {
+                                              "term":  "GMO (Organizmy Modyfikowane Genetycznie)",
+                                              "definition":  "Organizmy, których stosowanie jest całkowicie zakazane w rolnictwie ekologicznym, zarówno w uprawie roślin, jak i w paszach dla zwierząt."
+                                          },
+                                          {
+                                              "term":  "Certyfikat rolnictwa ekologicznego",
+                                              "definition":  "Dokument przyznawany gospodarstwu po pozytywnej kontroli, uprawniający do znakowania produktów jako ekologiczne; kontrola odbywa się co najmniej raz w roku."
+                                          },
+                                          {
+                                              "term":  "Płodozmian",
+                                              "definition":  "Cykliczna zmiana gatunków uprawianych roślin na jednym polu, stosowana w rolnictwie ekologicznym w celu naturalnego utrzymania żyzności gleby i ochrony przed szkodnikami."
+                                          },
+                                          {
+                                              "term":  "Rolnictwo konwencjonalne",
+                                              "definition":  "Przemysłowy typ rolnictwa nastawiony na zysk, wykorzystujący pestycydy, nawozy sztuczne i antybiotyki, co odróżnia je od rolnictwa ekologicznego."
+                                          },
+                                          {
+                                              "term":  "Żywność ekologiczna",
+                                              "definition":  "Produkty wolne od zanieczyszczeń chemicznych, antybiotyków i hormonów, charakteryzujące się wyższą wartością odżywczą i brakiem sztucznych konserwantów."
+                                          },
+                                          {
+                                              "term":  "Mechaniczne odchwaszczanie",
+                                              "definition":  "Metoda usuwania chwastów bez użycia herbicydów (środków chwastobójczych), np. za pomocą specjalnych maszyn, wymagana w uprawach ekologicznych."
+                                          },
+                                          {
+                                              "term":  "Chów wolnowybiegowy",
+                                              "definition":  "System utrzymania zwierząt zapewniający im dostęp do pastwisk i wybiegów, co jest wymogiem dla dobrostanu zwierząt w gospodarstwach ekologicznych."
+                                          },
+                                          {
+                                              "term":  "Zamknięty obieg materii",
+                                              "definition":  "Model gospodarowania, w którym uprawy stanowią paszę dla zwierząt, a odchody zwierząt są wykorzystywane jako nawóz, co jest łatwiejsze w gospodarstwach mieszanych."
+                                          },
+                                          {
+                                              "term":  "Regiony liderów ekologii",
+                                              "definition":  "Województwa warmińsko-mazurskie, zachodniopomorskie i podlaskie, gdzie znajduje się najwięcej gospodarstw ekologicznych ze względu na czyste środowisko i duży potencjał rolniczy."
+                                          },
+                                          {
+                                              "term":  "Bioprodukt (Produkt Bio/Eko)",
+                                              "definition":  "Nazwa zastrzeżona dla artykułów rolno-spożywczych wytworzonych zgodnie z rygorystycznymi normami rolnictwa ekologicznego i posiadających certyfikat."
+                                          },
+                                          {
+                                              "term":  "Struktura upraw ekologicznych",
+                                              "definition":  "W Polsce dominują w niej zboża oraz rośliny na paszę, a także łąki i pastwiska, co wynika z potrzebami żywieniowych zwierząt hodowanych ekologicznie."
+                                          },
+                                          {
+                                              "term":  "Ekoznaki",
+                                              "definition":  "Dodatkowe symbole (np. Ekoland) umieszczane na produktach obok logo UE, świadczące o spełnieniu przez producenta określonych norm środowiskowych."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Logo „Euroliść” (zielony liść z gwiazdek)",
+                                                 "pair2":  "Gwarancja, że produkt pochodzi z kontrolowanego gospodarstwa ekologicznego"
+                                             },
+                                             {
+                                                 "pair1":  "Województwo warmińsko-mazurskie i zachodniopomorskie",
+                                                 "pair2":  "Największa liczba i powierzchnia gospodarstw ekologicznych w Polsce"
+                                             },
+                                             {
+                                                 "pair1":  "Województwo śląskie i opolskie",
+                                                 "pair2":  "Najmniejsza liczba gospodarstw ekologicznych w kraju"
+                                             },
+                                             {
+                                                 "pair1":  "Wyższe ceny żywności ekologicznej",
+                                                 "pair2":  "Skutek niższych plonów, dużej pracochłonności i kosztownego przetwórstwa"
+                                             },
+                                             {
+                                                 "pair1":  "Zakaz stosowania pestycydów i herbicydów",
+                                                 "pair2":  "Konieczność mechanicznego odchwaszczania i naturalnej ochrony roślin"
+                                             },
+                                             {
+                                                 "pair1":  "Wejście Polski do Unii Europejskiej (2004)",
+                                                 "pair2":  "Gwałtowny wzrost liczby gospodarstw ekologicznych dzięki systemowi dopłat"
+                                             },
+                                             {
+                                                 "pair1":  "Stosowanie płodozmianu i nawozów naturalnych",
+                                                 "pair2":  "Podstawowa metoda utrzymania żyzności gleby w rolnictwie ekologicznym"
+                                             },
+                                             {
+                                                 "pair1":  "Gospodarstwa o profilu mieszanym (roślinno-zwierzęcym)",
+                                                 "pair2":  "Łatwiejsze utrzymanie zamkniętego obiegu materii przyjaznego środowisku"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaki symbol graficzny gwarantuje, że produkt spożywczy pochodzi z certyfikowanego gospodarstwa ekologicznego w Unii Europejskiej?",
+                                      "options":  [
+                                                      "Znak \u0027Teraz Polska\u0027 z czerwonym konturem, promujący produkty krajowe.",
+                                                      "Zielony liść ułożony z 12 białych gwiazdek na zielonym tle.",
+                                                      "Niebieski znak z kłosem zboża, oznaczający produkty bezglutenowe.",
+                                                      "Symbol recyklingu na opakowaniu, wskazujący na możliwość przetworzenia."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Znak ten („Euroliść”) jest obowiązkowy na wszystkich paczkowanych produktach ekologicznych wytworzonych w UE i gwarantuje spełnienie surowych norm."
+                                  },
+                                  {
+                                      "question":  "Czego bezwzględnie nie wolno stosować w rolnictwie ekologicznym?",
+                                      "options":  [
+                                                      "Nawozów naturalnych takich jak obornik i kompost, pochodzących z gospodarstwa.",
+                                                      "Płodozmianu, czyli systematycznego zmianowania roślin na polach w wieloletnich cyklach.",
+                                                      "Syntetycznych środków ochrony roślin (pestycydów) i organizmów modyfikowanych genetycznie (GMO).",
+                                                      "Tradycyjnych i nowoczesnych maszyn rolniczych służących do mechanicznego zbioru plonów."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Rolnictwo ekologiczne opiera się na naturalnych metodach ochrony roślin i nawożenia, wykluczając chemię rolną i inżynierię genetyczną."
+                                  },
+                                  {
+                                      "question":  "Jaki jest główny cel rolnictwa ekologicznego w odniesieniu do środowiska?",
+                                      "options":  [
+                                                      "Dążenie do maksymalizacji wydajności i plonów z hektara za wszelką cenę, ignorując koszty ekologiczne.",
+                                                      "Całkowita eliminacja pracy ludzkiej na rzecz w pełni zautomatyzowanych i robotycznych systemów upraw.",
+                                                      "Osiąganie jak najwyższych zysków finansowych kosztem jakości produktów.",
+                                                      "Pełna współpraca z naturą i minimalizowanie negatywnego wpływu na środowisko."
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Ekologia w rolnictwie dąży do zachowania bioróżnorodności, ochrony gleb i wód oraz dobrostanu zwierząt."
+                                  },
+                                  {
+                                      "question":  "W których województwach Polski odnotowuje się największą liczbę i powierzchnię gospodarstw ekologicznych?",
+                                      "options":  [
+                                                      "Śląskim i Opolskim, gdzie dominują gospodarstwa intensywne.",
+                                                      "Warmińsko-Mazurskim i Zachodniopomorskim.",
+                                                      "Małopolskim i Podkarpackim, mimo dużego rozdrobnienia gruntów.",
+                                                      "Łódzkim i Świętokrzyskim, leżących w centrum kraju."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Województwa północne posiadają duże powierzchnie gruntów (często popegeerowskich), co sprzyja ekstensywnej produkcji ekologicznej."
+                                  },
+                                  {
+                                      "question":  "Jaka grupa upraw dominuje w strukturze zasiewów w polskich gospodarstwach ekologicznych?",
+                                      "options":  [
+                                                      "Intensywne uprawy warzyw i owoców pod osłonami.",
+                                                      "Zboża i rośliny na paszę.",
+                                                      "Rośliny przemysłowe (np. rzepak) przeznaczone na biopaliwa.",
+                                                      "Zioła i rośliny lecznicze uprawiane na eksport."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zboża stanowią podstawę płodozmianu, a rośliny paszowe są niezbędne w gospodarstwach posiadających inwentarz lub jako nawóz zielony."
+                                  },
+                                  {
+                                      "question":  "Jaki czynnik po roku 2004 miał decydujący wpływ na gwałtowny rozwój rolnictwa ekologicznego w Polsce?",
+                                      "options":  [
+                                                      "Globalne ocieplenie klimatu, które wymusiło zmianę metod gospodarowania.",
+                                                      "Przystąpienie Polski do UE i dostęp do unijnych dopłat.",
+                                                      "Całkowity zakaz prowadzenia rolnictwa konwencjonalnego na terenie kraju.",
+                                                      "Drastyczny spadek cen żywności ekologicznej poniżej cen żywności konwencjonalnej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dopłaty obszarowe dla rolników ekologicznych stały się silną zachętą ekonomiczną, powodując kilkukrotny wzrost liczby takich gospodarstw."
+                                  },
+                                  {
+                                      "question":  "Jaką metodę utrzymania żyzności gleby stosuje się w rolnictwie ekologicznym zamiast nawozów sztucznych?",
+                                      "options":  [
+                                                      "Intensywne nawadnianie pól uprawnych wodą chlorowaną pochodzącą bezpośrednio z sieci wodociągowej.",
+                                                      "Stosowanie monokultury, czyli wieloletniej uprawy tego samego gatunku rośliny na tym samym stanowisku.",
+                                                      "Płodozmian i nawozy naturalne (obornik, kompost).",
+                                                      "Regularne wypalanie traw i ściernisk po zbiorach."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Płodozmian zapobiega wyjałowieniu gleby, a nawozy organiczne dostarczają próchnicy, co jest fundamentem ekologii."
+                                  },
+                                  {
+                                      "question":  "Co spowodowało spadek liczby gospodarstw ekologicznych w Polsce po roku 2013?",
+                                      "options":  [
+                                                      "Całkowity brak popytu na żywność ekologiczną w kraju i za granicą.",
+                                                      "Całkowite wyczerpanie się gleb przydatnych pod uprawy ekologiczne.",
+                                                      "Częste zmiany przepisów i procedur związanych z dopłatami.",
+                                                      "Masowa emigracja wszystkich rolników do krajów Europy Zachodniej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Zaostrzenie wymogów kontrolnych i biurokracja zniechęciły część rolników, którzy nastawieni byli głównie na pobieranie dopłat."
+                                  },
+                                  {
+                                      "question":  "Jaki wymóg dotyczy chowu zwierząt w gospodarstwach ekologicznych?",
+                                      "options":  [
+                                                      "Zwierzęta muszą być utrzymywane przez cały rok w zamkniętych pomieszczeniach inwentarskich (system bezściołowy).",
+                                                      "Należy rutynowo stosować antybiotyki oraz hormony wzrostu w celu przyspieszenia przyrostu masy ciała zwierząt.",
+                                                      "Należy prowadzić chów wolnowybiegowy z dostępem do pastwisk.",
+                                                      "Zwierzęta mogą być karmione paszami zawierającymi GMO."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Dobrostan zwierząt jest kluczowy; muszą one mieć zapewnioną swobodę ruchu, dostęp do wybiegów i naturalną paszę."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób rolnictwo ekologiczne przyczynia się do łagodzenia skutków zmian klimatu?",
+                                      "options":  [
+                                                      "Poprzez drastyczne zwiększanie emisji gazów cieplarnianych przez ciężkie maszyny.",
+                                                      "Dzięki dbałości o bioróżnorodność i strukturę gleby, co ułatwia adaptację do suszy.",
+                                                      "Poprzez całkowite zabetonowanie gruntów ornych w celu ochrony przed erozją.",
+                                                      "Dzięki stosowaniu ogromnych ilości nawozów azotowych, które wiążą węgiel."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gleby bogate w materię organiczną (próchnicę) lepiej magazynują wodę, co jest kluczowe w okresach niedoboru opadów."
+                                  },
+                                  {
+                                      "question":  "Dlaczego gospodarstwa ekologiczne o profilu mieszanym (roślinno-zwierzęcym) są korzystniejsze dla środowiska niż te wyłącznie roślinne?",
+                                      "options":  [
+                                                      "Ponieważ generują one znacznie większy zysk finansowy przy mniejszym nakładzie pracy.",
+                                                      "Ponieważ łatwiej w nich utrzymać zamknięty obieg materii (pasza-nawóz).",
+                                                      "Ponieważ nie wymagają one żadnych kontroli ani certyfikacji ze strony jednostek.",
+                                                      "Ponieważ zużywają one znacznie więcej paliw kopalnych do ogrzewania budynków."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W gospodarstwach mieszanych obornik od zwierząt użyźnia pola, a pola dają paszę dla zwierząt, co uniezależnia rolnika od zakupu nawozów z zewnątrz."
+                                  },
+                                  {
+                                      "question":  "Co jest główną przyczyną wyższej ceny żywności ekologicznej w porównaniu do konwencjonalnej?",
+                                      "options":  [
+                                                      "Wyłącznie bardzo wysoka marża supermarketów, niezależna od kosztów produkcji.",
+                                                      "Niższe plony (brak chemii) oraz wyższe koszty przetwarzania i pracochłonność.",
+                                                      "Konieczność opłacania bardzo drogich kampanii reklamowych w telewizji.",
+                                                      "Wysokie opłaty celne za import produktów z egzotycznych krajów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ekologia wymaga więcej pracy ręcznej (np. plewienie) i daje mniejsze plony z hektara, co musi zostać zrekompensowane w cenie produktu."
+                                  },
+                                  {
+                                      "question":  "Jak wygląda proces kontroli gospodarstwa ekologicznego w celu utrzymania certyfikatu?",
+                                      "options":  [
+                                                      "Certyfikat jest przyznawany raz na całe życie bez konieczności dalszych kontroli.",
+                                                      "Kontrola odbywa się tylko i wyłącznie w momencie zakładania gospodarstwa.",
+                                                      "Gospodarstwo jest kontrolowane co najmniej raz w roku, a certyfikat może zostać cofnięty.",
+                                                      "Rolnik sam wysyła oświadczenie o braku stosowania pestycydów, bez wizytacji."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Jednostki certyfikujące przeprowadzają regularne audyty, w tym pobieranie próbek gleby i produktów, aby zapewnić zgodność z normami UE."
+                                  },
+                                  {
+                                      "question":  "Dlaczego struktura produkcji w polskich gospodarstwach ekologicznych (dominacja produkcji roślinnej) może stanowić wyzwanie?",
+                                      "options":  [
+                                                      "Ponieważ produkcja roślinna jest całkowicie zakazana w rolnictwie ekologicznym.",
+                                                      "Ponieważ prawie 90% gospodarstw nie prowadzi chowu zwierząt, co utrudnia naturalne nawożenie.",
+                                                      "Ponieważ Polska nie ma odpowiednich warunków klimatycznych do uprawy zbóż.",
+                                                      "Ponieważ produkcja zwierzęca jest w Polsce całkowicie nieopłacalna z powodu braku pasz."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Brak zwierząt w gospodarstwie ekologicznym zmusza rolnika do zakupu nawozów organicznych z zewnątrz lub stosowania drogich zamienników, co utrudnia bilansowanie materii."
+                                  },
+                                  {
+                                      "question":  "Jakie produkty dominują w eksporcie polskiego rolnictwa ekologicznego?",
+                                      "options":  [
+                                                      "Wysoko przetworzone dania gotowe, takie jak mrożonki czy konserwy.",
+                                                      "Głównie nieprzetworzone surowce (zboża, owoce, warzywa).",
+                                                      "Ekskluzywne sery pleśniowe i wędliny dojrzewające.",
+                                                      "Nowoczesne maszyny rolnicze przeznaczone do upraw ekologicznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Polska eksportuje głównie surowce (np. mrożone owoce miękkie, zboża), a importuje produkty przetworzone, co jest cechą mniej rozwiniętego rynku."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Termin „zdrowa żywność” jest w świetle prawa tożsamy z terminem „żywność ekologiczna” i oba wymagają certyfikatu.",
+                                           "answer":  false,
+                                           "explanation":  "Tylko żywność pochodząca z certyfikowanych gospodarstw (poddanych kontroli) może być legalnie nazywana ekologiczną, biologiczną lub organiczną; termin „zdrowa żywność” jest marketingowy i nie podlega tak ścisłym regulacjom."
+                                       },
+                                       {
+                                           "sentence":  "W rolnictwie ekologicznym całkowicie zabronione jest stosowanie organizmów modyfikowanych genetycznie (GMO).",
+                                           "answer":  true,
+                                           "explanation":  "Jedną z głównych zasad rolnictwa ekologicznego jest niestosowanie GMO zarówno w uprawie roślin, jak i w paszach dla zwierząt."
+                                       },
+                                       {
+                                           "sentence":  "Województwo opolskie i śląskie należą do regionów o największej liczbie gospodarstw ekologicznych w Polsce.",
+                                           "answer":  false,
+                                           "explanation":  "Województwa te mają najmniej gospodarstw ekologicznych; liderami są województwa warmińsko-mazurskie, zachodniopomorskie i podlaskie."
+                                       },
+                                       {
+                                           "sentence":  "Plony uzyskiwane w rolnictwie ekologicznym są zazwyczaj niższe niż w rolnictwie konwencjonalnym.",
+                                           "answer":  true,
+                                           "explanation":  "Niższe plony wynikają z niestosowania chemicznych środków ochrony roślin oraz sztucznego nawożenia, co jest jedną z przyczyn wyższej ceny produktów ekologicznych."
+                                       },
+                                       {
+                                           "sentence":  "Każdy produkt sprzedawany bezpośrednio przez rolnika na bazarze jest automatycznie produktem ekologicznym.",
+                                           "answer":  false,
+                                           "explanation":  "Aby produkt mógł być uznany za ekologiczny i oznaczony unijnym logo („Euroliściem”), gospodarstwo musi przejść kontrolę i uzyskać certyfikat, niezależnie od miejsca sprzedaży."
+                                       },
+                                       {
+                                           "sentence":  "Stosowanie płodozmianu (cyklicznych zmian upraw) jest obowiązkową praktyką w rolnictwie ekologicznym.",
+                                           "answer":  true,
+                                           "explanation":  "Płodozmian jest kluczową metodą naturalnego utrzymania żyzności gleby i ochrony przed szkodnikami w systemie ekologicznym."
+                                       },
+                                       {
+                                           "sentence":  "W gospodarstwach ekologicznych dopuszcza się stosowanie syntetycznych nawozów mineralnych w ograniczonych ilościach.",
+                                           "answer":  false,
+                                           "explanation":  "Stosuje się głównie nawozy organiczne (obornik, kompost) wytworzone w gospodarstwie; nawozy mineralne są dozwolone tylko jeśli są pochodzenia naturalnego (np. mączka skalna), a syntetyczne są zakazane."
+                                       },
+                                       {
+                                           "sentence":  "Chów zwierząt w systemie ekologicznym wymaga zapewnienia im dostępu do wybiegów i pastwisk.",
+                                           "answer":  true,
+                                           "explanation":  "Rolnictwo ekologiczne wymaga prowadzenia chowu wolnowybiegowego i dbałości o dobrostan zwierząt."
+                                       },
+                                       {
+                                           "sentence":  "Żywność ekologiczna jest tańsza od konwencjonalnej, ponieważ rolnik nie wydaje pieniędzy na opryski.",
+                                           "answer":  false,
+                                           "explanation":  "Żywność ta jest droższa z powodu niższych plonów, większej pracochłonności upraw (np. mechaniczne odchwaszczanie) oraz wyższych kosztów przetwórstwa."
+                                       },
+                                       {
+                                           "sentence":  "Polskie rolnictwo ekologiczne jest zdominowane przez produkcję zwierzęcą.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie – polskie rolnictwo ekologiczne specjalizuje się w produkcji roślinnej, którą zajmuje się niemal 90% gospodarstw."
+                                       },
+                                       {
+                                           "sentence":  "Rolnictwo ekologiczne jest uważane za bardziej odporne na zmiany klimatu niż rolnictwo konwencjonalne.",
+                                           "answer":  true,
+                                           "explanation":  "Dzięki dbałości o glebę, zasoby wodne i bioróżnorodność, systemy ekologiczne lepiej adaptują się do niekorzystnych warunków środowiskowych, takich jak susze."
+                                       },
+                                       {
+                                           "sentence":  "Producent żywności ekologicznej może stosować sztuczne barwniki i konserwanty, aby poprawić wygląd produktu.",
+                                           "answer":  false,
+                                           "explanation":  "Żywność ekologiczna nie zawiera niepożądanych substancji chemicznych, takich jak sztuczne barwniki czy konserwanty, co może wpływać na jej krótszy termin przydatności."
+                                       }
+                                   ]
+                 }
+}

@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz4-t3",
+    "title": "Rolnictwo uprzemysłowione i rolnictwo ekologiczne",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rolnictwo uprzemysłowione",
+        "definition": "Typ rolnictwa charakterystyczny dla państw wysoko rozwiniętych, odznaczający się nieustannym postępem technologicznym, dużą wydajnością, mechanizacją i chemizacją."
+      },
+      {
+        "term": "Cechy rolnictwa uprzemysłowionego",
+        "definition": "Wprowadzanie wydajniejszych odmian roślin i ras zwierząt, nawozów sztucznych, pestycydów, zabiegów weterynaryjnych oraz komputeryzacji (np. nawigacji GPS w maszynach)."
+      },
+      {
+        "term": "Rolnictwo ekologiczne",
+        "definition": "Sposób gospodarowania, w którym nie stosuje się nawozów sztucznych, chemicznych środków ochrony roślin ani substancji przyspieszających przyrost masy zwierząt."
+      },
+      {
+        "term": "Zasady rolnictwa ekologicznego",
+        "definition": "Opiera się na trzech zasadach: zwiększaniu urodzajności gleby naturalnymi metodami, utrzymywaniu różnorodności biologicznej oraz dbałości o równowagę paszowo-nawozową."
+      },
+      {
+        "term": "GMO",
+        "definition": "Organizmy zmodyfikowane genetycznie (Genetically Modified Organisms), posiadające zmienione geny w celu uzyskania pożądanych cech, np. odporności na szkodniki czy herbicydy."
+      },
+      {
+        "term": "Państwa z największym areałem upraw GMO",
+        "definition": "Zdecydowanie największe uprawy znajdują się w Stanach Zjednoczonych, a także w Brazylii, Argentynie, Kanadzie oraz w Indiach."
+      },
+      {
+        "term": "Chemizacja rolnictwa",
+        "definition": "Powszechne stosowanie chemicznych środków ochrony roślin i nawozów sztucznych, które umożliwiają wysokie plony, ale powodują zanieczyszczenie środowiska."
+      },
+      {
+        "term": "Eutrofizacja wód",
+        "definition": "Proces przeżyźnienia wód spowodowany spływem nawozów z pól uprawnych, stanowiący jeden z negatywnych ekologicznych skutków chemizacji rolnictwa."
+      },
+      {
+        "term": "Mechanizacja rolnictwa",
+        "definition": "Zastępowanie pracy ludzkiej maszynami, co zwiększa efektywność produkcji, ale skutkuje wzrostem zużycia paliw, zanieczyszczenia powietrza i bezrobocia na wsi."
+      },
+      {
+        "term": "Wpływ rolnictwa wielkoobszarowego (monokultur) na środowisko",
+        "definition": "Prowadzi do wyjałowienia gleby, zmniejszenia bioróżnorodności oraz zwiększa prawdopodobieństwo rozprzestrzeniania się chorób roślin i zwierząt."
+      },
+      {
+        "term": "Niewłaściwa melioracja",
+        "definition": "Nieodpowiednio prowadzona regulacja stosunków wodnych, która może doprowadzić do wyjałowienia gleb poprzez ich niewłaściwe nawodnienie bądź zbytnie wysuszenie."
+      },
+      {
+        "term": "Równowaga paszowo-nawozowa (zamknięty obieg)",
+        "definition": "Zasada rolnictwa ekologicznego polegająca na użyźnianiu gleby nawozem wytwarzanym przez zwierzęta żyjące w gospodarstwie, karmione uprawianymi tam roślinami."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Użyźnianie gleby nawozami odzwierzęcymi i dbałość o bioróżnorodność",
+        "pair2": "Rolnictwo ekologiczne"
+      },
+      {
+        "pair1": "Stosowanie zdjęć satelitarnych, odbiorników GPS i sztucznych nawozów",
+        "pair2": "Rolnictwo uprzemysłowione"
+      },
+      {
+        "pair1": "Nadmierna chemizacja rolnictwa",
+        "pair2": "Zanieczyszczenie gleb oraz przeżyźnienie (eutrofizacja) wód i wymieranie organizmów wodnych"
+      },
+      {
+        "pair1": "Specjalizacja i tworzenie gospodarstw wielkoobszarowych (monokultur)",
+        "pair2": "Zmniejszanie się bioróżnorodności i wyjałowienie gleb"
+      },
+      {
+        "pair1": "Zastępowanie pracy ludzi pracą wydajnych maszyn rolniczych",
+        "pair2": "Wzrost bezrobocia na wsi, większe zużycie paliw i zanieczyszczenie powietrza"
+      },
+      {
+        "pair1": "Modyfikacja genów w celu zwiększenia odporności na owady, wirusy i herbicydy",
+        "pair2": "Uprawa roślin GMO (organizmów zmodyfikowanych genetycznie)"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jakim terminem określa się organizmy, których geny zmieniono celowo dla uzyskania pożądanych cech?",
+        "options": [
+          "Organizmy sklonowane laboratoryjnie",
+          "Organizmy zmodyfikowane genetycznie",
+          "Organizmy wyselekcjonowane krzyżowo",
+          "Organizmy certyfikowane ekologicznie"
+        ],
+        "answer": "B",
+        "explanation": "Według podręcznika organizmy, w których zmieniono pewne geny w celu uzyskania cech takich jak odporność na szkodniki czy większa trwałość, określane są jako GMO (Organizmy Zmodyfikowane Genetycznie)."
+      },
+      {
+        "question": "Czego bezwzględnie nie stosuje się w gospodarstwach prowadzących rolnictwo ekologiczne?",
+        "options": [
+          "Naturalnych nawozów organicznych",
+          "Sztucznych środków ochrony roślin",
+          "Metod zwiększających urodzajność",
+          "Zabiegów ochrony bioróżnorodności"
+        ],
+        "answer": "B",
+        "explanation": "Rolnictwo ekologiczne z definicji polega na rezygnacji ze stosowania chemicznych nawozów, sztucznych środków ochrony roślin (pestycydów) oraz substancji przyspieszających wzrost zwierząt."
+      },
+      {
+        "question": "Na czym polega zasada zamkniętego obiegu (równowagi paszowo-nawozowej) w rolnictwie ekologicznym?",
+        "options": [
+          "Ciągłym sprowadzaniu paszy z obcych rynków",
+          "Masowym nawożeniu gleb związkami chemicznymi",
+          "Użyźnianiu ziemi nawozem własnych zwierząt",
+          "Kupowaniu gotowych nawozów w dużych hurtowniach"
+        ],
+        "answer": "C",
+        "explanation": "Zasada równowagi paszowo-nawozowej w rolnictwie ekologicznym polega na użyźnianiu gleby nawozem wytwarzanym przez zwierzęta hodowane w danym gospodarstwie, które są karmione roślinami tam uprawianymi."
+      },
+      {
+        "question": "W którym z poniższych państw znajduje się zdecydowanie największy areał upraw roślin GMO na świecie?",
+        "options": [
+          "Stany Zjednoczone",
+          "Federacja Rosyjska",
+          "Republika Francuska",
+          "Zjednoczone Emiraty"
+        ],
+        "answer": "A",
+        "explanation": "Zgodnie z danymi w podręczniku, z łącznego obszaru 189,8 mln ha upraw GMO (w 2017 r.), aż 75 mln ha znajdowało się w Stanach Zjednoczonych, co czyni je niekwestionowanym liderem."
+      },
+      {
+        "question": "Które z wymienionych zjawisk jest bezpośrednim negatywnym skutkiem mechanizacji rolnictwa uprzemysłowionego?",
+        "options": [
+          "Zmniejszenie zagrożenia chorobami",
+          "Wzrost poziomu bezrobocia na wsi",
+          "Powszechne zanieczyszczenie gleb",
+          "Szybki rozwój usług agroturystyki"
+        ],
+        "answer": "B",
+        "explanation": "Zastępowanie pracy ludzkiej przez wydajne maszyny rolnicze doprowadziło do zmniejszenia zapotrzebowania na siłę roboczą, co skutkuje wzrostem bezrobocia wśród mieszkańców wsi."
+      },
+      {
+        "question": "Które zjawisko ekologiczne jest bezpośrednim negatywnym skutkiem nadmiernej chemizacji rolnictwa?",
+        "options": [
+          "Przeżyźnienie wód, czyli eutrofizacja",
+          "Obniżenie temperatury wód jeziornych",
+          "Spadek poziomu zasolenia wód morskich",
+          "Wzrost różnorodności gatunków wodnych"
+        ],
+        "answer": "A",
+        "explanation": "Spływające z pól uprawnych nawozy sztuczne powodują zanieczyszczenie i nadmierne użyźnienie wód (eutrofizację), co prowadzi do zakwitów i wymierania organizmów wodnych."
+      },
+      {
+        "question": "Jakie zagrożenie dla środowiska niesie za sobą masowe tworzenie wielkoobszarowych upraw (monokultur)?",
+        "options": [
+          "Zmniejszenie prawdopodobieństwa chorób",
+          "Szybkie wyjałowienie i degradacja gleb",
+          "Całkowite zatrzymanie erozji wietrznej",
+          "Zwiększenie naturalnej bioróżnorodności fauny"
+        ],
+        "answer": "B",
+        "explanation": "Specjalizacja i wielkoobszarowe uprawy (monokultury) powodują systematyczne wyjaławianie gleb z określonych składników odżywczych oraz gwałtowny spadek lokalnej bioróżnorodności."
+      },
+      {
+        "question": "Które trzy rośliny uprawne są najczęściej modyfikowane genetycznie (GMO) na skalę światową?",
+        "options": [
+          "Soja, kukurydza i bawełna",
+          "Pszenica, jęczmień i ryż",
+          "Ziemniaki, buraki i rzepak",
+          "Słonecznik, len oraz tytoń"
+        ],
+        "answer": "A",
+        "explanation": "Podręcznik wskazuje, że zdecydowanie najczęściej uprawianymi na świecie roślinami zmodyfikowanymi genetycznie (GMO) są soja, kukurydza i bawełna."
+      },
+      {
+        "question": "W jaki sposób zasady rolnictwa ekologicznego regulują kwestię wykorzystywania organizmów GMO?",
+        "options": [
+          "Są dozwolone tylko w uprawie roślin",
+          "Zaleca się je dla wyższych plonów",
+          "Są one całkowicie i surowo zakazane",
+          "Stosuje się je wyłącznie w chowie zwierzęcym"
+        ],
+        "answer": "C",
+        "explanation": "W certyfikowanym rolnictwie ekologicznym obowiązuje bezwzględny zakaz wykorzystywania organizmów zmodyfikowanych genetycznie (GMO), ponieważ skutki ich długofalowego działania nie są do końca poznane."
+      },
+      {
+        "question": "Dlaczego uprawy roślin GMO zajmują tak niewielki obszar w państwach należących do Unii Europejskiej?",
+        "options": [
+          "Wynika to z bardzo surowego klimatu",
+          "Wiele z tych państw zakazuje upraw",
+          "Brakuje tam zaawansowanej maszyny",
+          "Rolnicy nie potrafią ich uprawiać"
+        ],
+        "answer": "B",
+        "explanation": "Mały areał (ok. 100 tys. ha) wynika z faktu, że w wielu państwach Europy, w tym w Polsce, istnieją prawne zakazy otrzymywania i stosowania nasion oraz produktów żywnościowych z GMO."
+      },
+      {
+        "question": "Jakie nowoczesne rozwiązania są symbolem komputeryzacji wspomagającej rolnictwo uprzemysłowione?",
+        "options": [
+          "Odbiorniki GPS w maszynach",
+          "Ręczne dozowniki nawozów sztucznych",
+          "Tradycyjne stacje meteorologiczne",
+          "Powszechne kalendarze biodynamiczne"
+        ],
+        "answer": "A",
+        "explanation": "W nowoczesnym rolnictwie uprzemysłowionym powszechne jest rolnictwo precyzyjne, w którym traktory i kombajny zarządzane są komputerowo z użyciem odbiorników GPS do optymalizacji np. dawek nawozów."
+      },
+      {
+        "question": "Dlaczego towary spożywcze wytwarzane w systemie rolnictwa ekologicznego odznaczają się wyższymi cenami?",
+        "options": [
+          "Ponieważ mają one znacznie niższą jakość",
+          "Z powodu niższej wydajności takich upraw",
+          "Gdyż są masowo eksportowane na cały świat",
+          "Ponieważ używa się w nich drogiej chemii"
+        ],
+        "answer": "B",
+        "explanation": "Rezygnacja z chemicznych stymulatorów wzrostu i sztucznych nawozów sprawia, że plony w rolnictwie ekologicznym są niższe, uprawy rosną wolniej i są narażone na szkodniki, co podnosi koszty jednostkowe."
+      },
+      {
+        "question": "Który z poniższych punktów stanowi silny argument ekonomiczny wysuwany przeciwko organizmom GMO?",
+        "options": [
+          "Wymuszają zakup drogich licencji na nasiona",
+          "Generują potrzebę częstych oprysków chemią",
+          "Zauważalnie obniżają całkowitą wielkość plonów",
+          "Wymagają zatrudniania dużej liczby pracowników"
+        ],
+        "answer": "A",
+        "explanation": "Ziarno siewne GMO nie może być pozyskiwane samodzielnie przez rolnika z własnych plonów. Wymaga ono cyklicznego, kosztownego kupowania licencji i materiału siewnego u producentów (korporacji)."
+      },
+      {
+        "question": "W jaki sposób zabiegi melioracyjne w rolnictwie uprzemysłowionym mogą oddziaływać na środowisko naturalne?",
+        "options": [
+          "Zawsze prowadzą do całkowitego zniszczenia gleb",
+          "Mogą zagospodarować nieużytki, ale i wyjałowić",
+          "Zwiększają bioróżnorodność na każdym obszarze",
+          "Skutkują wyłącznie podnoszeniem jakości plonów"
+        ],
+        "answer": "B",
+        "explanation": "Melioracja uregulowała stosunki wodne i pozwoliła na rozwój rolnictwa, ale niewłaściwie prowadzona może skutkować skrajnym wyjałowieniem gleb poprzez ich zbytnie wysuszenie lub zalanie."
+      },
+      {
+        "question": "W jaki sposób rolnicy ekologiczni dążą do zwiększenia urodzajności gleby bez stosowania chemii?",
+        "options": [
+          "Stosują wyłącznie nowoczesne opryski chemiczne",
+          "Dostarczają pokarmu żyjącym w niej organizmom",
+          "Stale nawadniają pola uprawne przez okrągły rok",
+          "Wprowadzają superwydajne nasiona modyfikowane"
+        ],
+        "answer": "B",
+        "explanation": "Zwiększanie urodzajności gleby w rolnictwie ekologicznym opiera się na dostarczaniu pokarmu organizmom glebowym przy pomocy naturalnych nawozów, co pozwala roślinom harmonijnie rosnąć."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "W rolnictwie ekologicznym dopuszcza się stosowanie nasion GMO w celu zwiększenia naturalnej odporności upraw i uniknięcia chemicznych oprysków.",
+        "answer": false,
+        "explanation": "W rolnictwie ekologicznym obowiązuje bezwzględny zakaz wykorzystywania organizmów zmodyfikowanych genetycznie (GMO), ponieważ skutki długofalowego działania takich organizmów nie są do końca poznane."
+      },
+      {
+        "sentence": "Ważną zaletą rolnictwa uprzemysłowionego jest dążenie do zachowania wysokiej bioróżnorodności poprzez powstawanie wyspecjalizowanych gospodarstw wielkoobszarowych.",
+        "answer": false,
+        "explanation": "Rozwój gospodarstw wielkoobszarowych, szczególnie wyspecjalizowanych monokultur, jest wadą pod względem przyrodniczym, gdyż prowadzi do zmniejszania się bioróżnorodności oraz wyjałowienia gleb."
+      },
+      {
+        "sentence": "Państwa należące do Unii Europejskiej, w tym Polska, zajmują czołowe miejsca na świecie pod względem wielkości areału upraw organizmów zmodyfikowanych genetycznie (GMO).",
+        "answer": false,
+        "explanation": "Areał upraw GMO w Europie jest znikomy (niewiele ponad 100 tys. ha) ze względu na prawne zakazy. Zdecydowanie największe uprawy znajdują się w państwach pozaeuropejskich: w USA, Brazylii, Argentynie czy Indiach."
+      },
+      {
+        "sentence": "Organizmy zmodyfikowane genetycznie (GMO) to organizmy, w których celowo zmieniono pewne geny, by uzyskać pożądane cechy, takie jak odporność na wirusy, grzyby czy herbicydy.",
+        "answer": true,
+        "explanation": "Definicja GMO z podręcznika wskazuje, że organizmy te modyfikuje się, aby wyposażyć je w nowe cechy ułatwiające uprawę i dające korzyści gospodarcze, takie jak wyższa odporność na szkodniki czy większa trwałość."
+      },
+      {
+        "sentence": "Gospodarstwa ekologiczne odznaczają się z reguły wyższą wydajnością niż gospodarstwa uprzemysłowione, co przekłada się na znacznie niższe ceny oferowanej żywności.",
+        "answer": false,
+        "explanation": "Rolnictwo ekologiczne cechuje się niższą wydajnością, ponieważ rezygnacja z użycia chemii skutkuje mniejszymi plonami i wolniejszym wzrostem zwierząt. To sprawia, że jednostkowe koszty produkcji i ceny produktów są wyższe."
+      },
+      {
+        "sentence": "Mechanizacja i komputeryzacja w rolnictwie uprzemysłowionym umożliwiają precyzyjne dawkowanie nawozów przy użyciu na przykład odbiorników GPS zamontowanych w maszynach.",
+        "answer": true,
+        "explanation": "Postęp technologiczny rolnictwa uprzemysłowionego pozwala na wykorzystanie zdjęć satelitarnych oraz odbiorników GPS m.in. w celu precyzyjnego nawożenia czy optymalnego dawkowania środków ochrony roślin."
+      },
+      {
+        "sentence": "Eutrofizacja wód to pożądany proces naturalnego przeżyźnienia zbiorników wodnych, zwiększający pogłowie organizmów wodnych, będący bezpośrednią korzyścią chemizacji rolnictwa.",
+        "answer": false,
+        "explanation": "Eutrofizacja wód to proces wybitnie negatywny. Nadmierne zanieczyszczenie gleb i wód nawozami powoduje przeżyźnienie wód, które prowadzi w konsekwencji do wymierania organizmów wodnych."
+      },
+      {
+        "sentence": "W rolnictwie ekologicznym dbałość o równowagę paszowo-nawozową oznacza dążenie do zamknięcia obiegu materii w gospodarstwie, by zwierzęta jadły własne uprawy, a ich odchody użyźniały glebę.",
+        "answer": true,
+        "explanation": "Jedną z kluczowych zasad rolnictwa ekologicznego jest tzw. zamknięty obieg. Glebę użyźnia się nawozem od zwierząt chowanych na miejscu, a zwierzęta karmione są roślinami z tego samego gospodarstwa."
+      },
+      {
+        "sentence": "Melioracja służy wyłącznie poprawie warunków rolniczych i nigdy nie niesie ze sobą negatywnych skutków dla środowiska przyrodniczego, nawet w dużych gospodarstwach uprzemysłowionych.",
+        "answer": false,
+        "explanation": "Zabiegi melioracyjne, mimo że pozwalają na uregulowanie stosunków wodnych, mogą w przypadku niewłaściwego prowadzenia prowadzić do bardzo negatywnych skutków: wyjałowienia gleb w wyniku zbytniego wysuszenia bądź niewłaściwego nawodnienia."
+      },
+      {
+        "sentence": "Mechanizacja rolnictwa doprowadziła w krajach wysoko rozwiniętych do zwiększenia problemu bezrobocia na obszarach wiejskich.",
+        "answer": true,
+        "explanation": "Zastępowanie pracy rąk ludzkich przez wydajne maszyny i nowoczesny sprzęt znacznie redukuje zapotrzebowanie na siłę roboczą w rolnictwie, czego efektem ubocznym jest wzrost bezrobocia na wsi."
+      },
+      {
+        "sentence": "Silnym argumentem ekonomicznym przeciwko uprawie roślin GMO jest fakt, że materiał siewny jest drogi i uzależnia rolników od corocznych zakupów u licencjonowanych producentów.",
+        "answer": true,
+        "explanation": "Ziarna GMO nie mogą być legalnie pozyskiwane do powtórnego siewu z własnego gospodarstwa; wymagają zakupu u dostawców licencji, co zwiększa całkowite koszty uprawy i mocno uzależnia rolników od korporacji."
+      },
+      {
+        "sentence": "Zwiększanie urodzajności gleb w rolnictwie ekologicznym polega w głównej mierze na stosowaniu ulepszonych mieszanek sztucznych środków ochrony roślin.",
+        "answer": false,
+        "explanation": "Rolnictwo ekologiczne z zasady nie używa sztucznych środków ochrony roślin (pestycydów). Zwiększanie urodzajności opiera się na nawozach naturalnych i stymulowaniu do rozwoju mikroorganizmów glebowych."
+      }
+    ]
+  }
+}

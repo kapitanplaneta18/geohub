@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t5",
+    "title": "Zróżnicowanie narodowościowe i etniczne ludności świata",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Naród",
+        "definition": "Ludność związana wspólną historią, kulturą, językiem, terytorium i gospodarką. Przykładem narodów wielojęzycznych są Kanadyjczycy, Szwajcarzy i Belgowie."
+      },
+      {
+        "term": "Grupa etniczna",
+        "definition": "Członkowie społeczności mający wspólne dziedzictwo kulturowe, język, wierzenia czy zwyczaje, traktowani często jako zalążek narodu, niemający jednak własnego państwa. Rząd Turcji uważa, że Kurdowie są grupą etniczną, odmawiając im statusu narodu."
+      },
+      {
+        "term": "Mniejszość narodowa",
+        "definition": "Obywatele danego kraju, którzy utożsamiają się z innym narodem posiadającym współcześnie własne państwo i są mniej liczni od pozostałych mieszkańców. W Polsce przykładem są Niemcy, Ukraińcy i Białorusini."
+      },
+      {
+        "term": "Mniejszość etniczna",
+        "definition": "Ludność o poczuciu odrębności kulturowej, identyfikująca się z grupą etniczną niemającą obecnie własnego państwa. Przykładem mniejszości etnicznych w Polsce są Romowie, Łemkowie i Tatarzy."
+      },
+      {
+        "term": "Państwo jednolite narodowościowo (homogeniczne)",
+        "definition": "Kraj o dużej zwartości socjoetnicznej, w którym mniejszości stanowią bardzo niewielki odsetek mieszkańców. Przykładem są: Polska, Portugalia, Argentyna, Japonia i Grecja."
+      },
+      {
+        "term": "Państwo wielonarodowościowe",
+        "definition": "Kraj zamieszkiwany przez wiele grup mniejszości narodowych lub etnicznych, odznaczający się małą zwartością socjoetniczną. Przykładami są: Czarnogóra, Zambia, Paragwaj, Łotwa oraz Kongo."
+      },
+      {
+        "term": "Ludność autochtoniczna (rdzenna)",
+        "definition": "Pierwotni, rdzenni mieszkańcy danej części świata, np. Indianie w Ameryce (przedstawiciele odmiany żółtej), z którymi po epoce odkryć geograficznych mieszała się ludność napływowa."
+      },
+      {
+        "term": "Ludność napływowa",
+        "definition": "Imigranci lub kolonizatorzy przybywający na dany obszar z zewnątrz. Przykładem jest ludność Europy oraz sprowadzona czarnoskóra ludność Afryki, która w Ameryce zaczęła się mieszać z rdzennymi Indianami."
+      },
+      {
+        "term": "Odmiany ludzkie",
+        "definition": "Główne grupy wydzielane na podstawie dziedzicznych cech fizycznych: biała (europeidalna), żółta (mongoloidalna - w tym Indianie) oraz czarna (negroidalna)."
+      },
+      {
+        "term": "Metysi",
+        "definition": "Najliczniejsza odmiana mieszana w Ameryce, którą tworzą potomkowie przedstawicieli odmiany białej europejskiej oraz żółtej amerykańskiej (Indian). W Paragwaju stanowią oni ok. 90% społeczeństwa."
+      },
+      {
+        "term": "Mulaci i Zambo",
+        "definition": "Odmiany mieszane: Mulaci to potomkowie odmiany białej i czarnej, a Zambo to potomkowie przedstawicieli odmian czarnej i żółtej amerykańskiej (Indian)."
+      },
+      {
+        "term": "Rasizm",
+        "definition": "Doktryna oparta na pseudonaukowej tezie o nierówności odmian ludzkich. W 1966 r. ONZ uznała rasizm za zbrodnię przeciwko ludzkości."
+      },
+      {
+        "term": "Apartheid",
+        "definition": "Polityka separacji rasowej obowiązująca w RPA w latach 1948-1991, polegająca na dyskryminacji ludności czarnej oraz przyznawaniu białej mniejszości dalekich przywilejów."
+      },
+      {
+        "term": "Zwartość socjoetniczna",
+        "definition": "Pojęcie określające stopień jednorodności ludności kraju. W państwach zwartych socjoetnicznie mniejszości stanowią ułamek procenta (np. Polska, Japonia), a tam, gdzie struktura etniczna jest zróżnicowana (np. była Jugosławia), zwartość ta jest mała, co może prowadzić do napięć."
+      },
+      {
+        "term": "Konflikty na tle narodowościowym i etnicznym",
+        "definition": "Zbrojne starcia lub wojny domowe wybuchające w państwach wielonarodowościowych o małej zwartości socjoetnicznej, np. wojna domowa po rozpadzie Jugosławii czy krwawe walki plemion Tutsi i Hutu w Rwandzie."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Polska, Japonia, Portugalia, Grecja",
+        "pair2": "Państwa jednolite narodowościowo (homogeniczne)"
+      },
+      {
+        "pair1": "Czarnogóra, Zambia, Paragwaj, Łotwa",
+        "pair2": "Państwa wielonarodowościowe (o małej zwartości socjoetnicznej)"
+      },
+      {
+        "pair1": "Niemcy, Ukraińcy, Białorusini",
+        "pair2": "Najliczniejsze mniejszości narodowe w Polsce"
+      },
+      {
+        "pair1": "Romowie, Łemkowie, Tatarzy, Karaimi",
+        "pair2": "Przykłady mniejszości etnicznych w Polsce"
+      },
+      {
+        "pair1": "Kanadyjczycy, Szwajcarzy, Belgowie",
+        "pair2": "Narody wielojęzyczne (decyduje czynnik terytorialny)"
+      },
+      {
+        "pair1": "Kurdowie, Żydzi (w dużym rozproszeniu)",
+        "pair2": "Narody nieposiadające własnego państwa (lub takie, które mimo rozproszenia nie utraciły odrębności)"
+      },
+      {
+        "pair1": "Tutsi i Hutu",
+        "pair2": "Plemiona w Rwandzie walczące w krwawym konflikcie etnicznym"
+      },
+      {
+        "pair1": "Metysi, Mulaci, Zambo",
+        "pair2": "Odmiany mieszane ludności kształtujące amerykańską mozaikę"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Czym charakteryzuje się naród?",
+        "options": [
+          "Ludnością powiązaną wyłącznie wspólnym terytorium i gospodarką państwową.",
+          "Ludnością posiadającą współcześnie własne oraz niezależne terytorium państwa.",
+          "Ludnością powiązaną wspólną historią, kulturą, językiem, terytorium i gospodarką.",
+          "Ludnością zamieszkującą w sposób zwarty wydzielone terytorium jednego kontynentu."
+        ],
+        "answer": "C",
+        "explanation": "Naród to ludność związana wspólną historią, kulturą, językiem, terytorium i gospodarką."
+      },
+      {
+        "question": "Które z wymienionych państw stanowią przykłady krajów jednolitych narodowościowo?",
+        "options": [
+          "Polska, Portugalia, Argentyna, Japonia, Grecja.",
+          "Czarnogóra, Zambia, Paragwaj, Łotwa, Kongo.",
+          "Szwajcaria, Belgia, Kanada, Turcja, Rwanda.",
+          "Jugosławia, Południowa Afryka, Nigeria, Sudan."
+        ],
+        "answer": "A",
+        "explanation": "Państwami homogenicznymi są np. Polska, Portugalia, Argentyna, Japonia i Grecja."
+      },
+      {
+        "question": "Jaka jest główna różnica między mniejszością narodową a mniejszością etniczną?",
+        "options": [
+          "Mniejszość etniczna utożsamia się z narodem, który posiada własne terytorium i państwo.",
+          "Mniejszość narodowa odznacza się zupełnie inną religią oraz obcym językiem urzędowym.",
+          "Mniejszość etniczna identyfikuje się z grupą, która nie posiada obecnie własnego państwa.",
+          "Mniejszość narodowa składa się ze społeczności identyfikującej się z jednym małym regionem."
+        ],
+        "answer": "C",
+        "explanation": "Mniejszość narodowa utożsamia się z narodem posiadającym własne państwo, a etniczna z grupą niemającą obecnie państwa."
+      },
+      {
+        "question": "Które grupy stanowią przykłady mniejszości etnicznych we współczesnej Polsce?",
+        "options": [
+          "Niemcy, Ukraińcy, Białorusini, Rosjanie.",
+          "Romowie, Łemkowie, Tatarzy, Karaimi.",
+          "Słowacy, Czesi, Ormianie, Litwini.",
+          "Kaszubi, Ślązacy, Ukraińcy, Żydzi."
+        ],
+        "answer": "B",
+        "explanation": "Romowie, Łemkowie, Tatarzy i Karaimi to społeczności uznawane w Polsce za mniejszości etniczne."
+      },
+      {
+        "question": "Jakie grupy ludności stanowią najliczniejsze mniejszości narodowe w Polsce?",
+        "options": [
+          "Niemcy, Ukraińcy oraz Białorusini.",
+          "Romowie, Łemkowie oraz Tatarzy.",
+          "Kaszubi, Ślązacy oraz Karaimi.",
+          "Słowacy, Czesi oraz Rosjanie."
+        ],
+        "answer": "A",
+        "explanation": "Z danych statystycznych zawartych w tekście wynika, że najliczniejszymi mniejszościami narodowymi w Polsce są Niemcy (148 tys.), Ukraińcy i Białorusini."
+      },
+      {
+        "question": "Dlaczego rządy niektórych państw odmawiają Kurdom prawnego statusu narodu?",
+        "options": [
+          "Ponieważ uznanie za naród oznacza polityczne prawo do tworzenia własnego państwa.",
+          "Ponieważ Kurdowie całkowicie zatracili swoje dawne tradycje, język oraz wierzenia.",
+          "Ponieważ u Kurdów zauważalny jest brak występowania wspólnych cech kulturowych.",
+          "Ponieważ legalne uznanie za naród wymaga zbrojnego podbicia nowego terytorium."
+        ],
+        "answer": "A",
+        "explanation": "Uznanie grupy etnicznej za naród oznacza przyznanie jej prawa do samostanowienia i suwerenności politycznej, dlatego kraje, w których żyją Kurdowie, odmawiają im tego."
+      },
+      {
+        "question": "Co przede wszystkim decyduje o przynależności narodowej w przypadku Kanadyjczyków i Szwajcarów?",
+        "options": [
+          "Całkowicie identyczna struktura wyznaniowa oraz społeczna wszystkich mieszkańców.",
+          "Wspólny oraz bardzo unikalny język, który posiada wielowiekowe korzenie europejskie.",
+          "Silny i ugruntowany czynnik terytorialny, a nie posługiwanie się jednym językiem.",
+          "Przynależność do starożytnych i rdzennych ludów osiadłych na tych samych ziemiach."
+        ],
+        "answer": "C",
+        "explanation": "W przypadku narodów wielojęzycznych, takich jak Kanadyjczycy, Szwajcarzy czy Belgowie, o przynależności narodowej decyduje przede wszystkim czynnik terytorialny."
+      },
+      {
+        "question": "Które kraje charakteryzują się małą zwartością socjoetniczną (są wielonarodowościowe)?",
+        "options": [
+          "Polska, Portugalia, Argentyna, Grecja, Japonia.",
+          "Czarnogóra, Zambia, Paragwaj, Łotwa, Kongo.",
+          "Niemcy, Wielka Brytania, Włochy, Hiszpania, Austria.",
+          "Japonia, Polska, Szwecja, Norwegia, Irlandia."
+        ],
+        "answer": "B",
+        "explanation": "W tekście jako przykłady państw wielonarodowościowych odznaczających się małą zwartością socjoetniczną wymieniono Czarnogórę, Zambię, Paragwaj, Łotwę oraz Kongo."
+      },
+      {
+        "question": "W którym afrykańskim państwie wybuchł wyjątkowo krwawy konflikt zbrojny między plemionami Tutsi i Hutu?",
+        "options": [
+          "W południowej Angoli.",
+          "W zachodnim Senegalu.",
+          "W centralnej Rwandzie.",
+          "W północnym Egipcie."
+        ],
+        "answer": "C",
+        "explanation": "Drastyczne i krwawe walki o podłożu etnicznym wybuchły między przedstawicielami plemion Tutsi i Hutu na terenie Rwandy."
+      },
+      {
+        "question": "W jaki sposób wiele państw decyduje się na zapobieganie wewnętrznym napięciom o podłożu narodowościowym?",
+        "options": [
+          "Wymuszając pełną asymilację wszystkich istniejących mniejszości do narodowej kultury głównej.",
+          "Zwiększając autonomię uwarunkowanych regionów głównie w istotnych sprawach edukacji i podatków.",
+          "Ograniczając osiedlanie imigrantów wyłącznie w wyznaczonych i zamykanych ośrodkach miejskich.",
+          "Separując różne grupy ludności poprzez obowiązkowe budowanie drutów i stref buforowych."
+        ],
+        "answer": "B",
+        "explanation": "Aby zmniejszyć napięcia, wiele państw zwiększa autonomię regionów zamieszkiwanych przez inne narodowości, głównie w sferze szkolnictwa i podatków."
+      },
+      {
+        "question": "Na czym polega jeden z problemów publicznych występujący w państwach niejednorodnych narodowościowo?",
+        "options": [
+          "Na całkowitym ustawowym zakazie nauczania jakiegokolwiek innego języka w edukacji państwowej.",
+          "Na konieczności ciągłego przygotowywania podręczników edukacyjnych w różnych wersjach językowych.",
+          "Na błyskawicznym zjawisku całkowitej eliminacji oficjalnego języka urzędowego w kontaktach ludzkich.",
+          "Na przymusowym wyznaczaniu odrębnych świątyń modlitewnych dla poszczególnych grup etnicznych."
+        ],
+        "answer": "B",
+        "explanation": "Niejednorodność wiąże się m.in. z potrzebą dostosowania systemu edukacji i urzędów do wielojęzyczności, np. poprzez druk podręczników w różnych wersjach językowych."
+      },
+      {
+        "question": "W jaki sposób Organizacja Narodów Zjednoczonych uregulowała prawnie i oceniła rasizm w 1966 roku?",
+        "options": [
+          "Jako normalny i przejściowy problem polityczny wewnątrz rozwijających się słabo państw afrykańskich.",
+          "Jako legalną i uprawnioną formę separacji dopuszczalną prawnie w niektórych państwach kolonialnych.",
+          "Jako zbrodnię bezwzględnie wymierzoną przeciwko ludzkości opartą na błędnych tezach rasowych.",
+          "Jako rzadkie, ale historycznie uzasadnione zjawisko wywoływane przez różnice kulturowo-religijne."
+        ],
+        "answer": "C",
+        "explanation": "W 1966 r. Organizacja Narodów Zjednoczonych jednoznacznie uznała rasizm za zbrodnię wymierzoną wprost przeciwko ludzkości."
+      },
+      {
+        "question": "Na czym polegała radykalna polityka separacji zwana apartheidem w Republice Południowej Afryki?",
+        "options": [
+          "Na powolnej asymilacji ludności rdzennej z silną i nową mniejszością europejską w centrach miast.",
+          "Na sprawiedliwym rozdysponowaniu ról gospodarczych oraz zawodowych między wszystkimi grupami.",
+          "Na wyraźnym dyskryminowaniu czarnoskórych przy jednoczesnym gwarantowaniu przywilejów dla białych.",
+          "Na bardzo ostrym zakazie zewnętrznych migracji zarobkowych dla białej części tamtejszej populacji."
+        ],
+        "answer": "C",
+        "explanation": "Polityka apartheidu (1948-1991) polegała na systematycznym dyskryminowaniu mniejszości czarnej i nadawaniu wielu przywilejów biali mieszkańcom kraju."
+      },
+      {
+        "question": "Czym są współczesne Chinatown, ukształtowane w takich miastach jak te w Stanach Zjednoczonych?",
+        "options": [
+          "Bardzo otwartymi ośrodkami przeznaczonymi wyłącznie na naukę tradycyjnego języka chińskiego.",
+          "Zwartymi, hermetycznymi dzielnicami silnie zamieszkiwanymi przez tradycyjnych chińskich imigrantów.",
+          "Nowoczesnymi obszarami służącymi tylko do budowy przemysłowych zakładów z dalekiej wschodniej Azji.",
+          "Zamkniętymi obozami stworzonymi w celu przymusowej izolacji wszystkich uchodźców zarobkowych z Azji."
+        ],
+        "answer": "B",
+        "explanation": "Chinatown to powstałe w USA chińskie dzielnice, których mieszkańcy często tworzą dość zamknięte, hermetyczne środowiska skupiające imigrantów."
+      },
+      {
+        "question": "Jaką grupę ludzi określa się terminem Metysi w mozaice odmian ludzkich Ameryki?",
+        "options": [
+          "Mieszanych potomków reprezentujących afrykańską odmianę czarną i pierwotną odmianę amerykańską żółtą.",
+          "Mieszanych potomków wywodzących się od rasy białej europejskiej i rasy żółtej amerykańskiej (Indian).",
+          "Mieszanych potomków wywodzących się z rasy białej europejskiej i sprowadzonej czarnej ludności afrykańskiej.",
+          "Czysto rdzennych mieszkańców lasów Amazonii i górskich pasm w Andach oraz Kordylierach w Ameryce."
+        ],
+        "answer": "B",
+        "explanation": "Metysi to odmiana mieszana, którą tworzą potomkowie odmiany białej europejskiej i żółtej amerykańskiej (Indian)."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Mniejszość etniczna, w przeciwieństwie do mniejszości narodowej, to grupa społeczna, która utożsamia się z narodem posiadającym współcześnie własne państwo.",
+        "answer": false,
+        "explanation": "Jest dokładnie odwrotnie. To mniejszość narodowa utożsamia się z narodem posiadającym własne państwo, natomiast mniejszość etniczna identyfikuje się z grupą, która obecnie takiego państwa nie ma."
+      },
+      {
+        "sentence": "W przypadku narodów wielojęzycznych, takich jak Kanadyjczycy czy Szwajcarzy, głównym kryterium decydującym o przynależności narodowej jest posługiwanie się jednym wspólnym językiem.",
+        "answer": false,
+        "explanation": "W przypadku narodów wielojęzycznych (np. Kanadyjczycy, Szwajcarzy, Belgowie) o przynależności narodowej nie decyduje język, lecz czynnik terytorialny."
+      },
+      {
+        "sentence": "Kurdowie są przykładem narodu, który pomimo znacznego rozproszenia na terytorium wielu państw zachował poczucie odrębności narodowej, nie posiadając przy tym własnego państwa.",
+        "answer": true,
+        "explanation": "Kurdowie to naród nieposiadający własnego państwa, który mimo rozproszenia nie utracił poczucia swojej odrębności."
+      },
+      {
+        "sentence": "Metysi to najliczniejsza grupa odmian mieszanych w Ameryce, która powstała w wyniku krzyżowania się przedstawicieli odmiany białej oraz odmiany czarnej.",
+        "answer": false,
+        "explanation": "Metysi to potomkowie przedstawicieli odmiany białej europejskiej oraz żółtej amerykańskiej (Indian). Potomkami odmiany białej i czarnej są Mulaci."
+      },
+      {
+        "sentence": "Polska, Portugalia oraz Japonia są zaliczane do państw jednolitych narodowościowo, co oznacza, że mniejszości stanowią tam bardzo niewielki odsetek mieszkańców.",
+        "answer": true,
+        "explanation": "Polska, Japonia, Portugalia, Argentyna i Grecja to przykłady państw homogenicznych, zwanych zwartymi socjoetnicznie."
+      },
+      {
+        "sentence": "Najliczniejszą mniejszością etniczną w Polsce są obecnie Niemcy, a w dalszej kolejności wymienia się Łemków i Tatarów.",
+        "answer": false,
+        "explanation": "Niemcy są najliczniejszą mniejszością narodową w Polsce, a nie etniczną. Najliczniejszą mniejszością etniczną w Polsce są Romowie."
+      },
+      {
+        "sentence": "W 1966 roku Organizacja Narodów Zjednoczonych przyjęła uchwałę uznającą rasizm za zbrodnię przeciwko ludzkości.",
+        "answer": true,
+        "explanation": "Państwami homogenicznymi (jednolitymi narodowościowo) określa się np. Polskę, Portugalię, Argentynę, Japonię i Grecję."
+      },
+      {
+        "sentence": "Krwawe konflikty o podłożu narodowościowym i etnicznym, takie jak walki plemion Tutsi i Hutu w Rwandzie, wybuchają najczęściej w państwach zwartych socjoetnicznie.",
+        "answer": false,
+        "explanation": "Napięcia i krwawe konflikty wybuchają najczęściej w państwach wielonarodowościowych o małej zwartości socjoetnicznej, a nie w państwach zwartych."
+      },
+      {
+        "sentence": "Polityka apartheidu, polegająca na dyskryminacji czarnoskórej ludności i przyznawaniu przywilejów białej mniejszości, obowiązywała w Republice Południowej Afryki do 1991 roku.",
+        "answer": true,
+        "explanation": "Polityka apartheidu polegająca na systemowej separacji rasowej obowiązywała w RPA w latach 1948-1991."
+      },
+      {
+        "sentence": "Czarnogóra, Łotwa oraz Zambia stanowią przykłady państw homogenicznych, w których dominuje tylko jedna zwarta grupa narodowościowa.",
+        "answer": false,
+        "explanation": "Czarnogóra, Łotwa i Zambia to przykłady państw wielonarodowościowych o małej zwartości socjoetnicznej, a nie państw homogenicznych."
+      },
+      {
+        "sentence": "Rządy niektórych państw, na przykład Turcji, odmawiają Kurdom statusu narodu, argumentując to obawą, że uznanie za naród dawałoby im polityczne prawo do tworzenia własnego państwa.",
+        "answer": true,
+        "explanation": "Uznanie grupy etnicznej za naród oznacza przyznanie jej prawa do samostanowienia i suwerenności politycznej, dlatego rządy państw takich jak Turcja odmawiają Kurdom tego statusu."
+      },
+      {
+        "sentence": "Do społeczności uznawanych w Polsce za mniejszości etniczne należą wyłącznie Litwini i Rosjanie.",
+        "answer": false,
+        "explanation": "Litwini i Rosjanie posiadają własne państwa, więc są mniejszościami narodowymi. Do mniejszości etnicznych w Polsce należą m.in. Romowie, Łemkowie, Tatarzy i Karaimi."
+      }
+    ]
+  }
+}

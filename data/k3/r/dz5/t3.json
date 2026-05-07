@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz5-t3",
+                     "title":  "Zmiany w polskim przemyśle",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Przemysł",
+                                              "definition":  "Sektor gospodarki zajmujący się wydobywaniem surowców mineralnych oraz ich przetwarzaniem na różnorodne produkty; w II połowie XX w. był głównym czynnikiem przemian w Polsce,."
+                                          },
+                                          {
+                                              "term":  "Restrukturyzacja przemysłu",
+                                              "definition":  "Proces zmian zapoczątkowany w 1989 r., obejmujący przekształcenia własnościowe (prywatyzację), zmiany struktury produkcji oraz modernizację technologiczną zakładów,."
+                                          },
+                                          {
+                                              "term":  "Transformacja gospodarcza",
+                                              "definition":  "Przejście od socjalistycznej gospodarki centralnie sterowanej do gospodarki rynkowej, rozpoczęte w Polsce w 1989 roku, co wymusiło zmiany w funkcjonowaniu przemysłu,."
+                                          },
+                                          {
+                                              "term":  "Prywatyzacja",
+                                              "definition":  "Proces przekształcania przedsiębiorstw państwowych w firmy prywatne; po 1989 r. stał się głównym sposobem zmian struktury własnościowej polskiego przemysłu."
+                                          },
+                                          {
+                                              "term":  "Socjalistyczna industrializacja",
+                                              "definition":  "Intensywne uprzemysłowienie kraju w okresie PRL, nastawione głównie na rozwój przemysłu ciężkiego (górnictwo, hutnictwo, energetyka), często bez uwzględnienia rachunku ekonomicznego,."
+                                          },
+                                          {
+                                              "term":  "Centralny Okręg Przemysłowy (COP)",
+                                              "definition":  "Wielka inwestycja realizowana w latach 1918–1939 w widłach Wisły i Sanu, obejmująca budowę zakładów metalurgicznych, chemicznych i zbrojeniowych (np. w Stalowej Woli)."
+                                          },
+                                          {
+                                              "term":  "Górnictwo węgla kamiennego",
+                                              "definition":  "Tradycyjna gałąź przemysłu, której znaczenie zmalało po 1989 r.; Polska nadal zajmuje jednak wysokie miejsce w świecie (10.) i w UE (2.) pod względem wydobycia tego surowca,."
+                                          },
+                                          {
+                                              "term":  "Energetyka konwencjonalna",
+                                              "definition":  "Produkcja energii oparta na spalaniu paliw kopalnych; w Polsce dominują elektrownie opalane węglem kamiennym i brunatnym, co jest uznawane za negatywny skutek braku modernizacji energetyki,."
+                                          },
+                                          {
+                                              "term":  "Struktura własnościowa przemysłu",
+                                              "definition":  "Podział zakładów ze względu na formę własności; obecnie w Polsce dominuje sektor prywatny (krajowy i zagraniczny), a udział własności państwowej jest znikomy (ok. 1% zakładów)."
+                                          },
+                                          {
+                                              "term":  "Małe i średnie przedsiębiorstwa (MŚP)",
+                                              "definition":  "Zakłady zatrudniające poniżej 50 pracowników; po 1989 r. ich liczba gwałtownie wzrosła i obecnie stanowią one ponad 70% wszystkich podmiotów przemysłowych w Polsce."
+                                          },
+                                          {
+                                              "term":  "Przemysł motoryzacyjny i AGD",
+                                              "definition":  "Działy przemysłu przetwórczego, które zyskały na znaczeniu po transformacji; Polska jest czołowym w Europie producentem sprzętu AGD (np. pralki, zmywarki) oraz części samochodowych,."
+                                          },
+                                          {
+                                              "term":  "Umiędzynarodowienie przemysłu",
+                                              "definition":  "Zjawisko polegające na przejmowaniu części produkcji przez zagraniczne koncerny, które inwestują w Polsce, przynosząc kapitał i nowoczesne technologie,."
+                                          },
+                                          {
+                                              "term":  "Deindustrializacja (w fazie początkowej)",
+                                              "definition":  "Spadek wartości produkcji przemysłowej i zatrudnienia w przemyśle obserwowany w pierwszych latach transformacji ustrojowej na skutek upadku nierentownych zakładów,."
+                                          },
+                                          {
+                                              "term":  "Korzyści aglomeracji",
+                                              "definition":  "Czynnik lokalizacji przemysłu polegający na skupianiu zakładów w dużych ośrodkach miejskich, co zapewnia dostęp do wykwalifikowanej kadry i rynków zbytu."
+                                          },
+                                          {
+                                              "term":  "Przemysł zaawansowanych technologii (High-tech)",
+                                              "definition":  "Nowoczesny dział gospodarki wykorzystujący osiągnięcia naukowe (np. elektronika, farmacja); jego udział w polskim eksporcie rośnie, choć wciąż jest niższy niż średnia unijna,."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Górnośląski Okręg Przemysłowy (GOP)",
+                                                 "pair2":  "Tradycyjny okręg surowcowy poddany głębokiej restrukturyzacji (zamykanie kopalń),."
+                                             },
+                                             {
+                                                 "pair1":  "Transformacja ustrojowa (po 1989 r.)",
+                                                 "pair2":  "Przejście z gospodarki centralnie sterowanej na rynkową i prywatyzacja przedsiębiorstw,."
+                                             },
+                                             {
+                                                 "pair1":  "Specjalne Strefy Ekonomiczne (SSE) i inwestycje zagraniczne",
+                                                 "pair2":  "Napływ kapitału, modernizacja technologii i wzrost eksportu wyrobów przemysłowych,."
+                                             },
+                                             {
+                                                 "pair1":  "Lokalizacja w pobliżu autostrad i dużych miast",
+                                                 "pair2":  "Ułatwiony dostęp do rynków zbytu oraz wykwalifikowanych pracowników."
+                                             },
+                                             {
+                                                 "pair1":  "Dominacja energetyki węglowej",
+                                                 "pair2":  "Wysoka emisja zanieczyszczeń i negatywny wpływ na środowisko przyrodnicze,."
+                                             },
+                                             {
+                                                 "pair1":  "Legnicko-Głogowski Okręg Miedziowy",
+                                                 "pair2":  "Okręg przemysłowy powstały w PRL na bazie odkrycia złóż rud miedzi."
+                                             },
+                                             {
+                                                 "pair1":  "Restrukturyzacja przemysłu (negatywne skutki)",
+                                                 "pair2":  "Wzrost bezrobocia i konieczność wydatków państwa na osłony socjalne w początkowej fazie."
+                                             },
+                                             {
+                                                 "pair1":  "Przemysł spożywczy i meblarski",
+                                                 "pair2":  "Działy przemysłu, które zyskały na znaczeniu i stały się polskimi wizytówkami eksportowymi,."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaki surowiec energetyczny odgrywa historycznie najważniejszą rolę w polskiej energetyce i przemyśle, plasując Polskę w czołówce światowej produkcji?",
+                                      "options":  [
+                                                      "Ropa naftowa, której złoża w Polsce są jednymi z największych w Europie.",
+                                                      "Gaz ziemny, wydobywany na dużą skalę w Karpatach i na Niżu Polskim.",
+                                                      "Węgiel kamienny i brunatny.",
+                                                      "Uran, będący podstawą rozwoju energetyki jądrowej w Polsce."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Polska energetyka jest wciąż w ponad 70% oparta na węglu, co jest spuścizną po okresie industrializacji i bogatych zasobach geologicznych."
+                                  },
+                                  {
+                                      "question":  "Na czym polegał proces prywatyzacji, będący kluczowym elementem transformacji gospodarczej po 1989 roku?",
+                                      "options":  [
+                                                      "Na przejmowaniu prywatnych firm przez państwo (nacjonalizacji) w celu centralnego sterowania.",
+                                                      "Na przekształcaniu przedsiębiorstw państwowych w firmy należące do prywatnych właścicieli.",
+                                                      "Na zamykaniu wszystkich zakładów przemysłowych w celu ochrony środowiska.",
+                                                      "Na przekazywaniu fabryk pod bezpośredni zarząd związków zawodowych bez zmiany właściciela."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prywatyzacja miała na celu zwiększenie efektywności gospodarowania i dostosowanie firm do zasad wolnego rynku."
+                                  },
+                                  {
+                                      "question":  "Na rozwoju jakiego sektora skupiała się polityka tzw. socjalistycznej industrializacji w okresie PRL?",
+                                      "options":  [
+                                                      "Przemysłu wysokich technologii (elektronika, IT), wzorując się na Dolinie Krzemowej.",
+                                                      "Przemysłu lekkiego i usług turystycznych, aby zaspokoić potrzeby konsumpcyjne.",
+                                                      "Przemysłu ciężkiego (górnictwo, hutnictwo, energetyka).",
+                                                      "Rolnictwa ekologicznego i produkcji zdrowej żywności."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gospodarka centralnie sterowana stawiała na rozwój bazy surowcowej i przemysłu środków produkcji, zaniedbując dobra konsumpcyjne."
+                                  },
+                                  {
+                                      "question":  "Jaki był jeden z najpoważniejszych negatywnych skutków społecznych restrukturyzacji przemysłu w początkowej fazie transformacji?",
+                                      "options":  [
+                                                      "Gwałtowny wzrost wynagrodzeń we wszystkich sektorach gospodarki.",
+                                                      "Masowe zwolnienia i wysokie bezrobocie.",
+                                                      "Niedobór siły roboczej w rolnictwie z powodu powrotu ludzi do miast.",
+                                                      "Zbyt szybki rozwój budownictwa mieszkaniowego, który spowodował spadek cen mieszkań."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Likwidacja nierentownych zakładów (np. PGR-ów, kopalń, hut) pozbawiła pracy miliony ludzi, wywołując bezrobocie strukturalne."
+                                  },
+                                  {
+                                      "question":  "Dlaczego współczesne zakłady przemysłowe często lokalizowane są w pobliżu autostrad i dróg szybkiego ruchu?",
+                                      "options":  [
+                                                      "Ponieważ prawo zabrania budowy jakichkolwiek fabryk w granicach miast.",
+                                                      "Ze względu na konieczność zużywania ogromnych ilości wody, którą dowozi się cysternami.",
+                                                      "Ułatwia to transport towarów, dostęp do rynków zbytu oraz dojazdy pracowników.",
+                                                      "Ponieważ ziemia przy autostradach jest najdroższa, co podnosi prestiż firmy."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Dostępność transportowa jest kluczowym czynnikiem lokalizacji dla firm logistycznych i produkcyjnych działających w systemie „just-in-time”."
+                                  },
+                                  {
+                                      "question":  "Jaką rolę odegrali inwestorzy zagraniczni w transformacji polskiego przemysłu?",
+                                      "options":  [
+                                                      "Doprowadzili do całkowitego i nieodwracalnego upadku przemysłu motoryzacyjnego.",
+                                                      "Przynieśli kapitał, nowoczesne technologie i nowe metody zarządzania.",
+                                                      "Zainwestowali wyłącznie w górnictwo węgla kamiennego, ignorując inne branże.",
+                                                      "Nie mieli żadnego istotnego wpływu na polską gospodarkę i rynek pracy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bezpośrednie Inwestycje Zagraniczne (BIZ) umożliwiły modernizację polskich fabryk (np. Fiat, Opel, Volkswagen) i wejście na rynki globalne."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych branż przemysłu zyskała na znaczeniu w Polsce po 1989 roku, stając się ważnym towarem eksportowym?",
+                                      "options":  [
+                                                      "Przemysł włókienniczy (tekstylny), który zdominował rynki azjatyckie.",
+                                                      "Górnictwo siarki, które przeżywa swój renesans.",
+                                                      "Produkcja sprzętu AGD i mebli.",
+                                                      "Hutnictwo żelaza, które stało się największe w Europie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Polska jest europejskim liderem w produkcji pralek, lodówek i zmywarek oraz jednym z największych eksporterów mebli na świecie."
+                                  },
+                                  {
+                                      "question":  "Co jest charakterystyczną cechą Doliny Lotniczej (Aviation Valley) w południowo-wschodniej Polsce?",
+                                      "options":  [
+                                                      "Jest to główny obszar wydobycia gazu łupkowego w Polsce.",
+                                                      "To klaster skupiający firmy i instytucje badawcze związane z przemysłem lotniczym.",
+                                                      "To region turystyczny, w którym obowiązuje całkowity zakaz lokalizacji przemysłu.",
+                                                      "To nazwa nowej autostrady łączącej Rzeszów z Warszawą."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klaster w Rzeszowie i okolicach skupia ponad 150 firm (np. Pratt \u0026 Whitney), wykorzystując tradycje Centralnego Okręgu Przemysłowego."
+                                  },
+                                  {
+                                      "question":  "Jaka zmiana zaszła w strukturze wielkościowej polskich przedsiębiorstw przemysłowych po 1989 roku?",
+                                      "options":  [
+                                                      "Zwiększyła się liczba wielkich kombinatów państwowych zatrudniających tysiące osób.",
+                                                      "Gwałtownie wzrosła liczba małych i średnich przedsiębiorstw (MŚP).",
+                                                      "Liczba firm pozostała bez zmian, zmieniła się tylko ich nazwa.",
+                                                      "Zlikwidowano wszystkie małe zakłady rzemieślnicze na rzecz korporacji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rozwój przedsiębiorczości doprowadził do powstania tysięcy małych firm, które elastycznie reagują na potrzeby rynku."
+                                  },
+                                  {
+                                      "question":  "Co jest główną barierą rozwoju przemysłu zaawansowanych technologii (high-tech) w Polsce?",
+                                      "options":  [
+                                                      "Całkowity brak surowców mineralnych niezbędnych do produkcji elektroniki.",
+                                                      "Zbyt duża liczba pracowników zatrudnionych w tradycyjnym rolnictwie.",
+                                                      "Niskie nakłady na działalność badawczo-rozwojową (B+R) w porównaniu do średniej UE.",
+                                                      "Brak dostępu do morza, co uniemożliwia eksport produktów."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Innowacyjność wymaga ogromnych nakładów finansowych na naukę i wdrożenia, które w Polsce są wciąż niższe niż w krajach zachodnich."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób restrukturyzacja wpłynęła na stan środowiska przyrodniczego w Polsce?",
+                                      "options":  [
+                                                      "Doprowadziła do katastrofalnego pogorszenia jakości powietrza i wód.",
+                                                      "Spowodowała poprawę stanu środowiska dzięki likwidacji uciążliwych zakładów i nowym technologiom.",
+                                                      "Nie miała żadnego wpływu na wielkość emisji zanieczyszczeń przemysłowych.",
+                                                      "Zwiększyła zużycie wody w przemyśle trzykrotnie w ciągu dekady."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zamknięcie starych hut i koksowni oraz montaż filtrów w zmodernizowanych zakładach drastycznie ograniczyły emisję pyłów i gazów."
+                                  },
+                                  {
+                                      "question":  "Czym różnią się inwestycje typu „brownfield” od „greenfield” w kontekście lokalizacji przemysłu?",
+                                      "options":  [
+                                                      "Brownfield to inwestycje w rolnictwie ekologicznym, a greenfield w leśnictwie.",
+                                                      "Greenfield to budowa nowych zakładów na niezabudowanych terenach, a brownfield to wykorzystanie starych terenów poprzemysłowych.",
+                                                      "Brownfield to inwestycje w kopalnie węgla brunatnego, a greenfield w energię odnawialną.",
+                                                      "Nie ma żadnej różnicy, są to synonimy oznaczające każdą inwestycję zagraniczną."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Inwestycje greenfield (na surowym korzeniu) są łatwiejsze w realizacji, ale zajmują nowe grunty; brownfield rewitalizują tereny zdegradowane."
+                                  },
+                                  {
+                                      "question":  "Dlaczego przemysł elektroniczny i IT koncentruje się w dużych miastach (Warszawa, Kraków, Wrocław)?",
+                                      "options":  [
+                                                      "Z powodu występowania w podłożu tych miast bogatych złóż kwarcu i krzemu.",
+                                                      "Dzięki korzyściom aglomeracji: dostępowi do wykwalifikowanej kadry, uczelni i infrastruktury.",
+                                                      "Ponieważ w miastach podatki dla firm są znacznie niższe niż na wsi.",
+                                                      "Z uwagi na zakaz budowy takich firm na terenach wiejskich i w małych miastach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Firmy technologiczne potrzebują specjalistów (absolwentów politechnik) oraz dobrej komunikacji (lotniska), co oferują metropolie."
+                                  },
+                                  {
+                                      "question":  "Jakie wyzwanie dla polskiej energetyki stanowi członkostwo w UE i polityka klimatyczna?",
+                                      "options":  [
+                                                      "Konieczność znacznego zwiększenia wydobycia węgla kamiennego.",
+                                                      "Wymóg dekarbonizacji i odejścia od węgla na rzecz źródeł niskoemisyjnych.",
+                                                      "Całkowity zakaz budowy nowych elektrowni wiatrowych i słonecznych.",
+                                                      "Nakaz importu energii elektrycznej wyłącznie z Federacji Rosyjskiej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Europejski Zielony Ład wymusza transformację energetyczną w kierunku OZE i atomu, co jest trudne dla kraju opartego na węglu."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „Przemysł 4.0\u0027 wspomniany w kontekście perspektyw rozwoju?",
+                                      "options":  [
+                                                      "Powrót do tradycyjnych manufaktur i pracy ręcznej bez użycia maszyn.",
+                                                      "Czwartą rewolucję przemysłową opartą na cyfryzacji, automatyzacji i wymianie danych.",
+                                                      "Wprowadzenie czterodniowego tygodnia pracy we wszystkich fabrykach.",
+                                                      "Przemysł oparty wyłącznie na czterech głównych surowcach mineralnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "To integracja systemów produkcyjnych z internetem rzeczy (IoT), chmurą obliczeniową i sztuczną inteligencją."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Po spadku w początkowym okresie transformacji, wartość produkcji przemysłowej w Polsce zaczęła rosnąć i obecnie wielokrotnie przekracza poziom z 1990 roku.",
+                                           "answer":  true,
+                                           "explanation":  "Choć na początku transformacji nastąpił spadek, od początku XXI w. rola przemysłu rośnie, a w 2018 r. produkcja była ponadczterokrotnie wyższa niż w 1990 r."
+                                       },
+                                       {
+                                           "sentence":  "Współczesny polski przemysł jest zdominowany przez wielkie państwowe kombinaty, podobnie jak w okresie PRL.",
+                                           "answer":  false,
+                                           "explanation":  "W wyniku prywatyzacji udział własności państwowej spadł do zaledwie ok. 1% zakładów przemysłowych; dominują firmy prywatne, w tym małe i średnie."
+                                       },
+                                       {
+                                           "sentence":  "Polska jest jednym z największych w Europie producentów jachtów i łodzi motorowych, mimo upadku produkcji wielkich statków oceanicznych.",
+                                           "answer":  true,
+                                           "explanation":  "Choć produkcja dużych statków zmalała, polskie stocznie wyspecjalizowały się w produkcji jachtów, łodzi motorowych i jednostek specjalistycznych."
+                                       },
+                                       {
+                                           "sentence":  "Głównym czynnikiem lokalizacji nowych zakładów przemysłowych w Polsce jest obecnie bliskość złóż surowców mineralnych.",
+                                           "answer":  false,
+                                           "explanation":  "Nowe przedsiębiorstwa powstają głównie w dużych aglomeracjach oraz w pobliżu autostrad i dróg szybkiego ruchu, co ułatwia logistykę i dostęp do kadr."
+                                       },
+                                       {
+                                           "sentence":  "Polska jest całkowicie samowystarczalna pod względem surowców energetycznych i nie musi importować ropy naftowej ani gazu.",
+                                           "answer":  false,
+                                           "explanation":  "Polska importuje ropę naftową (m.in. rurociągiem „Przyjaźń” i przez terminale morskie) oraz gaz ziemny (m.in. Gazociągiem Jamalskim i przez terminal LNG)."
+                                       },
+                                       {
+                                           "sentence":  "Udział produktów zaawansowanych technologii (high-tech) w polskim eksporcie jest wyższy niż średnia dla krajów Unii Europejskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Mimo wzrostu, udział ten wynosił w 2018 r. 8,4%, podczas gdy średnia unijna to 17,9%."
+                                       },
+                                       {
+                                           "sentence":  "Polska zajmuje czołową pozycję w Unii Europejskiej w produkcji sprzętu AGD, takiego jak pralki czy zmywarki.",
+                                           "answer":  true,
+                                           "explanation":  "Polska jest czołowym producentem wyrobów przemysłu przetwórczego, w tym sprzętu AGD i mebli."
+                                       },
+                                       {
+                                           "sentence":  "Transformacja gospodarcza po 1989 roku przebiegła bezkosztowo i nie wywołała negatywnych skutków społecznych.",
+                                           "answer":  false,
+                                           "explanation":  "Restrukturyzacja wiązała się z zamykaniem nierentownych zakładów, co w początkowej fazie doprowadziło do masowych zwolnień i wysokiego bezrobocia."
+                                       },
+                                       {
+                                           "sentence":  "Energetyka w Polsce wciąż w dużej mierze opiera się na spalaniu węgla kamiennego i brunatnego.",
+                                           "answer":  true,
+                                           "explanation":  "Utrzymanie przestarzałej energetyki opartej na spalaniu węgla jest wskazywane jako jeden z negatywnych skutków (lub zaszłości) strukturalnych."
+                                       },
+                                       {
+                                           "sentence":  "W strukturze wielkościowej polskich przedsiębiorstw przemysłowych dominują obecnie małe firmy zatrudniające poniżej 50 pracowników.",
+                                           "answer":  true,
+                                           "explanation":  "Małe przedsiębiorstwa stanowią obecnie ponad 70% wszystkich zakładów przemysłowych w Polsce."
+                                       },
+                                       {
+                                           "sentence":  "Kapitał zagraniczny nie odegrał żadnej istotnej roli w modernizacji polskiego przemysłu po 1989 roku.",
+                                           "answer":  false,
+                                           "explanation":  "Inwestorzy zagraniczni przynieśli kapitał, nowe technologie i metody zarządzania, co przyczyniło się do wzrostu eksportu i modernizacji fabryk."
+                                       }
+                                   ]
+                 }
+}

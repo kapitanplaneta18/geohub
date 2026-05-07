@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz4-t2",
+    "title": "Typy rolnictwa i regiony rolnicze",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rolnictwo samozaopatrzeniowe",
+        "definition": "Produkcja rolna odbywająca się głównie w celu zaspokojenia potrzeb właściciela gospodarstwa i jego rodziny, gdzie sprzedaje się jedynie niewielkie nadwyżki."
+      },
+      {
+        "term": "Rolnictwo towarowe",
+        "definition": "Odmienny typ rolnictwa, w którym przeznacza się na sprzedaż większość lub całość uzyskiwanej produkcji rolnej."
+      },
+      {
+        "term": "Rolnictwo intensywne",
+        "definition": "Rolnictwo odznaczające się wysokimi nakładami pracy lub kapitału oraz wysokimi plonami i wysoką wydajnością chowu."
+      },
+      {
+        "term": "Rolnictwo ekstensywne",
+        "definition": "Rolnictwo opierające się przede wszystkim na warunkach naturalnych, z relatywnie małymi nakładami pracy i kapitału oraz niskimi plonami."
+      },
+      {
+        "term": "Rolnictwo pierwotne",
+        "definition": "Ekstensywne i samozaopatrzeniowe rolnictwo oparte na wspólnej własności ziemi, wykorzystujące prymitywne narzędzia, np. motykę czy kij kopieniaczy."
+      },
+      {
+        "term": "Rolnictwo tradycyjne",
+        "definition": "Samozaopatrzeniowe rolnictwo odznaczające się nieco wyższym stopniem rozwoju niż pierwotne, stosujące np. system ugorowy lub dwupolówkę."
+      },
+      {
+        "term": "Rolnictwo rynkowe",
+        "definition": "Głównie intensywne rolnictwo towarowe, całkowicie nastawione na sprzedaż i maksymalizację zysków poprzez modernizację oraz meliorację."
+      },
+      {
+        "term": "Rolnictwo żarowo-odłogowe",
+        "definition": "System polegający na wypalaniu obszaru lasu pod uprawę i porzucaniu go jako odłóg na kilka lat, gdy gleba straci swą żyzność."
+      },
+      {
+        "term": "Pasterstwo koczownicze (nomadyzm)",
+        "definition": "Forma rolnictwa pierwotnego polegająca na nieustannym wędrowaniu pasterzy ze stadem w poszukiwaniu dogodnych pastwisk."
+      },
+      {
+        "term": "System ugorowy",
+        "definition": "Forma rolnictwa tradycyjnego opierająca się na dwu- lub trzyletnim zostawianiu pól odłogiem (ugorowaniu), co pozwala glebie odbudować żyzność."
+      },
+      {
+        "term": "Rolnictwo obszarnicze",
+        "definition": "Tradycyjna forma gospodarowania w Ameryce Południowej (hacjendy), odznaczająca się niskim poziomem mechanizacji mimo zatrudniania dużej liczby osób."
+      },
+      {
+        "term": "Intensywne rolnictwo owocowo-warzywne (ogrodnicze)",
+        "definition": "Wyspecjalizowana forma rolnictwa rynkowego, charakterystyczna m.in. dla południowej Europy, Kalifornii oraz Florydy."
+      },
+      {
+        "term": "Rolnictwo plantacyjne",
+        "definition": "Rolnictwo rynkowe, najczęściej w ciepłych strefach klimatycznych, nastawione na masową uprawę wieloletnich roślin jednego gatunku np. bananów, kawy."
+      },
+      {
+        "term": "Rolnictwo intensywne kapitałochłonne",
+        "definition": "Typ rolnictwa cechujący się wysokim stopniem mechanizacji, bardzo małymi nakładami pracy ręcznej i dużymi inwestycjami finansowymi."
+      },
+      {
+        "term": "Rolnictwo intensywne pracochłonne",
+        "definition": "Typ rolnictwa cechujący się przewagą pracy ręcznej i minimalną mechanizacją przy jednoczesnych bardzo dużych nakładach pracy ludzkiej."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Rolnictwo intensywne kapitałochłonne",
+        "pair2": "Kraje wysoko rozwinięte z dużą mechanizacją, np. państwa Europy Zachodniej (Holandia, Belgia)"
+      },
+      {
+        "pair1": "Rolnictwo intensywne pracochłonne",
+        "pair2": "Gęsto zaludnione regiony w państwach rozwijających się, np. uprawy ryżu w Chinach, Wietnamie, Indiach"
+      },
+      {
+        "pair1": "Rolnictwo ekstensywne mało pracochłonne (zmechanizowane)",
+        "pair2": "Obszary słabo zaludnionych państw wysoko rozwiniętych z wielkoobszarowymi farmami, np. USA i Kanada"
+      },
+      {
+        "pair1": "Rolnictwo ekstensywne pracochłonne (prymitywne)",
+        "pair2": "Małe i słabo zmechanizowane gospodarstwa w państwach najbiedniejszych, np. w Czadzie, Etiopii"
+      },
+      {
+        "pair1": "Rolnictwo plantacyjne",
+        "pair2": "Ciepłe strefy klimatyczne, np. masowe uprawy bawełny w Dolinie Nilu czy bananów w Kostaryce"
+      },
+      {
+        "pair1": "Pasterstwo koczownicze (nomadyzm)",
+        "pair2": "Pustynne obszary północnej Afryki, strefa Sahelu oraz suchy klimat zachodniej i środkowej Azji"
+      },
+      {
+        "pair1": "Rolnictwo żarowo-odłogowe",
+        "pair2": "Wilgotne regiony środkowej Afryki, południowo-wschodniej Azji oraz dorzecza Amazonki"
+      },
+      {
+        "pair1": "Region śródziemnomorski",
+        "pair2": "Przewaga upraw warzyw oraz upraw sadowniczych (cytrusów i winorośli), mało zróżnicowane warunki klimatyczne wymagające nawadniania"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Czym charakteryzuje się rolnictwo towarowe w przeciwieństwie do rolnictwa samozaopatrzeniowego?",
+        "options": [
+          "Produkcję przeznacza się na wyżywienie własnej rodziny.",
+          "Produkcję oddaje się w ramach darmowej pomocy sąsiadom.",
+          "Produkcję przeznacza się w większości na sprzedaż.",
+          "Produkcję przeznacza się na naturalną paszę dla zwierząt."
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z podręcznikiem, rolnictwo towarowe polega na przeznaczaniu większości lub całości uzyskanej produkcji na sprzedaż, w odróżnieniu od samozaopatrzeniowego, które zaspokaja głównie własne potrzeby rolników."
+      },
+      {
+        "question": "Które stwierdzenie prawidłowo opisuje relację między mechanizacją a poziomem rozwoju gospodarczego państw?",
+        "options": [
+          "W azjatyckim rolnictwie plantacyjnym maszyny zastępują całkowicie ludzi.",
+          "W krajach europejskich najpowszechniejsza jest obecnie praca ręczna ludzi.",
+          "W afrykańskich państwach rolniczych dominuje praca supernowoczesnych maszyn.",
+          "W krajach wysoko rozwiniętych dominuje zaawansowana mechanizacja."
+        ],
+        "answer": "D",
+        "explanation": "Podręcznik stwierdza, że dla krajów wysoko rozwiniętych, w których rolnictwo jest silnie zmechanizowane, charakterystyczne są niewielkie nakłady pracy rąk ludzkich, a zaawansowane korzystanie z maszyn."
+      },
+      {
+        "question": "Czym charakteryzuje się nomadyzm, będący jedną z form rolnictwa pierwotnego?",
+        "options": [
+          "Intensywna uprawa roślin w warunkach sztucznego nawadniania wielkich pól.",
+          "Ciągłe wędrowanie pasterzy ze swoimi stadami w poszukiwaniu pastwisk.",
+          "Masowa uprawa roślin wyłącznie jednego gatunku na rozległych plantacjach.",
+          "Zostawianie zaoranych pól odłogiem na kilka lat w celu odnowienia ich gleby."
+        ],
+        "answer": "B",
+        "explanation": "Nomadyzm, czyli pasterstwo koczownicze, polega według źródeł na nieustannym wędrowaniu pasterzy ze stadem w poszukiwaniu dogodnych pastwisk, np. na obszarach pustynnych czy w strefie Sahelu."
+      },
+      {
+        "question": "Jakie są główne cechy rolnictwa pierwotnego pod kątem własności i stosowanych narzędzi?",
+        "options": [
+          "Powszechna wspólna własność ziemi oraz wykorzystywanie prymitywnych narzędzi.",
+          "Dominacja indywidualnej własności prywatnej i zaawansowana technika nawadniania.",
+          "Całkowite nastawienie produkcji na maksymalizację zysków ze sprzedaży na eksport.",
+          "Wysoki stopień skomplikowanej mechanizacji oraz powszechne stosowanie nawożenia."
+        ],
+        "answer": "A",
+        "explanation": "Rolnictwo pierwotne opiera się na wspólnej własności ziemi oraz na pracy ludzi i zwierząt z wykorzystaniem prostych narzędzi, takich jak motyka czy kij kopieniaczy."
+      },
+      {
+        "question": "Jaka jest kluczowa różnica między rolnictwem intensywnym pracochłonnym a kapitałochłonnym?",
+        "options": [
+          "Kapitałochłonne występuje głównie na plantacjach azjatyckich i afrykańskich.",
+          "Pracochłonne wymaga znacznych inwestycji w bardzo nowoczesny sprzęt rolniczy.",
+          "Pracochłonne bazuje na pracy ręcznej, a kapitałochłonne na użyciu maszyn.",
+          "Oba typy są całkowicie uzależnione od bezpośrednich dotacji z budżetu państwa."
+        ],
+        "answer": "C",
+        "explanation": "Rolnictwo intensywne pracochłonne (np. w Chinach czy Indiach) wymaga bardzo dużych nakładów pracy ludzkiej przy niskiej mechanizacji. Kapitałochłonne z kolei opiera się na wysokim stopniu mechanizacji i inwestycjach, ograniczając pracę ręczną."
+      },
+      {
+        "question": "Jakie cechy najlepiej opisują specyfikę śródziemnomorskiego regionu rolniczego?",
+        "options": [
+          "Bardzo wysoki stopień mechanizacji przy wielkoobszarowych uprawach buraków.",
+          "Skrajnie ekstensywna gospodarka bazująca na wypasie olbrzymich stad bydła.",
+          "Powszechne występowanie starodawnych systemów żarowo-odłogowych i upraw ryżu.",
+          "Przewaga upraw owoców cytrusowych oraz częsta potrzeba nawadniania pól."
+        ],
+        "answer": "D",
+        "explanation": "W regionie śródziemnomorskim występuje mało zróżnicowany klimat, co często rodzi konieczność nawadniania, a główną formą produkcji są uprawy warzyw, cytrusów, winorośli oraz oliwek."
+      },
+      {
+        "question": "Jakie zjawisko charakteryzuje mało pracochłonne, wysoce zmechanizowane rolnictwo ekstensywne krajów takich jak USA czy Kanada?",
+        "options": [
+          "Bardzo wysokie plony przy całkowicie minimalnym użyciu nowoczesnych maszyn.",
+          "Niskie plony przy bardzo wysokiej towarowości oraz silnej mechanizacji prac.",
+          "Całkowite nastawienie ogromnej produkcji na wewnętrzne zapotrzebowanie farmy.",
+          "Bardzo wysoki udział ludzkiej pracy ręcznej przy uprawie starodawnych gatunków."
+        ],
+        "answer": "B",
+        "explanation": "Ten typ ekstensywnego rolnictwa odznacza się wprawdzie relatywnie niskimi plonami z hektara, ale dzięki uprawie wielkoobszarowej, pełnej mechanizacji i małym nakładom pracy cechuje go niezwykle wysoka towarowość."
+      },
+      {
+        "question": "Który z poniższych opisów najlepiej pasuje do rolnictwa plantacyjnego?",
+        "options": [
+          "Umiarkowane strefy klimatyczne, masowa produkcja warzyw dla wielkich miast.",
+          "Suche strefy klimatyczne, ogromna przewaga ekstensywnego chowu wielbłądów.",
+          "Ciepłe strefy, wieloletnia uprawa jednego gatunku na skalę masową.",
+          "Chłodne strefy klimatyczne, potężne nakłady pracy rąk przy ręcznych zbiorach."
+        ],
+        "answer": "C",
+        "explanation": "Rolnictwo plantacyjne rozwija się głównie w ciepłych strefach klimatycznych, opierając się na wysokotowarowej, masowej monokulturze (np. trzcina cukrowa, bawełna, banany, kawa)."
+      },
+      {
+        "question": "Na czym polega zasada działania systemu ugorowego występującego w rolnictwie tradycyjnym?",
+        "options": [
+          "Całkowita rezygnacja z sadzenia jakichkolwiek roślin na rzecz ekstensywnego chowu.",
+          "Bardzo intensywne nawadnianie pustynnych obszarów w celu uprawiania buraka i ryżu.",
+          "Wypalanie ogromnych fragmentów lasów równikowych dla pozyskania terenu pod zasiew.",
+          "Pozostawianie pól odłogiem, by gleba samoistnie odzyskała swoją naturalną żyzność."
+        ],
+        "answer": "D",
+        "explanation": "System ugorowy to tradycyjna metoda uprawy, w której polega się na dwu- lub trzyletnim ugorowaniu (zostawianiu odłogiem) części pól, aby gleba mogła naturalnie zregenerować swoją urodzajność."
+      },
+      {
+        "question": "Czym charakteryzuje się zachodnioeuropejski region rolniczy?",
+        "options": [
+          "Zdecydowanie niska intensywność produkcji przy równoczesnym olbrzymim zatrudnieniu.",
+          "Ogromna intensywność, duża towarowość i bardzo małe zatrudnienie pracowników.",
+          "Duża intensywność, bardzo niska towarowość oraz znaczny procent zatrudnionych w rolnictwie.",
+          "Skrajna ekstensywność produkcji wielkoobszarowej oraz potężne zatrudnienie pracowników wsi."
+        ],
+        "answer": "B",
+        "explanation": "Region zachodnioeuropejski charakteryzuje się dużą intensywnością i towarowością produkcji, dając najwyższe na świecie plony dzięki znacznym nakładom, a jednocześnie zatrudnienie w rolnictwie jest tam niewielkie."
+      },
+      {
+        "question": "Na jakich zasadach opiera się dbałość o urodzajność gleb w rolnictwie ekologicznym w porównaniu do rolnictwa uprzemysłowionego?",
+        "options": [
+          "Ekologiczne dba o użyźnianie gleb, uprzemysłowione zużywa dużo nawozów chemicznych.",
+          "Ekologiczne zapewnia gigantyczne zyski dla państwa, uprzemysłowione zaś chroni środowisko.",
+          "Ekologiczne koncentruje się na opryskach z powietrza, uprzemysłowione celowo unika chemikaliów.",
+          "Ekologiczne powszechnie używa pestycydów z fabryk, uprzemysłowione zaś kompostów naturalnych."
+        ],
+        "answer": "A",
+        "explanation": "Rolnictwo ekologiczne odrzuca sztuczne środki i zwiększa urodzajność naturalnie (np. nawozem odzwierzęcym), podczas gdy rolnictwo uprzemysłowione masowo korzysta z chemicznych nawozów mineralnych."
+      },
+      {
+        "question": "Jaki jest status organizmów modyfikowanych genetycznie (GMO) w rolnictwie ekologicznym?",
+        "options": [
+          "Charakteryzują się bardzo niską wydajnością oraz wyjątkowo słabą odpornością na szkodniki.",
+          "Zostały ostatecznie dopuszczone do powszechnego wykorzystania we wszystkich krajach Europy.",
+          "Są zakazane w rolnictwie ekologicznym ze względu na brak pełnej wiedzy o ich skutkach.",
+          "Stanowią absolutnie obowiązkowy i niezmiernie kluczowy element we wszystkich uprawach."
+        ],
+        "answer": "C",
+        "explanation": "Według podręcznika, w rolnictwie ekologicznym nie stosuje się organizmów modyfikowanych genetycznie (GMO), ponieważ długofalowe skutki ich stosowania na środowisko i zdrowie nie są jeszcze w pełni zbadane."
+      },
+      {
+        "question": "W jaki sposób rolnictwo ekstensywne mało pracochłonne w wielkich krajach rozwiniętych (np. USA) radzi sobie z niską wydajnością z hektara i osiąga bardzo wysoką produkcję całkowitą?",
+        "options": [
+          "Wykorzystuje się pradawne systemy żarowo-odłogowe na niezwykle żyznych i wilgotnych glebach.",
+          "Stosuje się niebotyczne ilości nawozów sztucznych oraz nasion genetycznie modyfikowanych.",
+          "Zatrudnia się gigantyczną rzeszę bardzo słabo opłacanych robotników sezonowych do trudnej pracy.",
+          "Uprawia się wielkie powierzchnie wykorzystując do tego bardzo zaawansowane maszyny."
+        ],
+        "answer": "D",
+        "explanation": "Paradoks ten opiera się na tym, że plony z pojedynczego hektara mogą być niższe (ekstensywność pod kątem natężenia zabiegów naturalnych), ale z racji potężnego areału (wielkich farm) i całkowitej mechanizacji praca kilku osób generuje ogromną produkcję globalną i jest wybitnie towarowa."
+      },
+      {
+        "question": "Z jakiego powodu rolnictwo obszarnicze (hacjendy) w Ameryce Południowej osiąga stosunkowo słabą produktywność mimo wysokiego zatrudnienia?",
+        "options": [
+          "Wykorzystuje wyłącznie niezwykle prymitywne narzędzia w systemie koczowniczo-pasterzowym.",
+          "Charakteryzuje się słabą mechanizacją i jest formą o podłożu ściśle tradycyjnym.",
+          "Opiera się niemal w całości na rolnictwie ekologicznym celowo i świadomie unikającym chemikaliów.",
+          "Skupia się wyłącznie na bardzo intensywnej uprawie wrażliwych roślin na mikroskopijnym areale."
+        ],
+        "answer": "B",
+        "explanation": "Rolnictwo obszarnicze jest formą gospodarki tradycyjnej, w której mimo zatrudniania mnóstwa ludzi poziom mechanizacji jest bardzo nikły, co bezpośrednio przekłada się na relatywnie niską produktywność prac."
+      },
+      {
+        "question": "Czym różni się region wschodnioazjatycki od regionu południowoazjatyckiego, mimo podobnego uzależnienia od warunków monsunowych?",
+        "options": [
+          "Region wschodni ma wielką towarowość i mechanizację, z kolei południowy bardzo niską.",
+          "Region wschodni opiera się niemal w całości na chowie owiec, południowy zaś głównie na bydle.",
+          "W regionie południowym stosuje się sztuczne nawozy, we wschodnim masowo wypala się połacie puszczy.",
+          "Oba wielkie regiony cechuje niezwykle identyczna i niska towarowość oraz całkowity brak maszyn na polach."
+        ],
+        "answer": "A",
+        "explanation": "Region wschodnioazjatycki odznacza się wysoce zmechanizowanym, intensywnym i wysokotowarowym rolnictwem z użyciem sztucznego nawożenia. Region południowoazjatycki ma natomiast bardzo niską towarowość i wymaga potężnych nakładów pracy rąk ludzkich (mały stopień mechanizacji)."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Gospodarstwa w rolnictwie ekstensywnym zmechanizowanym (np. na wielkich farmach w USA czy Kanadzie) odznaczają się rekordowo wysokimi plonami w przeliczeniu na jeden hektar upraw.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem, rolnictwo ekstensywne odznacza się niskimi plonami z hektara, a wysoka całkowita produkcja (towarowość) wynika z ogromnego areału wielkich gospodarstw, a nie z wydajności jednostkowej gleby."
+      },
+      {
+        "sentence": "Rolnictwo plantacyjne, ze względu na uprawę roślin w ciepłych strefach krajów rozwijających się, jest formą rolnictwa samozaopatrzeniowego, zaspokajającą wyłącznie potrzeby lokalnej ludności.",
+        "answer": false,
+        "explanation": "Rolnictwo plantacyjne to wyspecjalizowana forma rolnictwa rynkowego, która jest wysokotowarowa i całkowicie nastawiona na masową sprzedaż wybranej monokultury (np. bananów, kawy)."
+      },
+      {
+        "sentence": "Rolnictwo żarowo-odłogowe, wymagające pozyskiwania nowych gruntów przez wypalanie lasów, jest powszechnie stosowane na uprzemysłowionych obszarach rolniczych Europy Zachodniej.",
+        "answer": false,
+        "explanation": "Rolnictwo żarowo-odłogowe to system rolnictwa pierwotnego, który funkcjonuje nadal w niektórych częściach środkowej Afryki, południowo-wschodniej Azji oraz w Ameryce Łacińskiej (np. dorzecze Amazonki), a nie w Europie Zachodniej."
+      },
+      {
+        "sentence": "Pasterstwo koczownicze (nomadyzm) to zaawansowana forma rolnictwa rynkowego, w której ogromne stada zwierząt są utrzymywane przez cały rok w wysoce zmechanizowanych, ogrzewanych oborach.",
+        "answer": false,
+        "explanation": "Podręcznik opisuje nomadyzm jako jedną z form rolnictwa pierwotnego, polegającą na nieustannym wędrowaniu pasterzy ze stadem w poszukiwaniu dogodnych, naturalnych pastwisk."
+      },
+      {
+        "sentence": "W regionie śródziemnomorskim, z uwagi na stale wilgotne, mało zróżnicowane i bardzo chłodne warunki klimatyczne, przy uprawie owoców i warzyw praktycznie w ogóle nie stosuje się sztucznego nawadniania.",
+        "answer": false,
+        "explanation": "Region ten cechuje się mało zróżnicowanymi warunkami klimatycznymi, które często wymuszają konieczność sztucznego nawadniania upraw owoców cytrusowych, warzyw czy winorośli."
+      },
+      {
+        "sentence": "Tradycyjny system ugorowy polega na ciągłej, corocznej uprawie ryżu na tym samym polu przy użyciu ogromnych ilości nawozów mineralnych, aby ziemia nigdy nie leżała odłogiem.",
+        "answer": false,
+        "explanation": "System ugorowy polega na celowym, dwu- lub trzyletnim pozostawianiu pól w spoczynku (odłogiem), co pozwala glebie naturalnie odbudować swą żyzność."
+      },
+      {
+        "sentence": "Rolnictwo obszarnicze w Ameryce Południowej (hacjendy) charakteryzuje się ogromną produktywnością i wysokim poziomem mechanizacji, dzięki czemu całkowicie wyeliminowano w nim pracę ręczną.",
+        "answer": false,
+        "explanation": "Według podręcznika rolnictwo obszarnicze (hacjendy) to tradycyjna forma gospodarowania odznaczająca się bardzo niskim poziomem mechanizacji oraz niewielką produktywnością mimo zatrudniania dużej liczby pracowników."
+      },
+      {
+        "sentence": "Rolnictwo regionu zachodnioeuropejskiego odznacza się dużą intensywnością i najwyższymi na świecie plonami, co paradoksalnie łączy się z niewielkim odsetkiem ludności zatrudnionej w tym sektorze.",
+        "answer": true,
+        "explanation": "Zgadza się. W Europie Zachodniej duża intensywność, olbrzymie nakłady kapitału i nowoczesna technologia pozwalają uzyskiwać najwyższe plony z hektara przy równoczesnym bardzo małym zatrudnieniu rąk ludzkich w rolnictwie."
+      },
+      {
+        "sentence": "Rolnictwo ekstensywne, w przeciwieństwie do intensywnego, opiera się na wielkich nakładach finansowych, które są przeznaczane na drogie środki ochrony roślin oraz nawadnianie w strefach suchych.",
+        "answer": false,
+        "explanation": "Rolnictwo ekstensywne charakteryzuje się bardzo ograniczonym stosowaniem środków ochrony roślin czy nawozów sztucznych ze względu na małe nakłady finansowe, opierając się przede wszystkim na warunkach naturalnych."
+      },
+      {
+        "sentence": "Rolnictwo rynkowe we wszystkich swoich wariantach ma wyłącznie charakter skrajnie ekstensywny, opierając się na wypasie bydła i omijając całkowicie uprawę intensywną.",
+        "answer": false,
+        "explanation": "Podręcznik wyraźnie zaznacza, że rolnictwo rynkowe ma z reguły charakter intensywny. W wariancie ekstensywnym występuje rzadziej (np. wypas bydła na obszarach pampy czy prerii)."
+      },
+      {
+        "sentence": "Główną różnicą między regionem południowoazjatyckim a wschodnioazjatyckim jest to, że rolnictwo w regionie południowoazjatyckim ma relatywnie niską towarowość i wymaga bardzo dużych nakładów pracy ludzkiej.",
+        "answer": true,
+        "explanation": "To prawda. Region wschodnioazjatycki cechuje wysoki stopień mechanizacji, intensywność i wysoka towarowość, z kolei region południowoazjatycki opiera się na bardzo dużych nakładach pracy ręcznej (np. drobne rolnictwo tradycyjne) o niskiej towarowości."
+      },
+      {
+        "sentence": "Produkcja rolna w rolnictwie pierwotnym niemal w całości trafia na wielkie giełdy międzynarodowe, przynosząc zyski państwom słabo rozwiniętym gospodarczo.",
+        "answer": false,
+        "explanation": "Rolnictwo pierwotne jest w całości samozaopatrzeniowe. Pozyskane w nim płody rolne są zużywane przez rolników i ich rodziny, a ewentualne nadwyżki rzadko trafiają nawet na rynki lokalne, nie mówiąc o międzynarodowych."
+      }
+    ]
+  }
+}

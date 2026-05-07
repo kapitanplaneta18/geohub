@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t5",
+    "title": "Usługi edukacyjne i finansowe",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Usługi edukacyjne",
+        "definition": "Działalność oświatowa, której rozwój przyczynia się do wzrostu wskaźnika HDI oraz PKB danego kraju."
+      },
+      {
+        "term": "Kształcenie ustawiczne",
+        "definition": "Proces edukacji trwający przez całe życie, polegający m.in. na studiach podyplomowych i kursach, warunkujący rozwój gospodarki opartej na wiedzy."
+      },
+      {
+        "term": "Państwa o największych nakładach na prace badawczo-rozwojowe (wartość całkowita)",
+        "definition": "Kraje przeznaczające największe kwoty na naukę, do których należą przede wszystkim Stany Zjednoczone i Chiny, a w dalszej kolejności Japonia i Niemcy."
+      },
+      {
+        "term": "Operacje bankowe bierne",
+        "definition": "Operacje realizowane przez banki polegające na gromadzeniu wkładów finansowych i oszczędności od klientów."
+      },
+      {
+        "term": "Operacje bankowe czynne",
+        "definition": "Operacje bankowe polegające na udzielaniu kredytów klientom."
+      },
+      {
+        "term": "Operacje bankowe usługowe",
+        "definition": "Operacje wiążące się z prowadzeniem rachunków bankowych oraz wykonywaniem transferów pieniężnych."
+      },
+      {
+        "term": "Największe banki świata",
+        "definition": "Instytucje finansowe, których siedziby znajdują się głównie w Chinach (np. Industrial & Commercial Bank of China) i w USA (np. JPMorgan Chase)."
+      },
+      {
+        "term": "Giełda papierów wartościowych",
+        "definition": "Rynek umożliwiający przepływ kapitału inwestycyjnego między firmami czy krajami, na którym obraca się m.in. akcjami i obligacjami."
+      },
+      {
+        "term": "Giełda towarowa",
+        "definition": "Miejsce, w którym przedmiotem obrotu są dokumenty własności towarów i kształtowane są ceny surowców mineralnych oraz płodów rolnych."
+      },
+      {
+        "term": "Kapitalizacja giełdy",
+        "definition": "Wartość rynkowa wszystkich notowanych na danej giełdzie papierów wartościowych."
+      },
+      {
+        "term": "Największe giełdy papierów wartościowych na świecie",
+        "definition": "Giełdy o najwyższej kapitalizacji znajdujące się w Nowym Jorku (NYSE i Nasdaq), Tokio (Japan Exchange Group) oraz giełdy chińskie."
+      },
+      {
+        "term": "Największe giełdy towarowe na świecie",
+        "definition": "Giełdy wyspecjalizowane w obrocie towarami funkcjonujące w Chicago, Londynie i Tokio."
+      },
+      {
+        "term": "Usługi ubezpieczeniowe",
+        "definition": "Działalność mająca na celu zapewnienie pokrycia strat w dobrach majątkowych lub z tytułu zdarzeń losowych, z funduszu tworzonego ze składek ubezpieczeniowych."
+      },
+      {
+        "term": "Centra finansowe",
+        "definition": "Miasta lub obszary o dużej koncentracji usług finansowych, takich jak banki, giełdy i firmy ubezpieczeniowe, np. Nowy Jork, Tokio czy Londyn."
+      },
+      {
+        "term": "Czynniki sprzyjające funkcjonowaniu centrów finansowych",
+        "definition": "Zaliczają się do nich m.in. rozmiar rynku, płynność i przejrzystość handlu, wykwalifikowana kadra oraz stabilność systemu politycznego i ekonomicznego."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Kształcenie ustawiczne",
+        "pair2": "Nieustanne aktualizowanie wiedzy i zdobywanie umiejętności przez całe życie."
+      },
+      {
+        "pair1": "Giełda (papierów wartościowych)",
+        "pair2": "Instytucja umożliwiająca przepływ kapitału inwestycyjnego poprzez obrót akcjami i obligacjami."
+      },
+      {
+        "pair1": "Giełda (towarowa)",
+        "pair2": "Miejsce obrotu dokumentami własności towarów, kształtujące ceny surowców i płodów rolnych."
+      },
+      {
+        "pair1": "Izrael i Korea Południowa",
+        "pair2": "Państwa o najwyższym stosunku nakładów na prace badawczo-rozwojowe do wartości PKB."
+      },
+      {
+        "pair1": "Industrial & Commercial Bank of China",
+        "pair2": "Instytucja finansowa zajmująca pierwsze miejsce w światowym rankingu pod względem obrotów."
+      },
+      {
+        "pair1": "Instytucje parabankowe",
+        "pair2": "Firmy udzielające kredytów i przyjmujące wkłady, których działalność zwykle nie jest kontrolowana przez państwowy nadzór finansowy."
+      },
+      {
+        "pair1": "Kapitalizacja (giełdowa)",
+        "pair2": "Łączna wartość rynkowa wszystkich notowanych na parkiecie papierów wartościowych."
+      },
+      {
+        "pair1": "Hongkong, Singapur, Dubaj,",
+        "pair2": "Główne centra finansowe zlokalizowane w krajach azjatyckich poza Japonią."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jakie operacje bankowe polegają na bieżącym udzielaniu kredytów klientom instytucji finansowych?",
+        "options": [
+          "Operacje usługowe banków komercyjnych.",
+          "Operacje czynne banków komercyjnych.",
+          "Operacje bierne banków komercyjnych.",
+          "Operacje walutowe banków komercyjnych."
+        ],
+        "answer": "B",
+        "explanation": "Operacje bankowe czynne polegają na udzielaniu kredytów klientom."
+      },
+      {
+        "question": "Które państwa są siedzibami największych pod względem obrotów instytucji bankowych na świecie?",
+        "options": [
+          "Chiny i Stany Zjednoczone.",
+          "Niemcy i Wielka Brytania.",
+          "Szwajcaria i Arabia Saudyjska.",
+          "Japonia i Korea Południowa."
+        ],
+        "answer": "A",
+        "explanation": "Największe banki świata, takie jak Industrial & Commercial Bank of China oraz JPMorgan Chase, mają swoje główne siedziby w Chinach oraz w Stanach Zjednoczonych."
+      },
+      {
+        "question": "Na jakim rodzaju giełdy przedmiotem standardowego obrotu są akcje i obligacje przedsiębiorstw?",
+        "options": [
+          "Na giełdach papierów wartościowych.",
+          "Na giełdach towarowo-surowcowych.",
+          "Na giełdach walut i kryptowalut.",
+          "Na giełdach ubezpieczeń na życie."
+        ],
+        "answer": "A",
+        "explanation": "Giełda papierów wartościowych to rynek umożliwiający przepływ kapitału inwestycyjnego poprzez obrót akcjami i obligacjami."
+      },
+      {
+        "question": "Jaki proces najlepiej opisuje nieustanne zdobywanie nowej wiedzy i umiejętności przez całe życie?",
+        "options": [
+          "Edukacja wczesnoszkolna społeczeństwa.",
+          "Kształcenie ustawiczne społeczeństwa.",
+          "Szkolnictwo wyższe dla społeczeństwa.",
+          "E-learning podstawowy społeczeństwa."
+        ],
+        "answer": "B",
+        "explanation": "Kształcenie ustawiczne to proces edukacji trwający przez całe życie, warunkujący rozwój gospodarki opartej na wiedzy."
+      },
+      {
+        "question": "Jak nazywają się operacje bankowe polegające głównie na gromadzeniu wkładów finansowych i oszczędności?",
+        "options": [
+          "Operacje usługowe banków.",
+          "Operacje czynne banków.",
+          "Operacje bierne banków.",
+          "Operacje doradcze banków."
+        ],
+        "answer": "C",
+        "explanation": "Operacje bankowe bierne związane są z przyjmowaniem i gromadzeniem oszczędności od klientów banku."
+      },
+      {
+        "question": "Czym w systemie finansowym różni się giełda towarowa od giełdy papierów wartościowych?",
+        "options": [
+          "Towarowa obraca akcjami i obligacjami państwowymi.",
+          "Towarowa handluje walutami krajów rozwijających się.",
+          "Towarowa służy obrotowi prawami do surowców i płodów.",
+          "Towarowa zajmuje się wyłącznie metalami szlachetnymi."
+        ],
+        "answer": "C",
+        "explanation": "Giełda towarowa to miejsce obrotu dokumentami własności towarów, w którym kształtują się ceny surowców mineralnych i płodów rolnych."
+      },
+      {
+        "question": "Które państwa przeznaczają aktualnie najwyższy odsetek swojego PKB na prace badawczo-rozwojowe?",
+        "options": [
+          "Stany Zjednoczone oraz potężna gospodarka Chin.",
+          "Państwo Izrael oraz azjatycka Korea Południowa.",
+          "Republika Federalna Niemiec i skandynawska Szwecja.",
+          "Zjednoczone Królestwo oraz wysoce rozwinięta Japonia."
+        ],
+        "answer": "B",
+        "explanation": "Izrael i Korea Południowa przodują w światowych zestawieniach pod względem stosunku nakładów na prace badawczo-rozwojowe do wartości PKB."
+      },
+      {
+        "question": "Z jakiego powodu w państwach bardzo wysoko rozwiniętych (np. w Norwegii) sukcesywnie maleje liczba stacjonarnych oddziałów i bankomatów?",
+        "options": [
+          "Powodem jest rozwój bankowości opartej na kryptowalutach.",
+          "Powodem jest powszechny rozwój bankowości elektronicznej.",
+          "Powodem jest całkowity upadek mniejszych oddziałów banków.",
+          "Powodem jest zakaz stosowania gotówki wprowadzony ustawowo."
+        ],
+        "answer": "B",
+        "explanation": "Zmniejszanie się liczby fizycznych oddziałów i bankomatów w krajach skandynawskich to bezpośredni skutek upowszechnienia się bankowości elektronicznej i mobilnej."
+      },
+      {
+        "question": "Co oznacza termin kapitalizacja giełdy w globalnym kontekście rynków i operacji finansowych?",
+        "options": [
+          "Roczny zysk netto generowany przez wszystkie spółki giełdowe.",
+          "Wartość rynkowa wszystkich notowanych tam papierów wartościowych.",
+          "Łączna suma rocznych dywidend wypłacanych akcjonariuszom.",
+          "Wartość nominalna nowych akcji wprowadzanych systematycznie na rynek."
+        ],
+        "answer": "B",
+        "explanation": "Kapitalizacja giełdy to całkowita wartość rynkowa wszystkich notowanych na danym parkiecie papierów wartościowych."
+      },
+      {
+        "question": "W których z wymienionych miast zlokalizowane są największe pod względem obrotów giełdy towarowe na świecie?",
+        "options": [
+          "W Nowym Jorku, stolicy Japonii, Tokio, oraz stolicy Chin, Pekinie.",
+          "W Chicago, europejskim Londynie oraz w stolicy Japonii, Tokio.",
+          "W Szanghaju, azjatyckim Singapurze oraz w emiracie Dubaju.",
+          "W Paryżu, niemieckim Frankfurcie oraz w kanadyjskim Toronto."
+        ],
+        "answer": "B",
+        "explanation": "Największe na świecie giełdy wyspecjalizowane w obrocie towarowym funkcjonują w Chicago, Londynie i Tokio."
+      },
+      {
+        "question": "W jakich państwach występuje przestrzennie najwyższa statystycznie liczba uczniów przypadających na jednego nauczyciela?",
+        "options": [
+          "W państwach wysoko rozwiniętych, głównie w Europie Zachodniej.",
+          "W państwach nowo uprzemysłowionych, zlokalizowanych w Azji.",
+          "W państwach słabo rozwiniętych gospodarczo, głównie w Afryce.",
+          "W państwach postsocjalistycznych, położonych w Europie Wschodniej."
+        ],
+        "answer": "C",
+        "explanation": "Z powodu niewystarczających nakładów na edukację to w państwach słabo rozwiniętych (np. w wielu krajach afrykańskich) liczba uczniów przypadających na nauczyciela jest najwyższa."
+      },
+      {
+        "question": "Czym w strukturze rynku charakteryzują się i odróżniają zorganizowane instytucje parabankowe?",
+        "options": [
+          "Są to podmioty rygorystycznie nadzorowane przez fundusz walutowy.",
+          "Są to organizacje świadczące usługi doradcze dla dużych korporacji.",
+          "Są to firmy udzielające kredytów bez kontroli państwowego nadzoru.",
+          "Są to fundusze zbierające środki wyłącznie na cele infrastrukturalne."
+        ],
+        "answer": "C",
+        "explanation": "Instytucje parabankowe to firmy świadczące usługi podobne do bankowych, których działalność zwykle nie podlega państwowemu nadzorowi finansowemu."
+      },
+      {
+        "question": "Które uwarunkowania uznaje się za kluczowe przy powstawaniu i funkcjonowaniu globalnego centrum finansowego?",
+        "options": [
+          "Ogromny zasób taniej i bardzo łatwo dostępnej siły roboczej.",
+          "Płynność rynku, jego przejrzystość oraz stabilność ekonomiczna.",
+          "Ściśle centralne położenie geograficzne względem innych państw.",
+          "Całkowity brak jakichkolwiek państwowych uregulowań podatkowych."
+        ],
+        "answer": "B",
+        "explanation": "Centrom finansowym sprzyjają takie czynniki jak rozmiar i płynność rynku, przejrzystość handlu, dostępność wykwalifikowanej kadry oraz stabilność polityczno-ekonomiczna."
+      },
+      {
+        "question": "Jakie znaczenie w wymiarze ogólnokrajowym ma funkcjonujący poprawnie i stabilnie system bankowy?",
+        "options": [
+          "Zapewnia sprawny obieg środków i całkowicie racjonalne ich wykorzystanie.",
+          "Skupia się wyłącznie na handlu obcymi walutami z zewnętrznymi rynkami.",
+          "Wymusza stałe i niezwykle szybkie zwiększanie państwowego długu publicznego.",
+          "Znacząco i prawnie ogranicza możliwość podejmowania ryzyka przez start-upy."
+        ],
+        "answer": "A",
+        "explanation": "Prawidłowo działający system bankowy zapewnia płynny i bezproblemowy obieg środków finansowych w gospodarce, umożliwiając inwestowanie kapitału i udzielanie kredytów."
+      },
+      {
+        "question": "W którym regionie świata – poza rynkami Ameryki Północnej oraz Europy Zachodniej – koncentrują się współczesne globalne centra finansowe?",
+        "options": [
+          "W krajach zlokalizowanych tuż nad Morzem Śródziemnym oraz Morzem Bałtyckim.",
+          "W krajach azjatyckich, między innymi w Hongkongu, dynamicznym Singapurze czy Dubaju.",
+          "W potężnych i stale rozwijających się republikach całej centralnej Ameryki Południowej.",
+          "W wyjątkowo stabilnych ekonomicznie rejonach południowej i wschodniej Australii."
+        ],
+        "answer": "B",
+        "explanation": "W ciągu kilkunastu lat obok Nowego Jorku i Londynu ukształtowały się globalne centra finansowe w dynamicznych krajach azjatyckich, takich jak Singapur, Chiny (Szanghaj, Hongkong) i ZEA (Dubaj)."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Stany Zjednoczone i Chiny przeznaczają największy odsetek swojego PKB na prace badawczo-rozwojowe na świecie.",
+        "answer": false,
+        "explanation": "Stany Zjednoczone i Chiny przodują pod względem całkowitych (bezwzględnych) nakładów na prace badawczo-rozwojowe, jednak najwyższy stosunek tych nakładów do PKB wykazują Izrael i Korea Południowa."
+      },
+      {
+        "sentence": "Operacje bankowe bierne polegają na udzielaniu kredytów przez banki podmiotom gospodarczym i osobom prywatnym.",
+        "answer": false,
+        "explanation": "Udzielanie kredytów to operacje bankowe czynne. Operacje bierne polegają na gromadzeniu wkładów finansowych i oszczędności klientów."
+      },
+      {
+        "sentence": "Na giełdach towarowych przedmiotem obrotu są przede wszystkim akcje i obligacje państwowe.",
+        "answer": false,
+        "explanation": "Akcje i obligacje są przedmiotem obrotu na giełdach papierów wartościowych. Na giełdach towarowych handluje się dokumentami własności towarów, takich jak surowce mineralne czy płody rolne."
+      },
+      {
+        "sentence": "W państwach słabo rozwiniętych gospodarczo nakłady finansowe na oświatę są zawsze niższe niż środki inwestowane w służbę zdrowia.",
+        "answer": false,
+        "explanation": "W niektórych państwach słabo rozwiniętych, na przykład w Etiopii czy Namibii, nakłady na edukację przewyższają środki inwestowane w inne dziedziny infrastruktury społecznej, w tym w służbę zdrowia."
+      },
+      {
+        "sentence": "Działalność instytucji parabankowych podlega zazwyczaj ścisłej kontroli ze strony państwowych instytucji sprawujących nadzór nad rynkiem finansowym.",
+        "answer": false,
+        "explanation": "Instytucje parabankowe świadczą usługi podobne do bankowych, jednak ich działalność zazwyczaj nie jest kontrolowana przez państwowy nadzór finansowy."
+      },
+      {
+        "sentence": "Największe banki świata pod względem generowanych obrotów mają swoje główne siedziby na terytorium Szwajcarii i Niemiec.",
+        "answer": false,
+        "explanation": "W czołówce największych banków świata pod względem obrotów dominują instytucje finansowe zlokalizowane w Chinach (np. Industrial & Commercial Bank of China) oraz w Stanach Zjednoczonych (np. JPMorgan Chase)."
+      },
+      {
+        "sentence": "Centra finansowe o globalnym znaczeniu funkcjonują obecnie wyłącznie na kontynentach europejskim i północnoamerykańskim.",
+        "answer": false,
+        "explanation": "Centra finansowe o globalnym znaczeniu występują również w Azji, co potwierdza obecność takich ośrodków jak Tokio, Hongkong, Singapur, Szanghaj czy Dubaj."
+      },
+      {
+        "sentence": "Kształcenie ustawiczne polega na nieustannym aktualizowaniu wiedzy przez całe życie i stanowi jeden z kluczowych warunków rozwoju gospodarki opartej na wiedzy.",
+        "answer": true,
+        "explanation": "Kształcenie ustawiczne (np. poprzez studia podyplomowe i kursy) pozwala na dostosowanie umiejętności pracowników do zmian technologicznych i wymagań nowoczesnego rynku."
+      }
+    ]
+  }
+}

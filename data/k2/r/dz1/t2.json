@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-I-t2",
+    "title": "Wpływ dekolonizacji na współczesny obraz świata",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Kolonializm",
+        "definition": "Proces, w którym państwa podporządkowywały sobie inne obszary i korzystały z ich zasobów, który rozpoczął się na przełomie XV i XVI w. Przykład: Pierwszymi państwami kolonizatorskimi były Portugalia i Hiszpania, do których dołączyły m.in. Francja, Wielka Brytania i Holandia."
+      },
+      {
+        "term": "Dekolonizacja",
+        "definition": "Proces uzyskiwania niepodległości przez obszary kolonialne. Przykład: Pierwszym krajem powstałym na skutek dekolonizacji w 1776 r. były Stany Zjednoczone po odłączeniu się od Wielkiej Brytanii."
+      },
+      {
+        "term": "Rok Afryki",
+        "definition": "Określenie roku 1960, w którym wiele państw kolonialnych przyznało niepodległość swoim terytoriom w Afryce. Przykład: W tym roku Belgia oficjalnie przyznała niepodległość swojej kolonii – Kongu."
+      },
+      {
+        "term": "Sztuczne granice",
+        "definition": "Granice wyznaczane przez imperia kolonialne bez uwzględnienia uwarunkowań społeczno-kulturowych, więzi i podziałów plemiennych. Przykład: Doprowadziły one do krwawych wojen domowych w Afryce, takich jak konflikt plemion Tutsi i Hutu (np. ludobójstwo w Rwandzie w 1994 r.)."
+      },
+      {
+        "term": "Osłabienie państw metropolitalnych",
+        "definition": "Jedna z podstawowych przyczyn rozpadu systemu kolonialnego. Przykład: Państwa sprawujące nadzór nad koloniami zostały politycznie i militarnie wyczerpane światowymi konfliktami zbrojnymi, co ułatwiło koloniom dążenie do samostanowienia."
+      },
+      {
+        "term": "Neokolonializm",
+        "definition": "Zjawisko trwałej zależności i ingerencji polegające na wywieraniu presji na państwa postkolonialne przez dawne metropolie. Przykład: Wielu dawnych kolonizatorów z Europy nadal próbuje wpływać na procesy polityczne i gospodarcze na obszarze Afryki."
+      },
+      {
+        "term": "Dziedzictwo językowe",
+        "definition": "Zachowanie w wyzwolonych krajach języka dawnego kolonizatora jako języka urzędowego w celu ułatwienia administracji czy nauki. Przykład: W większości państw powstałych w Ameryce Łacińskiej i Afryce funkcjonują języki takie jak hiszpański czy francuski."
+      },
+      {
+        "term": "Dziedzictwo religijne i kulturowe",
+        "definition": "Narzucenie lokalnej ludności wierzeń, religii oraz wzorców życia typowych dla państw kolonizujących. Przykład: Dzięki wpływom hiszpańskim i portugalskim w większości krajów Ameryki Łacińskiej (na południe od USA) dominuje dziś katolicyzm."
+      },
+      {
+        "term": "Mieszane odmiany człowieka",
+        "definition": "Demograficzny skutek kolonializmu polegający na krzyżowaniu się przyjezdnych obywateli krajów metropolitalnych z rdzenną ludnością podbijanych terytoriów. Przykład: Proces ten doprowadził do powstania w dawnych koloniach grup takich jak Metysi i Mulaci."
+      },
+      {
+        "term": "Migracje do krajów metropolitalnych",
+        "definition": "Zjawisko masowych wyjazdów z dawnych kolonii do byłych mocarstw z powodu biedy i pogorszenia warunków życia po uzyskaniu niepodległości. Przykład: Duża liczba ludności z Półwyspu Indyjskiego żyjąca dziś w Wielkiej Brytanii lub ludności arabskiej we Francji."
+      },
+      {
+        "term": "Dysproporcje w rozwoju państw",
+        "definition": "Występowanie ogromnych różnic gospodarczych wśród dawnych terytoriów kolonialnych, wynikające ze zróżnicowanej polityki metropolii. Przykład: Byłe kolonie takie jak USA, Australia i Kanada są dziś bardzo bogate, podczas gdy inne (np. Kongo i Czad w Afryce) należą do najbiedniejszych."
+      },
+      {
+        "term": "Rozwój infrastruktury i gospodarki",
+        "definition": "Wprowadzanie przez kraje kolonizujące zdobyczy cywilizacyjnych, co stanowiło pozytywny skutek dla podbijanych obszarów. Przykład: Rozbudowa infrastruktury transportowej i rozwój rolnictwa stworzyły fundament, bez którego wielu wyzwolonym dziś krajom trudno byłoby funkcjonować."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Belgia",
+        "pair2": "Kraj metropolitalny, który w 1960 roku nazywanym Rokiem Afryki przyznał niepodległość Kongu"
+      },
+      {
+        "pair1": "Sztuczne i nieprzemyślane wyznaczenie granic",
+        "pair2": "Krwawe konflikty na tle etnicznym (np. masowe ludobójstwo plemion Tutsi i Hutu w Rwandzie)"
+      },
+      {
+        "pair1": "Napływ i dominacja obywateli z krajów metropolitalnych",
+        "pair2": "Mieszanie się ras i powstanie nowych odmian człowieka, w tym rzesz Metysów i Mulatów"
+      },
+      {
+        "pair1": "Kolonizacja hiszpańska i portugalska w Ameryce Łacińskiej",
+        "pair2": "Powszechna dominacja religii katolickiej w państwach położonych na południe od Stanów Zjednoczonych"
+      },
+      {
+        "pair1": "Zapaść ekonomiczna po odzyskaniu niepodległości i konflikty domowe",
+        "pair2": "Masowe migracje wyzwolonej ludności arabskiej z północnej Afryki do Francji"
+      },
+      {
+        "pair1": "Wielka Brytania",
+        "pair2": "Kraj kolonizatorski, od którego w 1776 r. uniezależniły się Stany Zjednoczone"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jak najprościej zdefiniować proces historyczny nazywany potocznie dekolonizacją?",
+        "options": [
+          "Ustalenie stałych granic dawnych państw kolonialnych",
+          "Uzyskiwanie niepodległości przez obszary kolonialne",
+          "Przejmowanie terytoriów przez nowe mocarstwa świata",
+          "Narzucanie lokalnej ludności nowej kultury oraz religii"
+        ],
+        "answer": "B",
+        "explanation": "Dekolonizacja to proces uzyskiwania pełnej niepodległości przez tereny, które wcześniej były koloniami innych państw."
+      },
+      {
+        "question": "Które ze współczesnych państw powstało jako pierwsze na skutek procesu dekolonizacji w 1776 r.?",
+        "options": [
+          "Związek Socjalistycznych Republik Radzieckich",
+          "Stany Zjednoczone Ameryki Północnej",
+          "Demokratyczna Republika Konga na kontynencie",
+          "Republika Związku Południowej Afryki"
+        ],
+        "answer": "B",
+        "explanation": "Pierwszym krajem powstałym na skutek dekolonizacji w 1776 r. były Stany Zjednoczone po odłączeniu się od Wielkiej Brytanii."
+      },
+      {
+        "question": "Który rok zapisał się w historii powszechnej jako tak zwany „Rok Afryki” ze względu na wyzwolenie wielu kolonii?",
+        "options": [
+          "Rok tysiąc dziewięćset pięćdziesiąty",
+          "Rok tysiąc dziewięćset sześćdziesiąty",
+          "Rok tysiąc dziewięćset osiemdziesiąty",
+          "Rok tysiąc dziewięćset dziewięćdziesiąty"
+        ],
+        "answer": "B",
+        "explanation": "Rok 1960 jest nazywany Rokiem Afryki, ponieważ wiele metropolii kolonialnych przyznało wówczas niepodległość swoim terytoriom w Afryce."
+      },
+      {
+        "question": "Co uznaje się za jedną z głównych politycznych przyczyn powojennego rozpadu rozległego systemu kolonialnego?",
+        "options": [
+          "Ogromne osłabienie państw kolonizatorskich na skutek wojen",
+          "Odkrycie innowacyjnych technologii rolniczych w koloniach",
+          "Całkowite wyczerpanie surowców na całym obszarze Afryki",
+          "Masowy napływ ludności metropolitalnej na tereny zamorskie"
+        ],
+        "answer": "A",
+        "explanation": "Kluczową przyczyną było wyczerpanie polityczne i militarne państw sprawujących nadzór na skutek m.in. światowych konfliktów zbrojnych."
+      },
+      {
+        "question": "Jakie były bezpośrednie konsekwencje wyznaczania sztucznych granic państwowych w dawnych koloniach w Afryce?",
+        "options": [
+          "Gwałtowny wzrost innowacyjności rolnictwa i lokalnych usług",
+          "Szybkie powstanie prężnie działających rynków finansowych",
+          "Ułatwienie długotrwałego porozumienia z państwami Europy",
+          "Wybuchanie licznych i krwawych wojen na tle czysto etnicznym"
+        ],
+        "answer": "D",
+        "explanation": "Sztuczne granice, nie uwzględniające głębokich podziałów etnicznych, stały się zarzewiem wojen, czego przykładem jest ludobójstwo w Rwandzie."
+      },
+      {
+        "question": "Jaka religia dominuje obecnie w większości państw Ameryki Łacińskiej jako wyraźny skutek działań kolonizatorów?",
+        "options": [
+          "Powszechny buddyzm narzucony przez mocarstwa przybywające z Azji",
+          "Ortodoksyjny islam wprowadzony przez wędrowną ludność arabską",
+          "Historyczny katolicyzm przyniesiony z terenów Hiszpanii i Portugalii",
+          "Odrębny protestantyzm wywodzący się ze środowisk brytyjskich"
+        ],
+        "answer": "C",
+        "explanation": "Ze względu na wielowiekowe wpływy Hiszpanii oraz Portugalii, w Ameryce Łacińskiej (na południe od USA) powszechnie dominuje katolicyzm."
+      },
+      {
+        "question": "Jak proces długotrwałego kolonializmu wpłynął na współczesny obraz gospodarczy dawnych terytoriów zależnych?",
+        "options": [
+          "Spowodował że wszystkie państwa postkolonialne silnie się wzbogaciły",
+          "Zmienił biedne państwa afrykańskie w czołowych eksporterów cyfrowych",
+          "Skutkował wykształceniem się ogromnych dysproporcji gospodarczych",
+          "Zrównał całkowicie status materialny dawnych mocarstw oraz ich kolonii"
+        ],
+        "answer": "C",
+        "explanation": "Kolonializm spowodował ogromne różnice w stopniu rozwoju – dawne kolonie to zarówno niezwykle bogate USA, jak i należące do najbiedniejszych Czad czy Kongo."
+      },
+      {
+        "question": "Jaki był powojenny, bardzo masowy kierunek zewnętrznych migracji ludności pochodzącej z obszarów postkolonialnych?",
+        "options": [
+          "Kierowanie się ludności z terenów azjatyckich do Ameryki Łacińskiej",
+          "Masowe podróże zróżnicowanej ludności afrykańskiej do Azji Wschodniej",
+          "Masowe zorganizowane wyjazdy byłych kolonizatorów do starych kolonii",
+          "Wyjazdy ubogich mieszkańców nowo powstałych państw do byłych mocarstw"
+        ],
+        "answer": "D",
+        "explanation": "Bieda i trudne warunki w wyzwolonych koloniach skłoniły rzesze obywateli (np. z Afryki Północnej do Francji) do migracji do dawnych metropolii."
+      },
+      {
+        "question": "Jaki trwały demograficzny skutek przyniosło długotrwałe współistnienie ludności napływowej z metropolii z rdzenną?",
+        "options": [
+          "Spowodowało gwałtowny i niemal całkowity zanik ludności białej w Europie",
+          "Doprowadziło do drastycznego zahamowania wszelkich procesów urodzeń",
+          "Przyniosło powstanie mieszanych odmian człowieka takich jak Metysi i Mulaci",
+          "Wymusiło we wszystkich krajach bezwzględną i surową separację obu grup"
+        ],
+        "answer": "C",
+        "explanation": "Długotrwałe przebywanie mocarstw i mieszanie się ludności spowodowało ukształtowanie się mieszanych odmian człowieka (szczególnie w obu Amerykach)."
+      },
+      {
+        "question": "Co uważa się za stosunkowo pozytywny materialny i gospodarczy skutek dominacji obcych mocarstw na nowych terenach?",
+        "options": [
+          "Nieograniczoną i rabunkową eksploatację lokalnych zasobów naturalnych",
+          "Rozbudowę stałej infrastruktury transportowej i fundamentów przemysłu",
+          "Trwałe upadki krajowych gałęzi rolnictwa w wyniku wprowadzania dotacji",
+          "Rygorystyczne zakazanie kolonizowanym wolnego i bezproblemowego handlu"
+        ],
+        "answer": "B",
+        "explanation": "Mimo dominacji, mocarstwa metropolitalne dokonały na podbitych obszarach wielu znaczących inwestycji (np. drogi, rolnictwo), bez których kraje te nie mogłyby dziś poprawnie funkcjonować."
+      },
+      {
+        "question": "Dlaczego ogromna część państw afrykańskich utrzymuje powszechnie stary język byłych kolonizatorów jako ustrój państwowy?",
+        "options": [
+          "Gwarantuje to stałe blokowanie wybuchania jakichkolwiek nowych konfliktów",
+          "Wymuszane jest to w sposób brutalny przez międzynarodowe umowy polityczne",
+          "Stanowi to najważniejszy wymóg umożliwiający przyjęcie danego kraju do ONZ",
+          "Zapewnia to o wiele sprawniejszą krajową administrację oraz ułatwia edukację"
+        ],
+        "answer": "D",
+        "explanation": "Znajomość mowy obcego kolonizatora ułatwia bardzo różnorodnej populacji państwa wspólną naukę, sprawną pracę oraz oficjalne kontakty międzynarodowe."
+      },
+      {
+        "question": "Który z poniższych opisów najtrafniej oddaje mechanizm zjawiska zwanego powszechnie w geografii potocznej neokolonializmem?",
+        "options": [
+          "Całkowicie symetryczna i partnerska wymiana sprzętu wojskowego państw",
+          "Nieformalna lecz silna ingerencja gospodarcza dawnych mocarstw w dawną kolonię",
+          "Planowana rekrutacja znacznej liczby wojskowych ekspertów mocarstw w kolonii",
+          "Całkowicie bezinteresowna darmowa i szeroka pomoc edukacyjna od starych potęg"
+        ],
+        "answer": "B",
+        "explanation": "Neokolonializm to proces, w którym byli zaborcy lub zamożne mocarstwa nadal nieformalnie wywierają ogromny wpływ gospodarczy i polityczny na wyzwolone państwa postkolonialne."
+      },
+      {
+        "question": "Z jakiej zasadniczej przyczyny w wyzwolonych wieloetnicznych krajach afrykańskich często wybuchają zaciekłe konflikty wewnętrzne?",
+        "options": [
+          "Metropolie regularnie finansowały tworzenie zbrojnych podziemnych ruchów",
+          "Światowe rynki narzucały skrajnie rygorystyczne limity produkcyjne dla terytoriów",
+          "Dawne organizacje międzynarodowe produkowały niebezpieczną broń nuklearną",
+          "Postkolonialne sztuczne granice całkowicie dzieliły jednorodne obszary kulturowe"
+        ],
+        "answer": "D",
+        "explanation": "Sztuczne granice nadane na konferencjach ignorowały naturalne granice osadnictwa, często odcinając od siebie silnie skłócone, historyczne wrogie ludy etniczne i plemiona (np. w Rwandzie)."
+      },
+      {
+        "question": "Które z wymienionych europejskich potęg państwowych rozpoczęły światowy kolonializm po wielkich odkryciach w XV wieku?",
+        "options": [
+          "Ogromne nadmorskie terytoria Królestwa Hiszpanii oraz rozwiniętej Portugalii",
+          "Rosnące państwa militarne Cesarstwa Niemieckiego i północne stany włoskie",
+          "Skandynawskie zimne Królestwo Szwecji i pomniejsze terytoria państwa Danii",
+          "Północne rozwinięte prowincje Stanów Zjednoczonych Ameryki oraz potężna Rosja"
+        ],
+        "answer": "A",
+        "explanation": "Proces podboju znany z przełomu XV i XVI wieku rozpoczął się za sprawą dwóch wczesnych państw z Półwyspu Iberyjskiego: Królestwa Portugalii oraz państwa hiszpańskiego."
+      },
+      {
+        "question": "Jaki specyficzny demograficzny wpływ na rozwinięte stare mocarstwa Europy miało zniesienie dawnego rygorystycznego systemu kolonii?",
+        "options": [
+          "Szybkie zahamowanie naturalnych procesów przyrostowych i wymieranie krajów",
+          "Ogromne i dramatyczne wyludnienie dużych obszarów po przegranych konfliktach",
+          "Pozytywne odmłodzenie powszechnej struktury wieku na skutek masowej imigracji",
+          "Trwałe powstrzymanie napływania ludności i radykalna polityka zamykania miast"
+        ],
+        "answer": "C",
+        "explanation": "Tabela porównawcza ukazuje obok wskaźników mieszania ras, że po stronie europejskich metropolii zauważono odmłodzenie struktury wieku, wynikające z osiedlania się ogromnej liczby ludzi młodych z obszarów kolonizowanych."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Rokiem Afryki nazywa się rok 1960, w którym państwa afrykańskie wspólnie podpisały historyczną deklarację niepodległości, zbrojnie przeciwstawiając się mocarstwom kolonialnym.",
+        "answer": false,
+        "explanation": "To błąd. Rok 1960 nazywany jest Rokiem Afryki, ponieważ wiele państw metropolitalnych samodzielnie i pokojowo przyznało wówczas niepodległość swoim terytoriom w Afryce (np. Belgia Kongu)."
+      },
+      {
+        "sentence": "Zjawisko neokolonializmu to proces, w którym wyzwolone państwa postkolonialne zbrojnie i politycznie podporządkowują sobie terytoria dawnych państw metropolitalnych w Europie.",
+        "answer": false,
+        "explanation": "Jest dokładnie odwrotnie. Neokolonializm to zjawisko, w którym dawne państwa metropolitalne (mocarstwa) nadal próbują wywierać wpływ na procesy polityczne i gospodarcze w swoich byłych koloniach."
+      },
+      {
+        "sentence": "Najważniejszym bezpośrednim skutkiem politycznym panowania imperiów kolonialnych w Afryce była powszechna budowa nowoczesnej infrastruktury transportowej oraz zaawansowanych gałęzi rolnictwa.",
+        "answer": false,
+        "explanation": "Budowa infrastruktury transportowej, przemysłu oraz rozwój rolnictwa to pozytywne skutki gospodarcze i materialne dominacji mocarstw, a nie polityczne."
+      },
+      {
+        "sentence": "Pierwszym w historii państwem powstałym na skutek dekolonizacji były Stany Zjednoczone, które w 1776 roku ostatecznie uniezależniły się od Francji.",
+        "answer": false,
+        "explanation": "Stany Zjednoczone były pierwszym krajem powstałym na skutek dekolonizacji w 1776 roku, ale uniezależniły się od Wielkiej Brytanii (13 kolonii brytyjskich), a nie od Francji."
+      },
+      {
+        "sentence": "Współczesne sztuczne granice w Afryce zostały wyznaczone przez dawne mocarstwa z ogromną dbałością o ukształtowane historycznie więzi kulturowe oraz podziały etniczne lokalnych plemion.",
+        "answer": false,
+        "explanation": "Granice te wyznaczano sztucznie, bez uwzględnienia uwarunkowań społeczno-kulturowych i etnicznych, co po dekolonizacji stało się źródłem krwawych konfliktów wewnętrznych (np. w Rwandzie)."
+      },
+      {
+        "sentence": "Utrzymywanie w wyzwolonych krajach Afryki i Ameryki Łacińskiej języka dawnego kolonizatora ma charakter pragmatyczny, ponieważ znajomość tego języka ułatwia funkcjonowanie państwa i podjęcie nauki.",
+        "answer": true,
+        "explanation": "Zgadza się. Język kolonizatorów zachowany w formie języka urzędowego ułatwia administrację, kontakty gospodarcze oraz daje miejscowej ludności lepszy dostęp do edukacji w mocarstwie kolonialnym."
+      },
+      {
+        "sentence": "Trudne warunki bytowe po uzyskaniu niepodległości przez państwa afrykańskie i azjatyckie spowodowały masowe wyjazdy ludności pochodzenia arabskiego i indyjskiego do dawnych krajów metropolitalnych.",
+        "answer": true,
+        "explanation": "Prawda. Konflikty i pogorszenie warunków życia sprawiły, że znaczna część ludności emigrowała do mocarstw, co skutkuje dziś obecnością Hindusów w Wielkiej Brytanii i Arabów we Francji."
+      },
+      {
+        "sentence": "Rozpad systemu kolonialnego i napływ bardzo dużej liczby młodych imigrantów z dawnych kolonii wywołał gwałtowne starzenie się struktury wieku w europejskich krajach metropolitalnych.",
+        "answer": false,
+        "explanation": "Masowy napływ imigrantów z kolonii wywarł przeciwny, pozytywny demograficznie skutek – doprowadził do odmłodzenia struktury wieku ludności w dawnych europejskich metropoliach."
+      },
+      {
+        "sentence": "Proces historyczny znany jako kolonializm doprowadził do wyrównania szans gospodarczych, sprawiając, że niemal wszystkie dawne terytoria kolonialne reprezentują dziś bardzo wysoki poziom rozwoju.",
+        "answer": false,
+        "explanation": "Kolonializm spowodował dysproporcje. Niektóre dawne kolonie są bogate (USA, Kanada, Australia), jednak inne (takie jak Czad czy Kongo) należą obecnie do najbiedniejszych państw na świecie."
+      },
+      {
+        "sentence": "Dominacja religii katolickiej w większości państw Ameryki Łacińskiej to bezpośredni kulturowy skutek kolonizacji tego kontynentu przez przybyszów z Hiszpanii oraz Portugalii.",
+        "answer": true,
+        "explanation": "Zgadza się. Oprócz przekazania swojego języka, Hiszpania i Portugalia pozostawiły po sobie trwałe dziedzictwo w postaci religii katolickiej, narzuconej wcześniej ludności rdzennej."
+      }
+    ]
+  }
+}

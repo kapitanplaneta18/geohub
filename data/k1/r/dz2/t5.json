@@ -1,0 +1,342 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz2-t5",
+                     "unit":  "II",
+                     "title":  "Ruch obiegowy Ziemi",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Ruch obiegowy Ziemi",
+                                              "definition":  "Ruch Ziemi wokół Słońca odbywający się po orbicie w kształcie elipsy, w której jednym z ognisk znajduje się Słońce."
+                                          },
+                                          {
+                                              "term":  "Peryhelium",
+                                              "definition":  "Punkt orbity, w którym odległość między Ziemią a Słońcem jest najmniejsza (ok. 147 mln km); Ziemia znajduje się w nim ok. 3 stycznia."
+                                          },
+                                          {
+                                              "term":  "Aphelium",
+                                              "definition":  "Punkt orbity, w którym Ziemia znajduje się najdalej od Słońca (ok. 152 mln km); Ziemia osiąga go ok. 5 lipca."
+                                          },
+                                          {
+                                              "term":  "Ekliptyka",
+                                              "definition":  "Pozorna droga, którą przebywa Słońce po sferze niebieskiej w ciągu roku, wyznaczająca płaszczyznę ruchu obiegowego Ziemi."
+                                          },
+                                          {
+                                              "term":  "Nachylenie osi ziemskiej",
+                                              "definition":  "Oś ziemska jest ustawiona względem płaszczyzny ekliptyki pod stałym kątem 66°34\u0027, co sprawia, że płaszczyzna równika tworzy z ekliptyką kąt 23°26\u0027."
+                                          },
+                                          {
+                                              "term":  "Rok zwrotnikowy",
+                                              "definition":  "Czas, po którym Ziemia osiąga to samo położenie na orbicie, trwający 365 dni, 5 godzin, 48 minut i 46 sekund."
+                                          },
+                                          {
+                                              "term":  "Rok gwiazdowy",
+                                              "definition":  "Czas, po którym Ziemia wraca do miejsca, z którego Słońce widać w tym samym położeniu względem odległych gwiazd (365 dni, 6 godzin, 9 minut i 10 sekund)."
+                                          },
+                                          {
+                                              "term":  "Przesilenie letnie (21 czerwca)",
+                                              "definition":  "Dzień, w którym Słońce góruje w zenicie na zwrotniku Raka; na półkuli północnej dzień jest najdłuższy w roku."
+                                          },
+                                          {
+                                              "term":  "Przesilenie zimowe (21 grudnia)",
+                                              "definition":  "Dzień, w którym Słońce góruje w zenicie na zwrotniku Koziorożca; na półkuli północnej noc jest najdłuższa, a dzień najkrótszy."
+                                          },
+                                          {
+                                              "term":  "Równonoc wiosenna (20 marca)",
+                                              "definition":  "Dzień, w którym Słońce góruje w zenicie na równiku, a na całej kuli ziemskiej dzień i noc trwają po 12 godzin; na półkuli północnej zaczyna się wiosna."
+                                          },
+                                          {
+                                              "term":  "Równonoc jesienna (22 września)",
+                                              "definition":  "Dzień, w którym Słońce góruje w zenicie na równiku, a na całej kuli ziemskiej dzień i noc trwają po 12 godzin; na półkuli północnej zaczyna się jesień."
+                                          },
+                                          {
+                                              "term":  "Dzień polarny",
+                                              "definition":  "Zjawisko, w którym Słońce nie zachodzi przez co najmniej 24 godziny; występuje w strefach podbiegunowych (np. 21 czerwca za kołem podbiegunowym północnym)."
+                                          },
+                                          {
+                                              "term":  "Noc polarna",
+                                              "definition":  "Zjawisko, w którym Słońce nie wschodzi przez co najmniej 24 godziny; występuje w strefach podbiegunowych (np. 21 grudnia za kołem podbiegunowym północnym)."
+                                          },
+                                          {
+                                              "term":  "Strefa międzyzwrotnikowa",
+                                              "definition":  "Obszar między zwrotnikami, w którym Słońce góruje w zenicie dwa razy w roku (a na samych zwrotnikach raz w roku)."
+                                          },
+                                          {
+                                              "term":  "Strefy umiarkowane",
+                                              "definition":  "Obszary między zwrotnikami a kołami podbiegunowymi, gdzie wysokość górowania Słońca zmniejsza się od zwrotników w kierunku kół podbiegunowych."
+                                          },
+                                          {
+                                              "term":  "Strefy podbiegunowe",
+                                              "definition":  "Obszary między kołami podbiegunowymi a biegunami, w których występują zjawiska dnia polarnego i nocy polarnej."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "21 czerwca",
+                                                 "pair2":  "Przesilenie letnie, Słońce w zenicie na zwrotniku Raka"
+                                             },
+                                             {
+                                                 "pair1":  "21 grudnia",
+                                                 "pair2":  "Przesilenie zimowe, Słońce w zenicie na zwrotniku Koziorożca"
+                                             },
+                                             {
+                                                 "pair1":  "20 marca",
+                                                 "pair2":  "Równonoc wiosenna, Słońce w zenicie na równiku"
+                                             },
+                                             {
+                                                 "pair1":  "Strefa międzyzwrotnikowa",
+                                                 "pair2":  "Słońce góruje w zenicie dwa razy w roku (poza zwrotnikami)"
+                                             },
+                                             {
+                                                 "pair1":  "Strefa podbiegunowa",
+                                                 "pair2":  "Występowanie zjawiska dnia polarnego i nocy polarnej"
+                                             },
+                                             {
+                                                 "pair1":  "Peryhelium",
+                                                 "pair2":  "Najmniejsza odległość Ziemi od Słońca (ok. 147 mln km)"
+                                             },
+                                             {
+                                                 "pair1":  "Aphelium",
+                                                 "pair2":  "Największa odległość Ziemi od Słońca (ok. 152 mln km)"
+                                             },
+                                             {
+                                                 "pair1":  "66°34\u0027",
+                                                 "pair2":  "Kąt nachylenia osi ziemskiej do płaszczyzny ekliptyki"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który z poniższych opisów najdokładniej charakteryzuje kształt orbity ziemskiej oraz położenie Słońca względem niej?",
+                                      "options":  [
+                                                      "Orbita jest idealnym okręgiem, a Słońce znajduje się w jego geometrycznym środku.",
+                                                      "Orbita ma kształt elipsy, a Słońce znajduje się w jednym z jej ognisk.",
+                                                      "Orbita ma kształt elipsy, a Słońce znajduje się w jej geometrycznym środku.",
+                                                      "Orbita jest nieregularna, a odległość Ziemi od Słońca jest stała przez cały rok."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ziemia okrąża Słońce po orbicie w kształcie elipsy; Słońce nie znajduje się w środku elipsy, lecz w jednym z jej ognisk."
+                                  },
+                                  {
+                                      "question":  "W którym momencie roku Ziemia znajduje się w peryhelium (najbliżej Słońca) i jaki ma to związek z porami roku na półkuli północnej?",
+                                      "options":  [
+                                                      "Ok. 3 stycznia, co przypada na okres zimy na półkuli północnej.",
+                                                      "Ok. 5 lipca, co jest przyczyną występowania lata na półkuli północnej.",
+                                                      "Ok. 21 marca, co pokrywa się z początkiem astronomicznej wiosny.",
+                                                      "Ok. 23 września, kiedy rozpoczyna się astronomiczna jesień."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Punkt orbity, w którym odległość jest najmniejsza (peryhelium), Ziemia osiąga ok. 3 stycznia, co nie jest przyczyną lata (na półkuli północnej trwa wtedy zima)."
+                                  },
+                                  {
+                                      "question":  "Ile wynosi kąt nachylenia osi ziemskiej do płaszczyzny ekliptyki?",
+                                      "options":  [
+                                                      "23°26\u0027",
+                                                      "45°00\u0027",
+                                                      "66°34\u0027",
+                                                      "90°00\u0027"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Oś ziemska jest ustawiona względem płaszczyzny ekliptyki pod kątem 66°34\u0027."
+                                  },
+                                  {
+                                      "question":  "Uczeń prowadzący obserwacje astronomiczne zauważył, że 22 czerwca w południe słoneczne gnomon nie rzucał żadnego cienia. W jakiej lokalizacji znajdował się uczeń?",
+                                      "options":  [
+                                                      "Na równiku.",
+                                                      "Na zwrotniku Raka.",
+                                                      "Na zwrotniku Koziorożca.",
+                                                      "Na kole podbiegunowym północnym."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W dniu przesilenia letniego (ok. 21-22 czerwca) Słońce góruje w zenicie (pod kątem 90°) na zwrotniku Raka."
+                                  },
+                                  {
+                                      "question":  "Jak zmienia się długość dnia i nocy w Polsce w dniach następujących bezpośrednio po 22 czerwca?",
+                                      "options":  [
+                                                      "Dzień nadal się wydłuża aż do przesilenia zimowego.",
+                                                      "Dzień zaczyna się skracać, a noc wydłużać.",
+                                                      "Długość dnia i nocy pozostaje stała przez około miesiąc.",
+                                                      "Noc się skraca, a dzień wydłuża aż do równonocy jesiennej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Po przesileniu letnim (ok. 21 czerwca), kiedy dzień jest najdłuższy, w kolejnych dniach dzień zaczyna się skracać."
+                                  },
+                                  {
+                                      "question":  "Mieszkaniec pewnej strefy oświetlenia Ziemi obserwuje Słońce w zenicie dokładnie dwa razy w roku. O jakiej strefie mowa?",
+                                      "options":  [
+                                                      "O strefie umiarkowanej północnej.",
+                                                      "O strefie podbiegunowej południowej.",
+                                                      "O strefie międzyzwrotnikowej (z wyłączeniem samych zwrotników).",
+                                                      "O strefach zwrotnikowych (tylko na liniach zwrotników)."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Tylko w strefie międzyzwrotnikowej Słońce góruje w zenicie. Następuje to dwa razy w roku (a na samych zwrotnikach raz w roku)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest maksymalna wysokość górowania Słońca w Warszawie (52°N) w dniu przesilenia letniego (22 VI)?",
+                                      "options":  [
+                                                      "38°00\u0027",
+                                                      "52°00\u0027",
+                                                      "61°26\u0027",
+                                                      "75°26\u0027"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wzór dla przesilenia letniego na półkuli północnej: h = 90° - φ + 23°26\u0027. h = 90° - 52° + 23°26\u0027 = 61°26\u0027."
+                                  },
+                                  {
+                                      "question":  "Oblicz wysokość górowania Słońca na równiku w dniu przesilenia zimowego (22 XII).",
+                                      "options":  [
+                                                      "90°00\u0027",
+                                                      "66°34\u0027",
+                                                      "43°08\u0027",
+                                                      "23°26\u0027"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W dniu przesilenia zimowego Słońce góruje w zenicie na zwrotniku Koziorożca (23°26\u0027S). Dla równika: h = 90° - 23°26\u0027 = 66°34\u0027."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych zjawisk jest bezpośrednim skutkiem ruchu obiegowego Ziemi przy stałym nachyleniu osi ziemskiej?",
+                                      "options":  [
+                                                      "Występowanie siły Coriolisa.",
+                                                      "Spłaszczenie Ziemi przy biegunach.",
+                                                      "Zmiana miejsca wschodu i zachodu Słońca na widnokręgu w ciągu roku.",
+                                                      "Pozorna wędrówka Słońca ze wschodu na zachód w ciągu doby."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Do następstw ruchu obiegowego należą m.in. zmiana miejsca wschodu i zachodu Słońca w ciągu roku. Pozostałe opcje wynikają z ruchu obrotowego."
+                                  },
+                                  {
+                                      "question":  "Na jakiej szerokości geograficznej (półkula północna) Słońce góruje na wysokości 50°00\u0027 w dniu równonocy wiosennej?",
+                                      "options":  [
+                                                      "40°00\u0027N",
+                                                      "50°00\u0027N",
+                                                      "90°00\u0027N",
+                                                      "23°26\u0027N"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W dniu równonocy h = 90° - φ. Przekształcając wzór: φ = 90° - h. φ = 90° - 50° = 40°."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się zjawisko dnia polarnego na biegunie północnym?",
+                                      "options":  [
+                                                      "Trwa dokładnie 24 godziny w dniu przesilenia letniego.",
+                                                      "Trwa pół roku: od równonocy wiosennej do równonocy jesiennej.",
+                                                      "Występuje tylko w latach przestępnych.",
+                                                      "Słońce wschodzi i zachodzi codziennie, ale noc jest bardzo krótka."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na biegunie północnym dzień polarny trwa pół roku (od równonocy wiosennej do jesiennej)."
+                                  },
+                                  {
+                                      "question":  "Które zdanie prawdziwie opisuje strefy oświetlenia Ziemi?",
+                                      "options":  [
+                                                      "Granice stref wyznaczają południki 0° i 180°.",
+                                                      "Strefa międzyzwrotnikowa to jedyny obszar, gdzie występują noce polarne.",
+                                                      "W strefach umiarkowanych Słońce nigdy nie góruje w zenicie.",
+                                                      "Granicą strefy podbiegunowej jest zwrotnik Raka."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W strefach umiarkowanych (między zwrotnikami a kołami podbiegunowymi) wysokość górowania Słońca jest zawsze mniejsza niż 90° (nigdy nie jest w zenicie)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna przyczyna, dla której ilość energii słonecznej docierającej do Ziemi zmienia się w cyklu rocznym?",
+                                      "options":  [
+                                                      "Znaczna zmiana odległości Ziemi od Słońca między aphelium a peryhelium.",
+                                                      "Stałe nachylenie osi ziemskiej w trakcie ruchu obiegowego, co zmienia kąt padania promieni.",
+                                                      "Cykliczne wybuchy na Słońcu zgodne z kalendarzem ziemskim.",
+                                                      "Zmienna prędkość obrotowa Ziemi wokół własnej osi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ruch obiegowy Ziemi i nachylenie osi ziemskiej względem płaszczyzny ekliptyki wywołują zmianę oświetlenia i pór roku. Różnica odległości (A) jest zbyt mała, by mieć kluczowe znaczenie."
+                                  },
+                                  {
+                                      "question":  "Podczas przesilenia zimowego (22 XII) na półkuli północnej, najdłuższy dzień występuje:",
+                                      "options":  [
+                                                      "Na biegunie północnym.",
+                                                      "Na zwrotniku Raka.",
+                                                      "Na równiku.",
+                                                      "Na zwrotniku Koziorożca (na półkuli południowej)."
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "W dniu przesilenia zimowego na półkuli północnej zaczyna się zima (najkrótszy dzień), natomiast na półkuli południowej zaczyna się lato i dzień jest najdłuższy (Słońce w zenicie nad zwrotnikiem Koziorożca)."
+                                  },
+                                  {
+                                      "question":  "Jeśli rok zwrotnikowy trwa 365 dni, 5 godzin i 48 minut, to dlaczego w kalendarzu co 4 lata dodajemy jeden dzień?",
+                                      "options":  [
+                                                      "Ponieważ Ziemia zwalnia w aphelium, co wydłuża rok o 24 godziny.",
+                                                      "Ponieważ rok kalendarzowy (365 dni) jest krótszy od zwrotnikowego o ok. 6 godzin, co kumuluje się po 4 latach.",
+                                                      "Ponieważ oś ziemska zmienia swoje nachylenie co 4 lata.",
+                                                      "Jest to błąd wynikający z przyjęcia czasu słonecznego zamiast gwiazdowego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rok zwrotnikowy trwa ok. 365 dni i prawie 6 godzin. Te dodatkowe godziny kumulują się, tworząc dodatkowy dzień co cztery lata."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Lato na półkuli północnej występuje wtedy, gdy Ziemia znajduje się w peryhelium, czyli w punkcie orbity najbliższym Słońca.",
+                                           "answer":  false,
+                                           "explanation":  "Ziemia jest w peryhelium ok. 3 stycznia (zima na półkuli północnej); pory roku zależą od nachylenia osi, a nie odległości."
+                                       },
+                                       {
+                                           "sentence":  "Słońce znajduje się w geometrycznym środku elipsy, po której Ziemia krąży w ruchu obiegowym.",
+                                           "answer":  false,
+                                           "explanation":  "Słońce nie leży w środku elipsy, lecz w jednym z jej ognisk."
+                                       },
+                                       {
+                                           "sentence":  "Na równiku dzień i noc trwają po 12 godzin przez cały rok, niezależnie od pór roku.",
+                                           "answer":  true,
+                                           "explanation":  "Na równiku Słońce wschodzi i zachodzi zawsze o tej samej porze, a dzień i noc trwają dokładnie po 12 godzin."
+                                       },
+                                       {
+                                           "sentence":  "Mieszkańcy Polski mogą obserwować Słońce w zenicie raz w roku, w dniu przesilenia letniego (22 czerwca).",
+                                           "answer":  false,
+                                           "explanation":  "Polska leży w strefie umiarkowanej, gdzie Słońce nigdy nie góruje w zenicie (maksymalna wysokość jest mniejsza niż 90°)."
+                                       },
+                                       {
+                                           "sentence":  "Oś ziemska jest nachylona do płaszczyzny ekliptyki pod stałym kątem wynoszącym 23°26\u0027.",
+                                           "answer":  false,
+                                           "explanation":  "Oś ziemska jest nachylona do płaszczyzny ekliptyki pod kątem 66°34\u0027; kąt 23°26\u0027 to odchylenie od pionu (lub kąt między równikiem a ekliptyką)."
+                                       },
+                                       {
+                                           "sentence":  "W strefie międzyzwrotnikowej (poza samymi zwrotnikami) Słońce góruje w zenicie dwa razy w roku.",
+                                           "answer":  true,
+                                           "explanation":  "W całej strefie międzyzwrotnikowej (oprócz granic) Słońce góruje w zenicie dwukrotnie."
+                                       },
+                                       {
+                                           "sentence":  "Zmiana miejsca wschodu i zachodu Słońca na widnokręgu w ciągu roku jest następstwem ruchu obrotowego Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Zmiana miejsca wschodu i zachodu Słońca w cyklu rocznym jest następstwem ruchu obiegowego Ziemi, a nie obrotowego."
+                                       },
+                                       {
+                                           "sentence":  "Podczas przesilenia zimowego (22 grudnia) Słońce góruje w zenicie nad zwrotnikiem Koziorożca.",
+                                           "answer":  true,
+                                           "explanation":  "W dniu przesilenia zimowego Słońce znajduje się w zenicie nad zwrotnikiem Koziorożca."
+                                       },
+                                       {
+                                           "sentence":  "Dzień polarny na biegunie północnym trwa od równonocy wiosennej do równonocy jesiennej, czyli pół roku.",
+                                           "answer":  true,
+                                           "explanation":  "Na biegunach dzień polarny trwa pół roku; na biegunie północnym od ok. 20 marca do 22 września."
+                                       },
+                                       {
+                                           "sentence":  "W dniu równonocy wiosennej (20 marca) dzień polarny rozpoczyna się jednocześnie na obu biegunach.",
+                                           "answer":  false,
+                                           "explanation":  "Dzień polarny zaczyna się wtedy tylko na biegunie północnym; na biegunie południowym zaczyna się noc polarna."
+                                       },
+                                       {
+                                           "sentence":  "Rok zwrotnikowy to czas, po którym Ziemia wraca do tego samego położenia względem odległych gwiazd.",
+                                           "answer":  false,
+                                           "explanation":  "To definicja roku gwiazdowego; rok zwrotnikowy to czas powrotu do tego samego położenia na orbicie (np. między równonocami)."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko nocy polarnej trwa dokładnie 6 miesięcy w każdym punkcie strefy podbiegunowej.",
+                                           "answer":  false,
+                                           "explanation":  "Półroczna noc polarna występuje tylko na biegunach; im bliżej kół podbiegunowych, tym czas jej trwania jest krótszy (na kołach to 24h)."
+                                       }
+                                   ]
+                 }
+}

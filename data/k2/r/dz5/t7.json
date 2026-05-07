@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t7",
+    "title": "Produkcja energii elektrycznej na świecie",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Elektrownie cieplne",
+        "definition": "Zakłady wytwarzające największą część (ok. 65%) energii elektrycznej na świecie. Spalają nieodnawialne surowce, takie jak węgiel kamienny, węgiel brunatny, ropę naftową lub gaz ziemny."
+      },
+      {
+        "term": "Elektrownie jądrowe",
+        "definition": "Zakłady wytwarzające energię elektryczną w wyniku reakcji rozszczepienia jąder atomów pierwiastków promieniotwórczych, najczęściej uranu."
+      },
+      {
+        "term": "Elektrownie wodne (hydroelektrownie)",
+        "definition": "Zakłady wytwarzające prąd poprzez wykorzystanie naturalnej siły przepływu lub spadku wody. Mają największy udział w produkcji energii spośród wszystkich źródeł odnawialnych."
+      },
+      {
+        "term": "Zalety elektrowni cieplnych",
+        "definition": "Stosunkowo niskie koszty budowy i produkcji energii, duża dostępność surowców oraz możliwość wykorzystania ciepła ze spalania do ogrzewania budynków."
+      },
+      {
+        "term": "Wady elektrowni cieplnych",
+        "definition": "Niska sprawność energetyczna, znaczna emisja zanieczyszczeń do atmosfery (np. CO2, tlenki siarki) oraz silne uzależnienie lokalizacji od miejsc występowania surowców, zwłaszcza węgla brunatnego."
+      },
+      {
+        "term": "Zalety elektrowni jądrowych",
+        "definition": "Niskie koszty wytwarzania energii elektrycznej, śladowa emisja zanieczyszczeń do atmosfery (przy bezawaryjnej pracy) oraz ogromna wydajność paliwa (np. z 1 kg uranu uzyskuje się tyle energii co z 2,5 tys. ton węgla)."
+      },
+      {
+        "term": "Wady elektrowni jądrowych",
+        "definition": "Bardzo wysokie koszty budowy i zamykania elektrowni, problem bezpiecznego składowania odpadów promieniotwórczych oraz ryzyko katastrofalnego w skutkach skażenia środowiska w przypadku awarii."
+      },
+      {
+        "term": "Zalety elektrowni wodnych",
+        "definition": "Uzyskiwanie czystej energii bez zanieczyszczania powietrza oraz zmniejszenie ryzyka występowania powodzi dzięki budowie sztucznych zbiorników retencyjnych."
+      },
+      {
+        "term": "Wady elektrowni wodnych",
+        "definition": "Wysokie koszty budowy, bardzo duża ingerencja w środowisko (zalewanie ogromnych obszarów i konieczność przesiedleń ludności) oraz całkowite uzależnienie od warunków przyrodniczych."
+      },
+      {
+        "term": "Elektrownie wiatrowe",
+        "definition": "Zakłady przetwarzające energię wiatru na prąd za pomocą systemu turbin. Budowane najczęściej na wybrzeżach oraz na obszarach górskich o odpowiedniej cyrkulacji powietrza."
+      },
+      {
+        "term": "Wady elektrowni wiatrowych",
+        "definition": "Ingerencja w krajobraz, duży hałas emitowany przez turbiny, wysokie koszty budowy oraz pełne uzależnienie od zmienności siły i kierunku wiatru."
+      },
+      {
+        "term": "Elektrownie słoneczne",
+        "definition": "Zakłady wykorzystujące do produkcji energii elektrycznej promieniowanie słoneczne za pomocą fotoogniw (baterii słonecznych) lub przetwarzające je na energię cieplną przez kolektory słoneczne."
+      },
+      {
+        "term": "Elektrownie geotermalne",
+        "definition": "Zakłady wykorzystujące gorącą wodę lub parę wodną z wnętrza Ziemi, pozyskiwaną za pomocą głębokich odwiertów. Cechują się nieszkodliwością dla środowiska, ale i wysokimi kosztami inwestycyjnymi."
+      },
+      {
+        "term": "Elektrownie na biomasę",
+        "definition": "Zakłady wytwarzające energię poprzez spalanie materii organicznej (np. drewna, celowo uprawianych roślin) lub biogazu, często w ramach współspalania z paliwami kopalnymi."
+      },
+      {
+        "term": "Bezpieczeństwo energetyczne",
+        "definition": "Stan zapewniający stabilność dostaw energii niezbędnej do funkcjonowania gospodarki. Wymaga m.in. dywersyfikacji źródeł dostaw, optymalizacji kosztów oraz kontrolowania udziału paliw importowanych."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Francja",
+        "pair2": "Kraj, w którym elektrownie jądrowe mają największy na świecie udział w strukturze produkcji energii elektrycznej (ponad 70%)."
+      },
+      {
+        "pair1": "Norwegia",
+        "pair2": "Kraj, w którym niemal 100% energii elektrycznej produkuje się w oparciu o silny spadek rzek w hydroelektrowniach."
+      },
+      {
+        "pair1": "Islandia",
+        "pair2": "Kraj, w którym około 30% energii elektrycznej wytwarza się wykorzystując ciepło z wnętrza Ziemi w elektrowniach geotermalnych."
+      },
+      {
+        "pair1": "Dania",
+        "pair2": "Kraj, w którym ponad połowę wytwarzanej energii elektrycznej uzyskuje się w elektrowniach wiatrowych."
+      },
+      {
+        "pair1": "Arabia Saudyjska",
+        "pair2": "Kraj, który ze względu na ogromne złoża surowców pokrywa swoje zapotrzebowanie niemal w 100% z elektrowni cieplnych opalanych ropą naftową."
+      },
+      {
+        "pair1": "Elektrownie słoneczne",
+        "pair2": "Ich zaletą jest nieszkodliwość dla środowiska, ale borykają się z problemem dużych wahań w zależności od pory dnia, roku oraz szerokości geograficznej."
+      },
+      {
+        "pair1": "Elektrownie wodne zbiornikowe",
+        "pair2": "Dostarczają czystą energię i zmniejszają zagrożenie powodziowe, jednak ich powstanie skutkuje m.in. zalaniem rozległych dolin i zmniejszeniem bioróżnorodności."
+      },
+      {
+        "pair1": "Elektrownie węglowe",
+        "pair2": "Cechują się niskimi kosztami budowy, ale generują wysoką emisję gazów cieplarnianych oraz zanieczyszczają środowisko ściekami poprodukcyjnymi i składowiskami popiołów."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Który typ elektrowni odpowiada za wytwarzanie największej części (około 65%) energii elektrycznej na świecie?",
+        "options": [
+          "Cieplne spalające paliwa kopalne",
+          "Jądrowe z wielkimi reaktorami",
+          "Wodne budowane na dużych rzekach",
+          "Wiatrowe w strefach przybrzeżnych"
+        ],
+        "answer": "A",
+        "explanation": "Zgodnie z podręcznikiem, największy udział w światowej produkcji energii elektrycznej (ok. 65%) mają elektrownie cieplne opalane m.in. węglem i gazem."
+      },
+      {
+        "question": "Które elektrownie charakteryzują się największą emisją szkodliwych gazów cieplarnianych oraz zanieczyszczeń?",
+        "options": [
+          "Duże elektrownie oparte na węglu",
+          "Nowoczesne elektrownie jądrowe",
+          "Rozległe elektrownie wiatrowe",
+          "Ogromne farmy paneli słonecznych"
+        ],
+        "answer": "A",
+        "explanation": "Elektrownie cieplne (węglowe) mają znaczny wpływ na środowisko, emitując CO2, tlenki siarki i azotu oraz zanieczyszczając wody i powietrze."
+      },
+      {
+        "question": "W jakich warunkach przyrodniczych najczęściej lokalizuje się wydajne elektrownie wodne (hydroelektrownie)?",
+        "options": [
+          "Na obszarach o bardzo płaskiej rzeźbie",
+          "Na rzekach o bardzo dużym spadku wód",
+          "W strefach suchych i pozbawionych opadów",
+          "Na terenach o płytkich wodach gruntowych"
+        ],
+        "answer": "B",
+        "explanation": "Elektrownie wodne powstają najczęściej na rzekach nizinnych o dużym przepływie lub rzekach górskich o znacznym spadku, co pozwala wykorzystać naturalną siłę wody."
+      },
+      {
+        "question": "Co stanowi podstawowy surowiec energetyczny wykorzystywany w procesach wewnątrz elektrowni jądrowych?",
+        "options": [
+          "Głębokie złoża węgla kamiennego",
+          "Bogata ruda uranu naturalnego",
+          "Podziemne złoża ropy naftowej",
+          "Rozległe złoża gazu ziemnego"
+        ],
+        "answer": "B",
+        "explanation": "Energetyka jądrowa produkuje energię w wyniku reakcji rozszczepienia jąder atomów pierwiastków promieniotwórczych, najczęściej uranu."
+      },
+      {
+        "question": "Jakie jest główne negatywne następstwo środowiskowe budowy dużych elektrowni wodnych zbiornikowych?",
+        "options": [
+          "Zalanie znacznych obszarów i wysiedlenia",
+          "Emisja szkodliwych pyłów do atmosfery",
+          "Całkowite wyczerpanie zasobów surowca",
+          "Wzrost lokalnego zagrożenia powodziowego"
+        ],
+        "answer": "A",
+        "explanation": "Budowa zbiorników zaporowych oznacza bardzo dużą ingerencję w środowisko, m.in. zalanie ogromnych obszarów i wymuszone przesiedlenia ludności."
+      },
+      {
+        "question": "Co w głównej mierze wydobywa się z charakterystycznych chłodni kominowych pracujących elektrowni jądrowych?",
+        "options": [
+          "Toksyczne tlenki siarki oraz azotu",
+          "Duże ilości gazów cieplarnianych",
+          "Nieszkodliwa, czysta para wodna",
+          "Silnie radioaktywne gazy odpadowe"
+        ],
+        "answer": "C",
+        "explanation": "Podczas bezawaryjnej pracy elektrownie jądrowe cechują się śladową emisją zanieczyszczeń do atmosfery. Chmury widoczne nad kominami to nieszkodliwa para wodna chłodząca system."
+      },
+      {
+        "question": "W którym z podanych państw niemal 100% produkcji energii elektrycznej pochodzi z elektrowni wodnych?",
+        "options": [
+          "Skandynawska, górzysta Norwegia",
+          "Oddalona od kontynentu Islandia",
+          "Nizinna, wietrzna i płaska Dania",
+          "Silnie uprzemysłowiona Francja"
+        ],
+        "answer": "A",
+        "explanation": "W Norwegii, dzięki dużej liczbie rzek o znacznym spadku, niemal 100% energii elektrycznej uzyskuje się w hydroelektrowniach."
+      },
+      {
+        "question": "Które z wymienionych państw posiada największy na świecie udział elektrowni jądrowych w produkcji energii (ponad 70%)?",
+        "options": [
+          "Wysoko rozwinięte Stany Zjednoczone",
+          "Silnie zurbanizowana Republika Francuska",
+          "Dynamicznie rosnąca Chińska Republika",
+          "Zasobna w surowce Federacja Rosyjska"
+        ],
+        "answer": "B",
+        "explanation": "Największy udział energetyki jądrowej w krajowej strukturze produkcji energii elektrycznej ma Francja (ponad 70%)."
+      },
+      {
+        "question": "Co stanowi jedną z głównych wad i przeszkód w rozwoju i działaniu elektrowni wiatrowych w wielu krajach?",
+        "options": [
+          "Znaczna emisja szkodliwych gazów cieplarnianych",
+          "Pełne uzależnienie od zmiennych warunków pogody",
+          "Konieczność importowania bardzo drogich paliw",
+          "Zauważalny wzrost ryzyka powodziowego w regionie"
+        ],
+        "answer": "B",
+        "explanation": "Główną wadą elektrowni wiatrowych, poza hałasem i ingerencją w krajobraz, jest całkowite uzależnienie od zmienności siły i kierunku wiatru."
+      },
+      {
+        "question": "Dlaczego Niemcy nie rezygnują z produkcji energii z węgla, mimo dostępu do technologii odnawialnych i jądrowych?",
+        "options": [
+          "Ponieważ brakuje tam wielkich rzek z dużym spadkiem",
+          "Ponieważ wprowadzono zakaz dla turbin wiatrowych",
+          "Ponieważ dąży się do bezpieczeństwa energetycznego",
+          "Ponieważ brakuje środków na systemy odnawialne"
+        ],
+        "answer": "C",
+        "explanation": "Niemcy dążą do zachowania bezpieczeństwa energetycznego i dlatego, by zdywersyfikować źródła i posiadać własne zaplecze, wciąż utrzymują ok. 35% udziału węgla w strukturze energii."
+      },
+      {
+        "question": "Skąd Islandia czerpie około 30% swojej energii elektrycznej, bazując na wyjątkowych warunkach naturalnych?",
+        "options": [
+          "Z bardzo silnego spadku lokalnych rzek",
+          "Z ciepła pochodzącego z wnętrza Ziemi",
+          "Ze spalania ogromnych ilości biomasy",
+          "Z siły wiatru w strefach przybrzeżnych"
+        ],
+        "answer": "B",
+        "explanation": "Islandia jest krajem o wyjątkowych warunkach geotermalnych, przez co około 30% energii elektrycznej pochodzi tam z elektrowni geotermalnych wykorzystujących ciepło Ziemi."
+      },
+      {
+        "question": "Z jakiego powodu ostatecznie zaniechano w 1990 r. budowy polskiej Elektrowni Jądrowej Żarnowiec?",
+        "options": [
+          "Z powodu silnych obaw po awarii siłowni w Czarnobylu",
+          "Z uwagi na nagłe odkrycie bogatych złóż ropy i gazu",
+          "Ze względu na brak odpowiednich zbiorników chłodzących",
+          "Z powodu szybkiego wyczerpania krajowych złóż węgla"
+        ],
+        "answer": "A",
+        "explanation": "Budowę Elektrowni Jądrowej Żarnowiec przerwano m.in. z powodu silnych obaw społecznych dotyczących bezpieczeństwa, które nasiliły się po katastrofie w Czarnobylu w 1986 r."
+      },
+      {
+        "question": "Z czego wynika fakt, że w krajach rozwijających się zużycie energii elektrycznej rośnie szybciej niż w rozwiniętych?",
+        "options": [
+          "Wprowadzają najnowsze energooszczędne maszyny",
+          "Przechodzą proces intensywnego rozwoju przemysłu",
+          "Charakteryzują się wyjątkowo mroźnym klimatem",
+          "Zamykają wszystkie nieefektywne elektrownie"
+        ],
+        "answer": "B",
+        "explanation": "W państwach nowo uprzemysłowionych (np. Chiny, Indie) obserwowany jest błyskawiczny rozwój przemysłu i infrastruktury (industrializacja), co drastycznie podnosi zapotrzebowanie na energię."
+      },
+      {
+        "question": "Dlaczego w państwach wysoko rozwiniętych tempo wzrostu produkcji i zużycia energii elektrycznej zaczęło hamować?",
+        "options": [
+          "Wdrażają procesy silnie energochłonne w hutnictwie",
+          "Stosują technologie o znacznie niższej energochłonności",
+          "Notują bardzo szybki i stały spadek liczby mieszkańców",
+          "Całkowicie likwidują przestarzałe zakłady przemysłowe"
+        ],
+        "answer": "B",
+        "explanation": "W krajach wysoko rozwiniętych powszechnie stosuje się energooszczędne technologie produkcji maszyn, urządzeń oraz sprzętu AGD, co skutecznie spowalnia wzrost zużycia energii."
+      },
+      {
+        "question": "Zgodnie z najnowszymi informacjami z podręcznika, jakie są docelowe plany względem polskiej energetyki jądrowej?",
+        "options": [
+          "Całkowita i szybka rezygnacja z energetyki jądrowej",
+          "Uruchomienie pierwszego reaktora w roku dwa tysiące",
+          "Wybudowanie dwóch nowoczesnych elektrowni do 2043",
+          "Oparcie produkcji prądu na starych typach reaktorów"
+        ],
+        "answer": "C",
+        "explanation": "Według najnowszych planów ujętych w podręczniku, do 2043 roku w Polsce mają funkcjonować dwie nowe elektrownie jądrowe."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Wielkie elektrownie wodne są całkowicie obojętne dla środowiska przyrodniczego, ponieważ nie emitują do atmosfery szkodliwych gazów cieplarnianych.",
+        "answer": false,
+        "explanation": "Mimo braku emisji spalin, budowa hydroelektrowni (zwłaszcza zbiornikowych) wiąże się z ogromną ingerencją w środowisko, m.in. zalaniem znacznych obszarów, koniecznością przesiedleń ludności oraz zmniejszeniem bioróżnorodności środowiska wodnego."
+      },
+      {
+        "sentence": "Główną przyczyną odchodzenia od energetyki jądrowej w niektórych państwach (np. w Niemczech czy Belgii) jest potężna emisja gazów cieplarnianych pochodzących z pracujących reaktorów.",
+        "answer": false,
+        "explanation": "Elektrownie jądrowe cechują się śladową emisją zanieczyszczeń do atmosfery przy bezawaryjnej pracy. Główną przyczyną odchodzenia od tej technologii są obawy społeczne dotyczące bezpieczeństwa (spotęgowane awariami w Czarnobylu i Fukushimie) oraz problem składowania odpadów promieniotwórczych."
+      },
+      {
+        "sentence": "Współcześnie zdecydowana większość (ponad 70%) energii elektrycznej na świecie produkowana jest z przyjaznych środowisku odnawialnych źródeł energii.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem, niemal 3/4 (około 75%) energii elektrycznej produkowanej na świecie nadal pochodzi ze źródeł nieodnawialnych (głównie ze spalania węgla kamiennego, brunatnego, gazu i ropy oraz z uranu)."
+      },
+      {
+        "sentence": "W państwach wysoko rozwiniętych gospodarczo wzrost produkcji i zużycia energii elektrycznej przebiega obecnie szybciej niż w państwach rozwijających się, takich jak Chiny czy Indie.",
+        "answer": false,
+        "explanation": "Jest odwrotnie. W państwach najbogatszych produkcja i zużycie rosną wolniej ze względu na wdrażanie energooszczędnych technologii. Z kolei w krajach nowo uprzemysłowionych (Chiny, Indie) wzrost ten jest znacznie szybszy z powodu intensywnego rozwoju przemysłu."
+      },
+      {
+        "sentence": "Francja charakteryzuje się największym na świecie udziałem energetyki jądrowej w krajowej strukturze produkcji energii elektrycznej, przekraczającym 70%.",
+        "answer": true,
+        "explanation": "Francja jest liderem w tej dziedzinie – jej elektrownie jądrowe pokrywają ponad 70% krajowego zapotrzebowania na energię elektryczną, co zapewnia krajowi duże bezpieczeństwo energetyczne."
+      },
+      {
+        "sentence": "Dzięki swojemu nadmorskiemu położeniu i silnym wiatrom, Norwegia wytwarza niemal 100% swojej energii elektrycznej za pomocą nowoczesnych elektrowni wiatrowych.",
+        "answer": false,
+        "explanation": "W Norwegii niemal 100% energii elektrycznej produkuje się w elektrowniach wodnych (hydroelektrowniach), wykorzystując do tego bardzo dogodne warunki naturalne w postaci rzek o dużym spadku, a nie wiatr."
+      },
+      {
+        "sentence": "Islandia wykorzystuje specyficzne warunki geologiczne swojego terytorium i produkuje około 30% energii elektrycznej w elektrowniach geotermalnych.",
+        "answer": true,
+        "explanation": "Zgodnie ze źródłami, w Islandii około 30% energii elektrycznej wytwarza się wykorzystując ciepło z wnętrza Ziemi (elektrownie geotermalne), które służy tam dodatkowo do ogrzewania większości budynków."
+      },
+      {
+        "sentence": "Głównymi wadami elektrowni wiatrowych, poza wysokimi kosztami budowy, są znaczna ingerencja w krajobraz, generowanie hałasu oraz całkowite uzależnienie od zmienności siły wiatru.",
+        "answer": true,
+        "explanation": "Są to podstawowe problemy wymienione w podręczniku, które ograniczają niezawodność energetyki wiatrowej jako stałego i stabilnego źródła zasilania."
+      },
+      {
+        "sentence": "Niemcy całkowicie zrezygnowały z utrzymywania elektrowni węglowych ze względu na bardzo silny rozwój technologii odnawialnych i jądrowych, obniżając ich udział do zera.",
+        "answer": false,
+        "explanation": "Mimo dostępu do technologii odnawialnych i ogromnych funduszy, w Niemczech wciąż około 35% energii elektrycznej pochodzi ze spalania węgla, co podyktowane jest m.in. dbaniem o krajowe bezpieczeństwo energetyczne."
+      },
+      {
+        "sentence": "Z 1 kilograma uranu wykorzystywanego w elektrowni jądrowej można wyprodukować w przybliżeniu tyle samo energii, co z około 2,5 tysiąca ton węgla kamiennego.",
+        "answer": true,
+        "explanation": "ten przykład dla zobrazowania ogromnej wydajności paliwa jądrowego w porównaniu do tradycyjnych, nieodnawialnych paliw kopalnych."
+      },
+      {
+        "sentence": "Największy na świecie zespół farm wiatrowych znajduje się w chińskiej prowincji Gansu, co świadczy o skali inwestycji w energię odnawialną w państwach o wysokim zapotrzebowaniu.",
+        "answer": true,
+        "explanation": "To fakt potwierdzony w podręczniku. Chiny budują w prowincji Gansu potężny zespół elektrowni wiatrowych, którego docelowa moc ma wynosić aż 20 tysięcy MW."
+      },
+      {
+        "sentence": "Obecnie znaczna część zapotrzebowania na energię elektryczną w Polsce jest stale pokrywana z prądu generowanego przez funkcjonującą na północy kraju elektrownię jądrową.",
+        "answer": false,
+        "explanation": "Obecnie w Polsce nie działa żadna elektrownia jądrowa. Budowę obiektu w Żarnowcu przerwano w 1990 roku, a uruchomienie nowych bloków jądrowych planowane jest docelowo dopiero do 2043 roku."
+      }
+    ]
+  }
+}

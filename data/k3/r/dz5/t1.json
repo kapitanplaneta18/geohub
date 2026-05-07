@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz5-t1",
+                     "title":  "Warunki rozwoju rolnictwa",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Okres wegetacyjny w Polsce",
+                                              "definition":  "Liczba dni w roku, w których średnia dobowa temperatura powietrza wynosi co najmniej 5°C, umożliwiając wzrost roślin; w Polsce trwa od poniżej 190 dni (góry, północny wschód) do ponad 225 dni (zachód i południe)."
+                                          },
+                                          {
+                                              "term":  "Warunki agroklimatyczne",
+                                              "definition":  "Zespół czynników klimatycznych (temperatura, opady) wpływających na rolnictwo; w Polsce najlepsze występują na Nizinie Śląskiej i w Kotlinie Sandomierskiej, a najtrudniejsze w górach i na Pojezierzu Suwalskim."
+                                          },
+                                          {
+                                              "term":  "Gleby bielicowe i rdzawe",
+                                              "definition":  "Gleby słabej jakości (V i VI klasa bonitacyjna), wytworzone głównie z piasków; stanowią znaczną część gleb w Polsce i są często zalesiane lub odłogowane."
+                                          },
+                                          {
+                                              "term":  "Gleby płowe i brunatne",
+                                              "definition":  "Najpowszechniejsze gleby w Polsce (ok. 52% powierzchni), zaliczane do średniej jakości (III i IV klasa), wytworzone głównie z glin i piasków gliniastych."
+                                          },
+                                          {
+                                              "term":  "Mady",
+                                              "definition":  "Bardzo żyzne gleby występujące w dolinach rzek i deltach (np. Żuławy Wiślane), powstałe z osadów rzecznych; wymagają regulacji stosunków wodnych."
+                                          },
+                                          {
+                                              "term":  "Czarnoziemy",
+                                              "definition":  "Najlepsze, bardzo żyzne gleby (I klasa bonitacyjna) o dużej zawartości próchnicy, występujące w Polsce rzadko (ok. 1% powierzchni), np. na Wyżynie Lubelskiej."
+                                          },
+                                          {
+                                              "term":  "Rozdrobnienie agrarne",
+                                              "definition":  "Cecha polskiego rolnictwa polegająca na dominacji małych gospodarstw o niewielkiej powierzchni, wynikająca z historycznych podziałów ziemi, szczególnie widoczna w Polsce południowo-wschodniej."
+                                          },
+                                          {
+                                              "term":  "Struktura wielkościowa gospodarstw",
+                                              "definition":  "Podział gospodarstw rolnych według ich powierzchni; w Polsce średnia wielkość wynosi ok. 11,3 ha, przy czym na północy dominują duże gospodarstwa, a na południu małe."
+                                          },
+                                          {
+                                              "term":  "Struktura własnościowa rolnictwa",
+                                              "definition":  "Podział gruntów rolnych ze względu na właściciela; w Polsce zdecydowanie dominuje sektor prywatny (gospodarstwa indywidualne), stanowiący niemal całą własność rolną."
+                                          },
+                                          {
+                                              "term":  "Państwowe Gospodarstwa Rolne (PGR)",
+                                              "definition":  "Wielkoobszarowe gospodarstwa państwowe tworzone w PRL, głównie na Ziemiach Odzyskanych; ich dziedzictwem jest przewaga dużych gospodarstw na północy i zachodzie Polski."
+                                          },
+                                          {
+                                              "term":  "Czynniki pozaprzyrodnicze rozwoju rolnictwa",
+                                              "definition":  "Ekonomiczne i społeczne uwarunkowania rolnictwa, do których należą: struktura agrarna, polityka rolna (UE i państwa), poziom kultury rolnej oraz kapitał ludzki."
+                                          },
+                                          {
+                                              "term":  "Kultura rolna",
+                                              "definition":  "Poziom zaawansowania metod uprawy i hodowli, mierzony m.in. stopniem mechanizacji (liczba ciągników) oraz zużyciem nawozów mineralnych (chemizacja)."
+                                          },
+                                          {
+                                              "term":  "Wspólna Polityka Rolna (WPR)",
+                                              "definition":  "System wsparcia rolnictwa w Unii Europejskiej, obejmujący dopłaty bezpośrednie i fundusze na modernizację, który wpłynął na rozwój polskich gospodarstw po 2004 roku."
+                                          },
+                                          {
+                                              "term":  "Program Rozwoju Obszarów Wiejskich (PROW)",
+                                              "definition":  "Instrument wsparcia finansowego ze środków UE i krajowych, przeznaczony na inwestycje w gospodarstwach, rozwój infrastruktury wiejskiej i aktywizację ludności."
+                                          },
+                                          {
+                                              "term":  "Susza glebowa",
+                                              "definition":  "Niedobór wody w glebie uniemożliwiający prawidłowy rozwój roślin; w Polsce ryzyko suszy wzrasta m.in. na Kujawach i Pojezierzu Wielkopolskim z powodu ocieplenia klimatu."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Żuławy Wiślane",
+                                                 "pair2":  "Bardzo korzystne warunki glebowe (żyzne mady),"
+                                             },
+                                             {
+                                                 "pair1":  "Pojezierze Suwalskie i obszary górskie",
+                                                 "pair2":  "Najkrótszy okres wegetacyjny w Polsce (poniżej 190 dni),"
+                                             },
+                                             {
+                                                 "pair1":  "Polska południowo-wschodnia (Małopolska, Podkarpacie)",
+                                                 "pair2":  "Duże rozdrobnienie agrarne (przewaga małych gospodarstw)"
+                                             },
+                                             {
+                                                 "pair1":  "Polska północno-zachodnia (Zachodniopomorskie, Warmińskie)",
+                                                 "pair2":  "Przewaga dużych gospodarstw rolnych (powyżej 15 ha)"
+                                             },
+                                             {
+                                                 "pair1":  "Nizina Śląska i Kotlina Sandomierska",
+                                                 "pair2":  "Najkorzystniejsze warunki agroklimatyczne (długi okres wegetacyjny),"
+                                             },
+                                             {
+                                                 "pair1":  "Wyżyna Lubelska",
+                                                 "pair2":  "Występowanie bardzo żyznych czarnoziemów"
+                                             },
+                                             {
+                                                 "pair1":  "Przystąpienie Polski do UE",
+                                                 "pair2":  "Objęcie rolnictwa systemem dopłat bezpośrednich i modernizacja,"
+                                             },
+                                             {
+                                                 "pair1":  "Pojezierze Wielkopolskie i Kujawy",
+                                                 "pair2":  "Niedobory wody i konieczność nawadniania gleb,"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym jest okres wegetacyjny, będący jednym z kluczowych czynników agroklimatycznych?",
+                                      "options":  [
+                                                      "Liczbą dni w roku, w których występują opady atmosferyczne niezbędne dla wegetacji.",
+                                                      "Liczbą dni w roku ze średnią dobową temperaturą powietrza co najmniej 5°C.",
+                                                      "Okresem wolnym od przymrozków, trwającym w Polsce zazwyczaj od maja do września.",
+                                                      "Czasem potrzebnym do pełnego dojrzewania zbóż ozimych, liczonym od siewu do zbioru."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Długość okresu wegetacyjnego w Polsce jest zróżnicowana (od 190 do 225 dni) i wpływa na dobór uprawianych roślin."
+                                  },
+                                  {
+                                      "question":  "Jaki typ gleb dominuje w strukturze glebowej Polski?",
+                                      "options":  [
+                                                      "Czarnoziemy i mady, które łącznie zajmują ponad połowę powierzchni kraju.",
+                                                      "Gleby płowe i brunatne.",
+                                                      "Gleby górskie i rędziny, charakterystyczne dla obszarów wyżynnych.",
+                                                      "Gleby bagienne i torfowe, występujące na pojezierzach i w dolinach rzek."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gleby płowe i brunatne, powstałe głównie na glinach i piaskach gliniastych, stanowią ok. 52% wszystkich gleb w Polsce."
+                                  },
+                                  {
+                                      "question":  "Które regiony Polski charakteryzują się najkorzystniejszymi warunkami agroklimatycznymi, w tym najdłuższym okresem wegetacyjnym?",
+                                      "options":  [
+                                                      "Pojezierze Suwalskie i Mazury, gdzie zimy są najdłuższe a lata najkrótsze.",
+                                                      "Nizina Śląska i Kotlina Sandomierska.",
+                                                      "Karpaty i Sudety, gdzie uprawę utrudniają strome stoki i krótki okres wegetacji.",
+                                                      "Pobrzeże Szczecińskie i Koszalińskie, narażone na silne wiatry od morza."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W tych regionach okres wegetacyjny przekracza 220-225 dni, a sumy ciepła są najwyższe, co sprzyja uprawie roślin ciepłolubnych (kukurydza, buraki)."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na strukturę agrarną Polski południowo-wschodniej (Małopolska, Podkarpacie) miały uwarunkowania historyczne (zabory)?",
+                                      "options":  [
+                                                      "Doprowadziły do powstania wielkoobszarowych gospodarstw państwowych typowych dla zaboru pruskiego.",
+                                                      "Spowodowały duże rozdrobnienie gospodarstw na skutek dzielenia ziemi między spadkobierców.",
+                                                      "Wymusiły specjalizację w hodowli bydła mlecznego na dużych pastwiskach górskich.",
+                                                      "Zahamowały rozwój rolnictwa na rzecz przemysłu ciężkiego, co doprowadziło do zaniku wsi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W zaborze austriackim (Galicja) panowała bieda („nędza galicyjska”) i zwyczaj dzielenia gospodarstw, co skutkuje dziś dużą liczbą małych działek."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w województwach zachodniopomorskim i warmińsko-mazurskim dominują gospodarstwa wielkoobszarowe?",
+                                      "options":  [
+                                                      "Ze względu na występowanie tam najżyźniejszych gleb w Polsce, które wymagają dużych nakładów pracy.",
+                                                      "Jest to dziedzictwo po wielkich majątkach ziemskich i Państwowych Gospodarstwach Rolnych (PGR).",
+                                                      "Ponieważ w tych regionach nigdy nie było rolnictwa indywidualnego, a ziemia należała do kościoła.",
+                                                      "Wynika to z bardzo krótkiego okresu wegetacyjnego wymuszającego pełną mechanizację prac."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na Ziemiach Odzyskanych po wojnie tworzono wielkie państwowe gospodarstwa, które po 1989 r. zostały sprywatyzowane lub przejęte przez dzierżawców."
+                                  },
+                                  {
+                                      "question":  "W którym regionie Polski występują żyzne czarnoziemy, sprzyjające uprawie wymagających roślin?",
+                                      "options":  [
+                                                      "Na Pojezierzu Pomorskim, gdzie dominują gleby bielicowe.",
+                                                      "Na Wyżynie Lubelskiej.",
+                                                      "W górach (Karpaty), gdzie gleby są płytkie i kamieniste (inicjalne).",
+                                                      "Na Nizinie Mazowieckiej, charakteryzującej się występowaniem gleb rdzawych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wyżyna Lubelska (wraz z Płaskowyżem Proszowickim i Głubczyckim) to główne obszary występowania czarnoziemów na lessach."
+                                  },
+                                  {
+                                      "question":  "Który z wymienionych obszarów Polski jest najbardziej narażony na niedobory wody (suszę glebową)?",
+                                      "options":  [
+                                                      "Karpaty i Sudety, gdzie opady są najwyższe w kraju.",
+                                                      "Pojezierze Mazurskie, posiadające liczne naturalne zbiorniki wodne.",
+                                                      "Pojezierze Wielkopolskie i Kujawy.",
+                                                      "Wyżyna Lubelska, gdzie występują żyzne, ale przepuszczalne gleby lessowe."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Centralna Polska (Wielkopolska, Kujawy) leży w cieniu opadowym Pojezierza Pomorskiego, notując najniższe opady w kraju (poniżej 550 mm)."
+                                  },
+                                  {
+                                      "question":  "Czym są dopłaty bezpośrednie w ramach Wspólnej Polityki Rolnej UE?",
+                                      "options":  [
+                                                      "Środkami wypłacanymi rolnikom co roku w zależności od powierzchni gruntów i rodzaju upraw.",
+                                                      "Pożyczkami na zakup maszyn, które rolnik musi zwrócić po 5 latach działalności.",
+                                                      "Funduszami przeznaczonymi wyłącznie na budowę dróg wiejskich i kanalizacji.",
+                                                      "Pieniędzmi wypłacanymi tylko gospodarstwom ekologicznym posiadającym certyfikat."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Dopłaty mają na celu stabilizację dochodów rolników i wyrównywanie szans na jednolitym rynku europejskim."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „kultura rolna”?",
+                                      "options":  [
+                                                      "Poziom wykształcenia rolników w zakresie literatury i sztuki ludowej.",
+                                                      "Tradycyjne obrzędy ludowe związane ze żniwami (np. dożynki powiatowe).",
+                                                      "System zabiegów agrotechnicznych, poziom mechanizacji i zużycie nawozów (chemizacja).",
+                                                      "Procentowy udział żywności ekologicznej w ogólnej produkcji rolnej danego kraju."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wysoka kultura rolna (np. w Wielkopolsce, na Opolszczyźnie) przekłada się na wyższe plony nawet przy słabszych glebach."
+                                  },
+                                  {
+                                      "question":  "W jakich województwach obserwuje się zjawisko przeludnienia agrarnego (nadwyżki rąk do pracy w rolnictwie)?",
+                                      "options":  [
+                                                      "Wielkopolskim i Zachodniopomorskim, gdzie brakuje pracowników sezonowych.",
+                                                      "Małopolskim i Podkarpackim.",
+                                                      "Mazowieckim i Łódzkim, gdzie rolnictwo jest silnie zmechanizowane.",
+                                                      "Pomorskim i Warmińsko-Mazurskim, gdzie dominują gospodarstwa wielkoobszarowe."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Małe gospodarstwa na południowym wschodzie często nie są w stanie zapewnić pełnego zatrudnienia i dochodu swoim właścicielom (ukryte bezrobocie)."
+                                  },
+                                  {
+                                      "question":  "Które gleby, stanowiące znaczną część powierzchni Polski, są często zalesiane ze względu na niską przydatność rolniczą?",
+                                      "options":  [
+                                                      "Mady rzeczne, występujące w dolinach rzek.",
+                                                      "Gleby brunatne, które są powszechnie wykorzystywane pod uprawy zbóż.",
+                                                      "Gleby bielicowe i rdzawe.",
+                                                      "Czarne ziemie, będące jednymi z najżyźniejszych gleb w Polsce."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gleby bielicowe (z piasków) są ubogie w próchnicę, kwaśne i suche, dlatego porastają je bory sosnowe (V i VI klasa bonitacyjna)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego rolnictwo w Wielkopolsce osiąga wysokie wyniki produkcyjne mimo występowania tam deficytów wody?",
+                                      "options":  [
+                                                      "Dzięki występowaniu tam wyłącznie gleb I klasy bonitacyjnej (czarnoziemów).",
+                                                      "Ponieważ region ten ma najwyższe sumy opadów w skali całego kraju.",
+                                                      "Dzięki wysokiej kulturze rolnej i dużym gospodarstwom, które niwelują braki przyrodnicze.",
+                                                      "Ponieważ uprawia się tam tylko rośliny niewymagające wody (kserofity)."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Efektywność, nowoczesne technologie i nawożenie pozwalają rolnikom wielkopolskim osiągać wysokie plony mimo niesprzyjającego klimatu."
+                                  },
+                                  {
+                                      "question":  "Jaki jest główny problem demograficzny wpływający na rozwój polskiej wsi i rolnictwa?",
+                                      "options":  [
+                                                      "Zbyt duża liczba młodych ludzi chętnych do pracy w rolnictwie, co powoduje bezrobocie.",
+                                                      "Starzenie się ludności wiejskiej i brak następców w gospodarstwach.",
+                                                      "Masowy powrót ludności z miast na wieś w celu uprawy ziemi (reagraryzacja).",
+                                                      "Całkowity brak wykształcenia rolniczego wśród mieszkańców wsi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Młodzi ludzie migrują do miast, a gospodarstwa prowadzą często osoby w wieku przedemerytalnym, co hamuje modernizację."
+                                  },
+                                  {
+                                      "question":  "Jakie ukształtowanie terenu, sprzyjające mechanizacji rolnictwa, dominuje w Polsce?",
+                                      "options":  [
+                                                      "Tereny górskie i wyżynne o dużym nachyleniu stoków.",
+                                                      "Obszary równinne i lekko faliste.",
+                                                      "Głębokie doliny rzeczne o stromych zboczach i terasach zalewowych.",
+                                                      "Obszary depresyjne wymagające stałego odwadniania."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Niziny stanowią ponad 90% powierzchni Polski, co ułatwia wykorzystanie ciągników i kombajnów na dużych, płaskich polach."
+                                  },
+                                  {
+                                      "question":  "Co zaliczamy do pozaprzyrodniczych czynników rozwoju rolnictwa?",
+                                      "options":  [
+                                                      "Warunki agroklimatyczne, jakość gleb i zasoby wodne.",
+                                                      "Stosunki wodne, rzeźbę terenu i długość okresu wegetacyjnego.",
+                                                      "Politykę rolną, strukturę agrarną i poziom wykształcenia rolników.",
+                                                      "Długość okresu wegetacyjnego, sumę opadów i temperaturę powietrza."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Czynniki te zależą od działalności człowieka i sytuacji gospodarczej, w przeciwieństwie do czynników przyrodniczych."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Polska wyróżnia się na tle Europy przewagą gleb bardzo żyznych, takich jak czarnoziemy i mady.",
+                                           "answer":  false,
+                                           "explanation":  "W Polsce dominują gleby średniej jakości (płowe i brunatne) oraz słabe gleby piaszczyste (bielicowe, rdzawe); gleby najlepsze (I i II klasa) stanowią zaledwie ok. 2% powierzchni."
+                                       },
+                                       {
+                                           "sentence":  "Długość okresu wegetacyjnego jest zróżnicowana regionalnie i waha się od poniżej 190 dni do ponad 225 dni.",
+                                           "answer":  true,
+                                           "explanation":  "Warunki agroklimatyczne są zróżnicowane: najkrótszy okres wegetacyjny występuje na Pojezierzu Suwalskim i w górach (\u003c190 dni), a najdłuższy na zachodzie i południowym zachodzie (\u003e225 dni)."
+                                       },
+                                       {
+                                           "sentence":  "Województwa podkarpackie i małopolskie charakteryzują się występowaniem największych gospodarstw rolnych w kraju.",
+                                           "answer":  false,
+                                           "explanation":  "Regiony te odznaczają się największym rozdrobnieniem agrarnym i przewagą małych gospodarstw, co wynika z historycznych podziałów ziemi w zaborze austriackim."
+                                       },
+                                       {
+                                           "sentence":  "Nizina Śląska i Kotlina Sandomierska to obszary o najkorzystniejszych w Polsce warunkach agroklimatycznych.",
+                                           "answer":  true,
+                                           "explanation":  "Regiony te cechują się wysokimi średnimi temperaturami rocznymi i długim okresem wegetacyjnym, co sprzyja rolnictwu."
+                                       },
+                                       {
+                                           "sentence":  "Poziom mechanizacji i zużycie nawozów zalicza się do przyrodniczych czynników rozwoju rolnictwa.",
+                                           "answer":  false,
+                                           "explanation":  "Są to czynniki pozaprzyrodnicze (historyczno-techniczne), określające poziom kultury rolnej."
+                                       },
+                                       {
+                                           "sentence":  "Zagrożenie suszą glebową w Polsce jest problemem marginalnym i nie wpływa na uprawy.",
+                                           "answer":  false,
+                                           "explanation":  "Zagrożenie suszą narasta, a niedostateczna ilość wilgoci jest poważnym problemem zwłaszcza na Pojezierzu Wielkopolskim i Kujawach."
+                                       },
+                                       {
+                                           "sentence":  "W północno-zachodniej Polsce (np. woj. zachodniopomorskie) dominują gospodarstwa wielkoobszarowe.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to dziedzictwo po wielkich majątkach ziemskich i późniejszych Państwowych Gospodarstwach Rolnych (PGR), które funkcjonowały na Ziemiach Odzyskanych."
+                                       },
+                                       {
+                                           "sentence":  "Rzeźba terenu w Polsce w większości utrudnia mechanizację prac polowych.",
+                                           "answer":  false,
+                                           "explanation":  "Około 60% powierzchni Polski to tereny równinne lub lekko faliste, co jest korzystne dla rolnictwa i ułatwia wykonywanie zabiegów agrotechnicznych."
+                                       },
+                                       {
+                                           "sentence":  "Gleby bielicowe i rdzawe są często przeznaczane pod zalesienie ze względu na niską przydatność rolniczą.",
+                                           "answer":  true,
+                                           "explanation":  "Gleby te należą do słabych (V i VI klasa bonitacyjna) i są wytworzone z piasków, dlatego często są odłogowane lub zalesiane."
+                                       },
+                                       {
+                                           "sentence":  "W Polsce obserwuje się zjawisko „starzenia się” ludności wiejskiej, co jest problemem dla rozwoju rolnictwa.",
+                                           "answer":  true,
+                                           "explanation":  "Młodzi ludzie często migrują do miast, a na wsi wzrasta udział osób starszych, co utrudnia wymianę pokoleniową w gospodarstwach."
+                                       },
+                                       {
+                                           "sentence":  "Opady atmosferyczne w Polsce są równomiernie rozłożone i zawsze wystarczające w okresie wzrostu roślin.",
+                                           "answer":  false,
+                                           "explanation":  "Występują okresy bezopadowe skutkujące suszami lub opady nawalne powodujące powodzie; bilans wodny jest napięty, a ilość opadów zbliżona do parowania."
+                                       }
+                                   ]
+                 }
+}

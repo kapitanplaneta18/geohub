@@ -1,0 +1,350 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz3-t1",
+                     "unit":  "III",
+                     "title":  "Budowa i skład atmosfery",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Atmosfera",
+                                              "definition":  "Powłoka Ziemi będąca mieszaniną gazów zwaną powietrzem atmosferycznym, która chroni planetę przed szkodliwym promieniowaniem i meteoroidami."
+                                          },
+                                          {
+                                              "term":  "Składniki główne powietrza",
+                                              "definition":  "Azot, tlen i argon, które łącznie stanowią 99,99% objętości powietrza atmosferycznego."
+                                          },
+                                          {
+                                              "term":  "Składniki stałe atmosfery",
+                                              "definition":  "Gazy, których zawartość w atmosferze jest niezmienna, w tym składniki główne oraz gazy szlachetne (neon, hel, krypton, ksenon) i wodór."
+                                          },
+                                          {
+                                              "term":  "Składniki zmienne (domieszki)",
+                                              "definition":  "Gazy, których ilość zmienia się w czasie i przestrzeni, np. para wodna, ozon, metan czy dwutlenek siarki."
+                                          },
+                                          {
+                                              "term":  "Aerozole atmosferyczne",
+                                              "definition":  "Substancje ciekłe i stałe zawieszone w powietrzu, takie jak pyłki roślin, bakterie, popioły, sadza czy kryształki soli morskiej."
+                                          },
+                                          {
+                                              "term":  "Troposfera",
+                                              "definition":  "Najniższa warstwa atmosfery, w której zachodzą zjawiska pogodowe, a temperatura powietrza obniża się wraz ze wzrostem wysokości (ok. 0,6°C na 100 m)."
+                                          },
+                                          {
+                                              "term":  "Tropopauza",
+                                              "definition":  "Cienka warstwa przejściowa oddzielająca troposferę od stratosfery, w której temperatura się nie zmienia."
+                                          },
+                                          {
+                                              "term":  "Stratosfera",
+                                              "definition":  "Warstwa atmosfery sięgająca do 50–55 km, w której temperatura w górnej części wzrasta wraz z wysokością na skutek pochłaniania promieniowania UV przez ozon."
+                                          },
+                                          {
+                                              "term":  "Warstwa ozonowa (Ozonosfera)",
+                                              "definition":  "Strefa podwyższonego stężenia ozonu w stratosferze (15–50 km), chroniąca Ziemię przed szkodliwym promieniowaniem ultrafioletowym."
+                                          },
+                                          {
+                                              "term":  "Stratopauza",
+                                              "definition":  "Warstwa przejściowa stanowiąca granicę między stratosferą a mezosferą."
+                                          },
+                                          {
+                                              "term":  "Mezosfera",
+                                              "definition":  "Warstwa atmosfery, w której temperatura spada wraz ze wzrostem wysokości, osiągając przy górnej granicy ok. –100°C."
+                                          },
+                                          {
+                                              "term":  "Mezopauza",
+                                              "definition":  "Cienka warstwa przejściowa oddzielająca mezosferę od termosfery."
+                                          },
+                                          {
+                                              "term":  "Termosfera",
+                                              "definition":  "Warstwa atmosfery pochłaniająca promieniowanie rentgenowskie i UV, w której temperatura wzrasta z wysokością do ponad 1000°C."
+                                          },
+                                          {
+                                              "term":  "Jonosfera",
+                                              "definition":  "Warstwa w termosferze, w której następuje jonizacja cząstek powietrza i gdzie powstają zorze polarne."
+                                          },
+                                          {
+                                              "term":  "Egzosfera",
+                                              "definition":  "Zewnętrzna warstwa atmosfery, przechodząca w przestrzeń kosmiczną, gdzie gazy są skrajnie rozrzedzone, a temperatura spada do –270°C."
+                                          },
+                                          {
+                                              "term":  "Magnetosfera",
+                                              "definition":  "Obszar wokół Ziemi, w którym pole magnetyczne chroni planetę przed szkodliwymi cząstkami wiatru słonecznego."
+                                          },
+                                          {
+                                              "term":  "Pasy Van Allena",
+                                              "definition":  "Strefy pułapek magnetycznych w magnetosferze, które zatrzymują naładowane cząstki wiatru słonecznego."
+                                          },
+                                          {
+                                              "term":  "Efekt cieplarniany",
+                                              "definition":  "Naturalny proces pochłaniania przez atmosferę promieniowania cieplnego emitowanego przez Ziemię, co podnosi temperaturę i umożliwia życie."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Troposfera",
+                                                 "pair2":  "Spadek temperatury średnio o 0,6°C na każde 100 m wysokości"
+                                             },
+                                             {
+                                                 "pair1":  "Stratosfera",
+                                                 "pair2":  "Wzrost temperatury w górnej części wywołany obecnością ozonu"
+                                             },
+                                             {
+                                                 "pair1":  "Termosfera",
+                                                 "pair2":  "Gwałtowny wzrost temperatury do ponad 1000°C i występowanie zórz polarnych"
+                                             },
+                                             {
+                                                 "pair1":  "Mezosfera",
+                                                 "pair2":  "Spadek temperatury wraz z wysokością do około –100°C"
+                                             },
+                                             {
+                                                 "pair1":  "Azot",
+                                                 "pair2":  "Stanowi 78,08% objętości powietrza atmosferycznego"
+                                             },
+                                             {
+                                                 "pair1":  "Tlen",
+                                                 "pair2":  "Stanowi 20,95% objętości powietrza atmosferycznego"
+                                             },
+                                             {
+                                                 "pair1":  "Magnetosfera",
+                                                 "pair2":  "Chroni Ziemię przed wiatrem słonecznym, odchylając naładowane cząstki"
+                                             },
+                                             {
+                                                 "pair1":  "Stratopauza",
+                                                 "pair2":  "Warstwa przejściowa między stratosferą a mezosferą"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który gaz stanowi największą część objętości powietrza atmosferycznego?",
+                                      "options":  [
+                                                      "Tlen",
+                                                      "Azot",
+                                                      "Argon",
+                                                      "Dwutlenek węgla"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zgodnie z wykresem składu chemicznego atmosfery, azot stanowi 78,08% objętości powietrza."
+                                  },
+                                  {
+                                      "question":  "Jaka jest prawidłowa kolejność warstw atmosfery, licząc od powierzchni Ziemi?",
+                                      "options":  [
+                                                      "Troposfera, stratosfera, mezosfera, termosfera, egzosfera",
+                                                      "Troposfera, mezosfera, stratosfera, termosfera, egzosfera",
+                                                      "Stratosfera, troposfera, termosfera, mezosfera, egzosfera",
+                                                      "Egzosfera, termosfera, mezosfera, stratosfera, troposfera"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wyróżniono pięć warstw w kolejności od dołu: troposfera, stratosfera, mezosfera, termosfera, egzosfera."
+                                  },
+                                  {
+                                      "question":  "W której warstwie atmosfery zachodzą główne procesy kształtujące pogodę i klimat?",
+                                      "options":  [
+                                                      "W stratosferze",
+                                                      "W mezosferze",
+                                                      "W troposferze",
+                                                      "W termosferze"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W troposferze zachodzą silne pionowe i poziome ruchy powietrza oraz wszystkie podstawowe procesy kształtujące pogodę i klimat."
+                                  },
+                                  {
+                                      "question":  "Ile procent objętości powietrza stanowi tlen?",
+                                      "options":  [
+                                                      "78,08%",
+                                                      "20,95%",
+                                                      "0,93%",
+                                                      "0,03%"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Tlen stanowi 20,95% objętości powietrza atmosferycznego [5, Wykres kołowy]."
+                                  },
+                                  {
+                                      "question":  "Czym są aerozole atmosferyczne wspomniane w składzie atmosfery?",
+                                      "options":  [
+                                                      "Są to gazy szlachetne takie jak neon i hel",
+                                                      "Są to substancje ciekłe i stałe, np. pyłki i sadza",
+                                                      "Są to gazy cieplarniane, np. metan i para wodna",
+                                                      "Są to jony powstające w wyniku promieniowania"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Aerozole atmosferyczne to zarówno substancje ciekłe, jak i stałe, np. pyłki roślin, bakterie, popioły, kryształki soli morskiej i sadza."
+                                  },
+                                  {
+                                      "question":  "Co jest główną przyczyną wzrostu temperatury wraz z wysokością w stratosferze?",
+                                      "options":  [
+                                                      "Pochłanianie promieniowania ultrafioletowego przez ozon",
+                                                      "Pochłanianie promieniowania rentgenowskiego przez azot",
+                                                      "Intensywne ruchy konwekcyjne powietrza znad równika",
+                                                      "Bezpośrednie sąsiedztwo z gorącą warstwą termosfery"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wzrost temperatury następuje w wyniku pochłaniania promieniowania ultrafioletowego przez ozon."
+                                  },
+                                  {
+                                      "question":  "W której warstwie atmosfery mogą pojawiać się tzw. obłoki srebrzyste?",
+                                      "options":  [
+                                                      "W termosferze",
+                                                      "W mezosferze",
+                                                      "W stratosferze",
+                                                      "W troposferze"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W mezosferze pojawiają się czasem niewielkie ilości pary wodnej w formie kryształków lodu, tworząc tzw. obłoki srebrzyste."
+                                  },
+                                  {
+                                      "question":  "Jaka jest charakterystyczna cecha warstw przejściowych zwanych pauzami (np. tropopauza)?",
+                                      "options":  [
+                                                      "Temperatura powietrza gwałtownie w nich rośnie",
+                                                      "Temperatura powietrza gwałtownie w nich spada",
+                                                      "Temperatura powietrza w nich się nie zmienia",
+                                                      "Ciśnienie atmosferyczne w nich gwałtownie rośnie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Między warstwami znajdują się cienkie warstwy przejściowe (pauzy), w których temperatura się nie zmienia."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko jest charakterystyczne dla jonosfery znajdującej się w termosferze?",
+                                      "options":  [
+                                                      "Zorza polarna",
+                                                      "Obłoki srebrzyste",
+                                                      "Efekt cieplarniany",
+                                                      "Opad atmosferyczny"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Charakterystyczne dla jonosfery, będącej częścią termosfery, są zorze polarne."
+                                  },
+                                  {
+                                      "question":  "Do jakiej temperatury spada temperatura powietrza w egzosferze?",
+                                      "options":  [
+                                                      "do –60°C",
+                                                      "do –100°C",
+                                                      "do –270°C",
+                                                      "do –1000°C"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W egzosferze temperatura powietrza obniża się wraz z wysokością aż do –270°C."
+                                  },
+                                  {
+                                      "question":  "Dlaczego temperatura w termosferze wzrasta do bardzo wysokich wartości (ponad 1000°C)?",
+                                      "options":  [
+                                                      "Z powodu pochłaniania promieniowania UV i rentgenowskiego",
+                                                      "Z powodu spalania się w tej warstwie licznych meteoroidów",
+                                                      "Z powodu uwalniania ciepła przez zorze polarne i wiatr słoneczny",
+                                                      "Z powodu bliskości jądra Ziemi i silnego pola magnetycznego"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Termosfera pochłania ultrafioletowe promieniowanie słoneczne i promieniowanie rentgenowskie, dlatego temperatura wzrasta."
+                                  },
+                                  {
+                                      "question":  "Który z wymienionych gazów zaliczany jest do domieszek o zmiennej zawartości?",
+                                      "options":  [
+                                                      "Azot",
+                                                      "Argon",
+                                                      "Neon",
+                                                      "Ozon"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Trzecią grupą są domieszki, np. para wodna, ozon, metan i dwutlenek siarki."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna funkcja magnetosfery ziemskiej?",
+                                      "options":  [
+                                                      "Zatrzymywanie ciepła przy powierzchni Ziemi",
+                                                      "Ochrona przed cząstkami wiatru słonecznego",
+                                                      "Filtracja promieniowania ultrafioletowego",
+                                                      "Wytwarzanie tlenu w procesach jonizacji"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Magnetosfera chroni życie na Ziemi przed szkodliwymi cząstkami wiatru słonecznego."
+                                  },
+                                  {
+                                      "question":  "W których dwóch warstwach atmosfery temperatura spada wraz ze wzrostem wysokości?",
+                                      "options":  [
+                                                      "W troposferze i mezosferze",
+                                                      "W stratosferze i termosferze",
+                                                      "W mezosferze i termosferze",
+                                                      "W troposferze i stratosferze"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W troposferze temperatura obniża się z wysokością, podobnie w mezosferze temperatura spada wraz ze wzrostem wysokości."
+                                  },
+                                  {
+                                      "question":  "Na jakiej wysokości występuje najwyższe stężenie ozonu (ozonosfera)?",
+                                      "options":  [
+                                                      "0–10 km",
+                                                      "20–35 km",
+                                                      "50–80 km",
+                                                      "100–150 km"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Najwyższe stężenie ozonu występuje na wysokości 20–35 km."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Tlen jest głównym składnikiem powietrza atmosferycznego i stanowi ponad 70% jego objętości.",
+                                           "answer":  false,
+                                           "explanation":  "Tlen stanowi 20,95% objętości powietrza, natomiast głównym składnikiem jest azot (78,08%)."
+                                       },
+                                       {
+                                           "sentence":  "Temperatura powietrza w atmosferze ziemskiej systematycznie obniża się wraz ze wzrostem wysokości we wszystkich jej pięciu warstwach.",
+                                           "answer":  false,
+                                           "explanation":  "Temperatura spada w troposferze i mezosferze, ale wzrasta w stratosferze oraz termosferze."
+                                       },
+                                       {
+                                           "sentence":  "Warstwa ozonowa, chroniąca Ziemię przed promieniowaniem UV, znajduje się w górnej części troposfery.",
+                                           "answer":  false,
+                                           "explanation":  "Warstwa ozonowa (ozonosfera) znajduje się w stratosferze na wysokości 15–50 km."
+                                       },
+                                       {
+                                           "sentence":  "Para wodna należy do stałych składników atmosfery, a jej zawartość wynosi zawsze około 4% objętości.",
+                                           "answer":  false,
+                                           "explanation":  "Para wodna jest składnikiem zmiennym (domieszką), a jej zawartość waha się od 0% nad biegunami do 4% nad ciepłymi morzami."
+                                       },
+                                       {
+                                           "sentence":  "Wszystkie podstawowe procesy kształtujące pogodę i klimat, takie jak powstawanie chmur i opadów, zachodzą w troposferze.",
+                                           "answer":  true,
+                                           "explanation":  "Troposfera to warstwa, w której zachodzą silne ruchy powietrza oraz wszystkie procesy kształtujące pogodę."
+                                       },
+                                       {
+                                           "sentence":  "Zorze polarne powstają w troposferze na skutek odbicia światła słonecznego od kryształków lodu w chmurach.",
+                                           "answer":  false,
+                                           "explanation":  "Zorze polarne to zjawiska świetlne zachodzące w termosferze (jonosferze) na skutek oddziaływania wiatru słonecznego z atomami gazów."
+                                       },
+                                       {
+                                           "sentence":  "Efekt cieplarniany to zjawisko polegające na pochłanianiu szkodliwego promieniowania ultrafioletowego przez ozon.",
+                                           "answer":  false,
+                                           "explanation":  "Efekt cieplarniany polega na pochłanianiu promieniowania cieplnego emitowanego przez Ziemię, co prowadzi do ogrzania atmosfery."
+                                       },
+                                       {
+                                           "sentence":  "Aerozole atmosferyczne to wyłącznie gazy szlachetne, takie jak neon, hel i krypton, występujące w śladowych ilościach.",
+                                           "answer":  false,
+                                           "explanation":  "Aerozole to substancje ciekłe i stałe zawieszone w powietrzu, np. pyłki roślin, bakterie, popioły czy sadza."
+                                       },
+                                       {
+                                           "sentence":  "Stratosfera charakteryzuje się występowaniem bardzo silnych pionowych ruchów powietrza (konwekcji).",
+                                           "answer":  false,
+                                           "explanation":  "Warstwowa struktura stratosfery powoduje, że występują w niej słabe pionowe ruchy powietrza."
+                                       },
+                                       {
+                                           "sentence":  "W egzosferze temperatura powietrza wzrasta do najwyższych wartości notowanych w całej atmosferze.",
+                                           "answer":  false,
+                                           "explanation":  "W egzosferze temperatura obniża się wraz z wysokością aż do –270°C; wzrost temperatury występuje w termosferze."
+                                       },
+                                       {
+                                           "sentence":  "Magnetosfera to obszar wokół Ziemi chroniący planetę przed szkodliwymi cząstkami wiatru słonecznego.",
+                                           "answer":  true,
+                                           "explanation":  "Magnetosfera odchyla naładowane cząstki wiatru słonecznego, chroniąc życie na Ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Warstwy przejściowe w atmosferze, zwane pauzami (np. tropopauza), charakteryzują się gwałtownymi skokami temperatury.",
+                                           "answer":  false,
+                                           "explanation":  "Pauzy to cienkie warstwy przejściowe, w których temperatura się nie zmienia."
+                                       }
+                                   ]
+                 }
+}

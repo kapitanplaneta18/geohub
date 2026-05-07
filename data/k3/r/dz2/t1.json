@@ -1,0 +1,402 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz2-t1",
+                     "title":  "Zróżnicowanie środowiska Tatr",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Tatry Wysokie - budowa i rzeźba",
+                                              "definition":  "Zbudowane są z odpornych na niszczenie granitów i łupków krystalicznych, co skutkuje występowaniem rzeźby alpejskiej, ostrych grani, turni i głębokich żlebów."
+                                          },
+                                          {
+                                              "term":  "Tatry Zachodnie - budowa i rzeźba",
+                                              "definition":  "Północna część zbudowana jest ze skał osadowych (wapieni i dolomitów), które są podatne na wietrzenie i krasowienie, co skutkuje łagodniejszą rzeźbą i zaokrąglonymi szczytami."
+                                          },
+                                          {
+                                              "term":  "Mechanizm powstawania halnego",
+                                              "definition":  "Masy powietrza wznoszą się po południowej stronie gór (ochłodzenie i opady), a następnie opadają ku północy, ogrzewając się i osuszając, co tworzy ciepły, porywisty wiatr."
+                                          },
+                                          {
+                                              "term":  "Płaszczowiny",
+                                              "definition":  "Sfałdowane warstwy skał osadowych, które pod wpływem nacisków z południa zostały oderwane od podłoża i nasunięte na północ, przykrywając trzon krystaliczny."
+                                          },
+                                          {
+                                              "term":  "Kotły polodowcowe (cyrki)",
+                                              "definition":  "Głębokie zagłębienia powstałe w miejscach gromadzenia się śniegu i pól firnowych, które po ustąpieniu lodowca często wypełniły się wodą, tworząc jeziora cyrkowe."
+                                          },
+                                          {
+                                              "term":  "Doliny U-kształtne",
+                                              "definition":  "Szerokie doliny o stromych zboczach i płaskim dnie, powstałe na skutek przekształcenia V-kształtnych dolin rzecznych przez jęzory lodowcowe."
+                                          },
+                                          {
+                                              "term":  "Zjawiska krasowe w Tatrach",
+                                              "definition":  "Proces rozpuszczania skał wapiennych i dolomitowych przez wodę, prowadzący do powstania jaskiń, wywierzysk, bram i żłobków krasowych, głównie w Tatrach Zachodnich."
+                                          },
+                                          {
+                                              "term":  "Jaskinia Wielka Śnieżna",
+                                              "definition":  "Najgłębsza i najdłuższa jaskinia w polskiej części Tatr, stanowiąca przykład formy krasu podziemnego rozwiniętego w wapieniach."
+                                          },
+                                          {
+                                              "term":  "Piętro pogórza (do 900 m n.p.m.)",
+                                              "definition":  "Najniższe piętro klimatyczno-roślinne, gdzie dawne wielogatunkowe lasy liściaste zostały w większości przekształcone w pola uprawne i pastwiska."
+                                          },
+                                          {
+                                              "term":  "Piętro regla dolnego (900–1200 m n.p.m.)",
+                                              "definition":  "Piętro umiarkowanie chłodne, pierwotnie porośnięte lasami bukowo-jaworowo-jodłowymi, które w wielu miejscach zastąpiono monokulturami świerkowymi."
+                                          },
+                                          {
+                                              "term":  "Piętro regla górnego (1200–1600 m n.p.m.)",
+                                              "definition":  "Piętro chłodne, porośnięte głównie przez bory świerkowe, które dzięki płytkim systemom korzeniowym są przystosowane do skalistego podłoża."
+                                          },
+                                          {
+                                              "term":  "Piętro kosodrzewiny (1600–1800 m n.p.m.)",
+                                              "definition":  "Piętro bardzo chłodne, zdominowane przez zarośla kosodrzewiny, z nielicznym występowaniem limby, jarzębiny i karłowatego świerka."
+                                          },
+                                          {
+                                              "term":  "Piętro hal (1800–2200 m n.p.m.)",
+                                              "definition":  "Piętro umiarkowanie zimne (łąki subalpejskie), gdzie ze względu na płytkie gleby i surowy klimat rosną tylko trawy, zioła i krzewinki."
+                                          },
+                                          {
+                                              "term":  "Piętro turni (powyżej 2200 m n.p.m.)",
+                                              "definition":  "Zimne piętro skalne o średniej rocznej temperaturze poniżej -2°C, charakteryzujące się nagimi skałami, mchami i porostami."
+                                          },
+                                          {
+                                              "term":  "Wywierzyska",
+                                              "definition":  "Wydajne źródła krasowe charakterystyczne dla Tatr Zachodnich, którymi podziemne strumienie wypływają na powierzchnię (np. Lodowe Źródło)."
+                                          },
+                                          {
+                                              "term":  "Granica wiecznego śniegu w Tatrach",
+                                              "definition":  "Przebiega na wysokości ok. 2300 m n.p.m., jednak obecnie w Tatrach nie tworzą się lodowce, mimo że najwyższe szczyty przekraczają tę wysokość."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Tatry Wysokie (Skała)",
+                                                 "pair2":  "Granity i łupki krystaliczne"
+                                             },
+                                             {
+                                                 "pair1":  "Tatry Zachodnie (Skała)",
+                                                 "pair2":  "Wapienie i dolomity"
+                                             },
+                                             {
+                                                 "pair1":  "Tatry Wysokie (Rzeźba)",
+                                                 "pair2":  "Ostre granie, turnie i kotły polodowcowe"
+                                             },
+                                             {
+                                                 "pair1":  "Tatry Zachodnie (Rzeźba)",
+                                                 "pair2":  "Zaokrąglone szczyty i formy krasowe"
+                                             },
+                                             {
+                                                 "pair1":  "Halny (strona południowa)",
+                                                 "pair2":  "Opady deszczu i ochłodzenie"
+                                             },
+                                             {
+                                                 "pair1":  "Halny (strona północna)",
+                                                 "pair2":  "Suchy, ciepły i porywisty wiatr"
+                                             },
+                                             {
+                                                 "pair1":  "Dolina V-kształtna",
+                                                 "pair2":  "Efekt erozji rzecznej"
+                                             },
+                                             {
+                                                 "pair1":  "Dolina U-kształtna",
+                                                 "pair2":  "Efekt erozji lodowcowej"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Dlaczego na Wyżynie Lubelskiej, w przeciwieństwie do Roztocza, występuje bardzo niska lesistość (w niektórych powiatach ok. 10%)?",
+                                      "options":  [
+                                                      "Ponieważ na Wyżynie Lubelskiej występują deficyty wód, które wynikają z głębokiego zalegania zwierciadła wód podziemnych w wapieniach.",
+                                                      "Ze względu na występowanie bardzo żyznych czarnoziemów lessowych, które zostały zajęte pod intensywne rolnictwo.",
+                                                      "Ponieważ podłoże wapienne Wyżyny Lubelskiej jest zbyt skaliste i ubogie w składniki mineralne niezbędne dla systemów korzeniowych drzew.",
+                                                      "Z powodu silnego zanieczyszczenia powietrza, które w ostatnich dekadach doprowadziło do masowego obumierania naturalnych lasów bukowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na grubej warstwie lessów, przy udziale dawnej roślinności stepowej, wykształciły się najżyźniejsze w Polsce gleby (czarnoziemy). Sprawiło to, że człowiek wyciął pierwotne lasy pod uprawy."
+                                  },
+                                  {
+                                      "question":  "Jaki ciąg przyczynowo-skutkowy wyjaśnia powstawanie głębokich wąwozów na Wyżynie Lubelskiej?",
+                                      "options":  [
+                                                      "Wapienne podłoże -\u003e Rozpuszczanie skał przez wodę nasyconą CO2 -\u003e Zapadanie się stropów jaskiń i tworzenie lejów.",
+                                                      "Lessowe podłoże -\u003e Usunięcie lasów przez człowieka -\u003e Łatwe wypłukiwanie luźnej skały przez wody opadowe.",
+                                                      "Występowanie gipsów -\u003e Intensywne uwadosienie gruntu -\u003e Powstanie licznych lejów zapadliskowych i uwałów.",
+                                                      "Działalność lądolodu -\u003e Akumulacja materiału morenowego -\u003e Rozcięcie wałów morenowych przez wody roztopowe."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Less jest skałą zwięzłą, ale mało odporną na erozję wodną. Po usunięciu naturalnej pokrywy leśnej, wody opadowe zaczęły gwałtownie żłobić grunt."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na Wyżynie Śląskiej występuje zjawisko deficytu wód powierzchniowych, mimo relatywnie wysokich opadów?",
+                                      "options":  [
+                                                      "Ponieważ woda bardzo szybko paruje z silnie nagrzanych betonowych i asfaltowych powierzchni aglomeracji miejskich.",
+                                                      "Z powodu położenia na dziale wodnym Wisły i Odry oraz ucieczki wód do podziemnych wyrobisk górniczych.",
+                                                      "Ponieważ podłoże zbudowane jest z silnie krasowiejących wapieni jurajskich, które natychmiast przepuszczają wodę w głąb.",
+                                                      "Ze względu na całkowity brak stałych rzek w tym regionie i uzależnienie zasobów wodnych wyłącznie od opadów atmosferycznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Deficyt wynika z położenia na dziale wodnym (wody odpływają) oraz działalności górniczej, która narusza warstwy wodonośne."
+                                  },
+                                  {
+                                      "question":  "Co jest geologiczną przyczyną występowania rzadkiego krasu gipsowego w Niecce Nidziańskiej?",
+                                      "options":  [
+                                                      "Występowanie trzeciorzędowych osadów siarczanowych (gipsów), które rozpuszczają się w wodzie łatwiej niż węglany.",
+                                                      "Obecność starych skał wulkanicznych, które pod wpływem czynników atmosferycznych ulegają intensywnemu wietrzeniu chemicznemu.",
+                                                      "Nagromadzenie soli kamiennej, która pod wpływem ciśnienia tworzy wysady solne przebijające młodsze warstwy osadowe.",
+                                                      "Występowanie głębokich pęknięć tektonicznych w skałach granitowych, które ułatwiają infiltrację wód opadowych."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Niecka Nidziańska wypełniona jest osadami morskimi z trzeciorzędu, w tym gipsami, które są znacznie łatwiej rozpuszczalne w wodzie niż wapienie."
+                                  },
+                                  {
+                                      "question":  "Z czego wynika występowanie ostańców wapiennych (np. Maczugi Herkulesa) na Wyżynie Krakowsko-Częstochowskiej?",
+                                      "options":  [
+                                                      "Są to fragmenty skał (eratyki) przywleczone przez lądolód skandynawski i osadzone na wierzchowinie jako relikt zlodowacenia.",
+                                                      "Powstały z twardszych partii wapienia, które oparły się procesom krasowienia, podczas gdy otoczenie uległo rozpuszczeniu.",
+                                                      "Są to skamieniałe kominy dawnych wulkanów podmorskich, które zastygały w głębinach oceanu jurajskiego.",
+                                                      "Zostały zbudowane przez człowieka w średniowieczu jako elementy systemu fortyfikacji obronnych (Szlak Orlich Gniazd)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ostańce to twardzielce – fragmenty masywu skalnego, które ze względu na większą odporność nie uległy zniszczeniu tak szybko jak skały je otaczające."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Pustynia Błędowska jest nazywana „antropogeniczną”, mimo że piasek jest pochodzenia naturalnego?",
+                                      "options":  [
+                                                      "Ponieważ piasek został tam przywieziony ciężarówkami z wybrzeża Bałtyku w celu stworzenia poligonu wojskowego.",
+                                                      "Ponieważ odsłonięcie naturalnych piasków polodowcowych nastąpiło wskutek masowej wycinki lasów na potrzeby górnictwa.",
+                                                      "Ponieważ klimat tego obszaru został sztucznie zmieniony przez emisje przemysłowe, co doprowadziło do zaniku roślinności.",
+                                                      "Ponieważ jest to teren po dawnym, wielkopowierzchniowym wyrobisku kopalni piasku podsadzkowego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Piaski są naturalne, ale pustynia powstała, gdy w XIII w. ludzie wycięli bory sosnowe dla górnictwa, co uruchomiło procesy eoliczne."
+                                  },
+                                  {
+                                      "question":  "Jaki proces geologiczny odpowiada za powstanie złóż węgla kamiennego na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Osadzanie się wapiennych szczątków zwierząt morskich (koralowców, gąbek) na dnie ciepłego i płytkiego morza w jurze.",
+                                                      "Gromadzenie się roślinności bagiennej w zapadlisku tektonicznym w karbonie i jej późniejsze uwęglenie pod ciśnieniem.",
+                                                      "Wylewy lawy bazaltowej, która wydobywała się z pęknięć skorupy ziemskiej i przykryła lasy tropikalne w trzeciorzędzie.",
+                                                      "Naniesienie ogromnych ilości materiału organicznego przez rzeki spływające z gór w okresie plejstocenu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W karbonie w gorącym klimacie roślinność bagienna gromadziła się w zapadlisku i przekształciła w węgiel."
+                                  },
+                                  {
+                                      "question":  "Dlaczego doliny rzeczne na Wyżynie Krakowsko-Częstochowskiej często są suche (bezodpływowe) na znacznych odcinkach?",
+                                      "options":  [
+                                                      "Ponieważ opady atmosferyczne w tym regionie są najniższe w Polsce ze względu na położenie w cieniu opadowym.",
+                                                      "Z powodu krasowienia podłoża wapiennego, co powoduje ucieczkę wód powierzchniowych szczelinami w głąb górotworu.",
+                                                      "Wskutek nadmiernego poboru wody przez przemysł energochłonny zlokalizowany w aglomeracji krakowskiej.",
+                                                      "Ponieważ rzeki zostały całkowicie skanalizowane i poprowadzone podziemnymi rurociągami w celu ochrony przed zanieczyszczeniami."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wapienie są przepuszczalne. Woda opadowa wnika w głąb systemu szczelin i jaskiń krasowych, zamiast spływać po powierzchni."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną występowania bogatych złóż wód mineralnych (siarczkowych, solankowych) w Niecce Nidziańskiej?",
+                                      "options":  [
+                                                      "Obecność w podłożu gipsów i soli, które wzbogacają wody podziemne w specyficzne minerały.",
+                                                      "Sąsiedztwo z Górami Świętokrzyskimi, skąd spływają wody podziemne silnie zmineralizowane w kontakcie ze skałami.",
+                                                      "Aktywność wulkaniczna w głębokim podłożu, która podgrzewa wody gruntowe i nasyca je minerałami.",
+                                                      "Zanieczyszczenie naturalnych wód powierzchniowych przez ścieki przemysłowe z pobliskich zakładów przetwórstwa siarki."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wody krążące w osadach morskich (gipsy, sole) rozpuszczają minerały, stając się wodami leczniczymi."
+                                  },
+                                  {
+                                      "question":  "Dlaczego gleby rędziny, mimo wysokiej żyzności, są trudne w uprawie?",
+                                      "options":  [
+                                                      "Ponieważ są to gleby silnie zakwaszone przez kwaśne deszcze, co wymaga stosowania kosztownych zabiegów agrotechnicznych.",
+                                                      "Ponieważ zawierają liczne odłamki skał wapiennych (szkieletowe) i są trudne do orania.",
+                                                      "Z powodu zbyt wysokiego poziomu wód gruntowych, co prowadzi do gnicia systemów korzeniowych roślin uprawnych.",
+                                                      "Ponieważ występują wyłącznie na bardzo stromych stokach górskich, co uniemożliwia wjazd ciężkiego sprzętu rolniczego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rędziny są płytkie i przemieszane z twardymi okruchami skały macierzystej, co utrudnia mechanizację prac polowych."
+                                  },
+                                  {
+                                      "question":  "Jaką rolę w krajobrazie Wyżyny Krakowsko-Częstochowskiej odgrywają „bramy” (np. Brama Krakowska)?",
+                                      "options":  [
+                                                      "Są to sztuczne przekopy wykonane w skale wapiennej w celu poprowadzenia szlaków komunikacyjnych (dróg i kolei).",
+                                                      "Są to zwężenia dolin rzecznych powstałe w miejscach występowania twardszych skał wapiennych.",
+                                                      "To pozostałości po dawnych, rozległych systemach jaskiniowych, których stropy zawaliły się pod wpływem ciężaru.",
+                                                      "Są to miejsca, gdzie rzeka zmienia gwałtownie bieg o 90 stopni, tworząc malownicze przełomy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bramy skalne to zwężenia dolin powstałe, gdy rzeka napotyka na swojej drodze wyjątkowo odporne bloki skalne."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają stalaktyty w jaskiniach krasowych?",
+                                      "options":  [
+                                                      "Przez mechaniczną erozję skały wapiennej wywołaną przez wodę płynącą pod wysokim ciśnieniem.",
+                                                      "W wyniku wytrącania się węglanu wapnia z wody kapiącej ze stropu i ulatniania się CO2.",
+                                                      "Przez krystalizację soli kamiennej z oparów wodnych nasyconych minerałami wewnątrz jaskini.",
+                                                      "Na skutek zamarzania wody przeciekającej przez szczeliny skalne w okresie zlodowacenia."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ulatnianie się dwutlenku węgla z kapiącej wody powoduje wytrącenie się kalcytu, który buduje naciek."
+                                  },
+                                  {
+                                      "question":  "Co świadczy o morskim pochodzeniu skał budujących Wyżynę Krakowsko-Częstochowską?",
+                                      "options":  [
+                                                      "Obecność grubych pokładów soli kamiennej, która wytrącała się w płytkich zatokach morskich w klimacie gorącym.",
+                                                      "Liczne skamieniałości amonitów i jeżowców w wapieniach.",
+                                                      "Występowanie obtoczonych przez wodę kamieni (otoczaków) na dnie jaskiń krasowych.",
+                                                      "Ślady falowania (ripplemarki) utrwalone w skałach osadowych powstałych w strefie przybrzeżnej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wapienie górnej jury osadzały się na dnie morza, czego dowodem są skamieniałości np. amonitów."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Wyżyna Śląska geologicznie określana jest jako „niecka” (Niecka Górnośląska), mimo że jest wzniesieniem?",
+                                      "options":  [
+                                                      "Ponieważ jej powierzchnia jest wklęsła i przypomina kształtem wielką misę otoczoną wzniesieniami.",
+                                                      "Ponieważ geologicznie stanowi zapadlisko wypełnione osadami, które zostało później wypiętrzone.",
+                                                      "Jest to błąd w nazewnictwie geograficznym.",
+                                                      "Ponieważ powierzchnia terenu została sztucznie obniżona w wyniku wieloletniej eksploatacji węgla kamiennego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W sensie tektonicznym jest to niecka (zapadlisko), która wypełniła się osadami i została wypiętrzona w kenozoiku."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na rolnictwo ma budowa geologiczna Niecki Nidziańskiej?",
+                                      "options":  [
+                                                      "Negatywny, z powodu silnego zasolenia gleb przez wysady solne, co uniemożliwia uprawę większości roślin.",
+                                                      "Pozytywny, dzięki występowaniu żyznych gleb (rędziny na gipsach/wapieniach, czarnoziemy na lessach).",
+                                                      "Neutralny, ponieważ rolnictwo zależy tylko od klimatu.",
+                                                      "Negatywny, z powodu głębokiego zalegania wód podziemnych i braku możliwości nawadniania pól uprawnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mozaika żyznych gleb (rędziny, czarnoziemy) czyni ten region bardzo korzystnym dla rolnictwa."
+                                  },
+                                  {
+                                      "question":  "Dlaczego krajobraz wyżyn polskich określa się mianem „staroglacjalnego”?",
+                                      "options":  [
+                                                      "Ponieważ lądolód skandynawski nigdy nie dotarł na tereny wyżynne, zatrzymując się na linii nizin.",
+                                                      "Ponieważ lądolód pokrywał je tylko podczas starszych zlodowaceń, a formy polodowcowe uległy zniszczeniu.",
+                                                      "Ponieważ jeziora polodowcowe całkowicie wyparowały w holocenie na skutek globalnego ocieplenia klimatu.",
+                                                      "Ponieważ woda z jezior polodowcowych odpłynęła do głębokich wyrobisk górniczych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wyżyny były objęte starszymi zlodowaceniami, ale nie ostatnim, dlatego rzeźba jest zdenudowana i pozbawiona jezior."
+                                  },
+                                  {
+                                      "question":  "Jaka cecha budowy geologicznej Roztocza odróżnia je od sąsiedniej Wyżyny Lubelskiej?",
+                                      "options":  [
+                                                      "Całkowity brak pokrywy lessowej i występowanie na powierzchni nagich, krasowiejących skał wapiennych.",
+                                                      "Występowanie wychodni starszych skał i mniejsza miąższość lessów, co skutkuje wyższą lesistością.",
+                                                      "Całkowite przykrycie terenu jałowymi piaskami sandrowymi naniesionymi przez wody roztopowe.",
+                                                      "Obecność skał wulkanicznych, które tworzą wyraźne wzniesienia w krajobrazie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Roztocze ma cieńsze i nieciągłe pokrywy lessowe oraz słabsze gleby piaszczyste w porównaniu do rolniczej Wyżyny Lubelskiej."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną powstawania lejów depresyjnych na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Naturalne procesy krasowe polegające na rozpuszczaniu skał wapiennych przez wody podziemne.",
+                                                      "Wypompowywanie wód podziemnych z kopalń w celu umożliwienia wydobycia surowców.",
+                                                      "Nadmierny pobór wody przez rolnictwo w celu nawadniania pól uprawnych w okresie suszy.",
+                                                      "Gwałtowne zapadanie się pustych przestrzeni (kawern) pozostałych po dawnych jaskiniach krasowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Odwadnianie wyrobisk górniczych powoduje obniżenie zwierciadła wód podziemnych, tworząc lej depresyjny."
+                                  },
+                                  {
+                                      "question":  "Dlaczego rzeki na Wyżynie Lubelskiej i Roztoczu mają charakterystyczny, głęboko wcięty profil?",
+                                      "options":  [
+                                                      "Ponieważ płyną po bardzo twardym podłożu granitowym, które jest odporne na erozję boczną.",
+                                                      "Ponieważ obszar ten ulega powolnemu wypiętrzaniu, co zmusza rzeki do erozji wgłębnej w miękkim podłożu.",
+                                                      "Ponieważ są to rzeki okresowe, które prowadzą wodę tylko po gwałtownych opadach deszczu.",
+                                                      "Ponieważ zostały sztucznie pogłębione i wyprostowane w ramach prac melioracyjnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rzeki erodują wgłębnie, wcinając się w podatny less i spękane wapienie."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstały złoża rud cynku i ołowiu na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Powstały w bagnach karbońskich w tym samym czasie co pokłady węgla kamiennego.",
+                                                      "Wytrąciły się z roztworów wodnych w skałach węglanowych (dolomitach) triasu.",
+                                                      "Są pochodzenia wulkanicznego i wiążą się z intruzjami magmowymi z okresu trzeciorzędu.",
+                                                      "Zostały naniesione przez lądolód skandynawski w postaci głazów narzutowych zawierających kruszce."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rudy te powstały w procesach hydrotermalnych lub osadowych w dolomitach triasowych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Wyżyna Lubelska nazywana jest „spichlerzem Polski”?",
+                                      "options":  [
+                                                      "Z powodu silnie rozwiniętego przemysłu przetwórczego, który bazuje na lokalnych surowcach.",
+                                                      "Ze względu na dominację upraw zbóż i buraków cukrowych na bardzo żyznych czarnoziemach.",
+                                                      "Ponieważ w regionie tym znajdują się strategiczne magazyny rezerw żywności dla całego kraju.",
+                                                      "Dzięki występowaniu wielkich, przemysłowych gospodarstw hodowlanych nastawionych na produkcję mięsa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dzięki czarnoziemom lessowym, region ten specjalizuje się w wymagających uprawach (pszenica, buraki)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Tatry Wysokie zbudowane są głównie ze skał osadowych, takich jak wapienie i dolomity, co nadaje im łagodne kształty.",
+                                           "answer":  false,
+                                           "explanation":  "Tatry Wysokie zbudowane są z odpornych na niszczenie skał krystalicznych (granitów i łupków krystalicznych), co skutkuje występowaniem ostrych grani i turni. Skały osadowe budują głównie Tatry Zachodnie."
+                                       },
+                                       {
+                                           "sentence":  "Wiatr halny po stronie polskiej (północnej) jest wiatrem ciepłym, suchym i porywistym.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to wiatr typu fenowego. Powietrze opadając ku północy ogrzewa się i osusza, w przeciwieństwie do strony południowej, gdzie wznosząc się, ochładza się i traci wilgoć (opady)."
+                                       },
+                                       {
+                                           "sentence":  "Rzeźba krasowa, obejmująca jaskinie, wywierzyska i żłobki krasowe, jest charakterystyczna dla Tatr Zachodnich.",
+                                           "answer":  true,
+                                           "explanation":  "Północna część Tatr Zachodnich zbudowana jest z wapieni i dolomitów, które łatwo ulegają rozpuszczaniu przez wodę, tworząc formy krasowe."
+                                       },
+                                       {
+                                           "sentence":  "Piętro kosodrzewiny w Tatrach występuje bezpośrednio poniżej regla górnego.",
+                                           "answer":  false,
+                                           "explanation":  "Kolejność pięter jest odwrotna: piętro kosodrzewiny (1600–1800 m n.p.m.) znajduje się powyżej regla górnego (1200–1600 m n.p.m.)."
+                                       },
+                                       {
+                                           "sentence":  "Doliny U-kształtne w Tatrach powstały w wyniku erozyjnej działalności wód rzecznych.",
+                                           "answer":  false,
+                                           "explanation":  "Doliny U-kształtne powstały na skutek przekształcenia dolin rzecznych (V-kształtnych) przez jęzory lodowcowe (erozja glacjalna)."
+                                       },
+                                       {
+                                           "sentence":  "Naturalnym zbiorowiskiem leśnym piętra regla dolnego są lasy bukowo-jaworowo-jodłowe.",
+                                           "answer":  true,
+                                           "explanation":  "Choć obecnie w wielu miejscach regla dolnego rosną monokultury świerkowe nasadzone przez człowieka, naturalną roślinnością tego piętra są lasy mieszane (buk, jodła, jawor)."
+                                       },
+                                       {
+                                           "sentence":  "Najwyższym szczytem całych Tatr są Rysy.",
+                                           "answer":  false,
+                                           "explanation":  "Rysy (2499 m n.p.m.) są najwyższym szczytem Polski, ale najwyższym szczytem całego pasma Tatr jest leżący na Słowacji Gerlach (2655 m n.p.m.)."
+                                       },
+                                       {
+                                           "sentence":  "Piętro turni charakteryzuje się klimatem zimnym i występowaniem nagich skał porośniętych głównie przez mchy i porosty.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to najwyższe piętro roślinne w Tatrach (powyżej 2200 m n.p.m.), gdzie średnia roczna temperatura spada poniżej -2°C, uniemożliwiając rozwój zwartych łąk."
+                                       },
+                                       {
+                                           "sentence":  "Kotły polodowcowe (cyrki) występują powszechnie w Tatrach Zachodnich, a rzadko w Tatrach Wysokich.",
+                                           "answer":  false,
+                                           "explanation":  "Kotły polodowcowe i jeziora cyrkowe są charakterystyczne dla rzeźby wysokogórskiej Tatr Wysokich; w Tatrach Zachodnich formy te występują znacznie rzadziej."
+                                       },
+                                       {
+                                           "sentence":  "Płaszczowiny to sfałdowane warstwy skał osadowych, które zostały oderwane od podłoża i nasunięte na trzon krystaliczny.",
+                                           "answer":  true,
+                                           "explanation":  "W wyniku ruchów górotwórczych osady morskie (wapienie, piaskowce) zostały sfałdowane i przemieszczone z południa na północ w postaci płaszczowin."
+                                       },
+                                       {
+                                           "sentence":  "Obecnie w Tatrach powyżej granicy wiecznego śniegu (ok. 2300 m n.p.m.) tworzą się niewielkie lodowce górskie.",
+                                           "answer":  false,
+                                           "explanation":  "Mimo że teoretyczna granica wiecznego śniegu przebiega na wysokości 2300 m n.p.m., w Tatrach nie ma obecnie lodowców ze względu na ukształtowanie terenu i warunki klimatyczne."
+                                       }
+                                   ]
+                 }
+}

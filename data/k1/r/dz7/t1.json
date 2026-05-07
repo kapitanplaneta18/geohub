@@ -1,0 +1,326 @@
+{
+    "metadata":  {
+                     "id":  "t1",
+                     "unit":  "VII",
+                     "title":  "Powstawanie gleb"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Pedosfera",
+                                              "definition":  "Powłoka glebowa Ziemi będąca miejscem życia wielu organizmów, której najważniejszą funkcją jest dostarczanie roślinom składników odżywczych."
+                                          },
+                                          {
+                                              "term":  "Gleba",
+                                              "definition":  "Zewnętrzna powłoka skorupy ziemskiej o grubości od kilkunastu centymetrów do kilku metrów, składająca się z cząstek mineralnych, organicznych, wody i powietrza."
+                                          },
+                                          {
+                                              "term":  "Faza stała gleby",
+                                              "definition":  "Stan skupienia składników gleby obejmujący cząstki mineralne (okruchy skał i minerałów) oraz cząstki organiczne (szczątki roślinne, zwierzęce i organizmy)."
+                                          },
+                                          {
+                                              "term":  "Faza ciekła gleby",
+                                              "definition":  "Woda występująca w glebie, w której są rozpuszczone związki mineralne i organiczne, tworząca roztwór glebowy."
+                                          },
+                                          {
+                                              "term":  "Faza gazowa gleby",
+                                              "definition":  "Powietrze glebowe stanowiące mieszaninę gazów i pary wodnej, wypełniające pory w glebie."
+                                          },
+                                          {
+                                              "term":  "Próchnica (humus)",
+                                              "definition":  "Rozłożona substancja organiczna powstająca w wyniku humifikacji, będąca głównym źródłem składników odżywczych dla roślin."
+                                          },
+                                          {
+                                              "term":  "Poziomy glebowe",
+                                              "definition":  "Warstwy tworzące profil glebowy (ściółka, poziom próchniczny, wymywania, wmywania, zwietrzelina, skała macierzysta), powstające wskutek przemieszczania składników mineralnych i organicznych."
+                                          },
+                                          {
+                                              "term":  "Czynniki glebotwórcze",
+                                              "definition":  "Elementy środowiska wpływające na rodzaj i tempo procesów glebotwórczych, m.in. klimat, skała macierzysta, warunki wodne, rzeźba terenu, organizmy, czas i działalność człowieka."
+                                          },
+                                          {
+                                              "term":  "Proces glebotwórczy",
+                                              "definition":  "Zespół długotrwałych procesów fizycznych, chemicznych i biologicznych (wietrzenie, akumulacja materii, procesy zaawansowane) prowadzących do powstania gleby."
+                                          },
+                                          {
+                                              "term":  "Bielicowanie",
+                                              "definition":  "Wymywanie w głąb gleby związków mineralnych i organicznych, prowadzące do powstania jasnego poziomu wymywania i ciemnego poziomu wmywania."
+                                          },
+                                          {
+                                              "term":  "Brunatnienie",
+                                              "definition":  "Stopniowy rozkład glinokrzemianów uwalniający żelazo i glin, które otaczają cząstki gleby i nadają im brunatną barwę."
+                                          },
+                                          {
+                                              "term":  "Płowienie",
+                                              "definition":  "Wymywanie cząstek ilastych w głąb gleby, w wyniku czego powstaje jasny poziom wymywania nad ciemniejszym poziomem wmywania."
+                                          },
+                                          {
+                                              "term":  "Lateryzacja (ferralityzacja)",
+                                              "definition":  "Szybki rozkład szczątków organicznych i wypłukiwanie minerałów w gorącym i wilgotnym klimacie, co pozostawia w glebie związki żelaza i glinu o czerwonej barwie."
+                                          },
+                                          {
+                                              "term":  "Żyzność",
+                                              "definition":  "Naturalna zdolność gleby do zaspokajania życiowych potrzeb roślin poprzez dostarczanie im składników pokarmowych, wody i powietrza."
+                                          },
+                                          {
+                                              "term":  "Urodzajność",
+                                              "definition":  "Zdolność produkcyjna gleby mierzona wielkością plonów, wynikająca z jej żyzności oraz stosowanych zabiegów agrotechnicznych."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Bielicowanie",
+                                                 "pair2":  "Powstawanie jasnego poziomu wymywania ubogiego w składniki odżywcze oraz ciemnego poziomu wmywania."
+                                             },
+                                             {
+                                                 "pair1":  "Oglejenie",
+                                                 "pair2":  "Odtlenianie związków mineralnych w warunkach nadmiernego uwilgotnienia, nadające glebie sinoniebieską barwę."
+                                             },
+                                             {
+                                                 "pair1":  "Ferralityzacja",
+                                                 "pair2":  "Szybki rozkład materii organicznej i wypłukiwanie minerałów w klimacie gorącym, nadające glebie czerwoną barwę."
+                                             },
+                                             {
+                                                 "pair1":  "Mineralizacja",
+                                                 "pair2":  "Przemiana związków organicznych w proste związki mineralne, takie jak dwutlenek węgla czy amoniak."
+                                             },
+                                             {
+                                                 "pair1":  "Humifikacja",
+                                                 "pair2":  "Rozkład materii organicznej przy udziale bakterii i grzybów skutkujący powstaniem próchnicy."
+                                             },
+                                             {
+                                                 "pair1":  "Klimat (czynnik glebotwórczy)",
+                                                 "pair2":  "Wpływa na tempo wietrzenia skał, rozwój organizmów oraz intensywność przemywania gleby opadami."
+                                             },
+                                             {
+                                                 "pair1":  "Skała macierzysta",
+                                                 "pair2":  "Decyduje o składzie mineralnym gleby oraz jej właściwościach fizycznych, takich jak przepuszczalność."
+                                             },
+                                             {
+                                                 "pair1":  "Rzeźba terenu",
+                                                 "pair2":  "Wpływa na stabilność pokrywy glebowej i intensywność erozji, szczególnie na stokach o dużym nachyleniu."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Z czego składa się faza gazowa w trójfazowym układzie gleby?",
+                                      "options":  [
+                                                      "Z roztworu soli mineralnych oraz związków organicznych.",
+                                                      "Z powietrza glebowego będącego mieszaniną gazów i pary.",
+                                                      "Z okruchów skalnych i minerałów o różnym stopniu rozdrobnienia.",
+                                                      "Z mniej lub bardziej rozłożonych szczątków organicznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Faza gazowa gleby to powietrze glebowe, które stanowi mieszaninę różnych gazów oraz pary wodnej wypełniającą przestwory glebowe."
+                                  },
+                                  {
+                                      "question":  "Który poziom glebowy charakteryzuje się wymywaniem rozpuszczonych substancji mineralnych przez kwasy organiczne?",
+                                      "options":  [
+                                                      "Poziom próchniczny (humusowy).",
+                                                      "Poziom wmywania (iluwialny).",
+                                                      "Poziom wymywania (eluwialny).",
+                                                      "Zwietrzelina skały macierzystej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Poziom wymywania (eluwialny) to warstwa, w której kwasy organiczne rozpuszczają niektóre substancje mineralne i wraz z wodą opadową wypłukują je do niżej położonych poziomów."
+                                  },
+                                  {
+                                      "question":  "Czym jest skała macierzysta w profilu glebowym?",
+                                      "options":  [
+                                                      "Niezwietrzałą częścią podłoża skalnego, która nie uległa procesom glebotwórczym.",
+                                                      "Warstwą osadzania się związków chemicznych wymytych z wyższych poziomów.",
+                                                      "Płytką warstwą słabo rozłożonych substancji organicznych, np. liści i traw.",
+                                                      "Zwietrzeliną, która uległa całkowitemu przekształceniu w procesie humifikacji."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Skała macierzysta to najniżej położona w profilu, niezwietrzała część podłoża skalnego, która nie została jeszcze objęta procesami glebotwórczymi."
+                                  },
+                                  {
+                                      "question":  "Która definicja poprawnie opisuje pojęcie żyzności gleby?",
+                                      "options":  [
+                                                      "Jest to zdolność produkcyjna gleby uzyskana dzięki zabiegom agrotechnicznym.",
+                                                      "Jest to naturalna zdolność gleby do zaspokajania życiowych potrzeb roślin.",
+                                                      "Jest to ilość płodów rolnych uzyskana z określonej jednostki powierzchni.",
+                                                      "Jest to stopień nasycenia gleby wodą oraz powietrzem glebowym."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Żyzność to naturalna zdolność gleby do zaspokajania potrzeb roślin poprzez dostarczanie im składników pokarmowych, wody i powietrza, w odróżnieniu od urodzajności, która uwzględnia zabiegi rolnicze."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób klimat suchy i gorący wpływa na procesy glebotwórcze?",
+                                      "options":  [
+                                                      "Sprzyja intensywnemu wymywaniu składników odżywczych w głąb profilu.",
+                                                      "Prowadzi do powstawania warunków beztlenowych i procesu oglejenia.",
+                                                      "Powoduje podsiąkanie wód gruntowych i w konsekwencji zasolenie gleby.",
+                                                      "Przyspiesza proces humifikacji i tworzenia grubej warstwy próchnicznej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W klimatach suchych, gdzie parowanie jest większe niż opady, dochodzi do podsiąkania wód gruntowych bogatych w sole, co prowadzi do zasolenia gleby."
+                                  },
+                                  {
+                                      "question":  "Jaką funkcję w procesie powstawania gleby pełnią zwierzęta takie jak dżdżownice i krety?",
+                                      "options":  [
+                                                      "Dostarczają glebie wyłącznie składników mineralnych ze skały macierzystej.",
+                                                      "Spulchniają glebę, wpływając na jej strukturę, przewiewność i przepuszczalność.",
+                                                      "Tworzą zwartą pokrywę chroniącą glebę przed erozją wietrzną i wodną.",
+                                                      "Zakwaszają glebę poprzez wydzielanie kwasów organicznych do roztworu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zwierzęta żyjące w glebie, takie jak dżdżownice czy krety, spulchniają ją, co modyfikuje jej strukturę oraz poprawia przepuszczalność i przewiewność."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces mineralizacji materii organicznej?",
+                                      "options":  [
+                                                      "Na przemianie związków organicznych w proste związki mineralne (np. wodę, amoniak).",
+                                                      "Na rozkładzie materii organicznej prowadzącym do powstania złożonej próchnicy.",
+                                                      "Na mechanicznym rozdrabnianiu skały macierzystej pod wpływem zmian temperatury.",
+                                                      "Na wypłukiwaniu cząstek ilastych do niższych poziomów profilu glebowego."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Mineralizacja to proces przemiany związków organicznych w proste związki mineralne, takie jak dwutlenek węgla, woda czy amoniak."
+                                  },
+                                  {
+                                      "question":  "Jak rzeźba terenu wpływa na pokrywę glebową na stokach o dużym nachyleniu?",
+                                      "options":  [
+                                                      "Sprzyja akumulacji grubej warstwy zwietrzeliny i rozwojowi głębokich profili.",
+                                                      "Powoduje silne niszczenie gleb i zmniejsza miąższość zwietrzeliny.",
+                                                      "Zatrzymuje wodę opadową, prowadząc do częstego oglejenia gleb stokowych.",
+                                                      "Uniemożliwia całkowicie rozwój jakiejkolwiek szaty roślinnej i organizmów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na stokach o dużym nachyleniu gleby są najsilniej niszczone (erozja), a grubość zwietrzeliny jest mniejsza, co ogranicza głębokość procesów glebotwórczych."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces humifikacji?",
+                                      "options":  [
+                                                      "Na rozkładzie materii organicznej przy udziale mikroorganizmów, tworząc próchnicę.",
+                                                      "Na całkowitym utlenieniu szczątków roślinnych do dwutlenku węgla i wody.",
+                                                      "Na wietrzeniu fizycznym skał prowadzącym do zwiększenia ich porowatooty.",
+                                                      "Na wymywaniu tlenków żelaza i glinu do niższych poziomów glebowych."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Humifikacja to rozkład materii organicznej przy udziale bakterii i grzybów, którego skutkiem jest powstanie próchnicy (humusu)."
+                                  },
+                                  {
+                                      "question":  "Który opis charakteryzuje proces brunatnienia?",
+                                      "options":  [
+                                                      "Odtlenianie związków mineralnych w warunkach nadmiernego uwilgotnienia gruntu.",
+                                                      "Wymywanie cząstek ilastych z górnych poziomów i osadzanie ich głębiej.",
+                                                      "Rozkład glinokrzemianów uwalniający żelazo i glin, które otaczają cząstki gleby.",
+                                                      "Szybki rozkład materii organicznej i wypłukiwanie większości minerałów."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Brunatnienie polega na stopniowym rozkładzie glinokrzemianów, w wyniku czego uwalniane są związki żelaza i glinu, które nadają glebie brunatną barwę."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się proces płowienia?",
+                                      "options":  [
+                                                      "Wymywaniem w głąb gleby najdrobniejszych składników ilastych.",
+                                                      "Wymywaniem związków żelaza i próchnicy w środowisku kwaśnym.",
+                                                      "Gromadzeniem się słabo rozłożonej materii organicznej w postaci torfu.",
+                                                      "Wytrącaniem się węglanu wapnia w górnych poziomach profilu."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Płowienie (lessivage) polega na wymywaniu w głąb gleby składników ilastych, co tworzy jasny poziom wymywania i ciemniejszy poziom wmywania."
+                                  },
+                                  {
+                                      "question":  "W jakich warunkach zachodzi proces oglejenia i jaki jest jego wizualny skutek?",
+                                      "options":  [
+                                                      "W klimacie gorącym i suchym, nadając glebie czerwoną barwę od tlenków żelaza.",
+                                                      "W warunkach nadmiernego uwilgotnienia, tworząc poziom o barwie sinoniebieskiej.",
+                                                      "W lasach iglastych, prowadząc do powstania jasnego poziomu pod ściółką.",
+                                                      "Na skałach wapiennych, powodując powstanie ciemnego, grubego poziomu próchnicy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Oglejenie zachodzi np. w wyniku nadmiernego uwilgotnienia, co prowadzi do odtleniania związków mineralnych i powstania poziomu o sinoniebieskiej barwie."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces ferralityzacji (lateryzacji)?",
+                                      "options":  [
+                                                      "Na szybkim rozkładzie szczątków i wypłukiwaniu minerałów poza tlenkami żelaza i glinu.",
+                                                      "Na powolnym gromadzeniu się próchnicy w warunkach niskiej temperatury i opadów.",
+                                                      "Na przemieszczaniu cząstek iłów w głąb profilu bez zmiany składu chemicznego.",
+                                                      "Na redukcji związków żelaza w warunkach beztlenowych przy pełnym nasyceniu wodą."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ferralityzacja to szybki rozkład szczątków organicznych i wypłukiwanie większości minerałów w gorącym i wilgotnym klimacie, co pozostawia w glebie tlenki żelaza i glinu."
+                                  },
+                                  {
+                                      "question":  "Która cecha odróżnia proces bielicowania od procesu płowienia?",
+                                      "options":  [
+                                                      "Bielicowanie dotyczy wymywania związków mineralnych i organicznych, a płowienie cząstek ilastych.",
+                                                      "Bielicowanie zachodzi wyłącznie na skałach wapiennych, a płowienie na piaskach.",
+                                                      "W procesie bielicowania nie powstaje poziom wymywania, a w płowieniu jest on dominujący.",
+                                                      "Bielicowanie prowadzi do powstania gleb bardzo żyznych, a płowienie do gleb jałowych."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Bielicowanie polega na wymywaniu związków mineralnych (np. żelaza) i organicznych (próchnicy), podczas gdy płowienie to przemieszczanie głównie frakcji ilastej (gliny)."
+                                  },
+                                  {
+                                      "question":  "Jakie poziomy glebowe powstają w wyniku procesu bielicowania?",
+                                      "options":  [
+                                                      "Sinoniebieski poziom glejowy oraz ciemny poziom torfowy na powierzchni.",
+                                                      "Brunatny poziom wmywania bez wyraźnego poziomu wymywania pod próchnicą.",
+                                                      "Jasny poziom wymywania oraz znajdujący się pod nim rdzawy lub ciemny poziom wmywania.",
+                                                      "Gruby poziom próchniczny przechodzący bezpośrednio w skałę macierzystą."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W wyniku bielicowania powstaje bardzo jasny poziom wymywania (ubogi w składniki) oraz leżący pod nim ciemny lub rdzawy poziom wmywania (związki żelaza i próchnica)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Żyzność gleby to jej zdolność produkcyjna wynikająca nie tylko z naturalnych właściwości, lecz także z prowadzonych prac rolniczych i zabiegów agrotechnicznych.",
+                                           "answer":  false,
+                                           "explanation":  "Opis ten dotyczy urodzajności. Żyzność to wyłącznie naturalna zdolność gleby do zaspokajania potrzeb roślin."
+                                       },
+                                       {
+                                           "sentence":  "W profilu glebowym poziom wymywania (eluwialny) znajduje się zazwyczaj poniżej poziomu wmywania (iluwialnego).",
+                                           "answer":  false,
+                                           "explanation":  "Poziom wymywania znajduje się nad poziomem wmywania, ponieważ wypłukiwane z niego składniki osadzają się w niżej położonej warstwie."
+                                       },
+                                       {
+                                           "sentence":  "Proces ferralityzacji, prowadzący do powstania gleb o czerwonej barwie, zachodzi intensywnie w gorącym i wilgotnym klimacie równikowym.",
+                                           "answer":  true,
+                                           "explanation":  "Ferralityzacja (lateryzacja) zachodzi w klimacie gorącym i wilgotnym, prowadząc do nagromadzenia związków żelaza i glinu."
+                                       },
+                                       {
+                                           "sentence":  "Czarnoziemy charakteryzują się bardzo grubym poziomem próchnicznym, który powstaje głównie przy udziale roślinności trawiastej na podłożu lessowym.",
+                                           "answer":  true,
+                                           "explanation":  "Czarnoziemy tworzą się na lessach pod roślinnością trawiastą i mają poziom próchniczny dochodzący nawet do 1 metra."
+                                       },
+                                       {
+                                           "sentence":  "Gleby cynamonowe są typowe dla strefy klimatów równikowych i powstają pod wpływem wilgotnych lasów deszczowych.",
+                                           "answer":  false,
+                                           "explanation":  "Gleby cynamonowe występują w klimacie śródziemnomorskim, pod suchymi lasami i zaroślami (makia), a nie w strefie równikowej."
+                                       },
+                                       {
+                                           "sentence":  "Oglejenie to proces zachodzący w warunkach nadmiernego uwilgotnienia, w wyniku którego gleba zyskuje sinoniebieską barwę.",
+                                           "answer":  true,
+                                           "explanation":  "Oglejenie to proces odtleniania związków mineralnych w warunkach dużej wilgotności, co nadaje glebie sinoniebieski kolor."
+                                       },
+                                       {
+                                           "sentence":  "Czerwonożółte gleby ferralitowe są bogate w próchnicę, ponieważ powstają pod najbujniejszą na Ziemi roślinnością lasów równikowych.",
+                                           "answer":  false,
+                                           "explanation":  "Mimo bujnej roślinności, gleby te mają małą zawartość próchnicy z powodu szybkiego rozkładu materii organicznej i intensywnego przemywania."
+                                       },
+                                       {
+                                           "sentence":  "Mady i rędziny zaliczane są do gleb śródstrefowych, gdyż ich występowanie zależy głównie od warunków lokalnych, takich jak rodzaj skały czy dostęp do wody.",
+                                           "answer":  true,
+                                           "explanation":  "Mady i rędziny to gleby śródstrefowe, których rozmieszczenie nie ogranicza się do jednej strefy klimatycznej, lecz zależy od czynników lokalnych."
+                                       },
+                                       {
+                                           "sentence":  "Proces bielicowania prowadzi do powstania w górnej części profilu ciemnego poziomu wmywania, a pod nim jasnego poziomu wymywania.",
+                                           "answer":  false,
+                                           "explanation":  "W procesie bielicowania powstaje jasny poziom wymywania (eluwialny) na górze, a pod nim ciemny lub rdzawy poziom wmywania (iluwialny)."
+                                       },
+                                       {
+                                           "sentence":  "Gleby tundrowe są często oglejone i posiadają wieloletnią zmarzlinę w dolnej części profilu.",
+                                           "answer":  true,
+                                           "explanation":  "Gleby tundrowe występują na obszarach z wieloletnią zmarzliną i zachodzi w nich proces oglejenia z powodu przesiąknięcia wodą."
+                                       }
+                                   ]
+                 }
+}

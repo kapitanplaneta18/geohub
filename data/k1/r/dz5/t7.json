@@ -1,0 +1,284 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t7",
+                     "unit":  "V",
+                     "title":  "Wielkie formy ukształtowania lądów i dna oceanicznego",
+                     "level":  "R",
+                     "class":  "1",
+                     "note":  "Część definicji została uzupełniona wiedzą ekspercką ze względu na braki w dostarczonych fragmentach źródłowych dotyczących tematu nr 7."
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Krzywa hipsograficzna",
+                                              "definition":  "Wykres liniowy przedstawiający udział procentowy poszczególnych wysokości bezwzględnych na lądach oraz głębokości w oceanach w całkowitej powierzchni Ziemi. Pozwala odczytać ukształtowanie pionowe planety. "
+                                          },
+                                          {
+                                              "term":  "Średnia wysokość lądów",
+                                              "definition":  "Wynosi około 875 m n.p.m. Zdecydowana większość lądów to tereny nizinne."
+                                          },
+                                          {
+                                              "term":  "Średnia głębokość oceanów",
+                                              "definition":  "Wynosi około 3700–3800 m p.p.m. (zależnie od przyjętych danych batymetrycznych)."
+                                          },
+                                          {
+                                              "term":  "Szelf kontynentalny",
+                                              "definition":  "Zatopiona część bloku kontynentalnego, stanowiąca łagodnie nachyloną platformę sięgającą zazwyczaj do głębokości ok. 200 m (tzw. półka kontynentalna)."
+                                          },
+                                          {
+                                              "term":  "Stok kontynentalny",
+                                              "definition":  "Fragment dna oceanicznego o znacznym nachyleniu, łączący szelf kontynentalny z basenem oceanicznym (głębokości od ok. 200 do 3000 m)."
+                                          },
+                                          {
+                                              "term":  "Basen oceaniczny",
+                                              "definition":  "Rozległe, głębokie obniżenie dna oceanicznego (3000–6000 m p.p.m.) o wyrównanej powierzchni, zajmujące największą część dna oceanów."
+                                          },
+                                          {
+                                              "term":  "Grzbiet śródoceaniczny",
+                                              "definition":  "Rozległe podmorskie wzniesienie powstające w strefie spredingu, gdzie w wyniku rozsuwania się płyt litosfery magma wydostaje się na powierzchnię i tworzy nową skorupę. "
+                                          },
+                                          {
+                                              "term":  "Rów oceaniczny",
+                                              "definition":  "Długa, wąska i bardzo głęboka forma dna oceanicznego, powstająca w strefie subdukcji, gdzie jedna płyta litosfery podsuwa się pod drugą."
+                                          },
+                                          {
+                                              "term":  "Niziny",
+                                              "definition":  "Formy ukształtowania lądów leżące na wysokości od 0 do 300 m n.p.m. (w Polsce do 200 m n.p.m.), stanowiące przeważającą część powierzchni kontynentów."
+                                          },
+                                          {
+                                              "term":  "Wyżyny",
+                                              "definition":  "Obszary położone powyżej 300 m n.p.m., charakteryzujące się niewielkimi deniwelacjami (różnicami wysokości względnej) i słabo urozmaiconą rzeźbą."
+                                          },
+                                          {
+                                              "term":  "Góry",
+                                              "definition":  "Formy terenu o urozmaiconej rzeźbie i dużych deniwelacjach, powstające m.in. w wyniku fałdowania osadów (góry fałdowe), wypiętrzania wzdłuż uskoków (zrębowe) lub działalności wulkanicznej."
+                                          },
+                                          {
+                                              "term":  "Platformy kontynentalne",
+                                              "definition":  "Duże, sztywne fragmenty litosfery kontynentalnej (zbudowane z cokołu i pokrywy osadowej), które stanowią fundament dla wielkich form nizinnych i wyżynnych."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Szelf kontynentalny",
+                                                 "pair2":  "Przybrzeżna, płytka strefa dna oceanicznego do głębokości ok. 200 m"
+                                             },
+                                             {
+                                                 "pair1":  "Niziny",
+                                                 "pair2":  "Obszary lądowe wznoszące się do wysokości 300 m n.p.m."
+                                             },
+                                             {
+                                                 "pair1":  "Najgłębsze miejsca w oceanach",
+                                                 "pair2":  "Rowy oceaniczne (np. Rów Mariański)"
+                                             },
+                                             {
+                                                 "pair1":  "Rozległe podmorskie wzniesienia w strefach ryftowych",
+                                                 "pair2":  "Grzbiety śródoceaniczne"
+                                             },
+                                             {
+                                                 "pair1":  "Stok kontynentalny",
+                                                 "pair2":  "Stroma strefa przejściowa między szelfem a dnem basenu oceanicznego"
+                                             },
+                                             {
+                                                 "pair1":  "Góry zrębowe",
+                                                 "pair2":  "Formy powstałe przez wypiętrzenie warstw skalnych wzdłuż uskoków (np. Góry Smocze)"
+                                             },
+                                             {
+                                                 "pair1":  "Basen oceaniczny",
+                                                 "pair2":  "Forma dna zajmująca największą powierzchnię oceanów, głębokość 3-6 tys. m"
+                                             },
+                                             {
+                                                 "pair1":  "Góry fałdowe",
+                                                 "pair2":  "Powstają w efekcie kolizji płyt lub subdukcji, np. Andy, Himalaje"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaka jest przybliżona grubość skorupy ziemskiej w obrębie kontynentów według podręcznika?",
+                                      "options":  [
+                                                      "Od 5 do 12 km",
+                                                      "Około 30 km",
+                                                      "Około 80 km",
+                                                      "Ponad 150 km"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Zgodnie z tekstem, grubość skorupy kontynentalnej wynosi ok. 80 km, podczas gdy skorupa oceaniczna ma grubość 5–12 km."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych stwierdzeń poprawnie definiuje litosferę?",
+                                      "options":  [
+                                                      "Obejmuje skorupę ziemską oraz zewnętrzną część płaszcza górnego.",
+                                                      "Składa się wyłącznie ze skorupy kontynentalnej i oceanicznej.",
+                                                      "Jest to warstwa płynna znajdująca się pod płaszczem dolnym.",
+                                                      "Stanowi najgłębszą warstwę Ziemi o temperaturze powyżej 6000°C."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego tworzą litosferę. Jej grubość waha się od ok. 10 km do ponad 100 km."
+                                  },
+                                  {
+                                      "question":  "W jakim stanie skupienia znajduje się jądro zewnętrzne Ziemi?",
+                                      "options":  [
+                                                      "Stałym",
+                                                      "Ciekłym",
+                                                      "Gazowym",
+                                                      "Półplastycznym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jądro zewnętrzne ma właściwości ciała ciekłego, a temperatura w tej warstwie wynosi ok. 4500°C."
+                                  },
+                                  {
+                                      "question":  "Jaką nazwę nosi punkt na powierzchni Ziemi znajdujący się bezpośrednio nad ogniskiem trzęsienia ziemi?",
+                                      "options":  [
+                                                      "Hipocentrum",
+                                                      "Epicentrum",
+                                                      "Krater",
+                                                      "Ryft"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bezpośrednio nad hipocentrum (ogniskiem wstrząsów), już na powierzchni, leży epicentrum, gdzie wstrząsy są najsilniejsze."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych opisów charakteryzuje skały magmowe głębinowe (plutoniczne)?",
+                                      "options":  [
+                                                      "Powstają z lawy szybko zastygającej na powierzchni.",
+                                                      "Powstają w wyniku nagromadzenia okruchów skalnych w morzu.",
+                                                      "Powstają z magmy powoli krystalizującej głęboko pod powierzchnią.",
+                                                      "Powstają pod wpływem wysokiej temperatury z innych skał."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Skały magmowe głębinowe (plutoniczne) powstają z magmy, która powoli krystalizuje głęboko pod powierzchnią ziemi. Przykładem jest granit."
+                                  },
+                                  {
+                                      "question":  "Co powstaje w strefie spredingu v wyniku rozsuwania się płyt litosfery?",
+                                      "options":  [
+                                                      "Rowy oceaniczne",
+                                                      "Grzbiety śródoceaniczne",
+                                                      "Góry fałdowe",
+                                                      "Łańcuchy wysp wulkanicznych (łuki wysp)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy płyty się rozsuwają, powstają ryfty, a po ich obu stronach tworzą się rozległe podmorskie wzniesienia zwane grzbietami śródoceanicznymi."
+                                  },
+                                  {
+                                      "question":  "Jaki rodzaj gór powstaje w wyniku wypiętrzania warstw skalnych wzdłuż uskoków, bez ich fałdowania?",
+                                      "options":  [
+                                                      "Góry fałdowe",
+                                                      "Góry wulkaniczne",
+                                                      "Góry zrębowe",
+                                                      "Góry subdukcyjne"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Góry zrębowe powstają w wyniku wypiętrzania sztywnych warstw skalnych wzdłuż uskoków, gdzie skały pękają i przesuwają się, tworząc zręby."
+                                  },
+                                  {
+                                      "question":  "Który wulkan jest przykładem stratowulkanu o gwałtownych i spokojnych erupcjach?",
+                                      "options":  [
+                                                      "Kilauea",
+                                                      "Mauna Loa",
+                                                      "Etna",
+                                                      "Paricutín"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Przykładem stratowulkanu, którego gwałtowne erupcje przeplatane są spokojnymi, jest Etna (oraz Wezuwiusz i Stromboli)."
+                                  },
+                                  {
+                                      "question":  "Jaką wielkość mają lapilli – jeden z produktów erupcji wulkanicznych?",
+                                      "options":  [
+                                                      "Do 2 mm",
+                                                      "Ok. 6 cm",
+                                                      "Powyżej 1 metra",
+                                                      "Są mikroskopijnym pyłem"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Lapilli to okruchy skalne powstające z rozdrobnionej lawy, które mają wielkość ok. 6 cm."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko jest bezpośrednią przyczyną ruchu płyt litosfery?",
+                                      "options":  [
+                                                      "Ruch obrotowy Ziemi",
+                                                      "Prądy konwekcyjne w płaszczu Ziemi",
+                                                      "Przyciąganie Księżyca",
+                                                      "Erozja powierzchniowa"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ciągły ruch płyt litosfery wywołują prądy konwekcyjne – strumienie magmy wędrujące z głębi Ziemi, które rozdzielają się pod litosferą."
+                                  },
+                                  {
+                                      "question":  "Jaka forma rzeźby powstaje na lądzie w strefie subdukcji płyty oceanicznej pod kontynentalną, analogicznie do powstania Andów?",
+                                      "options":  [
+                                                      "Grzbiet śródoceaniczny",
+                                                      "Ryft kontynentalny",
+                                                      "Łańcuch górski",
+                                                      "Rozległa nizina"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W strefie subdukcji płyty oceanicznej pod kontynentalną powstają rowy oceaniczne (w oceanie) oraz łańcuchy górskie na lądzie (np. Andy)."
+                                  },
+                                  {
+                                      "question":  "Gdzie względem płyt litosfery zlokalizowana jest większość wulkanów na Ziemi?",
+                                      "options":  [
+                                                      "Wyłącznie w środku płyt kontynentalnych",
+                                                      "Głównie na granicach płyt litosfery (strefy spredingu i subdukcji)",
+                                                      "Tylko nad plamami gorąca z dala od granic",
+                                                      "Na obszarach asejsmicznych nizin"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Większość wulkanów powstała na granicach płyt litosfery, zarówno w strefach spredingu, jak i w strefach subdukcji, np. w Ognistym Pierścieniu Pacyfiku."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Średnia głębokość oceanów jest mniejsza niż średnia wysokość lądów.",
+                                           "answer":  false,
+                                           "explanation":  "Średnia głębokość oceanów jest znacznie większa niż średnia wysokość lądów, co wynika z analizy krzywej hipsograficznej Ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Szelfy stanowią największą część powierzchni dna oceanicznego.",
+                                           "answer":  false,
+                                           "explanation":  "Największą część dna oceanicznego zajmują baseny oceaniczne, a nie szelfy, które są jedynie strefami przybrzeżnymi."
+                                       },
+                                       {
+                                           "sentence":  "Wyżyny to obszary powyżej 300 m n.p.m. o dużych wysokościach względnych.",
+                                           "answer":  false,
+                                           "explanation":  "Wyżyny to obszary wzniesione (zwykle powyżej 300 m n.p.m.), ale charakteryzujące się małymi wysokościami względnymi, w przeciwieństwie do gór."
+                                       },
+                                       {
+                                           "sentence":  "Rowy oceaniczne występują głównie w centralnych częściach basenów oceanicznych.",
+                                           "answer":  false,
+                                           "explanation":  "Rowy oceaniczne powstają w strefach subdukcji na granicach płyt, a nie w centrach basenów, gdzie częściej występują grzbiety śródoceaniczne."
+                                       },
+                                       {
+                                           "sentence":  "Litosfera obejmuje wyłącznie skorupę ziemską oddzieloną od płaszcza powierzchnią nieciągłości.",
+                                           "answer":  false,
+                                           "explanation":  "Litosfera składa się ze skorupy ziemskiej oraz zewnętrznej, sztywnej części płaszcza górnego."
+                                       },
+                                       {
+                                           "sentence":  "Proces spredingu prowadzi do powstawania nowej skorupy oceanicznej i rozszerzania się dna oceanicznego w obrębie ryftów.",
+                                           "answer":  true,
+                                           "explanation":  "Spreding to proces rozrastania się dna oceanicznego, w którym magma wydostaje się przez ryfty i zastyga, tworząc nowe fragmenty skorupy."
+                                       },
+                                       {
+                                           "sentence":  "Hipocentrum to punkt na powierzchni Ziemi położony bezpośrednio nad ogniskiem trzęsienia ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Hipocentrum to ognisko trzęsienia ziemi we wnętrzu planety, natomiast punkt na powierzchni nad nim to epicentrum."
+                                       },
+                                       {
+                                           "sentence":  "Góry zrębowe powstają w wyniku wypiętrzania sztywnych warstw skalnych wzdłuż uskoków tektonicznych.",
+                                           "answer":  true,
+                                           "explanation":  "Góry zrębowe tworzą się, gdy sztywne warstwy skalne pękają i przesuwają się wzdłuż uskoków, tworząc zręby i rowy."
+                                       },
+                                       {
+                                           "sentence":  "Wulkany eksplozywne charakteryzują się spokojnym wylewem mało lepkiej lawy i tworzeniem rozległych, łagodnych stożków.",
+                                           "answer":  false,
+                                           "explanation":  "Wulkany eksplozywne wybuchają gwałtownie, wyrzucając materiały piroklastyczne, natomiast spokojne wylewy lawy są cechą wulkanów efuzywnych."
+                                       },
+                                       {
+                                           "sentence":  "Minerały są podstawowymi składnikami budującymi skały.",
+                                           "answer":  true,
+                                           "explanation":  "Skały są naturalnymi skupiskami jednego lub wielu minerałów, które są podstawowymi pierwiastkami lub związkami chemicznymi skorupy ziemskiej."
+                                       }
+                                   ]
+                 }
+}

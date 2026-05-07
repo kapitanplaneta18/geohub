@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t4",
+    "title": "Koncentracja przestrzenna przemysłu",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Koncentracja przemysłu",
+        "definition": "Zjawisko lokalizowania dużej liczby zakładów na danym terenie, uwarunkowane m.in. występowaniem bogatych złóż surowców, zasobów siły roboczej czy korzyści aglomeracji."
+      },
+      {
+        "term": "Ośrodek przemysłowy",
+        "definition": "Miejscowość, w której znajdują się liczne zakłady produkcyjne, a przemysł odgrywa istotną rolę w gospodarce."
+      },
+      {
+        "term": "Okręg przemysłowy",
+        "definition": "Obszar koncentracji ośrodków przemysłowych, w obrębie którego zakłady są ze sobą powiązane technicznie, produkcyjnie i ekonomicznie."
+      },
+      {
+        "term": "Aglomeracja okręgów przemysłowych",
+        "definition": "Największa forma koncentracji przemysłu, którą tworzy wiele sąsiadujących ze sobą i wzajemnie powiązanych okręgów przemysłowych."
+      },
+      {
+        "term": "Okręg monostrukturalny",
+        "definition": "Rodzaj okręgu przemysłowego ze względu na działalność, w którym wyraźnie dominuje jeden dział przemysłu."
+      },
+      {
+        "term": "Okręg polistrukturalny",
+        "definition": "Rodzaj okręgu przemysłowego o zróżnicowanej strukturze działowej (współcześnie większość okręgów ma taki charakter)."
+      },
+      {
+        "term": "Okręg monocentryczny i policentryczny",
+        "definition": "Podział okręgów według układu przestrzennego: w pierwszym dominuje jeden duży ośrodek, w drugim występuje wiele ośrodków podobnej wielkości."
+      },
+      {
+        "term": "Okręg surowcowy",
+        "definition": "Okręg przemysłowy, który ukształtował się w związku z eksploatacją złóż surowców mineralnych."
+      },
+      {
+        "term": "Okręg wielkomiejski",
+        "definition": "Okręg przemysłowy ukształtowany na obszarze wielkiego miasta ze względu na duże zasoby siły roboczej, rozwinięte zaplecze badawcze oraz chłonny rynek zbytu."
+      },
+      {
+        "term": "Okręg transportowy",
+        "definition": "Okręg ukształtowany dzięki dogodnemu położeniu komunikacyjnemu, które sprzyja dowozowi surowców i wywozowi gotowych towarów."
+      },
+      {
+        "term": "Park naukowy",
+        "definition": "Kompleks laboratoriów założony przez wyższe uczelnie, w którym opracowuje się projekty wdrażane następnie w procesie produkcji przez inne firmy."
+      },
+      {
+        "term": "Park technologiczny",
+        "definition": "Wydzielona w obrębie miasta strefa koncentracji przemysłu high-tech oraz jednostek naukowo-badawczych."
+      },
+      {
+        "term": "Technopolia",
+        "definition": "Okręg przemysłowy, w którym zakłady produkcyjne powiązane z jednostkami badawczo-rozwojowymi i uniwersytetami wytwarzają produkty najbardziej zaawansowane technologicznie."
+      },
+      {
+        "term": "Klaster (grono)",
+        "definition": "Grupa przedsiębiorstw, instytucji naukowych i władz działających w pokrewnych dziedzinach, opierająca się na kooperacji i innowacyjności (zakłady nie muszą leżeć blisko siebie)."
+      },
+      {
+        "term": "Czynniki powstawania technopolii",
+        "definition": "Zbiór warunków technologicznych (np. jednostki innowacyjne), ekonomicznych (dostępność kapitału) i społecznych (kreatywna siła robocza, infrastruktura społeczna)."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Dolina Krzemowa (Stany Zjednoczone)",
+        "pair2": "Najstarsza i najważniejsza technopolia na świecie, zlokalizowana m.in. w pobliżu Uniwersytetu Stanforda"
+      },
+      {
+        "pair1": "Dolina Lotnicza",
+        "pair2": "Największy klaster w Polsce, skupiający ponad 150 przedsiębiorstw i instytucji związanych z przemysłem lotniczym"
+      },
+      {
+        "pair1": "Droga 128 (Stany Zjednoczone)",
+        "pair2": "Technopolia nazwana od numeru obwodnicy Bostonu, zrzeszająca m.in. Uniwersytet Harvarda i MIT"
+      },
+      {
+        "pair1": "Sophia Antipolis",
+        "pair2": "Technopolia we Francji położona między Cannes a Niceą, skupiająca firmy z branży informatycznej i biotechnologicznej"
+      },
+      {
+        "pair1": "Korytarz M4",
+        "pair2": "Technopolia w Wielkiej Brytanii (południowa Anglia), powiązana m.in. z uczelniami w Oksfordzie i lotniskiem Heathrow"
+      },
+      {
+        "pair1": "Klaster",
+        "pair2": "Specyficzna forma koncentracji przemysłu, gdzie przedsiębiorstwa nie muszą znajdować się blisko siebie, a kluczowa jest współpraca sieciowa"
+      },
+      {
+        "pair1": "Ośrodek przemysłowy",
+        "pair2": "Miejscowość, w której zlokalizowane są liczne zakłady produkcyjne o dużym znaczeniu w gospodarce lokalnej"
+      },
+      {
+        "pair1": "Okręg przemysłowy",
+        "pair2": "Większy obszar, na którym koncentrują się ośrodki przemysłowe powiązane ze sobą technicznie, produkcyjnie i ekonomicznie"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jak określa się teren, na którym skoncentrowane są liczne miejscowości z zakładami przemysłowymi powiązanymi ze sobą produkcyjnie i ekonomicznie?",
+        "options": [
+          "Pojedynczy ośrodek przemysłowy",
+          "Złożony okręg przemysłowy",
+          "Innowacyjny park technologiczny",
+          "Wielobranżowy klaster biznesowy"
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z podręcznikiem, okręg przemysłowy to większy obszar, na którym koncentrują się ośrodki przemysłowe powiązane ze sobą technicznie, produkcyjnie i ekonomicznie."
+      },
+      {
+        "question": "Jaka struktura przestrzenna charakteryzuje okręg przemysłowy, w którym występuje wiele podobnej wielkości miejscowości z zakładami produkcyjnymi?",
+        "options": [
+          "Główny okręg o strukturze monocentrycznej",
+          "Duży okręg o układzie policentrycznym",
+          "Wielki okręg o profilu monostrukturalnym",
+          "Zróżnicowany okręg polistrukturalny"
+        ],
+        "answer": "B",
+        "explanation": "Okręg policentryczny składa się z wielu ośrodków przemysłowych o zbliżonej wielkości, w przeciwieństwie do monocentrycznego, w którym dominuje tylko jeden, bardzo duży ośrodek."
+      },
+      {
+        "question": "Jak nazywa się forma koncentracji przestrzennej, w której zakłady produkcyjne wraz z uniwersytetami wytwarzają najbardziej zaawansowane technologicznie produkty?",
+        "options": [
+          "Zintegrowana nowa technopolia",
+          "Silnie rozwinięta aglomeracja okręgów",
+          "Tradycyjny wielki okręg przemysłowy",
+          "Wielobranżowy miejski park naukowy"
+        ],
+        "answer": "A",
+        "explanation": "Technopolie to wyspecjalizowane okręgi przemysłowe, które opierają się na współpracy zakładów z jednostkami badawczo-rozwojowymi i uniwersytetami w celu tworzenia produktów high-tech."
+      },
+      {
+        "question": "Która z wymienionych nowoczesnych form koncentracji przestrzennej przemysłu składa się głównie z kompleksów laboratoriów zakładanych zazwyczaj bezpośrednio przez wyższe uczelnie?",
+        "options": [
+          "Okręg o dogodnym położeniu transportowym",
+          "Lokalny akademicki park technologiczny",
+          "Wielki zintegrowany okręg policentryczny",
+          "Kompleksowy uczelniany park naukowy"
+        ],
+        "answer": "D",
+        "explanation": "Według podręcznika parki naukowe to kompleksy laboratoriów założone przez wyższe uczelnie, opracowujące innowacyjne projekty, które są następnie wdrażane przez firmy."
+      },
+      {
+        "question": "Jak w literaturze określa się największą z możliwych form koncentracji przestrzennej, która tworzona jest przez wiele sąsiadujących ze sobą i powiązanych okręgów?",
+        "options": [
+          "Zintegrowany regionalny park technologiczny",
+          "Nowoczesna, zglobalizowana sieć technopolii",
+          "Potężna aglomeracja okręgów przemysłowych",
+          "Lokalne grono współpracujących przedsiębiorstw"
+        ],
+        "answer": "C",
+        "explanation": "Aglomeracja okręgów przemysłowych to największa forma koncentracji, powstała poprzez zrastanie się wielu mniejszych, wzajemnie powiązanych okręgów."
+      },
+      {
+        "question": "Głównym czynnikiem prowadzącym do historycznego wykształcenia się typowego okręgu o profilu transportowym była zazwyczaj:",
+        "options": [
+          "Eksploatacja ogromnych złóż surowców mineralnych",
+          "Dostęp do taniej siły roboczej w wielkim mieście",
+          "Dogodne położenie do dowozu i wywozu materiałów",
+          "Sąsiedztwo prestiżowych zagranicznych uczelni"
+        ],
+        "answer": "C",
+        "explanation": "Okręgi transportowe rozwinęły się dzięki doskonałemu położeniu komunikacyjnemu, co pozwalało na efektywny transport surowców i dystrybucję towarów."
+      },
+      {
+        "question": "Na jakim obszarze na świecie zlokalizowana jest nowoczesna technopolia o nazwie Sophia Antipolis, skupiająca między innymi innowacyjne przedsiębiorstwa informatyczne?",
+        "options": [
+          "USA, w bezpośrednim sąsiedztwie Uniwersytetu Stanforda",
+          "USA, niedaleko obwodnicy drogowo-transportowej Bostonu",
+          "Wielkiej Brytanii, pomiędzy miastami Bristol a Londyn",
+          "Francji, na południu między miastami Cannes a Niceą"
+        ],
+        "answer": "D",
+        "explanation": "Sophia Antipolis to jedna z najbardziej znanych europejskich technopolii, położona na Lazurowym Wybrzeżu we Francji, pomiędzy Cannes a Niceą."
+      },
+      {
+        "question": "W którym z etapów cyklu rozwojowego okręgu przemysłowego ma miejsce stopniowe odchodzenie od przemysłu wydobywczego na rzecz wzrostu znaczenia produktów zaawansowanych technologicznie?",
+        "options": [
+          "W początkowej fazie terytorialnego rozwoju danego okręgu",
+          "W fazie głębokiej restrukturyzacji okręgu przemysłowego",
+          "Podczas pierwotnego formowania się okręgu wydobywczego",
+          "W początkowym etapie silnego zróżnicowania produkcji"
+        ],
+        "answer": "B",
+        "explanation": "Restrukturyzacja okręgu obejmuje zmianę w strukturze produkcji, m.in. zamykanie tradycyjnych branż (hutnictwo, górnictwo) i rozwój nowoczesnych gałęzi o wysokiej technologii."
+      },
+      {
+        "question": "Największy funkcjonujący klaster na terytorium Polski, który w południowo-wschodniej części kraju skupia rzeszę przedsiębiorstw i instytucji ze swojej głównej branży, nosi nazwę:",
+        "options": [
+          "Przemysłowa Polska Dolina Krzemowa",
+          "Innowacyjna sieć Dolina Lotnicza",
+          "Zintegrowany Krajowy Korytarz Lotny",
+          "Tradycyjny Wielki Okręg Surowcowy"
+        ],
+        "answer": "B",
+        "explanation": "Dolina Lotnicza to największy klaster w Polsce zrzeszający ponad 150 podmiotów gospodarczych oraz instytucji związanych z szeroko pojętym przemysłem lotniczym."
+      },
+      {
+        "question": "Która z niżej podanych cech jest obecnie najbardziej charakterystycznym fundamentem funkcjonowania współczesnego, innowacyjnego klastra przemysłowego?",
+        "options": [
+          "Pełna dominacja jednego potężnego, globalnego monopolisty",
+          "Ścisłe fizyczne zgrupowanie wszystkich firm w jednym mieście",
+          "Kooperacja sieciowa i innowacyjność niezależna od dystansu",
+          "Całkowity brak jakiejkolwiek wymiany wiedzy i technologii"
+        ],
+        "answer": "C",
+        "explanation": "W klastrze (gronie) przedsiębiorstwa nie muszą znajdować się bezpośrednio w jednym miejscu. O jego sile decyduje wewnątrzsieciowa współpraca oraz innowacyjność połączona z kooperacją rynkową."
+      },
+      {
+        "question": "Która popularna technopolia o wielkim znaczeniu globalnym, zlokalizowana w USA, zawdzięcza rozwój bliskości takich prestiżowych uczelni jak Uniwersytet Harvarda oraz MIT?",
+        "options": [
+          "Wielki amerykański obszar Doliny Krzemowej",
+          "Rozwinięta technopolia nazywana Drogą 128",
+          "Słynny brytyjski ośrodek znany jako Korytarz M4",
+          "Francuski innowacyjny kompleks Sophia Antipolis"
+        ],
+        "answer": "B",
+        "explanation": "Droga 128 to technopolia zawdzięczająca nazwę bostońskiej obwodnicy, opierająca rozwój innowacji na bardzo bliskim sąsiedztwie Uniwersytetu Harvarda oraz Instytutu Technologicznego Massachusetts."
+      },
+      {
+        "question": "W procesie powstawania technopolii, obecność na danym obszarze wysoko wykwalifikowanej, kreatywnej ludności oraz wysoka jakość uwarunkowań rekreacyjnych stanowią część:",
+        "options": [
+          "Wymagań ściśle ekonomiczno-finansowych w polityce",
+          "Bezpośrednich uwarunkowań społeczno-kulturowych",
+          "Ewidentnie mierzalnych uwarunkowań logistycznych",
+          "Kryteriów technologicznych i czysto sprzętowych"
+        ],
+        "answer": "B",
+        "explanation": "Przychylne nastawienie, jakość życia i kapitał ludzki zaliczane są w podręczniku wprost do warunków społecznych kształtowania się technopolii."
+      },
+      {
+        "question": "W jaki sposób zorganizowane zaplecze otoczenia wokół klastra (władze samorządowe, szkoły wyższe, różnorodne instytucje wspierające) oddziałuje na zrzeszone przedsiębiorstwa?",
+        "options": [
+          "Wymusza likwidację lokalnych mniejszych firm przez wielkie zachodnie korporacje",
+          "Zmierza do totalnego monopolu na lokalnym rynku i niszczy wszelką konkurencję",
+          "Sztucznie izoluje regionalne firmy od nowoczesnego rynku międzynarodowego",
+          "Skutecznie stymuluje innowacyjność oraz cenną wymianę rynkowej wiedzy"
+        ],
+        "answer": "D",
+        "explanation": "Kooperacja przedsiębiorstw ze światem nauki i władzami w ramach klastra jest filarem innowacyjności. Służy budowie silnej gospodarki opartej na wiedzy i pozwala skuteczniej konkurować firmom globalnie, nie zaburzając jednocześnie zdrowego rynku."
+      },
+      {
+        "question": "Jaką kluczową prawidłowość można współcześnie dostrzec w kontekście dokonywanych na całym świecie zmian lokalizacyjnych w przemyśle zaawansowanych technologii?",
+        "options": [
+          "Skupienie wszystkich kluczowych inwestycji z powrotem w centrach Europy Zachodniej",
+          "Przenoszenie produkcji high-tech z USA czy Europy m.in. do państw na terenie Azji",
+          "Zamykanie działających dotąd parków technologicznych dla potrzeb nowej turystyki",
+          "Masowy powrót i całkowita dekoncentracja w kierunku tradycyjnych okręgów węgla"
+        ],
+        "answer": "B",
+        "explanation": "Przemysł high-tech, historycznie koncentrowany niemal wyłącznie w państwach wysoko rozwiniętych zachodu, powoli ulega globalnej relokacji do szybko rozwijających się krajów azjatyckich oraz do Europy Wschodniej."
+      },
+      {
+        "question": "Czym w kontekście strukturalnym odznacza się nowoczesny okręg polistrukturalny, który osiągnął lub przekroczył już zaawansowaną fazę terytorialnego zróżnicowania produkcji?",
+        "options": [
+          "Całkowitym i bezwzględnym oparciem lokalnej gospodarki tylko na przemyśle ciężkim",
+          "Systematyczną i stałą rozbudową wyłącznie jednego, ogromnego zakładu wydobywczego",
+          "Zróżnicowaną strukturą i funkcjonowaniem wielu różnorodnych działów obok siebie",
+          "Zdecydowanym i celowym zaniechaniem wszelkich form kooperacji sieciowej w okolicy"
+        ],
+        "answer": "C",
+        "explanation": "Okręg polistrukturalny to forma koncentracji charakteryzująca się bogato zróżnicowaną strukturą i koegzystencją różnorodnych działów przemysłu, powoli zastępująca dawną monostrukturę opartą na jednym surowcu."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Ośrodek przemysłowy jest pojęciem znacznie szerszym przestrzennie od okręgu przemysłowego i obejmuje on wiele powiązanych ze sobą obszarów.",
+        "answer": false,
+        "explanation": "Jest odwrotnie. Ośrodek przemysłowy to miejscowość z zakładami produkcyjnymi. Znacznie szerszym pojęciem jest okręg przemysłowy, który jest obszarem koncentracji wielu powiązanych ze sobą ośrodków przemysłowych."
+      },
+      {
+        "sentence": "Cechą charakterystyczną klastrów jest całkowity brak konkurencji rynkowej między wchodzącymi w ich skład firmami, ponieważ na danym obszarze działają one bezwzględnie jako jeden twór.",
+        "answer": false,
+        "explanation": "Klastry opierają się na współpracy sieciowej (kooperacji np. w badaniach), ale nie znoszą zdrowej konkurencji między niezależnymi przedsiębiorstwami. Mają one zwiększać innowacyjność pozwalającą konkurować na globalnych rynkach."
+      },
+      {
+        "sentence": "Nowoczesne technopolie kształtują się niemal w całkowitej izolacji od szkół wyższych, a ich funkcjonowanie opiera się wyłącznie na prywatnym kapitale instytucji finansowych i banków.",
+        "answer": false,
+        "explanation": "Technopolie to okręgi, w których zakłady produkcyjne są ściśle powiązane z jednostkami badawczo-rozwojowymi i uniwersytetami. Uczelnie wyższe są ich absolutnym fundamentem (np. rola Uniwersytetu Stanforda dla Doliny Krzemowej)."
+      },
+      {
+        "sentence": "Zakłady należące do jednego klastra (grona) nie muszą być zlokalizowane fizycznie blisko siebie, ponieważ ważniejsza od odległości jest ich kooperacja i innowacyjne powiązania w sieci.",
+        "answer": true,
+        "explanation": "Zgodnie z podręcznikiem zakłady przemysłowe należące do klastra nie muszą znajdować się w bliskim sąsiedztwie przestrzennym – kluczowa jest kooperacja w pokrewnych dziedzinach i budowa powiązań np. w badaniach."
+      },
+      {
+        "sentence": "Obecnie na świecie zdecydowana większość nowo powstających i rozwiniętych okręgów przemysłowych ma charakter monostrukturalny, ukierunkowany ściśle na jeden dział przemysłu.",
+        "answer": false,
+        "explanation": "Współcześnie tendencja jest odwrotna. Większość współczesnych okręgów przemysłowych ma charakter polistrukturalny, czyli odznacza się wysoce zróżnicowaną strukturą działową produkcji."
+      },
+      {
+        "sentence": "Faza restrukturyzacji okręgu przemysłowego charakteryzuje się zanikaniem tradycyjnych gałęzi przemysłu (np. górnictwa) na rzecz dynamicznego rozwoju przemysłu high-tech.",
+        "answer": true,
+        "explanation": "Zgodnie z etapami rozwoju okręgu przemysłowego, faza restrukturyzacji obejmuje właśnie stopniowe zanikanie tradycyjnych dziedzin gospodarki i rozwój nowoczesnych gałęzi technologicznych, co ma zapobiec upadkowi regionu."
+      },
+      {
+        "sentence": "Okręg policentryczny to specyficzny typ okręgu przemysłowego, w którego przestrzeni nie ma jednego, bezwzględnie dominującego ośrodka; składa się on z wielu podobnej wielkości miejscowości produkcyjnych.",
+        "answer": true,
+        "explanation": "Okręg policentryczny składa się z wielu podobnych wielkościowo ośrodków (w przeciwieństwie do monocentrycznego, zdominowanego przez jeden potężny ośrodek centralny)."
+      },
+      {
+        "sentence": "Parki naukowe to kompleksy specjalistycznych laboratoriów, które są zazwyczaj zakładane i organizowane bezpośrednio przez wyższe uczelnie w celu opracowywania innowacyjnych projektów.",
+        "answer": true,
+        "explanation": "Parki naukowe są z definicji kompleksami laboratoryjnymi powoływanymi przez szkoły wyższe, z których wiedza wdrażana jest następnie przez zewnętrzne firmy."
+      },
+      {
+        "sentence": "Okręg Londyński stanowi na świecie podręcznikowy przykład okręgu ukształtowanego zaledwie przez jeden czynnik lokalizacji – chłonny, wielkomiejski rynek zbytu, bez udziału funkcji transportowej.",
+        "answer": false,
+        "explanation": "Okręg Londyński ma złożoną genezę. Powstał pod wpływem wielu czynników, dlatego zalicza się go równocześnie do okręgów wielkomiejskich oraz do okręgów transportowych."
+      },
+      {
+        "sentence": "Do szeroko pojętego otoczenia klastra zalicza się wyłącznie inne przedsiębiorstwa produkcyjne i ewentualnie instytuty badawcze, natomiast celowo wyklucza się władze lokalne i centralne.",
+        "answer": false,
+        "explanation": "W podręcznikowym schemacie klastra, do jego otoczenia wprost i oficjalnie zalicza się władze centralne oraz władze lokalne samorządowe, które współpracują z biznesem i nauką na danym terytorium."
+      },
+      {
+        "sentence": "Wielka relokacja przestrzenna przemysłu zaawansowanych technologii (high-tech) objawia się obecnie silnym przenoszeniem i rozbudową nowoczesnej produkcji oraz centrów badawczych m.in. w krajach azjatyckich i Europie Wschodniej.",
+        "answer": true,
+        "explanation": "Produkcja high-tech, historycznie ograniczona głównie do zachodu, faktycznie podlega obecnie globalnej dekoncentracji i relokacji w kierunku prężnie rozwijających się gospodarek azjatyckich (np. Chin) oraz Europy Wschodniej."
+      },
+      {
+        "sentence": "Aglomeracja okręgów przemysłowych to w literaturze fachowej największa z wyróżnianych form koncentracji przestrzennej przemysłu, obejmująca strefy zrastania się wielu sąsiadujących ze sobą okręgów.",
+        "answer": true,
+        "explanation": "Według podręcznika aglomeracja okręgów przemysłowych to trzecia, największa forma terytorialnej koncentracji przemysłu tworzona przez powiązane i sąsiadujące ze sobą okręgi przemysłowe."
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz6-t5",
+                     "unit":  "VI",
+                     "title":  "Rzeźbotwórcza działalność lodowców górskich i lądolodów",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Lodowiec górski a lądolód",
+                                              "definition":  "Lodowce górskie tworzą się w wysokich górach powyżej granicy wiecznego śniegu, natomiast lądolody to rozległe pokrywy lodowe zajmujące duże powierzchnie kontynentów (np. Antarktyda, Grenlandia)."
+                                          },
+                                          {
+                                              "term":  "Detrakcja",
+                                              "definition":  "Proces erozji lodowcowej polegający na wyrywaniu z podłoża okruchów skalnych przez przemieszczający się lód."
+                                          },
+                                          {
+                                              "term":  "Detersja",
+                                              "definition":  "Proces polegający na wygładzaniu i polerowaniu podłoża skalnego przez fragmenty skalne znajdujące się w spągu (na dnie) lodowca."
+                                          },
+                                          {
+                                              "term":  "Egzaracja",
+                                              "definition":  "Proces niszczący oznaczający deformowanie podłoża i przesuwanie niezespojonych skał przez lodowiec (tzw. zdzieranie)."
+                                          },
+                                          {
+                                              "term":  "Kocioł lodowcowy (cyrk, kar)",
+                                              "definition":  "Nieckowate zagłębienie otoczone z trzech stron stromymi ścianami skalnymi, utworzone w obrębie pola firnowego lodowca górskiego."
+                                          },
+                                          {
+                                              "term":  "Dolina U-kształtna (żłób lodowcowy)",
+                                              "definition":  "Dolina o płaskim dnie i stromych zboczach, powstała w wyniku przekształcenia rzecznej doliny V-kształtnej przez erozyjną działalność jęzora lodowca."
+                                          },
+                                          {
+                                              "term":  "Dolina zawieszona",
+                                              "definition":  "Dolina boczna, której dno znajduje się wyżej niż dno doliny głównej, ponieważ zalegający w niej mniejszy lodowiec słabiej erodował podłoże."
+                                          },
+                                          {
+                                              "term":  "Baraniec (muton)",
+                                              "definition":  "Pagórek skalny wygładzony przez lodowiec w wyniku detersji, posiadający jeden stok łagodny, a drugi stromy."
+                                          },
+                                          {
+                                              "term":  "Morena denna",
+                                              "definition":  "Płaska lub falista powierzchnia zbudowana z osadów, które wytopiły się z lodowca podczas jego postoju lub wycofywania się, a także z materiału pochodzącego z niszczenia podłoża."
+                                          },
+                                          {
+                                              "term":  "Morena czołowa",
+                                              "definition":  "Wał usypany przed czołem lodowca z materiału skalnego, powstający, gdy czoło lodowca stacjonuje przez dłuższy czas w jednym miejscu."
+                                          },
+                                          {
+                                              "term":  "Morena boczna",
+                                              "definition":  "Wał osadów morenowych biegnący wzdłuż zboczy doliny, utworzony wskutek wytapiania się materiału skalnego na bokach jęzora lodowcowego."
+                                          },
+                                          {
+                                              "term":  "Morena środkowa",
+                                              "definition":  "Wał biegnący środkiem dawniej zlodowaconej doliny, powstały z połączenia wałów moren bocznych dwóch łączących się jęzorów lodowcowych."
+                                          },
+                                          {
+                                              "term":  "Głazy narzutowe (eratyki)",
+                                              "definition":  "Duże bloki skalne przetransportowane przez lądolód na znaczne odległości od miejsca ich pierwotnego występowania."
+                                          },
+                                          {
+                                              "term":  "Drumliny",
+                                              "definition":  "Niewielkie wzgórza o obłym kształcie zbudowane z gliny, piasków oraz żwirów, występujące zazwyczaj grupowo w postaci tzw. pól drumlinowych."
+                                          },
+                                          {
+                                              "term":  "Rynny podlodowcowe",
+                                              "definition":  "Długie i wąskie zagłębienia o stromych zboczach i niewyrównanym dnie, wyrzeźbione przez strumienie wód płynących pod ciśnieniem pod lądolodem (często wypełnione jeziorami rynnowymi)."
+                                          },
+                                          {
+                                              "term":  "Pradoliny",
+                                              "definition":  "Szerokie doliny biegnące równolegle do czoła lądolodu, wyżłobione przez wody roztopowe płynące od lądolodu oraz rzeki płynące z południa."
+                                          },
+                                          {
+                                              "term":  "Sandry",
+                                              "definition":  "Wielkie stożki napływowe zbudowane ze żwirów i piasków, powstałe na przedpolu lądolodu w wyniku akumulacji materiału niesionego przez wody roztopowe."
+                                          },
+                                          {
+                                              "term":  "Kemy",
+                                              "definition":  "Piaszczysto-żwirowe pagórki powstałe z osadów gromadzących się w szczelinach lodowca lub w zagłębieniach między bryłami martwego lodu."
+                                          },
+                                          {
+                                              "term":  "Ozy",
+                                              "definition":  "Długie, wąskie i kręte wały zbudowane z piasków i żwirów, osadzone przez wody płynące w tunelach pod lodem."
+                                          },
+                                          {
+                                              "term":  "Krajobraz młodoglacjalny a staroglacjalny",
+                                              "definition":  "W krajobrazie młodoglacjalnym (np. pojezierza) formy polodowcowe są dobrze zachowane i występują jeziora, natomiast w staroglacjalnym formy są zniszczone, a jeziora zanikły (zasypane osadami)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Detrakcja",
+                                                 "pair2":  "Wyrywanie bloków skalnych z podłoża przez przemieszczający się lód"
+                                             },
+                                             {
+                                                 "pair1":  "Detersja",
+                                                 "pair2":  "Wygładzanie i polerowanie podłoża skalnego przez materiał niesiony w spągu lodowca"
+                                             },
+                                             {
+                                                 "pair1":  "Dolina U-kształtna",
+                                                 "pair2":  "Powstaje w wyniku przekształcenia doliny rzecznej przez erozję lodowca górskiego"
+                                             },
+                                             {
+                                                 "pair1":  "Morena czołowa",
+                                                 "pair2":  "Powstaje podczas dłuższego postoju czoła lodowca w jednym miejscu"
+                                             },
+                                             {
+                                                 "pair1":  "Morena środkowa",
+                                                 "pair2":  "Powstaje z połączenia moren bocznych dwóch jęzorów lodowcowych"
+                                             },
+                                             {
+                                                 "pair1":  "Pradolina",
+                                                 "pair2":  "Szeroka dolina wyżłobiona przez wody płynące równolegle do czoła lądolodu"
+                                             },
+                                             {
+                                                 "pair1":  "Sandr",
+                                                 "pair2":  "Stożek napływowy z piasków i żwirów osadzony na przedpolu lądolodu"
+                                             },
+                                             {
+                                                 "pair1":  "Oz",
+                                                 "pair2":  "Długi, kręty wał powstały w wyniku akumulacji w tunelu pod lodem"
+                                             },
+                                             {
+                                                 "pair1":  "Kem",
+                                                 "pair2":  "Pagórek utworzony w szczelinach lodu lub między bryłami martwego lodu"
+                                             },
+                                             {
+                                                 "pair1":  "Drumlin",
+                                                 "pair2":  "Obły pagórek zbudowany z materiału morenowego, występujący w grupach"
+                                             },
+                                             {
+                                                 "pair1":  "Rynna podlodowcowa",
+                                                 "pair2":  "Długie zagłębienie wyerodowane przez wodę pod ciśnieniem pod lądolodem"
+                                             },
+                                             {
+                                                 "pair1":  "Krajobraz staroglacjalny",
+                                                 "pair2":  "Obszar, na którym formy polodowcowe uległy zniszczeniu, a jeziora zanikły"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym charakteryzuje się morena czołowa?",
+                                      "options":  [
+                                                      "Jest to wał usypany przed czołem lodowca podczas jego dłuższego postoju.",
+                                                      "Jest to rozległa i niemal całkowicie płaska powierzchnia sedymentacyjna powstała po ostatecznym stopieniu brył martwego lodu",
+                                                      "Jest to podłużny wał biegnący środkiem doliny polodowcowej, powstały in wyniku połączenia bocznych stref akumulacji jęzorów",
+                                                      "Jest to wzgórze o obłym i asymetrycznym kształcie utworzone bezpośrednio pod lądolodem in strefie intensywnej egzaracji"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Morena czołowa to wał usypany przed czołem lodowca z materiału skalnego wytapiającego się z lodu, który powstaje, gdy czoło lodowca pozostaje przez dłuższy czas w jednym miejscu."
+                                  },
+                                  {
+                                      "question":  "Jak nazywamy duże bloki skalne przetransportowane przez lądolód na znaczne odległości od miejsca ich pochodzenia?",
+                                      "options":  [
+                                                      "Drumliny charakteryzujące się asymetrycznym profilem podłużnym i formujące się bezpośrednio pod dnem jęzora lodowcowego",
+                                                      "Kemy stanowiące pagórki piaszczysto-żwirowe powstałe in obrębie szczelin lodowcowych lub zagłębień między bryłami martwego lodu",
+                                                      "Głazy narzutowe (eratyki)",
+                                                      "Ozy będące długimi i wąskimi wałami usypanymi przez wody płynące tunelami podlodowcowymi pod dużym ciśnieniem"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Głazy narzutowe, zwane też eratykami, to duże bloki skalne przetransportowane przez lądolód w miejsca znacznie oddalone od obszarów występowania danej skały."
+                                  },
+                                  {
+                                      "question":  "Jaka forma powstaje w profilu poprzecznym doliny rzecznej na skutek erozyjnej działalności lodowca górskiego?",
+                                      "options":  [
+                                                      "Dolina V-kształtna o stromych zboczach i wąskim dnie wyrzeźbiona przez intensywną erozję wgłębną potoków wysokogórskich",
+                                                      "Dolina U-kształtna",
+                                                      "Kanion o pionowych ścianach powstały in wyniku gwałtownego rozcinania twardego podłoża skalnego przez wody proglacjalne",
+                                                      "Pradolina biegnąca równolegle do krawędzi lądolodu, zbierająca wody roztopowe oraz rzeczne płynące z południa kontynentu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wskutek erozji lodowcowej (pogłębiania i poszerzania) dolina rzeczna o profilu V-kształtnym przekształca się w dolinę U-kształtną o płaskim dnie i stromych zboczach."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych form jest efektem akumulacji materiału skalnego na powierzchni terenu po ustąpieniu lodowca (morena denna)?",
+                                      "options":  [
+                                                      "Głęboki kocioł lodowcowy powstały in obrębie pola firnowego wskutek mechanicznego wyrywania fragmentów podłoża przez lód",
+                                                      "Płaska lub falista powierzchnia zbudowana z gliny zwałowej",
+                                                      "Wąska rynna subglacjalna wyżłobiona pod ciśnieniem hydrostatycznym in podłożu krystalicznym przez strumienie wód roztopowych",
+                                                      "Wygładzony i silnie porysowany pagórek skalny modelowany in procesie detersji przez materiał niesiony in spągu lodu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Morena denna to płaska lub falista powierzchnia zbudowana z osadów (głównie gliny), które wytopiły się z lodowca podczas jego wycofywania się."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia lądolód od lodowca górskiego w kontekście zajmowanego obszaru?",
+                                      "options":  [
+                                                      "Lądolód zajmuje wyłącznie ograniczone i izolowane powierzchnie in najwyższych partiach alpejskich łańcuchów górskich świata",
+                                                      "Lądolód tworzy się jedynie in dnach dolin rzecznych, przekształcając je systematycznie in głębokie rynny o profilu żłobu",
+                                                      "Lądolód pokrywa wielkie obszary kontynentów, np. Antarktydę, Grenlandia),",
+                                                      "Lądolód występuje wyłącznie in strefie międzyzwrotnikowej nad obszarami o wybitnie wysokiej aktywności wulkanicznej"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Lądolody to pokrywy lodowe zajmujące wielkie obszary (np. Antarktyda, Grenlandia), w przeciwieństwie do lodowców górskich, które są związane z dolinami i polami firnowymi w górach."
+                                  },
+                                  {
+                                      "question":  "Czym jest kocioł lodowcowy (cyrk, kar)?",
+                                      "options":  [
+                                                      "Piaszczystym wałem fluwioglacjalnym usypanym przez wody roztopowe in strefie stagnacji lodu podczas interglacjałów",
+                                                      "Nieckowatym zagłębieniem otoczonym stromymi ścianami, gdzie gromadził się firn.",
+                                                      "Obłym wzgórzem o charakterze bochenkowatym, powstałym pod lądolodem in wyniku dynamicznej egzaracji i osadzania gliny",
+                                                      "Szeroką i głęboką doliną rzeźbioną równolegle do czoła lądolodu przez wody proglacjalne płynące pod dużym ciśnieniem"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kocioł lodowcowy to nieckowate zagłębienie otoczone z trzech stron stromymi ścianami skalnymi, utworzone w obrębie pola firnowego lodowca górskiego."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych form powstała w wyniku działalności wód roztopowych (fluwioglacjalnej), a nie bezpośrednio lodu?",
+                                      "options":  [
+                                                      "Drumlin będący efektem akumulacji pod lodem materiału morenowego i jego jednoczesnego modelowania przez przemieszczający się lód",
+                                                      "Sandr",
+                                                      "Morena czołowa stanowiąca wał usypany bezpośrednio przez czoło lodowca stacjonującego przez dłuższy czas in jednej pozycji",
+                                                      "Baraniec powstający wskutek detersji strony proksymalnej oraz detrakcji strony dystalnej pagórka skalnego przez lód"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sandry to formy fluwioglacjalne (wodnolodowcowe), będące wielkimi stożkami napływowymi usypanymi ze żwirów i piasków przez wody wypływające z lądolodu."
+                                  },
+                                  {
+                                      "question":  "Jak powstają ozy?",
+                                      "options":  [
+                                                      "W wyniku niszczącej erozji podłoża przez nacisk lodu lodowcowego i twarde fragmenty skalne wtopione in jego dolną warstwę",
+                                                      "Przez osadzanie materiału w szczelinach lub tunelach pod lodem przez płynącą wodę.",
+                                                      "Przez gwałtowną akumulację materiału na przedpolu lądolodu in formie rozległych i miąższych stożków napływowych",
+                                                      "Wskutek selektywnej działalności niszczącej wiatru na przedpolu lądolodu in surowym klimacie peryglacjalnym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ozy to długie, wąskie i kręte wały powstałe wskutek osadzania materiału skalnego (piasków i żwirów) przez wody płynące pod lodem w szczelinach lub tunelach."
+                                  },
+                                  {
+                                      "question":  "Czym różni się geneza kemów od genezy ozów?",
+                                      "options":  [
+                                                      "Kemy powstają w otwartych szczelinach lub zagłębieniach między bryłami martwego lodu, a ozy w tunelach.",
+                                                      "Kemy stanowią wyłącznie formy o charakterze erozyjnym, podczas gdy ozy są specyficznymi strukturami akumulacyjnymi",
+                                                      "Kemy budowane są przez gliny zwałowe, natomiast ozy powstają z litych skał podłoża krystalicznego in strefie egzaracji",
+                                                      "Kemy formują się wyłącznie na zapleczu moren czołowych, a ozy in strefach cyrków wysokogórskich powyżej linii śniegu"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Kemy to pagórki powstałe z osadów gromadzących się in szczelinach lodowca lub zagłębieniach między bryłami martwego lodu, podczas gdy ozy tworzą się in tunelach podlodowcowych."
+                                  },
+                                  {
+                                      "question":  "Wskaż formę terenu powstałą w wyniku erozyjnej działalności wód płynących pod lądolodem pod ciśnieniem hydrostatycznym.",
+                                      "options":  [
+                                                      "Pradolina stanowiąca szeroki i płaskodenny szlak odpływu wód roztopowych oraz rzecznych płynących wzdłuż czoła lądolodu",
+                                                      "Rynna podlodowcowa",
+                                                      "Sandr będący rozległym stożkiem piaszczysto-żwirowym usypanym przez wody proglacjalne na dalekim przedpolu lądolodu",
+                                                      "Morena denna tworząca płaską płaszczyznę akumulacji gliny zwałowej po całkowitym wycofaniu się masy lodowej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rynny podlodowcowe to długie i wąskie zagłębienia o stromych zboczach, wyrzeźbione in skałach podłoża przez strumienie wód płynących pod ciśnieniem hydrostatycznym pod lądolodem."
+                                  },
+                                  {
+                                      "question":  "Jak odróżnić drumlin od ozu na podstawie kształtu i genezy?",
+                                      "options":  [
+                                                      "Drumlin to podłużny i kręty wał rzeźbiony przez wodę; oz to owalne wzgórze powstałe in strefie ablacji lądolodu",
+                                                      "Drumlin to obłe wzgórze powstałe z gliny pod lądolodem; oz to wąski wał piaszczysto-żwirowy z tunelu wodnego.",
+                                                      "Drumlin stanowi formę wybitnie erozyjną wyciętą in skale, podczas gdy oz jest strukturą o charakterze akumulacji wiatrowej",
+                                                      "Drumlin powstaje zawsze na dalekim przedpolu lądolodu, natomiast oz in obrębie cyrku polodowcowego in górach"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Drumliny to niewielkie wzgórza o obłym kształcie zbudowane m.in. z gliny (działalność lodu), natomiast ozy to długie, kręte wały piaszczysto-żwirowe (działalność wód in tunelach)."
+                                  },
+                                  {
+                                      "question":  "Jak powstaje dolina zawieszona w krajobrazie wysokogórskim?",
+                                      "options":  [
+                                                      "Jest to dolina boczna, której dno leży wyżej niż dno doliny głównej, ponieważ mniejszy lodowiec słabiej erodował podłoże.",
+                                                      "Powstaje in wyniku nagłego i pionowego zapadnięcia się stropu jaskini krasowej pod ekstremalnym ciężarem lądolodu",
+                                                      "Jest to dolina utworzona przez silne wody roztopowe wypływające gwałtownie z wiszącego lodowca bezpośrednio do oceanu",
+                                                      "Powstaje na skutek przesunięć tektonicznych i trzęsień ziemi in obszarach aktywnych zlodowaceń in neotektonice"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Dolina zawieszona to dolina boczna, której dno znajduje się wyżej niż dno doliny głównej, ponieważ znajdujący się in niej mniejszy lodowiec był cieńszy i słabiej erodował podłoże niż lodowiec główny."
+                                  },
+                                  {
+                                      "question":  "Co to jest baraniec (muton) i jaki proces go kształtuje?",
+                                      "options":  [
+                                                      "Pagórek wygładzony przez lodowiec w wyniku detersji, o jednym stoku łagodnym i drugim stromym.",
+                                                      "Podłużny wał piaszczysty usypany przez wiatr na piaszczystym przedpolu wycofującego się lodu podczas fazy recesyjnej",
+                                                      "Zagłębienie bezodpływowe powstałe po wytopieniu się bryły martwego lodu in osadach morenowych lub sandrowych",
+                                                      "Ostry szczyt górski o piramidalnym kształcie powstały in wyniku intensywnego wietrzenia mrozowego otaczających go ścian"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Baraniec (muton) to pagórek wygładzony przez lodowiec; powstaje wskutek detersji (wygładzania) stoku łagodnego i detrakcji (wyrywania) na stoku stromym."
+                                  },
+                                  {
+                                      "question":  "Gdzie tworzy się morena środkowa?",
+                                      "options":  [
+                                                      "Wyłącznie pod potężnym lądolodem kontynentalnym in strefach akumulacji moreny dennej podczas jego maksymalnego zasięgu",
+                                                      "W miejscu połączenia się wałów moren bocznych dwóch łączących się jęzorów lodowcowych.",
+                                                      "Na zewnętrznej krawędzi czoła lodowca, gdy ten wycofuje się in głąb doliny górskiej pod wpływem ocieplenia klimatu",
+                                                      "W szczelinach innowacyjnych wewnątrz masy lodowej, gdzie płyną podlodowcowe rzeki niosące materiał fluwioglacjalny"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Morena środkowa to wał biegnący środkiem dawniej zlodowaconej doliny, powstały z połączenia wałów moren bocznych dwóch jęzorów lodowcowych."
+                                  },
+                                  {
+                                      "question":  "Ktore z poniższych form zaliczamy wyłącznie do form akumulacji fluwioglacjalnej?",
+                                      "options":  [
+                                                      "Moreny czołowe stanowiące wały brzeżne, drumliny o bochenkowatym profilu oraz wielkie głazy narzutowe z Fennoskandii",
+                                                      "Sandry, ozy, kemy.",
+                                                      "Rynny podlodowcowe wyerodowane przez wody pod ciśnieniem, szerokie pradoliny proglacjalne oraz mutony skalne",
+                                                      "Kotły lodowcowe o pionowych ścianach, doliny U-kształtne o szerokim dnie oraz kręte fiordy zalane przez morze"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Formy fluwioglacjalne akumulacyjne powstają z osadów niesionych przez wody roztopowe; należą do nich sandry, ozy i kemy."
+                                  },
+                                  {
+                                      "question":  "Jaka jest geneza pradoliny?",
+                                      "options":  [
+                                                      "Intensywna erozja wgłębna rzeki górskiej in warunkach dużego spadku terenu i niskiego poziomu bazy erozyjnej",
+                                                      "Przepływ ogromnych mas wód roztopowych równolegle do czoła lądolodu.",
+                                                      "Działalność niszcząca lodu lodowcowego in dolnym odcinku profilu podłużnego doliny rzecznej in strefie egzaracji",
+                                                      "Zapadanie się stropów wielkich jaskiń krasowych pod ekstremalnym ciężarem lądolodu in podłożu wapiennym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pradoliny to szerokie doliny biegnące równolegle do czoła lądolodu, wyżłobione in dużej mierze przez wody wypływające z lądolodu i wody rzeczne z południa."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces detersji w działalności lodowca?",
+                                      "options":  [
+                                                      "Na mechanicznym wyrywaniu z podłoża skalnego dużych i sztywnych bloków skalnych przez przemieszczający się lód",
+                                                      "Na wygładzaniu i polerowaniu podłoża skalnego przez fragmenty skalne wtopione w spąg lodowca.",
+                                                      "Na deformowaniu i plastycznym fałdowaniu podłoża przez nacisk nadległej masy lodu lodowcowego in strefie krawędziowej",
+                                                      "Na chemicznym rozpuszczaniu twardych skał podłoża krystalicznego przez kwaśne wody roztopowe in warunkach beztlenowych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Detersja to proces polegający na wygładzaniu i polerowaniu podłoża skalnego przez fragmenty skalne znajdujące się in lodowcu."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się krajobraz młodoglacjalny w odróżnieniu od staroglacjalnego?",
+                                      "options":  [
+                                                      "Całkowitym brakiem systemów jeziornych i występowaniem silnie zdenudowanych form o łagodnych profilach",
+                                                      "Występowaniem dobrze zachowanych form (np. głębokich rynien jeziornych) i licznych jezior.",
+                                                      "Płaskim profilem terenu pozbawionym wyraźnych in ukształtowaniu wzniesień morenowych i rynien subglacjalnych",
+                                                      "Zdecydowaną dominacją współczesnych procesów krasowych nad kopalnymi formami rzeźby lodowcowej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W krajobrazie młodoglacjalnym formy utworzone przez lodowce są dobrze zachowane, występują liczne jeziora (pojezierza), in przeciwieństwie do krajobrazu staroglacjalnego, gdzie formy uległy zniszczeniu (zdenudowaniu)."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „egzaracja” w kontekście dynamiki lodowca?",
+                                      "options":  [
+                                                      "Masową akumulację drobnoziarnistego materiału skalnego na dalekim przedpolu lądolodu in formie pokryw sandrowych",
+                                                      "Selektywne wytapianie się lodu z izolowanych brył martwego lodu in strefie ablacji lodowca górskiego",
+                                                      "Deformowanie podłoża i przesuwanie niezespojonych skał (zdzieranie).",
+                                                      "Wymywanie drobnych frakcji pyłowych przez wody płynące tunelami podlodowcowymi pod wysokim ciśnieniem"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Egzaracja to rodzaj erozji lodowcowej oznaczający deformowanie podłoża i przesuwanie niezespojonych skał (zdzieranie podłoża)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego pradoliny w Polsce mają układ równoleżnikowy?",
+                                      "options":  [
+                                                      "Ponieważ lądolód plejstocenski posuwał się stale z kierunku wschodniego na zachód wzdłuż linii brzegowej",
+                                                      "Ponieważ wody roztopowe napotykały barierę lodu od północy i wzniesienia terenu od południa, płynąc wzdłuż czoła lądolodu.",
+                                                      "Ponieważ dominujące wiatry in epoce plejstocenu wiały wyłącznie z sektora zachodniego, modelując osady rzeczne",
+                                                      "Ponieważ tak ułożone były pierwotne warstwy skalne najbardziej odporne na erozję chemiczną i mechaniczną"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pradoliny biegną równolegle do czoła lądolodu, ponieważ wody roztopowe (oraz wody rzek płynących z południa) nie mogły płynąć na północ (blokada przez lód) i żłobiły szerokie doliny in kierunku zachodnim."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Sandry to piaszczyste wzgórza usypane bezpośrednio przez lód lodowcowy.",
+                                           "answer":  false,
+                                           "explanation":  "Sandry to wielkie stożki napływowe powstałe na przedpolu lądolodu z materiału osadzonego przez wody roztopowe, a nie bezpośrednio przez lód."
+                                       },
+                                       {
+                                           "sentence":  "Kotły lodowcowe powstają w wyniku akumulacji materiału skalnego w obrębie pola firnowego.",
+                                           "answer":  false,
+                                           "explanation":  "Kotły lodowcowe (cyrki) są formami erozyjnymi (nieckowatymi zagłębieniami) utworzonymi w obrębie pola firnowego lodowca górskiego."
+                                       },
+                                       {
+                                           "sentence":  "Pradoliny to szerokie doliny biegnące prostopadle do czoła lądolodu.",
+                                           "answer":  false,
+                                           "explanation":  "Pradoliny to szerokie doliny biegnące równolegle do czoła lądolodu, wyżłobione przez wody z niego wypływające."
+                                       },
+                                       {
+                                           "sentence":  "Krajobraz staroglacjalny charakteryzuje się występowaniem dużej liczby jezior rynnowych.",
+                                           "answer":  false,
+                                           "explanation":  "W krajobrazie staroglacjalnym misy jezior zostały zasypane osadami, a jeziora zanikły; liczne jeziora występują w krajobrazie młodoglacjalnym."
+                                       },
+                                       {
+                                           "sentence":  "Detersja to proces polegający na wyrywaniu z podłoża bloków skalnych przez przemieszczający się lodowiec.",
+                                           "answer":  false,
+                                           "explanation":  "Wyrywanie okruchów skalnych z podłoża to detrakcja; detersja polega na wygładzaniu i polerowaniu podłoża."
+                                       },
+                                       {
+                                           "sentence":  "Morena czołowa powstaje przed czołem lodowca z materiału skalnego wytapiającego się z lodu.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to wał powstający, gdy czoło lodowca pozostaje przez dłuższy czas w jednym miejscu, a materiał wytapia się z lodu."
+                                       },
+                                       {
+                                           "sentence":  "Ozy to długie i kręte wały zbudowane z piasków i żwirów osadzonych przez wody płynące pod lodem.",
+                                           "answer":  true,
+                                           "explanation":  "Ozy są formami fluwioglacjalnymi powstałymi wskutek akumulacji materiału w tunelach lodowcowych lub szczelinach."
+                                       },
+                                       {
+                                           "sentence":  "Ramiona wydmy parabolicznej są zwrócone zgodnie z kierunkiem wiania wiatru.",
+                                           "answer":  false,
+                                           "explanation":  "Ramiona wydm parabolicznych są zwrócone przeciwnie do kierunku wiatru, natomiast zgodnie z wiatrem zwrócone są ramiona barchanów."
+                                       },
+                                       {
+                                           "sentence":  "Stalagmity to formy krasowe narastające od dna jaskini ku górze.",
+                                           "answer":  true,
+                                           "explanation":  "Stalagmity formują się na dnie jaskini, w przeciwieństwie do stalaktytów, które zwisają ze stropu."
+                                       },
+                                       {
+                                           "sentence":  "Baraniec to pagórek wygładzony przez lodowiec, posiadający jeden stok łagodny, a drugi stromy.",
+                                           "answer":  true,
+                                           "explanation":  "Baraniec (muton) jest formą erozyjną powstałą w wyniku detersji; posiada jeden stok łagodny i drugi stromy."
+                                       },
+                                       {
+                                           "sentence":  "Klif powstaje w wyniku procesu zwanego abrazją, polegającego na niszczeniu brzegu przez fale.",
+                                           "answer":  true,
+                                           "explanation":  "Abrazja to ogół procesów niszczenia brzegu przez fale, co prowadzi do powstawania i cofania się klifów."
+                                       },
+                                       {
+                                           "sentence":  "Grzyby skalne powstają w wyniku korazji, czyli szlifowania skał przez niesione wiatrem ziarna piasku.",
+                                           "answer":  true,
+                                           "explanation":  "Korazja najsilniej zachodzi przy powierzchni gruntu, co prowadzi do podcinania skałek i tworzenia grzybów skalnych."
+                                       },
+                                       {
+                                           "sentence":  "Kaptaż rzeczny zachodzi, gdy rzeka o mniejszej sile erozyjnej przejmuje wody rzeki o większej sile erozyjnej.",
+                                           "answer":  false,
+                                           "explanation":  "Do kaptażu dochodzi, gdy rzeka o większej sile erozyjnej (przecinająca dział wodny erozją wsteczną) przejmuje rzekę o mniejszej sile erozyjnej."
+                                       },
+                                       {
+                                           "sentence":  "Delta rzeki tworzy się w miejscach, gdzie występują silne prądy przybrzeżne usuwające osady.",
+                                           "answer":  false,
+                                           "explanation":  "Delta powstaje tam, gdzie morze jest płytkie i nie występują silne prądy przybrzeżne, co pozwala na akumulację niesionego materiału."
+                                       },
+                                       {
+                                           "sentence":  "Krasowienie zachodzi nie tylko w skałach węglanowych, ale także w skałach siarczanowych i chlorkowych.",
+                                           "answer":  true,
+                                           "explanation":  "Proces ten dotyczy m.in. wapieni (skały węglanowe), ale także gipsu (skały siarczanowe) i soli kamiennej (skały chlorkowe)."
+                                       }
+                                   ]
+                 }
+}

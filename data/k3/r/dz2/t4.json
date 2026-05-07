@@ -1,0 +1,344 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz2-t4",
+                     "title":  "Wpływ zlodowaceń na środowisko nizin",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Nizina (definicja hipsometryczna)",
+                                              "definition":  "Obszar o równinnej lub lekko falistej powierzchni, położony na wysokości od 0 do 200 m n.p.m. (w niektórych podziałach do 300 m n.p.m.)."
+                                          },
+                                          {
+                                              "term":  "Krajobraz staroglacjalny",
+                                              "definition":  "Typ krajobrazu nizin, ukształtowany podczas starszych zlodowaceń, a następnie silnie zdenudowany w warunkach klimatu peryglacjalnego, charakteryzujący się brakiem jezior polodowcowych."
+                                          },
+                                          {
+                                              "term":  "Równina denudacyjna",
+                                              "definition":  "Niemal płaski obszar powstały w wyniku zrównania dawnych wysoczyzn morenowych przez procesy niszczące (wietrzenie mrozowe, spłukiwanie) w surowym klimacie peryglacjalnym."
+                                          },
+                                          {
+                                              "term":  "Pradolina",
+                                              "definition":  "Szeroka dolina o płaskim dnie, utworzona wzdłuż czoła lądolodu przez wody roztopowe, które nie mogąc odpłynąć na północ, łączyły się z rzekami z południa i płynęły na zachód."
+                                          },
+                                          {
+                                              "term":  "Wydmy śródlądowe (geneza)",
+                                              "definition":  "Formy eoliczne powstałe po ustąpieniu lądolodu, gdy silne wiatry przewiewały piaski z nieporośniętych jeszcze roślinnością den pradolin i sandrów (np. w Puszczy Kampinoskiej)."
+                                          },
+                                          {
+                                              "term":  "Puszcza Kampinoska",
+                                              "definition":  "Kompleks leśny położony w Kotlinie Warszawskiej (rozszerzenie Pradoliny Warszawsko-Berlińskiej), charakteryzujący się występowaniem wydm śródlądowych i obszarów bagiennych."
+                                          },
+                                          {
+                                              "term":  "Wał Trzebnicki (Ostańce morenowe)",
+                                              "definition":  "Pas wzniesień w Nizinie Południowowielkopolskiej będący najlepiej zachowanym śladem moren czołowych ze zlodowaceń środkowopolskich, które oparły się całkowitej denudacji."
+                                          },
+                                          {
+                                              "term":  "Wisła na nizinach",
+                                              "definition":  "Rzeka płynąca szeroką doliną o łagodnych zboczach, która na wielu odcinkach jest nieuregulowana, silnie meandruje i tworzy starorzecza oraz ławice piaszczyste."
+                                          },
+                                          {
+                                              "term":  "Niecka subartezyjska (Mazowiecka)",
+                                              "definition":  "Układ hydrologiczny, w którym woda uwięziona między warstwami nieprzepuszczalnych iłów znajduje się pod ciśnieniem hydrostatycznym i po nawierceniu podnosi się, ale nie wypływa samoczynnie na powierzchnię."
+                                          },
+                                          {
+                                              "term":  "Wody oligoceńskie",
+                                              "definition":  "Zasoby wód podziemnych (głębinowych) dobrej jakości, występujące w warstwach piaszczystych pod przykryciem iłów plioceńskich, np. w niecce warszawskiej."
+                                          },
+                                          {
+                                              "term":  "Czarnoziemy na Nizinie Śląskiej",
+                                              "definition":  "Bardzo żyzne gleby powstałe lokalnie (np. Płaskowyż Głubczycki) na lessach, które osadziły się na przedpolu lądolodu w wyniku działalności wiatru."
+                                          },
+                                          {
+                                              "term":  "Węgiel brunatny (geneza złóż)",
+                                              "definition":  "Surowiec energetyczny występujący na nizinach (Bełchatów, Konin) w osadach paleogenu i neogenu, powstały z obumarłej roślinności w warunkach bagiennych."
+                                          },
+                                          {
+                                              "term":  "Wysad solny (Kłodawa)",
+                                              "definition":  "Struktura geologiczna powstała w wyniku wypchnięcia ku powierzchni plastycznych soli cechsztyńskich (perm) przez młodsze warstwy skalne."
+                                          },
+                                          {
+                                              "term":  "Jeziora krasowe na Polesiu",
+                                              "definition":  "Jeziora powstałe w wyniku procesów krasowienia (rozpuszczania) płytko zalegających wapieni kredowych, stanowiące ewenement na nizinach pozbawionych jezior polodowcowych."
+                                          },
+                                          {
+                                              "term":  "Kontynentalizm klimatu nizin",
+                                              "definition":  "Zjawisko polegające na wzroście amplitudy temperatur i spadku opadów w kierunku wschodnim (zimy na nizinach wschodnich są wyraźnie mroźniejsze niż na zachodnich)."
+                                          },
+                                          {
+                                              "term":  "Gleby bielicowe i rdzawe",
+                                              "definition":  "Mało żyzne gleby wytworzone na piaszczystych utworach pradolin i sandrów, porośnięte głównie przez bory sosnowe."
+                                          },
+                                          {
+                                              "term":  "Stawy Milickie",
+                                              "definition":  "Największy w Europie kompleks stawów rybnych (antropogenicznych) założony w XIII w. w rozszerzeniach doliny Baryczy na Nizinie Południowowielkopolskiej."
+                                          },
+                                          {
+                                              "term":  "Czarne ziemie",
+                                              "definition":  "Żyzne gleby pobagienne powstałe z silnie uwodnionych glin lub w zarastających bagnach, występujące np. na Kujawach i Nizinie Śląskiej."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Długotrwała denudacja w klimacie peryglacjalnym",
+                                                 "pair2":  "Zanik jezior i spłaszczenie wzgórz morenowych (krajobraz staroglacjalny)"
+                                             },
+                                             {
+                                                 "pair1":  "Blokada odpływu rzek przez czoło lądolodu",
+                                                 "pair2":  "Powstanie szerokich pradolin (np. Warszawsko-Berlińskiej)"
+                                             },
+                                             {
+                                                 "pair1":  "Działalność wiatru na piaszczystych dnach pradolin",
+                                                 "pair2":  "Usypanie wydm śródlądowych (np. w Puszczy Kampinoskiej)"
+                                             },
+                                             {
+                                                 "pair1":  "Występowanie nieprzepuszczalnych iłów nad warstwą wodonośną",
+                                                 "pair2":  "Powstanie niecki subartezyjskiej (wzrost ciśnienia hydrostatycznego)"
+                                             },
+                                             {
+                                                 "pair1":  "Akumulacja lessu na przedpolu lądolodu",
+                                                 "pair2":  "Wytworzenie się płatów czarnoziemów (np. Płaskowyż Głubczycki)"
+                                             },
+                                             {
+                                                 "pair1":  "Rozpuszczanie płytko zalegających wapieni kredowych",
+                                                 "pair2":  "Powstanie jezior krasowych na Polesiu"
+                                             },
+                                             {
+                                                 "pair1":  "Ruchy mas solnych ku powierzchni (diapiryzm)",
+                                                 "pair2":  "Utworzenie wysadu solnego w Kłodawie"
+                                             },
+                                             {
+                                                 "pair1":  "Wzrost kontynentalizmu klimatu ku wschodowi",
+                                                 "pair2":  "Niższe średnie temperatury stycznia na Nizinie Północnopodlaskiej"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Która cecha krajobrazu jest głównym wyróżnikiem pasa nizin w porównaniu do sąsiadującego od północy pasa pojezierzy?",
+                                      "options":  [
+                                                      "Występowanie licznych, głębokich jezior rynnowych powstałych podczas ostatniego zlodowacenia.",
+                                                      "Obecność wysokich, aktywnych klifów morskich podcinanych przez fale Bałtyku.",
+                                                      "Brak naturalnych jezior polodowcowych (krajobraz staroglacjalny).",
+                                                      "Występowanie rozległych form krasowych w wapieniach jurajskich, takich jak jaskinie i wywierzyska."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Na nizinach formy polodowcowe zlodowacenia środkowopolskiego zostały zniszczone (zdenudowane) i nie ma tam naturalnych jezior."
+                                  },
+                                  {
+                                      "question":  "Na której z wymienionych nizin występuje najdłuższy w Polsce okres wegetacyjny (ponad 225 dni) oraz najwyższe średnie roczne temperatury?",
+                                      "options":  [
+                                                      "Na Nizinie Północnopodlaskiej.",
+                                                      "Na Nizinie Śląskiej.",
+                                                      "Na Nizinie Mazowieckiej.",
+                                                      "Na Polesiu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nizina Śląska jest osłonięta przez Sudety i napływa tam ciepłe powietrze, co sprzyja rolnictwu."
+                                  },
+                                  {
+                                      "question":  "Jaki typ lasów dominuje na piaszczystych glebach (bielicowych i rdzawych) w obrębie pradolin i sandrów na nizinach?",
+                                      "options":  [
+                                                      "Bory sosnowe.",
+                                                      "Lasy łęgowe.",
+                                                      "Grądy.",
+                                                      "Buczyny karpackie."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Sosna ma małe wymagania glebowe i doskonale rośnie na ubogich piaskach pradolin i wydm."
+                                  },
+                                  {
+                                      "question":  "Dlaczego pradoliny (np. Warszawsko-Berlińska) mają przebieg równoleżnikowy (z wschodu na zachód)?",
+                                      "options":  [
+                                                      "Ponieważ taki był dominujący kierunek wiejących w plejstocenie wiatrów zachodnich, które formowały wydmy.",
+                                                      "Ponieważ czoło lądolodu blokowało odpływ wód na północ, zmuszając je do płynięcia na zachód.",
+                                                      "Ponieważ rzeki wykorzystywały głębokie uskoki tektoniczne o przebiegu równoleżnikowym powstałe w orogenezie alpejskiej.",
+                                                      "Ponieważ na południu barierę stanowiły wysokie pasma górskie Karpat i Sudetów, uniemożliwiające przepływ wód."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wody roztopowe i rzeczne nie mogły płynąć zgodnie z nachyleniem terenu (na północ) z powodu lodu, więc płynęły wzdłuż jego czoła na zachód."
+                                  },
+                                  {
+                                      "question":  "Co stało się z formami polodowcowymi (np. jeziorami) na nizinach po ustąpieniu lądolodu zlodowaceń środkowopolskich?",
+                                      "options":  [
+                                                      "Zostały przykryte przez grube warstwy nowszych osadów naniesionych podczas zlodowacenia północnopolskiego.",
+                                                      "Uległy procesom denudacji (niszczenia) w warunkach klimatu peryglacjalnego, a misy jeziorne zostały wypełnione osadami.",
+                                                      "Przekształciły się w bardzo głębokie jeziora rynnowe pod wpływem intensywnej erozji wodnej.",
+                                                      "Zostały zniszczone przez gwałtowną działalność tektoniczną i liczne trzęsienia ziemi w holocenie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Długi czas i surowy klimat sprawiły, że wzgórza uległy spłaszczeniu, a jeziora zarosły i zamieniły się w bagna lub torfowiska."
+                                  },
+                                  {
+                                      "question":  "Jaka jest geneza wydm śródlądowych występujących np. w Puszczy Kampinoskiej?",
+                                      "options":  [
+                                                      "Są to formy akumulacji morskiej powstałe w dawnej zatoce morskiej wcinającej się w głąb lądu.",
+                                                      "Powstały w wyniku bezpośredniej działalności lądolodu jako wały moreny czołowej.",
+                                                      "Są efektem działalności wiatru (eolicznej) w klimacie peryglacjalnym, który przewiewał piaski z dna pradoliny.",
+                                                      "Zostały usypane przez wody rzeki Wisły podczas katastrofalnych, wielkich powodzi w holocenie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wydmy w Kotlinie Warszawskiej powstały na terasach nadzalewowych Wisły z piasków rzecznych przewianych przez wiatr."
+                                  },
+                                  {
+                                      "question":  "Na Polesiu występuje skupisko jezior (np. w Poleskim Parku Narodowym). Jaka jest ich geneza, skoro obszar ten jest niziną staroglacjalną?",
+                                      "options":  [
+                                                      "Są to głębokie jeziora rynnowe pozostałe po ostatnim zlodowaceniu północnopolskim.",
+                                                      "Są to jeziora krasowe, powstałe w wyniku rozpuszczania płytko zalegających wapieni kredowych.",
+                                                      "Są to sztuczne zbiorniki retencyjne wybudowane w celach melioracyjnych i przeciwpowodziowych.",
+                                                      "Są to starorzecza rzeki Bug, odcięte od głównego koryta w wyniku naturalnych procesów fluwialnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podłoże kredowe (miękkie wapienie) ulega krasowieniu, co prowadzi do zapadania się gruntu i powstawania jezior."
+                                  },
+                                  {
+                                      "question":  "W okolicach Bełchatowa (Nizina Mazowiecka/Południowowielkopolska) wydobywa się surowiec energetyczny z osadów neogeńskich. Jaki to surowiec?",
+                                      "options":  [
+                                                      "Węgiel kamienny.",
+                                                      "Węgiel brunatny.",
+                                                      "Ropa naftowa.",
+                                                      "Gaz łupkowy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bełchatów to największa w Europie kopalnia odkrywkowa węgla brunatnego, powstałego w zapadlisku tektonicznym (Rów Kleszczowa)."
+                                  },
+                                  {
+                                      "question":  "Z czego wynika wysoka żyzność czarnych ziem występujących np. na Kujawach lub Nizinie Śląskiej?",
+                                      "options":  [
+                                                      "Powstały na podłożu lessowym przy udziale roślinności stepowej w klimacie kontynentalnym.",
+                                                      "Powstały z silnie uwodnionych glin lub w zarastających bagnach (gleby pobagienne).",
+                                                      "Są to gleby wulkaniczne bogate w minerały pochodzące z rozkładu skał bazaltowych.",
+                                                      "Powstały na podłożu węglanowym (wapieniach) jako płytkie i kamieniste rędziny."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Czarne ziemie to gleby astrefowe, tworzące się w obniżeniach terenu przy wysokim poziomie wód gruntowych."
+                                  },
+                                  {
+                                      "question":  "Czym różni się zagospodarowanie hydrotechniczne Odry od Wisły na obszarze nizin?",
+                                      "options":  [
+                                                      "Wisła jest w pełni uregulowana i skanalizowana na całej długości, a Odra płynie naturalnym korytem.",
+                                                      "Obie rzeki są całkowicie dzikie i nieuregulowane, z licznymi meandrami i starorzeczami.",
+                                                      "Odra jest w dużym stopniu uregulowana i skanalizowana (funkcja transportowa), a Wisła w większości zachowała naturalny charakter.",
+                                                      "Na Wiśle nie ma żadnych sztucznych zbiorników retencyjnych, a na Odrze wybudowano ich setki."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Odra jest główną drogą wodną Polski (Odrzańska Droga Wodna), podczas gdy Wisła (poza odcinkami miejskimi) jest rzeką dziką."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób budowa geologiczna Niecki Mazowieckiej wpływa na zasoby wodne Warszawy?",
+                                      "options":  [
+                                                      "Występowanie spękanych wapieni jurajskich powoduje szybką ucieczkę wody w głąb górotworu (zjawiska krasowe).",
+                                                      "Układ warstw tworzy nieckę subartezyjską, gdzie wody oligoceńskie znajdują się pod ciśnieniem pod warstwą iłów.",
+                                                      "Wysady solne zanieczyszczają wody gruntowe, czyniąc je silnie zasolonymi i niezdatnymi do picia.",
+                                                      "Płytkie zaleganie nieprzepuszczalnych skał krystalicznych uniemożliwia gromadzenie się wód podziemnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nieckaowy układ warstw sprawia, że woda uwięziona w piaskach oligoceńskich jest pod ciśnieniem hydrostatycznym."
+                                  },
+                                  {
+                                      "question":  "Porównując klimat Niziny Śląskiej i Niziny Północnopodlaskiej, zauważamy wyraźny wzrost kontynentalizmu na wschodzie. Czym się on objawia?",
+                                      "options":  [
+                                                      "Znacznie wyższymi sumami opadów rocznych występującymi we wschodniej części kraju.",
+                                                      "Znacznie niższymi średnimi temperaturami powietrza w miesiącach zimowych (styczeń) na wschodzie.",
+                                                      "Znacznie dłuższym okresem wegetacyjnym występującym na Nizinie Północnopodlaskiej.",
+                                                      "Mniejszą roczną amplitudą temperatur powietrza notowaną we wschodniej Polsce."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Średnia temperatura stycznia na Nizinie Śląskiej to ok. -1°C, a na Suwalszczyźnie spada poniżej -5°C."
+                                  },
+                                  {
+                                      "question":  "Na Nizinie Śląskiej (Płaskowyż Głubczycki) występują płaty bardzo żyznych czarnoziemów. Jaka jest geologiczna przyczyna ich obecności w tym miejscu?",
+                                      "options":  [
+                                                      "Akumulacja eoliczna lessów na przedpolu lądolodu.",
+                                                      "Występowanie w podłożu zasobnych w wapń skał węglanowych (rędziny).",
+                                                      "Działalność rzeczna i osadzanie żyznych madów rzecznych w dolinie Odry.",
+                                                      "Długotrwałe zarastanie jezior polodowcowych roślinnością bagienną."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Podobnie jak na Wyżynie Lubelskiej, lessy na południu Polski umożliwiły powstanie najlepszych gleb (czarnoziemy)."
+                                  },
+                                  {
+                                      "question":  "W rejonie Bogdanki (pogranicze Wyżyny Lubelskiej i Polesia) wydobywa się węgiel kamienny. Jaki jest wiek geologiczny tych złóż?",
+                                      "options":  [
+                                                      "Trzeciorzęd (neogen).",
+                                                      "Kreda.",
+                                                      "Karbon.",
+                                                      "Perm."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Lubelskie Zagłębie Węglowe (LZW) to przedłużenie złóż lwowsko-wołyńskich, powstałych w karbonie."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko geologiczne doprowadziło do powstania złóż soli kamiennej eksploatowanych w Kłodawie (Nizina Południowowielkopolska)?",
+                                      "options":  [
+                                                      "Osadzanie się soli w płytkim morzu trzeciorzędowym w wyniku intensywnego parowania.",
+                                                      "Wypiętrzanie się mas solnych z permu w formie wysadów (diapirów) przebijających młodsze warstwy.",
+                                                      "Krystalizacja soli w wysychających jeziorach polodowcowych w okresie interglacjału.",
+                                                      "Wietrzenie chemiczne skał magmowych bogatych w związki sodu i chloru."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sól cechsztyńska (perm) pod wpływem nacisku skał nadkładu przemieszczała się ku górze, tworząc wysad solny o długości 26 km."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Krajobraz staroglacjalny nizin jest idealną równiną pozbawioną wyraźnych deniwelacji, ponieważ wszelkie formy polodowcowe zostały całkowicie zrównane przez procesy denudacyjne.",
+                                           "answer":  false,
+                                           "explanation":  "Choć rzeźba jest zrównana, na nizinach występują urozmaicenia takie jak ostańce morenowe (np. Wał Trzebnicki), wydmy śródlądowe oraz głębokie pradoliny."
+                                       },
+                                       {
+                                           "sentence":  "Pradoliny, takie jak Warszawsko-Berlińska, zostały ukształtowane przez współczesne rzeki płynące zgodnie z nachyleniem terenu bezpośrednio do Morza Bałtyckiego.",
+                                           "answer":  false,
+                                           "explanation":  "Pradoliny powstawały w wyniku działalności wód roztopowych, które płynęły na zachód wzdłuż czoła lądolodu, gdyż odpływ na północ był zablokowany przez lód."
+                                       },
+                                       {
+                                           "sentence":  "Występowanie łupków miedzionośnych oraz rozwój Legnicko-Głogowskiego Okręgu Miedziowego są związane z obszarem nizinnym (Nizina Śląsko-Łużycka i Wał Trzebnicki), a nie z pasem gór.",
+                                           "answer":  true,
+                                           "explanation":  "Złoża miedzi w Polsce (cechsztyńskie łupki) znajdują się na monoklinie przedsudeckiej w obrębie pasa nizin."
+                                       },
+                                       {
+                                           "sentence":  "Klimat pasa nizin jest termicznie jednorodny, a średnie temperatury stycznia na Nizinie Śląskiej są zbliżone do tych notowanych na Nizinie Północnopodlaskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Występuje wyraźny wzrost kontynentalizmu ku wschodowi; Nizina Śląska jest najcieplejsza, podczas gdy wschodnie krańce nizin mają znacznie mroźniejsze zimy."
+                                       },
+                                       {
+                                           "sentence":  "Wszystkie jeziora występujące w pasie nizin, w tym jeziora na Polesiu, mają genezę polodowcową i są pozostałością po ostatnim zlodowaceniu.",
+                                           "answer":  false,
+                                           "explanation":  "Jeziora na Polesiu (np. w Poleskim Parku Narodowym) mają genezę krasową (rozpuszczanie wapieni kredowych), a nie polodowcową."
+                                       },
+                                       {
+                                           "sentence":  "Największa czynna kopalnia soli kamiennej w Polsce znajduje się w pasie nizin (Kłodawa) i eksploatuje złoża soli cechsztyńskiej wypiętrzone w formie wysadu solnego.",
+                                           "answer":  true,
+                                           "explanation":  "Sól w Kłodawie (Nizina Południowowielkopolska) pochodzi z permu i tworzy strukturę diapiru (wysadu) przebijającego młodsze warstwy."
+                                       },
+                                       {
+                                           "sentence":  "Żyzne czarne ziemie, występujące lokalnie na Nizinie Śląskiej czy Kujawach, powstały na podłożu lessowym przy udziale roślinności stepowej.",
+                                           "answer":  false,
+                                           "explanation":  "Czarne ziemie to gleby pobagienne powstałe z silnie uwodnionych glin lub w zarastających bagnach; na lessach powstają czarnoziemy."
+                                       },
+                                       {
+                                           "sentence":  "Wydmy śródlądowe, charakterystyczne dla Puszczy Kampinoskiej, są formami eolicznymi powstałymi w klimacie peryglacjalnym po ustąpieniu lądolodu.",
+                                           "answer":  true,
+                                           "explanation":  "Wydmy powstały w wyniku przewiewania piasków z den pradolin i sandrów przez silne wiatry wiejące na przedpolu lądolodu."
+                                       },
+                                       {
+                                           "sentence":  "Mimo deficytu wód powierzchniowych w rejonie Warszawy, miasto to korzysta z zasobów wód oligoceńskich znajdujących się w układzie niecki subartezyjskiej.",
+                                           "answer":  true,
+                                           "explanation":  "Wody te znajdują się pod ciśnieniem hydrostatycznym pod warstwą nieprzepuszczalnych iłów plioceńskich."
+                                       },
+                                       {
+                                           "sentence":  "Węgiel brunatny wydobywany w okolicach Bełchatowa pochodzi z ery paleozoicznej (karbon), podobnie jak złoża na Wyżynie Śląskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Węgiel brunatny na nizinach jest surowcem młodszym geologicznie, pochodzącym z osadów paleogenu i neogenu (era kenozoiczna)."
+                                       },
+                                       {
+                                           "sentence":  "Nizina Śląska charakteryzuje się najdłuższym w Polsce okresem wegetacyjnym, przekraczającym 225 dni w roku.",
+                                           "answer":  true,
+                                           "explanation":  "Region ten ma najkorzystniejsze warunki termiczne w kraju, co sprzyja rozwojowi rolnictwa."
+                                       }
+                                   ]
+                 }
+}

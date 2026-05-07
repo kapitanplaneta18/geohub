@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz1-t5",
+                     "title":  "Jak czytać mapę?",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Azymut geograficzny",
+                                              "definition":  "Kąt zawarty między kierunkiem północnym a kierunkiem na dany punkt, mierzony zgodnie z ruchem wskazówek zegara w zakresie od 0° do 360°."
+                                          },
+                                          {
+                                              "term":  "Wysokość bezwzględna",
+                                              "definition":  "Wysokość punktu mierzona od średniego poziomu morza, wyrażana w metrach nad poziomem morza (m n.p.m.)."
+                                          },
+                                          {
+                                              "term":  "Wysokość względna",
+                                              "definition":  "Pionowa odległość (różnica wysokości) między dwoma punktami, wykorzystywana między innymi do obliczania średniego spadku terenu."
+                                          },
+                                          {
+                                              "term":  "Poziomice (izohipsy)",
+                                              "definition":  "Linie na mapie łączące punkty o tej samej wysokości bezwzględnej, służące do odwzorowania ukształtowania powierzchni."
+                                          },
+                                          {
+                                              "term":  "Stok stromy",
+                                              "definition":  "Obszar na mapie, gdzie poziomice są zagęszczone i położone bardzo blisko siebie."
+                                          },
+                                          {
+                                              "term":  "Stok łagodny",
+                                              "definition":  "Obszar na mapie, w którym odległości między sąsiednimi poziomicami są znaczne (poziomice są oddalone od siebie)."
+                                          },
+                                          {
+                                              "term":  "Profil terenu",
+                                              "definition":  "Wykres w układzie współrzędnych przedstawiający ukształtowanie terenu wzdłuż wybranej linii."
+                                          },
+                                          {
+                                              "term":  "Spadek terenu (nachylenie)",
+                                              "definition":  "Stosunek różnicy wysokości (H) do odległości poziomej (L) między punktami, wyrażany najczęściej w procentach lub promilach."
+                                          },
+                                          {
+                                              "term":  "Orientowanie mapy",
+                                              "definition":  "Czynność polegająca na ułożeniu mapy tak, aby zaznaczony na niej kierunek północny pokrywał się z kierunkiem północnym w rzeczywistości."
+                                          },
+                                          {
+                                              "term":  "Ortofotomapa",
+                                              "definition":  "Obraz terenu powstały w wyniku przetworzenia zdjęcia lotniczego lub satelitarnego, któremu nadano jednolitą skalę i wpisano w układ współrzędnych geograficznych."
+                                          },
+                                          {
+                                              "term":  "Metoda hipsometryczna",
+                                              "definition":  "Sposób prezentacji rzeźby polegający na nałożeniu na mapę poziomicową barw odpowiadających określonym zakresom wysokości (od zimnych zieleni po ciepłe brązy)."
+                                          },
+                                          {
+                                              "term":  "Cieniowanie",
+                                              "definition":  "Zabieg graficzny imitujący oświetlenie stoków (z jednej strony oświetlone, z drugiej zacienione), nadający mapie plastyczność."
+                                          },
+                                          {
+                                              "term":  "Mapa turystyczno-topograficzna",
+                                              "definition":  "Mapa powstała przez naniesienie na podkład topograficzny obiektów ważnych dla turystów, takich jak szlaki, hotele czy zabytki."
+                                          },
+                                          {
+                                              "term":  "Geokompozycja",
+                                              "definition":  "Niestandardowy widok modelu terenu pokazujący obszar „z lotu ptaka” pod niewielkim kątem, często pozbawiony stałej skali."
+                                          },
+                                          {
+                                              "term":  "Relief (model terenu)",
+                                              "definition":  "Cieniowany model terenu przedstawiający ukształtowanie powierzchni danego obszaru i elementy jego pokrycia."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Stok stromy",
+                                                 "pair2":  "Poziomice zagęszczone i blisko siebie"
+                                             },
+                                             {
+                                                 "pair1":  "Stok łagodny",
+                                                 "pair2":  "Poziomice znacznie oddalone od siebie"
+                                             },
+                                             {
+                                                 "pair1":  "Azymut",
+                                                 "pair2":  "Stopnie kątowe (0°–360°)"
+                                             },
+                                             {
+                                                 "pair1":  "Spadek terenu",
+                                                 "pair2":  "Promile (‰) lub procenty (%)"
+                                             },
+                                             {
+                                                 "pair1":  "Wysokość bezwzględna",
+                                                 "pair2":  "Metry nad poziomem morza (m n.p.m.)"
+                                             },
+                                             {
+                                                 "pair1":  "Wysokość względna",
+                                                 "pair2":  "Różnica wysokości między dwoma punktami (m)"
+                                             },
+                                             {
+                                                 "pair1":  "Orientowanie mapy",
+                                                 "pair2":  "Dopasowanie północy na mapie do północy w terenie"
+                                             },
+                                             {
+                                                 "pair1":  "Mapa wielkoskalowa",
+                                                 "pair2":  "Skala większa niż 1:200 000 (np. 1:10 000)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym są poziomice (izohipsy) przedstawiane na mapach topograficznych?",
+                                      "options":  [
+                                                      "Liniami łączącymi punkty o tej samej głębokości zbiornika wodnego.",
+                                                      "Liniami łączącymi punkty o tej samej wysokości nad poziomem morza.",
+                                                      "Liniami wyznaczającymi granice między różnymi formami użytkowania terenu.",
+                                                      "Liniami pokazującymi średnią temperaturę powietrza w danym miejscu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metoda poziomicowa ukazuje ukształtowanie powierzchni za pomocą poziomic, czyli linii łączących punkty leżące na tej samej wysokości nad poziomem morza."
+                                  },
+                                  {
+                                      "question":  "W jakich jednostkach na mapach topograficznych podawana jest zazwyczaj wysokość bezwzględna?",
+                                      "options":  [
+                                                      "W stopniach kątowych.",
+                                                      "W metrach nad poziomem morza.",
+                                                      "W kilometrach kwadratowych.",
+                                                      "W procentach nachylenia."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wysokość bezwzględna, do której odnoszą się poziomice (izohipsy), podawana jest w metrach nad poziomem morza (m n.p.m.)."
+                                  },
+                                  {
+                                      "question":  "Na czym polega czynność orientowania mapy w terenie?",
+                                      "options":  [
+                                                      "Na ustawieniu mapy tak, aby kierunek północny na niej pokrywał się z północą w rzeczywistości.",
+                                                      "Na wyznaczeniu dokładnych współrzędnych geograficznych miejsca, w którym się znajdujemy.",
+                                                      "Na obliczeniu odległości w linii prostej między dwoma wybranymi punktami na mapie.",
+                                                      "Na zmierzeniu kąta nachylenia stoku w celu wybrania najłatwiejszej drogi podejścia."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Aby właściwie korzystać z mapy w terenie, musisz ją zorientować, czyli ustawić tak, aby zaznaczony na niej kierunek północny odpowiadał północy w rzeczywistości."
+                                  },
+                                  {
+                                      "question":  "Jaką barwą w metodzie hipsometrycznej oznacza się zazwyczaj tereny położone niżej (niziny)?",
+                                      "options":  [
+                                                      "Barwami ciepłymi, takimi jak czerwienie.",
+                                                      "Barwami zimnymi, takimi jak zielenie.",
+                                                      "Barwami neutralnymi, takimi jak szarości.",
+                                                      "Barwami ciemnymi, takimi jak brązy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metoda hipsometryczna polega na nakładaniu barw, gdzie terenom położonym niżej odpowiadają kolory zimniejsze (zielenie)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest podstawowa różnica między mapą topograficzną a planem miasta w kontekście rzeźby terenu?",
+                                      "options":  [
+                                                      "Plany są wykonywane w mniejszych skalach niż mapy topograficzne i są mniej dokładne.",
+                                                      "Na planach nie przedstawia się rzeźby terenu, a na mapach topograficznych tak.",
+                                                      "Plany uwzględniają krzywiznę Ziemi, podczas gdy mapy traktują obszar jako płaski.",
+                                                      "Na planach stosuje się metodę hipsometryczną, a na mapach tylko poziomicową."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na planach nie przedstawia się rzeźby terenu, w przeciwieństwie do map, które ukazują ukształtowanie powierzchni."
+                                  },
+                                  {
+                                      "question":  "Jeśli szczyt góry ma wysokość 1262 m n.p.m., a przełęcz pod nim leży na wysokości 1104 m n.p.m., to ile wynosi różnica wysokości (wysokość względna) między nimi?",
+                                      "options":  [
+                                                      "158 m",
+                                                      "168 m",
+                                                      "258 m",
+                                                      "2366 m"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Różnicę wysokości (H) oblicza się, odejmując wysokość punktu niższego od wyższego: 1262 m - 1104 m = 158 m."
+                                  },
+                                  {
+                                      "question":  "Czym jest azymut wyznaczany w terenie lub na mapie?",
+                                      "options":  [
+                                                      "Kątem między kierunkiem północnym a kierunkiem na dany punkt.",
+                                                      "Kątem między płaszczyzną równika a promieniem Ziemi.",
+                                                      "Odległością między dwoma punktami wyrażoną w stopniach.",
+                                                      "Różnicą wysokości między dwoma punktami w terenie."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Azymut to kąt zawarty między kierunkiem północnym a kierunkiem na dany punkt."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób mierzy się wartość azymutu?",
+                                      "options":  [
+                                                      "Zgodnie z ruchem wskazówek zegara, przyjmując wartości od 0° do 360°.",
+                                                      "Przeciwnie do ruchu wskazówek zegara, przyjmując wartości od 0° do 360°.",
+                                                      "Zgodnie z ruchem wskazówek zegara, przyjmując wartości od 0° do 180°.",
+                                                      "Przeciwnie do ruchu wskazówek zegara, przyjmując wartości od 0° do 90°."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Azymut mierzy się zgodnie z ruchem wskazówek zegara i przyjmuje on wartości od 0° do 360°."
+                                  },
+                                  {
+                                      "question":  "Co przedstawia profil terenu?",
+                                      "options":  [
+                                                      "Widok terenu z lotu ptaka z zachowaniem naturalnych barw.",
+                                                      "Wykres ukazujący ukształtowanie terenu wzdłuż wybranej linii.",
+                                                      "Mapę, na której zaznaczono wyłącznie sieć rzeczną i drogową.",
+                                                      "Tabelę zawierającą dokładne współrzędne geograficzne punktów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Profil terenu to wykres w układzie współrzędnych przedstawiający ukształtowanie terenu wzdłuż wybranej linii."
+                                  },
+                                  {
+                                      "question":  "O czym świadczy bardzo bliskie sąsiedztwo poziomic na fragmencie mapy topograficznej?",
+                                      "options":  [
+                                                      "O występowaniu łagodnego stoku.",
+                                                      "O obecności stromego stoku lub urwiska.",
+                                                      "O istnieniu rozległej równiny o bardzo małym spadku terenu.",
+                                                      "O występowaniu depresji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Duże zagęszczenie poziomic (bliskie sąsiedztwo) wskazuje na stromy stok, co można wywnioskować z analizy mapy i przekrojów (np. Dziczy Grzbiet opada stromym urwiskiem)."
+                                  },
+                                  {
+                                      "question":  "Jeśli na mapie w skali 1:50 000 odległość między dwoma punktami wynosi 1,6 cm, to jaka jest rzeczywista odległość w terenie (potrzebna do obliczenia nachylenia)?",
+                                      "options":  [
+                                                      "160 m",
+                                                      "800 m",
+                                                      "1600 m",
+                                                      "8000 m"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dla skali 1:50 000, 1 cm to 500 m. Zatem 1,6 cm to 1,6 * 500 m = 800 m."
+                                  },
+                                  {
+                                      "question":  "Jaki jest prawidłowy wzór na obliczenie średniego nachylenia terenu (J)?",
+                                      "options":  [
+                                                      "J = odległość pozioma (L) : różnica wysokości (H).",
+                                                      "J = różnica wysokości (H) : odległość pozioma (L).",
+                                                      "J = różnica wysokości (H) x odległość pozioma (L).",
+                                                      "J = odległość pozioma (L) - różnica wysokości (H)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wzór na średnie nachylenie terenu to J = H : L, gdzie H to różnica wysokości, a L to odległość w poziomie."
+                                  },
+                                  {
+                                      "question":  "Jeśli obliczone nachylenie terenu wynosi 0,2 (w postaci ułamka dziesiętnego), to ile wynosi ono wyrażone w promilach?",
+                                      "options":  [
+                                                      "2‰",
+                                                      "20‰",
+                                                      "200‰",
+                                                      "2000‰"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Aby otrzymać wartość w promilach, wynik w postaci niemianowanej (0,2) należy pomnożyć przez 1000. 0,2 * 1000 = 200‰."
+                                  },
+                                  {
+                                      "question":  "Jeśli różnica wysokości wynosi 158 m, a odległość w poziomie 800 m, to średnie nachylenie terenu wynosi około:",
+                                      "options":  [
+                                                      "5%",
+                                                      "10%",
+                                                      "20%",
+                                                      "50%"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "J = 158 m : 800 m = 0,1975, co w przybliżeniu daje 0,2. Po pomnożeniu przez 100 (by uzyskać procenty) daje to 20%."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób, korzystając z mapy topograficznej, można określić kierunek przepływu rzeki, jeśli nie zaznaczono go strzałką?",
+                                      "options":  [
+                                                      "Rzeka płynie zawsze z północy na południe, zgodnie z układem południków.",
+                                                      "Rzeka płynie zawsze w kierunku, w którym rosną wartości poziomic przecinających jej dolinę.",
+                                                      "Rzeka płynie z obszarów o wyższych wartościach wysokości bezwzględnej w stronę obszarów niższych.",
+                                                      "Kierunku przepływu rzeki nie da się określić na podstawie mapy bez wykonania dodatkowych pomiarów hydrologicznych w terenie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Analizując rzeźbę terenu na mapie (układ poziomic i punkty wysokościowe), można ustalić, gdzie teren jest wyższy, a gdzie niższy. Rzeka płynie w dół, czyli od wyższych wysokości ku niższym."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Mapy topograficzne zaliczane są do map wielkoskalowych, co pozwala na szczegółowe przedstawienie obiektów w terenie.",
+                                           "answer":  true,
+                                           "explanation":  "Mapy topograficzne są mapami wielkoskalowymi i prezentują większość obiektów znajdujących się na danym obszarze."
+                                       },
+                                       {
+                                           "sentence":  "Wartość wysokości podana na mapie przy szczycie górskim (np. 1262 m n.p.m.) określa jego wysokość względną.",
+                                           "answer":  false,
+                                           "explanation":  "Wartości podane w metrach nad poziomem morza (m n.p.m.) to wysokości bezwzględne; wysokość względna to różnica wysokości między dwoma punktami."
+                                       },
+                                       {
+                                           "sentence":  "Im gęściej rozmieszczone są poziomice na mapie, tym łagodniejszy jest stok w rzeczywistości.",
+                                           "answer":  false,
+                                           "explanation":  "Gęste rozmieszczenie poziomic oznacza dużą różnicę wysokości na małym odcinku, co świadczy o stromym stoku."
+                                       },
+                                       {
+                                           "sentence":  "Poziomice przecinające dolinę rzeczną zazwyczaj wyginają się w stronę źródła rzeki (w górę rzeki), tworząc kształt zbliżony do litery V.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to zasada pozwalająca rozróżniać formy rzeźby i kierunek spadku terenu na podstawie układu poziomic."
+                                       },
+                                       {
+                                           "sentence":  "Azymut o wartości 180° wskazuje kierunek wschodni.",
+                                           "answer":  false,
+                                           "explanation":  "Azymut mierzy się od północy (0°); 180° odpowiada kierunkowi południowemu, a wschodni to 90°."
+                                       },
+                                       {
+                                           "sentence":  "Profil terenu to wykres w układzie współrzędnych przedstawiający ukształtowanie powierzchni wzdłuż wybranej linii.",
+                                           "answer":  true,
+                                           "explanation":  "Profil terenu definiuje się jako wykres ukazujący ukształtowanie terenu wzdłuż konkretnej linii."
+                                       },
+                                       {
+                                           "sentence":  "Aby obliczyć średnie nachylenie terenu, należy pomnożyć różnicę wysokości przez odległość w poziomie.",
+                                           "answer":  false,
+                                           "explanation":  "Średnie nachylenie terenu oblicza się, dzieląc różnicę wysokości (H) przez odległość w poziomie (L)."
+                                       },
+                                       {
+                                           "sentence":  "Ortofotomapy to zdjęcia lotnicze lub satelitarne, którym nadano jednolitą skalę i wpisano w układ współrzędnych.",
+                                           "answer":  true,
+                                           "explanation":  "Ortofotomapy powstają przez przetworzenie zdjęć tak, aby miały jednolitą skalę i odniesienie do współrzędnych."
+                                       },
+                                       {
+                                           "sentence":  "Na zdecydowanej większości map kierunek północny znajduje się na dole arkusza.",
+                                           "answer":  false,
+                                           "explanation":  "Na większości map kierunek północny znajduje się na górze arkusza."
+                                       },
+                                       {
+                                           "sentence":  "Mapy turystyczne powstają poprzez naniesienie obiektów ważnych dla turystów na treść mapy topograficznej.",
+                                           "answer":  true,
+                                           "explanation":  "Mapy turystyczne tworzy się przez dodanie sygnatur obiektów turystycznych (np. szlaków, hoteli) do mapy topograficznej."
+                                       },
+                                       {
+                                           "sentence":  "Azymut mierzy się od kierunku północnego przeciwnie do ruchu wskazówek zegara.",
+                                           "answer":  false,
+                                           "explanation":  "Azymut mierzy się zgodnie z ruchem wskazówek zegara."
+                                       },
+                                       {
+                                           "sentence":  "Różnicę wysokości między dwoma punktami w terenie nazywamy wysokością bezwzględną.",
+                                           "answer":  false,
+                                           "explanation":  "Różnica wysokości to wysokość względna; wysokość bezwzględna mierzona jest od poziomu morza."
+                                       }
+                                   ]
+                 }
+}

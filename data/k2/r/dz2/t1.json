@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t1",
+    "title": "Liczba ludności świata i jej zmiany",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Przyrost naturalny",
+        "definition": "Różnica między liczbą urodzeń żywych a liczbą zgonów w danym okresie i na określonym obszarze."
+      },
+      {
+        "term": "Współczynnik przyrostu naturalnego",
+        "definition": "Przyrost naturalny przeliczony na tysiąc mieszkańców danego obszaru i wyrażony w promilach. Oblicza się go wzorem: Wpn = Wu - Wz."
+      },
+      {
+        "term": "Współczynnik urodzeń (rodność)",
+        "definition": "Liczba urodzeń żywych przeliczona na tysiąc mieszkańców, wyrażona w promilach. Wzór: Wu = U : L * 1000."
+      },
+      {
+        "term": "Współczynnik zgonów (umieralność)",
+        "definition": "Liczba zgonów przeliczona na tysiąc mieszkańców, wyrażona w promilach. Wzór: Wz = Z : L * 1000."
+      },
+      {
+        "term": "Eksplozja demograficzna",
+        "definition": "Dynamiczny wzrost przyrostu naturalnego, często przekraczający 30 promili, wywołany spadkiem umieralności i utrzymywaniem się wysokiej liczby urodzeń (np. w Afryce po 1960 r.)."
+      },
+      {
+        "term": "Implozja demograficzna",
+        "definition": "Gwałtowny spadek wartości współczynnika przyrostu naturalnego, wywoływany m.in. obniżaniem się współczynnika dzietności."
+      },
+      {
+        "term": "Regres demograficzny",
+        "definition": "Utrzymywanie się przez długi czas ujemnych wartości przyrostu naturalnego, prowadzące do naturalnego ubytku ludności (np. w Niemczech)."
+      },
+      {
+        "term": "Najludniejszy region świata",
+        "definition": "Azja. W 2019 r. zamieszkiwało ją ponad 4,6 mld osób, co stanowiło niemal 60% ludności świata."
+      },
+      {
+        "term": "Region o najwyższym tempie wzrostu ludności",
+        "definition": "Afryka. Od lat 50. XX w. wykazuje najwyższe tempo przyrostu liczby mieszkańców."
+      },
+      {
+        "term": "Kolosy demograficzne",
+        "definition": "Państwa liczące ponad 100 mln mieszkańców. W 2019 r. było ich 14 i żyło w nich niemal 64% ludności Ziemi (np. Chiny, Indie)."
+      },
+      {
+        "term": "Zróżnicowanie przyrostu naturalnego na świecie",
+        "definition": "Zależy od poziomu rozwoju gospodarczego, uwarunkowań biologicznych, religijnych, kulturowych oraz politycznych."
+      },
+      {
+        "term": "Państwa o bardzo wysokim przyroście naturalnym",
+        "definition": "Kraje słabo rozwinięte gospodarczo w Afryce, takie jak Angola, Mali, Czad czy Uganda, gdzie roczne wartości w latach 2015-2020 wynosiły ponad 30 promili."
+      },
+      {
+        "term": "Państwa o niskim lub ujemnym przyroście naturalnym",
+        "definition": "Państwa wysoko rozwinięte, głównie w Europie Zachodniej i Wschodniej (np. Niemcy, Litwa, Ukraina), co wynika z modelu rodziny 2+1 i starzenia się społeczeństwa."
+      },
+      {
+        "term": "Wpływ rewolucji neolitycznej na liczbę ludności",
+        "definition": "Około 10 tys. lat p.n.e. upowszechniły się osiadłe formy gospodarki rolnej, co przyniosło pierwsze wyraźne przyspieszenie tempa przyrostu liczby mieszkańców Ziemi."
+      },
+      {
+        "term": "Wpływ rewolucji przemysłowej na liczbę ludności",
+        "definition": "Rozpoczęta w połowie XVIII w., umożliwiła lepsze wyżywienie i poprawę higieny, skutkując gwałtownym wzrostem populacji, która na początku XIX w. przekroczyła 1 mld."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Różnica między liczbą urodzeń żywych a liczbą zgonów",
+        "pair2": "Przyrost naturalny"
+      },
+      {
+        "pair1": "Wzór: Wz = (Z : L) * 1000",
+        "pair2": "Współczynnik zgonów"
+      },
+      {
+        "pair1": "Dynamiczny wzrost przyrostu naturalnego",
+        "pair2": "Eksplozja demograficzna"
+      },
+      {
+        "pair1": "Długotrwałe utrzymywanie się ujemnych wartości przyrostu naturalnego",
+        "pair2": "Regres demograficzny"
+      },
+      {
+        "pair1": "Gwałtowny spadek współczynnika przyrostu naturalnego",
+        "pair2": "Implozja demograficzna"
+      },
+      {
+        "pair1": "Państwa o bardzo wysokim przyroście naturalnym (np. Angola, Czad)",
+        "pair2": "Kraje słabo rozwinięte gospodarczo"
+      },
+      {
+        "pair1": "Państwa o ujemnym współczynniku przyrostu naturalnego (np. Niemcy, Ukraina)",
+        "pair2": "Kraje o wysokim poziomie rozwoju lub w kryzysie"
+      },
+      {
+        "pair1": "Region zamieszkujący niemal 60% ludności świata (2019 r.)",
+        "pair2": "Azja"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jak precyzyjnie definiuje się przyrost naturalny dla danego terytorium?",
+        "options": [
+          "Różnica urodzeń żywych i zgonów w zadanym okresie.",
+          "Liczba żywych urodzeń na tysiąc osób w populacji.",
+          "Różnica imigrantów oraz emigrantów na terytorium.",
+          "Odsetek niemowląt w całej populacji danego kraju."
+        ],
+        "answer": "A",
+        "explanation": "Przyrost naturalny to bezwzględna różnica między liczbą urodzeń żywych a liczbą zgonów w danym okresie i na określonym obszarze."
+      },
+      {
+        "question": "Który z wymienionych regionów świata zamieszkiwało w 2019 roku najwięcej ludności?",
+        "options": [
+          "Ameryka Północna oraz bardzo ludna Ameryka Południowa.",
+          "Kontynent afrykański z uwagi na ogromną liczbę urodzeń.",
+          "Zaludniona Azja skupiająca prawie sześćdziesiąt procent.",
+          "Zurbanizowana Europa ze względu na zagęszczenie miast."
+        ],
+        "answer": "C",
+        "explanation": "Azję w 2019 r. zamieszkiwało ponad 4,6 mld osób, co stanowiło niemal 60% całej populacji świata."
+      },
+      {
+        "question": "Czym dokładnie charakteryzuje się tak zwana eksplozja demograficzna w społeczeństwie?",
+        "options": [
+          "Powolnym wzrostem liczby lokalnych urodzeń i zgonów.",
+          "Dynamicznym wzrostem wartości przyrostu naturalnego.",
+          "Gwałtownym obniżeniem dzietności w dużej populacji.",
+          "Szybkim i masowym wzrostem udziału imigrantów w kraju."
+        ],
+        "answer": "B",
+        "explanation": "Eksplozja demograficzna to dynamiczny wzrost przyrostu naturalnego, będący skutkiem znacznego spadku umieralności przy zachowaniu dużej liczby urodzeń."
+      },
+      {
+        "question": "Jaką cechą charakteryzują się państwa, które w geografii określane są mianem kolosów demograficznych?",
+        "options": [
+          "Posiadają populację powyżej stu milionów obywateli.",
+          "Cechują się wysoce ujemnym przyrostem naturalnym.",
+          "Są to kraje leżące wyłącznie na terytorium Europy.",
+          "Ich lokalny wskaźnik dzietności wynosi ponad pięć."
+        ],
+        "answer": "A",
+        "explanation": "Mianem kolosów demograficznych określa się państwa liczące ponad 100 mln mieszkańców. W 2019 r. było ich na świecie 14."
+      },
+      {
+        "question": "W jakich konkretnie jednostkach podaje się statystyczny współczynnik przyrostu naturalnego na świecie?",
+        "options": [
+          "W liczbach całkowitych oznaczających żywe osoby.",
+          "W promilach przeliczanych na tysiąc mieszkańców.",
+          "W procentach całkowitej populacji wybranego kraju.",
+          "W odsetku liczby kobiet w wieku stricte rozrodczym."
+        ],
+        "answer": "B",
+        "explanation": "Współczynnik przyrostu naturalnego to wartość przyrostu naturalnego przeliczona na tysiąc mieszkańców danego obszaru, wyrażana w promilach."
+      },
+      {
+        "question": "Jaka jest główna przyczyna faktu utrzymywania się bardzo wysokiego przyrostu naturalnego w Angoli i Czadzie?",
+        "options": [
+          "Masowy napływ zamożnych zagranicznych imigrantów.",
+          "Szybko starzejące się społeczeństwo tego państwa.",
+          "Powszechny i tradycyjny model rodziny wielodzietnej.",
+          "Długotrwale ujemne wartości współczynnika zgonów."
+        ],
+        "answer": "C",
+        "explanation": "W krajach słabo rozwiniętych, takich jak Angola czy Czad, wysoki przyrost naturalny wynika w głównej mierze z powszechności modelu rodziny wielodzietnej."
+      },
+      {
+        "question": "Dlaczego w krajach słabo rozwiniętych, takich jak Bangladesz, współczynnik zgonów bywa niższy niż w krajach zachodnich?",
+        "options": [
+          "Z powodu całkowitego braku dokładnych statystyk zgonów.",
+          "Z uwagi na masową powszechność rodzin mało dzietnych.",
+          "Z racji znikomego udziału w społeczeństwie osób starych.",
+          "Ze względu na całkowite i trwałe wyeliminowanie chorób."
+        ],
+        "answer": "C",
+        "explanation": "Kraje te mają bardzo młode społeczeństwa. Niski współczynnik zgonów (np. 6-7 promili) to efekt małego udziału procentowego osób starszych w strukturze wiekowej."
+      },
+      {
+        "question": "Z czego przede wszystkim wynika bardzo niski bądź ujemny przyrost naturalny w państwach Europy Wschodniej?",
+        "options": [
+          "Z bardzo wysokiego poziomu dzietności młodych ludzi.",
+          "Z gwałtownego napływu ogromnej fali uchodźców z Azji.",
+          "Z faktu powszechnego wielożeństwa w społeczeństwach.",
+          "Z uwarunkowań kryzysowych i silnej emigracji z kraju."
+        ],
+        "answer": "D",
+        "explanation": "W krajach takich jak Ukraina czy Litwa niska lub ujemna wartość wynika z uwarunkowań kryzysu gospodarczego i zarobkowej emigracji młodych ludzi."
+      },
+      {
+        "question": "Które zjawisko spowodowało, że po połowie XVIII wieku nastąpił na świecie pierwszy gwałtowny wzrost liczby ludności?",
+        "options": [
+          "Globalna rewolucja w nowych technologiach cyfrowych.",
+          "Wyraźne polepszenie wskaźników długości życia kobiet.",
+          "Rozpoczęta rewolucja przemysłowa oraz lepsza higiena.",
+          "Powszechne wdrożenie osiadłej gospodarki neolitycznej."
+        ],
+        "answer": "C",
+        "explanation": "Rewolucja przemysłowa wpłynęła na większą produkcję żywności, rozwój medycyny i poprawę higieny, co znacząco zmniejszyło śmiertelność na świecie."
+      },
+      {
+        "question": "Który z niżej wymienionych regionów świata odnotowuje najwyższe tempo wzrostu ludności od lat 50. XX wieku?",
+        "options": [
+          "Bogate państwa leżące we wschodniej części Europy.",
+          "Kraje Afryki począwszy od połowy dwudziestego wieku.",
+          "Północne terytoria w zamożnej Ameryce Północnej.",
+          "Pustynne obszary zlokalizowane na terenie Australii."
+        ],
+        "answer": "B",
+        "explanation": "Afryka to kontynent, który od drugiej połowy XX wieku niezmiennie wykazuje najwyższe na świecie tempo przyrostu liczby mieszkańców."
+      },
+      {
+        "question": "Jakim terminem demograficznym określa się sytuację długotrwałego i ujemnego współczynnika przyrostu naturalnego?",
+        "options": [
+          "Zjawiskiem dynamicznej eksplozji oraz nowych narodzin.",
+          "Gwałtownym wzrostem wskaźników dzietności u obywateli.",
+          "Procesem globalnej i przyspieszonej implozji społecznej.",
+          "Procesem długotrwałego i szkodliwego regresu ludności."
+        ],
+        "answer": "D",
+        "explanation": "Utrzymywanie się przez długi czas ujemnego przyrostu naturalnego, skutkującego ubytkiem liczby mieszkańców, określa się jako regres demograficzny."
+      },
+      {
+        "question": "W jaki sposób można statystycznie obliczyć i przedstawić wskaźnik zwany współczynnikiem przyrostu naturalnego?",
+        "options": [
+          "Odejmując od wskaźnika urodzeń lokalny współczynnik zgonów.",
+          "Dzieląc całkowitą liczbę ludzi przez powierzchnię państwa.",
+          "Mnożąc ujemne saldo rocznej migracji przez liczbę narodzin.",
+          "Dodając liczbę zgonów populacji do liczby wszystkich urodzeń."
+        ],
+        "answer": "A",
+        "explanation": "Współczynnik przyrostu naturalnego oblicza się odejmując wartość współczynnika zgonów od współczynnika urodzeń."
+      },
+      {
+        "question": "Które ze wskazanych zjawisk należą do bezpośrednich, negatywnych skutków gwałtownej eksplozji demograficznej?",
+        "options": [
+          "Szybki oraz bardzo powszechny wzrost zamożności obywateli.",
+          "Brak odpowiednio wykwalifikowanych pracowników na wsiach.",
+          "Trudności w wyżywieniu populacji oraz rozrost dzielnic nędzy.",
+          "Starzenie się społeczności wiejskich w bardzo szybkim tempie."
+        ],
+        "answer": "C",
+        "explanation": "Eksplozja demograficzna skutkuje przeludnieniem, problemami w zaopatrzeniu w żywność, spadkiem zamożności oraz niekontrolowanym rozrostem miast (slumsów)."
+      },
+      {
+        "question": "Który z poniższych skutków gospodarczych regresu demograficznego stanowi największe zagrożenie dla państw rozwiniętych?",
+        "options": [
+          "Ogromne obciążenia budżetu związane z opieką nad ludźmi starszymi.",
+          "Zbyt młoda struktura wiekowa wśród najbardziej twórczej populacji.",
+          "Szerzenie się chorób zakaźnych i powrót wtórnego analfabetyzmu.",
+          "Masowe i niekontrolowane migracje młodych obywateli za granicę."
+        ],
+        "answer": "A",
+        "explanation": "W państwach borykających się z regresem i starzeniem populacji głównym problemem są wydatki na opiekę geriatryczną, zdrowotną oraz infrastrukturę socjalną dla starszych."
+      },
+      {
+        "question": "Jakie główne działania zaradcze starają się wdrażać rządy w państwach dotkniętych ujemnym przyrostem naturalnym?",
+        "options": [
+          "Finansują tworzenie wielkich obozów uchodźców w aglomeracjach.",
+          "Ograniczają wszelkie formy wsparcia dla rodzin wielodzietnych.",
+          "Zakazują stosowania nowoczesnych metod swobodnego planowania.",
+          "Wdrażają i realizują liczne programy silnej polityki prorodzinnej."
+        ],
+        "answer": "D",
+        "explanation": "W krajach Europy Zachodniej oraz w Polsce rządy wdrażają aktywną politykę prorodzinną polegającą m.in. na dodatkach socjalnych czy urlopach by stymulować rozrodczość."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Współczynnik przyrostu naturalnego to różnica między liczbą urodzeń żywych a liczbą zgonów przeliczona na tysiąc mieszkańców i wyrażana zawsze w procentach.",
+        "answer": false,
+        "explanation": "Współczynnik przyrostu naturalnego przelicza się na tysiąc mieszkańców i wyraża w promilach (‰), a nie w procentach."
+      },
+      {
+        "sentence": "Przyrost naturalny definiuje się jako bezwzględną różnicę między liczbą urodzeń żywych a liczbą zgonów w danym okresie i na określonym obszarze.",
+        "answer": true,
+        "explanation": "Jest to precyzyjna, podręcznikowa definicja przyrostu naturalnego jako wartości bezwzględnej, która odróżnia go od wskaźnika podawanego w promilach."
+      },
+      {
+        "sentence": "W latach 1950-2000 największym tempem przyrostu liczby ludności odznaczała się Azja, co zapoczątkowało globalną eksplozję demograficzną.",
+        "answer": false,
+        "explanation": "W latach 1950-2000 największym tempem przyrostu liczby ludności odznaczała się Afryka, której populacja wzrosła ponad 3,5-krotnie."
+      },
+      {
+        "sentence": "W niektórych krajach słabo rozwiniętych gospodarczo, takich jak Bangladesz czy Wenezuela, odnotowuje się współczynnik zgonów niższy niż w wielu państwach wysoko rozwiniętych.",
+        "answer": true,
+        "explanation": "Jest to prawda, ponieważ w tych państwach występuje młode społeczeństwo, a niewielki udział osób starszych w populacji obniża ogólny współczynnik zgonów (np. do 6-7‰)."
+      },
+      {
+        "sentence": "Mianem kolosów demograficznych określa się wyłącznie te państwa, w których wskaźnik gęstości zaludnienia przekracza 1000 osób na kilometr kwadratowy.",
+        "answer": false,
+        "explanation": "Kolosy demograficzne to państwa liczące ponad 100 milionów mieszkańców, niezależnie od poziomu zagęszczenia ich terytorium."
+      },
+      {
+        "sentence": "Regres demograficzny to proces, który w państwach o wysokim poziomie rozwoju prowadzi do dynamicznego i trwałego odmłodzenia struktury wiekowej społeczeństwa.",
+        "answer": false,
+        "explanation": "Regres demograficzny (utrzymywanie się ujemnych wartości przyrostu naturalnego) prowadzi do naturalnego ubytku ludności oraz starzenia się społeczeństw."
+      },
+      {
+        "sentence": "W 2019 roku kontynent azjatycki zamieszkiwało ponad 4,6 mld osób, co przekładało się na niemal 60% całkowitej populacji Ziemi.",
+        "answer": true,
+        "explanation": "Zgodnie z informacjami o zaludnieniu regionów Azja w 2019 r. była najludniejsza i skupiała prawie 60% ludności świata."
+      },
+      {
+        "sentence": "Zjawisko implozji demograficznej polega na dynamicznym wzroście współczynnika przyrostu naturalnego spowodowanym upowszechnieniem się modelu rodziny wielodzietnej.",
+        "answer": false,
+        "explanation": "Implozja demograficzna to gwałtowny spadek wartości współczynnika przyrostu naturalnego, który jest wywoływany m.in. obniżaniem się współczynnika dzietności."
+      },
+      {
+        "sentence": "Ujemny przyrost naturalny w państwach Europy Wschodniej, takich jak Litwa i Ukraina, jest wyłącznie efektem zmniejszenia dzietności oraz wyeliminowania chorób cywilizacyjnych.",
+        "answer": false,
+        "explanation": "Ujemny przyrost w tych krajach wynika ze spadku liczby urodzeń (kryzys gospodarczy, emigracja) oraz stosunkowo wysokiego współczynnika zgonów, m.in. z powodu chorób cywilizacyjnych."
+      },
+      {
+        "sentence": "W krajach o wysokim poziomie rozwoju społeczno-gospodarczego, zmagających się z niskim przyrostem naturalnym, rządy aktywnie wprowadzają różnorodne programy polityki prorodzinnej.",
+        "answer": true,
+        "explanation": "W krajach tych (np. w Europie Zachodniej) wdraża się politykę prorodzinną opartą m.in. na zasiłkach i wydłużonych urlopach rodzicielskich."
+      },
+      {
+        "sentence": "Osiągnięcie liczby miliarda mieszkańców Ziemi na początku XIX wieku było bezpośrednim rezultatem upowszechnienia się rolnictwa podczas rewolucji neolitycznej.",
+        "answer": false,
+        "explanation": "Przekroczenie liczby miliarda mieszkańców było skutkiem rozpoczętej w XVIII w. rewolucji przemysłowej, lepszego wyżywienia i poprawy higieny. Rewolucja neolityczna zaszła tysiące lat wcześniej."
+      },
+      {
+        "sentence": "Eksplozja demograficzna, która wystąpiła na świecie po 1960 roku, wiązała się z obniżeniem umieralności przy jednoczesnym utrzymywaniu dużej liczby narodzin.",
+        "answer": true,
+        "explanation": "Eksplozja to dynamiczny wzrost przyrostu naturalnego, którego głównym mechanizmem jest spadek zgonów (rozwój medycyny, higiena) bez jednoczesnego spadku współczynnika urodzeń."
+      }
+    ]
+  }
+}

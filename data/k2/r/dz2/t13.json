@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t13",
+    "title": "Rozwój obszarów wiejskich",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Obszar wiejski",
+        "definition": "Przestrzeń tworzona przez wsie i ich otoczenie, na przykład pola uprawne, pastwiska i lasy."
+      },
+      {
+        "term": "Wieś",
+        "definition": "Jednostka osadnicza, pierwotnie zamieszkiwana głównie przez rolników, obecnie status ten jest często regulowany normami prawnymi, a funkcja rolnicza zanika."
+      },
+      {
+        "term": "Kontinuum miejsko-wiejskie",
+        "definition": "Strefy przejściowe, w których wsie – zwłaszcza te położone blisko dużych miast – zatracają swój dawny rolniczy charakter i upodabniają się do miast."
+      },
+      {
+        "term": "Funkcja rezydencjalna obszarów wiejskich",
+        "definition": "Nowa rola wsi, polegająca na powstawaniu w nich domów stałego lub czasowego zamieszkania dla zamożnej ludności migrującej z miast."
+      },
+      {
+        "term": "Funkcja turystyczna obszarów wiejskich",
+        "definition": "Rozwój agroturystyki przyciągającej turystów walorami przyrodniczymi, kulturowymi (folklor) oraz łatwiejszym dostępem do świeżych produktów rolniczych."
+      },
+      {
+        "term": "Pozarolnicze funkcje gospodarcze wsi",
+        "definition": "Lokalizowanie na wsiach centrów biurowych, zakładów przemysłowych, centrów logistycznych, oczyszczalni ścieków czy składowisk odpadów."
+      },
+      {
+        "term": "Depopulacja wsi",
+        "definition": "Proces wyludniania się obszarów wiejskich zapoczątkowany w XIX w., obecnie dotykający głównie wsie oddalone od dużych ośrodków miejskich."
+      },
+      {
+        "term": "Wioski tematyczne",
+        "definition": "Wsie, których mieszkańcy tworzą zintegrowaną ofertę turystyczną o określonej specjalizacji, np. opartą na lokalnym rzemiośle, historii lub konkretnej roślinie."
+      },
+      {
+        "term": "Ekonomiczne czynniki rozwoju wsi",
+        "definition": "Argumenty przyciągające inwestorów: tańsza ziemia, niższe czynsze, dostępność rozległych terenów pod zabudowę oraz niższy poziom płac."
+      },
+      {
+        "term": "Przyrodnicze czynniki rozwoju wsi",
+        "definition": "Zasoby takie jak żyzne gleby do produkcji ekologicznej, piękno krajobrazu i małe zanieczyszczenie środowiska, które przyciągają turystów i nowych mieszkańców."
+      },
+      {
+        "term": "Społeczno-kulturowe czynniki rozwoju wsi",
+        "definition": "Wykorzystanie materialnego i niematerialnego dziedzictwa kulturowego oraz powszechne dążenie wielu osób do prowadzenia spokojnego, wiejskiego stylu życia."
+      },
+      {
+        "term": "Przyczyny depopulacji polskiej wsi",
+        "definition": "Odpływ młodych do miast, niechęć do przejmowania nierentownych gospodarstw, niski poziom infrastruktury technicznej i społecznej oraz spadek dzietności."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Zacieranie się granic między miastem a wsią",
+        "pair2": "Proces powstawania stref przejściowych (kontinuum miejsko-wiejskiego) i rozwój nowych funkcji wsi."
+      },
+      {
+        "pair1": "Odpływ ludzi młodych do miast oraz niechęć do przejmowania małych gospodarstw rolnych",
+        "pair2": "Główne przyczyny depopulacji (wyludniania się) obszarów wiejskich oddalonych od dużych miast."
+      },
+      {
+        "pair1": "Wykorzystanie czystego środowiska, lokalnego folkloru i świeżych produktów",
+        "pair2": "Rozwój funkcji turystycznej i gospodarstw agroturystycznych na obszarach wiejskich."
+      },
+      {
+        "pair1": "Lokalizacja magazynów, centrów biurowych, oczyszczalni ścieków i autostrad",
+        "pair2": "Przejaw rozwoju pozarolniczych funkcji gospodarczych na terenach wiejskich."
+      },
+      {
+        "pair1": "Tańsza ziemia, rozległe tereny i niższe czynsze",
+        "pair2": "Ekonomiczne czynniki zachęcające przedsiębiorców do przenoszenia inwestycji z miast na wieś."
+      },
+      {
+        "pair1": "Tworzenie oferty turystycznej o określonej specjalizacji (np. wokół uprawy maku w Mohndorf Armschlag)",
+        "pair2": "Inicjatywy znane jako wioski tematyczne, służące promocji i rozwojowi lokalnej społeczności."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jaka jest główna różnica między pojęciem wsi a obszarem wiejskim?",
+        "options": [
+          "Jednostka osadnicza, a obszar to wieś wraz z jej otoczeniem.",
+          "Teren rolniczy, a obszar to wyłącznie strefa podmiejska.",
+          "Skupisko budynków, a obszar to same pola uprawne i lasy.",
+          "Ośrodek władzy, a obszar to prawnie chroniony park gminny."
+        ],
+        "answer": "A",
+        "explanation": "Wieś to jednostka osadnicza, natomiast obszar wiejski to pojęcie szersze, obejmujące przestrzeń tworzoną przez wsie oraz ich otoczenie, takie jak pola uprawne i lasy."
+      },
+      {
+        "question": "Jakie kryterium wyróżniania obszarów wiejskich przyjmuje na ogół organizacja OECD?",
+        "options": [
+          "Gęstość zaludnienia powyżej 200 osób na kilometr kwadratowy.",
+          "Odsetek pracujących w usługach mniejszy niż piętnaście procent.",
+          "Gęstość zaludnienia poniżej 150 osób na kilometr kwadratowy.",
+          "Odsetek pracujących w rolnictwie większy niż trzydzieści procent."
+        ],
+        "answer": "C",
+        "explanation": "W biurach statystycznych organizacji międzynarodowych, takich jak OECD, za obszar wiejski uznaje się teren, na którym gęstość zaludnienia wynosi mniej niż 150 osób na km2."
+      },
+      {
+        "question": "Jakie ekonomiczne czynniki przyciągają inwestorów na tereny wiejskie?",
+        "options": [
+          "Czyste powietrze i możliwość ekologicznej produkcji rolnej.",
+          "Niższe ceny gruntów i rozległe tereny pod nowe inwestycje.",
+          "Pielęgnowanie dziedzictwa kulturowego i tradycji ludowych.",
+          "Obecność żyznych gleb oraz dostęp do czystych wód słodkich."
+        ],
+        "answer": "B",
+        "explanation": "Do ekonomicznych czynników rozwoju wsi zalicza się między innymi tańszą ziemię, niższe czynsze oraz dostępność rozległych terenów pozwalających na lokalizację działalności gospodarczej."
+      },
+      {
+        "question": "Na czym polega inicjatywa tzw. wiosek tematycznych (np. austriacki Mohndorf Armschlag)?",
+        "options": [
+          "Budowa wielkich centrów logistycznych i fabryk przetwórczych.",
+          "Rozwój osiedli dla bogatej ludności migrującej z dużych miast.",
+          "Prowadzenie masowej produkcji roślinnej na eksport światowy.",
+          "Tworzenie oferty turystycznej opartej na określonym motywie."
+        ],
+        "answer": "D",
+        "explanation": "Wioski tematyczne tworzą ofertę turystyczną o określonej specjalizacji, opartą na motywie przewodnim (np. uprawa maku niebieskiego w Mohndorf), co promuje miejscowość i aktywizuje jej mieszkańców."
+      },
+      {
+        "question": "W jaki sposób przeobrażają się wsie położone w bezpośrednim sąsiedztwie wielkich miast?",
+        "options": [
+          "Stają się strefami przejściowymi o zatartej funkcji rolniczej.",
+          "Przekształcają się w obszary o wyłącznie rolniczym profilu.",
+          "Całkowicie wyludniają się na rzecz migracji do centrów miast.",
+          "Zmieniają się w zamknięte ośrodki wydobycia surowców ziemi."
+        ],
+        "answer": "A",
+        "explanation": "Zjawisko to nosi nazwę kontinuum miejsko-wiejskiego. Wsie w sąsiedztwie miast zatracają tradycyjnie rolniczy charakter na rzecz funkcji rezydencjalnych czy usługowych, upodabniając się do stref podmiejskich."
+      },
+      {
+        "question": "Która funkcja obszarów wiejskich przejawia się przenoszeniem tam bogatej ludności miejskiej?",
+        "options": [
+          "Funkcja turystyczno-wypoczynkowa z bazą agroturystyczną.",
+          "Funkcja pozarolnicza polegająca na budowie nowych fabryk.",
+          "Funkcja rezydencjalna związana z nowymi domami stałymi.",
+          "Funkcja administracyjna wynikająca z relokacji urzędów."
+        ],
+        "answer": "C",
+        "explanation": "Funkcja rezydencjalna polega na osiedlaniu się na stałe lub czasowo zamożnej ludności napływającej z wielkich ośrodków miejskich w poszukiwaniu lepszych warunków środowiskowych."
+      },
+      {
+        "question": "Jakie obiekty powstają na wsi w ramach rozwoju pozarolniczych funkcji gospodarczych (np. Kokotów)?",
+        "options": [
+          "Powstawanie gospodarstw agroturystycznych oraz hoteli spa.",
+          "Budowa oczyszczalni ścieków, centrów logistycznych i fabryk.",
+          "Przekształcanie nieużytków w ekologiczne uprawy warzywne.",
+          "Modernizacja tradycyjnej, starej wiejskiej zabudowy zagrodowej."
+        ],
+        "answer": "B",
+        "explanation": "Z braku wolnych terenów w miastach i niższych cen gruntów na terenach wiejskich lokalizuje się centra biurowe, logistyczno-magazynowe, autostrady oraz zakłady przetwórcze i przemysłowe."
+      },
+      {
+        "question": "Kiedy i z jakiego głównego powodu rozpoczął się proces depopulacji terenów wiejskich w Europie?",
+        "options": [
+          "W dziewiętnastym wieku, z powodu rozwoju wielkiego przemysłu.",
+          "W dwudziestym pierwszym wieku, wskutek rozwoju globalizacji.",
+          "W średniowieczu, na skutek wielkich epidemii i licznych wojen.",
+          "W dwudziestym wieku, z powodu boomu na usługi turystyczne."
+        ],
+        "answer": "A",
+        "explanation": "Proces wyludniania się wsi został zapoczątkowany w XIX wieku, kiedy to biedniejsza ludność wiejska masowo migrowała do rozwijających się miast, w których powstawały nowe zakłady przemysłowe."
+      },
+      {
+        "question": "Co jest jedną z kluczowych przyczyn gospodarczych wyludniania się wsi oddalonych od miast w Polsce?",
+        "options": [
+          "Napływ bogatych emerytów i wykup najtańszych gruntów rolnych.",
+          "Niechęć młodych do przejmowania małych i nierentownych farm.",
+          "Gwałtowny rozwój wielkich ośrodków innowacji technologicznych.",
+          "Nadmierny wzrost dzietności i związane z nim przeludnienie wsi."
+        ],
+        "answer": "B",
+        "explanation": "Do depopulacji peryferyjnych wsi w Polsce przyczynia się niechęć młodych ludzi do przejmowania małych, mało rentownych gospodarstw i ich migracja do miast w poszukiwaniu lepiej płatnej pracy."
+      },
+      {
+        "question": "Która miejscowość została w podręczniku wymieniona jako jaskrawy przykład postępującej depopulacji wsi?",
+        "options": [
+          "Kokotów koło Krakowa, przekształcona w strefę przemysłową.",
+          "Mohndorf w Austrii, znana z uprawy regionalnego maku sinego.",
+          "Lourdes we Francji, pełniąca znane funkcje turystyczno-religijne.",
+          "Siw kładenec w Bułgarii, oddalona od dużych miast europejskich."
+        ],
+        "answer": "D",
+        "explanation": "Bułgarska wieś Siw kładenec jest w tekście wskazana jako przykład wsi położonej na terenach odizolowanych, która ulega silnemu i postępującemu procesowi depopulacji, a nawet częściowemu zanikowi."
+      },
+      {
+        "question": "Jak odróżnić od siebie dwa typy podłużnych układów wiejskich: ulicówkę i łańcuchówkę?",
+        "options": [
+          "Ulicówka posiada zwarty plac centralny, a łańcuchówka bezładny układ.",
+          "Ulicówka powstała przy skrzyżowaniu, łańcuchówka w gęstym lesie.",
+          "Ulicówka rozwijała się wzdłuż drogi, łańcuchówka wzdłuż dna doliny.",
+          "Ulicówka opiera się na rolnictwie, łańcuchówka polega tylko na usługach."
+        ],
+        "answer": "C",
+        "explanation": "Pułapka fizjonomiczna: oba układy posiadają długi pas zabudowy. Ulicówka kształtowała się jednak jako gęsta zabudowa domów wzdłuż głównego traktu, a łańcuchówka wzdłuż biegu górskich potoków i dolin rzecznych."
+      },
+      {
+        "question": "Według jakiego kryterium współcześnie większość krajów, w tym Polska, nadaje jednostce osadniczej status miasta?",
+        "options": [
+          "Nadanie praw miejskich na podstawie odrębnych norm prawnych.",
+          "Osiągnięcie liczby mieszkańców przekraczającej sto tysięcy osób.",
+          "Zmiana głównej formy zatrudnienia na działalność turystyczną.",
+          "Przekroczenie określonego w ustawie wskaźnika urbanizacji."
+        ],
+        "answer": "A",
+        "explanation": "Mimo występowania różnych kryteriów demograficznych, status miast w większości państw (m.in. w Polsce dla takich miejscowości jak Opatowiec) jest ostatecznie regulowany procedurą nadawania praw miejskich."
+      },
+      {
+        "question": "Z jakimi problemami demograficznymi zmagają się najmocniej peryferyjne obszary wiejskie?",
+        "options": [
+          "Gwałtowny wzrost liczby młodych osób powracających z zagranicy.",
+          "Utrzymywanie się bardzo wysokiego współczynnika przyrostu.",
+          "Skokowy wzrost liczby małżeństw wielodzietnych na peryferiach.",
+          "Znaczne starzenie się ludności oraz widoczny spadek dzietności."
+        ],
+        "answer": "D",
+        "explanation": "Depopulacja powoduje masowy odpływ ludzi młodych do miast, co bezpośrednio skutkuje zmniejszeniem się dzietności na wsi oraz dramatycznym starzeniem się pozostającego na miejscu społeczeństwa."
+      },
+      {
+        "question": "Gdzie z reguły lokalizują się wsie najszybciej przejmujące nowe funkcje rezydencjalne?",
+        "options": [
+          "Oddalone o kilkaset kilometrów od głównych szlaków drogowych.",
+          "Znajdujące się wyłącznie na ubogich w żyzne gleby obszarach.",
+          "Położone blisko wielkich miast i na terenach bardzo atrakcyjnych.",
+          "Posiadające rozległe tereny zdegradowane przez ciężki przemysł."
+        ],
+        "answer": "C",
+        "explanation": "Funkcja rezydencjalna najprężniej rozwija się we wsiach o wysokiej atrakcyjności krajobrazowej i zlokalizowanych w sąsiedztwie wielkich metropolii, z których migrują poszukujący relaksu zamożni obywatele."
+      },
+      {
+        "question": "Co stanowi ważny społeczno-kulturowy czynnik rozwoju współczesnych obszarów wiejskich?",
+        "options": [
+          "Występowanie żyznych gleb brunatnych oraz bardzo czystej wody.",
+          "Chęć prowadzenia wiejskiego stylu życia i dziedzictwo kulturowe.",
+          "Niska cena gruntów inwestycyjnych oraz niewielkie koszty pracy.",
+          "Możliwość wybudowania bardzo nowoczesnych autostrad i dróg."
+        ],
+        "answer": "B",
+        "explanation": "Czynniki społeczno-kulturowe obejmują m.in. wykorzystanie dóbr dziedzictwa kulturowego (folkloru, architektury) i naturalną potrzebę przebywania w spokojniejszym środowisku wiejskim, dbającym o relacje społeczne."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Pojęcia „wieś” i „obszar wiejski” są w geografii osadnictwa synonimami i mogą być używane zamiennie do opisu każdej pozamiejskiej jednostki osadniczej.",
+        "answer": false,
+        "explanation": "Wieś jest definiowana jako jednostka osadnicza, natomiast obszar wiejski to pojęcie szersze, oznaczające przestrzeń tworzoną przez wsie oraz ich otoczenie, takie jak pola uprawne."
+      },
+      {
+        "sentence": "Zgodnie z kryteriami stosowanymi przez organizację OECD, o uznaniu danego terenu za obszar wiejski decyduje brak praw miejskich nadanych odpowiednią ustawą państwową.",
+        "answer": false,
+        "explanation": "W biurach statystycznych organizacji międzynarodowych, takich jak OECD, za kryterium wyróżniania obszarów wiejskich przyjmuje się gęstość zaludnienia (w przypadku OECD poniżej 150 osób na km2), a nie kwestie formalno-prawne."
+      },
+      {
+        "sentence": "Współcześnie wszystkie obszary wiejskie w Europie doświadczają zjawiska gwałtownej depopulacji, co nieuchronnie prowadzi do ich wyludnienia i całkowitego zaniku.",
+        "answer": false,
+        "explanation": "Depopulacja dotyczy głównie wsi oddalonych od dużych miast. Wsie położone w strefach podmiejskich prężnie się rozwijają, przejmując funkcje rezydencjalne i notując stały napływ ludności."
+      },
+      {
+        "sentence": "Funkcja rezydencjalna obszarów wiejskich polega na powstawaniu na ich terenie domów stałego lub czasowego zamieszkania dla zamożnej ludności migrującej z miast.",
+        "answer": true,
+        "explanation": "Zjawisko to występuje zwłaszcza w pobliżu wielkich ośrodków miejskich i na obszarach atrakcyjnych krajobrazowo, gdzie tradycyjne rolnicze zagrody ustępują nowej zabudowie mieszkalnej."
+      },
+      {
+        "sentence": "Rozwój pozarolniczych funkcji gospodarczych na terenach wiejskich jest hamowany przez bardzo wysokie ceny gruntów inwestycyjnych w porównaniu z centrami miast.",
+        "answer": false,
+        "explanation": "Sytuacja jest odwrotna. Centra biurowe, zakłady przemysłowe czy węzły logistyczne powstają na wsiach z powodu braku wolnych terenów w metropoliach oraz właśnie dzięki znacznie niższym cenom ziemi na obszarach wiejskich."
+      },
+      {
+        "sentence": "Wioski tematyczne to wsie, w których mieszkańcy wspólnie tworzą ofertę turystyczną o określonej specjalizacji, opartą na konkretnym lokalnym motywie przewodnim.",
+        "answer": true,
+        "explanation": "Przykładem takiej inicjatywy jest austriacka wieś Mohndorf Armschlag, w której cała oferta turystyczna skupia się wokół regionalnej uprawy maku niebieskiego."
+      },
+      {
+        "sentence": "Wyludnianie się obszarów wiejskich (depopulacja) w Europie to zjawisko, które zostało zapoczątkowane dopiero w drugiej połowie XX wieku przez spadek dzietności.",
+        "answer": false,
+        "explanation": "Proces depopulacji wsi w Europie rozpoczął się już w XIX wieku i był ściśle związany z rewolucją przemysłową oraz masową migracją ludności do pracy w rozwijających się miastach."
+      },
+      {
+        "sentence": "Główną przyczyną wyludniania się polskiej wsi oddalonej od miast jest obecnie odpływ młodych ludzi oraz ich niechęć do przejmowania małych, mało rentownych gospodarstw rolnych.",
+        "answer": true,
+        "explanation": "Oprócz braku perspektyw ekonomicznych w małych gospodarstwach, do depopulacji polskiej wsi peryferyjnej przyczynia się też niedorozwój infrastruktury technicznej i społecznej (np. brak ośrodków zdrowia)."
+      },
+      {
+        "sentence": "Zjawisko zacierania się widocznych granic między środowiskiem miejskim a wiejskim na obrzeżach miast nosi w geografii nazwę kontinuum miejsko-wiejskiego.",
+        "answer": true,
+        "explanation": "Wsie znajdujące się w bezpośrednim sąsiedztwie rozrastających się miast zatracają tradycyjny, rolniczy charakter na rzecz funkcji usługowych i mieszkaniowych, upodabniając się do przedmieść."
+      },
+      {
+        "sentence": "W krajach wysoko rozwiniętych gospodarczo rolnictwo uległo całkowitemu zanikowi, a wszystkie obszary wiejskie pełnią już wyłącznie funkcję turystyczną lub rezydencjalną.",
+        "answer": false,
+        "explanation": "Choć ogólny areał rolniczy na świecie maleje, w krajach bogatych udział obszarów wiejskich nadal bywa wysoki z uwagi na istnienie dużych, nowoczesnych i wysoce zmechanizowanych gospodarstw rolnych."
+      },
+      {
+        "sentence": "Do ekonomicznych czynników przyciągających nowych inwestorów na tereny wiejskie zalicza się między innymi niższy poziom płac w porównaniu z ośrodkami miejskimi.",
+        "answer": true,
+        "explanation": "Oprócz tańszej ziemi i niższych czynszów, niższy poziom wynagrodzeń w mniejszych miejscowościach obniża koszty prowadzenia działalności gospodarczej, co stanowi silny magnes dla przedsiębiorców."
+      },
+      {
+        "sentence": "Istnieje prawidłowość, według której im niższy jest poziom rozwoju społeczno-gospodarczego danego państwa, tym mniejszy odsetek jego mieszkańców żyje na wsi.",
+        "answer": false,
+        "explanation": "Prawidłowość jest dokładnie odwrotna. W państwach słabo rozwiniętych, w których duży udział w PKB ma wciąż rolnictwo, zdecydowana większość społeczeństwa zamieszkuje właśnie obszary wiejskie."
+      }
+    ]
+  }
+}

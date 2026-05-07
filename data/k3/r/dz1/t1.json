@@ -1,0 +1,335 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz1-t1",
+                     "title":  "Położenie i obszar Polski",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Północny punkt skrajny Polski",
+                                              "definition":  "Jest nim Jastrzębia Góra (część miejscowości Władysławowo), wyznaczająca krawędź terytorium lądowego na północy."
+                                          },
+                                          {
+                                              "term":  "Południowy punkt skrajny Polski",
+                                              "definition":  "Jest nim szczyt Opołonek w Bieszczadach, stanowiący najdalej na południe wysunięty fragment kraju."
+                                          },
+                                          {
+                                              "term":  "Wschodni punkt skrajny Polski",
+                                              "definition":  "Jest nim zakole Bugu w miejscowości Zosin, wyznaczające wschodnią granicę państwa."
+                                          },
+                                          {
+                                              "term":  "Zachodni punkt skrajny Polski",
+                                              "definition":  "Jest nim zakole Odry w miejscowości Osinów Dolny, stanowiące najdalej na zachód wysunięty punkt kraju."
+                                          },
+                                          {
+                                              "term":  "Granica morska Polski",
+                                              "definition":  "Jej długość wynosi 440 km. Stanowi ona północną granicę państwową na Morzu Bałtyckim."
+                                          },
+                                          {
+                                              "term":  "Linia brzegowa Polski",
+                                              "definition":  "Całkowita długość, uwzględniająca urozmaicenie wybrzeża, wynosi 770 km. Jest ona znacznie dłuższa od samej granicy morskiej."
+                                          },
+                                          {
+                                              "term":  "Sąsiedzi Polski w Sudetach",
+                                              "definition":  "Wzdłuż południowo-zachodniej granicy, w pasie Sudetów, Polska graniczy z Czechami."
+                                          },
+                                          {
+                                              "term":  "Sąsiedzi Polski w Bieszczadach",
+                                              "definition":  "Na południowym wschodzie, w rejonie Bieszczadów, Polska graniczy ze Słowacją oraz Ukrainą."
+                                          },
+                                          {
+                                              "term":  "Najniższy punkt Polski",
+                                              "definition":  "Znajduje się w miejscowości Marzęcino na Żuławach Wiślanych i położony jest na wysokości 2,2 m p.p.m."
+                                          },
+                                          {
+                                              "term":  "Granice naturalne Polski",
+                                              "definition":  "Oparte są na barierach fizjograficznych, takich jak rzeki (Odra, Nysa Łużycka, Bug) oraz łańcuchy górskie (Sudety, Karpaty)."
+                                          },
+                                          {
+                                              "term":  "Sąsiedzi Polski na zachodzie",
+                                              "definition":  "Polska graniczy z Niemcami, a granica przebiega głównie wzdłuż rzek Odry i Nysy Łużyckiej."
+                                          },
+                                          {
+                                              "term":  "Rozciągłość południkowa Polski",
+                                              "definition":  "Różnica szerokości geograficznej między punktami skrajnymi na północy (Jastrzębia Góra) i południu (Opołonek)."
+                                          },
+                                          {
+                                              "term":  "Rozciągłość południkowa (wartość)",
+                                              "definition":  "Wynosi 5°50\u0027 i powoduje różnicę w wysokości górowania Słońca oraz długości trwania dnia i nocy między północną a południową częścią kraju."
+                                          },
+                                          {
+                                              "term":  "Rozciągłość równoleżnikowa Polski",
+                                              "definition":  "Wynosi około 10°, co skutkuje 40-minutową różnicą czasu słonecznego (miejscowego) między wschodnim punktem Zosin a zachodnim Osinowem Dolnym."
+                                          },
+                                          {
+                                              "term":  "Czas strefowy w Polsce",
+                                              "definition":  "Cały obszar państwa znajduje się w strefie czasu środkowoeuropejskiego (UTC+1), co ułatwia funkcjonowanie gospodarki mimo różnic w czasie słonecznym."
+                                          },
+                                          {
+                                              "term":  "Geopolityczne położenie Polski",
+                                              "definition":  "Położenie w Europie Środkowej między Rosją a Niemcami oraz członkostwo w NATO i UE definiuje polską strategię bezpieczeństwa i kierunki handlu."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Północny punkt skrajny",
+                                                 "pair2":  "Jastrzębia Góra"
+                                             },
+                                             {
+                                                 "pair1":  "Południowy punkt skrajny",
+                                                 "pair2":  "Opołonek"
+                                             },
+                                             {
+                                                 "pair1":  "Wschodni punkt skrajny",
+                                                 "pair2":  "Zosin"
+                                             },
+                                             {
+                                                 "pair1":  "Zachodni punkt skrajny",
+                                                 "pair2":  "Osinów Dolny"
+                                             },
+                                             {
+                                                 "pair1":  "Długość linii brzegowej",
+                                                 "pair2":  "770 km"
+                                             },
+                                             {
+                                                 "pair1":  "Długość granicy morskiej",
+                                                 "pair2":  "440 km"
+                                             },
+                                             {
+                                                 "pair1":  "Najniższy punkt kraju",
+                                                 "pair2":  "Marzęcino"
+                                             },
+                                             {
+                                                 "pair1":  "Sąsiad w pasie Sudetów",
+                                                 "pair2":  "Czechy"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który punkt stanowi najdalej na północ wysunięty kraniec Polski?",
+                                      "options":  [
+                                                      "Przylądek Rozewie, przez lata błędnie uznawany za skrajny punkt",
+                                                      "Jastrzębia Góra (Gwiazda Północy)",
+                                                      "Latarnia morska w Świnoujściu na wyspie Uznam",
+                                                      "Cypel Helski, stanowiący koniec Mierzei Helskiej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jastrzębia Góra w gminie Władysławowo jest uznawana za najdalej na północ wysunięty punkt lądowy Polski."
+                                  },
+                                  {
+                                      "question":  "Jaka jest długość linii brzegowej Polski według danych Głównego Urzędu Geodezji i Kartografii?",
+                                      "options":  [
+                                                      "440 km",
+                                                      "528 km",
+                                                      "770 km",
+                                                      "850 km"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Źródła podają, że linia brzegowa Polski ma 770 km długości."
+                                  },
+                                  {
+                                      "question":  "W którym pasmie górskim znajduje się południowy punkt skrajny Polski – Opołonek?",
+                                      "options":  [
+                                                      "W Tatrach Wysokich (rejon Rysów)",
+                                                      "W paśmie Sudetów Wschodnich",
+                                                      "W Bieszczadach",
+                                                      "W Górach Świętokrzyskich (Pasmo Łysogór)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Szczyt Opołonek, będący południowym punktem skrajnym, znajduje się w Bieszczadach."
+                                  },
+                                  {
+                                      "question":  "Z którym państwem Polska graniczy wzdłuż Sudetów?",
+                                      "options":  [
+                                                      "Z Republiką Federalną Niemiec",
+                                                      "Z Republiką Słowacką",
+                                                      "Z Republiką Czeską",
+                                                      "Z Ukrainą"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Sudety stanowią naturalną granicę między Polską a Czechami na południowym zachodzie."
+                                  },
+                                  {
+                                      "question":  "Gdzie znajduje się punkt o najniższej wysokości bezwzględnej w Polsce?",
+                                      "options":  [
+                                                      "W Raczynkach Elbląskich na Wysoczyźnie",
+                                                      "W miejscowości Marzęcino",
+                                                      "W porcie Świnoujście przy ujściu Świny",
+                                                      "W depresji gdańskiej obok Rafinerii"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Najniższy punkt Polski (2,2 m p.p.m.) znajduje się w Marzęcinie na Żuławach Wiślanych."
+                                  },
+                                  {
+                                      "question":  "Która rzeka wyznacza wschodni punkt skrajny Polski w miejscowości Zosin?",
+                                      "options":  [
+                                                      "Rzeka Odra",
+                                                      "Rzeka Wisła",
+                                                      "Rzeka Bug",
+                                                      "Rzeka San"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Zosin leży w zakolu rzeki Bug, która stanowi tam granicę państwową."
+                                  },
+                                  {
+                                      "question":  "Jaką długość ma polska granica morska?",
+                                      "options":  [
+                                                      "770 km",
+                                                      "440 km",
+                                                      "350 km",
+                                                      "500 km"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Granica morska Polski na Bałtyku liczy 440 km."
+                                  },
+                                  {
+                                      "question":  "Która miejscowość wyznacza zachodni punkt skrajny Polski?",
+                                      "options":  [
+                                                      "Miejskie przejście w Słubicach",
+                                                      "Miasto Zgorzelec nad Nysą",
+                                                      "Osinów Dolny",
+                                                      "Kostrzyn nad Odrą (ujście Warty)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Osinów Dolny w zakolu Odry jest najdalej wysuniętym na zachód punktem kraju."
+                                  },
+                                  {
+                                      "question":  "Z iloma państwami graniczy Polska?",
+                                      "options":  [
+                                                      "5",
+                                                      "6",
+                                                      "7",
+                                                      "8"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Polska graniczy z siedmioma państwami: Niemcami, Czechami, Słowacją, Ukrainą, Białorusią, Litwą i Rosją."
+                                  },
+                                  {
+                                      "question":  "Który typ granicy dominuje na odcinku południowym Polski?",
+                                      "options":  [
+                                                      "Granica sztuczna (geometryczna)",
+                                                      "Granica naturalna (górzysta)",
+                                                      "Granica morska (terytorialna)",
+                                                      "Granica rzeczna (nurtowa)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Granica południowa opiera się na naturalnych barierach w postaci pasm górskich Sudetów i Karpat."
+                                  },
+                                  {
+                                      "question":  "O ile stopni różni się wysokość górowania Słońca w dniach równonocy między Jastrzębią Górą a Opołonkiem?",
+                                      "options":  [
+                                                      "O 10 stopni",
+                                                      "O 5 stopni 50 minut",
+                                                      "O 40 minut kątowych",
+                                                      "O 1 stopień 15 minut"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Różnica wysokości górowania Słońca w tym samym momencie na dwóch różnych szerokościach geograficznych odpowiada dokładnie rozciągłości południkowej kraju."
+                                  },
+                                  {
+                                      "question":  "W którym z wymienionych punktów 22 czerwca (przesilenie letnie) dzień trwa najdłużej?",
+                                      "options":  [
+                                                      "Szczyt Opołonek (Bieszczady)",
+                                                      "Miejscowość Zosin (nad Bugiem)",
+                                                      "Jastrzębia Góra",
+                                                      "Osinów Dolny (zakole Odry)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Podczas lata na półkuli północnej długość dnia rośnie wraz ze wzrostem szerokości geograficznej, zatem najdłuższy dzień występuje w punkcie najdalej wysuniętym na północ."
+                                  },
+                                  {
+                                      "question":  "Jeżeli w Zosinie (23°52\u0027E) występuje południe słoneczne, to w Osinowie Dolnym (14°07\u0027E) Słońce:",
+                                      "options":  [
+                                                      "Górowało już wcześniej, około 40 minut temu",
+                                                      "Będzie górować za około 40 minut",
+                                                      "Właśnie góruje w tym samym momencie",
+                                                      "Znajduje się już w fazie zachodu za horyzont"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ziemia obraca się z zachodu na wschód, więc punkty położone dalej na zachód muszą poczekać, aż Słońce znajdzie się nad ich południkiem (1 stopień to 4 minuty)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna konsekwencja klimatyczna położenia Polski w strefie klimatów umiarkowanych o charakterze przejściowym?",
+                                      "options":  [
+                                                      "Występowanie tylko dwóch pór roku (suchej i deszczowej)",
+                                                      "Duża zmienność stanów pogodowych",
+                                                      "Całkowity brak opadów śniegu w pasie nizin",
+                                                      "Stały, całoroczny napływ mas zwrotnikowych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przejściowość klimatu Polski wynika ze ścierania się mas powietrza morskiego znad Atlantyku i kontynentalnego znad Azji."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Północnym punktem skrajnym Polski jest szczyt Opołonek.",
+                                           "answer":  false,
+                                           "explanation":  "Opołonek to punkt skrajny południowy. Północnym jest Jastrzębia Góra."
+                                       },
+                                       {
+                                           "sentence":  "Linia brzegowa Polski (770 km) jest dłuższa niż jej granica morska (440 km).",
+                                           "answer":  true,
+                                           "explanation":  "Linia brzegowa uwzględnia urozmaicenie brzegu (zatoki, mierzeje), dlatego jest dłuższa od granicy morskiej."
+                                       },
+                                       {
+                                           "sentence":  "Polska graniczy z Czechami w pasie Sudetów.",
+                                           "answer":  true,
+                                           "explanation":  "Czechy sąsiadują z Polską na południu, m.in. wzdłuż całego pasma Sudetów."
+                                       },
+                                       {
+                                           "sentence":  "Najniższy punkt Polski znajduje się w Marzęcinie i jest położony powyżej poziomu morza.",
+                                           "answer":  false,
+                                           "explanation":  "Marzęcino to depresja (2,2 m p.p.m.), co oznacza, że leży poniżej poziomu morza."
+                                       },
+                                       {
+                                           "sentence":  "Wschodnim punktem skrajnym Polski jest zakole Odry w Osinowie Dolnym.",
+                                           "answer":  false,
+                                           "explanation":  "Osinów Dolny to punkt zachodni. Wschodnim punktem jest zakole Bugu w Zosinie."
+                                       },
+                                       {
+                                           "sentence":  "Polska posiada dostęp do Morza Bałtyckiego od strony północnej.",
+                                           "answer":  true,
+                                           "explanation":  "Polska leży na południowym wybrzeżu Bałtyku, więc dostęp do morza mamy od północy."
+                                       },
+                                       {
+                                           "sentence":  "Granica z Ukrainą i Słowacją przebiega przez pasmo Bieszczad.",
+                                           "answer":  true,
+                                           "explanation":  "Karpaty (w tym Bieszczady) stanowią naturalną granicę ze Słowacją i Ukrainą."
+                                       },
+                                       {
+                                           "sentence":  "Jastrzębia Góra wyznacza zachodnią granicę Polski.",
+                                           "answer":  false,
+                                           "explanation":  "Jastrzębia Góra to punkt północny. Zachodnim jest Osinów Dolny."
+                                       },
+                                       {
+                                           "sentence":  "Polska graniczy z siedmioma krajami sąsiednimi.",
+                                           "answer":  true,
+                                           "explanation":  "Sąsiedzi to: Niemcy, Czechy, Słowacja, Ukraina, Białoruś, Litwa i Rosja (7 państw)."
+                                       },
+                                       {
+                                           "sentence":  "Zimą (22 grudnia) dzień w Jastrzębiej Górze trwa o ponad godzinę krócej niż w Opołonku.",
+                                           "answer":  true,
+                                           "explanation":  "Podczas przesilenia zimowego im dalej na północ, tym dzień jest krótszy; różnica między skrajnymi punktami Polski wynosi około 1 godziny i 10 minut."
+                                       },
+                                       {
+                                           "sentence":  "Polska rozciąga się w dwóch strefach czasowych, dlatego podróżując z Warszawy do Szczecina, musimy przesuwać zegarki o 40 minut.",
+                                           "answer":  false,
+                                           "explanation":  "Polska leży w jednej strefie czasu urzędowego (środkowoeuropejskiego), więc zegarków nie przesuwamy mimo różnic czasu słonecznego."
+                                       },
+                                       {
+                                           "sentence":  "Wysokość górowania Słońca w momencie południa słonecznego w Krakowie jest zawsze większa niż w Gdańsku.",
+                                           "answer":  true,
+                                           "explanation":  "Kraków leży na mniejszej szerokości geograficznej (bliżej równika) niż Gdańsk, dlatego promienie słoneczne padają tam pod większym kątem."
+                                       },
+                                       {
+                                           "sentence":  "Członkostwo Polski w strefie Schengen jest bezpośrednią konsekwencją jej położenia w Unii Europejskiej i wpływa na zniesienie kontroli na granicach lądowych z sąsiadami z UE.",
+                                           "answer":  true,
+                                           "explanation":  "Przynależność do struktur europejskich zniosła bariery w przemieszczaniu się na granicach z Niemcami, Czechami, Słowacją i Litwą."
+                                       }
+                                   ]
+                 }
+}

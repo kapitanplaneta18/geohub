@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t2",
+    "title": "Rozwój demograficzny",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Model przejścia demograficznego",
+        "definition": "Model przedstawiający zmienność wartości współczynników urodzeń i zgonów oraz przyrostu naturalnego w czasie, składający się z pięciu faz."
+      },
+      {
+        "term": "Faza I (przedtransformacyjna)",
+        "definition": "Faza rozwoju charakteryzująca się bardzo wysokimi, zbliżonymi wartościami urodzeń i zgonów (55-60‰) oraz niskim przyrostem naturalnym. Występuje np. w plemionach Amazonii."
+      },
+      {
+        "term": "Faza II (początku transformacji)",
+        "definition": "Faza o bardzo wysokim współczynniku urodzeń i malejącym współczynniku zgonów, co skutkuje wysokim i rosnącym przyrostem naturalnym. Typowa dla najbiedniejszych krajów, np. Nigru i Mali."
+      },
+      {
+        "term": "Faza III (intensywnej transformacji)",
+        "definition": "Faza, w której współczynnik urodzeń zaczyna maleć, a przyrost naturalny jest wysoki, ale zmniejszający się. Występuje m.in. w Maroku i Indiach."
+      },
+      {
+        "term": "Faza IV (późnej transformacji)",
+        "definition": "Faza odznaczająca się niskimi wartościami współczynników urodzeń (10-15‰) i zgonów (5-15‰) oraz niskim, dodatnim przyrostem naturalnym. Np. w Chinach i Brazylii."
+      },
+      {
+        "term": "Faza V (regresu demograficznego)",
+        "definition": "Faza charakteryzująca się ujemnym przyrostem naturalnym na skutek bardzo niskiej liczby urodzeń (poniżej 10‰) i niskiej liczby zgonów. Występuje m.in. w Niemczech i Włoszech."
+      },
+      {
+        "term": "Eksplozja demograficzna",
+        "definition": "Dynamiczny wzrost przyrostu naturalnego spowodowany spadkiem umieralności i utrzymywaniem się wysokiej liczby urodzeń, typowy dla II i III fazy."
+      },
+      {
+        "term": "Implozja demograficzna",
+        "definition": "Gwałtowny spadek wartości współczynnika przyrostu naturalnego wywoływany obniżaniem się współczynnika dzietności, prowadzący często do regresu."
+      },
+      {
+        "term": "Regres demograficzny",
+        "definition": "Zjawisko długotrwałego utrzymywania się ujemnych wartości przyrostu naturalnego, skutkujące naturalnym ubytkiem ludności."
+      },
+      {
+        "term": "Współczynnik dzietności",
+        "definition": "Liczba urodzonych dzieci przypadających średnio na jedną kobietę w wieku rozrodczym (15-49 lat)."
+      },
+      {
+        "term": "Prosta zastępowalność pokoleń",
+        "definition": "Sytuacja demograficzna, w której następuje pełne zastąpienie rodziców dziećmi, co wymaga współczynnika dzietności na poziomie co najmniej 2,10-2,15."
+      },
+      {
+        "term": "Teoria drugiego przejścia demograficznego",
+        "definition": "Koncepcja tłumacząca spadek dzietności poniżej poziomu zastępowalności pokoleń przemianami w sferze wartości, postaw i zachowań społeczeństw (np. zmiany modelu rodziny)."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Faza II i III modelu przejścia demograficznego",
+        "pair2": "Występowanie zjawiska eksplozji demograficznej"
+      },
+      {
+        "pair1": "Faza V modelu przejścia demograficznego",
+        "pair2": "Występowanie zjawiska implozji i regresu demograficznego"
+      },
+      {
+        "pair1": "Plemiona Amazonii",
+        "pair2": "Faza I modelu przejścia demograficznego"
+      },
+      {
+        "pair1": "Najbiedniejsze państwa świata, m.in. Niger, Mali, Uganda",
+        "pair2": "Faza II modelu przejścia demograficznego"
+      },
+      {
+        "pair1": "Kraje Azji (np. Chiny, Tajlandia) i Ameryki Płd. (np. Brazylia)",
+        "pair2": "Faza IV modelu przejścia demograficznego"
+      },
+      {
+        "pair1": "Kraje Europy, m.in. Niemcy, Włochy, Litwa, Ukraina",
+        "pair2": "Faza V modelu przejścia demograficznego"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Która faza przejścia demograficznego charakteryzuje się bardzo wysokimi, zbliżonymi wartościami współczynników urodzeń i zgonów (55-60‰) oraz bardzo niskim przyrostem naturalnym?",
+        "options": [
+          "Pierwsza faza, czyli faza przedtransformacyjna",
+          "Druga faza, czyli faza początku transformacji",
+          "Trzecia faza, czyli intensywna transformacja",
+          "Czwarta faza, nazywana późną transformacją"
+        ],
+        "answer": "A",
+        "explanation": "W pierwszej fazie modelu przejścia demograficznego współczynniki urodzeń i zgonów utrzymują się na podobnym, bardzo wysokim poziomie, co skutkuje niemal zerowym przyrostem naturalnym (np. w plemionach Amazonii)."
+      },
+      {
+        "question": "Jakie zjawisko w modelu przejścia demograficznego jest typowe dla krajów takich jak Niger, Mali czy Uganda?",
+        "options": [
+          "Dodatni oraz gwałtownie rosnący przyrost naturalny",
+          "Ujemny i bardzo szybko spadający przyrost naturalny",
+          "Niski, ale wysoce stabilny dodatni przyrost naturalny",
+          "Zerowy przyrost naturalny z powodu starzenia populacji"
+        ],
+        "answer": "A",
+        "explanation": "Wymienione najbiedniejsze państwa świata znajdują się w II fazie rozwoju demograficznego, w której maleje umieralność przy utrzymaniu bardzo wysokiej rozrodczości, co wywołuje eksplozję demograficzną i gwałtowny wzrost przyrostu naturalnego."
+      },
+      {
+        "question": "Eksplozja demograficzna to dynamiczny wzrost przyrostu naturalnego, który występuje głównie w trakcie:",
+        "options": [
+          "Pierwszej i drugiej fazy przejścia demograficznego",
+          "Drugiej i trzeciej fazy przejścia demograficznego",
+          "Trzeciej i czwartej fazy przejścia demograficznego",
+          "Czwartej i piątej fazy przejścia demograficznego"
+        ],
+        "answer": "B",
+        "explanation": "Zjawisko eksplozji demograficznej występuje w fazie II i III modelu przejścia demograficznego, gdy liczba zgonów spada, a współczynnik urodzeń pozostaje nadal na relatywnie wysokim poziomie."
+      },
+      {
+        "question": "Jaka wartość współczynnika dzietności, zgodnie z literaturą demograficzną, gwarantuje tak zwaną prostą zastępowalność pokoleń?",
+        "options": [
+          "Wynosi ona dokładnie od 1,10 do 1,15 dziecka",
+          "Wynosi ona dokładnie od 1,50 do 1,65 dziecka",
+          "Wynosi ona dokładnie od 2,10 do 2,15 dziecka",
+          "Wynosi ona dokładnie od 3,00 do 3,15 dziecka"
+        ],
+        "answer": "C",
+        "explanation": "Prostą zastępowalność pokoleń, w której następuje pełne zastąpienie rodziców dziećmi, zapewnia współczynnik dzietności wynoszący co najmniej 2,10-2,15."
+      },
+      {
+        "question": "Które z wymienionych społeczeństw osiągnęło piątą fazę rozwoju w modelu przejścia demograficznego?",
+        "options": [
+          "Społeczeństwo Brazylii",
+          "Społeczeństwo Niemiec",
+          "Społeczeństwo Maroka",
+          "Społeczeństwo Tajlandii"
+        ],
+        "answer": "B",
+        "explanation": "Społeczeństwo Niemiec znajduje się w V fazie rozwoju, charakteryzującej się ujemnym przyrostem naturalnym i zjawiskiem regresu demograficznego. Brazylia i Tajlandia to faza IV, a Maroko – faza III."
+      },
+      {
+        "question": "W jaki sposób zmieniają się kluczowe wskaźniki demograficzne w trakcie trzeciej fazy intensywnej transformacji?",
+        "options": [
+          "Zgonowość rośnie, a rozrodczość bardzo szybko i gwałtownie spada",
+          "Zgonowość spada, a rozrodczość również zaczyna stopniowo maleć",
+          "Zgonowość oraz rozrodczość stabilizują się na bardzo wysokim poziomie",
+          "Zgonowość stabilizuje się szybko, a rozrodczość gwałtownie rośnie"
+        ],
+        "answer": "B",
+        "explanation": "W III fazie przejścia demograficznego współczynnik zgonów wciąż maleje (choć już wolniej), a współczynnik urodzeń zaczyna ulegać wyraźnemu obniżeniu."
+      },
+      {
+        "question": "Jakie długofalowe zjawisko jest bezpośrednim, wewnątrzpopulacyjnym skutkiem eksplozji demograficznej w krajach słabo rozwiniętych?",
+        "options": [
+          "Gwałtowne starzenie się ogółu członków danego społeczeństwa",
+          "Szybkie odmłodzenie ogólnej struktury wiekowej mieszkańców kraju",
+          "Utrzymywanie się skrajnie ujemnego przyrostu naturalnego w miastach",
+          "Zmniejszenie całkowitego udziału dzieci i młodzieży w danej populacji"
+        ],
+        "answer": "B",
+        "explanation": "Wysoki przyrost naturalny oraz utrzymująca się ogromna liczba narodzin prowadzą do wyraźnego odmłodzenia struktury wiekowej społeczeństwa (powstaje społeczeństwo typu młodego)."
+      },
+      {
+        "question": "Jaka jest jedna z głównych społeczno-kulturowych przyczyn występowania implozji demograficznej w krajach o wysokim poziomie rozwoju?",
+        "options": [
+          "Ogromny wzrost liczby nowo zawieranych związków małżeńskich",
+          "Zdecydowane i stałe upowszechnienie rodziny wielodzietnej",
+          "Powszechny wybór modelu rodziny posiadającej jedno dziecko",
+          "Rosnąca tendencja do zakładania rodzin w bardzo młodym wieku"
+        ],
+        "answer": "C",
+        "explanation": "Implozja demograficzna wynika między innymi z powszechnego zaakceptowania i upowszechnienia się w społeczeństwie modelu rodziny z jednym dzieckiem (lub rodziny bezdzietnej)."
+      },
+      {
+        "question": "W jaki sposób teoria drugiego przejścia demograficznego tłumaczy spadek dzietności poniżej poziomu zastępowalności pokoleń?",
+        "options": [
+          "Niezwykle gwałtownym ubożeniem społeczeństw zachodnich",
+          "Głębokimi zmianami postaw, wartości oraz zachowań",
+          "Niespodziewanym i bardzo silnym wzrostem umieralności",
+          "Powszechnym występowaniem nowych chorób degeneracyjnych"
+        ],
+        "answer": "B",
+        "explanation": "Teoria drugiego przejścia demograficznego zakłada, że spadek dzietności wynika ze zjawisk społeczno-kulturowych: zmian w sferze wartości, postaw i zachowań społeczeństw dotyczących modelu rodziny."
+      },
+      {
+        "question": "Co dokładnie oznacza termin „regres demograficzny”, używany w kontekście piątej fazy rozwoju?",
+        "options": [
+          "Przyrost naturalny utrzymuje się przez długi czas na poziomie ujemnym",
+          "Przyrost naturalny nagle i bardzo szybko rośnie po okresie silnego spadku",
+          "Liczba urodzeń gwałtownie przewyższa liczbę zgonów rejestrowanych w roku",
+          "Umieralność niemowląt drastycznie wzrasta wskutek wybuchu nowych wojen"
+        ],
+        "answer": "A",
+        "explanation": "Regres demograficzny to zjawisko długotrwałego utrzymywania się ujemnych wartości przyrostu naturalnego (zgonów jest więcej niż urodzeń), co skutkuje naturalnym ubytkiem ludności."
+      },
+      {
+        "question": "Który typ struktury wiekowej najlepiej opisuje społeczeństwa państw leżących w Europie Zachodniej (znajdujących się w fazie V)?",
+        "options": [
+          "Społeczeństwo typu młodego z niezwykle szeroką podstawą piramidy",
+          "Społeczeństwo dojrzałe odznaczające się bardzo szybkim przyrostem",
+          "Społeczeństwo stare posiadające wąską podstawę piramidy wiekowej",
+          "Społeczeństwo zastojowe zmagające się z niezwykle dużą śmiertelnością"
+        ],
+        "answer": "C",
+        "explanation": "W krajach Europy Zachodniej występuje typ społeczeństwa starego (lub hiperstarego), co na piramidzie płci i wieku objawia się bardzo wąską podstawą ze względu na niską dzietność."
+      },
+      {
+        "question": "W której fazie przejścia demograficznego liczba ludności stabilizuje się na bardzo wysokim poziomie, a przyrost naturalny jest dodatni, lecz niski?",
+        "options": [
+          "W pierwszej fazie, znanej jako faza przedtransformacyjna",
+          "W drugiej fazie, będącej początkiem okresu transformacji",
+          "W trzeciej fazie, oznaczającej czas intensywnej transformacji",
+          "W czwartej fazie, którą określa się jako późną transformację"
+        ],
+        "answer": "D",
+        "explanation": "W IV fazie (późnej transformacji) współczynniki urodzeń i zgonów stabilizują się na bardzo niskim poziomie. Przyrost naturalny wynosi 0-5‰, co skutkuje niewielkim, powolnym wzrostem ludności z wysokiego pułapu osiągniętego w fazach II i III."
+      },
+      {
+        "question": "Z czego wynika fakt, że w niektórych państwach wschodniej Europy w fazie V notuje się stosunkowo wysoki współczynnik zgonów (ok. 13-15‰)?",
+        "options": [
+          "Wynika to z nagłego rozprzestrzeniania się niebezpiecznych chorób zakaźnych",
+          "Jest to wyraźny efekt starzenia się populacji oraz chorób cywilizacyjnych",
+          "Stanowi to bezpośredni skutek masowej emigracji zarobkowej wszystkich starszych osób",
+          "Wiąże się to z bardzo gwałtownym i nieodwracalnym załamaniem systemu ochrony środowiska"
+        ],
+        "answer": "B",
+        "explanation": "Zwiększony współczynnik zgonów w krajach takich jak Litwa czy Ukraina nie wynika ze słabej opieki, lecz z zaawansowanego procesu starzenia się populacji oraz wysokiej śmiertelności z powodu chorób cywilizacyjnych."
+      },
+      {
+        "question": "Jak wysoki przyrost naturalny wpływa na gospodarkę i warunki bytowe najbiedniejszych krajów (faza II i III)?",
+        "options": [
+          "Gwarantuje on nadzwyczajny, bardzo szybki i stabilny wzrost PKB per capita",
+          "Prowadzi wprost do obniżenia dochodu narodowego przypadającego na mieszkańca",
+          "Skutkuje natychmiastowym, drastycznym brakiem pracowników w sektorze rolniczym",
+          "Znacznie zwiększa wpływy państwa z tytułu opłacanych podatków dochodowych"
+        ],
+        "answer": "B",
+        "explanation": "Eksplozja demograficzna skutkuje tym, że i tak niewielki dochód narodowy musi być dzielony na wciąż rosnącą liczbę osób, co prowadzi do ubożenia społeczeństwa."
+      },
+      {
+        "question": "Jaka jest zasadnicza różnica demograficzna pomiędzy krajami w fazie II a krajami znajdującymi się w fazie IV?",
+        "options": [
+          "W fazie II przyrost jest skrajnie ujemny, a w fazie IV staje się bardzo silnie dodatni",
+          "W fazie II zgonowość bardzo szybko spada, podczas gdy w fazie IV obie wartości są niskie",
+          "W fazie II występuje zjawisko regresu, natomiast w fazie IV ogromna eksplozja demograficzna",
+          "W fazie II dzietność spada mocno poniżej progu 2, a w fazie IV nagle i niezmiernie szybko rośnie"
+        ],
+        "answer": "B",
+        "explanation": "W fazie II główną siłą napędową wzrostu jest spadająca umieralność przy stałej liczbie urodzeń, natomiast faza IV charakteryzuje się już utrwalonymi, bardzo niskimi wartościami obu tych współczynników."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "W pierwszej fazie przejścia demograficznego występuje bardzo wysoki przyrost naturalny, co jest spowodowane utrzymywaniem się współczynnika urodzeń na poziomie 55-60‰.",
+        "answer": false,
+        "explanation": "W I fazie przejścia demograficznego przyrost naturalny jest niski (bliski zeru), ponieważ współczynnik urodzeń i współczynnik zgonów utrzymują się na zbliżonym, bardzo wysokim poziomie."
+      },
+      {
+        "sentence": "Eksplozja demograficzna w II fazie rozwoju demograficznego jest zjawiskiem wywołanym drastycznym wzrostem współczynnika zgonów na skutek epidemii i chorób.",
+        "answer": false,
+        "explanation": "Eksplozja demograficzna jest efektem dynamicznego zmniejszenia się liczby zgonów (dzięki poprawie higieny i medycyny) przy jednoczesnym utrzymywaniu się bardzo wysokiej liczby urodzeń."
+      },
+      {
+        "sentence": "Trzecia faza przejścia demograficznego charakteryzuje się rozpoczęciem spadku współczynnika urodzeń, co skutkuje stopniowo zmniejszającym się, lecz wciąż wysokim i dodatnim przyrostem naturalnym.",
+        "answer": true,
+        "explanation": "W III fazie intensywnej transformacji współczynnik urodzeń zaczyna maleć, co spowalnia eksplozję demograficzną, choć przyrost naturalny utrzymuje się wciąż na dodatnim poziomie."
+      },
+      {
+        "sentence": "Czwarta faza modelu przejścia demograficznego odznacza się stałym, ujemnym przyrostem naturalnym na skutek powszechnej akceptacji modelu rodziny bezdzietnej.",
+        "answer": false,
+        "explanation": "Ujemny przyrost naturalny charakteryzuje dopiero V fazę rozwoju (regres demograficzny). W fazie IV przyrost naturalny jest dodatni, lecz bardzo niski."
+      },
+      {
+        "sentence": "Współczynnik dzietności gwarantujący prostą zastępowalność pokoleń wynosi około 1,5 dziecka przypadającego średnio na jedną kobietę w wieku rozrodczym.",
+        "answer": false,
+        "explanation": "Prostą zastępowalność pokoleń gwarantuje współczynnik dzietności wynoszący co najmniej 2,10-2,15 dziecka na kobietę. Wartość 1,5 oznacza obniżenie dzietności poniżej tego progu."
+      },
+      {
+        "sentence": "W krajach Europy Wschodniej, znajdujących się w V fazie rozwoju, wzrost liczby zgonów wynika głównie z rozprzestrzeniania się chorób zakaźnych i pasożytniczych.",
+        "answer": false,
+        "explanation": "Stosunkowo wysoki współczynnik zgonów w tych państwach (np. na Ukrainie, Litwie) nie wynika z chorób zakaźnych, lecz z nasilania się chorób cywilizacyjnych (degeneracyjnych) oraz procesów starzenia się społeczeństwa."
+      },
+      {
+        "sentence": "Koncepcja tłumacząca spadek dzietności poniżej poziomu zastępowalności pokoleń przemianami w sferze postaw, wartości i zmianą modelu rodziny nosi nazwę teorii drugiego przejścia demograficznego.",
+        "answer": true,
+        "explanation": "Teoria drugiego przejścia demograficznego zakłada, że za niską dzietność w państwach rozwiniętych odpowiadają zjawiska społeczno-kulturowe, np. luźniejsze związki partnerskie i nastawienie na konsumpcyjny styl życia."
+      },
+      {
+        "sentence": "Regres demograficzny w V fazie przejścia to zjawisko, w którym liczba zgonów przewyższa liczbę urodzeń, prowadząc do naturalnego ubytku ludności na danym obszarze.",
+        "answer": true,
+        "explanation": "Regres demograficzny (związany z implozją demograficzną) to okres długotrwałego występowania ujemnego przyrostu naturalnego (zgonów jest więcej niż urodzeń)."
+      },
+      {
+        "sentence": "Społeczeństwa określane zgodnie z klasyfikacją ONZ jako dojrzałe i młode to przede wszystkim mieszkańcy państw zachodniej Europy znajdujący się w IV i V fazie transformacji.",
+        "answer": false,
+        "explanation": "Społeczeństwa młode i dojrzałe występują w II i III fazie rozwoju demograficznego (np. w słabiej rozwiniętych krajach Afryki). Z kolei w państwach Europy Zachodniej (V faza) dominują społeczeństwa określane jako stare i hiperstare."
+      },
+      {
+        "sentence": "Jednym z głównych skutków implozji demograficznej i starzenia się społeczeństwa jest widoczne spowolnienie wzrostu gospodarczego z powodu malejącej grupy ludzi w wieku produkcyjnym.",
+        "answer": true,
+        "explanation": "Niski współczynnik dzietności i starzenie się populacji wywołują zmniejszenie się zasobów rąk do pracy oraz większe obciążenie finansowe państwa opieką socjalną i zdrowotną."
+      },
+      {
+        "sentence": "Kraje najbiedniejsze na świecie (np. Niger, Mali) znajdują się w fazie implozji demograficznej, co jest spowodowane ubożeniem społeczeństwa.",
+        "answer": false,
+        "explanation": "Kraje najbiedniejsze, takie jak Niger i Mali, znajdują się w II fazie przejścia demograficznego i odznaczają się eksplozją demograficzną (bardzo wysoki dodatni przyrost naturalny), a nie implozją."
+      },
+      {
+        "sentence": "Eksplozja demograficzna, charakterystyczna dla II i III fazy, wpływa często na odmłodzenie struktury wiekowej społeczeństwa ze względu na bardzo wysoką liczbę urodzeń.",
+        "answer": true,
+        "explanation": "Znaczny udział urodzeń sprawia, że odsetek dzieci i młodzieży gwałtownie wzrasta, co prowadzi do uformowania demograficznego typu społeczeństwa młodego i odmłodzenia ogólnej struktury ludności."
+      }
+    ]
+  }
+}

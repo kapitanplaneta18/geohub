@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t8",
+    "title": "Energetyka jądrowa",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Energetyka jądrowa",
+        "definition": "Dziedzina energetyki zajmująca się produkcją i przetwarzaniem energii powstającej w reaktorach jądrowych w wyniku reakcji rozszczepienia jąder atomów niektórych pierwiastków (najczęściej uranu)."
+      },
+      {
+        "term": "Uran",
+        "definition": "Promieniotwórczy pierwiastek wykorzystywany w energetyce jądrowej. Z 1 kg tego surowca uzyskuje się tyle energii, co z 2,5 tys. ton węgla."
+      },
+      {
+        "term": "Kraje z największymi złożami uranu",
+        "definition": "Australia, Kanada, Kazachstan i Rosja."
+      },
+      {
+        "term": "Zaleta energetyki jądrowej (środowisko)",
+        "definition": "Ograniczenie zanieczyszczenia atmosfery (śladowa emisja zanieczyszczeń podczas bezawaryjnej pracy) oraz stosunkowo niewielka ingerencja w krajobraz."
+      },
+      {
+        "term": "Zaleta energetyki jądrowej (ekonomia)",
+        "definition": "Wytwarzanie tańszej energii elektrycznej niż w większości innych elektrowni oraz zwiększenie bezpieczeństwa energetycznego państwa."
+      },
+      {
+        "term": "Wpływ na naukę i ochronę zdrowia",
+        "definition": "Stymulowanie rozwoju badawczego, tworzenie miejsc pracy dla specjalistów oraz produkcja radioizotopów stosowanych m.in. w leczeniu nowotworów."
+      },
+      {
+        "term": "Wada energetyki jądrowej (koszty)",
+        "definition": "Wysokie koszty budowy i zamykania elektrowni, koszty składowania odpadów promieniotwórczych oraz duże nakłady na zabezpieczenia (np. przed terroryzmem)."
+      },
+      {
+        "term": "Wada energetyki jądrowej (zagrożenia)",
+        "definition": "Ryzyko bardzo dużego skażenia środowiska, choroby popromiennej u ratowników oraz konieczność opuszczania terenu przez ludność w przypadku awarii z wyciekiem."
+      },
+      {
+        "term": "Francja (w energetyce jądrowej)",
+        "definition": "Państwo o największym udziale energii jądrowej w całkowitej produkcji energii elektrycznej na świecie (ponad 70%)."
+      },
+      {
+        "term": "Stany Zjednoczone (w energetyce jądrowej)",
+        "definition": "Kraj, w którym uruchomiono pierwszy na świecie reaktor (1942 r.) i który dysponuje obecnie największą na świecie liczbą reaktorów jądrowych."
+      },
+      {
+        "term": "Elektrownia Jądrowa Żarnowiec",
+        "definition": "Pierwsza planowana w Polsce elektrownia jądrowa. Jej budowę rozpoczęto w 1982 r., a po awarii w Czarnobylu ostatecznie zaniechano w 1990 r."
+      },
+      {
+        "term": "Plany energetyki jądrowej w Polsce",
+        "definition": "Zgodnie z planami do 2043 r. w Polsce mają funkcjonować dwie elektrownie jądrowe. Wśród potencjalnych lokalizacji wymienia się Żarnowiec i Choczewo na Pomorzu."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Państwo o największym udziale energii pochodzącej z atomu (ponad 70%)",
+        "pair2": "Francja"
+      },
+      {
+        "pair1": "Główny surowiec wykorzystywany jako paliwo w reaktorach jądrowych",
+        "pair2": "Uran"
+      },
+      {
+        "pair1": "Zaleta energetyki jądrowej",
+        "pair2": "Śladowa emisja zanieczyszczeń do atmosfery w przypadku bezawaryjnej pracy"
+      },
+      {
+        "pair1": "Wada energetyki jądrowej",
+        "pair2": "Wysokie koszty składowania odpadów promieniotwórczych"
+      },
+      {
+        "pair1": "Potencjalne lokalizacje elektrowni jądrowych w Polsce",
+        "pair2": "Żarnowiec i Choczewo"
+      },
+      {
+        "pair1": "Rok uruchomienia pierwszego reaktora jądrowego przez Enrico Fermiego w USA",
+        "pair2": "1942"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jaki jest główny surowiec promieniotwórczy wykorzystywany jako paliwo w reaktorach jądrowych?",
+        "options": [
+          "Uran promieniotwórczy",
+          "Węgiel bardzo twardy",
+          "Gaz ziemny w łupkach",
+          "Gęsta ropa naftowa"
+        ],
+        "answer": "A",
+        "explanation": "Podstawowym surowcem dla energetyki jądrowej jest uran. Z 1 kg tego promieniotwórczego pierwiastka wytwarza się tyle energii, co z 2,5 tys. ton węgla."
+      },
+      {
+        "question": "Które państwo posiada aktualnie największy na świecie udział energii jądrowej w całkowitej produkcji energii elektrycznej?",
+        "options": [
+          "Republika Francuska",
+          "Stany Zjednoczone",
+          "Chińska Republika",
+          "Federacja Rosyjska"
+        ],
+        "answer": "A",
+        "explanation": "Według podręcznika Francja jest bezapelacyjnym liderem pod względem udziału atomu w bilansie energetycznym kraju, który wynosi tam ponad 70%."
+      },
+      {
+        "question": "Jakie dramatyczne wydarzenie z lat 80. XX wieku drastycznie spowolniło rozwój światowej energetyki jądrowej?",
+        "options": [
+          "Trzęsienie w Japonii",
+          "Awaria w Czarnobylu",
+          "Kryzys paliwowy USA",
+          "Wyczerpanie złóż rud"
+        ],
+        "answer": "B",
+        "explanation": "Awaria w elektrowni w Czarnobylu w 1986 r. wywołała ogromne obawy społeczne, przez co niektóre kraje wstrzymały lub porzuciły plany rozwoju tej gałęzi energetyki."
+      },
+      {
+        "question": "Co jest jedną z głównych zalet funkcjonowania elektrowni jądrowych z punktu widzenia ochrony środowiska przyrodniczego?",
+        "options": [
+          "Śladowa emisja pyłów",
+          "Brak zużycia wód rzek",
+          "Łatwa utylizacja złóż",
+          "Brak odpadów stałych"
+        ],
+        "answer": "A",
+        "explanation": "W przypadku bezawaryjnej pracy, reaktory jądrowe nie emitują do atmosfery szkodliwych pyłów ani ogromnych ilości dwutlenku węgla, w przeciwieństwie do elektrowni węglowych."
+      },
+      {
+        "question": "Które państwo dysponuje największą liczbą reaktorów i produkuje najwięcej energii elektrycznej z atomu ilościowo?",
+        "options": [
+          "Republika Francuska",
+          "Stany Zjednoczone",
+          "Federacja Rosyjska",
+          "Chińska Republika"
+        ],
+        "answer": "B",
+        "explanation": "Zarówno pod względem liczby funkcjonujących reaktorów, jak i całkowitej wielkości produkowanej z nich energii, światowym liderem są Stany Zjednoczone."
+      },
+      {
+        "question": "Jaki przyrodniczy czynnik lokalizacyjny odgrywa kluczową rolę w procesie ciągłego chłodzenia reaktorów jądrowych?",
+        "options": [
+          "Bliskość kopalni rud",
+          "Dostęp do wód jezior",
+          "Tania siła robocza",
+          "Rozbudowane drogi"
+        ],
+        "answer": "B",
+        "explanation": "Elektrownie jądrowe mają niezwykle wysokie zapotrzebowanie na wodę, która jest krytyczna do systematycznego chłodzenia potężnych reaktorów."
+      },
+      {
+        "question": "Gdzie znajdowała się pierwsza planowana w Polsce elektrownia jądrowa, której budowę ostatecznie zaniechano w 1990 roku?",
+        "options": [
+          "Okolice wsi Choczewo",
+          "Jezioro Żarnowieckie",
+          "Dolina dolnej Wisły",
+          "Miejscowość Świerk"
+        ],
+        "answer": "B",
+        "explanation": "Prace nad pierwszą siłownią jądrową w Polsce rozpoczęto w 1982 roku nad Jeziorem Żarnowieckim, ale porzucono je w 1990 r. m.in. na skutek obaw po katastrofie w Czarnobylu."
+      },
+      {
+        "question": "Które zestawienie państw poprawnie wskazuje wybrane kraje posiadające największe na świecie udokumentowane złoża rud uranu?",
+        "options": [
+          "Australia oraz Kanada",
+          "Francja oraz Niemcy",
+          "Japonia oraz Chiny",
+          "Brazylia oraz Chile"
+        ],
+        "answer": "A",
+        "explanation": "Największe złoża rud uranu, jak wskazuje podręcznik, znajdują się głównie w takich krajach jak Australia, Kanada, Kazachstan oraz Rosja."
+      },
+      {
+        "question": "W jaki sposób, oprócz produkcji prądu, energetyka jądrowa pozytywnie wpływa na inne dziedziny nauki i systemy ochrony zdrowia?",
+        "options": [
+          "Produkuje radioizotopy",
+          "Zmniejsza koszty leków",
+          "Zwiększa zasoby węgla",
+          "Ogranicza emisje aut"
+        ],
+        "answer": "A",
+        "explanation": "Energetyka jądrowa stymuluje naukę oraz zajmuje się produkcją radioizotopów, które są szeroko wykorzystywane w medycynie m.in. do leczenia chorób nowotworowych."
+      },
+      {
+        "question": "Co stanowi jedną z najważniejszych ekonomicznych i logistycznych wad związanych z energetyką opartą wprost na atomie?",
+        "options": [
+          "Koszty importu gazu",
+          "Koszty utylizacji rud",
+          "Wysokie koszty budowy",
+          "Mała wydajność stacji"
+        ],
+        "answer": "C",
+        "explanation": "Poważną barierą techniczno-ekonomiczną elektrowni jądrowych są ogromne nakłady kapitałowe wymagane na ich budowę oraz późniejsze, bezpieczne zamknięcie zakładu."
+      },
+      {
+        "question": "Jak globalny kryzys energetyczny na początku lat siedemdziesiątych XX wieku wpłynął na światową energetykę jądrową?",
+        "options": [
+          "Spowolnił inwestycje",
+          "Zatrzymał wydobycie",
+          "Przyspieszył rozwój",
+          "Zmniejszył produkcję"
+        ],
+        "answer": "C",
+        "explanation": "Gwałtowny wzrost cen ropy naftowej podczas kryzysu spowodował szybki rozwój atomu, który stał się wówczas relatywnie znacznie tańszym i stabilniejszym źródłem energii."
+      },
+      {
+        "question": "Dlaczego mądra rozbudowa elektrowni jądrowych ma bardzo strategiczne znaczenie dla ogólnego bezpieczeństwa energetycznego państwa?",
+        "options": [
+          "Zmniejsza zależność od importu",
+          "Wymusza eksport gazu ziemnego",
+          "Uzależnia kraj od źródeł wiatru",
+          "Wymaga importu węgla oraz ropy"
+        ],
+        "answer": "A",
+        "explanation": "Rozwój atomu pozwala krajowi na dywersyfikację i znaczące zmniejszenie ryzykownego uzależnienia od importu zagranicznych paliw kopalnych (węgiel, ropa, gaz)."
+      },
+      {
+        "question": "Jakie są najnowsze, ujęte w oficjalnych dokumentach plany dotyczące rozwoju i budowy energetyki jądrowej w Rzeczypospolitej Polskiej?",
+        "options": [
+          "Budowa trzech dużych siłowni",
+          "Rezygnacja z wszelkich planów",
+          "Budowa dwóch siłowni do 2043",
+          "Rozbudowa reaktora badawczego"
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z informacjami z podręcznika, w Polsce planuje się uruchomienie dwóch pierwszych komercyjnych elektrowni jądrowych najpóźniej do 2043 roku."
+      },
+      {
+        "question": "Dlaczego od połowy lat 90. XX wieku procentowy udział energii z atomu w globalnej strukturze produkcji prądu elektrycznego ulega zmniejszeniu?",
+        "options": [
+          "Wyczerpały się światowe złoża uranu",
+          "Szybciej rośnie użycie gazu oraz OZE",
+          "Ceny energii z atomu ogromnie wzrosły",
+          "Państwa całkowicie zamknęły reaktory"
+        ],
+        "answer": "B",
+        "explanation": "Chociaż całkowita ilość energii wytwarzanej z reaktorów rośnie, to produkcja prądu ze spalania gazu ziemnego i dynamicznie rozwijających się OZE rośnie znacznie szybciej."
+      },
+      {
+        "question": "Z jakiego fundamentalnego powodu szerokie kampanie informacyjno-edukacyjne są absolutnie kluczowe przed budową polskiej siłowni jądrowej?",
+        "options": [
+          "By zebrać środki finansowe na start",
+          "By zminimalizować protesty społeczne",
+          "By zatrudnić ekspertów z zagranicy",
+          "By znaleźć optymalną strefę wodną"
+        ],
+        "answer": "B",
+        "explanation": "Debata edukacyjna jest konieczna do zwalczenia stereotypów i zmniejszenia obaw mieszkańców dotyczących awarii, co skutkuje ich wyraźnym poparciem dla tej wielkiej inwestycji."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Polska posiada obecnie kilka działających elektrowni jądrowych produkujących prąd dla sieci krajowej.",
+        "answer": false,
+        "explanation": "Według stanu z podręcznika w Polsce nie funkcjonuje obecnie żadna elektrownia jądrowa produkująca prąd, a ich budowa jest dopiero w fazie planowania (np. Żarnowiec, Choczewo). Działa tam jedynie eksperymentalny reaktor badawczy Maria."
+      },
+      {
+        "sentence": "Elektrownie jądrowe są jednym z głównych źródeł emisji dwutlenku węgla i tlenków siarki w sektorze energetycznym.",
+        "answer": false,
+        "explanation": "Zaletą energetyki jądrowej jest śladowa emisja zanieczyszczeń do atmosfery w przypadku bezawaryjnej pracy. Reakcje jądrowe nie emitują gazów cieplarnianych w takim stopniu jak elektrownie konwencjonalne."
+      },
+      {
+        "sentence": "Elektrownie jądrowe charakteryzują się całkowitą swobodą lokalizacji, ponieważ można je budować w miejscach pozbawionych dostępu do dużych zasobów wodnych.",
+        "answer": false,
+        "explanation": "Elektrownie jądrowe generują ogromne zapotrzebowanie na wodę, która jest niezbędna do prawidłowego i bezpiecznego chłodzenia reaktorów."
+      },
+      {
+        "sentence": "Problem szkodliwości odpadów promieniotwórczych został całkowicie rozwiązany dzięki nowoczesnym technologiom ich całkowitej neutralizacji.",
+        "answer": false,
+        "explanation": "Wysokie koszty i problem składowania długowiecznych odpadów promieniotwórczych nadal stanowią jedną z największych wad energetyki jądrowej."
+      },
+      {
+        "sentence": "Od połowy lat 90. XX wieku procentowy udział energii jądrowej w światowej strukturze produkcji energii elektrycznej systematycznie maleje.",
+        "answer": true,
+        "explanation": "Choć nominalna ilość produkowanej w elektrowniach jądrowych energii rosła, to jej udział maleje ze względu na znacznie szybszy rozwój produkcji energii z innych źródeł (OZE, gaz ziemny, węgiel)."
+      },
+      {
+        "sentence": "Francja jest państwem o największym na świecie udziale energetyki jądrowej w całkowitej produkcji energii elektrycznej, przekraczającym 70%.",
+        "answer": true,
+        "explanation": "Francja opiera swoje bezpieczeństwo energetyczne na atomie, posiadając najwyższy na świecie odsetek energii pozyskiwanej z tego źródła."
+      },
+      {
+        "sentence": "Aby wyprodukować taką samą ilość energii, należy spalić w elektrowni znacznie mniejszą masę węgla kamiennego niż wynosi masa zużytego w reaktorze uranu.",
+        "answer": false,
+        "explanation": "Uran jest niezwykle wydajnym surowcem – energia uzyskana z 1 kg tego pierwiastka równoważy spalenie około 2,5 tysiąca ton węgla."
+      },
+      {
+        "sentence": "Mimo że koszty wybudowania elektrowni jądrowej są bardzo wysokie, sam koszt późniejszego wytwarzania w niej energii elektrycznej jest niższy niż w wielu innych typach elektrowni.",
+        "answer": true,
+        "explanation": "Produkcja prądu z pierwiastków promieniotwórczych jest relatywnie tania (niskie koszty wytworzenia 1 kWh), co rekompensuje ogromne nakłady na budowę oraz późniejsze zabezpieczenia i likwidację zakładu."
+      },
+      {
+        "sentence": "Pierwsza planowana w Polsce elektrownia jądrowa w Żarnowcu została ukończona, ale zamknięto ją w 1990 roku z powodu zbyt wysokich kosztów eksploatacji.",
+        "answer": false,
+        "explanation": "Budowę Elektrowni Jądrowej Żarnowiec rozpoczęto w 1982 r., ale nigdy jej nie ukończono. Zaniechano jej w 1990 r. głównie ze względu na obawy społeczne po katastrofie w Czarnobylu."
+      },
+      {
+        "sentence": "Rozwój energetyki jądrowej przyczynia się do zwiększenia bezpieczeństwa energetycznego kraju poprzez zmniejszenie uzależnienia od importu ropy naftowej i gazu ziemnego.",
+        "answer": true,
+        "explanation": "Atom pozwala na uniezależnienie się państw od wahań cen i dostaw surowców z zagranicy spalanych w elektrowniach konwencjonalnych, stabilizując w ten sposób bezpieczeństwo energetyczne."
+      }
+    ]
+  }
+}

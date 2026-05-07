@@ -1,0 +1,328 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz6-t1",
+                     "unit":  "VI",
+                     "title":  "Wietrzenie skał",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Procesy egzogeniczne",
+                                              "definition":  "Procesy rzeźbotwórcze oddziałujące na skorupę ziemską z zewnątrz, wywoływane przez energię słoneczną, wodę, wiatr, lód i grawitację."
+                                          },
+                                          {
+                                              "term":  "Wietrzenie",
+                                              "definition":  "Proces, w którym skały rozpadają się na mniejsze fragmenty lub ulegają rozkładowi chemicznemu pod wpływem czynników atmosferycznych i organizmów."
+                                          },
+                                          {
+                                              "term":  "Zwietrzelina",
+                                              "definition":  "Produkt wietrzenia, czyli zewnętrzna część skały o przekształconych właściwościach chemicznych lub fizycznych."
+                                          },
+                                          {
+                                              "term":  "Wietrzenie mechaniczne (fizyczne)",
+                                              "definition":  "Rozpad skał na mniejsze fragmenty (od bloków po ziarna pyłu) bez zmiany ich składu chemicznego. "
+                                          },
+                                          {
+                                              "term":  "Wietrzenie insolacyjne (termiczne)",
+                                              "definition":  "Proces zachodzący wskutek zmian temperatury powierzchni skał, powodujący zmiany objętości minerałów, ich utratę spoistości i rozpad ziarnisty lub łuszczenie."
+                                          },
+                                          {
+                                              "term":  "Wietrzenie mrozowe (zamróz)",
+                                              "definition":  "Proces niszczenia skał przez wodę zamarzającą w szczelinach, która zwiększa swoją objętość i rozsadza skałę. "
+                                          },
+                                          {
+                                              "term":  "Wietrzenie ilaste",
+                                              "definition":  "Fizyczny proces rozpadu skał ilastych w wyniku ich pęcznienia i kurczenia się pod wpływem zmieniającej się wilgotności."
+                                          },
+                                          {
+                                              "term":  "Wietrzenie chemiczne",
+                                              "definition":  "Procesy rozkładu polegające na zmianie składu chemicznego skał pod wpływem wody i rozpuszczonych w niej związków chemicznych, głównie dwutlenku węgla i tlenu."
+                                          },
+                                          {
+                                              "term":  "Rozpuszczanie (solucja)",
+                                              "definition":  "Reakcja minerałów z wodą, w wyniku której tworzy się roztwór; procesowi temu łatwo ulegają np. chlorki (sól kamienna) i gips."
+                                          },
+                                          {
+                                              "term":  "Utlenianie (oksydacja)",
+                                              "definition":  "Reakcja składników mineralnych (głównie żelaza) z tlenem atmosferycznym, prowadząca do zmiany barwy minerałów lub powstania nowych."
+                                          },
+                                          {
+                                              "term":  "Uwadnianie (hydratacja)",
+                                              "definition":  "Proces przyłączania się cząsteczek wody do minerału, np. przeobrażenie hematytu w limonit oraz anhydrytu w gips."
+                                          },
+                                          {
+                                              "term":  "Uwęglanowienie (karbonatyzacja)",
+                                              "definition":  "Proces działania kwasu węglowego (powstałego z wody i CO2) na skały, prowadzący do rozpuszczania węglanów, określany mianem krasowienia. "
+                                          },
+                                          {
+                                              "term":  "Wietrzenie biologiczne",
+                                              "definition":  "Niszczenie skał przez organizmy, np. mechaniczne rozkruszanie przez korzenie roślin lub chemiczna zmiana składu przez kwasy organiczne."
+                                          },
+                                          {
+                                              "term":  "Tafoni",
+                                              "definition":  "Formy w postaci zagłębień przypominających plastry miodu, powstające na skutek wietrzenia chemicznego, np. na wybrzeżu."
+                                          },
+                                          {
+                                              "term":  "Wpływ klimatu na wietrzenie",
+                                              "definition":  "Strefowe zróżnicowanie intensywności procesów: wietrzenie fizyczne dominuje tam, gdzie temperatura oscyluje wokół 0°C lub występują duże wahania dobowe, a chemiczne tam, gdzie są wysokie opady."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Wietrzenie insolacyjne",
+                                                 "pair2":  "Eksfoliacja (łuszczenie) skał wskutek nagrzewania i stygnięcia"
+                                             },
+                                             {
+                                                 "pair1":  "Wietrzenie mrozowe",
+                                                 "pair2":  "Rozsadzanie skał przez lód zwiększający swoją objętość in szczelinach"
+                                             },
+                                             {
+                                                 "pair1":  "Wietrzenie ilaste",
+                                                 "pair2":  "Pęcznienie i kurczenie się skał pod wpływem wody"
+                                             },
+                                             {
+                                                 "pair1":  "Utlenianie",
+                                                 "pair2":  "Reakcja minerałów z tlenem, np. pirytu w siarczan żelaza"
+                                             },
+                                             {
+                                                 "pair1":  "Uwadnianie",
+                                                 "pair2":  "Przeobrażenie anhydrytu w gips poprzez przyłączenie wody"
+                                             },
+                                             {
+                                                 "pair1":  "Uwęglanowienie",
+                                                 "pair2":  "Działanie kwasu węglowego na skały węglanowe (krasowienie)"
+                                             },
+                                             {
+                                                 "pair1":  "Wietrzenie biologiczne",
+                                                 "pair2":  "Mechaniczne i chemiczne oddziaływanie zwierząt i roślin na skały"
+                                             },
+                                             {
+                                                 "pair1":  "Czynniki egzogeniczne",
+                                                 "pair2":  "Energia słoneczna, woda, wiatr, lód i grawitacja"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym jest proces wietrzenia?",
+                                      "options":  [
+                                                      "Fizycznym procesem przenoszenia materiału skalnego przez wiatr i wodę na znaczne odległości",
+                                                      "Procesem akumulacji i osadzania materiału skalnego in naturalnych obniżeniach terenu",
+                                                      "Rozpadem skał na mniejsze fragmenty lub ich rozkładem chemicznym",
+                                                      "Grawitacyjnym przemieszczaniem się ogromnych mas skalnych po nachylonym stoku"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wietrzenie to proces, w którym skały rozpadają się na mniejsze fragmenty lub ulegają rozkładowi chemicznemu pod wpływem czynników atmosferycznych i organizmów."
+                                  },
+                                  {
+                                      "question":  "Który z wymienionych czynników zaliczamy do procesów egzogenicznych kształtujących powierzchnię Ziemi?",
+                                      "options":  [
+                                                      "Gwałtowne i niszczycielskie procesy wulkaniczne",
+                                                      "Wielkoskalowe ruchy górotwórcze i tektoniczne",
+                                                      "Energia słoneczna",
+                                                      "Bardzo silne trzęsienia ziemi"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Procesy egzogeniczne wywołują czynniki takie jak energia słoneczna, woda, wiatr, lód i grawitacja."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się produkt wietrzenia, będący zewnętrzną częścią skały o przekształconych właściwościach?",
+                                      "options":  [
+                                                      "Morena",
+                                                      "Zwietrzelina",
+                                                      "Magma",
+                                                      "Lawa"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Produktem wietrzenia jest zwietrzelina, czyli zewnętrzna część skały o przekształconych właściwościach chemicznych lub fizycznych."
+                                  },
+                                  {
+                                      "question":  "W jakych warunkach klimatycznych wietrzenie termiczne (insolacyjne) zachodzi najintensywniej?",
+                                      "options":  [
+                                                      "W klimacie gorącym i wybitnie wilgotnym sprzyjającym chemicznemu rozkładowi minerałów",
+                                                      "Na obszarach o dużych dobowych wahaniach temperatury, np. na pustyniach",
+                                                      "W strefie klimatów okołobiegunowych charakteryzujących się niskimi temperaturami rocznymi",
+                                                      "Na dnie basenów oceanicznych cechującym się stabilnymi warunkami termicznymi"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wietrzenie insolacyjne jest szczególnie intensywne na obszarach z dużymi dobowymi wahaniami temperatury powietrza: na pustyniach, obszarach stepowych i w górach."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces łuszczenia (eksfoliacji)?",
+                                      "options":  [
+                                                      "Na całkowitym rozpuszczaniu struktur skał węglanowych przez agresywne wody opadowe",
+                                                      "Na oddzielaniu się od skały fragmentów o grubości od kilku milimetrów do kilkudziesięciu centymetrów",
+                                                      "Na gwałtownym pęcznieniu i zwiększaniu objętości skał ilastych pod wpływem dużej wilgotności",
+                                                      "Na mechanicznym rozpadzie skały na pojedyncze i luźne ziarna mineralne pod wpływem zmian temperatury"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Łuszczenie (eksfoliacja) polega na oddzielaniu się od skały fragmentów o grubości od kilku milimetrów do kilkudziesięciu centymetrów, co powoduje zaokrąglanie się bloków skalnych."
+                                  },
+                                  {
+                                      "question":  "Jaki jest główny mechanizm niszczenia skał podczas wietrzenia mrozowego?",
+                                      "options":  [
+                                                      "Chemiczna reakcja utleniania składników mineralnych z tlenem atmosferycznym",
+                                                      "Zwiększanie objętości zamarzającej wody in szczelinach skalnych",
+                                                      "Gwałtowne kurczenie się minerałów pod wpływem ekstremalnie wysokiej temperatury otoczenia",
+                                                      "Intensywne rozpuszczanie chlorków i siarczanów przez wodę in procesie solucji"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Woda zamarzająca in szczelinach skalnych zwiększa swoją objętość (o ok. 9%), a powstały lód rozpycha szczeliny i z czasem rozsadza skałę."
+                                  },
+                                  {
+                                      "question":  "Który rodzaj skał ulega wietrzeniu ilastemu pod wpływem zmian wilgotności?",
+                                      "options":  [
+                                                      "Skały węglanowe charakteryzujące się bardzo dużą twardością i spoistością",
+                                                      "Skały ilaste oraz skały zawierające dużą domieszkę iłu",
+                                                      "Skały magmowe głębinowe o wyraźnej strukturze krystalicznej widocznej gołym okiem",
+                                                      "Skały chlorkowe o wyjątkowo wysokiej rozpuszczalności in wodzie opadowej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wietrzeniu ilastemu, polegającemu na pęcznieniu i kurczeniu się, ulegają przede wszystkim skały ilaste oraz skały zawierające dużą domieszkę iłu."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces utleniania w ramach wietrzenia chemicznego?",
+                                      "options":  [
+                                                      "Na przyłączaniu cząsteczek wody do wewnętrznej struktury krystalicznej minerału",
+                                                      "Na reakcji składników mineralnych (głównie żelaza) z tlenem atmosferycznym",
+                                                      "Na rozpuszczaniu litych skał przez niszczące działanie słabego kwasu węglowego",
+                                                      "Na mechanicznym rozpadzie ziarnistym skały wskutek gwałtownych zmian insolacyjnych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Utlenianie polega na wchodzeniu niektórych składników mineralnych (głównie żelaza) in reakcję z tlenem atmosferycznym, co zmienia barwę minerałów."
+                                  },
+                                  {
+                                      "question":  "Przykładem którego procesu chemicznego jest przeobrażenie anhydrytu w gips?",
+                                      "options":  [
+                                                      "Karbonatyzacji",
+                                                      "Utleniania",
+                                                      "Uwadniania",
+                                                      "Rozpuszczania"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Uwadnianie polega na przyłączaniu się cząsteczek wody do minerału; przykładem jest przeobrażenie anhydrytu w gips."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób zwierzęta przyczyniają się do wietrzenia biologicznego?",
+                                      "options":  [
+                                                      "Wyłącznie poprzez wydzielanie kwasów trawiennych in bezpośrednim kontakcie ze skałą",
+                                                      "Poprzez kopanie nor i korytarzy, co sprzyja rozkruszaniu skał",
+                                                      "Poprzez drastyczne zwiększanie dobowej amplitudy temperatur powierzchniowych skał",
+                                                      "Poprzez masowy transport drobnego materiału skalnego na dno basenu oceanicznego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zwierzęta kopiące nory i korytarze lub przemieszczające się w glebie przyczyniają się do rozkruszania skał."
+                                  },
+                                  {
+                                      "question":  "Od czego zależy intensywność wietrzenia chemicznego w ujęciu strefowym?",
+                                      "options":  [
+                                                      "Głównie od częstych zmian temperatury wokół fizycznej granicy zamarzania wody",
+                                                      "Przede wszystkim od sumy opadów atmosferycznych",
+                                                      "Wyłącznie od siły wiatru i intensywności procesu deflacji eolicznej",
+                                                      "Od całkowitego i trwałego braku naturalnej pokrywy roślinnej in regionie"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Intensywność wietrzenia chemicznego zależy przede wszystkim od sumy opadów atmosferycznych, dlatego jest duża w klimatach wilgotnych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w okolicach zwrotnika Raka wietrzenie chemiczne zachodzi mniej intensywnie niż fizyczne?",
+                                      "options":  [
+                                                      "Ze względu na utrzymujące się niskie temperatury powietrza przez większość roku",
+                                                      "Ze względu na całkowity brak dostępu do wolnego tlenu atmosferycznego",
+                                                      "Ze względu na niedobór wody niezbędnej do reakcji chemicznych",
+                                                      "Ze względu na bardzo grubą i zwartą pokrywę roślinną hamującą infiltrację"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W okolicach zwrotników (obszary pustynne) intensywnie zachodzi wietrzenie fizyczne, a chemiczne jest ograniczone przez brak wody niezbędnej do reakcji."
+                                  },
+                                  {
+                                      "question":  "Jaki związek chemiczny powstaje w wyniku reakcji węglanu wapnia (CaCO3) z kwasem węglowym (H2CO3) podczas procesu krasowienia?",
+                                      "options":  [
+                                                      "Nierozpuszczalny siarczan wapnia",
+                                                      "Wodorowęglan wapnia",
+                                                      "Wytrącony tlenek żelaza",
+                                                      "Chlorek sodu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Węglan wapnia reaguje z kwasem węglowym, w rezultacie czego powstaje wodorowęglan wapnia Ca(HCO3)2, który łatwo rozpuszcza się w wodzie."
+                                  },
+                                  {
+                                      "question":  "Jaki warunek klimatyczny najbardziej sprzyja intensywnemu wietrzeniu fizycznemu (mrozowemu)?",
+                                      "options":  [
+                                                      "Stała i wysoka temperatura powietrza utrzymująca się powyżej 20°C",
+                                                      "Oscylowanie temperatury powietrza wokół 0°C",
+                                                      "Bardzo wysokie i ciągłe opady deszczu trwające przez cały rok",
+                                                      "Stała temperatura spadająca trwale poniżej -10°C bez odwilży"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na intensywność wietrzenia fizycznego wpływają głównie zmiany temperatury powietrza, a w przypadku wietrzenia mrozowego kluczowe jest oscylowanie temperatury wokół 0°C."
+                                  },
+                                  {
+                                      "question":  "Co jest bezpośrednią przyczyną rozpadu ziarnistego skał?",
+                                      "options":  [
+                                                      "Fizyczne rozpuszczanie spoiwa mineralnego przez infiltrującą wodę",
+                                                      "Nierównomierne nagrzewanie się minerałów o różnych barwach i rozmiarach",
+                                                      "Mechaniczne działanie korzeni drzew gwałtownie rozsadzających strukturę skały",
+                                                      "Uderzanie ziaren piasku niesionych przez silny i porywisty wiatr"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skały zbudowane z minerałów o różnych rozmiarach i barwach nagrzewają się nierównomiernie, co prowadzi do utraty spoistości i rozpadu ziarnistego."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Wietrzenie to proces, w którym skały rozpadają się na mniejsze fragmenty lub ulegają rozkładowi pod wpływem czynników zewnętrznych.",
+                                           "answer":  true,
+                                           "explanation":  "Zgodnie z definicją wietrzenie to rozpad skał na mniejsze fragmenty lub ich rozkład chemiczny wywołany przez czynniki atmosferyczne i organizmy."
+                                       },
+                                       {
+                                           "sentence":  "Wietrzenie chemiczne polega na mechanicznym rozpadzie skał bez zmiany ich składu chemicznego.",
+                                           "answer":  false,
+                                           "explanation":  "Wietrzenie chemiczne polega na zmianie składu chemicznego skał, natomiast mechaniczny rozpad bez zmiany składu to wietrzenie fizyczne."
+                                       },
+                                       {
+                                           "sentence":  "Wietrzenie insolacyjne zachodzi najintensywniej w strefie klimatów okołopolarnych.",
+                                           "answer":  false,
+                                           "explanation":  "Wietrzenie insolacyjne jest szczególnie intensywne na obszarach z dużymi dobowymi wahaniami temperatury, takich jak pustynie."
+                                       },
+                                       {
+                                           "sentence":  "Woda zamarzając w szczelinach skalnych, zmniejsza swoją objętość, co powoduje kruszenie skał.",
+                                           "answer":  false,
+                                           "explanation":  "Woda zamarzająca w szczelinach skalnych zwiększa swoją objętość o około 9%, co powoduje rozpychanie szczelin i rozsadzanie skały."
+                                       },
+                                       {
+                                           "sentence":  "Proces łuszczenia się skał, zwany eksfoliacją, jest charakterystyczny dla wietrzenia termicznego.",
+                                           "answer":  true,
+                                           "explanation":  "Łuszczenie (eksfoliacja) to proces oddzielania się fragmentów skalnych, który zachodzi wskutek zmian termicznych nagrzewanej powierzchni skały."
+                                       },
+                                       {
+                                           "sentence":  "Zwietrzelina to zawsze lity blok skalny, który nie uległ żadnym przemianom.",
+                                           "answer":  false,
+                                           "explanation":  "Zwietrzelina to produkt wietrzenia, czyli zewnętrzna część skały przekształcona pod względem chemicznym lub fizycznym."
+                                       },
+                                       {
+                                           "sentence":  "Wietrzenie ilaste polega na pęcznieniu i kurczeniu się skał pod wpływem zmian wilgotności.",
+                                           "answer":  true,
+                                           "explanation":  "Wietrzenie ilaste zachodzi, gdy skały ilaste zwiększają objętość po wchłonięciu wody i kurczą się podczas wysychania, co prowadzi do ich rozpadu."
+                                       },
+                                       {
+                                           "sentence":  "Na intensywność wietrzenia chemicznego wpływa przede wszystkim suma opadów atmosferycznych.",
+                                           "answer":  true,
+                                           "explanation":  "Intensywność wietrzenia chemicznego zależy w dużym stopniu od dostępności wody, czyli sumy opadów atmosferycznych."
+                                       },
+                                       {
+                                           "sentence":  "Zwierzęta kopiące nory oraz korzenie roślin nie mają żadnego wpływu na procesy wietrzenia skał.",
+                                           "answer":  false,
+                                           "explanation":  "Organizmy, w tym zwierzęta ryjące i korzenie roślin, wpływają na fizyczne i chemiczne właściwości skał, przyczyniając się do wietrzenia biologicznego."
+                                       },
+                                       {
+                                           "sentence":  "Krasowienie to proces rozpuszczania skał, takich jak wapienie, przez wodę zawierającą dwutlenek węgla.",
+                                           "answer":  true,
+                                           "explanation":  "Krasowienie polega na rozpuszczaniu skał (głównie węglanowych) przez wodę z zawartością dwutlenku węgla."
+                                       }
+                                   ]
+                 }
+}

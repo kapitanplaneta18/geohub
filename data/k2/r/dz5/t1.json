@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t1",
+    "title": "Czynniki lokalizacji przemysłu",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Czynniki lokalizacji przemysłu",
+        "definition": "Warunki i motywy, które w pozytywny lub negatywny sposób oddziałują na funkcjonowanie zakładu przemysłowego w danym miejscu."
+      },
+      {
+        "term": "Czynniki przyrodnicze",
+        "definition": "Grupa czynników, do których należą m.in. baza surowcowa, dostęp do wody i jej duże zasoby, czynniki ekologiczne, właściwości terenu oraz warunki klimatyczne."
+      },
+      {
+        "term": "Czynniki techniczno-ekonomiczne",
+        "definition": "Grupa pozaprzyrodniczych czynników obejmująca m.in. rynek zbytu, zasoby pracy i kapitał ludzki, zaplecze naukowo-badawcze, bazę energetyczną oraz infrastrukturę techniczną."
+      },
+      {
+        "term": "Czynniki społeczno-polityczne",
+        "definition": "Grupa pozaprzyrodniczych czynników obejmująca m.in. politykę państwa, infrastrukturę społeczną, czynniki strategiczne oraz behawioralne."
+      },
+      {
+        "term": "Lokalizacja przymusowa",
+        "definition": "Lokalizowanie zakładów wykorzystujących określony surowiec mineralny w miejscu jego występowania ze względu na bardzo silne uzależnienie od bazy surowcowej."
+      },
+      {
+        "term": "Lokalizacja związana",
+        "definition": "Lokalizowanie zakładów w pobliżu miejsca występowania surowca, którego transport na większe odległości jest nieopłacalny."
+      },
+      {
+        "term": "Lokalizacja swobodna",
+        "definition": "Lokalizowanie zakładów zużywających niewielkie ilości surowców lub wykorzystujących najnowsze technologie, które są niezależne od miejsca występowania surowców."
+      },
+      {
+        "term": "Korzyści aglomeracji",
+        "definition": "Atuty wynikające z położenia na obszarze zurbanizowanym, np. niższe koszty produkcji i inwestycji, dostęp do infrastruktury oraz wysoko kwalifikowanych pracowników."
+      },
+      {
+        "term": "Niekorzyści aglomeracji",
+        "definition": "Negatywne skutki nadmiernej koncentracji przemysłu, np. przeludnienie, zanieczyszczenie środowiska, wysokie ceny ziemi i obciążenie infrastruktury."
+      },
+      {
+        "term": "Deglomeracja przemysłu",
+        "definition": "Proces przenoszenia zakładów z terenów zurbanizowanych na obszary wiejskie, mający na celu ograniczenie niekorzyści aglomeracji."
+      },
+      {
+        "term": "Behawioralne czynniki lokalizacji",
+        "definition": "Indywidualne preferencje inwestorów związane m.in. z narodowością, kulturą, odczuciami estetycznymi czy poczuciem bezpieczeństwa."
+      },
+      {
+        "term": "Twarde czynniki lokalizacji",
+        "definition": "Czynniki dobrze mierzalne, które wywierają bezpośredni wpływ na działalność przedsiębiorstwa, np. wysokość podatków, wielkość rynku zbytu i koszty pracy."
+      },
+      {
+        "term": "Miękkie czynniki lokalizacji",
+        "definition": "Czynniki trudne do zmierzenia, których wpływ jest pośredni, np. gospodarczy wizerunek miejsca, mentalność mieszkańców i oferta kulturalna."
+      },
+      {
+        "term": "Baza surowcowa",
+        "definition": "Jeden z kluczowych czynników przyrodniczych, składający się z surowców mineralnych, produktów rolnych, drewna oraz półproduktów przeznaczonych do dalszej przeróbki."
+      },
+      {
+        "term": "Zmiana roli czynników lokalizacji",
+        "definition": "Zjawisko polegające na tym, że wraz z rozwojem cywilizacyjnym rośnie rola czynników techniczno-ekonomicznych i społecznych, a maleje znaczenie czynników przyrodniczych."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Baza surowcowa, dostęp do wody, warunki klimatyczne",
+        "pair2": "Czynniki przyrodnicze"
+      },
+      {
+        "pair1": "Rynek zbytu, kapitał ludzki, zaplecze naukowo-badawcze",
+        "pair2": "Czynniki techniczno-ekonomiczne"
+      },
+      {
+        "pair1": "Polityka państwa, infrastruktura społeczna, preferencje inwestorów",
+        "pair2": "Czynniki społeczno-polityczne"
+      },
+      {
+        "pair1": "Kopalnia węgla kamiennego, szyby naftowe",
+        "pair2": "Lokalizacja przymusowa"
+      },
+      {
+        "pair1": "Elektrownia na węgiel brunatny, cukrownia, mleczarnia",
+        "pair2": "Lokalizacja związana"
+      },
+      {
+        "pair1": "Piekarnia, zakład odzieżowy, fabryka samochodów",
+        "pair2": "Lokalizacja swobodna"
+      },
+      {
+        "pair1": "Wysokość podatków, czynszów dzierżawnych i koszty zasobów pracy",
+        "pair2": "Twarde czynniki lokalizacji"
+      },
+      {
+        "pair1": "Atrakcyjność inwestycyjna, mentalność mieszkańców, oferta kulturalna",
+        "pair2": "Miękkie czynniki lokalizacji"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Który z wymienionych poniżej czynników jest klasyfikowany przez geografów wyłącznie jako czynnik przyrodniczy lokalizacji przemysłu?",
+        "options": [
+          "Dostępność i właściwości zasobów wody",
+          "Występowanie lokalnych rynków zbytu",
+          "Istnienie bogatej infrastruktury społecznej",
+          "Funkcjonowanie zaplecza naukowo-badawczego"
+        ],
+        "answer": "A",
+        "explanation": "Zgodnie z podręcznikiem dostęp do wody to kluczowy czynnik przyrodniczy, natomiast pozostałe wymienione należą do grupy czynników techniczno-ekonomicznych lub społeczno-politycznych."
+      },
+      {
+        "question": "Czym w geografii przemysłu charakteryzuje się tzw. lokalizacja przymusowa zakładów na powierzchni ziemi?",
+        "options": [
+          "Dotyczy fabryk zużywających minimalne ilości surowców, bazujących na ultranowoczesnych technologiach",
+          "Obejmuje zakłady wydobywające konkretny surowiec mineralny dokładnie w miejscu ułożenia jego złóż",
+          "Wymaga szybkiej budowy fabryk zaraz obok chłonnego rynku zbytu na produkty o bardzo krótkiej dacie",
+          "Polega na masowym sytuowaniu firm bardzo blisko wiodących ośrodków naukowych oraz uczelni wyższych"
+        ],
+        "answer": "B",
+        "explanation": "Lokalizacja przymusowa (np. kopalnie, szyby naftowe) bezwzględnie wymusza wznoszenie zakładu w fizycznym miejscu występowania pożądanego surowca."
+      },
+      {
+        "question": "W jakiej konkretnie sytuacji współczesny inwestor decyduje się na zastosowanie modelu lokalizacji całkowicie swobodnej?",
+        "options": [
+          "Gdy ciągły przewóz naturalnych surowców z odległych rejonów staje się skrajnie nieopłacalny dla firmy",
+          "Kiedy zakłady zużywają nieznaczną ilość surowców lub całkowicie polegają na najnowszych technologiach",
+          "Jeśli zmuszają do tego bezwzględne lokalne władze ze względu na narastające bariery czysto ekologiczne",
+          "Zawsze w sytuacji tworzenia bardzo uciążliwych dla mieszkańców wielkich stref gospodarki stymulowanej"
+        ],
+        "answer": "B",
+        "explanation": "Lokalizacja swobodna charakteryzuje zakłady, które dzięki miniaturyzacji lub najnowszym technologiom całkowicie uniezależniły się od lokalizacji bazy surowcowej."
+      },
+      {
+        "question": "Który z poniższych zestawów gromadzi w sobie wyłącznie społeczno-polityczne czynniki oddziałujące na lokalizację przemysłu?",
+        "options": [
+          "Aktywna polityka podatkowa państwa, infrastruktura społeczna i osobiste preferencje decydentów",
+          "Potężne zasoby taniej pracy, ogromna baza energetyczna, zaplecze badawcze i szybki transport",
+          "Niezwykle bogata baza surowcowa, wyjątkowo dogodne walory klimatyczne oraz właściwości gęstego gruntu",
+          "Całkowita, zmierzona wielkość regionalnego rynku zbytu, kapitał ludzki oraz stały wskaźnik czystości powietrza"
+        ],
+        "answer": "A",
+        "explanation": "Do grupy czynników społeczno-politycznych podręcznik zalicza m.in. politykę państwa, infrastrukturę społeczną, czynniki strategiczne oraz behawioralne."
+      },
+      {
+        "question": "Dla których z niżej wymienionych zakładów wytwórczych fizyczna odległość od bazy surowcowej ma najmniejsze znaczenie strategiczne?",
+        "options": [
+          "Wielkie kopalnie odkrywkowe węgla brunatnego",
+          "Lokalne piekarnie oraz nowe fabryki samochodów",
+          "Przetwórcze cukrownie i bardzo duże mleczarnie",
+          "Wyjątkowo duże huty toksycznych metali nieżelaznych"
+        ],
+        "answer": "B",
+        "explanation": "Piekarnie (szybki transport dóbr nietrwałych) i fabryki samochodów (logistyka podzespołów) stosują lokalizację swobodną, uzależnioną od zasobów ludzkich lub samych konsumentów."
+      },
+      {
+        "question": "Dlaczego olbrzymie elektrownie zasilane węglem brunatnym są typowym przykładem lokalizacji związanej z bazą surowcową?",
+        "options": [
+          "Ponieważ surowiec ten jest bardzo kruchy i mało kaloryczny, przez co jego transport po prostu drogo kosztuje",
+          "Gdyż tego typu obiekty bezwzględnie wymagają lokalizacji obok chłonnych rynków pełnych potencjalnych klientów",
+          "Z uwagi na konieczność stawiania wielkich elektrowni bezpośrednio nad podziemnym ujęciem zimnych wód i gazów",
+          "Dlatego że ich istnienie i stały zysk w pełni zależą od obecności potężnych skupisk wykwalifikowanej ludności"
+        ],
+        "answer": "A",
+        "explanation": "Węgiel brunatny traci sens ekonomiczny podczas przewozu na duże odległości (niska wartość opałowa, duża zawartość wody), co zmusza do wznoszenia elektrowni tuż obok kopalni."
+      },
+      {
+        "question": "Dla zakładów odzieżowych oraz zautomatyzowanych piekarń masowo produkujących świeżą żywność kluczowym czynnikiem decyzyjnym jest:",
+        "options": [
+          "Zdecydowanie powszechniejsza możliwość korzystania z bardzo rzadkich surowców naturalnych w przyrodzie",
+          "Stała obecność wyjątkowo rozbudowanego nowoczesnego zaplecza naukowego oraz analitycznego dla inżynierów",
+          "Bezpośrednia i bliska odległość od wielkich, tanich oraz mocno zanieczyszczających węglem źródeł energii",
+          "Bezpośrednie i bardzo bliskie sąsiedztwo pojemnego, stosunkowo dużego oraz bardzo chłonnego rynku zbytu"
+        ],
+        "answer": "D",
+        "explanation": "W przypadku żywności krótkoterminowej oraz ubrań nastawionych na konkretne gusta odbiorców najistotniejszym motorem rozwoju jest nieustanna, bezpośrednia styczność z kupującym."
+      },
+      {
+        "question": "Kapitał ludzki to istotny czynnik techniczno-ekonomiczny. Które cechy najbardziej oddają jego aktualne znaczenie dla postępu w przemyśle?",
+        "options": [
+          "Czynnik wynikający wprost z bezwzględnych przepisów prawa i zróżnicowanych państwowych dotacji dla korporacji",
+          "Jest to parametr cechujący się wysokimi kwalifikacjami, długim doświadczeniem oraz innowacyjnością pracowników",
+          "Zjawisko oparte głównie na potężnej masie osób zatrudnianych do podstawowej pracy fizycznej za skrajnie niskie kwoty",
+          "Oznacza ukryte preferencje behawioralne światowych inwestorów dotyczące piękna środowiska czy też oferty danej gminy"
+        ],
+        "answer": "B",
+        "explanation": "Z pojęciem kapitału ludzkiego utożsamia się w geografii edukację, wiedzę ekspercką, elastyczność i kompetencje zespołu, a nie samą ilość pracowników masowych."
+      },
+      {
+        "question": "W przypadku którego z poniższych procesów wytwórczych gwarancja ciągłego dostępu do bazy energetycznej to najważniejszy wyznacznik zysku?",
+        "options": [
+          "Nowoczesne przetwórstwo owoców morza i ryb głębinowych",
+          "Masowe i zautomatyzowane wytwarzanie solidnych mebli",
+          "Złożona rynkowo produkcja hutnicza metali nieżelaznych",
+          "Półprzewodnikowy montaż urządzeń wyjątkowo precyzyjnych"
+        ],
+        "answer": "C",
+        "explanation": "Wytop i zaawansowana obróbka cieplna, jak ma to miejsce przy hutnictwie aluminium (metal nieżelazny), wymaga astronomicznych pokładów energii elektrycznej."
+      },
+      {
+        "question": "Przestrzenna deglomeracja przemysłu to globalne zjawisko gospodarcze, którego pierwszorzędnym celem jest współcześnie zazwyczaj:",
+        "options": [
+          "Wykorzystanie nagromadzonych wielkich zasobów wysoce wykwalifikowanej siły roboczej w centrach miast",
+          "Znaczna rozbudowa nowych instytutów badawczych zacieśniających współpracę z okręgami przemysłowymi",
+          "Potężne zwiększenie natężenia silnej koncentracji innowacyjnych zakładów produkcyjnych celem zdobycia dotacji",
+          "Skuteczne ograniczenie niekorzyści aglomeracji poprzez przenoszenie starych fabryk na wolne tereny wsi"
+        ],
+        "answer": "D",
+        "explanation": "Wielkie korporacje przenoszą swoje obiekty z zatłoczonych centrów na obszary słabo zaludnione, aby zaoszczędzić na podatkach i gruncie oraz obniżyć poziom skażenia rdzenia metropolii."
+      },
+      {
+        "question": "Twarde i miękkie czynniki lokalizacji to innowacyjny podział stosowany we współczesnej geografii. Który element jest traktowany jako czynnik miękki?",
+        "options": [
+          "Podaż kluczowych zasobów pracy oraz łatwe do precyzyjnego policzenia rygorystyczne obciążenia podatkowe",
+          "Dokładnie, wielokrotnie skalkulowana wysokość stale opłacanych rynkowych czynszów za dzierżawę i budynki",
+          "Pojemny i wyjątkowo gęsty rynek zbytu na nowatorskie artykuły przemysłowe sprzedawane w dużej aglomeracji",
+          "Atrakcyjny gospodarczy wizerunek danego regionu oraz historyczna mentalność zrzeszonych w nim mieszkańców"
+        ],
+        "answer": "D",
+        "explanation": "Miękkie czynniki lokalizacyjne to aspekty niezmiernie trudne do ścisłego przeliczenia na waluty – wizerunek, gościnność, prestiż miasta czy szeroka jakość infrastruktury kulturalnej."
+      },
+      {
+        "question": "Jak znacząco ewoluują najważniejsze czynniki lokalizacji dla przemysłu high-tech podczas przechodzenia firmy do kolejnych faz cyklu rynkowego?",
+        "options": [
+          "W początkowym okresie innowacji dominuje transport, a dla masowej produkcji liczy się rzetelny marketing",
+          "W fazie tworzenia innowacji liczy się wiedza i kapitał, a w toku masowej produkcji wiodą tanie koszty pracy",
+          "Na początku istotna jest subwencja pochodząca od władzy rządu, a przy finiszu przoduje potężna kanalizacja",
+          "W etapie projektowym kluczem staje się energia ze słońca, a w stadium kompletowania rzadka i droga platyna"
+        ],
+        "answer": "B",
+        "explanation": "Początkowy wysiłek badawczy potrzebuje potężnego kapitału i geniuszu akademickiego (faza innowacji). Późniejsze składanie podzespołów w całość szuka taniej siły roboczej, np. w Azji (produkcja)."
+      },
+      {
+        "question": "W oparciu o treść podręcznika, subpolarne miasto Norylsk stanowi absolutnie unikalny przypadek decyzyjny. O jego wielkim rozkwicie zadecydował wyłącznie:",
+        "options": [
+          "Ogromny i bardzo bogaty rynek zbytu na nowoczesne maszyny i lodołamacze wyrębujące bezkresną, zimną tajgę",
+          "Czysto behawioralne uwarunkowania polegające na ambicji udowodnienia wielkości narodu w skrajnych mrozach",
+          "Przyrodniczy i wyizolowany czynnik bazujący jedynie na obfitym występowaniu rzadkich minerałów, jak iryd",
+          "Skomulowany i doskonały pod względem jakości kapitał ludzki wspomagany przez międzynarodowy węzeł kolejowy"
+        ],
+        "answer": "C",
+        "explanation": "Mimo skrajnie niekorzystnego klimatu i zablokowanej infrastruktury osada przetrwała, opierając byt jedynie na astronomicznie drogich, bardzo rzadkich metalach jak platyna czy kobalt."
+      },
+      {
+        "question": "Wybór krakowskich żyznych pól jako tła dla głośnej inwestycji zwanej Hutą im. Lenina stanowił klasyczny dla historii Polski dowód wiodącego wpływu:",
+        "options": [
+          "Wymogów ekologicznych, wymuszających na radzie miejskiej budowę nowoczesnych filtrów w kominach krakowskich",
+          "Twardych uwarunkowań ekonomicznych, gwarantujących bezbłędny transport gotowych wyrobów przez wielkie porty",
+          "Dawnych ideologii polityczno-społecznych, ukierunkowanych na narzucenie miastu typowego charakteru robotniczego",
+          "Szczegółowych względów czysto religijnych, zakładających postępującą laicyzację dawnej stolicy potężnego państwa"
+        ],
+        "answer": "C",
+        "explanation": "Sztuczne wtłoczenie przemysłu ciężkiego na pola wokół tradycyjnie inteligenckiego miasta podyktowane było rządową inżynierią społeczną, nie rachunkiem rynkowym."
+      },
+      {
+        "question": "Wraz z przyspieszonym rozwojem cywilizacyjnym znaczenie poszczególnych dawnych determinant lokalizacyjnych ulega wyraźnej rewolucji. Jaki trend obserwujemy dziś?",
+        "options": [
+          "Sukcesywnie powiększa się bezwzględne znaczenie wód morskich, podczas gdy diametralnie maleje wartość pracy",
+          "Coraz mocniej uwypukla się potęga surowcowa wszystkich państw w związku ze skrajnie szybkim topnieniem lodowców",
+          "Wzrasta siła czynników uwarunkowań społecznych i kapitału w korelacji z powolnym spadkiem roli samej przyrody",
+          "Dominujący wpływ szeroko ujętych rąk do prostej pracy zostaje wyparty na rzecz uwarunkowań globalnego ocieplenia"
+        ],
+        "answer": "C",
+        "explanation": "Obecnie coraz wyższa efektywność maszyn zwalnia przemysł od tyranii surowców i uwarunkowań fizjograficznych faworyzując m.in. wsparcie polityczne, naukę oraz zasoby inżynieryjne."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Zasoby kapitału ludzkiego (odpowiednio wykwalifikowani pracownicy) zaliczają się do grupy przyrodniczych czynników lokalizacji przemysłu.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem kapitał ludzki to czynnik techniczno-ekonomiczny (pozaprzyrodniczy), a nie przyrodniczy."
+      },
+      {
+        "sentence": "Elektrownie cieplne opalane węglem brunatnym charakteryzują się lokalizacją swobodną, ponieważ węgiel ten łatwo przetransportować w dowolne miejsce.",
+        "answer": false,
+        "explanation": "Węgiel brunatny ma małą kaloryczność, dużą zawartość wody i jest kruchy, co czyni jego transport na odległość nieopłacalnym. Wymusza to tzw. lokalizację związaną w pobliżu miejsca wydobycia."
+      },
+      {
+        "sentence": "Współcześnie rola bazy surowcowej jako czynnika lokalizacji nieustannie rośnie w stosunku do wiedzy i kapitału.",
+        "answer": false,
+        "explanation": "Wraz z rozwojem cywilizacyjnym znaczenie bazy surowcowej systematycznie maleje, podczas gdy rola czynników techniczno-ekonomicznych (wiedzy, kapitału ludzkiego) i społecznych nieustannie rośnie."
+      },
+      {
+        "sentence": "W procesie lokalizacji zakładów przemysłu high-tech, takich jak zakłady farmaceutyczne czy elektroniczne, czynniki ekologiczne mogą sprzyjać wyborowi miejsc o szczególnych walorach przyrodniczych i czystym powietrzu.",
+        "answer": true,
+        "explanation": "Podręcznik wskazuje, że obszary o czystym powietrzu i nieskażonym krajobrazie (walory ekologiczne) bardzo często przyciągają inwestorów z branży zaawansowanych technologii."
+      },
+      {
+        "sentence": "Deglomeracja przemysłu to proces koncentrowania zakładów na silnie zurbanizowanych obszarach w celu osiągnięcia korzyści skali z lokalnego rynku zbytu.",
+        "answer": false,
+        "explanation": "Deglomeracja jest zjawiskiem odwrotnym – to proces przenoszenia zakładów z terenów zurbanizowanych na obszary wiejskie, aby uniknąć niekorzyści aglomeracji (np. wysokich cen ziemi czy przeludnienia)."
+      },
+      {
+        "sentence": "Zgodnie ze współczesnym podziałem, wielkość rynku zbytu i wysokość podatków zalicza się do twardych czynników lokalizacji, ponieważ wywierają one bezpośredni i dobrze mierzalny wpływ na działalność przedsiębiorstwa.",
+        "answer": true,
+        "explanation": "Twarde czynniki są mierzalne liczbowo i wywierają bezpośredni wpływ na rentowność. Zalicza się do nich podatki, czynsze, koszty pracy czy pojemność rynku zbytu."
+      },
+      {
+        "sentence": "Kopalnie wydobywające określony surowiec mineralny (np. szyby naftowe) są typowym przykładem lokalizacji przymusowej, gdyż muszą powstać dokładnie w miejscu zalegania złoża.",
+        "answer": true,
+        "explanation": "Zakłady, których jedyną racją bytu jest wydobycie konkretnego surowca, stosują lokalizację przymusową (zawsze w miejscu jego fizycznego występowania)."
+      },
+      {
+        "sentence": "Atrakcyjność gospodarcza regionu, oferta kulturalna oraz mentalność mieszkańców to przykłady behawioralnych (miękkich) czynników lokalizacji, których wpływ na przedsiębiorstwo jest trudny do bezpośredniego zmierzenia.",
+        "answer": true,
+        "explanation": "Czynniki miękkie (behawioralne) opierają się na osobistych preferencjach i ocenach inwestorów. Są trudne do ścisłego skalkulowania finansowego, ale odgrywają dziś coraz większą rolę."
+      },
+      {
+        "sentence": "Zakłady przemysłu tradycyjnego, np. produkujące świeże pieczywo w zautomatyzowanych piekarniach, charakteryzują się zazwyczaj lokalizacją przymusową względem wielkich upraw zbóż.",
+        "answer": false,
+        "explanation": "Piekarnie produkują wyroby szybko psujące się (dobra nietrwałe), więc kluczowym czynnikiem jest bliskość rynku zbytu, co oznacza lokalizację swobodną względem surowców rolnych, a nie przymusową."
+      },
+      {
+        "sentence": "Korzyści aglomeracji obejmują między innymi drastyczny spadek cen gruntów inwestycyjnych i obniżenie czynszów wskutek silnej koncentracji przemysłu na danym terenie.",
+        "answer": false,
+        "explanation": "Zbyt silna koncentracja wywołuje zjawisko odwrotne: drastyczny wzrost cen ziemi i czynszów inwestycyjnych. Zaliczane jest to do grupy negatywnych zjawisk, tzw. niekorzyści aglomeracji."
+      },
+      {
+        "sentence": "Faza masowej produkcji w przemyśle high-tech zazwyczaj lokalizowana jest blisko ośrodków naukowo-badawczych i wielkich uniwersytetów, aby na bieżąco korygować proces wytwórczy.",
+        "answer": false,
+        "explanation": "Bliskość uniwersytetów jest kluczowa tylko w fazie innowacji (badania). W fazie produkcji masowej o lokalizacji decydują tanie koszty siły roboczej, często w krajach słabiej rozwiniętych."
+      },
+      {
+        "sentence": "Postęp technologiczny wpłynął na spadek uzależnienia zakładów przemysłowych od bazy surowcowej, między innymi dzięki miniaturyzacji wyrobów oraz wprowadzaniu obiegów zamkniętych wody.",
+        "answer": true,
+        "explanation": "Rozwój cywilizacyjny uniezależnia przemysł od przyrody dzięki energooszczędności, recyklingowi (obiegom zamkniętym wody) i miniaturyzacji, zmniejszającym zapotrzebowanie na surowce pierwotne."
+      }
+    ]
+  }
+}

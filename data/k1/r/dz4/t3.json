@@ -1,0 +1,358 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz4-t3",
+                     "unit":  "IV",
+                     "title":  "Sieć rzeczna",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Rzeka główna",
+                                              "definition":  "Rzeka, która uchodzi bezpośrednio do morza lub innego zbiornika wodnego."
+                                          },
+                                          {
+                                              "term":  "System rzeczny",
+                                              "definition":  "Rzeka główna wraz ze swoimi dopływami."
+                                          },
+                                          {
+                                              "term":  "Dorzecze",
+                                              "definition":  "Obszar odwadniany przez system rzeczny, czyli rzekę główną i jej dopływy."
+                                          },
+                                          {
+                                              "term":  "Zlewisko",
+                                              "definition":  "Obszar składający się ze wszystkich dorzeczy, z których wody spływają do jednego morza lub oceanu."
+                                          },
+                                          {
+                                              "term":  "Dział wodny (wododział)",
+                                              "definition":  "Granica między dwoma sąsiadującymi ze sobą dorzeczami lub zlewiskami."
+                                          },
+                                          {
+                                              "term":  "Obszar bezodpływowy",
+                                              "definition":  "Obszar, z którego wody nie są odprowadzane do morza lub oceanu."
+                                          },
+                                          {
+                                              "term":  "Rzeki stałe",
+                                              "definition":  "Rzeki zasilane w sposób ciągły i prowadzące wodę w korycie przez cały rok, występujące tam, gdzie opady przewyższają parowanie."
+                                          },
+                                          {
+                                              "term":  "Rzeki okresowe (periodyczne)",
+                                              "definition":  "Rzeki prowadzące wodę regularnie, ale tylko w porze deszczowej, w klimatach z wyraźną porą suchą i deszczową."
+                                          },
+                                          {
+                                              "term":  "Rzeki epizodyczne",
+                                              "definition":  "Rzeki prowadzące wodę tylko po sporadycznych opadach deszczu w klimacie zwrotnikowym suchym (np. wadi)."
+                                          },
+                                          {
+                                              "term":  "Ustrój rzeczny (reżim)",
+                                              "definition":  "Ustalony na podstawie wieloletnich obserwacji rytm zmian przepływów rzeki oraz stanów wody, związany z rodzajem zasilania i zlodzeniem."
+                                          },
+                                          {
+                                              "term":  "Przepływ",
+                                              "definition":  "Ilość wody przepływającej przez przekrój poprzeczny koryta w jednostce czasu, podawana np. w m³/s."
+                                          },
+                                          {
+                                              "term":  "Stan wody",
+                                              "definition":  "Wysokość zwierciadła wody w korycie rzeki względem umownie przyjętego poziomu odniesienia."
+                                          },
+                                          {
+                                              "term":  "Ustrój deszczowy równikowy",
+                                              "definition":  "Charakteryzuje się wysokimi przepływami przez cały rok i niewielkimi różnicami; przykłady: Kongo, Amazonka."
+                                          },
+                                          {
+                                              "term":  "Ustrój deszczowy monsunowy",
+                                              "definition":  "Wysokie przepływy występują w czasie monsunu letniego, a niskie zimą; przykłady: Ganges, Jangcy."
+                                          },
+                                          {
+                                              "term":  "Ustrój deszczowy śródziemnomorski",
+                                              "definition":  "Wyższe przepływy zimą (opady), a latem niewielkie z powodu parowania; przykłady: Ebro, Tyber."
+                                          },
+                                          {
+                                              "term":  "Ustrój śnieżny",
+                                              "definition":  "Kulminacja przepływów następuje wiosną w związku z topnieniem pokrywy śnieżnej; przykłady: Ob, Jenisej, Jukon."
+                                          },
+                                          {
+                                              "term":  "Ustrój lodowcowy",
+                                              "definition":  "Najwyższe przepływy występują latem podczas intensywnego topnienia lodowców; przykłady: Inn, Amu-daria."
+                                          },
+                                          {
+                                              "term":  "Ustrój złożony",
+                                              "definition":  "Rzeki zasilane z kilku źródeł, np. śnieżno-deszczowe z maksimami wiosną i latem; przykłady: Wisła, Odra."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Zlewnia",
+                                                 "pair2":  "Mniejszy obszar odwadniany przez poszczególne dopływy"
+                                             },
+                                             {
+                                                 "pair1":  "Wezbranie",
+                                                 "pair2":  "Wysoki stan wody w rzece"
+                                             },
+                                             {
+                                                 "pair1":  "Niżówka",
+                                                 "pair2":  "Niski stan wody w rzece"
+                                             },
+                                             {
+                                                 "pair1":  "Rzeka epizodyczna",
+                                                 "pair2":  "Płynie tylko po gwałtownych deszczach, np. wadi,"
+                                             },
+                                             {
+                                                 "pair1":  "Rzeka okresowa",
+                                                 "pair2":  "Prowadzi wodę regularnie, ale tylko w porze deszczowej"
+                                             },
+                                             {
+                                                 "pair1":  "Amazonka",
+                                                 "pair2":  "Ustrój deszczowy równikowy"
+                                             },
+                                             {
+                                                 "pair1":  "Sekwana",
+                                                 "pair2":  "Ustrój deszczowy oceaniczny"
+                                             },
+                                             {
+                                                 "pair1":  "Ganges",
+                                                 "pair2":  "Ustrój deszczowy monsunowy"
+                                             },
+                                             {
+                                                 "pair1":  "Mackenzie",
+                                                 "pair2":  "Ustrój śnieżny"
+                                             },
+                                             {
+                                                 "pair1":  "Rzeka z Lodowca Werenskiolda",
+                                                 "pair2":  "Ustrój lodowcowy"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Obszar lądowy, z którego wszystkie wody powierzchniowe spływają do jednego morza lub oceanu, nosi nazwę:",
+                                      "options":  [
+                                                      "Dorzecza",
+                                                      "Zlewiska",
+                                                      "Zlewni",
+                                                      "Działu wodnego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wszystkie dorzecza, z których wody spływają do jednego morza, składają się na jego zlewisko."
+                                  },
+                                  {
+                                      "question":  "Jak nazywamy rzekę, która uchodzi bezpośrednio do morza lub oceanu?",
+                                      "options":  [
+                                                      "Dopływ I rzędu",
+                                                      "Rzeka główna",
+                                                      "Potok",
+                                                      "Strumień"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy rzeka uchodzi bezpośrednio do morza lub innego zbiornika wodnego, jest określana mianem rzeki głównej."
+                                  },
+                                  {
+                                      "question":  "Granica oddzielająca od siebie dwa sąsiadujące dorzecza lub zlewiska to:",
+                                      "options":  [
+                                                      "Dział wodny (wododział)",
+                                                      "System rzeczny",
+                                                      "Baza erozyjna",
+                                                      "Pradolina"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Granicę między dwoma sąsiadującymi ze sobą dorzeczami lub zlewiskami stanowi dział wodny (inaczej wododział)."
+                                  },
+                                  {
+                                      "question":  "Znajdujesz się na pustyni Namib. Widzisz koryto rzeczne (wadi), które jest całkowicie suche, ale przewodnik informuje, że wypełnia się wodą sporadycznie po gwałtownych ulewach. Jakim typem rzeki jest ten ciek?",
+                                      "options":  [
+                                                      "Rzeką stałą",
+                                                      "Rzeką okresową (periodyczną)",
+                                                      "Rzeką epizodyczną",
+                                                      "Rzeką sferyczną"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Rzeki epizodyczne prowadzą wodę tylko po sporadycznych opadach deszczu, a ich koryta zwykle są suche (np. wadi)."
+                                  },
+                                  {
+                                      "question":  "W strefie klimatów podrównikowych rzeki prowadzą wodę regularnie, ale tylko w porze deszczowej, wysychając lub drastycznie obniżając poziom w porze suchej. Taki typ rzeki nazywamy:",
+                                      "options":  [
+                                                      "Rzeką stałą",
+                                                      "Rzeką okresową (periodyczną)",
+                                                      "Rzeką epizodyczną",
+                                                      "Rzeką lodowcową"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rzeki okresowe (periodyczne) prowadzą wodę regularnie, ale tylko w porze deszczowej (występują w klimatach z porą suchą i deszczową)."
+                                  },
+                                  {
+                                      "question":  "Około 20% lądów to obszary, z których wody nie są odprowadzane do żadnego morza ani oceanu. Jak nazywamy takie tereny?",
+                                      "options":  [
+                                                      "Obszarem bezodpływowym",
+                                                      "Zlewiskiem pacyficznym",
+                                                      "Deltą rzeczną",
+                                                      "Obszarem retencyjnym"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jeśli wody nie są odprowadzane z danego obszaru do morza lub oceanu, to nazywa się go obszarem bezodpływowym."
+                                  },
+                                  {
+                                      "question":  "Analizujesz hydrogram rzeki, która charakteryzuje się bardzo wysokimi przepływami przez cały rok z niewielkimi wahaniami. Rzeka ta płynie w klimacie wybitnie wilgotnym. Przykładem takiej rzeki jest Amazonka. Jaki to ustrój?",
+                                      "options":  [
+                                                      "Deszczowy równikowy",
+                                                      "Deszczowy monsunowy",
+                                                      "Deszczowy śródziemnomorski",
+                                                      "Śnieżny"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ustrój deszczowy równikowy charakteryzuje się wysokimi przepływami przez cały rok i niewielkimi różnicami wysokości przepływów (np. Amazonka, Kongo)."
+                                  },
+                                  {
+                                      "question":  "Na wykresie przepływu rzeki Ganges obserwujemy gwałtowny wzrost ilości wody w miesiącach letnich oraz bardzo niskie stany w miesiącach zimowych. Jest to związane z cyrkulacją powietrza w Azji Południowej. Jaki to ustrój?",
+                                      "options":  [
+                                                      "Deszczowy równikowy",
+                                                      "Deszczowy monsunowy",
+                                                      "Deszczowy oceaniczny",
+                                                      "Lodowcowy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ustrój deszczowy monsunowy cechuje się wysokimi przepływami w czasie monsunu letniego i niskimi w czasie monsunu zimowego (np. Ganges)."
+                                  },
+                                  {
+                                      "question":  "Rzeka Ebro płynie w Europie Południowej. Jej przepływy są wyższe zimą (związane z opadami), a latem drastycznie maleją z powodu braku opadów i silnego parowania. Jaki to typ ustroju?",
+                                      "options":  [
+                                                      "Deszczowy oceaniczny",
+                                                      "Śnieżny",
+                                                      "Deszczowy śródziemnomorski",
+                                                      "Deszczowy podrównikowy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ustrój deszczowy śródziemnomorski charakteryzuje się wyższymi przepływami zimą i niewielkimi latem (np. Ebro, Tyber)."
+                                  },
+                                  {
+                                      "question":  "Analizujesz rzekę syberyjską (np. Ob lub Jenisej). Hydrogram wskazuje na gwałtowną kulminację przepływów wiosną, co jest związane z topnieniem grubej pokrywy białego puchu. Latem przepływy są dość wysokie, a jesienią i zimą niskie. Jest to ustrój:",
+                                      "options":  [
+                                                      "Lodowcowy",
+                                                      "Śnieżny, w którym dominują wiosenne roztopy.",
+                                                      "Deszczowy oceaniczny",
+                                                      "Złożony"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ustrój śnieżny charakteryzuje się kulminacją przepływów na wiosnę w związku z topnieniem pokrywy śnieżnej (np. Ob, Jenisej)."
+                                  },
+                                  {
+                                      "question":  "Rzeka wypływająca z wysokich gór (np. Amu-daria) osiąga najwyższe stany wody latem, kiedy wysoka temperatura powoduje intensywne topnienie lodu w jej źródłach. Zimą przepływy są bardzo niskie. Jaki to ustrój?",
+                                      "options":  [
+                                                      "Śnieżny",
+                                                      "Lodowcowy, zasilany wodą z topniejącego lodu.",
+                                                      "Deszczowy monsunowy",
+                                                      "Deszczowy równikowy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ustrój lodowcowy cechuje się najwyższymi przepływami latem, podczas intensywnego topnienia lodowców górskich (np. Amu-daria)."
+                                  },
+                                  {
+                                      "question":  "Wisła i Odra to rzeki, które mają ustrój złożony. Wiosną ich wysokie stany wynikają z topnienia śniegu, a latem wezbrania mogą być spowodowane opadami deszczu (tzw. wezbrania świętojańskie). Jak precyzyjnie określa się ten typ ustroju?",
+                                      "options":  [
+                                                      "Śnieżno-lodowcowy",
+                                                      "Śnieżno-deszczowy",
+                                                      "Deszczowo-gruntowy",
+                                                      "Monsunowo-śnieżny"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wisła i Odra są przykładami rzek o ustroju złożonym, konkretnie śnieżno-deszczowym."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych czynników sprzyja występowaniu gęstej sieci rzecznej na danym obszarze?",
+                                      "options":  [
+                                                      "Klimat zwrotnikowy suchy",
+                                                      "Występowanie skał węglanowych (krasowiejących)",
+                                                      "Podłoże zbudowane ze skał słabo przepuszczalnych lub nieprzepuszczalnych",
+                                                      "Obszar nizinny o bardzo małym spadku i wysokim parowaniu"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gęsta sieć rzeczna występuje tam, gdzie (...) skały słabo przepuszczalne lub nieprzepuszczalne występują płytko pod powierzchnią."
+                                  },
+                                  {
+                                      "question":  "Jaka jest różnica między pojęciem \u0027przepływ\u0027 a \u0027stan wody\u0027?",
+                                      "options":  [
+                                                      "To synonimy oznaczające głębokość rzeki.",
+                                                      "Przepływ to ilość wody (m³/s), a stan wody to wysokość zwierciadła (cm).",
+                                                      "Przepływ mierzy się w cm, a stan wody w m³/s.",
+                                                      "Stan wody dotyczy tylko rzek okresowych, a przepływ rzek stałych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przepływ to ilość wody przepływającej przez przekrój w jednostce czasu (m³/s), a stan wody to wysokość zwierciadła wody względem poziomu odniesienia."
+                                  },
+                                  {
+                                      "question":  "Rzeki takie jak Sekwana czy Tamiza, płynące w klimacie umiarkowanym morskim, mają znaczne przepływy przez cały rok, z lekkim spadkiem latem wynikającym ze zwiększonego parowania. Jaki to ustrój?",
+                                      "options":  [
+                                                      "Deszczowy oceaniczny",
+                                                      "Deszczowy śródziemnomorski",
+                                                      "Deszczowy równikowy",
+                                                      "Śnieżny"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ustrój deszczowy oceaniczny występuje w klimatach morskich, gdzie opady są dość wysokie przez cały rok (np. Sekwana, Tamiza)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Wszystkie dorzecza, z których wody spływają do jednego morza lub oceanu, tworzą zlewisko tego akwenu.",
+                                           "answer":  true,
+                                           "explanation":  "Zgodnie z definicją, zlewisko to obszar składający się ze wszystkich dorzeczy, z których wody spływają do jednego morza."
+                                       },
+                                       {
+                                           "sentence":  "Ponieważ rzeki płyną pod wpływem siły grawitacji, rzeki na półkuli północnej (np. Ob, Lena) zawsze płyną w kierunku południowym.",
+                                           "answer":  false,
+                                           "explanation":  "Choć rzeki płyną pod wpływem grawitacji, kierunek spływu zależy od nachylenia terenu, a nie od kierunków świata; wiele rzek syberyjskich płynie na północ."
+                                       },
+                                       {
+                                           "sentence":  "Wadi (rzeki epizodyczne) to cieki, które prowadzą wodę regularnie w każdej porze deszczowej, podobnie jak rzeki okresowe.",
+                                           "answer":  false,
+                                           "explanation":  "Wadi to rzeki epizodyczne, które prowadzą wodę tylko po sporadycznych, nieregularnych opadach, w przeciwieństwie do rzek okresowych, które płyną regularnie w porze deszczowej."
+                                       },
+                                       {
+                                           "sentence":  "Rzeki o ustroju śnieżnym, takie jak Mackenzie czy Jukon, osiągają najwyższe stany wody zimą, w momencie największych opadów śniegu.",
+                                           "answer":  false,
+                                           "explanation":  "W ustroju śnieżnym kulminacja przepływów następuje wiosną, co jest związane z topnieniem pokrywy śnieżnej, a nie z jej opadem zimą."
+                                       },
+                                       {
+                                           "sentence":  "W przypadku rzek o ustroju lodowcowym (np. Amu-daria) najwyższe przepływy notuje się latem, gdy wysoka temperatura powoduje intensywne topnienie lodu.",
+                                           "answer":  true,
+                                           "explanation":  "Ustrój lodowcowy charakteryzuje się najwyższymi przepływami latem, podczas intensywnego topnienia lodowców górskich."
+                                       },
+                                       {
+                                           "sentence":  "Gęsta sieć rzeczna tworzy się najłatwiej na obszarach zbudowanych ze skał przepuszczalnych, takich jak wapienie, ponieważ ułatwiają one spływ powierzchniowy.",
+                                           "answer":  false,
+                                           "explanation":  "Skały przepuszczalne i krasowiejące (wapienie) sprzyjają wsiąkaniu wody i jej przepływowi podziemnemu, co skutkuje mniejszą gęstością sieci rzecznej na powierzchni."
+                                       },
+                                       {
+                                           "sentence":  "Każda duża rzeka posiadająca dopływy jest klasyfikowana jako rzeka główna, niezależnie od tego, gdzie uchodzi.",
+                                           "answer":  false,
+                                           "explanation":  "Mianem rzeki głównej określa się tylko tę rzekę, która uchodzi bezpośrednio do morza lub innego zbiornika wodnego, a nie do innej rzeki."
+                                       },
+                                       {
+                                           "sentence":  "Rzeki strefy śródziemnomorskiej (np. Ebro) mają najwyższe przepływy latem, co wynika z gwałtownych burz charakterystycznych dla tego klimatu.",
+                                           "answer":  false,
+                                           "explanation":  "W ustroju śródziemnomorskim latem występują niewielkie przepływy (niżówki) z powodu braku opadów i silnego parowania; wyższe przepływy są zimą."
+                                       },
+                                       {
+                                           "sentence":  "Dział wodny to umowna linia w terenie, która oddziela od siebie sąsiadujące dorzecza lub zlewiska.",
+                                           "answer":  true,
+                                           "explanation":  "Granicę między dwoma sąsiadującymi ze sobą dorzeczami lub zlewiskami stanowi dział wodny (wododział)."
+                                       },
+                                       {
+                                           "sentence":  "Ustrój deszczowy równikowy (np. Amazonka) charakteryzuje się bardzo dużymi wahaniami stanów wody w roku, zależnymi od pory suchej i deszczowej.",
+                                           "answer":  false,
+                                           "explanation":  "Rzeki o ustroju deszczowym równikowym mają wysokie przepływy przez cały rok i niewielkie różnice wysokości przepływów; duże wahania są cechą ustroju podrównikowego lub monsunowego."
+                                       },
+                                       {
+                                           "sentence":  "Pojęcia \u0027przepływ\u0027 oraz \u0027stan wody\u0027 są tożsame i w hydrologii używa się ich zamiennie do określania ilości wody w rzece.",
+                                           "answer":  false,
+                                           "explanation":  "To dwa różne pojęcia: przepływ to objętość wody w m³/s, a stan wody to wysokość zwierciadła wody w korycie względem poziomu odniesienia."
+                                       },
+                                       {
+                                           "sentence":  "Wisła i Odra są przykładami rzek o ustroju złożonym, ponieważ zasilane są zarówno wodami z topniejącego śniegu, jak i z opadów deszczu.",
+                                           "answer":  true,
+                                           "explanation":  "Wisła i Odra mają ustrój złożony (śnieżno-deszczowy), z wysokimi stanami wiosną (roztopy) i latem (deszcze)."
+                                       }
+                                   ]
+                 }
+}

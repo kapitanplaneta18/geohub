@@ -1,0 +1,338 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t6",
+                     "unit":  "V",
+                     "title":  "Trzęsienia ziemi, ruchy epejrogeniczne i izostatyczne",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Trzęsienie ziemi",
+                                              "definition":  "Drgania skorupy ziemskiej, najczęściej wywoływane nagłym przesuwaniem się ogromnych mas skalnych pod powierzchnią Ziemi."
+                                          },
+                                          {
+                                              "term":  "Hipocentrum (ognisko)",
+                                              "definition":  "Miejsce we wnętrzu Ziemi, z którego rozchodzą się fale sejsmiczne; ognisko trzęsienia ziemi."
+                                          },
+                                          {
+                                              "term":  "Epicentrum",
+                                              "definition":  "Ośrodek trzęsienia ziemi na powierzchni, znajdujący się bezpośrednio nad hipocentrum, gdzie wstrząsy są najsilniejsze i najwcześniej odczuwalne."
+                                          },
+                                          {
+                                              "term":  "Fale sejsmiczne",
+                                              "definition":  "Drgania powstające w wyniku gwałtownego przesuwania się mas skalnych, rozchodzące się od hipocentrum."
+                                          },
+                                          {
+                                              "term":  "Skala Richtera (magnituda)",
+                                              "definition":  "Otwarta skala służąca do określania wielkości trzęsienia ziemi (energii); w praktyce nie notuje się w niej wstrząsów o magnitudzie większej niż 9,5."
+                                          },
+                                          {
+                                              "term":  "Skala Mercalliego (intensywność)",
+                                              "definition":  "Skala oparta na charakterystyce zniszczeń i odczuwalnych skutków trzęsienia ziemi."
+                                          },
+                                          {
+                                              "term":  "Trzęsienia tektoniczne",
+                                              "definition":  "Najczęstszy typ trzęsień ziemi, wywoływany ruchem płyt litosfery i nagłym przesuwaniem się mas skalnych po pokonaniu sił tarcia."
+                                          },
+                                          {
+                                              "term":  "Trzęsienia wulkaniczne",
+                                              "definition":  "Wstrząsy związane z gwałtownymi erupcjami wulkanów i przemieszczaniem się magmy, występujące m.in. w strefach subdukcji."
+                                          },
+                                          {
+                                              "term":  "Trzęsienia zapadowe (zawaliskowe)",
+                                              "definition":  "Rodzaj trzęsień ziemi powstający w wyniku zapadania się pustek w litosferze, np. jaskiń lub wyrobisk górniczych."
+                                          },
+                                          {
+                                              "term":  "Obszary sejsmiczne",
+                                              "definition":  "Obszary, na których wstrząsy są częste i silne, występujące głównie na granicach płyt litosfery."
+                                          },
+                                          {
+                                              "term":  "Obszary asejsmiczne",
+                                              "definition":  "Obszary wolne od trzęsień ziemi."
+                                          },
+                                          {
+                                              "term":  "Ruchy epejrogeniczne",
+                                              "definition":  "Bardzo powolne, pionowe ruchy skorupy ziemskiej (lądotwórcze), których przyczyną jest przemieszczanie się magmy w litosferze."
+                                          },
+                                          {
+                                              "term":  "Transgresja morska",
+                                              "definition":  "Proces zalewania lądu przez morze, zachodzący, gdy lądy się obniżają."
+                                          },
+                                          {
+                                              "term":  "Regresja morska",
+                                              "definition":  "Proces wycofywania się morza z obszaru lądowego, następujący w wyniku wznoszenia się lądu."
+                                          },
+                                          {
+                                              "term":  "Izostazja (równowaga)",
+                                              "definition":  "Proces dążenia skorupy ziemskiej do równowagi grawitacyjnej, objawiający się pionowymi ruchami płyt litosfery. "
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Trzęsienia tektoniczne",
+                                                 "pair2":  "Ruchy płyt litosfery i rozładowanie naprężeń"
+                                             },
+                                             {
+                                                 "pair1":  "Skala Richtera",
+                                                 "pair2":  "Magnituda / wielkość wyzwolonej energii"
+                                             },
+                                             {
+                                                 "pair1":  "Hipocentrum",
+                                                 "pair2":  "Punkt wewnątrz Ziemi, z którego rozchodzą się fale sejsmiczne"
+                                             },
+                                             {
+                                                 "pair1":  "Epicentrum",
+                                                 "pair2":  "Punkt na powierzchni Ziemi, gdzie wstrząsy są najsilniejsze"
+                                             },
+                                             {
+                                                 "pair1":  "Ruchy epejrogeniczne",
+                                                 "pair2":  "Powolne obniżanie lub wznoszenie skorupy ziemskiej"
+                                             },
+                                             {
+                                                 "pair1":  "Obniżanie lądu (ruch epejrogeniczny)",
+                                                 "pair2":  "Transgresja morska / zalanie lądu"
+                                             },
+                                             {
+                                                 "pair1":  "Wznoszenie lądu (ruch epejrogeniczny)",
+                                                 "pair2":  "Regresja morska / wycofanie się morza"
+                                             },
+                                             {
+                                                 "pair1":  "Izostazja",
+                                                 "pair2":  "Dążenie litosfery do stanu równowagi grawitacyjnej"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym jest hipocentrum trzęsienia ziemi?",
+                                      "options":  [
+                                                      "Miejscem na powierzchni Ziemi, gdzie wstrząsy są najsilniejsze.",
+                                                      "Ogniskiem trzęsienia ziemi znajdującym się we wnętrzu Ziemi, z którego rozchodzą się fale sejsmiczne.",
+                                                      "Urządzeniem służącym do rejestrowania drgań skorupy ziemskiej.",
+                                                      "Obszarem asejsmicznym, który na mapach oznaczany jest jako całkowicie wolny od wstrząsów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Hipocentrum to miejsce we wnętrzu Ziemi, z którego rozchodzą się fale sejsmiczne, zwane również ogniskiem wstrząsów."
+                                  },
+                                  {
+                                      "question":  "Jaka jest relacja przestrzenna między epicentrum a hipocentrum?",
+                                      "options":  [
+                                                      "Epicentrum znajduje się głęboko pod hipocentrum.",
+                                                      "Epicentrum i hipocentrum to to samo miejsce we wnętrzu Ziemi.",
+                                                      "Epicentrum leży na powierzchni Ziemi, bezpośrednio nad hipocentrum.",
+                                                      "Hipocentrum leży na powierzchni, a epicentrum w płaszczu Ziemi."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Epicentrum (ośrodek trzęsienia ziemi) znajduje się na powierzchni Ziemi, bezpośrednio nad hipocentrum."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się urządzenie służące do rejestrowania trzęsień ziemi?",
+                                      "options":  [
+                                                      "Barometr",
+                                                      "Sejsmograf",
+                                                      "Anemometr",
+                                                      "Higrometr"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Urządzeniami służącymi do rejestrowania trzęsień ziemi są sejsmografy."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych państw znajduje się w obszarze o wysokiej aktywności sejsmicznej, znanym jako Ognisty Pierścień Pacyfiku?",
+                                      "options":  [
+                                                      "Polska",
+                                                      "Brazylia",
+                                                      "Japonia",
+                                                      "Australia (część zachodnia)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Japonia leży w strefie częstych trzęsień ziemi oraz w pobliżu Ognistego Pierścienia Pacyfiku, gdzie występują liczne wulkany i wstrząsy."
+                                  },
+                                  {
+                                      "question":  "Jaka jest bezpośrednia przyczyna powstawania tektonicznych trzęsień ziemi?",
+                                      "options":  [
+                                                      "Gwałtowne przesuwanie się mas skalnych wzdłuż uskoków po pokonaniu sił tarcia.",
+                                                      "Powolne i ciągłe przesuwanie się płyt litosfery bez gromadzenia naprężeń.",
+                                                      "Wyłącznie wybuchy wulkanów na powierzchni Ziemi.",
+                                                      "Zmiany ciśnienia atmosferycznego nad oceanami."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Trzęsienia ziemi są wywoływane nagłym przesuwaniem się ogromnych mas skalnych, gdy zgromadzona energia pokonuje siły tarcia między napierającymi na siebie płytami litosfery."
+                                  },
+                                  {
+                                      "question":  "Czym różni się skala Richtera od opisu skutków trzęsienia ziemi (np. w skali Mercalliego)?",
+                                      "options":  [
+                                                      "Skala Richtera opisuje zniszczenia budynków, a opis skutków dotyczy energii.",
+                                                      "Skala Richtera określa wielkość trzęsienia (magnitudę) na podstawie fal sejsmicznych, a opis skutków dotyczy zniszczeń i odczuć ludzi.",
+                                                      "Skala Richtera jest skalą zamkniętą do 10 stopni, a opis skutków jest otwarty.",
+                                                      "Nie ma żadnej różnicy, obie skale mierzą to samo."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wielkość trzęsień ziemi najczęściej określa się w skali Richtera (magnituda), natomiast skutki są kategorią opisową skal intensywności."
+                                  },
+                                  {
+                                      "question":  "Co jest najczęstszą przyczyną powstawania fal tsunami?",
+                                      "options":  [
+                                                      "Silne wiatry sztormowe.",
+                                                      "Podwodne trzęsienia ziemi.",
+                                                      "Pływy morskie wywołane przez Księżyc.",
+                                                      "Ruchy statków na oceanie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Tsunami to fale, które zalewają obszary przybrzeżne, będące często następstwem trzęsień ziemi pod dnem oceanu. "
+                                  },
+                                  {
+                                      "question":  "Które z wymienionych wydarzeń było skutkiem trzęsienia ziemi u wybrzeży Japonii w 2011 roku?",
+                                      "options":  [
+                                                      "Powstanie nowych wysp wulkanicznych na Atlantyku.",
+                                                      "Najdroższa katastrofa naturalna w historii i awaria elektrowni w Fukushimie.",
+                                                      "Zniszczenie całego Półwyspu Skandynawskiego.",
+                                                      "Powstanie Rowu Mariańskiego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W marcu 2011 r. tsunami wywołane trzęsieniem ziemi u wybrzeży Honsiu spowodowało awarię elektrowni w Fukushimie i ogromne straty finansowe."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób rozmieszczone są główne obszary sejsmiczne na Ziemi?",
+                                      "options":  [
+                                                      "Występują równomiernie na całej powierzchni kontynentów.",
+                                                      "Skupiają się głównie na granicach płyt litosfery.",
+                                                      "Występują wyłącznie w środku płyt kontynentalnych.",
+                                                      "Są związane tylko z obszarami polarnymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Do większości trzęsień ziemi dochodzi na granicach płyt litosfery, które stanowią główne obszary sejsmiczne."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych fal jest falą morską wywołaną wstrząsem sejsmicznym?",
+                                      "options":  [
+                                                      "Fala powodziowa rzeczna.",
+                                                      "Tsunami.",
+                                                      "Fala przyboju.",
+                                                      "Sejsza."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Tsunami to fale wywołane przez trzęsienia ziemi, które z ogromną siłą zalewają i niszczą obszary przybrzeżne."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces transgresji morza w wyniku ruchów epejrogenicznych?",
+                                      "options":  [
+                                                      "Na wycofaniu się morza z lądu wskutek podnoszenia się skorupy ziemskiej.",
+                                                      "Na zalaniu lądu przez morze wskutek powolnego obniżania się skorupy ziemskiej.",
+                                                      "Na zamarzaniu wody morskiej przy brzegach w strefach podbiegunowych.",
+                                                      "Na gwałtownym wysychaniu zbiorników wodnych w strefie zwrotnikowej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy lądy się obniżają w wyniku ruchów epejrogenicznych, mogą być zalewane przez morze – zachodzi wówczas transgresja morza."
+                                  },
+                                  {
+                                      "question":  "Co dzieje się z linią brzegową podczas regresji morza?",
+                                      "options":  [
+                                                      "Morze wdziera się w głąb lądu.",
+                                                      "Morze wycofuje się z lądu, ponieważ skorupa ziemska się wznosi.",
+                                                      "Linia brzegowa pozostaje bez zmian mimo ruchów pionowych.",
+                                                      "Powstają nowe rowy oceaniczne wzdłuż krawędzi kontynentu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy lądy się wznoszą, morze wycofuje się z obszaru lądowego – następuje regresja morza."
+                                  },
+                                  {
+                                      "question":  "Jaki proces zachodzi obecnie u wybrzeży Holandii w kontekście ruchów pionowych skorupy ziemskiej?",
+                                      "options":  [
+                                                      "Szybkie wznoszenie izostatyczne.",
+                                                      "Obniżanie się terenu, co grozi transgresją morza.",
+                                                      "Stabilizacja poziomu gruntu bez żadnych ruchów.",
+                                                      "Powstawanie wysokich gór fałdowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zachodnia część Holandii obniża się średnio o 1 cm na 10 lat, co jest przykładem współczesnej transgresji morza."
+                                  },
+                                  {
+                                      "question":  "Jaka jest przyczyna podnoszenia się skorupy ziemskiej w Skandynawii po ustąpieniu lądolodu?",
+                                      "options":  [
+                                                      "Gwałtowne zwiększenie nacisku mas lodu na litosferę.",
+                                                      "Dążenie skorupy do równowagi grawitacyjnej po jej odciążeniu.",
+                                                      "Ruchy górotwórcze związane bezpośrednio z kolizją płyt.",
+                                                      "Ogólnoświatowe obniżenie się poziomu wód w oceanach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ruchy izostatyczne polegają na dążeniu litosfery do równowagi; po stopieniu lądolodu skorupa ziemska się podnosi."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w strefach subdukcji, np. w Andach, mogą występować trzęsienia ziemi o głębokich hipocentrach?",
+                                      "options":  [
+                                                      "Ponieważ płyty litosfery są tam najcieńsze.",
+                                                      "Ponieważ jedna płyta wsuwa się głęboko pod drugą w głąb płaszcza.",
+                                                      "Ponieważ w tych miejscach nie ma tarcia między płytami.",
+                                                      "Ponieważ występują tam tylko płytkie ryfty."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W strefach subdukcji płyta oceaniczna podsuwa się pod kontynentalną i zagłębia w płaszcz Ziemi, co umożliwia powstawanie ognisk wstrząsów na dużych głębokościach."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Epicentrum trzęsienia ziemi znajduje się głęboko we wnętrzu Ziemi, bezpośrednio pod hipocentrum.",
+                                           "answer":  false,
+                                           "explanation":  "Epicentrum to punkt na powierzchni Ziemi położony bezpośrednio nad hipocentrum, które znajduje się we wnętrzu planety."
+                                       },
+                                       {
+                                           "sentence":  "Najczęstszą przyczyną trzęsień ziemi są erupcje wulkaniczne, a nie ruchy mas skalnych.",
+                                           "answer":  false,
+                                           "explanation":  "Trzęsienia ziemi najczęściej wywoływane są nagłym przesuwaniem się ogromnych mas skalnych, co ma związek z ruchem płyt litosfery."
+                                       },
+                                       {
+                                           "sentence":  "Skala Richtera jest skalą zamkniętą, która kończy się na 12 stopniach.",
+                                           "answer":  false,
+                                           "explanation":  "Wielkość trzęsień ziemi określa się w otwartej skali Richtera, w której nie ma górnej granicy."
+                                       },
+                                       {
+                                           "sentence":  "Regresja morza polega na zalewaniu obszarów lądowych przez wodę w wyniku obniżania się lądu.",
+                                           "answer":  false,
+                                           "explanation":  "Regresja morza następuje, gdy lądy się wznoszą i morze wycofuje się z obszaru lądowego; zalewanie lądu to transgresja."
+                                       },
+                                       {
+                                           "sentence":  "Litosfera składa się wyłącznie ze skorupy ziemskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Litosfera obejmuje skorupę ziemską oraz zewnętrzną część płaszcza górnego."
+                                       },
+                                       {
+                                           "sentence":  "Ruchy epejrogeniczne to bardzo powolne, pionowe ruchy skorupy ziemskiej, które powodują zmiany przebiegu linii brzegowej.",
+                                           "answer":  true,
+                                           "explanation":  "Ruchy epejrogeniczne (lądotwórcze) to powolne pionowe ruchy skorupy ziemskiej skutkujące obniżaniem lub wznoszeniem lądów."
+                                       },
+                                       {
+                                           "sentence":  "Intruzje magmowe, takie jak lakolity i dajki, powstają w wyniku zastygania lawy na powierzchni Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Intruzje magmowe powstają w głębi litosfery z magmy; lawa zastyga na powierzchni."
+                                       },
+                                       {
+                                           "sentence":  "Prądy konwekcyjne to strumienie magmy w płaszczu Ziemi, które wywołują ciągły ruch płyt litosfery.",
+                                           "answer":  true,
+                                           "explanation":  "Prądy konwekcyjne wędrują z głębi Ziemi i powodują przemieszczanie się płyt litosfery."
+                                       },
+                                       {
+                                           "sentence":  "Góry fałdowe powstają wyłącznie w wyniku kolizji dwóch płyt kontynentalnych.",
+                                           "answer":  false,
+                                           "explanation":  "Góry fałdowe powstają także w wyniku subdukcji płyty oceanicznej pod płytę kontynentalną, np. Andy."
+                                       },
+                                       {
+                                           "sentence":  "Granit jest skałą magmową głębinową, która powstaje z powoli krystalizującej magmy.",
+                                           "answer":  true,
+                                           "explanation":  "Granit to skała magmowa głębinowa (plutoniczna), powstająca z magmy krystalizującej głęboko pod powierzchnią."
+                                       },
+                                       {
+                                           "sentence":  "Wulkany efuzywne charakteryzują się spokojnym przebiegiem erupcji i rozległymi stożkami o łagodnych stokach.",
+                                           "answer":  true,
+                                           "explanation":  "Wulkany efuzywne mają erupcje o spokojnym przebiegu, podczas których wydobywa się głównie lawa, tworząc rozległe stożki."
+                                       },
+                                       {
+                                           "sentence":  "Tsunami to fale, które mogą powstać w wyniku trzęsienia ziemi pod dnem oceanu.",
+                                           "answer":  true,
+                                           "explanation":  "Tsunami to fale, które zalewają obszary przybrzeżne i mogą być wywołane przez trzęsienie ziemi, np. pod dnem oceanu."
+                                       }
+                                   ]
+                 }
+}

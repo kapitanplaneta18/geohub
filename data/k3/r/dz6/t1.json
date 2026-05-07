@@ -1,0 +1,349 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz6-t1",
+                     "title":  "Stan środowiska w Polsce",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Antropopresja",
+                                              "definition":  "Wpływ działalności człowieka (przemysłu, rolnictwa, urbanizacji) powodujący wprowadzanie szkodliwych substancji do powietrza, wód i gleb."
+                                          },
+                                          {
+                                              "term":  "Niska emisja",
+                                              "definition":  "Wydzielanie szkodliwych pyłów i gazów z kominów o wysokości do 40 m, głównie z domowych urządzeń grzewczych i transportu."
+                                          },
+                                          {
+                                              "term":  "Smog siarkowy",
+                                              "definition":  "Rodzaj zanieczyszczenia powietrza występujący w Polsce, za którego powstawanie współodpowiedzialne są emitowane pyły i dwutlenek siarki."
+                                          },
+                                          {
+                                              "term":  "Benzo(a)piren",
+                                              "definition":  "Rakotwórczy związek chemiczny z grupy węglowodorów aromatycznych, którego Polska jest jednym z największych emitentów w Europie."
+                                          },
+                                          {
+                                              "term":  "Pyły zawieszone (PM10 i PM2,5)",
+                                              "definition":  "Zanieczyszczenia powietrza, których wysokie stężenie występuje w wielu polskich miejscowościach, prowadzące do chorób układu oddechowego."
+                                          },
+                                          {
+                                              "term":  "Tlenki azotu (NOx)",
+                                              "definition":  "Gazy cieplarniane i składniki smogu, których głównym źródłem emisji w Polsce jest transport samochodowy."
+                                          },
+                                          {
+                                              "term":  "Dwutlenek siarki (SO2)",
+                                              "definition":  "Gaz emitowany głównie przez energetykę i przemysł, który w reakcji z parą wodną tworzy kwaśne opady."
+                                          },
+                                          {
+                                              "term":  "Kwaśne opady",
+                                              "definition":  "Opady atmosferyczne powstałe w wyniku reakcji tlenków siarki i azotu z parą wodną, powodujące zakwaszenie gleb i niszczenie budynków."
+                                          },
+                                          {
+                                              "term":  "Wody chłodnicze",
+                                              "definition":  "Wody używane do chłodzenia urządzeń w elektrowniach, stanowiące ponad 85% ścieków przemysłowych i powodujące zanieczyszczenie termiczne."
+                                          },
+                                          {
+                                              "term":  "Ścieki komunalne",
+                                              "definition":  "Nieczystości pochodzące z gospodarstw domowych i miejsc publicznych, zawierające detergenty, resztki żywności i drobnoustroje."
+                                          },
+                                          {
+                                              "term":  "Eutrofizacja",
+                                              "definition":  "Przeżyźnienie wód spowodowane nadmiarem związków azotu i fosforu, spływających głównie z pól uprawnych nawożonych mineralnie."
+                                          },
+                                          {
+                                              "term":  "Degradacja gleb",
+                                              "definition":  "Pogorszenie właściwości gleby (zakwaszenie, przesuszenie) wskutek niewłaściwego rolnictwa, skażeń przemysłowych i komunikacyjnych."
+                                          },
+                                          {
+                                              "term":  "Rekultywacja",
+                                              "definition":  "Działania mające na celu przywrócenie wartości użytkowych lub przyrodniczych terenom zniszczonym przez człowieka."
+                                          },
+                                          {
+                                              "term":  "Odpady przemysłowe",
+                                              "definition":  "Odpady pochodzące głównie z górnictwa i produkcji, stanowiące ponad 90% wszystkich odpadów wytwarzanych w Polsce."
+                                          },
+                                          {
+                                              "term":  "Odpady komunalne",
+                                              "definition":  "Odpady z gospodarstw domowych, stanowiące niecałe 10% ogółu odpadów, których tylko ok. 34% poddaje się recyklingowi."
+                                          },
+                                          {
+                                              "term":  "Państwowy Monitoring Środowiska (PMŚ)",
+                                              "definition":  "System koordynowany przez GIOŚ, służący do pomiarów, ocen i prognozowania stanu środowiska oraz informowania społeczeństwa."
+                                          },
+                                          {
+                                              "term":  "Geoserwis GDOŚ",
+                                              "definition":  "Internetowe narzędzie mapowe (GIS) umożliwiające sprawdzanie lokalizacji zanieczyszczeń, szkód w środowisku oraz form ochrony przyrody."
+                                          },
+                                          {
+                                              "term":  "Oczyszczalnia Czajka",
+                                              "definition":  "Największa w Polsce oczyszczalnia ścieków komunalnych znajdująca się w Warszawie."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Niska emisja (ogrzewanie domów)",
+                                                 "pair2":  "Główna przyczyna zanieczyszczenia powietrza pyłami w Polsce,"
+                                             },
+                                             {
+                                                 "pair1":  "Transport samochodowy",
+                                                 "pair2":  "Główne źródło emisji tlenków azotu (NOx) do atmosfery,"
+                                             },
+                                             {
+                                                 "pair1":  "Goczałkowice-Zdrój, Katowice, Kraków",
+                                                 "pair2":  "Miejscowości o bardzo wysokim stężeniu pyłów PM2,5 (smog)"
+                                             },
+                                             {
+                                                 "pair1":  "Rolnictwo (nawozy mineralne)",
+                                                 "pair2":  "Spływ azotu i fosforu powodujący eutrofizację wód powierzchniowych,"
+                                             },
+                                             {
+                                                 "pair1":  "Wody chłodnicze z elektrowni",
+                                                 "pair2":  "Przyczyna termicznego zanieczyszczenia wód (85% ścieków przemysłowych)"
+                                             },
+                                             {
+                                                 "pair1":  "Górnictwo i wydobywanie",
+                                                 "pair2":  "Źródło ponad połowy odpadów przemysłowych w Polsce"
+                                             },
+                                             {
+                                                 "pair1":  "Kwaśne opady (siarkowe)",
+                                                 "pair2":  "Uszkadzanie elewacji budynków, korozja konstrukcji i zakwaszanie gleb,"
+                                             },
+                                             {
+                                                 "pair1":  "Brak kanalizacji na wsiach",
+                                                 "pair2":  "Dostęp do sieci kanalizacyjnej ma jedynie 44% mieszkańców wsi,"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Co stanowi główną przyczynę powstawania zimowego smogu (zanieczyszczenia powietrza) w polskich miejscowościach?",
+                                      "options":  [
+                                                      "Zorganizowana emisja przemysłowa z wysokich kominów elektrowni",
+                                                      "Niska emisja z domowych pieców i lokalnych kotłowni",
+                                                      "Międzynarodowy transport morski, rzeczny i lotniczy",
+                                                      "Naturalne procesy wulkaniczne i pylenie roślin"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Główną przyczyną zanieczyszczenia powietrza w Polsce jest tzw. niska emisja, czyli wprowadzanie pyłów i gazów z emitorów o wysokości do 40 m, głównie z domowych urządzeń grzewczych."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces rekultywacji?",
+                                      "options":  [
+                                                      "Na całkowitym i trwałym zaprzestaniu wszelkiej działalności gospodarczej",
+                                                      "Na przywracaniu terenom zniszczonym wartości użytkowych lub przyrodniczych",
+                                                      "Na intensywnym zwiększaniu wydobycia w celu wyrównania strat",
+                                                      "Na systematycznym betonowaniu koryt rzecznych i brzegów"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rekultywacja to zabiegi mające na celu przywrócenie wartości użytkowych lub przyrodniczych terenom zdewastowanym i zdegradowanym, np. przez przemysł."
+                                  },
+                                  {
+                                      "question":  "Który sektor gospodarki odpowiada za wytwarzanie ponad 90% odpadów w Polsce?",
+                                      "options":  [
+                                                      "Gospodarstwa domowe i duże osiedla mieszkaniowe",
+                                                      "Wielkoobszarowe rolnictwo i hodowla zwierząt",
+                                                      "Przemysł, w szczególności górnictwo i energetyka",
+                                                      "Międzynarodowy transport drogowy oraz logistyka"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ponad 90% odpadów wytwarzanych w Polsce pochodzi z przemysłu, z czego ponad połowa związana jest z górnictwem i wydobywaniem."
+                                  },
+                                  {
+                                      "question":  "Jaki rodzaj smogu dominuje w Polsce, biorąc pod uwagę skład zanieczyszczeń (pyły i dwutlenek siarki)?",
+                                      "options":  [
+                                                      "Smog typu Los Angeles (fotochemiczny)",
+                                                      "Smog siarkowy (tzw. londyński)",
+                                                      "Smog elektromagnetyczny",
+                                                      "Smog radiacyjny"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Polska znajduje się w czołówce emitentów zanieczyszczeń pyłowych, które są współodpowiedzialne za powstawanie smogu siarkowego. Towarzyszy mu często wysokie stężenie dwutlenku siarki."
+                                  },
+                                  {
+                                      "question":  "Co jest główną przyczyną eutrofizacji wód Morza Bałtyckiego i polskich rzek?",
+                                      "options":  [
+                                                      "Regularne zrzuty podgrzanych wód z elektrowni",
+                                                      "Częste wycieki ropy naftowej z tankowców",
+                                                      "Spływ związków azotu i fosforu z pól uprawnych",
+                                                      "Zanieczyszczenie plastikiem z turystyki plażowej"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W wyniku stosowania nawozów mineralnych w rolnictwie, do wód przedostają się związki azotu i fosforu, powodując ich nadmierną eutrofizację."
+                                  },
+                                  {
+                                      "question":  "Jakie zagrożenie dla zdrowia niosą ze sobą pyły zawieszone PM2,5 i PM10?",
+                                      "options":  [
+                                                      "Powodują wyłącznie łagodne i krótkotrwałe podrażnienia skóry",
+                                                      "Mogą prowadzić do chorób układu oddechowego, a nawet śmierci",
+                                                      "Są całkowicie obojętne dla zdrowia dorosłego człowieka",
+                                                      "Wpływają korzystnie na naturalną odporność organizmu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wdychanie zanieczyszczeń powietrza, takich jak pyły, jest szkodliwe dla ludzi i może prowadzić do rozwoju wielu chorób, a w skrajnych przypadkach do śmierci."
+                                  },
+                                  {
+                                      "question":  "Jak wygląda sytuacja z gospodarką odpadami komunalnymi w Polsce na tle średniej unijnej (2018/2019)?",
+                                      "options":  [
+                                                      "Polska przetwarza aż 90% odpadów, znacznie powyżej średniej UE",
+                                                      "Polska produkuje znacznie więcej śmieci na osobę niż średnia UE",
+                                                      "Polska produkuje mniej odpadów, ale ma niższy wskaźnik recyklingu",
+                                                      "Wszystkie odpady komunalne w Polsce są bezpowrotnie spalane"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W Polsce na mieszkańca przypada 336 kg odpadów (UE: \u003e500 kg), ale recyklingowi poddano tylko 34,1% (średnia UE: 47,6%)."
+                                  },
+                                  {
+                                      "question":  "Czym jest „niska emisja” w kontekście definicji technicznej?",
+                                      "options":  [
+                                                      "Emisją zanieczyszczeń o bardzo małym stężeniu toksyn",
+                                                      "Emisją z kominów o wysokości nieprzekraczającej 40 metrów",
+                                                      "Emisją zanieczyszczeń występującą wyłącznie w nocy",
+                                                      "Emisją pochodzącą bezpośrednio z poziomu gruntu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Niska emisja to wydzielanie do atmosfery pyłów i gazów ze źródeł znajdujących się na wysokości nieprzekraczającej 40 metrów."
+                                  },
+                                  {
+                                      "question":  "Które zanieczyszczenie gazowe jest emitowane głównie przez transport samochodowy?",
+                                      "options":  [
+                                                      "Dwutlenek siarki (SO2)",
+                                                      "Tlenki azotu (NOx)",
+                                                      "Pył zawieszony PM10",
+                                                      "Metan (CH4)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Według wykresu struktury emisji, transport jest głównym źródłem tlenków azotu (NOx) w Polsce (niebieska część wykresu kołowego dla NOx)."
+                                  },
+                                  {
+                                      "question":  "W jakim celu stosuje się wody chłodnicze w przemyśle i jaki jest ich główny skutek?",
+                                      "options":  [
+                                                      "Do mycia maszyn; powodują silne zasolenie rzek",
+                                                      "Do chłodzenia urządzeń; powodują zanieczyszczenie termiczne",
+                                                      "Do produkcji napojów; zużywają cenne zasoby głębinowe",
+                                                      "Do nawadniania pól; powodują wyjałowienie gleby"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wody chłodnicze stanowią ponad 85% ścieków przemysłowych i przyczyniają się do termicznego zanieczyszczenia wód powierzchniowych."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna różnica w dostępie do infrastruktury kanalizacyjnej między miastem a wsią w Polsce?",
+                                      "options":  [
+                                                      "W miastach i na wsiach dostęp wynosi obecnie blisko 100%",
+                                                      "Na wsiach dostęp jest znacznie wyższy dzięki funduszom unijnym",
+                                                      "W miastach korzysta \u003e90%, na wsiach jedynie ok. 40-44%",
+                                                      "Miasta nie korzystają z kanalizacji, tylko z przydomowych oczyszczalni"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Z sieci kanalizacyjnej w miastach korzysta ponad 90% mieszkańców (ok. 95%), podczas gdy na obszarach wiejskich wskaźnik ten wynosi jedynie 41-44%."
+                                  },
+                                  {
+                                      "question":  "Dlaczego miejscowości takie jak Goczałkowice-Zdrój czy Katowice mają gorszą jakość powietrza?",
+                                      "options":  [
+                                                      "Ze względu na bliskość morza i wysoką wilgotność powietrza",
+                                                      "Przez koncentrację niskiej emisji i lokalnego przemysłu",
+                                                      "Ponieważ na południu Polski praktycznie nigdy nie wieje wiatr",
+                                                      "Ponieważ leżą w głębokiej depresji geograficznej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W czołówce rankingu miast z najbardziej zanieczyszczonym powietrzem (PM2,5) znajdują się miejscowości z południa Polski (Katowice, Pszczyna, Goczałkowice), gdzie dominuje niska emisja z palenisk domowych i przemysł."
+                                  },
+                                  {
+                                      "question":  "Dlaczego województwo dolnośląskie i śląskie wyróżniają się w produkcji odpadów przemysłowych?",
+                                      "options":  [
+                                                      "Przez obecność największych aglomeracji miejskich",
+                                                      "Przez bardzo intensywne rolnictwo i produkcję biomasy",
+                                                      "Przez silnie rozwinięty przemysł wydobywczy",
+                                                      "Przez masowy import odpadów z zagranicy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ponad połowa odpadów przemysłowych pochodzi z górnictwa i wydobywania. Regiony te (Śląsk, Dolny Śląsk) są zagłębiami wydobywczymi, co widać na mapie produkcji odpadów."
+                                  },
+                                  {
+                                      "question":  "Jakie narzędzie GIS umożliwia sprawdzenie historycznego zanieczyszczenia ziemi w okolicy?",
+                                      "options":  [
+                                                      "Google Maps z warstwą natężenia ruchu",
+                                                      "Geoserwis GDOŚ",
+                                                      "Portal pogodowy IMGW",
+                                                      "System bankowości elektronicznej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Informacje o szkodach w środowisku i zanieczyszczeniach powierzchni ziemi można znaleźć w Geoserwisie GDOŚ, wybierając odpowiednie warstwy mapowe."
+                                  },
+                                  {
+                                      "question":  "Jaki jest mechanizm powstawania tzw. kwaśnych opadów?",
+                                      "options":  [
+                                                      "Reakcja tlenków siarki i azotu z parą wodną",
+                                                      "Opady pyłu wulkanicznego zmieszanego z deszczem",
+                                                      "Nadmierne parowanie wody z zanieczyszczonych rzek",
+                                                      "Bezpośredni zrzut stężonych kwasów z samolotów"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Kwaśne opady powstają w wyniku reakcji dwutlenku siarki i innych substancji (np. tlenków azotu) z parą wodną zawartą w powietrzu."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Główną przyczyną zanieczyszczenia powietrza w Polsce jest emisja z wielkich zakładów przemysłowych i elektrowni.",
+                                           "answer":  false,
+                                           "explanation":  "Głównym źródłem zanieczyszczeń (tzw. niskiej emisji) są domowe urządzenia grzewcze i lokalne kotłownie (kominy poniżej 40 m)."
+                                       },
+                                       {
+                                           "sentence":  "Termin „niska emisja” oznacza, że do atmosfery wprowadzana jest niewielka, bezpieczna ilość zanieczyszczeń.",
+                                           "answer":  false,
+                                           "explanation":  "„Niska emisja” odnosi się do wysokości emitorów (kominów) nieprzekraczającej 40 metrów, a nie do małej ilości zanieczyszczeń."
+                                       },
+                                       {
+                                           "sentence":  "W Polsce dominuje tzw. smog siarkowy (zimowy), powiązany z wysokim stężeniem pyłów i dwutlenku siarki.",
+                                           "answer":  true,
+                                           "explanation":  "Polska znajduje się w czołówce emitentów pyłów, które wraz z dwutlenkiem siarki są współodpowiedzialne za powstawanie smogu siarkowego."
+                                       },
+                                       {
+                                           "sentence":  "Gospodarstwa domowe wytwarzają większość odpadów w Polsce (ponad 50%).",
+                                           "answer":  false,
+                                           "explanation":  "Odpady komunalne stanowią niecałe 10% wszystkich odpadów; ponad 90% pochodzi z przemysłu (głównie górnictwa i wydobycia)."
+                                       },
+                                       {
+                                           "sentence":  "Wody chłodnicze zrzucane przez elektrownie są główną przyczyną eutrofizacji (przeżyźnienia) rzek i jezior.",
+                                           "answer":  false,
+                                           "explanation":  "Wody chłodnicze powodują zanieczyszczenie termiczne. Eutrofizację wywołują związki azotu i fosforu spływające z pól uprawnych."
+                                       },
+                                       {
+                                           "sentence":  "Od lat 90. XX wieku tempo degradacji środowiska w Polsce uległo zahamowaniu.",
+                                           "answer":  true,
+                                           "explanation":  "Dzięki restrukturyzacji przemysłu i nowym technologiom degradacja postępuje wolniej, a stan niektórych elementów środowiska się poprawia."
+                                       },
+                                       {
+                                           "sentence":  "Większość mieszkańców polskiej wsi posiada dostęp do sieci kanalizacyjnej.",
+                                           "answer":  false,
+                                           "explanation":  "Na obszarach wiejskich z sieci kanalizacyjnej korzysta jedynie około 41–44% mieszkańców, podczas gdy w miastach ponad 90%."
+                                       },
+                                       {
+                                           "sentence":  "Polska przetwarza (recyklinguje) większy procent odpadów komunalnych niż średnia dla Unii Europejskiej.",
+                                           "answer":  false,
+                                           "explanation":  "W 2018 r. w Polsce recyklingowi poddano 34,1% odpadów, podczas gdy średnia unijna wynosiła 47,6%."
+                                       },
+                                       {
+                                           "sentence":  "Rekultywacja to proces polegający wyłącznie na sadzeniu lasów na terenach zniszczonych.",
+                                           "answer":  false,
+                                           "explanation":  "Rekultywacja to przywracanie terenom zniszczonym wartości użytkowych lub przyrodniczych, co może obejmować różne kierunki zagospodarowania, nie tylko zalesianie."
+                                       },
+                                       {
+                                           "sentence":  "Państwowy Monitoring Środowiska (PMŚ) zajmuje się wyłącznie pomiarami jakości powietrza.",
+                                           "answer":  false,
+                                           "explanation":  "System ten gromadzi informacje także o wodach, glebach, hałasie, polach elektromagnetycznych i różnorodności biologicznej."
+                                       },
+                                       {
+                                           "sentence":  "Sieć Natura 2000 to najstarsza forma ochrony przyrody w Polsce, funkcjonująca od okresu międzywojennego.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to najmłodsza forma ochrony, wprowadzona w 2004 roku w związku z wejściem Polski do Unii Europejskiej."
+                                       },
+                                       {
+                                           "sentence":  "Kwaśne opady powstają w wyniku reakcji pary wodnej z tlenkami siarki i azotu w atmosferze.",
+                                           "answer":  true,
+                                           "explanation":  "W wyniku reakcji dwutlenku siarki i tlenków azotu z parą wodną tworzą się kwasy, które opadają z deszczem (kwaśne opady)."
+                                       }
+                                   ]
+                 }
+}

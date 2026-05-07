@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t3",
+    "title": "Zmiany w przemyśle na świecie",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Industrializacja",
+        "definition": "Proces szybszego w stosunku do innych sektorów gospodarki rozwoju przemysłu oraz wzrostu jego udziału w strukturze zatrudnienia i w tworzeniu PKB."
+      },
+      {
+        "term": "Dezindustrializacja",
+        "definition": "Proces trwałego zanikania działalności przemysłowej lub zmniejszenia jej znaczenia, przejawiający się spadkiem udziału przemysłu w zatrudnieniu, PKB i eksporcie."
+      },
+      {
+        "term": "Reindustrializacja",
+        "definition": "Ponowny wzrost znaczenia sektora przemysłowego w gospodarce polegający na wprowadzaniu jakościowych zmian opartych na wiedzy, innowacjach i przemyśle high-tech."
+      },
+      {
+        "term": "Outsourcing",
+        "definition": "Przekazywanie przez przedsiębiorstwa niektórych obszarów działalności (np. księgowości) firmom zewnętrznym, stanowiące jedną z przyczyn dezindustrializacji."
+      },
+      {
+        "term": "Offshoring",
+        "definition": "Przenoszenie produkcji lub innych obszarów działalności firmy za granicę, zazwyczaj do państw o niższych kosztach pracy."
+      },
+      {
+        "term": "Dezindustrializacja strukturalna",
+        "definition": "Zamykanie nierentownych, przestarzałych zakładów przemysłowych wynikające ze spadku zapotrzebowania na produkowane przez nie określone wyroby."
+      },
+      {
+        "term": "Dezindustrializacja relokacyjna",
+        "definition": "Zamykanie zakładów w danym miejscu, które jest efektem przenoszenia ich działalności do innego regionu lub kraju w celu obniżenia kosztów produkcji."
+      },
+      {
+        "term": "Faza postindustrialna",
+        "definition": "Etap rozwoju społeczno-gospodarczego, w którym przemysł traci na znaczeniu na rzecz sektora usług (przejście do niej wywołuje proces dezindustrializacji)."
+      },
+      {
+        "term": "Presja ekologiczna",
+        "definition": "Jeden z czynników relokacyjnej dezindustrializacji polegający na niechęci inwestorów do prowadzenia w krajach rozwiniętych działalności uciążliwej dla środowiska."
+      },
+      {
+        "term": "Rozwój monostrukturalny",
+        "definition": "Ukierunkowanie gospodarki obszaru na jeden dział przemysłu; przy transformacji rynkowej prowadzi do wysokiego bezrobocia strukturalnego."
+      },
+      {
+        "term": "Industrializacja (Polska po II wojnie światowej)",
+        "definition": "Intensywne uprzemysłowienie kraju w ramach modelu socjalistycznej gospodarki centralnie sterowanej, gdzie przemysł uznawano za główną podstawę rozwoju."
+      },
+      {
+        "term": "Dezindustrializacja (Polska po 1989 r.)",
+        "definition": "Proces masowego upadku nierentownych zakładów przemysłowych wywołany zmianą ustroju na gospodarkę rynkową i niemożnością sprostania światowej konkurencji."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Północno-wschodnia część Stanów Zjednoczonych (tzw. pas rdzy, m.in. Bethlehem)",
+        "pair2": "Obszar, w którym negatywnym skutkiem dezindustrializacji był upadek większości hut."
+      },
+      {
+        "pair1": "Rozbudowa fabryki firmy Osram w Ratyzbonie o zakład produkcji laserów diodowych",
+        "pair2": "Przykład reindustrializacji i zastępowania starych technologii produkcją zaawansowaną."
+      },
+      {
+        "pair1": "Przekształcenie kompleksu przemysłowego Zollverein w Essen",
+        "pair2": "Przejaw dezindustrializacji polegający na zastępowaniu dawnych fabryk obiektami pełniącymi funkcje kulturalno-rozrywkowe."
+      },
+      {
+        "pair1": "Spadek zapotrzebowania na siłę roboczą w produkcji",
+        "pair2": "Bezpośredni skutek automatyzacji i robotyzacji, będący przyczyną dezindustrializacji w zatrudnieniu."
+      },
+      {
+        "pair1": "Przenoszenie działalności szkodliwej dla środowiska do krajów o niższych standardach ekologicznych (np. Indii)",
+        "pair2": "Efekt rosnącej presji ekologicznej w państwach wysoko rozwiniętych (dezindustrializacja relokacyjna)."
+      },
+      {
+        "pair1": "Fabryka bram i nowoczesnej automatyki firmy Wiśniowski w Wielogłowach",
+        "pair2": "Przykład zachodzącej w XXI w. w Polsce reindustrializacji wspartej krajowym kapitałem."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jak nazywa się proces polegający na bardzo szybkim rozwoju sektora przemysłowego oraz wyraźnym wzroście jego znaczenia w gospodarce?",
+        "options": [
+          "Postępująca dezindustrializacja",
+          "Szybka reindustrializacja",
+          "Proces industrializacji",
+          "Rozwój monostrukturalny"
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z podręcznikiem industrializacja to proces szybszego w stosunku do innych sektorów gospodarki rozwoju przemysłu oraz wzrostu jego udziału w zatrudnieniu i PKB."
+      },
+      {
+        "question": "Co jest głównym przejawem postępującej w kraju rozwiniętym gospodarczo dezindustrializacji?",
+        "options": [
+          "Wzrost wydobycia węgla w górnictwie",
+          "Zwiększenie dotacji na sektor rolniczy",
+          "Spadek udziału przemysłu w tworzeniu PKB",
+          "Powstawanie zupełnie nowych technopolii"
+        ],
+        "answer": "C",
+        "explanation": "Dezindustrializacja przejawia się spadkiem udziału przemysłu w zatrudnieniu, tworzeniu PKB oraz w strukturze eksportu na rzecz sektora usług."
+      },
+      {
+        "question": "Na czym polega zjawisko reindustrializacji, które można obserwować współcześnie w państwach wysoko rozwiniętych?",
+        "options": [
+          "Budowie ogromnych państwowych hut",
+          "Ponownym wzroście roli przemysłu",
+          "Zamykaniu kopalń oraz elektrowni",
+          "Ograniczeniu wydatków na naukę"
+        ],
+        "answer": "B",
+        "explanation": "Reindustrializacja to ponowny wzrost znaczenia sektora przemysłowego w gospodarce, jednak zorientowany na nowoczesne technologie i wiedzę, a nie na przestarzały przemysł ciężki."
+      },
+      {
+        "question": "Do jakiej fazy rozwoju społeczno-gospodarczego przechodzi państwo w wyniku intensywnie zachodzącego procesu dezindustrializacji?",
+        "options": [
+          "Do fazy wczesnoindustrialnej",
+          "Do fazy nowo uprzemysłowionej",
+          "Do fazy postindustrialnej",
+          "Do fazy tradycyjnej rolniczej"
+        ],
+        "answer": "C",
+        "explanation": "Dezindustrializacja jest procesem typowym dla krajów przechodzących z fazy industrialnej do fazy postindustrialnej, w której kluczową rolę przejmuje sektor usług."
+      },
+      {
+        "question": "Jakie zjawisko polega na przenoszeniu działalności zakładu produkcyjnego z kraju wysoko rozwiniętego do kraju o niższych kosztach pracy?",
+        "options": [
+          "Dynamiczna reindustrializacja",
+          "Proces zwany offshoringiem",
+          "Proces zwany outsourcingiem",
+          "Gwałtowna automatyzacja"
+        ],
+        "answer": "B",
+        "explanation": "Offshoring to przenoszenie produkcji lub innych obszarów działalności firmy za granicę, zazwyczaj w celu obniżenia kosztów produkcji, co potęguje dezindustrializację."
+      },
+      {
+        "question": "Który czynnik wymusza tzw. relokacyjną dezindustrializację zakładów uciążliwych z państw zamożnych do krajów słabo rozwiniętych?",
+        "options": [
+          "Rosnąca presja ekologiczna",
+          "Brak wykwalifikowanej kadry",
+          "Spadek popytu na usługi",
+          "Rozwój nowoczesnych klastrów"
+        ],
+        "answer": "A",
+        "explanation": "Rosnąca presja ekologiczna i wysokie standardy ochrony środowiska w państwach rozwiniętych powodują przenoszenie uciążliwej działalności przemysłowej do krajów o niższych standardach ekologicznych."
+      },
+      {
+        "question": "Jaki jest główny wpływ postępującej automatyzacji i robotyzacji procesów wytwórczych na strukturę zatrudnienia w przemyśle?",
+        "options": [
+          "Wzrost liczby miejsc pracy dla robotników",
+          "Spadek zapotrzebowania na siłę roboczą",
+          "Konieczność sprowadzania taniej kadry",
+          "Nagłe zwiększenie zatrudnienia w usługach"
+        ],
+        "answer": "B",
+        "explanation": "Zastępowanie ludzi przez maszyny (automatyzacja i robotyzacja) prowadzi bezpośrednio do spadku zapotrzebowania na tradycyjną siłę roboczą, co jest kluczową przyczyną dezindustrializacji w zatrudnieniu."
+      },
+      {
+        "question": "W jakiej sytuacji mówi się w geografii gospodarczej o dezindustrializacji o charakterze wyłącznie strukturalnym?",
+        "options": [
+          "Gdy zakład wznawia produkcję w nowym państwie",
+          "Gdy zakład upada z powodu braku zbytu na wyrób",
+          "Gdy fabryka zostaje przeniesiona w celu zysku",
+          "Gdy firma zatrudnia tańszą kadrę z zagranicy"
+        ],
+        "answer": "B",
+        "explanation": "Dezindustrializacja ma charakter strukturalny, gdy fizyczna likwidacja zakładów wynika ze spadku rynkowego zapotrzebowania na produkowane przez nie określone wyroby."
+      },
+      {
+        "question": "Które zjawisko było charakterystyczne dla polskiego sektora przemysłowego w okresie gospodarki centralnie sterowanej po drugiej wojnie światowej?",
+        "options": [
+          "Rozwój głównie prywatnych firm",
+          "Intensywna industrializacja kraju",
+          "Gwałtowna dezindustrializacja",
+          "Przewaga nowoczesnych usług"
+        ],
+        "answer": "B",
+        "explanation": "Po II wojnie światowej w Polsce wdrażano model gospodarki socjalistycznej, którego głównym elementem była intensywna i masowa industrializacja państwa."
+      },
+      {
+        "question": "Skutkiem czego było powstanie w północno-wschodniej części Stanów Zjednoczonych obszaru określanego dzisiaj jako tzw. pas rdzy?",
+        "options": [
+          "Prowadzenia silnej reindustrializacji",
+          "Masowego zakładania nowych technopolii",
+          "Upadku większości starych ośrodków hutniczych",
+          "Szybkiego rozwoju nowoczesnego sektora usług"
+        ],
+        "answer": "C",
+        "explanation": "Pas rdzy (rust belt) to region w USA, w którym negatywnym skutkiem trwającej dezindustrializacji był masowy upadek większości funkcjonujących tam niegdyś hut."
+      },
+      {
+        "question": "Co doprowadziło do masowego upadku zakładów przemysłowych w Polsce krótko po transformacji ustrojowej rozpoczętej w 1989 roku?",
+        "options": [
+          "Niemożność sprostania światowej konkurencji rynkowej",
+          "Wyczerpanie się najważniejszych krajowych złóż miedzi",
+          "Celowe ograniczanie produkcji przez instytucje unijne",
+          "Brak dostępu do nowo powstających rynków wschodnich"
+        ],
+        "answer": "A",
+        "explanation": "Po 1989 r. w wyniku wprowadzenia gospodarki rynkowej większość państwowych zakładów była przestarzała, przez co nie potrafiła sprostać światowej konkurencji rynkowej i upadła."
+      },
+      {
+        "question": "Z jakiego powodu w wielu państwach wysoko rozwiniętych rządy wspierają politykę powrotu do przemysłu, czyli reindustrializację?",
+        "options": [
+          "Ponieważ marginalizacja przemysłu hamuje rozwój państwa",
+          "Aby szybko zwiększyć zatrudnienie w tradycyjnym rolnictwie",
+          "Ponieważ usługi nie dają żadnych przychodów dla budżetu",
+          "Aby skutecznie ratować przestarzałe i nierentowne fabryki"
+        ],
+        "answer": "A",
+        "explanation": "W krajach zamożnych okazało się, że zbyt duża marginalizacja sektora przemysłowego i opieranie się wyłącznie na usługach znacząco hamuje dalszy zrównoważony rozwój gospodarczy."
+      },
+      {
+        "question": "Jaki typ zmian jakościowych w procesach wytwórczych jest kluczowym warunkiem skutecznej reindustrializacji w państwach rozwiniętych?",
+        "options": [
+          "Tworzenie masowych miejsc pracy przy liniach montażowych",
+          "Opieranie nowoczesnej produkcji na wiedzy i technologiach",
+          "Powrót do silnie zanieczyszczającego środowisko hutnictwa",
+          "Całkowita rezygnacja z powiązań z placówkami badawczymi"
+        ],
+        "answer": "B",
+        "explanation": "Reindustrializacja nie polega na odbudowie przemysłu ciężkiego, ale na wprowadzaniu zmian jakościowych, w których szczególną rolę odgrywają innowacje, wiedza i nowoczesne technologie."
+      },
+      {
+        "question": "Które stwierdzenie ukazuje relację między przenoszeniem zakładów produkcyjnych z krajów bogatych do biednych a nową polityką rządów?",
+        "options": [
+          "Uzależnienie od zagranicznych dostaw wymusza działania naprawcze",
+          "Spadek znaczenia usług wywołuje budowę wielkich okręgów przemysłu",
+          "Wysokie koszty pracy zmuszają do całkowitego zamknięcia rolnictwa",
+          "Wzrost emisji zanieczyszczeń skutkuje wstrzymaniem reindustrializacji"
+        ],
+        "answer": "A",
+        "explanation": "Zjawisko relokacji przemysłu sprawiło, że kraje wysoko rozwinięte uzależniły się od zewnętrznych dostaw. W obawie przed kryzysem państwa te zaczęły realizować politykę powrotu produkcji na terytorium kraju (reindustrializację)."
+      },
+      {
+        "question": "Który z podanych poniżej przykładów z podręcznika prawidłowo ilustruje przejaw współcześnie zachodzącego procesu reindustrializacji?",
+        "options": [
+          "Upadek starych hut stali na terenie amerykańskiego stanu Pensylwania",
+          "Zamiana dawnej kopalni w mieście Essen na nowoczesne centrum wystawowe",
+          "Powstanie wielkiej państwowej cementowni Górażdże na terenie Polski",
+          "Rozbudowa bawarskich zakładów Osram o produkcję zaawansowanych laserów"
+        ],
+        "answer": "D",
+        "explanation": "Rozbudowa fabryki w Ratyzbonie o nowoczesny zakład produkcji laserów to bezpośredni podręcznikowy przykład reindustrializacji. Kompleks Zollverein to skutek dezindustrializacji, a huty w USA to przejaw powstania pasa rdzy."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Dezindustrializacja to proces zachodzący obecnie we wszystkich państwach świata, przejawiający się w jednakowym stopniu zamykaniem fabryk i spadkiem udziału przemysłu w PKB.",
+        "answer": false,
+        "explanation": "Zjawisko to nie obejmuje całego świata. W państwach wysoko rozwiniętych przemysł traci na znaczeniu na rzecz usług, jednak w krajach rozwijających się nadal wciąż można obserwować proces industrializacji, czyli szybkiego rozwoju przemysłu."
+      },
+      {
+        "sentence": "Proces reindustrializacji obserwowany współcześnie w państwach wysoko rozwiniętych polega na masowym otwieraniu nowych kopalń węgla kamiennego i budowie wielkich państwowych hut.",
+        "answer": false,
+        "explanation": "Reindustrializacja polega na wprowadzaniu jakościowych zmian opartych na wiedzy, innowacjach i pracach badawczo-rozwojowych (np. rozwój zakładów przemysłu high-tech), a nie na odbudowie przestarzałych, tradycyjnych gałęzi przemysłu ciężkiego."
+      },
+      {
+        "sentence": "Dezindustrializacja relokacyjna to proces zamykania zakładów produkcyjnych, który wynika wyłącznie z całkowitego spadku rynkowego zapotrzebowania na ich wyroby.",
+        "answer": false,
+        "explanation": "Likwidacja wynikająca ze spadku zapotrzebowania na wyroby to dezindustrializacja strukturalna. Dezindustrializacja relokacyjna jest efektem przenoszenia działalności do innych krajów w celu obniżenia kosztów produkcji."
+      },
+      {
+        "sentence": "Postępująca robotyzacja i automatyzacja procesów produkcyjnych stanowią jedną z głównych przyczyn dezindustrializacji, ponieważ prowadzą do spadku zapotrzebowania na siłę roboczą w przemyśle.",
+        "answer": true,
+        "explanation": "Według podręcznika, automatyzacja i robotyzacja powodują mniejsze zapotrzebowanie na pracowników linii produkcyjnych, co jest bezpośrednią przyczyną zmniejszania udziału przemysłu w strukturze zatrudnienia (dezindustrializacji)."
+      },
+      {
+        "sentence": "Dezindustrializacja jest zjawiskiem charakterystycznym dla państw przechodzących z fazy industrialnej do postindustrialnej, co wiąże się ze stopniowym przejmowaniem głównej roli w gospodarce przez sektor usług.",
+        "answer": true,
+        "explanation": "W państwach rozwiniętych, wchodzących w fazę postindustrialną, przemysł traci dotychczasowe znaczenie i zwalnia miejsce prężnie rozwijającemu się sektorowi usług, w którym rośnie zatrudnienie i jego udział w tworzeniu PKB."
+      },
+      {
+        "sentence": "Rosnąca presja ekologiczna w krajach wysoko rozwiniętych doprowadziła do wstrzymania relokacji przemysłu, aby uciążliwe fabryki mogły być rygorystycznie kontrolowane na własnym terytorium.",
+        "answer": false,
+        "explanation": "Jest dokładnie odwrotnie. Rosnąca presja ekologiczna i surowe przepisy sprawiają, że inwestorzy niechętnie prowadzą działalność uciążliwą dla środowiska u siebie, dlatego przenoszą szkodliwe fabryki do krajów o niższych standardach (np. do Indii)."
+      },
+      {
+        "sentence": "Po II wojnie światowej intensywna industrializacja Polski opierała się w głównej mierze na dynamicznym rozwoju innowacyjnego przemysłu wysokich technologii, przeznaczonego na rynki zachodnie.",
+        "answer": false,
+        "explanation": "Industrializacja Polski w modelu gospodarki centralnie sterowanej polegała na rozwoju przemysłu tradycyjnego i ciężkiego, opartego na eksploatacji surowców, a nie innowacyjnego przemysłu zaawansowanych technologii."
+      },
+      {
+        "sentence": "Masowy upadek polskich zakładów przemysłowych po 1989 roku wynikał z wprowadzenia gospodarki rynkowej oraz niemożności sprostania przez rodzime fabryki światowej konkurencji.",
+        "answer": true,
+        "explanation": "Przemiany ustrojowe zapoczątkowane w 1989 r. zerwały więzi z rynkami państw socjalistycznych, a przestarzałe, nierentowne państwowe przedsiębiorstwa nie potrafiły konkurować na globalnym wolnym rynku, przez co upadały."
+      },
+      {
+        "sentence": "Proces outsourcingu polega na fizycznym przenoszeniu produkcji za granicę w celu uzyskania niższych kosztów, natomiast offshoring to przekazanie zewnętrznej firmie obsługi konkretnego obszaru działalności, np. księgowości.",
+        "answer": false,
+        "explanation": "Definicje w zdaniu zostały odwrócone. To offshoring polega na przenoszeniu działalności firmy za granicę (poza terytorium państwa), a outsourcing to zlecanie poszczególnych zadań (np. wspomnianej księgowości) firmom zewnętrznym."
+      },
+      {
+        "sentence": "Silna marginalizacja przemysłu w krajach bogatych spowodowała uzależnienie tych państw od dostaw produktów ze słabiej rozwiniętych państw, co po czasie stało się istotnym argumentem za podjęciem procesów reindustrializacji.",
+        "answer": true,
+        "explanation": "Państwa zachodnie zorientowały się, że zbytnie oparcie gospodarki na samych usługach oraz relokacja fabryk wywołały groźne uzależnienie od zewnętrznych dostaw, co dało impuls do wspieranej przez państwo reindustrializacji."
+      },
+      {
+        "sentence": "Rozwój fabryki nowoczesnej automatyki firmy Wiśniowski w Wielogłowach jest w podręczniku przykładem polskiej reindustrializacji, zapoczątkowanej wyłącznie w oparciu o bezzwrotny kapitał zagraniczny.",
+        "answer": false,
+        "explanation": "przypadek firmy Wiśniowski jako podręcznikowy przykład zachodzącej w Polsce w XXI wieku reindustrializacji, która odniosła sukces dzięki zaangażowaniu i inwestycjom kapitału polskiego, a nie zagranicznego."
+      },
+      {
+        "sentence": "Zjawisko dezindustrializacji omija państwa słabo rozwinięte, ponieważ zakłady w tych krajach są trwale chronione przed globalną konkurencją i nieustannie napędzają rozwój krajowego PKB.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem dezindustrializacja zachodzi również w krajach słabo rozwiniętych, jednak z innych przyczyn. Tamtejsze niedoinwestowane i przestarzałe zakłady bardzo często nie potrafią sprostać konkurencji wielkich międzynarodowych korporacji, co doprowadza do ich bankructwa."
+      }
+    ]
+  }
+}

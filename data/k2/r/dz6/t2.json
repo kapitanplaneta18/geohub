@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t2",
+    "title": "Transport",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Transport",
+        "definition": "Zespół usług zaspokajających potrzeby związane z przemieszczaniem osób, przewozem ładunków oraz przesyłaniem energii."
+      },
+      {
+        "term": "Infrastruktura transportowa",
+        "definition": "Zespół elementów warunkujących efektywne świadczenie usług transportowych, obejmujący sieć transportową, węzły transportowe oraz obiekty towarzyszące."
+      },
+      {
+        "term": "Węzeł transportowy",
+        "definition": "Miejsce, w którym zbiegają się co najmniej trzy szlaki transportowe jednego lub kilku rodzajów transportu, np. skrzyżowania dróg, linii kolejowych i lotnisk."
+      },
+      {
+        "term": "Terminal transportowy (przeładunkowy)",
+        "definition": "Miejsce przystosowane do przeładunku towarów, zazwyczaj w zintegrowanych jednostkach takich jak kontenery, z jednego środka transportu na drugi."
+      },
+      {
+        "term": "Transport samochodowy",
+        "definition": "Rodzaj transportu lądowego odgrywający kluczową rolę w przewozie pasażerów na krótkich i średnich dystansach oraz w transporcie towarów szybko psujących się."
+      },
+      {
+        "term": "Transport kolejowy",
+        "definition": "Rodzaj transportu lądowego, który ma duże znaczenie w przewozach towarów masowych na dalekich trasach oraz w regularnym ruchu podmiejskim."
+      },
+      {
+        "term": "Transport morski",
+        "definition": "Rodzaj transportu obsługujący około 70% towarów będących w międzynarodowym obrocie handlowym, przewożący głównie ładunki masowe (np. ropę naftową)."
+      },
+      {
+        "term": "Tanie bandery",
+        "definition": "Państwa o bardzo liberalnych przepisach i niskich podatkach (np. Panama, Liberia, Cypr), w których armatorzy rejestrują swoje statki w celu obniżenia kosztów działalności."
+      },
+      {
+        "term": "Żegluga kabotażowa",
+        "definition": "Żegluga odbywająca się po wodach przybrzeżnych pomiędzy portami w obrębie tego samego państwa."
+      },
+      {
+        "term": "Transport wodny śródlądowy",
+        "definition": "Rodzaj transportu odbywający się po rzekach, jeziorach i kanałach, wykorzystywany głównie do taniego przewozu ładunków masowych o dużej objętości."
+      },
+      {
+        "term": "Transport lotniczy",
+        "definition": "Najdroższy i najszybciej rozwijający się rodzaj transportu, wykorzystywany głównie do przewozów pasażerskich na dużych odległościach oraz transportu towarów bardzo cennych lub szybko psujących się."
+      },
+      {
+        "term": "Transport przesyłowy (specjalny)",
+        "definition": "Transport polegający na przemieszczaniu towarów masowych (np. ropy naftowej, gazu, wody) rurociągami i taśmociągami oraz przesyłaniu energii elektrycznej sieciami energetycznymi."
+      },
+      {
+        "term": "Przyrodnicze czynniki rozwoju transportu",
+        "definition": "Uwarunkowania takie jak ukształtowanie powierzchni, warunki klimatyczne (występowanie cyklonów, zlodzenie wód) oraz dostępność naturalnych dróg wodnych i ukształtowanie linii brzegowej."
+      },
+      {
+        "term": "Społeczno-ekonomiczne czynniki rozwoju transportu",
+        "definition": "Uwarunkowania takie jak liczba i rozmieszczenie ludności, rozwój ośrodków przemysłowych, zamożność społeczeństwa, rozwój wymiany handlowej oraz polityka transportowa państwa."
+      },
+      {
+        "term": "Tranzyt (kraj tranzytowy)",
+        "definition": "Przewóz ładunków lub osób przez terytorium państwa, w którym nie znajduje się ani punkt początkowy, ani docelowy trasy."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Transport samochodowy (zaleta)",
+        "pair2": "Możliwość dostarczania towarów bezpośrednio od nadawcy do odbiorcy (door-to-door) i powszechna dostępność."
+      },
+      {
+        "pair1": "Transport samochodowy (wada)",
+        "pair2": "Duży udział w degradacji środowiska (emisja spalin i hałasu) oraz najwyższa wypadkowość spośród wszystkich rodzajów transportu."
+      },
+      {
+        "pair1": "Transport morski (zaleta)",
+        "pair2": "Największa ładowność środków transportu i bardzo niskie koszty przewozu ładunków masowych na międzykontynentalnych dystansach."
+      },
+      {
+        "pair1": "Transport lotniczy (wada)",
+        "pair2": "Bardzo wysokie koszty eksploatacji i budowy skomplikowanej infrastruktury technicznej oraz skomplikowany, długotrwały proces odprawy pasażerów."
+      },
+      {
+        "pair1": "Transport lotniczy (zaleta)",
+        "pair2": "Duża szybkość i daleki zasięg przestrzenny, co czyni go kluczowym w dalekich przewozach pasażerskich."
+      },
+      {
+        "pair1": "Transport przesyłowy (cecha)",
+        "pair2": "Gwarantuje ciągłość przesyłu materiałów i jest niezależny od warunków pogodowych, lecz ogranicza się tylko do towarów masowych i energii na stałej trasie."
+      },
+      {
+        "pair1": "Transport kolejowy (zaleta)",
+        "pair2": "Duża ładowność przy wysokim poziomie bezpieczeństwa i stosunkowo niskich kosztach przewozu ładunków na średnich i długich dystansach."
+      },
+      {
+        "pair1": "Transport wodny śródlądowy (wada)",
+        "pair2": "Bardzo długi czas przewozu, silne uzależnienie od stanów wody w rzekach oraz konieczność budowy śluz i regulacji koryt rzecznych."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Z jakich głównych elementów składa się fizyczna infrastruktura transportowa państwa?",
+        "options": [
+          "Zintegrowana sieć szlaków, liczne węzły oraz obiekty towarzyszące",
+          "Państwowa flota pojazdów, porty oraz warsztaty naprawcze taboru",
+          "Wydzielone strefy celne, rurociągi przesyłowe i centra logistyczne",
+          "Miejskie stacje paliw, autostrady i prywatne środki komunikacji"
+        ],
+        "answer": "A",
+        "explanation": "Infrastrukturę transportową tworzy zintegrowana sieć szlaków, węzły oraz specjalne obiekty towarzyszące, takie jak dworce i porty."
+      },
+      {
+        "question": "W jaki sposób w logistyce definiuje się klasyczny węzeł transportowy?",
+        "options": [
+          "Punkt, w którym zbiegają się minimum trzy różne szlaki komunikacyjne",
+          "Miejsce przeznaczone wyłącznie do długotrwałego magazynowania dóbr",
+          "Specjalna strefa służąca do przeprowadzania odpraw celnych towaru",
+          "Główna stacja początkowa na dowolnej międzynarodowej linii lotniczej"
+        ],
+        "answer": "A",
+        "explanation": "Węzeł transportowy to punkt, w którym zbiegają się i krzyżują co najmniej trzy różne szlaki komunikacyjne."
+      },
+      {
+        "question": "Który rodzaj transportu odpowiada za przewiezienie największej liczby ładunków w globalnym handlu?",
+        "options": [
+          "Nowoczesny transport drogowy bardzo dalekiego zasięgu przestrzennego",
+          "Wyspecjalizowany transport lotniczy przewożący towary cenne i pilne",
+          "Dalekomorski transport wodny obsługujący rozmaite ładunki masowe",
+          "Tradycyjny transport rzeczny działający w obrębie wielkich dorzeczy"
+        ],
+        "answer": "C",
+        "explanation": "Transport morski wykonuje największą pracę przewozową, obsługując około 70% towarów w globalnym obrocie handlowym."
+      },
+      {
+        "question": "Co obejmuje powszechnie stosowane kryterium przedmiotowe w klasyfikacji usług transportowych?",
+        "options": [
+          "Podział uwzględniający przewóz osób, towarów oraz przesyłanie energii",
+          "Klasyfikacja dzieląca środki przemieszczania na lądowe oraz wodne",
+          "Wyodrębnienie rodzajów spedycji ze względu na długość danej trasy",
+          "Zestawienie floty transportowej według jej dopuszczalnej ładowności"
+        ],
+        "answer": "A",
+        "explanation": "Kryterium przedmiotowe pozwala podzielić działalność transportową na przewóz osób, przewóz towarów oraz przesył energii."
+      },
+      {
+        "question": "Jaką przewagę ekonomiczną i organizacyjną posiada przewóz samochodowy nad kolejowym?",
+        "options": [
+          "Gwarantuje on zdecydowanie najniższe koszty na dystansach globalnych",
+          "Zapewnia on unikalną możliwość dostaw ładunku od drzwi do samych drzwi",
+          "Charakteryzuje się największą dozwoloną ładownością jednego pojazdu",
+          "Jest on całkowicie niezależny od występowania skrajnych zjawisk pogody"
+        ],
+        "answer": "B",
+        "explanation": "Drogowy transport samochodowy zapewnia obsługę w systemie od drzwi do drzwi, co eliminuje potrzebę dodatkowych przeładunków na krótkich trasach."
+      },
+      {
+        "question": "Z jakiego powodu węgiel oraz rudy żelaza przewozi się najczęściej statkami i pociągami?",
+        "options": [
+          "Towary te wymagają bezwzględnego zachowania standardów higienicznych",
+          "Są to zazwyczaj ładunki masowe wymagające wyjątkowo taniego przewozu",
+          "Międzynarodowe konwencje prawnie zakazują ich lotniczego transportu",
+          "Czas przemieszczania takich surowców musi być zawsze maksymalnie krótki"
+        ],
+        "answer": "B",
+        "explanation": "Węgiel i rudy metali to ciężkie ładunki masowe, których przewóz jest najbardziej opłacalny morską drogą wodną lub szlakami kolejowymi."
+      },
+      {
+        "question": "Jakie zjawisko klimatyczne w północnej Rosji paraliżuje działanie wodnego transportu śródlądowego?",
+        "options": [
+          "Wieloletnia zmarzlina lądowa uszkadza fundamenty głównych portów rzecznych",
+          "Częste cyklony tropikalne niszczą przestarzałą infrastrukturę przeładunkową",
+          "Długotrwałe, zimowe zlodzenie powierzchni rzek wstrzymuje na długo nawigację",
+          "Utrzymująca się letnia susza dramatycznie obniża dopuszczalny poziom wód"
+        ],
+        "answer": "C",
+        "explanation": "W północnej Rosji ujemne temperatury powodują zlodzenie rzek przez wiele miesięcy, co całkowicie uniemożliwia żeglugę śródlądową w tym okresie."
+      },
+      {
+        "question": "Co stanowi fundamentalną przewagę specjalistycznego transportu przesyłowego (rurociągowego)?",
+        "options": [
+          "Zapewnia całkowitą niezależność przesyłu od bieżących warunków atmosferycznych",
+          "Oferuje ogromną elastyczność i daje swobodną możliwość częstej zmiany tras",
+          "Wymaga minimalnych kosztów kapitałowych przy budowie bazowej infrastruktury",
+          "Umożliwia masowe i jednoczesne przesyłanie różnorodnych towarów oraz ludzi"
+        ],
+        "answer": "A",
+        "explanation": "Transport rurociągowy umożliwia ciągły, masowy przesył płynów i gazów, nie ulegając przy tym wpływom jakichkolwiek warunków atmosferycznych."
+      },
+      {
+        "question": "Dlaczego mocarstwa wyspiarskie silnie uzależniają swoją wymianę handlową od statków dalekomorskich?",
+        "options": [
+          "Posiada absolutny monopol na luksusowe przewozy pasażerskie na całym świecie",
+          "Zapewnia stanowczo najszybszą dostawę świeżych produktów i artykułów pilnych",
+          "Stanowi on współcześnie najtańszy środek realizacji wielkiej wymiany handlowej",
+          "Generuje najmniejsze koszty początkowe podczas budowy nowych portów i terminali"
+        ],
+        "answer": "C",
+        "explanation": "Transport morski zapewnia gigantyczną ładowność i najniższe koszty przy przewożeniu masowych surowców na rozległych dystansach międzykontynentalnych."
+      },
+      {
+        "question": "Czym w nomenklaturze specjalistycznej jest zjawisko nazywane żeglugą kabotażową?",
+        "options": [
+          "Żegluga oceaniczna obsługująca głównie wielkie ładunki międzykontynentalne",
+          "Przewóz towarów po rzekach celem ominięcia rygorystycznych opłat skarbowych",
+          "Transport pasażerski lub towarowy pomiędzy portami w obrębie jednego kraju",
+          "Rejestrowanie statków we flagowych państwach o bardzo niskim opodatkowaniu"
+        ],
+        "answer": "C",
+        "explanation": "Żegluga kabotażowa polega na wykonywaniu morskich przewozów towarowych lub pasażerskich po wodach przybrzeżnych, ściśle pomiędzy portami jednego państwa."
+      },
+      {
+        "question": "Z jakiego głównego powodu zachodni armatorzy chętnie wykorzystują flagi tak zwanej taniej bandery?",
+        "options": [
+          "Państwa te gwarantują wyjątkowo wysoki poziom bezpieczeństwa załogi na statku",
+          "Kraje te oferują najnowocześniejsze doki naprawcze na kontynencie azjatyckim",
+          "Miejsca te posiadają wysoce rygorystyczne oraz niezwykle stabilne prawo pracy",
+          "Państwa te zapewniają bardzo niskie opłaty i wyjątkowo liberalne prawo morskie"
+        ],
+        "answer": "D",
+        "explanation": "Kraje taniej bandery oferują armatorom wysoce liberalne przepisy prawne oraz znikome podatki, co pozwala diametralnie minimalizować koszty utrzymania floty."
+      },
+      {
+        "question": "W jaki sposób wysoki stopień rozwoju cywilizacyjnego państwa modyfikuje lokalną strukturę przewozów?",
+        "options": [
+          "Systematycznie rośnie znaczenie szybkiego transportu samochodowego i lotniczego",
+          "Błyskawicznie zwiększa się rola pieszego oraz zwierzęcego transportu lokalnego",
+          "Prawie zupełnie zanika wykorzystywanie pociągów do przewozu ładunków masowych",
+          "Następuje bardzo drastyczny spadek popularności indywidualnej motoryzacji kołowej"
+        ],
+        "answer": "A",
+        "explanation": "Rozwój cywilizacyjny stymuluje potężny wzrost bogactwa i mobilności społecznej, co naturalnie faworyzuje elastyczny transport samochodowy i prężny lotniczy."
+      },
+      {
+        "question": "Dlaczego w wysokorozwiniętej, zurbanizowanej Japonii dynamicznie przywraca się znaczenie pociągów pasażerskich?",
+        "options": [
+          "Częste trzęsienia ziemi uniemożliwiają tam bezpieczną eksploatację dróg kołowych",
+          "W państwach tych mocno wyczerpały się już możliwości dalszej rozbudowy autostrad",
+          "Kolej ta wykazuje stanowczo najwyższą rentowność w przemyśle wydobywczym regionu",
+          "Globalne ocieplenie uczyniło podróże lotnicze wysoce niebezpiecznymi dla ludzi"
+        ],
+        "answer": "B",
+        "explanation": "W gęsto zaludnionych krajach wysoko rozwiniętych wielki powrót do transportu szynowego wynika głównie z całkowitego wyczerpania przestrzeni pod nowe drogi."
+      },
+      {
+        "question": "Które zjawiska spowodowały potężny i dynamiczny wzrost wagi transportu lotniczego od lat osiemdziesiątych?",
+        "options": [
+          "Wprowadzenie państwowych monopoli celnych rygorystycznie obniżających ceny paliw",
+          "Gwałtownie rosnące zapotrzebowanie na turystykę i powszechna liberalizacja rynku",
+          "Odkrycie ogromnych oraz niezwykle tanich złóż ropy naftowej na szelfach morskich",
+          "Masowe przenoszenie ciężkiego przemysłu stalowego do państw o taniej sile roboczej"
+        ],
+        "answer": "B",
+        "explanation": "Rozwój światowego transportu lotniczego w ostatnich dekadach przyspieszył dramatycznie dzięki globalnej turystyce masowej oraz pojawieniu się tanich linii po liberalizacji."
+      },
+      {
+        "question": "Czym charakteryzuje się wskaźnik ogólnej gęstości dróg utwardzonych w stosunku do stopnia zamożności państwa?",
+        "options": [
+          "Najgęstszą siecią drogową na świecie dysponują państwa o najrozleglejszym terytorium",
+          "Największą gęstość tego typu tras osiągają państwa o bardzo wysokiej urbanizacji",
+          "Całkowita gęstość asfaltowych szlaków zawsze maleje wraz z postępującym wzrostem PKB",
+          "Najdłuższą i jednocześnie najszerszą sieć posiadają wszystkie uboższe kraje afrykańskie"
+        ],
+        "answer": "B",
+        "explanation": "Państwa o stosunkowo niedużej powierzchni całkowitej oraz bardzo wysokim wskaźniku urbanizacji dysponują proporcjonalnie najwyższym zagęszczeniem szlaków drogowych."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Rurociągami transportuje się około 90% ropy naftowej na świecie, co czyni ten rodzaj transportu najważniejszym w globalnym obrocie węglem kamiennym i rudami żelaza.",
+        "answer": false,
+        "explanation": "Transport przesyłowy obsługuje niemal wyłącznie masowy przesył paliw płynnych i gazowych oraz wody. Węgiel kamienny oraz rudy metali przewozi się najczęściej transportem kolejowym lub morskim."
+      },
+      {
+        "sentence": "Najgęstszą siecią linii kolejowych na świecie odznaczają się Stany Zjednoczone, Chiny oraz Rosja, co jest bezpośrednim wynikiem ogromnych powierzchni tych państw.",
+        "answer": false,
+        "explanation": "Stany Zjednoczone, Chiny i Rosja posiadają najdłuższe sieci linii kolejowych na świecie. Najgęstsza sieć kolejowa występuje w krajach europejskich o mniejszej powierzchni, takich jak Czechy, Węgry, Belgia czy Szwajcaria."
+      },
+      {
+        "sentence": "Kraje tak zwanej taniej bandery, takie jak Panama, Liberia, Bahamy i Cypr, przyciągają armatorów dzięki niezwykle restrykcyjnym przepisom bezpieczeństwa statków morskich.",
+        "answer": false,
+        "explanation": "Kraje taniej bandery przyciągają armatorów wyjątkowo liberalnymi przepisami prawnymi, które dopuszczają do żeglugi nawet starsze, nie w pełni bezpieczne jednostki, a także bardzo niskimi podatkami."
+      },
+      {
+        "sentence": "Ze względu na gwałtowny rozwój tanich linii i ciągły spadek kosztów, transport lotniczy odgrywa obecnie dominującą rolę w światowych przewozach towarów masowych.",
+        "answer": false,
+        "explanation": "Udział transportu lotniczego w przewozach towarowych jest bardzo niewielki i ogranicza się do przesyłania ładunków wyjątkowo cennych lub wymagających najszybszego dostarczenia."
+      },
+      {
+        "sentence": "Na długich dystansach międzykontynentalnych najniższymi kosztami przewozu ładunków charakteryzuje się elastyczny transport samochodowy.",
+        "answer": false,
+        "explanation": "Transport samochodowy generuje niskie koszty na krótkich i średnich dystansach. Na trasach międzykontynentalnych najtańszym i najwydajniejszym sposobem transportu towarów jest żegluga morska."
+      },
+      {
+        "sentence": "Długotrwałe utrzymywanie się ujemnych temperatur w północnej Rosji stanowi główną barierę klimatyczną ograniczającą regularne funkcjonowanie transportu wodnego śródlądowego.",
+        "answer": true,
+        "explanation": "Niska temperatura powietrza przez wiele miesięcy powoduje grube zlodzenie wód powierzchniowych rzek i jezior, co uniemożliwia lub drastycznie ogranicza prowadzenie po nich żeglugi."
+      },
+      {
+        "sentence": "Wysoki poziom rozwoju gospodarczego w Japonii doprowadził w ostatnich latach do całkowitego zastąpienia infrastruktury kolejowej przez sieć autostrad kołowych.",
+        "answer": false,
+        "explanation": "W Japonii obserwuje się ponowny wzrost znaczenia transportu szynowego, który wynika z braku możliwości przestrzennych do dalszej rozbudowy potężnych dróg kołowych."
+      },
+      {
+        "sentence": "Zgodnie ze swoją definicją, węzeł transportowy to specjalny obiekt infrastruktury punktowej, w którym krzyżują się szlaki komunikacyjne wyłącznie jednego, określonego rodzaju transportu.",
+        "answer": false,
+        "explanation": "Węzeł transportowy to miejsce zbiegania się co najmniej trzech szlaków transportowych należących do jednego lub do kilku różnych rodzajów transportu."
+      },
+      {
+        "sentence": "Pomimo globalnego zasięgu, transport morski wykonuje znacznie mniejszą pracę przewozową niż transport kołowy, z uwagi na niską ładowność pojedynczych statków towarowych.",
+        "answer": false,
+        "explanation": "Transport morski wykonuje największą pracę przewozową na świecie ze względu na ekstremalnie dużą ładowność masowców i kontenerowców oraz wielotysięczne odległości pokonywane między portami."
+      },
+      {
+        "sentence": "Państwa o bardzo wysokim wskaźniku poziomu urbanizacji, takie jak europejskie Monako, Malta czy Belgia, charakteryzują się najgęstszą siecią dróg kołowych na świecie.",
+        "answer": true,
+        "explanation": "Wysoki wskaźnik urbanizacji, ogromna gęstość zaludnienia oraz mała powierzchnia terytorium wymuszają gęstą i silnie zintegrowaną sieć dróg kołowych."
+      },
+      {
+        "sentence": "Rozwój kolei dużych prędkości, osiągających powyżej 250 km/h, ma obecnie miejsce niemal wyłącznie w słabiej rozwiniętych państwach Ameryki Południowej oraz Afryki.",
+        "answer": false,
+        "explanation": "Nowoczesne systemy kolei dużych prędkości rozwijają się i z powodzeniem funkcjonują przede wszystkim na kontynencie europejskim (m.in. we Francji, Niemczech) oraz w państwach azjatyckich (np. w Japonii, Chinach, Korei Południowej)."
+      },
+      {
+        "sentence": "Żegluga kabotażowa to forma rzecznego transportu towarowego charakterystyczna dla bogatych państw śródlądowych pozbawionych bezpośredniego dostępu do jakichkolwiek akwenów morskich.",
+        "answer": false,
+        "explanation": "Żegluga kabotażowa polega na transporcie morskim odbywającym się po wodach przybrzeżnych pomiędzy portami znajdującymi się na terytorium tego samego państwa (np. Brazylii, Japonii czy Chile)."
+      }
+    ]
+  }
+}

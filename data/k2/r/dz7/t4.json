@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t4",
+    "title": "Wpływ działalności rolniczej na środowisko przyrodnicze",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Agrotechnika",
+        "definition": "Ogół zabiegów stosowanych przy uprawie roślin w celu uzyskania najwyższych plonów, do których należą m.in. uprawa roli, nawożenie, ochrona roślin i melioracje."
+      },
+      {
+        "term": "Monokultura",
+        "definition": "Wieloletnia uprawa jednego gatunku rośliny na tym samym obszarze, skutkująca wyjałowieniem gleby oraz zwiększonym ryzykiem chorób i ataków szkodników."
+      },
+      {
+        "term": "Płodozmian",
+        "definition": "Rodzaj gospodarowania polegający na corocznej rotacji upraw na określonym obszarze, co zapobiega wyjałowieniu ziemi i pozwala na uzyskiwanie wysokich plonów."
+      },
+      {
+        "term": "Pestycydy",
+        "definition": "Środki chemiczne stosowane w rolnictwie w celu ochrony roślin, zwiększenia plonów i polepszenia jakości zbiorów."
+      },
+      {
+        "term": "Fungicydy",
+        "definition": "Rodzaj pestycydów służący ochronie roślin uprawnych przed szkodliwym działaniem grzybów."
+      },
+      {
+        "term": "Insektycydy",
+        "definition": "Środki chemiczne z grupy pestycydów, które służą do ochrony upraw poprzez zwalczanie owadów."
+      },
+      {
+        "term": "Herbicydy",
+        "definition": "Środki chemiczne zaliczane do pestycydów, których zadaniem jest ograniczanie rozwoju i niszczenie chwastów na polach uprawnych."
+      },
+      {
+        "term": "Melioracje",
+        "definition": "Zabiegi agrotechniczne polegające na odprowadzaniu nadmiaru wód z danego obszaru lub nawadnianiu terenów o deficycie wody przy użyciu urządzeń i budowli."
+      },
+      {
+        "term": "Eutrofizacja",
+        "definition": "Zjawisko przeżyźnienia zbiorników wodnych, wywołane m.in. spływaniem z pól rolniczych nadmiaru nawozów bogatych w związki azotu i fosforu."
+      },
+      {
+        "term": "Pustynnienie (dezertyfikacja)",
+        "definition": "Proces degradacji obszarów dotychczas wykorzystywanych rolniczo i przekształcania ich w pustynie, wywoływany przez m.in. nadmierny wypas zwierząt i złe zarządzanie wodą."
+      },
+      {
+        "term": "Etap I pustynnienia",
+        "definition": "Deforestacja, czyli wylesianie mające na celu pozyskanie nowych terenów do prowadzenia działalności rolniczej."
+      },
+      {
+        "term": "Etap II pustynnienia",
+        "definition": "Zbyt intensywna działalność rolnicza połączona z nieumiejętną melioracją danego obszaru."
+      },
+      {
+        "term": "Etap III pustynnienia",
+        "definition": "Nadmierny wypas zwierząt gospodarskich na obszarach, które uległy już przesuszeniu."
+      },
+      {
+        "term": "Chemizacja rolnictwa",
+        "definition": "Powszechne stosowanie nawozów sztucznych (bogatych w azot, fosfor i potas) oraz chemicznych środków ochrony roślin w celu podniesienia wydajności rolnictwa."
+      },
+      {
+        "term": "Działania proekologiczne w rolnictwie",
+        "definition": "Działania takie jak: zastępowanie sztucznych nawozów naturalnymi, powrót do płodozmianu, ograniczanie antybiotyków w chowie zwierząt oraz rezygnacja z upraw GMO."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Melioracja (cel)",
+        "pair2": "Odprowadzanie nadmiaru wód z obszaru lub jego nawadnianie w razie deficytu."
+      },
+      {
+        "pair1": "Melioracja (skutek negatywny)",
+        "pair2": "Odwodnienie terenów sąsiednich, obniżenie poziomu wód gruntowych i wzrost zasolenia gleb."
+      },
+      {
+        "pair1": "Monokultura (skutek dla gleby)",
+        "pair2": "Wyjałowienie ziemi, obniżenie plonów oraz wzrost podatności na ataki szkodników."
+      },
+      {
+        "pair1": "Płodozmian (skutek dla gleby)",
+        "pair2": "Utrzymanie stabilnej żyzności i dobrej struktury gleby dzięki corocznej zmianie uprawianych gatunków."
+      },
+      {
+        "pair1": "Mechanizacja rolnictwa (skutek negatywny)",
+        "pair2": "Zbijanie ziemi przez ciężkie maszyny, powstawanie warstwy nieprzepuszczalnej i pogłębianie erozji."
+      },
+      {
+        "pair1": "Nadmierny wypas zwierząt (skutek)",
+        "pair2": "Wydeptywanie roślinności, niszczenie struktury wierzchniej warstwy gleby i przyspieszenie pustynnienia."
+      },
+      {
+        "pair1": "Chemizacja rolnictwa (wpływ na wody)",
+        "pair2": "Przedostawanie się spłukiwanych nawozów do rzek i mórz, co wywołuje ich nadmierną eutrofizację."
+      },
+      {
+        "pair1": "Pustynnienie (etap końcowy)",
+        "pair2": "Dominacja procesów deflacyjnych oraz zmiana dawnych terenów rolniczych w pustynie i półpustynie."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co oznacza termin agrotechnika w kontekście wpływu rolnictwa na środowisko?",
+        "options": [
+          "System nowoczesnych maszyn do zbioru plonów.",
+          "Zespół zabiegów stosowanych w uprawie roślin.",
+          "Proces hodowli nowych zwierząt gospodarskich.",
+          "Metoda wyłącznie ekologicznego nawożenia gleb."
+        ],
+        "answer": "B",
+        "explanation": "Agrotechnika to ogół zabiegów stosowanych przy uprawie roślin w celu uzyskania jak najwyższych plonów i zbiorów, w tym uprawa roli, nawożenie, melioracje i ochrona roślin."
+      },
+      {
+        "question": "Jak nazywa się wieloletnia uprawa jednego gatunku rośliny na tym samym obszarze?",
+        "options": [
+          "Płodozmian polowy.",
+          "Dezertyfikacja gleb.",
+          "Monokultura rolna.",
+          "Renaturalizacja rzek."
+        ],
+        "answer": "C",
+        "explanation": "Monokultura to wieloletnia uprawa jednego gatunku rośliny na tym samym obszarze, co szybko prowadzi do wyjałowienia gleby i zwiększa ryzyko chorób roślin."
+      },
+      {
+        "question": "W jakim głównym celu stosuje się w rolnictwie chemiczne środki zwane pestycydami?",
+        "options": [
+          "Zmniejszenie zasolenia gleb i wód lądowych.",
+          "Zwiększenie wilgotności oraz napowietrzenia.",
+          "Przyspieszenie dojrzewania owoców oraz zbóż.",
+          "Ochrona roślin przed grzybami oraz owadami."
+        ],
+        "answer": "D",
+        "explanation": "Pestycydy to chemiczne środki ochrony roślin, do których zalicza się m.in. fungicydy służące do ochrony przed grzybami oraz insektycydy chroniące przed owadami."
+      },
+      {
+        "question": "Jaki jest główny fizyczny skutek stosowania ciężkich maszyn rolniczych dla właściwości gleby?",
+        "options": [
+          "Powstawanie warstwy nieprzepuszczalnej.",
+          "Znaczny wzrost wilgotności wierzchniej.",
+          "Zwiększenie poziomu próchnicy w glebie.",
+          "Całkowite zahamowanie procesów erozji."
+        ],
+        "answer": "A",
+        "explanation": "Stosowanie ciężkich maszyn rolniczych prowadzi niekiedy do powstania nieprzepuszczalnej warstwy gleby, co skutkuje zmniejszeniem jej napowietrzenia i przepuszczalności."
+      },
+      {
+        "question": "Jakim terminem określa się proces degradacji obszarów rolniczych do postaci pustyń?",
+        "options": [
+          "Proces eutrofizacji.",
+          "Zjawisko dezertyfikacji.",
+          "Proces rewitalizacji.",
+          "System renaturalizacji."
+        ],
+        "answer": "B",
+        "explanation": "Dezertyfikacja, czyli pustynnienie, to proces polegający na drastycznej degradacji obszarów dotychczas wykorzystywanych rolniczo i przekształcaniu ich w pustynie."
+      },
+      {
+        "question": "Która grupa roślin stosowanych w płodozmianie przyczynia się do wzbogacenia gleby?",
+        "options": [
+          "Zboża ozime oraz bardzo wymagające rośliny oleiste.",
+          "Rośliny okopowe oraz najtańsze warzywa korzeniowe.",
+          "Rośliny motylkowate oraz wieloletnie uprawy pastewne.",
+          "Bananowce oraz intensywnie rosnące uprawy kukurydzy."
+        ],
+        "answer": "C",
+        "explanation": "Rośliny motylkowate oraz wieloletnie rośliny pastewne i różne gatunki traw wzbogacają glebę w cenne substancje organiczne podczas stosowania płodozmianu."
+      },
+      {
+        "question": "Co jest zazwyczaj pierwszym etapem procesu pustynnienia na obszarach rolniczych?",
+        "options": [
+          "Deforestacja prowadzona w celu pozyskania nowych pól.",
+          "Dominacja procesów deflacyjnych oraz zjawisk erozyjnych.",
+          "Nadmierny wypas zwierząt na przesuszonych pastwiskach.",
+          "Znaczne obniżenie naturalnego poziomu wód podziemnych."
+        ],
+        "answer": "A",
+        "explanation": "Pierwszym etapem pustynnienia jest deforestacja, która ma na celu usunięcie naturalnej roślinności i pozyskanie terenów do prowadzenia działalności rolniczej."
+      },
+      {
+        "question": "Które trzy pierwiastki stanowią podstawowy skład chemicznych nawozów sztucznych?",
+        "options": [
+          "Siarka, miedź oraz żelazo.",
+          "Węgiel, tlen oraz wodór.",
+          "Chrom, ołów oraz kadm.",
+          "Azot, fosfor oraz potas."
+        ],
+        "answer": "D",
+        "explanation": "Podstawowy skład nawozów sztucznych stosowanych w celu zwiększenia urodzajności gleb opiera się na trzech głównych pierwiastkach: azocie, fosforze i potasie."
+      },
+      {
+        "question": "Który specyficzny rodzaj pestycydów stosuje się w rolnictwie, aby ograniczać rozwój chwastów?",
+        "options": [
+          "Skuteczne fungicydy.",
+          "Wybrane herbicydy.",
+          "Silne insektycydy.",
+          "Naturalne nawozy."
+        ],
+        "answer": "B",
+        "explanation": "Herbicydy to rodzaj pestycydów stosowanych w rolnictwie w celu eliminowania chwastów i ograniczania ich rozwoju w uprawach."
+      },
+      {
+        "question": "Dlaczego intensywny wypas owiec w obszarach górskich jest niezwykle szkodliwy dla gleby?",
+        "options": [
+          "Wypas ten trwale podnosi poziom płytkich wód gruntowych.",
+          "Odchody tych zwierząt wywołują silne zasolenie podłoża.",
+          "Zwierzęta te wydeptują podłoże i przyspieszają erozję gleb.",
+          "Owce te całkowicie eliminują pożyteczne owady zapylające."
+        ],
+        "answer": "C",
+        "explanation": "Podczas wypasu owce wydeptują racicami glebę i naruszają jej strukturę, co znacznie przyspiesza procesy erozyjne oraz wpływa negatywnie na skład gatunkowy roślin."
+      },
+      {
+        "question": "Które działanie stanowi przykład nowoczesnego proekologicznego rozwiązania w chowie zwierząt?",
+        "options": [
+          "Ścisłe ograniczanie podawania antybiotyków oraz hormonów.",
+          "Całkowite zastępowanie nawozów naturalnych sztucznymi.",
+          "Szybkie przejście na w pełni zamknięty chów klatkowy.",
+          "Karmienie zwierząt wyłącznie drogimi paszami typu GMO."
+        ],
+        "answer": "A",
+        "explanation": "Wdrażane działania proekologiczne w procesie chowu zwierząt obejmują ograniczanie ilości antybiotyków i hormonów podawanych zwierzętom lub całkowitą rezygnację z tych substancji."
+      },
+      {
+        "question": "Jakie substancje emitowane przez maszyny rolnicze mogą bezpośrednio wchłaniać się do upraw?",
+        "options": [
+          "Skoncentrowane roztwory soli pochodzące z głębokich kopalń.",
+          "Gazy cieplarniane uwalniane naturalnie w strefie suchego Sahelu.",
+          "Związki chloru i fluoru odpowiedzialne za degradację warstwy ozonu.",
+          "Szkodliwe metale ciężkie zawarte w emitowanych przez nie spalinach."
+        ],
+        "answer": "D",
+        "explanation": "Silniki maszyn rolniczych emitują spaliny zawierające szkodliwe substancje, takie jak metale ciężkie, które mogą być następnie wchłaniane przez uprawy."
+      },
+      {
+        "question": "Jaki proces w hydrosferze jest wywoływany przez masowe wymywanie nawozów sztucznych z pól?",
+        "options": [
+          "Systematyczne obniżanie się zwierciadła wód gruntowych i przesuszanie.",
+          "Eutrofizacja skutkująca zakwitem glonów i drastycznym spadkiem tlenu.",
+          "Topnienie zlodowaceń górskich z powodu lokalnego wzrostu temperatury.",
+          "Zwiększenie stężenia szkodliwych węglowodorów aromatycznych w rzekach."
+        ],
+        "answer": "B",
+        "explanation": "Spłukiwanie nawozów bogatych w związki azotu i fosforu do rzek i jezior wywołuje eutrofizację (przeżyźnienie), co powoduje zakwit glonów i drastyczne zmniejszenie ilości tlenu w wodzie."
+      },
+      {
+        "question": "Jakie mogą być negatywne środowiskowe skutki niewłaściwie przeprowadzonych zabiegów melioracyjnych?",
+        "options": [
+          "Wyjałowienie z substancji organicznych postępujące bez udziału maszyn.",
+          "Zatrzymanie cyrkulacji powietrza i tworzenie szczelnej powłoki tlenowej.",
+          "Przesuszenie przyległych gleb lub znaczny wzrost ich szkodliwego zasolenia.",
+          "Nadmierna kumulacja syntetycznych pestycydów w organizmach dzikich zwierząt."
+        ],
+        "answer": "C",
+        "explanation": "Niewłaściwa melioracja może doprowadzić do obniżenia wód gruntowych i przesuszenia gleb w sąsiedztwie lub do ich podtapiania i zwiększenia poziomu zasolenia do wartości uniemożliwiającej uprawy."
+      },
+      {
+        "question": "Dlaczego monokulturowa uprawa bananowców odmiany Cavendish wymaga stosowania ogromnych ilości pestycydów?",
+        "options": [
+          "Odmiana ta rośnie naturalnie wyłącznie na ekstremalnie zasolonych polderach morskich.",
+          "Rośliny te wymagają permanentnego i sztucznego podnoszenia temperatury powietrza.",
+          "Ciągła rotacja upraw wprowadzana w strefie równikowej drastycznie obniża ostateczne plony.",
+          "Niska różnorodność genetyczna bardzo mocno zwiększa ich podatność na ataki szkodników."
+        ],
+        "answer": "D",
+        "explanation": "Uprawy monokulturowe opierające się na jednej odmianie charakteryzują się skrajnie niską różnorodnością genetyczną, co czyni je niezwykle podatnymi na choroby, grzyby i inwazje szkodników."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Długotrwała uprawa jednej i tej samej rośliny na danym obszarze w każdym przypadku prowadzi do szybkiego wyjałowienia gleby i uniemożliwia dalszą uprawę bez zmiany gatunku.",
+        "answer": false,
+        "explanation": "Wieloletnia uprawa jednego gatunku w ramach monokultury zazwyczaj skutkuje wyjałowieniem gleby, jednak jedyną rośliną, którą można bez większych problemów uprawiać na tym samym polu nawet przez kilkadziesiąt lat, jest żyto."
+      },
+      {
+        "sentence": "Zastosowanie ciężkich maszyn rolniczych do ciągłej obróbki pozytywnie wpływa na strukturę gleby, zwiększając jej przepuszczalność i skutecznie chroniąc przed erozją.",
+        "answer": false,
+        "explanation": "Używanie ciężkich maszyn rolniczych może powodować powstawanie nieprzepuszczalnej warstwy gleby, co w konsekwencji zmniejsza jej napowietrzenie, pogarsza przepuszczalność oraz pogłębia procesy erozji."
+      },
+      {
+        "sentence": "Niewłaściwie poprowadzona melioracja terenów rolniczych skutkuje wyłącznie podtapianiem obszarów sąsiednich, zapobiegając jednocześnie procesom erozyjnym.",
+        "answer": false,
+        "explanation": "Błędnie przeprowadzone zabiegi melioracyjne mogą prowadzić do obniżenia poziomu wód gruntowych, co bezpośrednio wywołuje przesuszenie i erozję gleb, a także może drastycznie zwiększać ich zasolenie."
+      },
+      {
+        "sentence": "Pierwszym etapem procesu pustynnienia jest zawsze deforestacja, przeprowadzana w celu pozyskania nowych terenów pod działalność rolniczą.",
+        "answer": true,
+        "explanation": "Pustynnienie rozpoczyna się od deforestacji nakierowanej na zdobycie ziemi pod rolnictwo, po czym następują kolejne etapy degradacji, takie jak zbyt intensywna uprawa i nadmierny wypas zwierząt na przesuszonych już obszarach."
+      },
+      {
+        "sentence": "W ramach chemizacji rolnictwa stosuje się pestycydy, wśród których insektycydy służą do niszczenia chwastów, a fungicydy do ochrony przed grzybami.",
+        "answer": false,
+        "explanation": "Do ograniczania rozwoju chwastów wykorzystuje się herbicydy, natomiast insektycydy są substancjami stosowanymi w celu ochrony upraw przed owadami."
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t3",
+                     "title":  "Rozmieszczenie ludności w Polsce",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Średnia gęstość zaludnienia w Polsce (2019 r.)",
+                                              "definition":  "Wynosiła 123 osoby/km²."
+                                          },
+                                          {
+                                              "term":  "Województwo o największej gęstości zaludnienia",
+                                              "definition":  "Województwo śląskie (366 os./km²)."
+                                          },
+                                          {
+                                              "term":  "Województwa o najmniejszej gęstości zaludnienia",
+                                              "definition":  "Województwo podlaskie (58 os./km²) i warmińsko-mazurskie (59 os./km²)."
+                                          },
+                                          {
+                                              "term":  "Dysproporcja gęstości zaludnienia miasto–wieś",
+                                              "definition":  "W miastach średnia gęstość wynosi ok. 1039 os./km², a na wsiach ok. 53 os./km²."
+                                          },
+                                          {
+                                              "term":  "Najgęściej zaludnione miasto w Polsce (2019 r.)",
+                                              "definition":  "Legionowo (3980 os./km²)."
+                                          },
+                                          {
+                                              "term":  "Gmina o najniższej gęstości zaludnienia (2020 r.)",
+                                              "definition":  "Gmina Lutowiska w Bieszczadach (zaledwie 4 os./km²)."
+                                          },
+                                          {
+                                              "term":  "Czynniki przyrodnicze sprzyjające osadnictwu w Polsce",
+                                              "definition":  "Nizinne ukształtowanie terenu, korzystne warunki klimatyczne oraz występowanie żyznych gleb (np. Nizina Śląska, Wyżyna Lubelska)."
+                                          },
+                                          {
+                                              "term":  "Bariery osadnicze (czynniki ograniczające zaludnienie)",
+                                              "definition":  "Trudne warunki terenowe (góry), występowanie bagien i jezior oraz słabe gleby i duża lesistość (np. północno-wschodnia Polska)."
+                                          },
+                                          {
+                                              "term":  "Wpływ zaboru pruskiego na współczesne rozmieszczenie ludności",
+                                              "definition":  "Gęstsza sieć miast i infrastruktury transportowej (kolejowej) oraz wyższy poziom uprzemysłowienia skutkują wyższą gęstością zaludnienia w zachodniej Polsce."
+                                          },
+                                          {
+                                              "term":  "Wpływ zaboru rosyjskiego na sieć osadniczą",
+                                              "definition":  "Słabiej rozwinięta infrastruktura i rzadsza sieć miast skutkują niższą gęstością zaludnienia we wschodniej części kraju."
+                                          },
+                                          {
+                                              "term":  "Akcja „Wisła” (1947 r.) – skutki demograficzne",
+                                              "definition":  "Przymusowe wysiedlenia ludności (m.in. Ukraińców i Łemków) doprowadziły do wyludnienia Bieszczad i Beskidu Niskiego."
+                                          },
+                                          {
+                                              "term":  "Ziemie Odzyskane – zmiany zaludnienia po 1945 r.",
+                                              "definition":  "Początkowo słabo zaludnione po wysiedleniu Niemców, następnie zasiedlone przez osadników z Polski centralnej i przesiedleńców ze wschodu."
+                                          },
+                                          {
+                                              "term":  "Decyzje polityczne PRL wpływające na rozmieszczenie ludności",
+                                              "definition":  "Budowa wielkich kombinatów przemysłowych (np. Nowa Huta) i tworzenie Państwowych Gospodarstw Rolnych (PGR)."
+                                          },
+                                          {
+                                              "term":  "Antropopresja",
+                                              "definition":  "Negatywny wpływ działalności człowieka na środowisko, silnie widoczny na obszarach o bardzo dużej gęstości zaludnienia (np. produkcja odpadów)."
+                                          },
+                                          {
+                                              "term":  "Współczesne migracje a gęstość zaludnienia",
+                                              "definition":  "Odpływ ludności z terenów słabo rozwiniętych (depopulacja) i koncentracja wokół dużych ośrodków miejskich (suburbanizacja)."
+                                          },
+                                          {
+                                              "term":  "Wpływ budowy portu w Gdyni na zaludnienie",
+                                              "definition":  "Dynamiczny wzrost liczby mieszkańców miasta w dwudziestoleciu międzywojennym (z 1,3 tys. w 1921 r. do 127 tys. w 1939 r.)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Występowanie surowców mineralnych (węgiel kamienny)",
+                                                 "pair2":  "Najwyższa koncentracja ludności w kraju (województwo śląskie, GOP)."
+                                             },
+                                             {
+                                                 "pair1":  "Przymusowe wysiedlenia (akcja „Wisła”)",
+                                                 "pair2":  "Ekstremalnie niska gęstość zaludnienia w powiatach bieszczadzkim i leskim."
+                                             },
+                                             {
+                                                 "pair1":  "Słabe gleby, duża lesistość i liczne jeziora",
+                                                 "pair2":  "Niska gęstość zaludnienia na pojezierzach (woj. warmińsko-mazurskie, podlaskie)."
+                                             },
+                                             {
+                                                 "pair1":  "Historyczna przynależność do zaboru pruskiego",
+                                                 "pair2":  "Gęsta sieć miast i linii kolejowych w zachodniej i północnej Polsce."
+                                             },
+                                             {
+                                                 "pair1":  "Historyczne rozdrobnienie rolnictwa (zabór austriacki)",
+                                                 "pair2":  "Duża gęstość zaludnienia na obszarach wiejskich w Małopolsce."
+                                             },
+                                             {
+                                                 "pair1":  "Rozwój dużych aglomeracji miejskich (rynek pracy)",
+                                                 "pair2":  "Wzrost gęstości zaludnienia w powiatach okalających duże miasta (suburbanizacja)."
+                                             },
+                                             {
+                                                 "pair1":  "Niski poziom rozwoju gospodarczego (ściana wschodnia)",
+                                                 "pair2":  "Migracje zarobkowe i depopulacja (spadek gęstości zaludnienia)."
+                                             },
+                                             {
+                                                 "pair1":  "Budowa kombinatów przemysłowych (np. Nowa Huta)",
+                                                 "pair2":  "Powstanie nowych dzielnic i gwałtowny wzrost liczby ludności miast w okresie PRL."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Ile wynosiła średnia gęstość zaludnienia w Polsce według danych z 2019 roku?",
+                                      "options":  [
+                                                      "123 osoby/km²",
+                                                      "85 osób/km², co jest wartością typową dla krajów skandynawskich o dużej lesistości.",
+                                                      "150 osób/km², co plasowałoby Polskę w czołówce najgęściej zaludnionych krajów Europy.",
+                                                      "98 osób/km², co odpowiada gęstości zaludnienia w latach 50. XX wieku przed wyżem demograficznym."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W 2019 r. gęstość zaludnienia wynosiła 123 os./km², co plasuje Polskę w środkowej części listy państw europejskich."
+                                  },
+                                  {
+                                      "question":  "Które województwo w Polsce charakteryzuje się największą gęstością zaludnienia?",
+                                      "options":  [
+                                                      "Mazowieckie, mimo obecności Warszawy, ma rozległe obszary słabo zaludnione.",
+                                                      "Małopolskie, które zajmuje drugie miejsce w rankingu gęstości zaludnienia.",
+                                                      "Śląskie",
+                                                      "Dolnośląskie, którego średnia gęstość jest zbliżona do średniej krajowej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Województwo śląskie, zdominowane przez konurbację katowicką, ma gęstość zaludnienia na poziomie 366 os./km²."
+                                  },
+                                  {
+                                      "question":  "Jaki procent ludności Polski stanowią mieszkańcy miast (wskaźnik urbanizacji w 2019 r.)?",
+                                      "options":  [
+                                                      "Około 40%, co oznaczałoby dominację ludności wiejskiej, jak w XIX wieku.",
+                                                      "Około 50%, co wskazywałoby na idealną równowagę między miastem a wsią.",
+                                                      "Około 60%",
+                                                      "Około 75%, co jest poziomem typowym dla krajów Europy Zachodniej (np. Niemiec)."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W miastach mieszka ok. 60% ludności Polski (ok. 23 mln osób), choć wskaźnik ten powoli spada na rzecz terenów podmiejskich."
+                                  },
+                                  {
+                                      "question":  "Które z wymienionych województw należą do najsłabiej zaludnionych w Polsce?",
+                                      "options":  [
+                                                      "Podlaskie i Warmińsko-Mazurskie",
+                                                      "Śląskie i Małopolskie, które są liderami pod względem gęstości zaludnienia.",
+                                                      "Mazowieckie i Łódzkie, które znajdują się w centrum kraju.",
+                                                      "Podkarpackie i Lubelskie, które mają gęstość zbliżoną do średniej."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Najmniejszą gęstość zaludnienia notuje się w woj. podlaskim (58 os./km²) i warmińsko-mazurskim (59 os./km²)."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na sieć osadniczą zachodniej Polski miała przynależność do zaboru pruskiego?",
+                                      "options":  [
+                                                      "Spowodowała rozdrobnienie rolnictwa i rzadką sieć miast, typową dla zaboru rosyjskiego.",
+                                                      "Przyczyniła się do powstania gęstej sieci miast i infrastruktury kolejowej",
+                                                      "Zahamowała rozwój przemysłu na korzyść rolnictwa wielkoobszarowego.",
+                                                      "Doprowadziła do całkowitego wyludnienia tych terenów w wyniku germanizacji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zabór pruski charakteryzował się szybkim rozwojem przemysłu i infrastruktury, co skutkowało gęstszą siecią miast na zachodzie kraju."
+                                  },
+                                  {
+                                      "question":  "Dlaczego tereny Bieszczad i Beskidu Niskiego charakteryzują się obecnie bardzo niską gęstością zaludnienia?",
+                                      "options":  [
+                                                      "Z powodu braku surowców mineralnych, które przyciągnęłyby przemysł.",
+                                                      "W wyniku przymusowych wysiedleń ludności w ramach akcji „Wisła” w 1947 r.",
+                                                      "Z powodu katastrofalnego zanieczyszczenia środowiska, które uniemożliwiło zamieszkanie.",
+                                                      "Ponieważ tereny te nigdy nie były trwale zamieszkane przez ludzi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wysiedlenie ludności ukraińskiej i łemkowskiej (akcja „Wisła”) doprowadziło do wyludnienia tych terenów, a gęstość zaludnienia w wielu gminach do dziś jest minimalna (np. Lutowiska – 4 os./km²)."
+                                  },
+                                  {
+                                      "question":  "Jaka dysproporcja występuje między średnią gęstością zaludnienia miast a wsi w Polsce?",
+                                      "options":  [
+                                                      "Jest niewielka, wynosi około 10 osób/km² różnicy na korzyść miast.",
+                                                      "Gęstość na wsi jest wyższa niż w miastach z powodu rozproszonej zabudowy.",
+                                                      "W miastach gęstość jest wielokrotnie wyższa (ok. 1039 os./km²) niż na wsiach (ok. 53 os./km²)",
+                                                      "Obie wartości są zbliżone do średniej krajowej (123 os./km²)."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Koncentracja ludności w miastach jest ogromna; na obszarach wiejskich dominuje zabudowa rozproszona."
+                                  },
+                                  {
+                                      "question":  "Jakie czynniki przyrodnicze ograniczają gęstość zaludnienia w północno-wschodniej Polsce?",
+                                      "options":  [
+                                                      "Występowanie gór wysokich, które uniemożliwiają budowę osiedli.",
+                                                      "Obecność licznych jezior, bagien oraz duża lesistość i słabe gleby",
+                                                      "Brak dostępu do wody pitnej z powodu zanieczyszczenia rzek.",
+                                                      "Ekstremalnie wysokie temperatury, które utrudniają życie w lecie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Warunki naturalne Pojezierza Mazurskiego i Suwalszczyzny (lasy, jeziora, słabe gleby) nie sprzyjały intensywnemu osadnictwu rolniczemu i przemysłowemu."
+                                  },
+                                  {
+                                      "question":  "Co było głównym czynnikiem kształtującym wysoką koncentrację ludności na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Rozwój turystyki górskiej, który przyciągnął miliony turystów i osadników.",
+                                                      "Występowanie żyznych gleb czarnoziemnych, sprzyjających rolnictwu.",
+                                                      "Występowanie surowców mineralnych będących podstawą rozwoju przemysłu",
+                                                      "Bliskość morza, która umożliwiła rozwój handlu międzynarodowego."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Złoża węgla kamiennego, cynku i ołowiu stały się magnesem dla rozwoju przemysłu i urbanizacji w XIX i XX wieku."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób proces suburbanizacji wpływa na rozmieszczenie ludności wokół dużych miast?",
+                                      "options":  [
+                                                      "Powoduje wyludnianie się stref podmiejskich na rzecz centrów miast.",
+                                                      "Zwiększa gęstość zaludnienia w powiatach okalających duże miasta (migracje z centrów)",
+                                                      "Nie ma wpływu na gęstość zaludnienia, zmienia tylko strukturę wieku.",
+                                                      "Powoduje masowy powrót ludności do ścisłych centrów miast (gentryfikacja)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ludność „rozlewa się” z miast na tereny podmiejskie (np. powiaty wokół Warszawy, Poznania), zwiększając tam gęstość zaludnienia."
+                                  },
+                                  {
+                                      "question":  "Jak zmieniło się rozmieszczenie ludności na Ziemiach Odzyskanych po II wojnie światowej?",
+                                      "options":  [
+                                                      "Pozostały one niezamieszkane do dziś, stanowiąc rezerwat przyrody.",
+                                                      "Zostały zasiedlone przez osadników z centralnej Polski i przesiedleńców ze wschodu",
+                                                      "Zostały zasiedlone wyłącznie przez ludność autochtoniczną, która tam pozostała.",
+                                                      "Gęstość zaludnienia spadła trwale do zera z powodu zniszczeń wojennych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Po wysiedleniu Niemców, na te tereny napłynęła ludność polska (repatrianci z Kresów, osadnicy z centralnej Polski)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego województwo opolskie odnotowało największy spadek liczby ludności w latach 2000–2019?",
+                                      "options":  [
+                                                      "Z powodu katastrofalnych klęsk żywiołowych, które zniszczyły region.",
+                                                      "W wyniku depopulacji spowodowanej ujemnym przyrostem i migracjami (w tym zagranicznymi)",
+                                                      "Z powodu administracyjnego zmniejszenia powierzchni województwa o połowę.",
+                                                      "Z powodu masowych, przymusowych przesiedleń do województwa śląskiego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Województwo opolskie zmaga się z niskim przyrostem naturalnym i dużą emigracją zarobkową (m.in. do Niemiec)."
+                                  },
+                                  {
+                                      "question":  "Analizując wpływ zaborów, dlaczego wschodnia Polska (dawny zabór rosyjski) ma rzadszą sieć miast niż zachodnia?",
+                                      "options":  [
+                                                      "Ponieważ władze zaboru rosyjskiego prawnie zakazywały budowy nowych miast.",
+                                                      "Z powodu słabiej rozwiniętej infrastruktury i niższego poziomu uprzemysłowienia w XIX w.",
+                                                      "Ponieważ na wschodzie występują niedostępne góry uniemożliwiające budowę.",
+                                                      "Ponieważ ludność wschodu wyemigrowała masowo do Ameryki, pozostawiając puste miasta."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zabór rosyjski był regionem rolniczym, słabiej uprzemysłowionym, co nie sprzyjało powstawaniu gęstej sieci miejskiej."
+                                  },
+                                  {
+                                      "question":  "Porównując województwa małopolskie i zachodniopomorskie, co wpływa na różnicę w gęstości zaludnienia terenów wiejskich?",
+                                      "options":  [
+                                                      "Małopolskie ma historycznie rozdrobnione rolnictwo (duża gęstość), a Zachodniopomorskie wielkoobszarowe (dawne PGR, mniejsza gęstość)",
+                                                      "Zachodniopomorskie jest terenem wysokogórskim, co wyklucza osadnictwo.",
+                                                      "W Małopolsce nie ma miast, więc cała ludność zmuszona jest mieszkać na wsi.",
+                                                      "W Zachodniopomorskim obowiązuje prawny zakaz osiedlania się na terenach wiejskich."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W Małopolsce (dawny zabór austriacki) wsie są gęsto zaludnione z powodu rozdrobnienia gruntów. Na zachodzie (dawne PGR) wsie są rzadsze i większe."
+                                  },
+                                  {
+                                      "question":  "Jaki jest skutek „antropopresji” na obszarach o bardzo dużej gęstości zaludnienia?",
+                                      "options":  [
+                                                      "Zwiększenie naturalnej bioróżnorodności i odtwarzanie siedlisk leśnych.",
+                                                      "Poprawa jakości powietrza dzięki instalacji systemów centralnego ogrzewania.",
+                                                      "Negatywne zmiany w środowisku, np. produkcja dużej ilości odpadów i hałas",
+                                                      "Zmniejszenie ryzyka chorób cywilizacyjnych dzięki lepszemu dostępowi do lekarzy."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Duże skupiska ludzi generują zanieczyszczenia, hałas, ścieki i odpady, co degraduje środowisko naturalne."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Rozmieszczenie ludności w Polsce jest równomierne, a różnice w gęstości zaludnienia między województwami są niewielkie.",
+                                           "answer":  false,
+                                           "explanation":  "Polska jest krajem nierównomiernie zaludnionym. Wskaźnik gęstości zaludnienia waha się od 58 os./km² w województwie podlaskim do 366 os./km² w województwie śląskim."
+                                       },
+                                       {
+                                           "sentence":  "Województwo mazowieckie, mimo że zamieszkuje je największa liczba ludności, nie jest województwem o największej gęstości zaludnienia.",
+                                           "answer":  true,
+                                           "explanation":  "Województwo mazowieckie ma najwięcej mieszkańców (ok. 5,4 mln), ale ze względu na dużą powierzchnię jego gęstość zaludnienia jest niższa niż województwa śląskiego (366 os./km²) czy małopolskiego (225 os./km²)."
+                                       },
+                                       {
+                                           "sentence":  "Współcześnie czynniki przyrodnicze, takie jak ukształtowanie terenu czy występowanie bagien, nie mają już żadnego wpływu na rozmieszczenie ludności w Polsce.",
+                                           "answer":  false,
+                                           "explanation":  "Czynniki przyrodnicze nadal oddziałują na osadnictwo. Barierami są np. wysokie partie gór, bagna i jeziora (np. w północno-wschodniej Polsce) oraz słabe gleby."
+                                       },
+                                       {
+                                           "sentence":  "Najniższą gęstością zaludnienia w Polsce charakteryzują się województwa północno-wschodnie: podlaskie i warmińsko-mazurskie.",
+                                           "answer":  true,
+                                           "explanation":  "Regiony te odznaczają się najniższymi wskaźnikami gęstości (odpowiednio 58 i 59 os./km²), co wynika m.in. z warunków przyrodniczych (pojezierza, lasy) i słabszego rozwoju historycznego."
+                                       },
+                                       {
+                                           "sentence":  "Ziemie Odzyskane (zachodnia i północna Polska) tuż po II wojnie światowej należały do najgęściej zaludnionych obszarów kraju.",
+                                           "answer":  false,
+                                           "explanation":  "Po wysiedleniu ludności niemieckiej i przed napływem polskich osadników tereny te były najsłabiej zaludnione w Polsce."
+                                       },
+                                       {
+                                           "sentence":  "Współczesne migracje ludności z dużych miast na obszary wiejskie (suburbanizacja) powodują wzrost gęstości zaludnienia w powiatach okalających aglomeracje.",
+                                           "answer":  true,
+                                           "explanation":  "Zjawisko suburbanizacji sprawia, że strefy podmiejskie zyskują nowych mieszkańców kosztem centrów miast, co zmienia lokalne wskaźniki gęstości zaludnienia."
+                                       },
+                                       {
+                                           "sentence":  "Obszary dawnego zaboru pruskiego charakteryzują się rzadszą siecią miast i słabszą infrastrukturą kolejową niż tereny zaboru rosyjskiego.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie. Tereny należące niegdyś do Prus (zachodnia Polska) cechują się gęstszą siecią miast i lepiej rozwiniętą infrastrukturą transportową w porównaniu do wschodniej części kraju."
+                                       },
+                                       {
+                                           "sentence":  "Głównym czynnikiem koncentracji ludności na Wyżynie Śląskiej było występowanie surowców mineralnych i rozwój przemysłu.",
+                                           "answer":  true,
+                                           "explanation":  "Występowanie węgla kamiennego i innych surowców stało się podstawą rozwoju górnictwa i hutnictwa, co przyciągnęło ludność i doprowadziło do powstania największej konurbacji w Polsce."
+                                       },
+                                       {
+                                           "sentence":  "Średnia gęstość zaludnienia na obszarach wiejskich w Polsce jest zbliżona do średniej gęstości zaludnienia w miastach.",
+                                           "answer":  false,
+                                           "explanation":  "Występują ogromne dysproporcje. W miastach średnia gęstość wynosi ok. 1039 os./km², podczas gdy na wsiach to tylko ok. 53 os./km²."
+                                       },
+                                       {
+                                           "sentence":  "Antropopresja jest zjawiskiem pozytywnym, polegającym na zwiększaniu bioróżnorodności na terenach gęsto zaludnionych.",
+                                           "answer":  false,
+                                           "explanation":  "Antropopresja to negatywny wpływ człowieka na środowisko (np. hałas, odpady, zanieczyszczenia), który jest szczególnie silny na obszarach o dużej koncentracji ludności."
+                                       },
+                                       {
+                                           "sentence":  "Historyczna akcja „Wisła” z 1947 roku przyczyniła się do wyludnienia terenów Bieszczad i Beskidu Niskiego.",
+                                           "answer":  true,
+                                           "explanation":  "Przymusowe wysiedlenia ludności (m.in. ukraińskiej i łemkowskiej) spowodowały, że powiaty te (np. bieszczadzki) do dziś należą do najsłabiej zaludnionych."
+                                       }
+                                   ]
+                 }
+}

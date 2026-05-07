@@ -1,0 +1,350 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz4-t4",
+                     "unit":  "IV",
+                     "title":  "Jeziora",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Jezioro",
+                                              "definition":  "Naturalne zagłębienie terenu wypełnione wodą i pozbawione swobodnej wymiany wód z wszechoceanem."
+                                          },
+                                          {
+                                              "term":  "Limnologia",
+                                              "definition":  "Dziedzina nauki zajmująca się badaniem jezior."
+                                          },
+                                          {
+                                              "term":  "Jezioro tektoniczne",
+                                              "definition":  "Typ jeziora powstały w zagłębieniach utworzonych wskutek ruchów skorupy ziemskiej, np. w rowach tektonicznych (przykład: Bajkał, Tanganika)."
+                                          },
+                                          {
+                                              "term":  "Jezioro reliktowe",
+                                              "definition":  "Zbiornik powstały w wyniku odcięcia części dawnego morza przez powolne podnoszenie się skorupy ziemskiej lub obniżanie poziomu morza (przykład: Morze Kaspijskie)."
+                                          },
+                                          {
+                                              "term":  "Jezioro wulkaniczne",
+                                              "definition":  "Jezioro wypełniające kratery lub kaldery nieczynnych wulkanów, zasilane głównie opadami deszczu (przykład: Jezioro Bolsena)."
+                                          },
+                                          {
+                                              "term":  "Jezioro polodowcowe rynnowe",
+                                              "definition":  "Jezioro powstałe w wyniku erozyjnej działalności wód płynących pod lądolodem (wymywania skał w podłożu)."
+                                          },
+                                          {
+                                              "term":  "Jezioro morenowe",
+                                              "definition":  "Zbiornik utworzony wskutek nierównomiernej akumulacji materiału skalnego przez lądolód, często w obrębie moreny dennej."
+                                          },
+                                          {
+                                              "term":  "Jezioro cyrkowe (karowe)",
+                                              "definition":  "Górskie jezioro powstałe w wyniku wypełnienia wodą kotła lodowcowego (niecki) po ustąpieniu lodowca."
+                                          },
+                                          {
+                                              "term":  "Oczka polodowcowe",
+                                              "definition":  "Małe, koliste zbiorniki powstałe w zagłębieniach po wytopieniu się brył lodu (martwego lodu) pozostawionych przez cofający się lądolód."
+                                          },
+                                          {
+                                              "term":  "Jezioro krasowe",
+                                              "definition":  "Jezioro utworzone w obniżeniach terenu na obszarach zbudowanych ze skał wapiennych lub gipsowych, podlegających procesom rozpuszczania."
+                                          },
+                                          {
+                                              "term":  "Jezioro przybrzeżne",
+                                              "definition":  "Zbiornik powstały na niskim wybrzeżu wskutek odcięcia zatoki morskiej przez narastającą mierzeję."
+                                          },
+                                          {
+                                              "term":  "Starorzecze (jezioro zakolowe)",
+                                              "definition":  "Jezioro powstałe w fragmencie dawnego koryta rzecznego (meandru), który został odcięty od głównego nurtu rzeki."
+                                          },
+                                          {
+                                              "term":  "Jezioro deltowe",
+                                              "definition":  "Płytki zbiornik tworzący się w zagłębieniach w obrębie delt rzecznych (przykład: Druzno)."
+                                          },
+                                          {
+                                              "term":  "Jezioro meteorytowe",
+                                              "definition":  "Jezioro wypełniające krater powstały wskutek uderzenia meteorytu w powierzchnię Ziemi (przykład: Morasko)."
+                                          },
+                                          {
+                                              "term":  "Jezioro eutroficzne",
+                                              "definition":  "Typ jeziora bogatego w substancje odżywcze, co sprzyja intensywnemu rozwojowi glonów i roślinności (eutrofizacja), charakteryzujący się małą przejrzystością wody."
+                                          },
+                                          {
+                                              "term":  "Jezioro oligotroficzne",
+                                              "definition":  "Jezioro ubogie w substancje odżywcze, dobrze natlenione, o niskiej temperaturze i dużej przejrzystości wody."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Jezioro morenowe",
+                                                 "pair2":  "Duża powierzchnia, urozmaicona linia brzegowa, liczne zatoki i wyspy, stosunkowo niewielka głębokość."
+                                             },
+                                             {
+                                                 "pair1":  "Jezioro rynnowe",
+                                                 "pair2":  "Wąski i wydłużony kształt, strome brzegi, urozmaicona rzeźba dna oraz znaczna głębokość."
+                                             },
+                                             {
+                                                 "pair1":  "Jezioro cyrkowe (karowe)",
+                                                 "pair2":  "Kolisty lub owalny kształt, duża głębokość, położenie w wysokich górach (kotły lodowcowe)."
+                                             },
+                                             {
+                                                 "pair1":  "Starorzecze",
+                                                 "pair2":  "Wydłużony, podkowiasty kształt, występowanie w dolinach meandrujących rzek."
+                                             },
+                                             {
+                                                 "pair1":  "Jezioro przybrzeżne",
+                                                 "pair2":  "Duża powierzchnia, niewielka głębokość, płaskie i bagniste brzegi, bliskość morza."
+                                             },
+                                             {
+                                                 "pair1":  "Jezioro Śniardwy",
+                                                 "pair2":  "Przykład jeziora morenowego."
+                                             },
+                                             {
+                                                 "pair1":  "Jezioro Hańcza",
+                                                 "pair2":  "Przykład jeziora rynnowego (najgłębsze w Polsce)."
+                                             },
+                                             {
+                                                 "pair1":  "Jezioro Łebsko",
+                                                 "pair2":  "Przykład jeziora przybrzeżnego."
+                                             },
+                                             {
+                                                 "pair1":  "Wybuch wulkanu (krater/kaldera)",
+                                                 "pair2":  "Geneza jeziora wulkanicznego."
+                                             },
+                                             {
+                                                 "pair1":  "Wytopienie brył martwego lodu",
+                                                 "pair2":  "Geneza oczek polodowcowych."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Morze Kaspijskie jest największym jeziorem na świecie pod względem powierzchni. Jego wody są słone, a geneza wiąże się z odcięciem części dawnego oceanu na skutek ruchów skorupy ziemskiej. Do jakiego typu genetycznego zaliczamy ten zbiornik?",
+                                      "options":  [
+                                                      "Jezioro tektoniczne",
+                                                      "Jezioro reliktowe",
+                                                      "Jezioro wulkaniczne",
+                                                      "Jezioro przybrzeżne"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora reliktowe utworzyły się w wyniku odcięcia części dawnych mórz przez powolne podnoszenie się skorupy ziemskiej; przykładem jest Morze Kaspijskie."
+                                  },
+                                  {
+                                      "question":  "Analizujesz opis batymetryczny jeziora położonego na pojezierzu: \u0027Misa jeziora jest wąska, bardzo wydłużona i głęboka. Brzegi są wysokie i strome, a dno ma urozmaiconą rzeźbę\u0027. Jaki to typ genetyczny jeziora?",
+                                      "options":  [
+                                                      "Jezioro morenowe",
+                                                      "Jezioro rynnowe",
+                                                      "Jezioro cyrkowe",
+                                                      "Jezioro krasowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora rynnowe są wąskie, długie, mają znaczną głębokość, strome brzegi i urozmaiconą rzeźbę dna."
+                                  },
+                                  {
+                                      "question":  "Wskazana na mapie batymetrycznej misa jeziorna charakteryzuje się dużą powierzchnią, bardzo urozmaiconą linią brzegową z licznymi półwyspami i zatokami oraz występowaniem wielu wysp. Jezioro jest stosunkowo płytkie, a jego dno urozmaicone. Które polskie jezioro pasuje do tego opisu?",
+                                      "options":  [
+                                                      "Jezioro Hańcza",
+                                                      "Jezioro Śniardwy",
+                                                      "Jezioro Gopło",
+                                                      "Jezioro Raduńskie Dolne"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Opis dotyczy jeziora morenowego, które jest duże, płytkie, z urozmaiconą linią brzegową i wyspami; Śniardwy to przykład jeziora morenowego."
+                                  },
+                                  {
+                                      "question":  "Na skutek erozyjnej działalności wód płynących pod lądolodem (wymywania skał w podłożu) powstają specyficzne zagłębienia, które po ustąpieniu lodu wypełniają się wodą. Jaki typ jeziora tworzy się w ten sposób?",
+                                      "options":  [
+                                                      "Jezioro rynnowe",
+                                                      "Jezioro morenowe",
+                                                      "Oczko polodowcowe",
+                                                      "Jezioro cyrkowe"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jeziora rynnowe powstały w wyniku wymywania skał w podłożu przez wody płynące pod lądolodem."
+                                  },
+                                  {
+                                      "question":  "Turysta obserwuje jezioro o idealnie kolistym kształcie, niewielkiej powierzchni, ale znacznej głębokości. Jezioro to wypełnia krater na szczycie nieaktywnego stożka górskiego i jest zasilane wyłącznie wodami opadowymi. Jaka jest geneza tego zbiornika?",
+                                      "options":  [
+                                                      "Tektoniczna (zapadlisko w rowie)",
+                                                      "Meteorytowa (uderzenie w szczyt)",
+                                                      "Wulkaniczna (wypełnienie kaldery)",
+                                                      "Krasowa (zapadnięcie stropu jaskini)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Jeziora wulkaniczne powstają w kraterach i kalderach nieczynnych wulkanów, mają niewielką powierzchnię, dużą głębokość i są zasilane opadami."
+                                  },
+                                  {
+                                      "question":  "Na Nizinie Śląskiej można spotkać jeziora o charakterystycznym, podkowiastym kształcie, położone w sąsiedztwie koryt rzecznych. Jaki proces doprowadził do ich powstania?",
+                                      "options":  [
+                                                      "Wytopienie brył martwego lodu pozostawionych przez lądolód",
+                                                      "Odcięcie fragmentu meandrującego koryta od głównego nurtu rzeki",
+                                                      "Przegrodzenie doliny rzecznej przez osuwisko skalne",
+                                                      "Odcięcie zatoki morskiej przez narastającą mierzeję"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Starorzecza (jeziora zakolowe) powstają we fragmentach koryt rzecznych (meandrów) odciętych od głównego nurtu rzeki."
+                                  },
+                                  {
+                                      "question":  "Jezioro Bajkał jest najgłębszym jeziorem świata. Jego misa jest długa i wąska, powstała w wyniku ruchów skorupy ziemskiej. Jaki to typ jeziora?",
+                                      "options":  [
+                                                      "Jezioro reliktowe",
+                                                      "Jezioro tektoniczne",
+                                                      "Jezioro wulkaniczne",
+                                                      "Jezioro rynnowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora powstałe w rowach tektonicznych, takie jak Bajkał, są długie, wąskie i należą do jezior tektonicznych."
+                                  },
+                                  {
+                                      "question":  "Na niskim wybrzeżu Bałtyku, piaszczysta mierzeja stopniowo odcięła zatokę morską od otwartego morza. Powstały zbiornik jest płytki i ma dużą powierzchnię. Przykładem takiego jeziora jest:",
+                                      "options":  [
+                                                      "Śniardwy",
+                                                      "Hańcza",
+                                                      "Łebsko",
+                                                      "Druzno"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Jeziora przybrzeżne powstają wskutek odcięcia zatoki morskiej przez mierzeję; przykładem jest jezioro Łebsko."
+                                  },
+                                  {
+                                      "question":  "W wysokich górach, w zagłębieniach otoczonych z trzech stron stromymi ścianami skalnymi (kotłach), po ustąpieniu lodowca utworzyły się jeziora. Jak nazywamy ten typ jeziora?",
+                                      "options":  [
+                                                      "Jeziora rynnowe",
+                                                      "Jeziora morenowe",
+                                                      "Jeziora cyrkowe (karowe)",
+                                                      "Jeziora reliktowe"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Jeziora cyrkowe (karowe) powstały w górach w wyniku wypełnienia wodą kotłów lodowcowych ograniczonych stromymi zboczami."
+                                  },
+                                  {
+                                      "question":  "Jezioro Druzno położone jest na Żuławach Wiślanych. Jest to zbiornik bardzo płytki, szybko zarastający, powstały w zagłębieniu w obrębie ujścia rzeki do morza. Jaki to typ jeziora?",
+                                      "options":  [
+                                                      "Jezioro przybrzeżne",
+                                                      "Jezioro deltowe",
+                                                      "Jezioro starorzeczne",
+                                                      "Jezioro krasowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora deltowe tworzą się w zagłębieniach w obrębie delt rzecznych; przykładem jest jezioro Druzno w delcie Wisły."
+                                  },
+                                  {
+                                      "question":  "Małe, zazwyczaj koliste i płytkie zbiorniki wodne, często bezodpływowe, powstałe w zagłębieniach po wytopieniu się brył martwego lodu, to:",
+                                      "options":  [
+                                                      "Oczka polodowcowe",
+                                                      "Jeziora cyrkowe",
+                                                      "Jeziora krasowe",
+                                                      "Jeziora wulkaniczne"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Oczka polodowcowe powstały w zagłębieniach utworzonych po wytopieniu się brył lodu pozostawionych przez cofający się lądolód, są małe i koliste."
+                                  },
+                                  {
+                                      "question":  "Woda w pewnym jeziorze jest mało przejrzysta, ma zielony kolor i charakteryzuje się dużym bogactwem substancji odżywczych, co sprzyja zakwitom glonów. Jak określamy takie jezioro ze względu na warunki biologiczne?",
+                                      "options":  [
+                                                      "Jezioro oligotroficzne",
+                                                      "Jezioro eutroficzne",
+                                                      "Jezioro dystroficzne",
+                                                      "Jezioro słonawe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora eutroficzne zawierają dużo substancji odżywczych, co sprzyja rozwojowi glonów, a ich wody są mało przejrzyste i mają zielony kolor."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych nie jest funkcją sztucznych zbiorników wodnych (antropogenicznych) wymienioną w podręczniku?",
+                                      "options":  [
+                                                      "Produkcja energii elektrycznej",
+                                                      "Ochrona przeciwpowodziowa",
+                                                      "Bezpośrednia wymiana wód z wszechoceanem",
+                                                      "Funkcja rekreacyjna"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Definicja jeziora (i zbiorników wodnych w tym kontekście) wyklucza swobodną wymianę wód z wszechoceanem. Sztuczne zbiorniki pełnią funkcje energetyczne, przeciwpowodziowe i rekreacyjne."
+                                  },
+                                  {
+                                      "question":  "Jeziora krasowe powstają na obszarach zbudowanych ze skał podlegających rozpuszczaniu przez wodę. Która z par skał sprzyja powstawaniu tego typu jezior?",
+                                      "options":  [
+                                                      "Granit i bazalt",
+                                                      "Wapień i gips",
+                                                      "Piaskowiec i zlepieniec",
+                                                      "Łupek krystaliczny i gnejs"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora krasowe utworzyły się w obniżeniach na obszarach zbudowanych ze skał wapiennych lub gipsowych."
+                                  },
+                                  {
+                                      "question":  "Która cecha najlepiej pozwala odróżnić na mapie batymetrycznej jezioro morenowe od jeziora rynnowego?",
+                                      "options":  [
+                                                      "Jezioro morenowe jest długie i wąskie, a rynnowe rozległe.",
+                                                      "Jezioro morenowe ma dużą powierzchnię i niezwykle urozmaiconą linię brzegową z licznymi półwyspami, podczas gdy jezioro rynnowe jest wyraźnie wąskie, długie i głębokie.",
+                                                      "Jezioro morenowe jest koliste i głębokie, a rynnowe ma kształt podkowy.",
+                                                      "Jezioro morenowe ma płaskie dno, a rynnowe ma dno stożkowate."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora morenowe są duże, o urozmaiconych kształtach i linii brzegowej; jeziora rynnowe są wąskie, długie i mają znaczną głębokość."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Morze Kaspijskie jest z geograficznego punktu widzenia morzem, ponieważ zawiera słoną wodę i ma bardzo dużą powierzchnię.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to pułapka nazewnicza (Caspian Trap). Morze Kaspijskie jest w rzeczywistości jeziorem (reliktowym), ponieważ jest to zbiornik pozbawiony swobodnej wymiany wód z wszechoceanem."
+                                       },
+                                       {
+                                           "sentence":  "Jeziora morenowe są zazwyczaj najgłębszym i najwęższym typem jezior polodowcowych.",
+                                           "answer":  false,
+                                           "explanation":  "To błąd dotyczący głębokości (Depth Confusion). Jeziora morenowe są duże, ale dość płytkie i mają urozmaiconą linię brzegową; to jeziora rynnowe są wąskie i głębokie."
+                                       },
+                                       {
+                                           "sentence":  "Starorzecza (jeziora zakolowe) powstają najczęściej w górnych, górskich odcinkach rzek o szybkim nurcie.",
+                                           "answer":  false,
+                                           "explanation":  "Błąd lokalizacji (Oxbow Location). Starorzecza powstają w dolinach dużych, meandrujących rzek (zazwyczaj w biegu środkowym lub dolnym), a nie w górach."
+                                       },
+                                       {
+                                           "sentence":  "Proces eutrofizacji sprawia, że woda w jeziorze staje się krystalicznie czysta i uboga w substancje odżywcze.",
+                                           "answer":  false,
+                                           "explanation":  "Błąd cyklu życia (Life Cycle). Eutrofizacja oznacza dużą zawartość substancji odżywczych, co sprzyja zakwitom glonów, zmniejsza przejrzystość wody i prowadzi do zarastania jeziora."
+                                       },
+                                       {
+                                           "sentence":  "Jezioro to naturalne zagłębienie terenu wypełnione wodą, które nie posiada swobodnej wymiany wód z wszechoceanem.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to poprawna definicja jeziora, odróżniająca je od mórz i zatok."
+                                       },
+                                       {
+                                           "sentence":  "Jeziora rynnowe powstały w wyniku erozyjnej działalności wód płynących pod lądolodem, dlatego są wąskie, długie i głębokie.",
+                                           "answer":  true,
+                                           "explanation":  "Geneza jezior rynnowych wiąże się z wymywaniem skał przez wody podlodowcowe, co nadaje im charakterystyczny kształt."
+                                       },
+                                       {
+                                           "sentence":  "Jeziora wulkaniczne tworzą się w kraterach wygasłych wulkanów i są zasilane głównie przez opady atmosferyczne.",
+                                           "answer":  true,
+                                           "explanation":  "Misy tych jezior to dawne kratery lub kaldery, a ich głównym źródłem wody jest deszcz."
+                                       },
+                                       {
+                                           "sentence":  "Największe zagęszczenie jezior na świecie występuje w strefie klimatów zwrotnikowych suchych.",
+                                           "answer":  false,
+                                           "explanation":  "Szczególnie dużo jezior znajduje się na obszarach objętych ostatnim zlodowaceniem (np. Ameryka Północna, Europa Północna), a nie w strefach suchych."
+                                       },
+                                       {
+                                           "sentence":  "Jeziora przybrzeżne powstają na niskich wybrzeżach wskutek odcięcia zatoki morskiej przez narastającą mierzeję.",
+                                           "answer":  true,
+                                           "explanation":  "Proces ten jest charakterystyczny dla powstawania jezior takich jak Łebsko czy Gardno."
+                                       },
+                                       {
+                                           "sentence":  "Jeziora tektoniczne występujące w rowach tektonicznych, jak Bajkał czy Tanganika, są zazwyczaj bardzo płytkie i rozległe.",
+                                           "answer":  false,
+                                           "explanation":  "Jeziora w rowach tektonicznych są długie, wąskie i należą do najgłębszych na świecie."
+                                       },
+                                       {
+                                           "sentence":  "Jeziora cyrkowe (karowe) wypełniają górskie kotły lodowcowe i charakteryzują się znaczną głębokością.",
+                                           "answer":  true,
+                                           "explanation":  "Powstają one w nieckowatych zagłębieniach (kotłach) po ustąpieniu lodowca górskiego."
+                                       },
+                                       {
+                                           "sentence":  "Jeziora reliktowe, takie jak Jezioro Aralskie, są pozostałością dawnych mórz oddzielonych od oceanu przez ruchy skorupy ziemskiej.",
+                                           "answer":  true,
+                                           "explanation":  "Ich geneza wiąże się z odcięciem części dawnego morza w wyniku procesów geologicznych."
+                                       }
+                                   ]
+                 }
+}

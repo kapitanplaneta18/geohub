@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-dz4-t7",
+    "title": "Rybactwo",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rybactwo",
+        "definition": "Dział rolnictwa obejmujący wszelkie działania związane z gospodarczym wykorzystaniem organizmów wodnych, w skład którego wchodzą rybołówstwo i akwakultura."
+      },
+      {
+        "term": "Rybołówstwo",
+        "definition": "Dział rybactwa ograniczający się jedynie do połowów organizmów wodnych (morskich i śródlądowych) w ich naturalnym środowisku."
+      },
+      {
+        "term": "Akwakultura",
+        "definition": "Specjalistyczna działalność obejmująca chów i hodowlę ryb oraz innych organizmów wodnych (w tym roślin) w kontrolowanych warunkach."
+      },
+      {
+        "term": "Marikultura",
+        "definition": "Rodzaj akwakultury prowadzonej w środowisku morskim, np. na zamkniętych farmach w morskich wodach przybrzeżnych."
+      },
+      {
+        "term": "Przełowienie",
+        "definition": "Zjawisko polegające na nadmiernym odławianiu gatunków, prowadzące do zredukowania populacji poniżej poziomu, który umożliwia jej naturalne odtworzenie."
+      },
+      {
+        "term": "Najbogatsze łowiska świata",
+        "definition": "Zlokalizowane tam, gdzie mieszają się wody o różnej temperaturze i zasoleniu, np. na styku prądów morskich oraz na obszarach występowania upwellingu."
+      },
+      {
+        "term": "Przykłady głównych łowisk oceanicznych",
+        "definition": "Akweny m.in. u zachodnich wybrzeży Ameryki Południowej (Prąd Peruwiański), u wybrzeży Japonii (Oja Siwo i Kuro Siwo) oraz na północnym Atlantyku (Golfsztrom i Prąd Labradorski)."
+      },
+      {
+        "term": "Upwelling",
+        "definition": "Zjawisko oceaniczne wspomagające powstawanie bogatych łowisk (występujące m.in. u wybrzeży Ameryki Południowej), dostarczające wody dobrze natlenione i bogate w plankton."
+      },
+      {
+        "term": "Skutki nadmiernego przełowienia",
+        "definition": "Wyczerpywanie łowisk, spadek populacji organizmów wodnych oraz konflikty międzynarodowe o prawo do eksploatacji akwenów (np. wojna dorszowa, wojna mintajowa)."
+      },
+      {
+        "term": "Zagrożenia ekologiczne ze strony akwakultury",
+        "definition": "Eutrofizacja i zanieczyszczenie wód, deformacje ciała ryb, zaburzenie równowagi ekosystemów oraz obniżenie jakości mięsa organizmów."
+      },
+      {
+        "term": "Najczęściej poławiane organizmy",
+        "definition": "Zaliczają się do nich organizmy morskie i słodkowodne takie jak śledziowate, dorszowate, tuńczyki, marliny oraz mięczaki i krewetki."
+      },
+      {
+        "term": "Wielkość światowej produkcji wodnej",
+        "definition": "W 2017 roku wyniosła ponad 200 mln ton, z czego więcej niż połowa pochodziła z dynamicznie rozwijającej się akwakultury."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Islandia, Norwegia, Chile, Peru, Mauretania",
+        "pair2": "Państwa czerpiące znaczne dochody z eksportu ryb."
+      },
+      {
+        "pair1": "Japonia i Stany Zjednoczone",
+        "pair2": "Jedni z największych importerów ryb, pomimo prowadzenia przez te kraje znacznych połowów."
+      },
+      {
+        "pair1": "Hodowla w morskich wodach przybrzeżnych (np. w norweskich fiordach)",
+        "pair2": "Marikultura"
+      },
+      {
+        "pair1": "Tylko fizyczne odławianie organizmów z mórz, oceanów i wód śródlądowych",
+        "pair2": "Rybołówstwo"
+      },
+      {
+        "pair1": "Nadmierna eksploatacja łowisk prowadząca do nieodwracalnego spadku populacji gatunków",
+        "pair2": "Przełowienie"
+      },
+      {
+        "pair1": "Wody szelfowe, strefy mieszania się prądów morskich oraz obszary upwellingu",
+        "pair2": "Główne strefy występowania najbogatszych światowych łowisk"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jakie pojęcie obejmuje swoim zakresem wszystkie formy gospodarczego wykorzystywania organizmów wodnych?",
+        "options": [
+          "Wszelkie formy akwakultury rybnej",
+          "Tradycyjna gospodarka rybołówcza",
+          "Szeroko pojęte rybactwo na świecie",
+          "Wyłącznie morska marikultura ryb"
+        ],
+        "answer": "C",
+        "explanation": "Podręcznik definiuje rybactwo jako najszersze pojęcie, które obejmuje gospodarcze wykorzystanie organizmów wodnych i dzieli się na rybołówstwo oraz akwakulturę."
+      },
+      {
+        "question": "Z którego oceanu pochodzi największa część światowych połowów organizmów morskich?",
+        "options": [
+          "Z zasobnych akwenów Oceanu Spokojnego",
+          "Z otwartych wód Oceanu Indyjskiego",
+          "Z zimnych mórz Oceanu Arktycznego",
+          "Z wydajnych wód Oceanu Atlantyckiego"
+        ],
+        "answer": "A",
+        "explanation": "Mapa w podręczniku ('Udział oceanów w światowych połowach') wskazuje, że to Ocean Spokojny zapewnia ponad połowę (54%) światowych połowów."
+      },
+      {
+        "question": "Czym szczególnym charakteryzuje się marikultura w odróżnieniu od ogólnie pojętej akwakultury?",
+        "options": [
+          "Prowadzona jest wyłącznie na akwenach morskich",
+          "Obejmuje głównie hodowlę w zamkniętych jeziorach",
+          "Polega jedynie na fizycznym odławianiu dzikich ryb",
+          "Ogranicza się do zamkniętych zbiorników lądowych"
+        ],
+        "answer": "A",
+        "explanation": "Zgodnie z podręcznikiem, marikultura to specyficzna gałąź akwakultury, w której hodowla jest prowadzona w środowisku morskim (np. w norweskich fiordach)."
+      },
+      {
+        "question": "Co stanowi jedną z kluczowych przyczyn występowania i nasilania się zjawiska przełowienia światowych akwenów?",
+        "options": [
+          "Restrykcyjne tworzenie wielkich rezerwatów przyrody",
+          "Utrzymywanie wyłącznie mało wydajnych metod połowu",
+          "Rosnące zapotrzebowanie oraz udoskonalanie technik",
+          "Naturalne i nagłe ograniczenie wydajności akwakultury"
+        ],
+        "answer": "C",
+        "explanation": ", że głównymi przyczynami przełowienia są rozwój i udoskonalanie technik połowu oraz ciągły wzrost zapotrzebowania na organizmy morskie."
+      },
+      {
+        "question": "W jakich rejonach wszechoceanu zazwyczaj lokalizują się najbogatsze i najbardziej wydajne łowiska organizmów?",
+        "options": [
+          "W miejscach częstego krzyżowania się prądów okołorównikowych",
+          "W najgłębszych, ciemnych oraz bardzo zimnych rowach oceanicznych",
+          "W strefach fizycznego mieszania się wód o odmiennej temperaturze",
+          "Wyłącznie na obszarach działania samych prądów najcieplejszych"
+        ],
+        "answer": "C",
+        "explanation": "Według tekstu najbogatsze łowiska występują tam, gdzie mieszają się wody o różnej temperaturze i zasoleniu, co dobrze natlenia wodę i sprzyja planktonowi."
+      },
+      {
+        "question": "Które prądy morskie sprzyjają powstawaniu niezwykle obfitych łowisk u wybrzeży Japonii oraz dalekiej Kamczatki?",
+        "options": [
+          "Chłodny powierzchniowy Prąd Labradorski oraz ocieplający Golfsztrom",
+          "Zimny i głęboki Prąd Peruwiański oraz bardzo ciepłe prądy strefy równika",
+          "Ogrzewający Prąd Zatokowy oraz regularnie spływający z północy Oja Siwo",
+          "Zimny prąd morski Oja Siwo oraz bezpośrednio stykający się ciepły Kuro Siwo"
+        ],
+        "answer": "D",
+        "explanation": "Zgodnie z podręcznikiem u wybrzeży Japonii, Chin i Kamczatki spotykają się prądy Oja Siwo (zimny) i Kuro Siwo (ciepły), tworząc bogate łowiska."
+      },
+      {
+        "question": "Jaki był orientacyjny udział organizmów bezpośrednio pochodzących z akwakultury w globalnej produkcji w 2017 r.?",
+        "options": [
+          "Wynosił on nieznacznie więcej niż równe pięćdziesiąt procent wielkości produkcji",
+          "Stanowił on niezwykle małą mniejszość, oscylującą na poziomie dziesięciu procent",
+          "Kształtował się on w stosunkowo ścisłych granicach równych trzydziestu procentom",
+          "Przekraczał on zdecydowanie barierę dziewięćdziesięciu procent rynkowej podaży"
+        ],
+        "answer": "A",
+        "explanation": "Tekst precyzuje, że w 2017 roku łączna wielkość produkcji przekroczyła 200 mln ton, z czego więcej niż połowę (111 mln ton) dostarczyła właśnie akwakultura."
+      },
+      {
+        "question": "Między jakimi państwami na świecie toczył się ostry konflikt morski nazywany w literaturze „wojną dorszową”?",
+        "options": [
+          "Pomiędzy mocarstwami światowymi na obszarach Pacyfiku Północnego",
+          "Między Stanami Zjednoczonymi a Kanadą na chłodnym północnym Atlantyku",
+          "Pomiędzy terytorium Islandii a morską potęgą i flotą Wielkiej Brytanii",
+          "Między Norwegią a Japonią o ostateczną rynkową dominację w akwakulturze"
+        ],
+        "answer": "C",
+        "explanation": "W latach 70. XX wieku świadomość wyczerpywania łowisk doprowadziła do tak zwanej wojny dorszowej toczonej między Wielką Brytanią a Islandią."
+      },
+      {
+        "question": "Która ze wskazanych niżej grup krajów opiera w znacznym stopniu swoje bogactwo na globalnym eksporcie ryb?",
+        "options": [
+          "Cesarstwo Japonii, potężne USA, Wielka Brytania i wysoko rozwinięte narody Europy",
+          "Surowy Egipt, izolowana Libia, bogata Arabia Saudyjska oraz państwa leżące obok",
+          "Rolnicza Polska, wielka Ukraina, lądowa Białoruś i pozostałe wschodnie kraje Europy",
+          "Chłodna Islandia, skandynawska Norwegia, ciepłe Peru oraz wyspiarskie kraje Oceanii"
+        ],
+        "answer": "D",
+        "explanation": "Podręcznik wprost wylicza, że takie państwa jak Islandia, Norwegia, Chile, Peru, Mauretania oraz kraje Oceanii czerpią znaczne dochody z eksportu ryb."
+      },
+      {
+        "question": "Jakie negatywne zjawisko ekologiczne o zasięgu środowiskowym może wywołać niewłaściwie prowadzona akwakultura?",
+        "options": [
+          "Nadmierna eutrofizacja lokalnych wód śródlądowych oraz postępujące zanieczyszczenie",
+          "Długofalowe przyspieszenie oceanicznego zjawiska upwellingu w strefach przybrzeżnych",
+          "Zbyt intensywny i nielegalny rozwój przestarzałych technik połowów terytorialnych",
+          "Szybkie oraz niekontrolowane oziębienie najważniejszych ciepłych prądów morskich"
+        ],
+        "answer": "A",
+        "explanation": "Akwakultura zagraża środowisku między innymi przez zwiększenie poziomu zanieczyszczenia wód oraz ich silną eutrofizację (przeżyźnienie)."
+      },
+      {
+        "question": "Dlaczego ogromne gospodarki, takie jak Stany Zjednoczone czy Japonia, są jednocześnie bardzo wielkimi importerami ryb?",
+        "options": [
+          "Posiadają niezwykle ubogie tradycje morskie oraz cierpią na absolutny brak floty rybackiej",
+          "Prawnie eksportują całe swoje lokalne morskie pożywienie do stref globalnego Południa",
+          "Cechują się nieustannym popytem połączonym z wysoką nabywczą siłą swego społeczeństwa",
+          "Ich własne, dawne strefy wyłącznych łowisk zostały bezpowrotnie zniszczone terytorialnie"
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z materiałem, import tych państw wynika z ogromnego spożycia i dużej świadomości żywieniowej, na którą nakładają się wysokie możliwości finansowe konsumentów."
+      },
+      {
+        "question": "Jakie zjawiska u wybrzeży Ameryki Południowej decydują o powstawaniu bardzo produktywnych obszarów połowowych?",
+        "options": [
+          "Regularne wspieranie ekosystemu przez naturalny upwelling oraz chłodny Prąd Peruwiański",
+          "Obecność bardzo gorących oraz wyjątkowo zasolonych prądów morskich o charakterze lokalnym",
+          "Zbudowanie z pomocą bogatych inwestycji ogromnych oraz zaawansowanych farm marikultury",
+          "Bliskość całkowicie nieruchomych stref wody morskiej uniemożliwiająca ucieczkę zooplanktonu"
+        ],
+        "answer": "A",
+        "explanation": "Bogactwo tych wód (szczególnie u wybrzeży Peru) wynika bezpośrednio ze spotkania z zimnym Prądem Peruwiańskim oraz napędzającego wymianę zjawiska upwellingu."
+      },
+      {
+        "question": "Czego dotyczył w realiach politycznych ostry spór państw, nazywany powszechnie „wojną mintajową” (lata 90. XX w.)?",
+        "options": [
+          "Długotrwałego, zbrojnego zatargu pomiędzy europejską Wielką Brytanią a wyizolowaną Islandią",
+          "Burzliwego konfliktu Rosji z mocarstwowymi Chinami, szybką Koreą i Polską na Morzu Ochockim",
+          "Agresywnych, wręcz kolonialnych walk o strefy połowowe państw u bardzo ciepłych wybrzeży Afryki",
+          "Zaciekłej, nowoczesnej rywalizacji technologicznej zbrojnego Pacyfiku pomiędzy USA oraz Japonią"
+        ],
+        "answer": "B",
+        "explanation": "'wojnę mintajową' w latach 90. XX wieku jako konflikt zbrojno-polityczno-gospodarczy między Rosją, a Chinami, Koreą Południową i Polską na Morzu Ochockim."
+      },
+      {
+        "question": "W jaki sposób przypadkowa, sztormowa ucieczka ryb hodowlanych z klatek silnie oddziałuje na otaczające środowisko?",
+        "options": [
+          "Modyfikuje bezpośrednio geologiczne ukształtowanie morskiego dna na ogromnych głębokościach",
+          "Szybko buduje bezcenną i trwałą barierę odpornościową u wszystkich dziko żyjących ssaków morskich",
+          "Kategorycznie zagraża i całkowicie zaburza równowagę wrażliwego lokalnego ekosystemu przybrzeżnego",
+          "Z miejsca skutecznie niweluje stężenia obcych toksyn w naturalnych obrzeżach obszarów hodowlanych"
+        ],
+        "answer": "C",
+        "explanation": "Podręcznik wymienia zaburzenie równowagi naturalnych ekosystemów morskich jako główny skutek ucieczek osobników modyfikowanych lub obcych gatunkowo (np. z powodu sztormów)."
+      },
+      {
+        "question": "Z jakiego zasadniczego powodu współczesna akwakultura coraz silniej poszukuje komponentów paszowych, uciekając od mączki rybnej?",
+        "options": [
+          "Historyczne metody żywienia stały się powszechnie i nieodwołalnie zakazane na rynkach zachodnich",
+          "Dostępna rynkowo mączka rybna bywa coraz częściej surowcem nieprzyswajalnym oraz skrajnie trującym",
+          "Restrykcyjne oraz niezwykle powikłane prawo powstrzymało swobodny, oceaniczny tranzyt tychże pokarmów",
+          "Dynamicznie, bardzo mocno rosnąca globalnie hodowla czyni tradycyjnie wytwarzaną mączkę niewystarczającą"
+        ],
+        "answer": "D",
+        "explanation": "Dynamiczny rozwój akwakultury powoduje wielki popyt na pasze, którego standardowe dokarmianie mączką rybną nie jest już w stanie w całości pokryć, wymuszając korzystanie np. ze zbóż."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Rybołówstwo to bardzo szerokie pojęcie, które swoim zakresem obejmuje zarówno fizyczne połowy dziko żyjących organizmów, jak i ich chów w specjalnych morskich lub śródlądowych gospodarstwach.",
+        "answer": false,
+        "explanation": "To definicja rybactwa. Rybołówstwo ogranicza się jedynie do odławiania dziko żyjących organizmów wodnych (morskich i śródlądowych) w ich naturalnym środowisku."
+      },
+      {
+        "sentence": "Marikultura jest jednym z działów akwakultury i polega wyłącznie na chowie oraz hodowli organizmów w środowisku morskim, na przykład w zamkniętych farmach u wybrzeży Norwegii.",
+        "answer": true,
+        "explanation": "Podręcznik definiuje marikulturę jako specyficzną formę akwakultury prowadzoną w morskich wodach przybrzeżnych (np. norweskich fiordach)."
+      },
+      {
+        "sentence": "Najobfitsze światowe łowiska organizmów morskich znajdują się zazwyczaj w głębokich i spokojnych rowach oceanicznych, z dala od stref mieszania się prądów oraz płytkich szelfów.",
+        "answer": false,
+        "explanation": "Najbogatsze łowiska występują na obszarach płytkich wód szelfowych oraz tam, gdzie mieszają się wody o różnej temperaturze i zasoleniu (strefy prądów morskich i zjawiska upwellingu)."
+      },
+      {
+        "sentence": "Współcześnie to tradycyjne rybołówstwo cechuje się największą dynamiką wzrostu produkcji na świecie, podczas gdy udział akwakultury w całkowitej podaży ryb systematycznie maleje.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem, od lat 80. XX wieku udział akwakultury systematycznie rośnie. W 2017 r. dostarczyła ona więcej niż połowę światowej produkcji organizmów wodnych (111 mln ton z ponad 200 mln ton)."
+      },
+      {
+        "sentence": "Akweny leżące u wybrzeży Japonii oraz dalekiej Kamczatki należą do najbogatszych łowisk świata dzięki fizycznemu mieszaniu się tam zimnego prądu Oja Siwo z ciepłym prądem Kuro Siwo.",
+        "answer": true,
+        "explanation": "Zjawisko spotykania się w tamtym rejonie chłodnego prądu Oja Siwo z ciepłym prądem Kuro Siwo sprzyja bardzo dobremu natlenieniu wód i bytowaniu planktonu, co przyciąga wielkie populacje ryb."
+      },
+      {
+        "sentence": "Wojna dorszowa była głośnym polityczno-gospodarczym konfliktem z lat 90. XX wieku toczonym między Rosją a Chinami, Koreą Południową i Polską na wodach Morza Ochockiego.",
+        "answer": false,
+        "explanation": "Opisany spór z lat 90. to tzw. wojna mintajowa. Wojna dorszowa toczyła się w latach 70. XX wieku pomiędzy terytorium Islandii a morską potęgą Wielkiej Brytanii."
+      },
+      {
+        "sentence": "Mimo sztucznego środowiska życia, ryby pochodzące z intensywnej akwakultury odznaczają się z reguły wyższą jakością mięsa i większą zawartością składników odżywczych niż osobniki dziko żyjące.",
+        "answer": false,
+        "explanation": "Podręcznik wylicza niższą jakość mięsa pod względem walorów smakowych i zawartości składników odżywczych jako jeden z negatywnych skutków niewłaściwie prowadzonej akwakultury."
+      },
+      {
+        "sentence": "Z analizy udziału oceanów w światowych połowach morskich organizmów wynika, że najwięcej ryb na Ziemi odławia się z wydajnych i rozległych akwenów Oceanu Spokojnego.",
+        "answer": true,
+        "explanation": "Podręcznik w postaci mapy i danych procentowych udowadnia, że to Ocean Spokojny zapewnia zdecydowaną większość, bo aż ponad połowę (54%) globalnych połowów."
+      },
+      {
+        "sentence": "Wysoko rozwinięte i bardzo bogate państwa o wielkich flotach połowowych, takie jak Stany Zjednoczone czy Japonia, należą paradoksalnie do jednych z największych światowych importerów ryb.",
+        "answer": true,
+        "explanation": "Jest to prawda – mimo własnych znacznych połowów dalekomorskich, państwa te mają tak duże i świadome żywieniowo społeczeństwa o dużej sile nabywczej, że rynek wymusza gigantyczny import."
+      },
+      {
+        "sentence": "Z powodu dynamicznego rozwoju farm wodnych tradycyjne dokarmianie mączką rybną staje się niewystarczające, dlatego do pokarmu stosowanego w akwakulturze coraz częściej dodaje się tanie zboża.",
+        "answer": true,
+        "explanation": "Zwiększająca się produkcja i popyt w akwakulturze sprawiły, że mączka rybna jest towarem niewystarczającym na rynku, dlatego rolnictwo wodne posiłkuje się np. stosowaniem pasz uzupełnionych o pszenicę."
+      }
+    ]
+  }
+}

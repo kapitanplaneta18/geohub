@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "id": "k2-r-dz1-t3",
+    "title": "Integracja i dezintegracja na świecie",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Płaszczyzna polityczna integracji",
+        "definition": "Obejmuje wspólne działania wobec innych państw, wspólne rozwiązywanie politycznych problemów oraz integrowanie się narodów."
+      },
+      {
+        "term": "Płaszczyzna militarna integracji",
+        "definition": "Polega na zapewnianiu bezpieczeństwa krajom członkowskim, zapobieganiu konfliktom oraz rozwijaniu technologii wojskowych i systemów bezpieczeństwa."
+      },
+      {
+        "term": "Płaszczyzna gospodarcza integracji",
+        "definition": "Przejawia się m.in. w ułatwieniach w handlu, wprowadzaniu wspólnej waluty, poszerzeniu rynków zbytu oraz swobodnym przepływie kapitału, towarów i usług."
+      },
+      {
+        "term": "Dezintegracja państw",
+        "definition": "Proces rozpadu państw na mniejsze jednostki terytorialne, czego przykładem po 1989 r. jest podział Czechosłowacji, rozpad ZSRR i Jugosławii."
+      },
+      {
+        "term": "Ruchy separatystyczne",
+        "definition": "Dążenie określonych grup społecznych, z reguły mniejszości narodowych, do oddzielenia się i utworzenia własnego, niepodległego państwa."
+      },
+      {
+        "term": "Katalonia",
+        "definition": "Autonomiczna prowincja, w której dążenia niepodległościowe od Hiszpanii wynikają z poczucia odrębności etnicznej oraz przyczyn ekonomicznych."
+      },
+      {
+        "term": "Kraj Basków",
+        "definition": "Historyczna kraina na pograniczu Francji i Hiszpanii, której mieszkańcy dążą do oddzielenia, a konflikt zaostrzała m.in. terrorystyczna organizacja ETA."
+      },
+      {
+        "term": "ONZ (Organizacja Narodów Zjednoczonych)",
+        "definition": "Największa organizacja międzynarodowa dążąca m.in. do zapewnienia pokoju, bezpieczeństwa, współpracy między narodami i poszanowania praw człowieka."
+      },
+      {
+        "term": "Unia Europejska (UE)",
+        "definition": "Organizacja regionalna, do której zadań należy zacieśnianie współpracy gospodarczej oraz zmniejszanie różnic w poziomie życia w państwach Europy."
+      },
+      {
+        "term": "NATO (Organizacja Paktu Północnoatlantyckiego)",
+        "definition": "Organizacja o charakterze polityczno-militarnym, której celem jest zapewnianie bezpieczeństwa i stabilizacji krajom członkowskim."
+      },
+      {
+        "term": "NAFTA (Północnoamerykański Układ Wolnego Handlu)",
+        "definition": "Gospodarcza organizacja współpracy oparta na rozszerzaniu zasad wspólnego rynku w państwach członkowskich: Kanadzie, Meksyku i USA."
+      },
+      {
+        "term": "OPEC (Organizacja Krajów Eksportujących Ropę Naftową)",
+        "definition": "Organizacja gospodarcza kontrolująca światowe wydobycie, poziom cen ropy naftowej oraz opłaty związane z jej eksploatacją."
+      },
+      {
+        "term": "ASEAN (Stowarzyszenie Narodów Azji Południowo-Wschodniej)",
+        "definition": "Organizacja polityczno-gospodarcza przyspieszająca wzrost ekonomiczny, rozwój socjalny i kulturalny w państwach regionu Azji."
+      },
+      {
+        "term": "MERCOSUR (Wspólny Rynek Południa)",
+        "definition": "Organizacja powołana w celu wzmocnienia współpracy gospodarczej i zniesienia barier handlowych w krajach Ameryki Południowej."
+      },
+      {
+        "term": "Unia Afrykańska (UA)",
+        "definition": "Organizacja polityczno-gospodarczo-militarna zacieśniająca współpracę na kontynencie i dążąca do zjednoczonej Afryki ze wspólną walutą."
+      },
+      {
+        "term": "Liga Państw Arabskich (LPA)",
+        "definition": "Organizacja polityczna powołana w celu zacieśniania stosunków i kształtowania wspólnego stanowiska w sprawach międzynarodowych między państwami arabskimi."
+      },
+      {
+        "term": "Układ z Schengen",
+        "definition": "Porozumienie zawarte w 1985 r. polegające m.in. na zniesieniu kontroli osób przekraczających granice wewnętrzne między państwami w Europie."
+      },
+      {
+        "term": "Strefa euro",
+        "definition": "Obszar skupiający kraje członkowskie UE, w których wprowadzono wspólną walutę ułatwiającą rozliczenia gospodarcze i wyrównywanie cen."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "OPEC",
+        "pair2": "Kontrolowanie światowego wydobycia i poziomu cen ropy naftowej"
+      },
+      {
+        "pair1": "NATO",
+        "pair2": "Zapewnianie bezpieczeństwa i stabilizacji krajom członkowskim"
+      },
+      {
+        "pair1": "NAFTA",
+        "pair2": "Rozszerzanie zasad wspólnego rynku na obszarze USA, Kanady i Meksyku"
+      },
+      {
+        "pair1": "ASEAN",
+        "pair2": "Przyspieszanie wzrostu ekonomicznego w krajach Azji Południowo-Wschodniej"
+      },
+      {
+        "pair1": "Katalonia",
+        "pair2": "Ruchy separatystyczne i silne dążenia niepodległościowe od Hiszpanii"
+      },
+      {
+        "pair1": "Układ z Schengen",
+        "pair2": "Zniesienie kontroli osób na granicach wewnętrznych strefy europejskiej"
+      },
+      {
+        "pair1": "Czechosłowacja",
+        "pair2": "Podział państwa na dwie niezależne republiki w 1993 roku"
+      },
+      {
+        "pair1": "Jugosławia",
+        "pair2": "Rozpad na 7 państw w wyniku silnych i krwawych napięć na tle religijnym i etnicznym"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jaki jest główny cel działania Organizacji Narodów Zjednoczonych (ONZ) powołanej w 1945 roku?",
+        "options": [
+          "Zapewnienie bezpieczeństwa oraz światowego pokoju",
+          "Tworzenie wielkich wojskowych paktów uderzeniowych",
+          "Ustalanie wspólnych cen towarów rolniczych na giełdach",
+          "Nadzorowanie wydobycia rud metali i paliw kopalnych"
+        ],
+        "answer": "A",
+        "explanation": "Do najważniejszych celów ONZ należy zapewnienie pokoju i bezpieczeństwa na świecie, poszanowanie praw człowieka oraz współpraca między narodami."
+      },
+      {
+        "question": "Co stanowi jeden z najważniejszych przejawów gospodarczej płaszczyzny integracji międzynarodowej?",
+        "options": [
+          "Ułatwienia w handlu i swobodny przepływ towarów",
+          "Zawieranie globalnych sojuszy militarno-zbrojeniowych",
+          "Całkowite ujednolicanie systemów edukacji w regionach",
+          "Wspólne, przymusowe rozwiązywanie konfliktów zbrojnych"
+        ],
+        "answer": "A",
+        "explanation": "Gospodarcza integracja to ułatwienia w handlu, swobodny przepływ kapitału, towarów i usług oraz wprowadzanie wspólnej waluty."
+      },
+      {
+        "question": "Która organizacja zrzesza wyłącznie państwa europejskie w celu pogłębiania rozwoju gospodarczego?",
+        "options": [
+          "Północnoamerykański Układ Wolnego Handlu",
+          "Unia Europejska z jej wspólnym rynkiem",
+          "Liga Państw Arabskich na Bliskim Wschodzie",
+          "Stowarzyszenie Narodów Azji Południowej"
+        ],
+        "answer": "B",
+        "explanation": "Unia Europejska jako regionalną organizację oddziałującą najsilniej na kraje Europy, mającą na celu zmniejszanie dysproporcji rozwojowych i wsparcie wolnego rynku."
+      },
+      {
+        "question": "Jaka jest kluczowa rola gospodarczej organizacji OPEC, do której należy m.in. Wenezuela i Irak?",
+        "options": [
+          "Nadzorowaniem budowy ropociągów w całej Europie",
+          "Wydawaniem zezwoleń na budowę nowych kopalni węgla",
+          "Zarządzaniem globalną produkcją zbóż i warzyw",
+          "Kontrolowaniem globalnego wydobycia ropy naftowej"
+        ],
+        "answer": "D",
+        "explanation": "OPEC to organizacja państw eksportujących ropę naftową, która kontroluje światowe wydobycie, ceny tego surowca oraz powiązane z nim opłaty."
+      },
+      {
+        "question": "Które trzy konkretne kraje utworzyły Północnoamerykański Układ Wolnego Handlu (znany jako NAFTA)?",
+        "options": [
+          "Wielka Brytania, Australia oraz obszar Nowej Zelandii",
+          "Stany Zjednoczone, Meksyk oraz północny sąsiad Kanada",
+          "Argentyna, Urugwaj, Paragwaj oraz wschodnia Brazylia",
+          "Indonezja, Malezja, Filipiny oraz cały obszar Tajlandii"
+        ],
+        "answer": "B",
+        "explanation": "Członkami NAFTA są Kanada, Meksyk oraz Stany Zjednoczone, wspólnie opierające się na zasadach rozszerzania wspólnego rynku."
+      },
+      {
+        "question": "Jaki jest główny charakter działalności organizacji MERCOSUR (Wspólny Rynek Południa)?",
+        "options": [
+          "Militarnym systemem bezpieczeństwa zrzeszającym państwa Azji",
+          "Gospodarczym sojuszem terytorialnym w Ameryce Południowej",
+          "Politycznym zrzeszeniem wszystkich krajów na kontynencie europejskim",
+          "Światową instytucją regulującą dyplomację na szczeblu najwyższym"
+        ],
+        "answer": "B",
+        "explanation": "MERCOSUR to organizacja gospodarcza, mająca na celu zniesienie barier handlowych w państwach Ameryki Południowej."
+      },
+      {
+        "question": "Na jakiej płaszczyźnie odbywa się integracja poprzez wprowadzanie wspólnej waluty europejskiej (euro)?",
+        "options": [
+          "Wojskowej dotyczącej zarządzania zaawansowaną obronnością",
+          "Społecznej opierającej się na ujednolicaniu wierzeń i religii",
+          "Politycznej polegającej na unifikacji prawa karnego i cywilnego",
+          "Gospodarczej ułatwiającej obroty handlowe i rynkowe"
+        ],
+        "answer": "D",
+        "explanation": "Wprowadzenie wspólnej waluty, takiej jak euro, przypisane jest do gospodarczej płaszczyzny integracji, ponieważ usprawnia m.in. swobodny przepływ kapitału i towarów."
+      },
+      {
+        "question": "W którym z regionów Europy występują obecnie silne zjawiska dezintegracyjne opisywane w tekście?",
+        "options": [
+          "Zamożna hiszpańska prowincja autonomiczna - Katalonia",
+          "Nieuznawana dotąd dyplomatycznie republika na wschodzie",
+          "Oddzielona całkowicie rosyjska eksklawa - Obwód Kaliningradzki",
+          "Historyczna kraina państwa greckiego domagająca się praw własnych"
+        ],
+        "answer": "A",
+        "explanation": "Dążenia niepodległościowe Katalonii to podręcznikowy przykład współczesnych tendencji dezintegracyjnych na terytorium Hiszpanii."
+      },
+      {
+        "question": "Jaki proces polityczny o charakterze dezintegracyjnym wywołał wyjątkowo brutalne walki i krwawe wojny?",
+        "options": [
+          "Spokojny podział niegdysiejszej Czechosłowacji na niepodległe republiki",
+          "Zbrojne i etniczne walki przy rozpadzie wielonarodowej Jugosławii",
+          "Bezkrwawa weryfikacja podziału dawnej Demokratycznej Republiki Niemiec",
+          "Rozległy i bardzo szybki proces łączenia poszczególnych państw unijnych"
+        ],
+        "answer": "B",
+        "explanation": "Transformacja ustrojowa i dezintegracja Jugosławii miała wyjątkowo krwawy przebieg, prowadząc do silnych napięć na tle religijnym i etnicznym."
+      },
+      {
+        "question": "Jaki cel ma organizacja znana pod skrótem CEFTA, do której należy między innymi Serbia i Kosowo?",
+        "options": [
+          "Militarna i wojskowa ochrona przed ewentualnymi atakami zaborców",
+          "Ciągłe ułatwianie swobodnej wymiany handlowej w obrębie tego regionu",
+          "Polityczne podporządkowanie i zarządzanie terytoriami Europy Środkowej",
+          "Bezwzględne wyeliminowanie religijnych sporów na Półwyspie Bałkańskim"
+        ],
+        "answer": "B",
+        "explanation": "CEFTA to Środkowoeuropejskie Porozumienie o Wolnym Handlu, którego gospodarczym celem jest ułatwianie wymiany handlowej między członkami."
+      },
+      {
+        "question": "Dzięki jakim uregulowaniom zawartym w 1985 r. możliwe jest swobodne przemieszczanie się po Europie?",
+        "options": [
+          "Przez zniesienie kontroli na granicach wewnętrznych strefy Schengen",
+          "Dzięki powołaniu silnego i decyzyjnego Parlamentu Europejskiego na Wschodzie",
+          "Poprzez narzucenie wspólnego i identycznego dla wszystkich języka urzędowego",
+          "Za sprawą unifikacji wszystkich europejskich rynków i światowych sojuszy handlu"
+        ],
+        "answer": "A",
+        "explanation": "Porozumienie z Schengen doprowadziło do usunięcia kontroli na wewnętrznych granicach państw sygnatariuszy, co znacznie zacieśniło europejską swobodę."
+      },
+      {
+        "question": "Co stanowi jedną z barier lub negatywnych konsekwencji pogłębiającej się integracji europejskiej?",
+        "options": [
+          "Zupełny brak procedur nadzoru nad poszczególnymi organami obronnymi",
+          "Zauważalna redukcja znaczenia państw zachodnich na arenie kontynentu",
+          "Ogromny przyrost biurokracji unijnej i wysokie koszty administracyjne",
+          "Zobowiązanie uboższych członków do oddawania dochodu bogatym stolicom"
+        ],
+        "answer": "C",
+        "explanation": "W tabeli prezentującej wady integracji europejskiej (UE) wprost wymieniono wysokie koszty administracji unijnej oraz spory wzrost obciążeń biurokratycznych."
+      },
+      {
+        "question": "Który z podanych organów powołanych przez ONZ składa się dokładnie z 15 specjalnych członków?",
+        "options": [
+          "Główny Sekretariat Organizacji Narodów Zjednoczonych",
+          "Wąska Rada Bezpieczeństwa Narodów Zjednoczonych",
+          "Niezawisły Międzynarodowy Trybunał Sprawiedliwości",
+          "Szerokie i reprezentatywne Zgromadzenie Ogólne Organizacji"
+        ],
+        "answer": "B",
+        "explanation": "Rada Bezpieczeństwa liczy 15 krajów (w tym 5 stałych i 10 wybieranych na konkretne, dwuletnie kadencje)."
+      },
+      {
+        "question": "Jakie organizacje uległy formalnemu połączeniu i utworzyły ostatecznie w 1993 roku Unię Europejską?",
+        "options": [
+          "Integracja trzech wielkich paktów militarnych z czasów zimnowojennych z Europą",
+          "Połączenie dawnej Wspólnoty Europejskiej (EWG), EWWiS oraz organizacji Euratomu",
+          "Scalenie dotychczasowych gospodarczych obszarów państw bałkańskich z NAFTA i LPA",
+          "Wcielenie dawnych afrykańskich stref postkolonialnych w struktury gospodarcze UE"
+        ],
+        "answer": "B",
+        "explanation": "Traktat z Maastricht (wejście w życie w 1993 r.) powołał Unię Europejską na skutek połączenia Wspólnoty Europejskiej (dawnej EWG), EWWiS oraz Euratomu."
+      },
+      {
+        "question": "Na ile suwerennych państw podzieliło się ostatecznie w toku dezintegracji terytorium dawnej Jugosławii?",
+        "options": [
+          "Na trzy zupełnie niezależne terytorialnie regiony",
+          "Na siedem ostatecznie wyodrębnionych nowych państw",
+          "Na piętnaście nowoczesnych ustrojowo wolnych republik",
+          "Na dziesięć demokratycznych i całkowicie suwerennych nacji"
+        ],
+        "answer": "B",
+        "explanation": "Na skutek transformacji dawna Jugosławia rozpadła się na siedem państw (Słowenię, Chorwację, Bośnię i Hercegowinę, Macedonię Północną, Serbię, Czarnogórę oraz Kosowo)."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Głównym celem Północnoamerykańskiego Układu Wolnego Handlu (NAFTA) jest integracja militarna oraz zapewnienie bezpieczeństwa zbrojnego Kanadzie, Stanom Zjednoczonym i Meksykowi.",
+        "answer": false,
+        "explanation": "To fałsz. NAFTA to organizacja o charakterze wyłącznie gospodarczym, a jej celem jest współpraca oparta na rozszerzaniu zasad wspólnego rynku, a nie integracja militarna."
+      },
+      {
+        "sentence": "Unia Europejska powstała w 1993 roku w wyniku wejścia w życie traktatu z Maastricht, który połączył Europejską Wspólnotę Gospodarczą, Europejską Wspólnotę Węgla i Stali oraz Euratom.",
+        "answer": true,
+        "explanation": "To prawda. Traktat z Maastricht z 1992 roku, który wszedł w życie w 1993 roku, usankcjonował powstanie Unii Europejskiej z bezpośredniego połączenia trzech wymienionych wspólnot europejskich."
+      },
+      {
+        "sentence": "Organizacja Krajów Eksportujących Ropę Naftową (OPEC) zrzesza wyłącznie państwa leżące na Półwyspie Arabskim w celu ustalania wspólnych cen tego surowca.",
+        "answer": false,
+        "explanation": "To pułapka. Choć OPEC faktycznie kontroluje światowe wydobycie i ceny ropy naftowej, to nie zrzesza wyłącznie państw arabskich – do organizacji należą państwa z różnych kontynentów, m.in. Wenezuela (Ameryka Południowa) czy Angola (Afryka)."
+      },
+      {
+        "sentence": "Rozpad Jugosławii był procesem dezintegracyjnym o wyjątkowo krwawym przebiegu, którego głównym podłożem były silne napięcia na tle etnicznym i religijnym.",
+        "answer": true,
+        "explanation": "To prawda. Dezintegracja Jugosławii, w przeciwieństwie na przykład do podziału Czechosłowacji, miała bardzo brutalny charakter, a jej głównym zarzewiem było ogromne zróżnicowanie narodowościowe, kulturowe i religijne obywateli."
+      },
+      {
+        "sentence": "Wspólny Rynek Południa (MERCOSUR) to organizacja gospodarcza, do której należą państwa Ameryki Środkowej oraz Meksyk, dążące do zniesienia barier handlowych.",
+        "answer": false,
+        "explanation": "To błąd. MERCOSUR zrzesza wyłącznie państwa Ameryki Południowej (m.in. Argentynę, Brazylię, Paragwaj, Urugwaj). Meksyk natomiast jest członkiem północnoamerykańskiej organizacji o nazwie NAFTA."
+      },
+      {
+        "sentence": "Układ z Schengen z 1985 roku wprowadził we wszystkich krajach członkowskich dzisiejszej Unii Europejskiej wspólną walutę w celu ułatwienia rozliczeń między przedsiębiorcami.",
+        "answer": false,
+        "explanation": "To nieprawda. Układ z Schengen dotyczył zniesienia kontroli osób na granicach wewnętrznych oraz wspólnej polityki azylowej. Wprowadzenie wspólnej waluty (euro) to osobny proces gospodarczy, a do strefy euro nie należą wszystkie państwa unijne."
+      },
+      {
+        "sentence": "W skład Rady Bezpieczeństwa Organizacji Narodów Zjednoczonych wchodzi 15 państw, z czego 5 krajów posiada status stałych członków.",
+        "answer": true,
+        "explanation": "To prawda. Struktura Rady Bezpieczeństwa ONZ obejmuje 15 członków: 5 stałych (Chiny, Francja, Rosja, Stany Zjednoczone, Wielka Brytania) oraz 10 państw wybieranych na dwuletnie kadencje."
+      },
+      {
+        "sentence": "Dążenia niepodległościowe Katalonii od Hiszpanii wynikają głównie z drastycznych konfliktów religijnych między katolikami a mniejszością prawosławną zamieszkującą ten region.",
+        "answer": false,
+        "explanation": "To pułapka logiczna. Konflikt w Katalonii (separatyzm) ma podłoże etniczne oraz ekonomiczne, a nie religijne. Katalończycy akcentują odrębność i sprzeciwiają się utrzymywaniu uboższych regionów Hiszpanii."
+      },
+      {
+        "sentence": "Rozwijanie technologii wojskowych oraz zapobieganie konfliktom dzięki akcjom rozjemczym to przykłady działań realizowanych na militarnej płaszczyźnie integracji międzynarodowej.",
+        "answer": true,
+        "explanation": "To prawda. W klasyfikacji płaszczyzn integracji zapewnianie bezpieczeństwa, rozwój systemów bezpieczeństwa i udział w misjach pokojowych przypisane są bezpośrednio do integracji militarnej."
+      },
+      {
+        "sentence": "Środkowoeuropejskie Porozumienie o Wolnym Handlu (CEFTA) zrzesza kraje Europy Północnej i Zachodniej, takie jak Islandia, Norwegia czy Szwajcaria.",
+        "answer": false,
+        "explanation": "To fałsz. Islandia, Norwegia, Szwajcaria (i Liechtenstein) tworzą EFTA (Europejskie Stowarzyszenie Wolnego Handlu). CEFTA zrzesza państwa Europy Środkowej i Południowej, m.in. Albanię, Mołdawię czy Serbię."
+      },
+      {
+        "sentence": "Jednym z celów Unii Afrykańskiej (UA), organizacji o charakterze polityczno-gospodarczo-militarnym, jest zjednoczenie kontynentu, na którym obowiązywać będzie wspólna waluta.",
+        "answer": true,
+        "explanation": "To prawda. Zgodnie z wykazem głównych organizacji międzynarodowych przedstawionym w tekście, Unia Afrykańska docelowo dąży do pogłębienia integracji skutkującego powstaniem zjednoczonej Afryki posiadającej jedną walutę."
+      },
+      {
+        "sentence": "Podział Czechosłowacji w 1993 roku na dwa niezależne państwa nastąpił w wyniku trwających przez kilka lat wyniszczających wojen etnicznych i walk partyzanckich.",
+        "answer": false,
+        "explanation": "To fałsz. Przemiany ustrojowe i sama dezintegracja Czechosłowacji miała charakter pokojowy. To transformacja terytorialna innej europejskiej republiki – Jugosławii – doprowadziła do wybuchu krwawych konfliktów zbrojnych i wojen domowych."
+      }
+    ]
+  }
+}

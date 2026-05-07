@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz1-t6",
+                     "title":  "Systemy GIS",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "GIS (Systemy Informacji Geograficznej)",
+                                              "definition":  "Zbiór narzędzi komputerowych służący do gromadzenia, opisu, analizy oraz prezentacji danych przestrzennych."
+                                          },
+                                          {
+                                              "term":  "Dane przestrzenne",
+                                              "definition":  "Informacje o obiektach i zjawiskach zlokalizowanych w przestrzeni (np. współrzędne, kształt), stanowiące podstawę systemów GIS."
+                                          },
+                                          {
+                                              "term":  "Atrybuty",
+                                              "definition":  "Dodatkowe informacje opisowe o obiektach (np. rodzaj nawierzchni drogi, typ gleby, liczba pięter), przechowywane w tabelach powiązanych z mapą."
+                                          },
+                                          {
+                                              "term":  "Warstwy tematyczne",
+                                              "definition":  "Sposób organizacji danych w GIS, gdzie każde zagadnienie (np. sieć rzeczna, budynki, lasy) tworzy oddzielną powłokę, którą można nakładać na inne w celu analizy."
+                                          },
+                                          {
+                                              "term":  "Geoportal",
+                                              "definition":  "Strona internetowa umożliwiająca przeglądanie, wyszukiwanie i prezentację danych przestrzennych (np. map topograficznych, ortofotomap) bez specjalistycznego oprogramowania."
+                                          },
+                                          {
+                                              "term":  "Model wektorowy (Obiekty)",
+                                              "definition":  "Sposób zapisu danych, w którym elementy rzeczywistości są przedstawiane jako konkretne obiekty (punkty, linie, poligony) z przypisanymi atrybutami w tabelach."
+                                          },
+                                          {
+                                              "term":  "Model rastrowy (Siatka/Obraz)",
+                                              "definition":  "Sposób zapisu danych pokrywający cały obszar jednolitą strukturą, np. siatką kwadratów o przypisanej wysokości (NMT) lub pikselami zdjęcia (ortofotomapa)."
+                                          },
+                                          {
+                                              "term":  "Numeryczny Model Terenu (NMT)",
+                                              "definition":  "Cyfrowa metoda przedstawiania ukształtowania powierzchni, składająca się z punktów ułożonych w siatkę (kwadratów lub trójkątów) z parametrem wysokości bezwzględnej."
+                                          },
+                                          {
+                                              "term":  "Ortofotomapa",
+                                              "definition":  "Mapa powstała w wyniku przetworzenia zdjęć lotniczych lub satelitarnych, którym nadano jednolitą skalę i wpisano w układ współrzędnych geograficznych."
+                                          },
+                                          {
+                                              "term":  "GPS (Global Positioning System)",
+                                              "definition":  "Najpopularniejszy system nawigacji satelitarnej, służący m.in. do zbierania danych o lokalizacji miejsc i obiektów w terenie."
+                                          },
+                                          {
+                                              "term":  "Teledetekcja",
+                                              "definition":  "Dziedzina zajmująca się wykonywaniem, przetwarzaniem i analizą zdjęć lotniczych oraz satelitarnych w celu pozyskiwania informacji o środowisku."
+                                          },
+                                          {
+                                              "term":  "Analiza przestrzenna",
+                                              "definition":  "Proces badania relacji i zależności między elementami środowiska (np. wpływu rzeźby terenu na zagrożenie powodziowe) przy użyciu narzędzi GIS."
+                                          },
+                                          {
+                                              "term":  "Geokompozycja",
+                                              "definition":  "Niestandardowa wizualizacja modelu terenu pokazująca obszar pod kątem (nie pionowo z góry), co ułatwia interpretację rzeźby terenu."
+                                          },
+                                          {
+                                              "term":  "Zarządzanie kryzysowe (GIS)",
+                                              "definition":  "Zastosowanie GIS do tworzenia map zagrożeń (np. powodziowych), symulacji rozprzestrzeniania się pożarów i koordynacji służb ratunkowych."
+                                          },
+                                          {
+                                              "term":  "Geomarketing (Analizy biznesowe)",
+                                              "definition":  "Wykorzystanie GIS do analizy rynku, np. ustalania lokalizacji nowych punktów usługowych na podstawie miejsca zamieszkania klientów."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Numeryczny Model Terenu (NMT)",
+                                                 "pair2":  "Siatka punktów (kwadratów lub trójkątów) odwzorowująca rzeźbę terenu"
+                                             },
+                                             {
+                                                 "pair1":  "Warstwy tematyczne",
+                                                 "pair2":  "Nakładające się na siebie obrazy dotyczące pojedynczych zagadnień (np. drogi, lasy)"
+                                             },
+                                             {
+                                                 "pair1":  "Dane przestrzenne",
+                                                 "pair2":  "Zdjęcia satelitarne, mapy cyfrowe i wyniki pomiarów GPS"
+                                             },
+                                             {
+                                                 "pair1":  "Atrybuty",
+                                                 "pair2":  "Dane opisowe w tabelach (np. typ nawierzchni, liczba mieszkańców)"
+                                             },
+                                             {
+                                                 "pair1":  "Zarządzanie kryzysowe",
+                                                 "pair2":  "Symulacja zasięgu powodzi i rozprzestrzeniania się pożarów"
+                                             },
+                                             {
+                                                 "pair1":  "Działalność gospodarcza (Biznes)",
+                                                 "pair2":  "Wybór optymalnej lokalizacji dla inwestycji (np. sklepu, osiedla)"
+                                             },
+                                             {
+                                                 "pair1":  "Geoportal",
+                                                 "pair2":  "Serwis internetowy (np. geoportal.gov.pl) do prezentacji map"
+                                             },
+                                             {
+                                                 "pair1":  "Teledetekcja",
+                                                 "pair2":  "Pozyskiwanie danych ze zdjęć lotniczych i satelitarnych"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym jest GIS (System Informacji Geograficznej) w ujęciu podręcznikowym?",
+                                      "options":  [
+                                                      "Jest to wyłącznie cyfrowa mapa wyświetlana na ekranie komputera, służąca do nawigacji samochodowej i wyznaczania najszybszej trasy przejazdu w czasie rzeczywistym.",
+                                                      "To zbiór narzędzi komputerowych służący do gromadzenia, opisu, analizy oraz prezentacji danych przestrzennych o obiektach i zjawiskach zlokalizowanych w przestrzeni.",
+                                                      "To globalny system nawigacji satelitarnej, stworzony przez Departament Obrony USA, służący do ustalania dokładnych współrzędnych geograficznych odbiornika.",
+                                                      "Jest to internetowa baza danych zawierająca wyłącznie zeskanowane mapy papierowe, które można pobrać i wydrukować w celu orientacji w terenie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "GIS – systemy informacji geograficznej (ang. Geographical Information Systems) – to zbiór narzędzi komputerowych służący do gromadzenia, opisu, analizy oraz prezentacji danych przestrzennych."
+                                  },
+                                  {
+                                      "question":  "W systemach GIS obiekty posiadają przypisane dodatkowe informacje, które są zamieszczane w tabelach. Jak nazywają się te informacje?",
+                                      "options":  [
+                                                      "Warstwy tematyczne.",
+                                                      "Sygnatury punktowe.",
+                                                      "Atrybuty.",
+                                                      "Geokompozycje."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "GIS to nie tylko mapa w komputerze, lecz także potężna baza danych. Zawiera bowiem dodatkowe informacje o obiektach nazywane atrybutami."
+                                  },
+                                  {
+                                      "question":  "Na czym polega praca z warstwami tematycznymi w środowisku GIS podczas analizy danych?",
+                                      "options":  [
+                                                      "Na trwałym scaleniu wszystkich informacji w jeden obraz rastrowy, co uniemożliwia późniejsze rozdzielenie dróg od lasów czy rzek.",
+                                                      "Na analizowaniu danych poprzez dodawanie lub odejmowanie warstw, z których każda dotyczy tylko jednego zagadnienia (np. osobno sieci drogowej, osobno lasów).",
+                                                      "Na ręcznym przerysowywaniu map papierowych do komputera w celu uzyskania trójwymiarowego modelu terenu bez użycia baz danych.",
+                                                      "Na przypisywaniu współrzędnych geograficznych do zdjęć lotniczych w celu stworzenia jednolitej ortofotomapy bez możliwości edycji treści."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W GIS do wizualizacji danych przestrzennych wykorzystuje się warstwy tematyczne. Każda z nich dotyczy tylko jednego zagadnienia. Program komputerowy analizuje te dane poprzez ich dodawanie lub odejmowanie."
+                                  },
+                                  {
+                                      "question":  "Czym różni się GIS od systemu GPS?",
+                                      "options":  [
+                                                      "GPS służy do analizy przestrzennego zróżnicowania środowiska, natomiast GIS to system satelitów krążących wokół Ziemi.",
+                                                      "GIS jest systemem amerykańskim, podczas gdy GPS to nazwa ogólna dla wszystkich systemów nawigacji (w tym rosyjskiego Glonass).",
+                                                      "GPS to system nawigacji satelitarnej służący do lokalizacji, natomiast GIS to narzędzia do gromadzenia i analizy danych przestrzennych.",
+                                                      "Nie ma różnicy, oba skróty oznaczają ten sam system komputerowy służący do tworzenia map cyfrowych i nawigacji."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "GIS to systemy informacji geograficznej służące do analizy danych, podczas gdy GPS to system nawigacji satelitarnej służący do określania lokalizacji."
+                                  },
+                                  {
+                                      "question":  "Co to jest Numeryczny Model Terenu (NMT) wykorzystywany w systemach GIS?",
+                                      "options":  [
+                                                      "Jest to tradycyjna mapa topograficzna, która została zeskanowana i zapisana w formacie pliku graficznego (np. JPG) bez dodatkowych danych.",
+                                                      "To cyfrowa metoda przedstawiania powierzchni terenu, składająca się z punktów ułożonych w siatkę, którym przypisano szerokość, długość geograficzną oraz wysokość bezwzględną.",
+                                                      "Jest to zbiór zdjęć satelitarnych wykonanych pod różnymi kątami, które po nałożeniu na siebie tworzą płaski obraz powierzchni Ziemi.",
+                                                      "To tabela atrybutów zawierająca wyłącznie nazwy miejscowości i ich liczbę ludności, bez informacji o ukształtowaniu powierzchni."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Numeryczny model terenu składa się z punktów ułożonych w siatkę kwadratów lub trójkątów. Każdemu punktowi są przypisane trzy parametry: szerokość geograficzna, długość geograficzna oraz wysokość bezwzględna."
+                                  },
+                                  {
+                                      "question":  "Do czego można wykorzystać Numeryczny Model Terenu (NMT) w analizach środowiskowych?",
+                                      "options":  [
+                                                      "Wyłącznie do nawigacji samochodowej na autostradach.",
+                                                      "Do analizy struktury demograficznej ludności w miastach.",
+                                                      "Do analizy spadku terenu, różnic wysokości i ekspozycji stoków.",
+                                                      "Do identyfikacji nazw ulic i numerów domów na mapie miasta."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Numeryczne modele terenu pozwalają również prowadzić wiele analiz, np. dotyczących spadku terenu, różnic wysokości i ekspozycji stoków."
+                                  },
+                                  {
+                                      "question":  "Czym są geoportale?",
+                                      "options":  [
+                                                      "Są to wyłącznie wewnętrzne sieci komputerowe służb ratunkowych, niedostępne dla zwykłych użytkowników internetu.",
+                                                      "To strony internetowe prezentujące różnorodne dane przestrzenne, pozwalające na komponowanie własnych map poprzez włączanie warstw.",
+                                                      "To aplikacje służące tylko do sterowania satelitami nawigacyjnymi w celu poprawy sygnału GPS.",
+                                                      "Są to papierowe atlasy geograficzne, które zostały zdigitalizowane i sprzedawane na płytach CD."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Geoportale, czyli strony internetowe prezentujące różnorodne dane przestrzenne. Większość geoportali umożliwia komponowanie własnych map poprzez włączanie i wyłączanie warstw."
+                                  },
+                                  {
+                                      "question":  "Jak powstaje ortofotomapa, często dostępna jako warstwa w systemach GIS?",
+                                      "options":  [
+                                                      "Przez ręczne dorysowanie obiektów na mapie hipsometrycznej przez kartografa.",
+                                                      "Przez nadanie zdjęciom lotniczym lub satelitarnym jednolitej skali i wpisanie ich w układ współrzędnych geograficznych.",
+                                                      "Przez wygenerowanie sztucznego obrazu terenu wyłącznie na podstawie danych tabelarycznych o wysokościach.",
+                                                      "Przez wykonanie zdjęcia panoramicznego z poziomu Ziemi i nałożenie na nie siatki kartograficznej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ortofotomapy powstają przez nadanie zdjęciom lotniczym lub satelitarnym jednolitej skali i wpisaniu ich w układ współrzędnych geograficznych."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób systemy GIS wspomagają pracę służb ratunkowych, np. GOPR lub policji, podczas poszukiwań osób zaginionych?",
+                                      "options":  [
+                                                      "Służą wyłącznie do wysyłania wiadomości tekstowych między ratownikami a bazą.",
+                                                      "Pozwalają jedynie na wydrukowanie mapy papierowej obszaru, którą ratownicy zabierają w teren.",
+                                                      "Analizują zabudowę, pokrycie terenu oraz sieć dróg, a także ułatwiają ocenę ryzyka i planowanie akcji w terenie.",
+                                                      "Automatycznie sterują pojazdami ratunkowymi bez udziału kierowcy, korzystając z sygnału satelitarnego."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Na przykład GOPR i policja wykorzystują GIS podczas poszukiwań osób zaginionych – analizują zabudowę, pokrycie terenu oraz sieć dróg i ścieżek."
+                                  },
+                                  {
+                                      "question":  "Firma handlowa chce otworzyć nowy punkt usługowy. Jakie analizy GIS mogą w tym pomóc?",
+                                      "options":  [
+                                                      "Analiza wieku skał i budowy geologicznej podłoża w celu dobrania fundamentów.",
+                                                      "Analiza przestrzenna rozmieszczenia klientów i ich potrzeb (marketing i sprzedaż).",
+                                                      "Wyłącznie wizualizacja estetyczna mapy w celu powieszenia jej w biurze.",
+                                                      "Pomiar aktualnej temperatury powietrza w każdym z planowanych lokali."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wykorzystuje się je do prowadzenia przestrzennych analiz biznesowych [...] w marketingu, sprzedaży czy obsłudze klienta. [...] GIS pomagają też podczas podejmowania decyzji o lokalizacji punktu usługowego."
+                                  },
+                                  {
+                                      "question":  "Na czym polega przewaga GIS nad tradycyjnymi mapami papierowymi?",
+                                      "options":  [
+                                                      "GIS nie wymaga prądu ani komputera, więc jest bardziej niezawodny w trudnych warunkach terenowych.",
+                                                      "GIS pozwala umieszczać nieskończenie wiele informacji o obiektach i analizować zależności między nimi.",
+                                                      "Mapy w GIS są zawsze dokładniejsze, ponieważ nie posiadają skali i odwzorowania kartograficznego.",
+                                                      "GIS służy wyłącznie do oglądania zdjęć, a mapy papierowe zawierają dane analityczne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "GIS, w przeciwieństwie do tradycyjnych map, pozwalają umieszczać nieskończenie wiele informacji o obiektach. Dzięki temu można analizować związki oraz zależności."
+                                  },
+                                  {
+                                      "question":  "Chcemy znaleźć działkę budowlaną, która znajduje się blisko lasu, ale z dala od rzeki. Jakiego mechanizmu GIS użyjemy?",
+                                      "options":  [
+                                                      "Wyłącznie pomiaru odległości linijką na wydrukowanym zrzucie ekranu.",
+                                                      "Nałożenia warstw tematycznych (np. Lasy, Sieć hydrograficzna) i wyszukania obiektów spełniających kryteria.",
+                                                      "Przeglądania zdjęć satelitarnych bez odniesienia przestrzennego.",
+                                                      "Sprawdzenia tabeli atrybutów dla wszystkich działek w kraju ręcznie wiersz po wierszu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Program komputerowy porówna warstwę Budynki [...] z warstwami Lasy oraz Sieć hydrograficzna i wybierz tylko te budynki, które znajdują się nie więcej niż 100 m od granicy lasu i 300 m od rzeki."
+                                  },
+                                  {
+                                      "question":  "W tabeli atrybutów warstwy \u0027Drogi\u0027 w systemie GIS mogą znajdować się informacje takie jak:",
+                                      "options":  [
+                                                      "Tylko i wyłącznie kolor linii, jaką droga jest narysowana na monitorze.",
+                                                      "Rodzaj nawierzchni, szerokość jezdni czy stan techniczny drogi.",
+                                                      "Wyłącznie współrzędne geograficzne początku i końca drogi bez innych danych.",
+                                                      "Zdjęcie satelitarne całej okolicy, przez którą przebiega droga."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na przykład w tabeli dotyczącej fragmentu drogi [...] znajdują się informacje o jego szerokości, rodzaju nawierzchni czy stanie technicznym."
+                                  },
+                                  {
+                                      "question":  "Jakie zastosowanie mają systemy GIS w zarządzaniu kryzysowym?",
+                                      "options":  [
+                                                      "Służą wyłącznie do archiwizacji starych map historycznych po wystąpieniu katastrofy.",
+                                                      "Pozwalają na opracowywanie map zagrożenia powodziowego i symulacje rozprzestrzeniania się pożarów.",
+                                                      "Są używane tylko do komunikacji głosowej między jednostkami straży pożarnej.",
+                                                      "Zastępują całkowicie pracę ludzi w terenie, automatycznie gasząc pożary."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "GIS znacznie ułatwiają też ocenę ryzyka powstania pożaru lasu [...] Za pomocą GIS opracowuje się również mapy zagrożenia powodziowego."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych źródeł danych jest przykładem \u0027źródła elektronicznego\u0027 w kontekście informacji geograficznej?",
+                                      "options":  [
+                                                      "Podręcznik szkolny i atlas geograficzny w wersji papierowej.",
+                                                      "Pomiary temperatury dokonywane samodzielnie termometrem cieczowym.",
+                                                      "Bank Danych Lokalnych Głównego Urzędu Statystycznego (GUS) dostępny w internecie.",
+                                                      "Wywiad przeprowadzony z mieszkańcami regionu i zapisany w notatniku."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W internecie są udostępniane np. najnowsze dane statystyczne. Można je uzyskać m.in. ze stron Głównego Urzędu Statystycznego, zwłaszcza z serwisu Bank Danych Lokalnych."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Skrót GIS oznacza Globalny System Pozycjonowania (Global Positioning System), który służy wyłącznie do nawigacji satelitarnej, a nie do analizy danych.",
+                                           "answer":  false,
+                                           "explanation":  "Skrót GIS oznacza geograficzne systemy informacyjne (Geographical Information Systems) służące do analizy danych, podczas gdy GPS to system nawigacji."
+                                       },
+                                       {
+                                           "sentence":  "Systemy GIS pozwalają na umieszczanie w bazie danych nieskończenie wielu informacji o obiektach, co odróżnia je od tradycyjnych map papierowych o ograniczonej pojemności.",
+                                           "answer":  true,
+                                           "explanation":  "GIS, w przeciwieństwie do tradycyjnych map, pozwalają na umieszczanie nieskończenie wielu informacji o obiektach."
+                                       },
+                                       {
+                                           "sentence":  "Warstwy tematyczne w GIS są skonstruowane tak, że jedna warstwa musi zawierać wszystkie typy obiektów jednocześnie (np. rzeki, drogi i lasy razem), aby umożliwić ich analizę.",
+                                           "answer":  false,
+                                           "explanation":  "W GIS każda warstwa tematyczna dotyczy tylko jednego zagadnienia, np. osobno sieci drogowej, a osobno lasów."
+                                       },
+                                       {
+                                           "sentence":  "Atrybuty w systemach GIS to dodatkowe informacje o obiektach, takie jak rodzaj nawierzchni drogi czy typ gleby, które są przechowywane w tabelach.",
+                                           "answer":  true,
+                                           "explanation":  "Atrybuty są zamieszczane w tabelach i dotyczą lokalizacji, wielkości oraz wielu innych cech obiektów."
+                                       },
+                                       {
+                                           "sentence":  "Numeryczny Model Terenu (NMT) to metoda przedstawiania ukształtowania powierzchni, która składa się z punktów ułożonych w siatkę, którym przypisano m.in. wysokość bezwzględną.",
+                                           "answer":  true,
+                                           "explanation":  "NMT składa się z punktów ułożonych w siatkę kwadratów lub trójkątów, którym przypisane są trzy parametry, w tym wysokość bezwzględna."
+                                       },
+                                       {
+                                           "sentence":  "Ortofotomapy w systemach GIS są danymi wektorowymi, co oznacza, że można je dowolnie powiększać bez utraty jakości i nie składają się z pikseli.",
+                                           "answer":  false,
+                                           "explanation":  "Ortofotomapy powstają z przetworzenia zdjęć lotniczych lub satelitarnych (obrazów rastrowych), więc mają określoną rozdzielczość i nie są wektorami."
+                                       },
+                                       {
+                                           "sentence":  "Geoportale to strony internetowe, które umożliwiają użytkownikom komponowanie własnych map poprzez włączanie i wyłączanie widoczności poszczególnych warstw.",
+                                           "answer":  true,
+                                           "explanation":  "Większość geoportali umożliwia komponowanie własnych map poprzez włączanie i wyłączanie warstw widocznych na ekranie."
+                                       },
+                                       {
+                                           "sentence":  "Analiza w systemach GIS polega wyłącznie na wizualnym przeglądaniu zeskanowanych map papierowych, bez możliwości automatycznego wyszukiwania obiektów przez program.",
+                                           "answer":  false,
+                                           "explanation":  "Program komputerowy w GIS analizuje dane i wyszukuje obiekty o określonych atrybutach, np. poprzez nakładanie warstw."
+                                       },
+                                       {
+                                           "sentence":  "Służby ratunkowe, takie jak straż pożarna, wykorzystują GIS do tworzenia symulacji rozprzestrzeniania się pożarów lasów na podstawie danych o wietrze i ukształtowaniu terenu.",
+                                           "answer":  true,
+                                           "explanation":  "GIS pozwalają stworzyć symulację rozprzestrzeniania się pożaru na podstawie danych dotyczących m.in. kierunków wiatru czy ukształtowania terenu."
+                                       },
+                                       {
+                                           "sentence":  "Wybór lokalizacji dla nowej inwestycji, np. przedszkola, może być wspomagany przez GIS poprzez analizę rozmieszczenia miejsc zamieszkania rodzin z dziećmi.",
+                                           "answer":  true,
+                                           "explanation":  "GIS mogą ułatwiać podejmowanie decyzji o lokalizacji nowego przedszkola m.in. na podstawie informacji o miejscach zamieszkania rodzin."
+                                       },
+                                       {
+                                           "sentence":  "Systemy GIS są używane wyłącznie do tworzenia map samochodowych i nie znajdują zastosowania w rolnictwie ani marketingu.",
+                                           "answer":  false,
+                                           "explanation":  "GIS mają zastosowanie w wielu dziedzinach, w tym w rolnictwie (dobór upraw) oraz marketingu i sprzedaży."
+                                       },
+                                       {
+                                           "sentence":  "Dzięki nałożeniu na siebie warstw \u0027Budynki\u0027, \u0027Lasy\u0027 i \u0027Sieć hydrograficzna\u0027 w GIS można automatycznie wyselekcjonować domy położone blisko lasu, ale z dala od rzeki.",
+                                           "answer":  true,
+                                           "explanation":  "Program komputerowy porównuje wybrane warstwy i wybiera tylko te obiekty, które spełniają określone kryteria odległości."
+                                       }
+                                   ]
+                 }
+}

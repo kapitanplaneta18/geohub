@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t4",
+                     "title":  "Migracje ludności",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Migracje",
+                                              "definition":  "Przemieszczanie się ludności związane ze zmianą miejsca zamieszkania na stałe lub na pewien okres."
+                                          },
+                                          {
+                                              "term":  "Emigracja",
+                                              "definition":  "Odpływ (wyjazd) ludności z danego terytorium za granicę."
+                                          },
+                                          {
+                                              "term":  "Imigracja",
+                                              "definition":  "Napływ (przyjazd) ludności na dane terytorium z zagranicy."
+                                          },
+                                          {
+                                              "term":  "Saldo migracji (SM)",
+                                              "definition":  "Różnica między liczbą imigrantów a liczbą emigrantów w danym okresie (Imigracja – Emigracja)."
+                                          },
+                                          {
+                                              "term":  "Reemigracja",
+                                              "definition":  "Powrót emigrantów do kraju ojczystego po okresie pobytu za granicą (np. powroty Polaków z Wielkiej Brytanii)."
+                                          },
+                                          {
+                                              "term":  "Migracje wahadłowe",
+                                              "definition":  "Codzienne dojazdy ludności do miejsca pracy lub nauki (np. ze wsi do miasta) i powroty do miejsca zamieszkania."
+                                          },
+                                          {
+                                              "term":  "Uchodźstwo",
+                                              "definition":  "Rodzaj migracji wymuszonej obawą przed prześladowaniami, represjami lub wojną (np. uchodźcy polityczni w XIX w. lub w stanie wojennym)."
+                                          },
+                                          {
+                                              "term":  "Główne przyczyny współczesnej emigracji z Polski",
+                                              "definition":  "Czynniki ekonomiczne: poszukiwanie lepiej płatnej pracy, wyższego standardu życia i lepszych warunków socjalnych."
+                                          },
+                                          {
+                                              "term":  "Polonia",
+                                              "definition":  "Ogół Polaków i osób polskiego pochodzenia mieszkających poza granicami Polski (szacowana na ponad 18 mln osób)."
+                                          },
+                                          {
+                                              "term":  "Największe skupiska Polonii na świecie",
+                                              "definition":  "Stany Zjednoczone (ok. 10 mln), Niemcy (ok. 2 mln) oraz Brazylia (ok. 1,8 mln)."
+                                          },
+                                          {
+                                              "term":  "Repatriacja",
+                                              "definition":  "Zorganizowany powrót do kraju osób (np. jeńców, przesiedleńców), które opuściły go przymusowo (np. powroty Polaków ze Wschodu po 1945 r.)."
+                                          },
+                                          {
+                                              "term":  "Suburbanizacja (w kontekście migracji)",
+                                              "definition":  "Proces przenoszenia się zamożniejszej ludności z centrów miast na tereny wiejskie położone w strefie podmiejskiej (dominujący kierunek migracji wewnętrznych po 2000 r.)."
+                                          },
+                                          {
+                                              "term":  "Drenaż mózgów (brain drain)",
+                                              "definition":  "Odpływ za granicę osób młodych, wykształconych i specjalistów, co osłabia potencjał rozwojowy kraju wysyłającego."
+                                          },
+                                          {
+                                              "term":  "Kierunki najnowszej emigracji zarobkowej Polaków (po 2004 r.)",
+                                              "definition":  "Głównie kraje Europy Zachodniej: Niemcy, Wielka Brytania, Holandia, Irlandia."
+                                          },
+                                          {
+                                              "term":  "Współczesna imigracja do Polski",
+                                              "definition":  "Wzrost liczby cudzoziemców osiedlających się w Polsce, głównie obywateli Ukrainy podejmujących pracę (ok. 1 mln w latach 2013–2018)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Przystąpienie Polski do Unii Europejskiej (2004 r.)",
+                                                 "pair2":  "Masowa emigracja zarobkowa do Wielkiej Brytanii i Irlandii (otwarcie rynków pracy)"
+                                             },
+                                             {
+                                                 "pair1":  "Zmiana granic Polski po II wojnie światowej (przesunięcie na zachód)",
+                                                 "pair2":  "Przymusowe przesiedlenia ludności (repatriacja ze Wschodu, wysiedlenia Niemców)"
+                                             },
+                                             {
+                                                 "pair1":  "Dynamiczny rozwój przemysłu w PRL (lata 50.–70. XX w.)",
+                                                 "pair2":  "Dominacja migracji ze wsi do miast (zwiększone zapotrzebowanie na siłę roboczą)"
+                                             },
+                                             {
+                                                 "pair1":  "Rozwój stref podmiejskich (suburbanizacja) po 2000 r.",
+                                                 "pair2":  "Ujemne saldo migracji w dużych miastach i dodatnie na otaczających je terenach wiejskich"
+                                             },
+                                             {
+                                                 "pair1":  "Stan wojenny i represje polityczne (lata 80. XX w.)",
+                                                 "pair2":  "Fala emigracji politycznej i solidarnościowej na Zachód"
+                                             },
+                                             {
+                                                 "pair1":  "Atrakcyjny rynek pracy i funkcje akademickie",
+                                                 "pair2":  "Dodatnie saldo migracji w województwach: mazowieckim, małopolskim, pomorskim"
+                                             },
+                                             {
+                                                 "pair1":  "Niedobory pracowników na polskim rynku pracy",
+                                                 "pair2":  "Rosnąca imigracja zarobkowa obywateli Ukrainy i Białorusi"
+                                             },
+                                             {
+                                                 "pair1":  "Przeludnienie wsi i bieda w XIX wieku (Galicja)",
+                                                 "pair2":  "Emigracja „za chlebem” do Stanów Zjednoczonych i Brazylii"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym jest saldo migracji (SM)?",
+                                      "options":  [
+                                                      "Sumą liczby imigrantów i emigrantów, czyli wskaźnikiem określającym całkowity obrót migracyjny.",
+                                                      "Różnicą między liczbą imigrantów (napływ) a liczbą emigrantów (odpływ)",
+                                                      "Liczbą osób wyjeżdżających za granicę w poszukiwaniu pracy w danym roku.",
+                                                      "Różnicą między urodzeniami a zgonami, czyli elementem przyrostu naturalnego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Saldo migracji to podstawowy miernik ruchów wędrówkowych. Jeśli imigracja przewyższa emigrację, saldo jest dodatnie (imigracyjne); w przeciwnym razie jest ujemne (emigracyjne)."
+                                  },
+                                  {
+                                      "question":  "Które kraje stały się głównymi kierunkami polskiej emigracji zarobkowej po wejściu Polski do Unii Europejskiej w 2004 roku?",
+                                      "options":  [
+                                                      "USA i Kanada, które tradycyjnie przyciągały Polonię w XIX i XX wieku.",
+                                                      "Rosja i Białoruś, ze względu na bliskość geograficzną i powiązania historyczne.",
+                                                      "Wielka Brytania, Niemcy, Irlandia, Holandia",
+                                                      "Francja i Hiszpania, które oferowały pracę w sektorze turystycznym."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Otwarcie rynków pracy w UE spowodowało masowy wyjazd Polaków (ok. 2 mln) głównie do Wielkiej Brytanii (do czasu Brexitu) oraz Niemiec."
+                                  },
+                                  {
+                                      "question":  "Jaki trend dominuje w migracjach wewnętrznych w Polsce od 2000 roku?",
+                                      "options":  [
+                                                      "Masowy odpływ ludności ze wsi do centrów dużych miast w poszukiwaniu pracy w przemyśle.",
+                                                      "Przewaga migracji z miast na obszary wiejskie (głównie podmiejskie)",
+                                                      "Całkowite zatrzymanie migracji wewnętrznych z powodu kryzysu na rynku nieruchomości.",
+                                                      "Przesiedlenia ze ściany wschodniej na Ziemie Odzyskane w ramach programów rządowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jest to skutek suburbanizacji – mieszkańcy miast przenoszą się na tańsze i spokojniejsze tereny podmiejskie, które administracyjnie są wsiami."
+                                  },
+                                  {
+                                      "question":  "Czym są migracje wahadłowe?",
+                                      "options":  [
+                                                      "Wyjazdami na stałe za granicę z zamiarem osiedlenia się na całe życie.",
+                                                      "Codziennymi dojazdami ludności do miejsca pracy lub nauki i powrotem do domu",
+                                                      "Sezonowymi wyjazdami do prac polowych, np. przy zbiorach owoców i warzyw.",
+                                                      "Przesiedleniami ludności w ramach zmian granic państwowych po wojnie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Migracje wahadłowe nie wiążą się ze zmianą miejsca zamieszkania, lecz z cyklicznym (zazwyczaj dobowym) przemieszczaniem się między domem a pracą/szkołą."
+                                  },
+                                  {
+                                      "question":  "Co jest główną przyczyną współczesnego procesu suburbanizacji w Polsce?",
+                                      "options":  [
+                                                      "Chęć podjęcia pracy w rolnictwie przez mieszkańców miast, którzy rezygnują z życia zawodowego.",
+                                                      "Chęć poprawy warunków mieszkaniowych i niższe ceny gruntów w strefie podmiejskiej",
+                                                      "Przymusowe wysiedlenia z centrów miast w celu realizacji inwestycji publicznych.",
+                                                      "Całkowity brak szkół i uczelni wyższych w granicach administracyjnych dużych miast."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ucieczka z zatłoczonych miast na przedmieścia jest motywowana chęcią posiadania domu z ogrodem, ciszą oraz niższymi kosztami życia (choć rosną koszty dojazdów)."
+                                  },
+                                  {
+                                      "question":  "Jakie negatywne zjawisko społeczne wiąże się z masową emigracją zarobkową rodziców pozostawiających dzieci w kraju?",
+                                      "options":  [
+                                                      "Eurosieroctwo",
+                                                      "Urbanizacja wsi, prowadząca do zaniku tradycji ludowych.",
+                                                      "Eksplozja demograficzna, wynikająca z poprawy sytuacji materialnej rodzin.",
+                                                      "Repatriacja, czyli przymusowy powrót do kraju pochodzenia."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Eurosieroctwo to sytuacja, w której dzieci wychowują się bez jednego lub obojga rodziców, którzy wyemigrowali za granicę w celach zarobkowych."
+                                  },
+                                  {
+                                      "question":  "Kto stanowi najliczniejszą grupę imigrantów zarobkowych w Polsce w ostatnich latach?",
+                                      "options":  [
+                                                      "Obywatele Niemiec, przyjeżdżający w ramach wymiany specjalistów.",
+                                                      "Obywatele Ukrainy",
+                                                      "Obywatele Wietnamu, pracujący głównie w sektorze handlu i gastronomii.",
+                                                      "Obywatele Chin, zatrudnieni przy realizacji wielkich inwestycji infrastrukturalnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Od 2014 r. obserwuje się gwałtowny wzrost liczby obywateli Ukrainy pracujących w Polsce, wypełniających luki na rynku pracy (budownictwo, usługi, rolnictwo)."
+                                  },
+                                  {
+                                      "question":  "Na czym polega zjawisko repatriacji?",
+                                      "options":  [
+                                                      "Na przymusowym wysiedleniu mniejszości narodowych z terytorium państwa.",
+                                                      "Na zorganizowanym powrocie do kraju osób (lub ich potomków), które opuściły go przymusowo",
+                                                      "Na wyjeździe z kraju w celach turystycznych i poznawczych.",
+                                                      "Na ucieczce z kraju z powodów politycznych i ubieganiu się o azyl."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Repatriacja dotyczy m.in. Polaków zesłanych w głąb ZSRR (Kazachstan, Syberia), którym państwo polskie umożliwia powrót i osiedlenie się w ojczyźnie."
+                                  },
+                                  {
+                                      "question":  "W których regionach Polski odnotowuje się najwyższe dodatnie saldo migracji wewnętrznych?",
+                                      "options":  [
+                                                      "W województwach ściany wschodniej (lubelskie, podlaskie), które są atrakcyjne turystycznie.",
+                                                      "W województwach o wysokim bezrobociu (warmińsko-mazurskie), skąd ludzie nie chcą wyjeżdżać.",
+                                                      "W aglomeracjach i powiatach wokół największych miast (Warszawa, Wrocław, Gdańsk)",
+                                                      "W regionach górskich (podkarpackie), ze względu na zdrowy klimat."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Duże miasta oferują pracę, edukację i wyższy standard życia, dlatego przyciągają ludność z mniejszych ośrodków i wsi (drenaż peryferii)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego województwo opolskie charakteryzuje się jednym z największych spadków liczby ludności?",
+                                      "options":  [
+                                                      "Z powodu masowych przesiedleń ludności na wschód w ramach akcji rządowych.",
+                                                      "Z powodu wyjątkowo wysokiego przyrostu naturalnego, który nie jest równoważony migracjami.",
+                                                      "Z powodu bardzo dużej emigracji zagranicznej (głównie do Niemiec) i starzenia się społeczeństwa",
+                                                      "Z powodu całkowitego braku ośrodków miejskich w tym regionie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Specyfika regionu (podwójne obywatelstwo wielu mieszkańców) ułatwiała wyjazdy do pracy w Niemczech jeszcze przed akcesją do UE, co trwale wyludniło region."
+                                  },
+                                  {
+                                      "question":  "Jakie były główne przyczyny migracji w Polsce tuż po II wojnie światowej (lata 1945–1950)?",
+                                      "options":  [
+                                                      "Wyłącznie ekonomiczne, związane z poszukiwaniem lepiej płatnej pracy na Zachodzie.",
+                                                      "Polityczne i związane ze zmianą granic (przesiedlenia z Kresów, wysiedlenia Niemców)",
+                                                      "Turystyczne i edukacyjne, wynikające z chęci poznania świata po wojnie.",
+                                                      "Otwarcie granic Unii Europejskiej i swobodny przepływ osób."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przesunięcie granic Polski na zachód wymusiło masowe przesiedlenia milionów ludzi: Polaków z Kresów Wschodnich na Ziemie Odzyskane oraz wysiedlenie Niemców za Odrę."
+                                  },
+                                  {
+                                      "question":  "Jakie zagrożenie dla polskiej gospodarki niesie zjawisko „drenażu mózgów” (brain drain)?",
+                                      "options":  [
+                                                      "Zwiększenie innowacyjności dzięki wymianie doświadczeń z zagranicznymi ekspertami.",
+                                                      "Utrata wykwalifikowanych specjalistów (lekarzy, inżynierów) i obniżenie potencjału rozwojowego kraju",
+                                                      "Wzrost bezrobocia wśród osób z wyższym wykształceniem pozostających w kraju.",
+                                                      "Zmniejszenie kosztów kształcenia kadr, które są ponoszone przez inne państwa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wyjazd najlepiej wykształconych kadr oznacza stratę nakładów poniesionych na ich edukację oraz brak ich wkładu w rozwój rodzimej gospodarki."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób migracje wewnętrzne wpływają na strukturę demograficzną wyludniających się obszarów wiejskich (tzw. peryferyjnych)?",
+                                      "options":  [
+                                                      "Powodują odmłodzenie struktury wieku dzięki wyjazdom seniorów do domów opieki.",
+                                                      "Prowadzą do deformacji struktury płci i wieku (odpływ młodych kobiet) oraz przyspieszają starzenie się społeczeństwa",
+                                                      "Zwiększają przyrost naturalny dzięki napływowi młodych rodzin z miast.",
+                                                      "Nie mają żadnego istotnego wpływu na strukturę demograficzną tych obszarów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Młodzi ludzie (szczególnie kobiety) wyjeżdżają do miast, przez co na wsi pozostają głównie osoby starsze („starzenie się wsi”), a liczba urodzeń spada."
+                                  },
+                                  {
+                                      "question":  "Jaka jest relacja między saldem migracji a przyrostem naturalnym w kontekście depopulacji Polski?",
+                                      "options":  [
+                                                      "Depopulacja zachodzi tylko i wyłącznie wtedy, gdy saldo migracji jest ujemne.",
+                                                      "Największy ubytek ludności następuje, gdy ujemnemu przyrostowi naturalnemu towarzyszy ujemne saldo migracji",
+                                                      "Dodatnie saldo migracji zawsze w pełni równoważy ujemny przyrost naturalny.",
+                                                      "Przyrost naturalny nie ma żadnego wpływu na depopulację, liczą się tylko migracje zagraniczne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy rodzi się mniej ludzi niż umiera (ubytek naturalny) i jednocześnie więcej wyjeżdża niż przyjeżdża (ujemne saldo migracji), liczba ludności spada najszybciej (ubytek rzeczywisty)."
+                                  },
+                                  {
+                                      "question":  "Analizując wpływ suburbanizacji, jak zmienia się gęstość zaludnienia w centrum miasta i w strefie podmiejskiej?",
+                                      "options":  [
+                                                      "W obu strefach gęstość zaludnienia systematycznie rośnie.",
+                                                      "W centrum spada (wyludnianie śródmieścia), a w strefie podmiejskiej rośnie (rozlewanie się miasta)",
+                                                      "W centrum rośnie z powodu zagęszczania zabudowy, a w strefie podmiejskiej spada.",
+                                                      "Nie zmienia się w ogóle, ponieważ liczba mieszkańców aglomeracji jest stała."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mieszkańcy wyprowadzają się z gęsto zabudowanych centrów (zostają tam biura i usługi) na peryferie, co zmienia rozkład gęstości zaludnienia w aglomeracji."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Od 2000 roku w Polsce w migracjach wewnętrznych dominuje kierunek ze wsi do dużych miast.",
+                                           "answer":  false,
+                                           "explanation":  "Zgodnie z tekstem, od 2000 roku trend się odwrócił: nad imigracją do miast przeważa emigracja z nich. Mieszkańcy przenoszą się głównie na tereny wiejskie w strefach podmiejskich (suburbanizacja)."
+                                       },
+                                       {
+                                           "sentence":  "Migracje wahadłowe polegają na codziennych dojazdach do miejsca pracy lub nauki i nie wiążą się ze zmianą miejsca zamieszkania.",
+                                           "answer":  true,
+                                           "explanation":  "Migracje wahadłowe to przemieszczenia ludności (np. ze wsi do miasta) związane z cyklicznym dojazdem do pracy lub szkoły i powrotem do domu, bez zmiany stałego pobytu."
+                                       },
+                                       {
+                                           "sentence":  "Główną przyczyną masowej emigracji Polaków po 2004 roku były prześladowania polityczne.",
+                                           "answer":  false,
+                                           "explanation":  "Fala migracji po 2004 roku (wejście do UE) miała podłoże ekonomiczne. Była związana z otwarciem rynków pracy w krajach takich jak Wielka Brytania czy Irlandia oraz poszukiwaniem wyższych zarobków."
+                                       },
+                                       {
+                                           "sentence":  "Proces suburbanizacji przyczynia się do odmłodzenia struktury wiekowej ludności na obszarach wiejskich położonych wokół dużych miast.",
+                                           "answer":  true,
+                                           "explanation":  "Napływ młodych rodzin z miast na tereny podmiejskie (suburbanizacja) powoduje zwiększenie przyrostu naturalnego i odmłodzenie struktury demograficznej tych konkretnych obszarów wiejskich."
+                                       },
+                                       {
+                                           "sentence":  "Współczynnik feminizacji w dużych polskich miastach jest zazwyczaj niższy niż na obszarach wiejskich.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie. Miasta charakteryzują się wyższym współczynnikiem feminizacji (ok. 111), ponieważ kobiety częściej migrują tam w celach edukacyjnych i zawodowych (sektor usług)."
+                                       },
+                                       {
+                                           "sentence":  "Saldo migracji to suma liczby imigrantów i emigrantów w danym okresie.",
+                                           "answer":  false,
+                                           "explanation":  "Saldo migracji to różnica (nie suma) między liczbą imigrantów (napływ) a liczbą emigrantów (odpływ)."
+                                       },
+                                       {
+                                           "sentence":  "W ostatnich latach największą grupę obcokrajowców imigrujących do Polski w celach zarobkowych stanowią obywatele Ukrainy.",
+                                           "answer":  true,
+                                           "explanation":  "Tekst podaje, że w 2019 r. aż 86% imigrantów przybyło do Polski do pracy, a największą grupę wśród nich stanowili Ukraińcy (ponad 1 mln w latach 2013–2018)."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko „drenażu mózgów” (brain drain) wpływa korzystnie na rozwój gospodarczy kraju wysyłającego emigrantów.",
+                                           "answer":  false,
+                                           "explanation":  "Drenaż mózgów to zjawisko negatywne dla kraju wysyłającego, polegające na utracie wykwalifikowanych specjalistów, co zmniejsza potencjał rozwojowy społeczeństwa i gospodarki."
+                                       },
+                                       {
+                                           "sentence":  "Reemigracja to proces powrotu emigrantów do ojczyzny po okresie pobytu za granicą.",
+                                           "answer":  true,
+                                           "explanation":  "Definicja reemigracji obejmuje powrót do kraju osób, które wcześniej z niego wyemigrowały (np. powroty Polaków z Wielkiej Brytanii czy Niemiec)."
+                                       },
+                                       {
+                                           "sentence":  "Wszystkie województwa w Polsce charakteryzują się ujemnym saldem migracji wewnętrznych.",
+                                           "answer":  false,
+                                           "explanation":  "Saldo migracji jest zróżnicowane. Województwa o wyższym poziomie rozwoju (mazowieckie, pomorskie, małopolskie, wielkopolskie, dolnośląskie) notują dodatnie saldo migracji."
+                                       },
+                                       {
+                                           "sentence":  "Historyczne migracje na tzw. Ziemie Odzyskane po II wojnie światowej miały charakter dobrowolny i ekonomiczny.",
+                                           "answer":  false,
+                                           "explanation":  "Migracje te były w dużej mierze przymusowe i polityczne, związane ze zmianą granic państwowych, wysiedleniami Niemców i przesiedleniami Polaków z Kresów Wschodnich."
+                                       }
+                                   ]
+                 }
+}

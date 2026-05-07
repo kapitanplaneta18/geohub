@@ -1,0 +1,338 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz2-t2",
+                     "unit":  "II",
+                     "title":  "Układ Słoneczny",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Teoria heliocentryczna",
+                                              "definition":  "Teoria zakładająca, że Słońce znajduje się w centrum wszechświata (Układu Słonecznego), a Ziemia i inne planety krążą wokół niego."
+                                          },
+                                          {
+                                              "term":  "Teoria geocentryczna",
+                                              "definition":  "Dawny pogląd zakładający, że nieruchoma Ziemia leży w centrum wszechświata, a Słońce i inne ciała niebieskie krążą wokół niej."
+                                          },
+                                          {
+                                              "term":  "Jednostka Astronomiczna (AU)",
+                                              "definition":  "Średnia odległość Ziemi od Słońca wynosząca około 150 mln km (dokładnie 149 597 870 km). Światło przebywa ten dystans w około 8 minut i 20 sekund."
+                                          },
+                                          {
+                                              "term":  "Peryhelium",
+                                              "definition":  "Punkt na orbicie, w którym Ziemia (lub inna planeta) znajduje się w najmniejszej odległości od Słońca."
+                                          },
+                                          {
+                                              "term":  "Aphelium",
+                                              "definition":  "Punkt na orbicie, w którym Ziemia (lub inna planeta) znajduje się w największej odległości od Słońca."
+                                          },
+                                          {
+                                              "term":  "Kształt orbity planet (I Prawo Keplera - koncept)",
+                                              "definition":  "Ruch obiegowy planet (w tym Ziemi) odbywa się po orbicie w kształcie elipsy, a Słońce nie znajduje się w jej środku, lecz w jednym z ognisk."
+                                          },
+                                          {
+                                              "term":  "Planety grupy ziemskiej",
+                                              "definition":  "Planety skaliste (Merkury, Wenus, Ziemia, Mars) o niewielkich rozmiarach, dużej gęstości, zbudowane głównie z minerałów i metali, znajdujące się blisko Słońca."
+                                          },
+                                          {
+                                              "term":  "Planety olbrzymy",
+                                              "definition":  "Duże planety zewnętrzne (Jowisz, Saturn, Uran, Neptun) o małej gęstości, zbudowane głównie z gazów (wodór, hel) lub lodu (woda, amoniak, metan), posiadające pierścienie."
+                                          },
+                                          {
+                                              "term":  "Pas główny planetoid",
+                                              "definition":  "Obszar występowania większości planetoid w Układzie Słonecznym, znajdujący się między orbitą Marsa a orbitą Jowisza."
+                                          },
+                                          {
+                                              "term":  "Pas Kuipera",
+                                              "definition":  "Pas zewnętrzny planetoid rozciągający się poza orbitą Neptuna, w którym krążą obiekty zbudowane głównie z lodu."
+                                          },
+                                          {
+                                              "term":  "Kometa",
+                                              "definition":  "Małe ciało niebieskie zbudowane z lodu, gazów i pyłu, które zbliżając się do Słońca wytwarza charakterystyczną otoczkę (komę) i warkocz skierowany przeciwnie do Słońca."
+                                          },
+                                          {
+                                              "term":  "Meteoroidy",
+                                              "definition":  "Okruchy skalne o średnicy do 10 m, powstałe m.in. w wyniku zderzeń planetoid, które mogą spalać się w atmosferze jako meteory lub spadać na Ziemię jako meteoryty."
+                                          },
+                                          {
+                                              "term":  "Zaćmienie Słońca",
+                                              "definition":  "Zjawisko powstające, gdy Księżyc znajduje się pomiędzy Ziemią a Słońcem, rzucając cień na powierzchnię naszej planety."
+                                          },
+                                          {
+                                              "term":  "Zaćmienie Księżyca",
+                                              "definition":  "Zjawisko zachodzące, gdy Ziemia znajduje się między Słońcem a Księżycem, przysłaniając promienie słoneczne oświetlające naturalnego satelitę."
+                                          },
+                                          {
+                                              "term":  "Słońce",
+                                              "definition":  "Gwiazda stanowiąca 99,87% masy Układu Słonecznego, emitująca energię dzięki reakcjom termojądrowym (przemiana wodoru w hel) zachodzącym w jej wnętrzu."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Merkury",
+                                                 "pair2":  "Największe dobowe różnice temperatury (od 450°C do -170°C)"
+                                             },
+                                             {
+                                                 "pair1":  "Wenus",
+                                                 "pair2":  "Najjaśniejsza planeta / Gęsta atmosfera i efekt cieplarniany (500°C)"
+                                             },
+                                             {
+                                                 "pair1":  "Mars",
+                                                 "pair2":  "Czerwone zabarwienie (tlenki żelaza) / Najchłodniejsza planeta grupy ziemskiej"
+                                             },
+                                             {
+                                                 "pair1":  "Jowisz",
+                                                 "pair2":  "Największa i najmasywniejsza planeta / Charakterystyczne pasy chmur"
+                                             },
+                                             {
+                                                 "pair1":  "Saturn",
+                                                 "pair2":  "Najmniejsza średnia gęstość materii / Wyraźne pierścienie z lodu i skał"
+                                             },
+                                             {
+                                                 "pair1":  "Uran",
+                                                 "pair2":  "Zielonkawoniebieski kolor (metan w atmosferze)"
+                                             },
+                                             {
+                                                 "pair1":  "Neptun",
+                                                 "pair2":  "Najsilniejsze wiatry w Układzie Słonecznym (do 2500 km/h)"
+                                             },
+                                             {
+                                                 "pair1":  "Pas główny planetoid",
+                                                 "pair2":  "Obszar między orbitami Marsa i Jowisza"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Które z poniższych ciał niebieskich zaliczane są do grupy planet olbrzymów w Układzie Słonecznym?",
+                                      "options":  [
+                                                      "Jowisz, Saturn, Uran, Neptun",
+                                                      "Merkury, Wenus, Ziemia, Mars",
+                                                      "Jowisz, Saturn, Wenus, Mars",
+                                                      "Uran, Neptun, Pluton oraz planeta karłowata Ceres"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Do planet olbrzymów należą Jowisz, Saturn, Uran i Neptun, które powstały w chłodniejszych obszarach Układu i zbudowane są głównie z gazów i lodu."
+                                  },
+                                  {
+                                      "question":  "Jaka cecha budowy atmosfery Wenus jest główną przyczyną występowania na tej planecie najwyższych temperatur w Układzie Słonecznym?",
+                                      "options":  [
+                                                      "Gęsta atmosfera złożona z dwutlenku węgla wywołująca silny efekt cieplarniany.",
+                                                      "Cienka atmosfera pozwalająca na bezpośrednie nagrzewanie powierzchni przez Słońce.",
+                                                      "Atmosfera nasycona metanem, który pochłania promieniowanie czerwone i ogrzewa planetę.",
+                                                      "Brak atmosfery, co powoduje ekstremalne nagrzewanie się skalistej powierzchni w ciągu dnia."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gęsta atmosfera Wenus, złożona głównie z dwutlenku węgla, wywołuje efekt cieplarniany, przez co temperatura sięga 500°C."
+                                  },
+                                  {
+                                      "question":  "Gdzie w Układzie Słonecznym znajduje się pas główny planetoid?",
+                                      "options":  [
+                                                      "Między orbitami Marsa i Jowisza",
+                                                      "Między orbitami Ziemi i Marsa",
+                                                      "Między orbitami Jowisza i Saturna",
+                                                      "Poza orbitą Neptuna (Pas Kuipera)"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Pas główny planetoid znajduje się między orbitą Marsa a orbitą Jowisza."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną charakterystycznego czerwonego zabarwienia powierzchni Marsa?",
+                                      "options":  [
+                                                      "Powierzchniowa warstwa pyłu bogatego w tlenki żelaza.",
+                                                      "Obecność metanu w górnych warstwach atmosfery.",
+                                                      "Wysoka temperatura powierzchni powodująca żarzenie skał.",
+                                                      "Rozległe oceany lawy pokrywające większość planety."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Mars zawdzięcza czerwone zabarwienie powierzchniowej warstwie pyłu bogatego w tlenki żelaza."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstaje warkocz komety podczas jej przelotu przez Układ Słoneczny?",
+                                      "options":  [
+                                                      "W wyniku sublimacji lodu i uwalniania gazów pod wpływem zbliżania się do Słońca.",
+                                                      "Na skutek spalania się materii komety podczas tarcia o gęste warstwy atmosfery planet.",
+                                                      "Poprzez grawitacyjne przyciąganie pyłu międzyplanetarnego przez jądro komety.",
+                                                      "W efekcie kondensacji pary wodnej w chłodnych, peryferyjnych obszarach Układu."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gdy kometa zbliża się do Słońca, lód zaczyna parować (sublimacja), a uwolnione gazy i pyły tworzą warkocz."
+                                  },
+                                  {
+                                      "question":  "Która z planet Układu Słonecznego wyróżnia się najmniejszą średnią gęstością materii oraz wyraźnymi pierścieniami widocznymi z Ziemi?",
+                                      "options":  [
+                                                      "Saturn",
+                                                      "Jowisz",
+                                                      "Uran",
+                                                      "Neptun"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Saturn odznacza się najmniejszą średnią gęstością materii i wyróżnia wyraźnymi pierścieniami z lodu i skał."
+                                  },
+                                  {
+                                      "question":  "Jaki jest mechanizm powstawania zaćmienia Słońca?",
+                                      "options":  [
+                                                      "Księżyc znajduje się pomiędzy Ziemią a Słońcem, rzucając cień na powierzchnię naszej planety.",
+                                                      "Ziemia znajduje się pomiędzy Słońcem a Księżycem, odcinając dopływ światła do naturalnego satelity.",
+                                                      "Słońce znajduje się pomiędzy Ziemią a Księżycem, co uniemożliwia obserwację tarczy Księżyca.",
+                                                      "Planeta Wenus przesuwa się na tle tarczy Słońca, okresowo przesłaniając jego promienie."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Zaćmienie Słońca następuje wtedy, gdy Księżyc znajduje się między Ziemią a Słońcem."
+                                  },
+                                  {
+                                      "question":  "Czym różni się meteoroid od meteorytu?",
+                                      "options":  [
+                                                      "Meteoroid to okruch skalny w kosmosie, a meteoryt to fragment, który dotarł do powierzchni Ziemi.",
+                                                      "Meteoroid to zjawisko świetlne w atmosferze, a meteoryt to ciało krążące wokół Słońca.",
+                                                      "Meteoroid to nazwa planetoidy z Pasa Kuipera, a meteoryt to fragment komety.",
+                                                      "Meteoroid jest zbudowany wyłącznie z lodu, a meteoryt składa się ze skał i metali."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Meteoroidy to okruchy w kosmosie; te, które docierają do powierzchni planety, noszą nazwę meteorytów."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „Jednostka Astronomiczna” (AU)?",
+                                      "options":  [
+                                                      "Średnia odległość Ziemi od Słońca (ok. 150 mln km).",
+                                                      "Odległość, jaką światło pokonuje w próżni w ciągu roku.",
+                                                      "Odległość między Ziemią a Księżycem w perygeum.",
+                                                      "Promień orbity najdalszej planety Układu Słonecznego, czyli Neptuna."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jednostka astronomiczna (AU) to średnia odległość Ziemi od Słońca, czyli 149 597 870 km."
+                                  },
+                                  {
+                                      "question":  "Dlaczego z Ziemi obserwujemy zawsze tę samą stronę Księżyca?",
+                                      "options":  [
+                                                      "Czas pełnego obrotu Księżyca wokół własnej osi jest równy czasowi jego obiegu wokół Ziemi.",
+                                                      "Księżyc nie wykonuje ruchu obrotowego wokół własnej osi, a jedynie ruch obiegowy wokół Ziemi.",
+                                                      "Ruch obrotowy Księżyca jest znacznie szybszy niż jego ruch obiegowy, co powoduje zjawisko libracji.",
+                                                      "Oś obrotu Księżyca jest skierowana zawsze w stronę Słońca, co stabilizuje jego ustawienie względem Ziemi."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Pełny obieg Księżyca wokół Ziemi oraz jego pełny obrót wokół własnej osi trwają tyle samo, co powoduje, że z Ziemi widać tę samą stronę."
+                                  },
+                                  {
+                                      "question":  "Który opis najlepiej oddaje kształt orbity Ziemi wokół Słońca?",
+                                      "options":  [
+                                                      "Elipsa, w której jednym z ognisk znajduje się Słońce.",
+                                                      "Idealny okrąg, w którego geometrycznym środku, a nie ognisku, znajduje się Słońce.",
+                                                      "Elipsa, w której środku (przecięciu osi) znajduje się Słońce.",
+                                                      "Spirala zbliżająca się stopniowo do centrum Układu Słonecznego."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ziemia okrąża Słońce po orbicie w kształcie elipsy, a Słońce znajduje się w jednym z jej ognisk."
+                                  },
+                                  {
+                                      "question":  "Jaki gaz nadaje Uranowi i Neptunowi charakterystyczne niebieskawe zabarwienie?",
+                                      "options":  [
+                                                      "Metan",
+                                                      "Tlen",
+                                                      "Azot",
+                                                      "Hel"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Uran i Neptun zawdzięczają swój kolor metanowi znajdującemu się w ich atmosferach."
+                                  },
+                                  {
+                                      "question":  "W którą stronę skierowany jest warkocz komety przelatującej w pobliżu Słońca?",
+                                      "options":  [
+                                                      "W kierunku przeciwnym do Słońca.",
+                                                      "W kierunku Słońca (zgodnie z grawitacją).",
+                                                      "Zawsze w kierunku ruchu komety.",
+                                                      "Prostopadle do płaszczyzny orbity, niezależnie od położenia Słońca."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ze względu na oddziaływanie wiatru słonecznego warkocz komety zawsze jest zwrócony w kierunku przeciwnym do Słońca."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych punktów orbity oznacza najmniejszą odległość Ziemi od Słońca?",
+                                      "options":  [
+                                                      "Peryhelium",
+                                                      "Aphelium",
+                                                      "Zenit",
+                                                      "Nadir"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Peryhelium to punkt orbity, w którym odległość między Ziemią a Słońcem jest najmniejsza."
+                                  },
+                                  {
+                                      "question":  "Jak zdefiniowana jest teoria heliocentryczna sformułowana przez Mikołaja Kopernika?",
+                                      "options":  [
+                                                      "Słońce znajduje się w centrum wszechświata, a Ziemia i inne planety krążą wokół niego.",
+                                                      "Ziemia znajduje się w centrum wszechświata i jest nieruchoma, a Słońce krąży wokół niej.",
+                                                      "Słońce i Ziemia krążą wokół wspólnego środka masy położonego poza Układem Słonecznym.",
+                                                      "Planety krążą wokół Słońca, ale Słońce krąży wokół nieruchomej Ziemi (system mieszany)."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Teoria heliocentryczna zakładała, że Słońce leży w centrum wszechświata, a wokół niego krążą Ziemia i inne planety."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Obserwujemy z Ziemi tylko jedną stronę Księżyca, ponieważ nie wykonuje on ruchu obrotowego wokół własnej osi.",
+                                           "answer":  false,
+                                           "explanation":  "Księżyc wykonuje ruch obrotowy, ale jest on zsynchronizowany z ruchem obiegowym (trwa tyle samo: 27 dni, 7 godzin i 43 minuty), dlatego widzimy zawsze tę samą tarczę."
+                                       },
+                                       {
+                                           "sentence":  "Warkocz komety jest zawsze zwrócony w kierunku przeciwnym do kierunku jej ruchu.",
+                                           "answer":  false,
+                                           "explanation":  "Warkocz komety jest zawsze zwrócony w kierunku przeciwnym do Słońca, niezależnie od kierunku ruchu komety, co wynika z oddziaływania wiatru słonecznego."
+                                       },
+                                       {
+                                           "sentence":  "Zgodnie z obecną definicją Pluton jest dziewiątą planetą Układu Słonecznego.",
+                                           "answer":  false,
+                                           "explanation":  "Od 2006 roku Pluton jest klasyfikowany jako planeta karłowata, ponieważ nie oczyścił sąsiedztwa swojej orbity z innych obiektów."
+                                       },
+                                       {
+                                           "sentence":  "Do zaćmienia Słońca dochodzi, gdy Ziemia znajdzie się dokładnie pomiędzy Słońcem a Księżycem.",
+                                           "answer":  false,
+                                           "explanation":  "Opisana sytuacja dotyczy zaćmienia Księżyca. Zaćmienie Słońca występuje, gdy to Księżyc znajduje się między Ziemią a Słońcem."
+                                       },
+                                       {
+                                           "sentence":  "Planety olbrzymy, takie jak Jowisz i Saturn, charakteryzują się bardzo dużą gęstością materii ze względu na swoje ogromne rozmiary.",
+                                           "answer":  false,
+                                           "explanation":  "Planety olbrzymy mają małą gęstość materii, ponieważ są zbudowane głównie z gazów (wodoru i helu) oraz lodu, w przeciwieństwie do gęstych planet skalistych."
+                                       },
+                                       {
+                                           "sentence":  "Meteoroid to nazwa fragmentu skały kosmicznej, który zdołał dotrzeć do powierzchni Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Fragment, który dociera do powierzchni Ziemi, to meteoryt. Meteoroid to okruch krążący w kosmosie przed wejściem w atmosferę."
+                                       },
+                                       {
+                                           "sentence":  "Merkury jest najgorętszą planetą Układu Słonecznego, ponieważ krąży najbliżej Słońca.",
+                                           "answer":  false,
+                                           "explanation":  "Najgorętszą planetą jest Wenus (do 500°C) ze względu na gęstą atmosferę i silny efekt cieplarniany, mimo że leży dalej od Słońca niż Merkury."
+                                       },
+                                       {
+                                           "sentence":  "Energia Słońca powstaje w wyniku chemicznego procesu spalania wodoru w obecności tlenu.",
+                                           "answer":  false,
+                                           "explanation":  "Energia Słońca powstaje w wyniku reakcji termojądrowych (przemiana wodoru w hel), a nie procesów chemicznych."
+                                       },
+                                       {
+                                           "sentence":  "Pas główny planetoid rozciąga się pomiędzy orbitami Ziemi i Marsa.",
+                                           "answer":  false,
+                                           "explanation":  "Pas główny planetoid znajduje się między orbitą Marsa a orbitą Jowisza."
+                                       },
+                                       {
+                                           "sentence":  "Wszystkie planety Układu Słonecznego posiadają twardą, skalistą powierzchnię.",
+                                           "answer":  false,
+                                           "explanation":  "Planety olbrzymy (Jowisz, Saturn, Uran, Neptun) są zbudowane głównie z gazów i lodu, i nie posiadają stałej powierzchni."
+                                       },
+                                       {
+                                           "sentence":  "Obiekty krążące w Pasie Kuipera zbudowane są głównie z metali i skał krzemianowych.",
+                                           "answer":  false,
+                                           "explanation":  "Planetoidy i obiekty Pasa Kuipera są zbudowane przede wszystkim z lodu."
+                                       },
+                                       {
+                                           "sentence":  "Planety poruszają się wokół Słońca ze stałą prędkością liniową na całej długości swojej orbity.",
+                                           "answer":  false,
+                                           "explanation":  "Zgodnie z prawami Keplera planety poruszają się po elipsach, co oznacza zmienną prędkość – największą w pobliżu Słońca (peryhelium), a najmniejszą w punkcie najdalszym (aphelium)."
+                                       }
+                                   ]
+                 }
+}

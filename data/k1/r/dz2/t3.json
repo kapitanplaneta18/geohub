@@ -1,0 +1,334 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz2-t3",
+                     "unit":  "II",
+                     "title":  "Ruch obrotowy Ziemi",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Ruch obrotowy Ziemi (kierunek)",
+                                              "definition":  "Ruch wirowy Ziemi wokół własnej osi, który odbywa się z zachodu na wschód."
+                                          },
+                                          {
+                                              "term":  "Doba gwiazdowa",
+                                              "definition":  "Rzeczywisty czas pełnego obrotu Ziemi wokół własnej osi, wynoszący 23 godziny, 56 minut i 4 sekundy."
+                                          },
+                                          {
+                                              "term":  "Średnia doba słoneczna",
+                                              "definition":  "Okres trwający 24 godziny, odpowiadający przybliżonemu czasowi między dwoma kolejnymi górowaniami Słońca."
+                                          },
+                                          {
+                                              "term":  "Prędkość kątowa Ziemi",
+                                              "definition":  "Stała prędkość obrotu dla każdego punktu na Ziemi (poza biegunami), wynosząca 15° na godzinę."
+                                          },
+                                          {
+                                              "term":  "Prędkość liniowa (zależność)",
+                                              "definition":  "Prędkość zmienna zależna od szerokości geograficznej; największa na równiku (ok. 1670 km/h), a najmniejsza na biegunach (0 km/h)."
+                                          },
+                                          {
+                                              "term":  "Siła Coriolisa",
+                                              "definition":  "Pozorna siła wynikająca z ruchu obrotowego Ziemi, powodująca odchylenie toru poruszających się ciał (np. wiatrów, prądów morskich)."
+                                          },
+                                          {
+                                              "term":  "Kierunek działania siły Coriolisa (Półkula Północna)",
+                                              "definition":  "Odchylenie kierunku ruchu ciał w prawą stronę względem kierunku pierwotnego."
+                                          },
+                                          {
+                                              "term":  "Kierunek działania siły Coriolisa (Półkula Południowa)",
+                                              "definition":  "Odchylenie kierunku ruchu ciał w lewą stronę względem kierunku pierwotnego."
+                                          },
+                                          {
+                                              "term":  "Wahadło Foucaulta",
+                                              "definition":  "Przyrząd, którego zmiana płaszczyzny wahań (zgodnie z ruchem wskazówek zegara) stanowi dowód na ruch obrotowy Ziemi."
+                                          },
+                                          {
+                                              "term":  "Siła odśrodkowa (w ruchu obrotowym)",
+                                              "definition":  "Siła działająca podczas ruchu obrotowego, odpowiedzialna za spłaszczenie Ziemi przy biegunach i jej wybrzuszenie na równiku."
+                                          },
+                                          {
+                                              "term":  "Spłaszczenie biegunowe",
+                                              "definition":  "Cecha kształtu Ziemi (geoidy), polegająca na tym, że promień równikowy jest dłuższy od promienia biegunowego o ok. 21 km."
+                                          },
+                                          {
+                                              "term":  "Pozorna wędrówka Sfery Niebieskiej",
+                                              "definition":  "Złudzenie ruchu Słońca, gwiazd i innych ciał niebieskich ze wschodu na zachód, będące następstwem obrotu Ziemi w przeciwnym kierunku."
+                                          },
+                                          {
+                                              "term":  "Widnokrąg",
+                                              "definition":  "Linia pozornego styku terenu widzianego przez obserwatora ze sklepieniem niebieskim, wyznaczana przez najodleglejsze widoczne obiekty."
+                                          },
+                                          {
+                                              "term":  "Pływy morskie (przyczyna)",
+                                              "definition":  "Cykliczne zmiany poziomu wód wywołane oddziaływaniem grawitacyjnym Księżyca i Słońca oraz ruchem obrotowym Ziemi."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Spłaszczenie biegunowe Ziemi",
+                                                 "pair2":  "Siła odśrodkowa ruchu obrotowego"
+                                             },
+                                             {
+                                                 "pair1":  "Odchylenie pasatów na zachód",
+                                                 "pair2":  "Działanie siły Coriolisa"
+                                             },
+                                             {
+                                                 "pair1":  "Równik (szerokość 0°)",
+                                                 "pair2":  "Maksymalna prędkość liniowa (ok. 1670 km/h)"
+                                             },
+                                             {
+                                                 "pair1":  "Bieguny (szerokość 90°)",
+                                                 "pair2":  "Zerowa prędkość liniowa (0 km/h)"
+                                             },
+                                             {
+                                                 "pair1":  "Półkula północna",
+                                                 "pair2":  "Odchylenie toru ruchu w prawo"
+                                             },
+                                             {
+                                                 "pair1":  "Półkula południowa",
+                                                 "pair2":  "Odchylenie toru ruchu w lewo"
+                                             },
+                                             {
+                                                 "pair1":  "Zmiana płaszczyzny wahań wahadła Foucaulta",
+                                                 "pair2":  "Dowód na ruch obrotowy Ziemi"
+                                             },
+                                             {
+                                                 "pair1":  "Występowanie dnia i nocy",
+                                                 "pair2":  "Zmiana oświetlenia Ziemi w ciągu doby"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaki jest kierunek ruchu obrotowego Ziemi, patrząc od strony bieguna północnego?",
+                                      "options":  [
+                                                      "Z północy na południe",
+                                                      "Ze wschodu na zachód",
+                                                      "Z zachodu na wschód",
+                                                      "Z południa na północ"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ruch obrotowy Ziemi (ruch wirowy) odbywa się z zachodu na wschód."
+                                  },
+                                  {
+                                      "question":  "Ile wynosi rzeczywisty czas pełnego obrotu Ziemi wokół własnej osi (doba gwiazdowa)?",
+                                      "options":  [
+                                                      "24 godziny 00 minut 00 sekund",
+                                                      "23 godziny 56 minut 4 sekundy",
+                                                      "24 godziny 15 minut 00 sekund",
+                                                      "23 godziny 48 minut 46 sekund"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rzeczywisty czas pełnego obrotu Ziemi wynosi 23 godziny, 56 minut i 4 sekundy, czyli dobę gwiazdową."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko jest bezpośrednim następstwem ruchu obrotowego Ziemi?",
+                                      "options":  [
+                                                      "Astronomiczne pory roku",
+                                                      "Zmiana długości dnia i nocy w roku",
+                                                      "Występowanie dnia i nocy",
+                                                      "Zmiana miejsca wschodu Słońca"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Jednym z najważniejszych następstw ruchu obrotowego jest występowanie dni i nocy."
+                                  },
+                                  {
+                                      "question":  "Jaka jest wartość prędkości kątowej punktów na powierzchni Ziemi (poza biegunami)?",
+                                      "options":  [
+                                                      "Jest zmienna i zależy od szerokości geograficznej",
+                                                      "Wynosi stałe 15° na godzinę",
+                                                      "Wynosi około 1670 km/h na równiku",
+                                                      "Wynosi 4 minuty na 1° obrotu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prędkość kątowa jest stała dla każdego punktu na naszej planecie (z wyjątkiem biegunów) i wynosi 15° w ciągu godziny."
+                                  },
+                                  {
+                                      "question":  "Jak zmienia się prędkość liniowa punktów na powierzchni Ziemi?",
+                                      "options":  [
+                                                      "Jest stała dla wszystkich punktów na powierzchni",
+                                                      "Maleje od biegunów w kierunku równika",
+                                                      "Maleje w miarę zbliżania się do biegunów",
+                                                      "Jest równa prędkości kątowej w każdym punkcie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Prędkość liniowa jest zmienna, zależy od szerokości geograficznej i maleje w miarę zbliżania się do biegunów."
+                                  },
+                                  {
+                                      "question":  "Które doświadczenie jest bezpośrednim dowodem na ruch obrotowy Ziemi?",
+                                      "options":  [
+                                                      "Obserwacja zaćmienia Księżyca",
+                                                      "Zmiana płaszczyzny wahań wahadła Foucaulta",
+                                                      "Zmiana wysokości górowania Słońca",
+                                                      "Występowanie faz Księżyca"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jednym z dowodów na ruch obrotowy Ziemi jest działanie wahadła Foucaulta, które zmienia płaszczyznę wahań."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób siła odśrodkowa wynikająca z ruchu obrotowego wpływa na kształt Ziemi?",
+                                      "options":  [
+                                                      "Powoduje spłaszczenie Ziemi przy biegunach i jej wybrzuszenie na równiku",
+                                                      "Powoduje wybrzuszenie Ziemi przy biegunach",
+                                                      "Nadaje Ziemi idealnie kulisty kształt",
+                                                      "Nie ma wpływu na kształt planety"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Za spłaszczenie biegunowe naszej planety odpowiada siła odśrodkowa działająca podczas ruchu obrotowego."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na biegunach prędkość liniowa punktów na powierzchni Ziemi wynosi 0 km/h?",
+                                      "options":  [
+                                                      "Ponieważ bieguny leżą na osi obrotu i nie zmieniają swojego położenia w przestrzeni",
+                                                      "Ponieważ na biegunach nie działa siła grawitacji",
+                                                      "Ponieważ oś ziemska jest nachylona do ekliptyki",
+                                                      "Ponieważ siła Coriolisa jest tam najsilniejsza"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Bieguny nie zmieniają swego położenia w trakcie obrotu, dlatego ich prędkość liniowa wynosi 0 km/h."
+                                  },
+                                  {
+                                      "question":  "Jak siła Coriolisa wpływa na kierunek ruchu ciał na półkuli północnej?",
+                                      "options":  [
+                                                      "Odchyla tor ruchu ciał w lewo względem kierunku ruchu",
+                                                      "Odchyla tor ruchu ciał w prawo względem kierunku ruchu",
+                                                      "Przyspiesza ciała poruszające się na wschód",
+                                                      "Nie powoduje żadnego odchylenia toru ruchu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Siła Coriolisa powoduje, że kierunek ruchu ciał jest odchylany na półkuli północnej w prawo."
+                                  },
+                                  {
+                                      "question":  "Dlaczego ciało przemieszczające się z równika w stronę zwrotnika Raka ulega odchyleniu na wschód?",
+                                      "options":  [
+                                                      "Ponieważ przemieszcza się z miejsca o większej prędkości liniowej do miejsca o mniejszej prędkości, wyprzedzając obrót Ziemi",
+                                                      "Ponieważ przemieszcza się z miejsca o mniejszej prędkości liniowej do miejsca o większej prędkości, opóźniając się względem Ziemi",
+                                                      "Ponieważ działa na nie siła przyciągania Księżyca, która jest silniejsza na równiku niż na zwrotnikach",
+                                                      "Ponieważ wiatry pasatowe spychają wszystkie obiekty poruszające się na półkuli północnej w kierunku wschodnim"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Obiekt przemieszczający się z niższych szerokości (większa prędkość liniowa) do wyższych \u0027wyprzedza\u0027 ruch Ziemi i odchyla się zgodnie z kierunkiem obrotu."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ ma siła odśrodkowa na atmosferę ziemską?",
+                                      "options":  [
+                                                      "Powoduje, że troposfera jest cieńsza nad równikiem niż nad biegunami",
+                                                      "Powoduje, że troposfera jest grubsza nad równikiem niż nad biegunami",
+                                                      "Powoduje zanik atmosfery w strefach podbiegunowych",
+                                                      "Nie ma wpływu na grubość warstw atmosfery"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Siła odśrodkowa jest częściowo odpowiedzialna za nierównomierną grubość troposfery; w okolicach równika jest ona grubsza."
+                                  },
+                                  {
+                                      "question":  "Rzeka płynąca południkowo na półkuli północnej silniej podmywa który brzeg?",
+                                      "options":  [
+                                                      "Prawy brzeg, zgodnie z kierunkiem płynięcia rzeki",
+                                                      "Lewy brzeg, zgodnie z kierunkiem płynięcia rzeki",
+                                                      "Oba brzegi są podmywane z tą samą siłą",
+                                                      "Brzeg wschodni niezależnie od kierunku rzeki"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Na półkuli północnej siła Coriolisa odchyla kierunek ruchu ciał w prawo, co w przypadku rzek oznacza silniejsze podmywanie prawego brzegu."
+                                  },
+                                  {
+                                      "question":  "Jak ruch obrotowy wpływa na cykliczność pływów morskich w danym punkcie Ziemi?",
+                                      "options":  [
+                                                      "Pływy występują losowo w zależności od wiatru",
+                                                      "Dany punkt przechodzi przez strefy spiętrzenia wód w cyklu dobowym",
+                                                      "Pływy występują tylko w momentach pełni Księżyca",
+                                                      "Ruch obrotowy znosi oddziaływanie grawitacyjne Słońca"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Cykliczność zmian poziomu oceanu (przypływy i odpływy) w kolejnych miejscach wynika z ruchu obrotowego Ziemi."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną powstawania siły Coriolisa?",
+                                      "options":  [
+                                                      "Oddziaływanie grawitacyjne Księżyca i Słońca na wody oceaniczne",
+                                                      "Różnica prędkości liniowych punktów na różnych szerokościach geograficznych",
+                                                      "Nachylenie osi ziemskiej względem płaszczyzny orbity",
+                                                      "Ruch obiegowy Ziemi wokół Słońca po orbicie eliptycznej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Siła Coriolisa wynika z faktu, że punkty na powierzchni Ziemi poruszają się z różną prędkością liniową zależną od szerokości geograficznej."
+                                  },
+                                  {
+                                      "question":  "W którą stronę odchylane są pasaty na półkuli północnej w wyniku działania siły Coriolisa?",
+                                      "options":  [
+                                                      "W stronę wschodnią, stając się wiatrami zachodnimi",
+                                                      "W stronę zachodnią, nie wiejąc wzdłuż południków",
+                                                      "W stronę bieguna północnego, przyspieszając ruch mas powietrza",
+                                                      "Nie ulegają odchyleniu, wiejąc prosto od zwrotnika do równika"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pasaty na półkuli północnej nie wieją wzdłuż południków, lecz ich kierunek jest odchylany na zachód (stają się wiatrami północno-wschodnimi)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Ziemia obraca się wokół własnej osi ze wschodu na zachód, co powoduje powstawanie pozornego ruchu Słońca po niebie.",
+                                           "answer":  false,
+                                           "explanation":  "Ruch obrotowy Ziemi odbywa się z zachodu na wschód."
+                                       },
+                                       {
+                                           "sentence":  "Prędkość kątowa punktów na równiku jest większa niż punktów na zwrotnikach, ponieważ równik jest najdłuższym równoleżnikiem.",
+                                           "answer":  false,
+                                           "explanation":  "Prędkość kątowa jest stała dla każdego punktu na Ziemi (poza biegunami) i wynosi 15° na godzinę."
+                                       },
+                                       {
+                                           "sentence":  "Prędkość liniowa jest taka sama dla wszystkich punktów na powierzchni Ziemi i wynosi około 1670 km/h.",
+                                           "answer":  false,
+                                           "explanation":  "Prędkość liniowa jest zmienna i zależy od szerokości geograficznej; wynosi ok. 1670 km/h tylko na równiku, a na biegunach spada do 0 km/h."
+                                       },
+                                       {
+                                           "sentence":  "Siła Coriolisa osiąga swoją największą wartość na równiku, dlatego to tam najsilniej zmienia kierunek pasatów.",
+                                           "answer":  false,
+                                           "explanation":  "Siła Coriolisa nie działa na obiekty poruszające się po równiku (jej wartość wynosi tam zero)."
+                                       },
+                                       {
+                                           "sentence":  "Na półkuli południowej siła Coriolisa powoduje odchylenie toru poruszających się ciał w prawą stronę względem kierunku ruchu.",
+                                           "answer":  false,
+                                           "explanation":  "Na półkuli południowej kierunek ruchu ciał jest odchylany w lewą stronę."
+                                       },
+                                       {
+                                           "sentence":  "Doba gwiazdowa trwa dokładnie 24 godziny i jest podstawą powszechnej rachuby czasu.",
+                                           "answer":  false,
+                                           "explanation":  "Doba gwiazdowa trwa 23 godziny, 56 minut i 4 sekundy; podstawą rachuby czasu jest średnia doba słoneczna trwająca 24 godziny."
+                                       },
+                                       {
+                                           "sentence":  "Wahadło Foucaulta zmienia płaszczyznę wahań, co jest bezpośrednim dowodem na ruch obiegowy Ziemi wokół Słońca.",
+                                           "answer":  false,
+                                           "explanation":  "Działanie wahadła Foucaulta jest dowodem na ruch obrotowy Ziemi wokół własnej osi."
+                                       },
+                                       {
+                                           "sentence":  "W wyniku działania siły odśrodkowej promień biegunowy Ziemi jest dłuższy od promienia równikowego o około 21 km.",
+                                           "answer":  false,
+                                           "explanation":  "Z powodu siły odśrodkowej to promień równikowy jest dłuższy od promienia biegunowego."
+                                       },
+                                       {
+                                           "sentence":  "Prędkość liniowa punktów znajdujących się na biegunach wynosi 0 km/h, ponieważ nie zmieniają one swojego położenia w trakcie obrotu.",
+                                           "answer":  true,
+                                           "explanation":  "Bieguny są punktami, przez które przechodzi oś obrotu, dlatego ich prędkość liniowa wynosi 0 km/h."
+                                       },
+                                       {
+                                           "sentence":  "Cykliczność występowania pływów morskich w kolejnych miejscach na Ziemi jest konsekwencją jej ruchu obrotowego.",
+                                           "answer":  true,
+                                           "explanation":  "Ruch obrotowy Ziemi powoduje przemieszczanie się stref przypływów i odpływów, co nadaje im charakter cykliczny."
+                                       },
+                                       {
+                                           "sentence":  "W ciągu jednej godziny każdy punkt na powierzchni Ziemi (z wyjątkiem biegunów) wykonuje obrót o kąt 15°.",
+                                           "answer":  true,
+                                           "explanation":  "Ziemia obraca się o 360° w ciągu 24 godzin, co daje stałą prędkość kątową 15° na godzinę."
+                                       },
+                                       {
+                                           "sentence":  "Pasaty na półkuli północnej są odchylane przez siłę Coriolisa na zachód, przez co nie wieją prosto z północy na południe.",
+                                           "answer":  true,
+                                           "explanation":  "Siła Coriolisa odchyla pasaty w prawo na półkuli północnej, powodując, że ich kierunek jest odchylany na zachód (wiatry wschodnie)."
+                                       }
+                                   ]
+                 }
+}

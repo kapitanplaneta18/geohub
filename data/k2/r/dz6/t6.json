@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t6",
+    "title": "Handel międzynarodowy",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Handel międzynarodowy (zagraniczny)",
+        "definition": "Odpłatna wymiana towarów, usług i kapitału między państwami na świecie."
+      },
+      {
+        "term": "Eksport",
+        "definition": "Sprzedaż wyprodukowanych towarów i usług za granicę własnego kraju."
+      },
+      {
+        "term": "Import",
+        "definition": "Zakup oraz sprowadzanie towarów i usług spoza granic danego kraju."
+      },
+      {
+        "term": "Reeksport",
+        "definition": "Sprzedaż za granicę towarów pochodzących z wcześniejszego importu, najczęściej po ich odpowiednim przetworzeniu."
+      },
+      {
+        "term": "Bilans handlowy",
+        "definition": "Zestawienie całkowitej rocznej wartości eksportu oraz importu towarów danego państwa."
+      },
+      {
+        "term": "Dodatnie saldo bilansu handlowego",
+        "definition": "Sytuacja gospodarcza, w której wartość rocznego eksportu kraju przewyższa wartość jego importu."
+      },
+      {
+        "term": "Ujemne saldo bilansu handlowego",
+        "definition": "Sytuacja, w której wartość towarów importowanych przez państwo jest wyższa niż wartość towarów eksportowanych."
+      },
+      {
+        "term": "Kapitał intelektualny (dobra intelektualne)",
+        "definition": "Jeden z elementów kapitału w handlu międzynarodowym, obejmujący licencje know-how, nowe technologie oraz patenty."
+      },
+      {
+        "term": "Światowa Organizacja Handlu (WTO)",
+        "definition": "Organizacja międzynarodowa powołana w 1994 r. zajmująca się wspieraniem wymiany handlowej, jej liberalizacją oraz rozstrzyganiem sporów."
+      },
+      {
+        "term": "Struktura towarowa handlu świata",
+        "definition": "Udział poszczególnych grup towarów w obrotach; największe znaczenie (ok. 36%) mają w niej obecnie maszyny, urządzenia i sprzęt transportowy."
+      },
+      {
+        "term": "Handel zagraniczny krajów słabo rozwiniętych",
+        "definition": "Wymiana cechująca się dostarczaniem na rynki światowe surowców, półproduktów i płodów rolnych przy jednoczesnym imporcie dóbr konsumpcyjnych."
+      },
+      {
+        "term": "Główni eksporterzy świata",
+        "definition": "Kraje o największym udziale w światowym eksporcie towarów, w tym: Chiny, Stany Zjednoczone, Niemcy i Japonia."
+      },
+      {
+        "term": "Główny partner handlowy Polski",
+        "definition": "Niemcy, które od początku lat 90. XX wieku utrzymują największy udział procentowy zarówno w polskim imporcie, jak i eksporcie."
+      },
+      {
+        "term": "Struktura towarowa Polski",
+        "definition": "Zestawienie handlowe, w którym największy udział pod względem wartości (import i eksport) mają w naszym kraju produkty przemysłu przetwórczego."
+      },
+      {
+        "term": "Sprawiedliwy handel (Fair Trade)",
+        "definition": "Idea promująca uczciwe relacje handlowe z producentami, polegająca m.in. na godziwym wynagrodzeniu, zakazie pracy dzieci i ochronie środowiska."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Bilans handlowy (dodatni)",
+        "pair2": "Sytuacja, w której wartość eksportu państwa przewyższa wartość jego importu."
+      },
+      {
+        "pair1": "Bilans handlowy (ujemny)",
+        "pair2": "Sytuacja, w której wartość sprowadzanych z zagranicy towarów jest wyższa niż eksportu."
+      },
+      {
+        "pair1": "Reeksport (mechanizm)",
+        "pair2": "Sprzedaż za granicę produktów sprowadzonych z innego kraju, często po ich uszlachetnieniu."
+      },
+      {
+        "pair1": "Chiny (rola w handlu światowym)",
+        "pair2": "Państwo będące obecnie największym na świecie eksporterem towarów."
+      },
+      {
+        "pair1": "Maszyny i urządzenia transportowe (struktura)",
+        "pair2": "Grupa produktów stanowiąca współcześnie największy udział w światowej strukturze towarowej."
+      },
+      {
+        "pair1": "WTO (Światowa Organizacja Handlu)",
+        "pair2": "Główna instytucja globalna zajmująca się wspieraniem i liberalizacją wymiany dóbr i usług."
+      },
+      {
+        "pair1": "Sprawiedliwy handel (Fair Trade)",
+        "pair2": "Ruch gwarantujący m.in. uczciwe wynagrodzenie, respektowanie praw człowieka i poszanowanie środowiska w produkcji."
+      },
+      {
+        "pair1": "Niemcy (znaczenie dla Polski)",
+        "pair2": "Państwo, które przyjmuje największą część polskiego eksportu i odgrywa główną rolę w imporcie."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co w handlu międzynarodowym określa się terminem eksport?",
+        "options": [
+          "Sprzedaż krajowych towarów i usług za granicę.",
+          "Zakup zagranicznych towarów i usług do kraju.",
+          "Wymianę barterową pomiędzy dwoma państwami.",
+          "Przewóz obcych towarów przez terytorium państwa."
+        ],
+        "answer": "A",
+        "explanation": "Eksport polega na sprzedaży własnych towarów oraz usług poza granice danego państwa."
+      },
+      {
+        "question": "Na czym polega zjawisko reeksportu w obrotach handlowych?",
+        "options": [
+          "Na sprzedaży za granicę towarów uprzednio zaimportowanych.",
+          "Na ograniczeniu napływu towarów zagranicznych do państwa.",
+          "Na zwiększeniu ceł ochronnych na eksportowane surowce.",
+          "Na wymianie usług bez fizycznego przepływu produktów."
+        ],
+        "answer": "A",
+        "explanation": "Reeksport to ponowna odsprzedaż wcześniej zakupionych zagranicznych towarów, często po ich odpowiednim przetworzeniu."
+      },
+      {
+        "question": "Kiedy w gospodarce występuje dodatnie saldo bilansu handlowego?",
+        "options": [
+          "Gdy roczna wartość eksportu jest wyższa niż wartość importu.",
+          "Gdy roczna wartość importu jest wyższa niż wartość eksportu.",
+          "Gdy całkowita wartość eksportu równa się wartości importu.",
+          "Gdy gwałtownie wzrasta całkowite zadłużenie zagraniczne."
+        ],
+        "answer": "A",
+        "explanation": "Dodatnie saldo bilansu handlowego występuje w sytuacji, kiedy przychody z wywozu towarów przewyższają wydatki na ich przywóz."
+      },
+      {
+        "question": "Jakie jest główne zadanie Światowej Organizacji Handlu (WTO)?",
+        "options": [
+          "Wspieranie i liberalizacja handlu międzynarodowego.",
+          "Wprowadzanie wysokich ceł na towary importowane.",
+          "Ograniczanie zagranicznych inwestycji bezpośrednich.",
+          "Finansowanie zbrojeń w państwach słabo rozwiniętych."
+        ],
+        "answer": "A",
+        "explanation": "Światowa Organizacja Handlu dąży do znoszenia barier celnych oraz rozstrzygania ewentualnych sporów między państwami."
+      },
+      {
+        "question": "Która grupa produktów dominuje w eksporcie państw słabo rozwiniętych?",
+        "options": [
+          "Produkty rolnicze, surowce naturalne i tanie półprodukty.",
+          "Nowoczesne technologie cyfrowe i wyspecjalizowane usługi.",
+          "Maszyny przemysłowe, urządzenia oraz sprzęt transportowy.",
+          "Skomplikowane dobra intelektualne i patenty przemysłowe."
+        ],
+        "answer": "A",
+        "explanation": "Kraje o niskim poziomie rozwoju dostarczają na rynki światowe głównie niskoprzetworzone surowce rolnicze i przemysłowe."
+      },
+      {
+        "question": "Czym charakteryzuje się struktura eksportu państw wysoko rozwiniętych?",
+        "options": [
+          "Przewagą towarów zaawansowanych i wysokoprzetworzonych.",
+          "Przewagą niskoprzetworzonych surowców i płodów rolnych.",
+          "Przewagą tanich artykułów spożywczych i surowców leśnych.",
+          "Przewagą wyłącznie produktów przemysłu wydobywczego."
+        ],
+        "answer": "A",
+        "explanation": "W eksporcie bogatych państw królują produkty przemysłu elektronicznego, chemicznego oraz nowoczesne środki transportu."
+      },
+      {
+        "question": "Jaki jest główny cel ruchu sprawiedliwego handlu (Fair Trade)?",
+        "options": [
+          "Zapewnienie godziwych cen oraz wynagrodzeń drobnym producentom.",
+          "Całkowite zniesienie opłat celnych pomiędzy państwami w Europie.",
+          "Maksymalizacja zysków wielkich korporacji w państwach bogatych.",
+          "Wspieranie masowej produkcji opierającej się na taniej sile roboczej."
+        ],
+        "answer": "A",
+        "explanation": "Sprawiedliwy handel dąży do zapewnienia opłacalności produkcji i dobrych warunków pracy rolnikom i rzemieślnikom."
+      },
+      {
+        "question": "Która z poniższych zasad stanowi ważne założenie Fair Trade?",
+        "options": [
+          "Równość płac dla zatrudnionych kobiet oraz mężczyzn.",
+          "Zwiększenie państwowych dotacji dla dużych gospodarstw.",
+          "Maksymalizacja wydajności kosztem praw pracowniczych.",
+          "Zatrudnianie osób nieletnich w celu obniżenia kosztów."
+        ],
+        "answer": "A",
+        "explanation": "Istotnym elementem idei sprawiedliwego handlu jest bezwzględny zakaz pracy dzieci i zapewnienie równości płacowej ze względu na płeć."
+      },
+      {
+        "question": "Która grupa towarów ma największy procentowy udział w światowym eksporcie?",
+        "options": [
+          "Maszyny przemysłowe, urządzenia oraz sprzęt transportowy.",
+          "Żywność przetworzona, napoje oraz inne produkty rolnicze.",
+          "Kopaliny, paliwa kopalne oraz surowe rudy metali kolorowych.",
+          "Chemikalia gospodarcze, leki oraz tanie wyroby włókiennicze."
+        ],
+        "answer": "A",
+        "explanation": "Maszyny, urządzenia i sprzęt transportowy stanowią niemal 36% całkowitej struktury towarowej międzynarodowej wymiany handlowej."
+      },
+      {
+        "question": "Jakie państwa odpowiadają za około połowę światowych obrotów handlowych?",
+        "options": [
+          "Państwa wysoko rozwinięte, które handlują głównie między sobą.",
+          "Państwa słabo rozwinięte, eksportujące surowce do państw bogatych.",
+          "Państwa rozwijające się, zrzeszone w różnych uniach afrykańskich.",
+          "Państwa o gospodarce centralnie planowanej oraz państwa wyspiarskie."
+        ],
+        "answer": "A",
+        "explanation": "Największa część światowych obrotów przypada na wewnętrzną wymianę pomiędzy najbardziej zaawansowanymi gospodarczo państwami."
+      },
+      {
+        "question": "Od jakich uwarunkowań zależy w głównej mierze struktura towarowa państwa?",
+        "options": [
+          "Od posiadanej bazy surowcowej oraz poziomu rozwoju gospodarczego.",
+          "Od dominującej grupy wyznaniowej oraz liczebności armii krajowej.",
+          "Od sztywnych regulacji nakładanych corocznie przez dyrektywy ONZ.",
+          "Od średniej gęstości zaludnienia oraz aktualnego ustroju politycznego."
+        ],
+        "answer": "A",
+        "explanation": "Na strukturę eksportu i importu wpływają zasoby naturalne, panujący klimat i możliwości wytwórcze wynikające z rozwoju państwa."
+      },
+      {
+        "question": "Jakie usługi mają najważniejsze znaczenie w nowoczesnym handlu globalnym?",
+        "options": [
+          "Usługi telekomunikacyjne, finansowe, transportowe i doradcze.",
+          "Usługi gastronomiczne, porządkowe, budowlane i turystyczne.",
+          "Usługi fryzjerskie, naprawcze, edukacyjne oraz rehabilitacyjne.",
+          "Usługi opiekuńcze, administracyjne, medyczne i ubezpieczeniowe."
+        ],
+        "answer": "A",
+        "explanation": "Obok obrotu surowcami ogromną rolę odgrywa eksport dóbr intelektualnych, praw autorskich, spedycji oraz transferów finansowych."
+      },
+      {
+        "question": "Jak należy interpretować stałe ujemne saldo bilansu handlowego państwa?",
+        "options": [
+          "Nie jest to jednoznaczny dowód złej sytuacji ekonomicznej kraju.",
+          "Oznacza to natychmiastowe bankructwo i krach systemu walutowego.",
+          "Świadczy to o nieodwracalnym wzroście poziomu krajowej inflacji.",
+          "Wynika to wyłącznie z zupełnego braku naturalnych złóż surowcowych."
+        ],
+        "answer": "A",
+        "explanation": "Potęgi gospodarcze, takie jak Stany Zjednoczone, od wielu lat posiadają ujemne saldo bilansu, a mimo to prężnie się rozwijają."
+      },
+      {
+        "question": "W jaki sposób międzynarodowe korporacje stymulują światową wymianę?",
+        "options": [
+          "Dzięki inwestycjom zagranicznym łączą rynki i transferują nowoczesny kapitał.",
+          "Dzięki izolacji rynków skutecznie blokują rozprzestrzenianie się technologii.",
+          "Dzięki zamykaniu lokalnych rynków sprzyjają redukcji kosztów transportowych.",
+          "Dzięki ograniczeniu eksportu koncentrują całą produkcję we własnym kraju."
+        ],
+        "answer": "A",
+        "explanation": "Wielkie przedsiębiorstwa budują filie na całym świecie, przyspieszając tym samym międzynarodowe przepływy części, kapitału i wiedzy."
+      },
+      {
+        "question": "Jak szybki rozwój technologii informatycznych modyfikuje pośrednictwo handlowe?",
+        "options": [
+          "Pozwala nabywcom na bezpośrednie dotarcie do ofert docelowych producentów.",
+          "Zmusza dystrybutorów do nakładania wyższych marż w kanałach detalicznych.",
+          "Ogranicza swobodny rozwój sprzedaży w globalnej sieci usług telekomunikacji.",
+          "Uniemożliwia rzetelne weryfikowanie pierwotnych kosztów produkcji surowców."
+        ],
+        "answer": "A",
+        "explanation": "Wzrost dostępu do Internetu oraz handlu elektronicznego upraszcza ścieżki dystrybucji, co często sprawia, że praca pośrednika staje się zbędna."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Reeksport to zjawisko polegające na masowej sprzedaży za granicę towarów wyprodukowanych od podstaw w danym kraju.",
+        "answer": false,
+        "explanation": "Reeksport to sprzedaż za granicę towarów pochodzących z wcześniejszego importu, najczęściej po ich odpowiednim przetworzeniu."
+      },
+      {
+        "sentence": "Dodatnie saldo bilansu handlowego występuje w sytuacji, gdy wydatki państwa na import zagranicznych dóbr przewyższają przychody z eksportu.",
+        "answer": false,
+        "explanation": "Dodatnie saldo bilansu handlowego ma miejsce, kiedy wartość rocznego eksportu danego kraju jest wyższa niż całkowita wartość jego importu."
+      },
+      {
+        "sentence": "Utrzymujące się przez wiele lat ujemne saldo bilansu handlowego nie musi bezpośrednio świadczyć o złej kondycji gospodarczej danego państwa.",
+        "answer": true,
+        "explanation": "Ujemny bilans handlowy nie jest równoznaczny ze złą sytuacją ekonomiczną, czego dowodem są Stany Zjednoczone, które od lat importują więcej niż eksportują, pozostając potęgą gospodarczą."
+      },
+      {
+        "sentence": "Głównym zadaniem Światowej Organizacji Handlu (WTO) jest ochrona lokalnych rynków przed konkurencją poprzez nakładanie wysokich zaporowych stawek celnych.",
+        "answer": false,
+        "explanation": "Światowa Organizacja Handlu dąży do wspierania międzynarodowej wymiany towarowej poprzez jej liberalizację, czyli znoszenie barier celnych i łagodzenie obowiązujących przepisów."
+      },
+      {
+        "sentence": "W strukturze towarowej eksportu państw wysoko rozwiniętych gospodarczo dominują przede wszystkim nieprzetworzone płody rolne oraz tanie surowce mineralne.",
+        "answer": false,
+        "explanation": "Kraje wysoko rozwinięte eksportują przede wszystkim towary wysoko przetworzone, takie jak produkty przemysłu chemicznego, urządzenia elektroniczne oraz nowoczesne środki transportu."
+      },
+      {
+        "sentence": "Ruch sprawiedliwego handlu (Fair Trade) opiera się na wspieraniu międzynarodowych korporacji w obniżaniu kosztów produkcji poprzez przenoszenie fabryk do państw rozwijających się.",
+        "answer": false,
+        "explanation": "Idea sprawiedliwego handlu zakłada ochronę drobnych producentów poprzez gwarancję uczciwych cen, zapewnienie pracownikom godziwych warunków i wynagrodzeń, zakaz pracy dzieci oraz poszanowanie środowiska."
+      },
+      {
+        "sentence": "Współcześnie największy udział procentowy w obrotach handlu międzynarodowego w skali całego świata przypada na maszyny, urządzenia oraz sprzęt transportowy.",
+        "answer": true,
+        "explanation": "Maszyny, urządzenia i sprzęt transportowy stanowią najważniejszą pozycję w globalnej strukturze towarowej, obejmującą prawie 36% całkowitych obrotów."
+      },
+      {
+        "sentence": "Od początku lat 90. XX wieku zdecydowanie najważniejszym partnerem handlowym Polski w zakresie eksportu i importu pozostaje Federacja Rosyjska.",
+        "answer": false,
+        "explanation": "W wyniku przemian gospodarczych i politycznych od początku lat 90. XX wieku najważniejszym partnerem handlowym Polski są Niemcy."
+      },
+      {
+        "sentence": "Obok fizycznych towarów, ważnym elementem wymiany w handlu międzynarodowym są również dobra intelektualne, do których zalicza się licencje, nowe technologie oraz patenty.",
+        "answer": true,
+        "explanation": "Przedmiotem międzynarodowych obrotów, poza towarami i klasycznymi usługami, jest przepływ kapitału, w tym szeroko pojętego kapitału intelektualnego i technologicznego."
+      },
+      {
+        "sentence": "Największa część światowych obrotów handlowych odbywa się obecnie pomiędzy państwami słabo rozwiniętymi gospodarczo zlokalizowanymi w Afryce i Azji Południowej.",
+        "answer": false,
+        "explanation": "Około połowy wartości światowych obrotów handlu międzynarodowego przypada na kraje wysoko rozwinięte, a przepływy te opierają się w głównej mierze na wymianie wewnętrznej między nimi."
+      }
+    ]
+  }
+}

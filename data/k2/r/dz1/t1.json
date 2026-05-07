@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz1-t1",
+    "title": "Podział polityczny świata",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Państwo",
+        "definition": "Podstawowa jednostka podziału politycznego świata. Składa się z terytorium wyznaczonego granicami, zamieszkującej je ludności oraz z suwerennej (niezależnej) władzy. Przykłady: Polska, Watykan, Rosja."
+      },
+      {
+        "term": "Suwerenna władza",
+        "definition": "Niezależna i realna władza sprawowana nad danym terytorium, która jest jednym z warunków zaistnienia państwa. Przykład: Trudności z uznaniem suwerenności na arenie międzynarodowej mają m.in. Kosowo, Abchazja czy Tajwan."
+      },
+      {
+        "term": "Terytorium zależne",
+        "definition": "Obszar, który pozostaje w strefie wpływów innego kraju, ale posiada pewną autonomię. Często to byłe kolonie o niewielkiej powierzchni i populacji. Przykład: Gujana Francuska zależna od Francji."
+      },
+      {
+        "term": "Enklawa",
+        "definition": "Terytorium jednego kraju, które jest całkowicie otoczone przez terytorium i granice innego państwa. Przykład: San Marino otoczone przez obszar Włoch."
+      },
+      {
+        "term": "Eksklawa",
+        "definition": "Część państwa, która jest oddzielona od głównego terytorium danego kraju przez powierzchnię innych państw. Przykład: Obwód kaliningradzki oddzielony od terytorium Rosji przez Białoruś, Litwę i Łotwę."
+      },
+      {
+        "term": "Granica państwa",
+        "definition": "Pionowa powierzchnia, która oddziela od siebie obszary podlegające zwierzchnictwu sąsiednich państw. Na powierzchni ziemi odzwierciedla ją linia graniczna. Przykład: Granica oddzielająca Stany Zjednoczone od Meksyku."
+      },
+      {
+        "term": "Liczba państw świata",
+        "definition": "Liczba krajów ustalona oficjalnie według przynależności do Organizacji Narodów Zjednoczonych. Przykład: Obecnie to 195 państw (w tym 193 członków oraz Watykan i Palestyna jako państwa-obserwatorzy)."
+      },
+      {
+        "term": "Stolica",
+        "definition": "Siedziba naczelnych organów władzy państwowej. Niektóre kraje posiadają dwie stolice. Przykład: W RPA Kapsztad pełni funkcję stolicy konstytucyjnej (formalnej), a Pretoria - rządu (realnej)."
+      },
+      {
+        "term": "Wody terytorialne",
+        "definition": "Pas wód zaliczający się do terytorium państwa, o maksymalnej szerokości 12 mil morskich od linii brzegowej."
+      },
+      {
+        "term": "Wyłączna strefa ekonomiczna",
+        "definition": "Pas wód o szerokości do 200 mil morskich. Tylko określonemu państwu nadmorskiemu przysługuje tam wyłączne prawo do badań oraz korzystania z zasobów żywych i złóż surowców mineralnych."
+      },
+      {
+        "term": "Morskie wody wewnętrzne",
+        "definition": "Wody zaliczane do terytorium państwa, które obejmują zatoki pod warunkiem, że szerokość prowadzących do nich cieśnin wynosi maksymalnie 24 mile morskie."
+      },
+      {
+        "term": "Specjalny status Antarktydy",
+        "definition": "Kontynent pozbawiony państw o charakterze terytorium międzynarodowego, objęty całkowitym zakazem wydobycia surowców i gwarancją swobodnych badań. Przykład: Ustalenia reguluje Układ antarktyczny (1959 r.) oraz protokół madrycki (1991 r.)."
+      },
+      {
+        "term": "Obszary o nieustalonym statusie",
+        "definition": "Terytoria mające suwerenną władzę, uznawane za państwo przez co najmniej jednego członka ONZ, ale traktowane przez resztę państw jako prowincje innej jurysdykcji. Przykład: Sahara Zachodnia, Północny Cypr."
+      },
+      {
+        "term": "Największe państwa świata",
+        "definition": "Grupa 12 wielkich krajów na świecie, których terytorium lądowe znacząco przekracza powierzchnię 2 milionów km2. Przykład: Rosja o powierzchni ponad 17,1 mln km2."
+      },
+      {
+        "term": "Minipaństwa",
+        "definition": "Kraje o bardzo niewielkiej powierzchni terytorialnej (często enklawy), zajmujące na świecie obszar mniejszy niż 1 tys. km2. Przykład: Watykan o powierzchni 0,44 km2."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "San Marino",
+        "pair2": "Enklawa otoczona terytorium Włoch"
+      },
+      {
+        "pair1": "Obwód kaliningradzki",
+        "pair2": "Eksklawa oddzielona od terytorium Rosji"
+      },
+      {
+        "pair1": "Gujana Francuska",
+        "pair2": "Terytorium zależne od Francji w Ameryce Południowej"
+      },
+      {
+        "pair1": "Antarktyda",
+        "pair2": "Obszar międzynarodowy objęty zakazem wydobywania surowców do 2048 r."
+      },
+      {
+        "pair1": "Sudan Południowy",
+        "pair2": "Najmłodsze państwo świata powstałe w 2011 r. na skutek secesji"
+      },
+      {
+        "pair1": "Watykan",
+        "pair2": "Najmniejsze państwo świata posiadające status państwa-obserwatora w ONZ"
+      },
+      {
+        "pair1": "Rosja",
+        "pair2": "Kraj dysponujący na świecie największą powierzchnią"
+      },
+      {
+        "pair1": "Tajwan",
+        "pair2": "Obszar posiadający władzę, uznawany przez niektóre kraje, a przez Chiny traktowany jako prowincja zbuntowana"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co stanowi jeden z trzech podstawowych warunków uznania danego obszaru za państwo?",
+        "options": [
+          "Posiadanie stałej armii oraz własnej waluty",
+          "Przynależność do większości sojuszy zbrojnych",
+          "Posiadanie suwerennej władzy oraz terytorium",
+          "Uznanie obszaru przez wszystkie państwa świata"
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z definicją, państwo to obszar wyznaczony granicami, posiadający ludność oraz sprawujący suwerenną władzę."
+      },
+      {
+        "question": "Jak nazywa się terytorium państwa całkowicie otoczone przez obszar i granice innego, pojedynczego kraju?",
+        "options": [
+          "Eksklawa",
+          "Enklawa",
+          "Kolonia",
+          "Prowincja"
+        ],
+        "answer": "B",
+        "explanation": "Enklawa to terytorium jednego kraju całkowicie otoczone przez terytorium innego państwa (np. San Marino na terenie Włoch)."
+      },
+      {
+        "question": "Które z wymienionych państw pełni obecnie funkcję państwa-obserwatora w Organizacji Narodów Zjednoczonych?",
+        "options": [
+          "Republika Tajwanu",
+          "Sahara Zachodnia",
+          "Państwo Watykańskie",
+          "Republika Kosowa"
+        ],
+        "answer": "C",
+        "explanation": "Watykan (obok Palestyny) oficjalnie posiada w ONZ status państwa-obserwatora, dlatego jest wliczany do łącznej liczby 195 państw."
+      },
+      {
+        "question": "Ile wynosi oficjalna liczba państw na świecie według przynależności do Organizacji Narodów Zjednoczonych?",
+        "options": [
+          "Równe 190 państw",
+          "Równe 195 państw",
+          "Równe 201 państw",
+          "Równe 204 państwa"
+        ],
+        "answer": "B",
+        "explanation": "Oficjalna liczba państw to 195, co stanowi sumę 193 pełnoprawnych członków ONZ oraz dwóch państw-obserwatorów (Watykan i Palestyna)."
+      },
+      {
+        "question": "Czym charakteryzuje się eksklawa w odróżnieniu od enklawy?",
+        "options": [
+          "Jest otoczona przez terytorium jednego państwa",
+          "Jest oddzielona od państwa przez inne terytoria",
+          "Ma pełną niezależność gospodarczą od metropolii",
+          "Stanowi obszar o nieustalonym statusie prawnym"
+        ],
+        "answer": "B",
+        "explanation": "Eksklawa (np. obwód kaliningradzki) to część państwa oddzielona od głównego terytorium przez obszar innych państw."
+      },
+      {
+        "question": "Który z podanych obszarów stanowi obecnie przykład funkcjonującego terytorium zależnego?",
+        "options": [
+          "Republika Południowa",
+          "Obwód kaliningradzki",
+          "Sahara Zachodnia",
+          "Gujana Francuska"
+        ],
+        "answer": "D",
+        "explanation": "Gujana Francuska w Ameryce Południowej to przykład współczesnego terytorium zależnego, podlegającego zwierzchnictwu Francji."
+      },
+      {
+        "question": "W jaki sposób podzielono funkcje stołeczne w państwie zwanym Republiką Południowej Afryki?",
+        "options": [
+          "Kapsztad jest stolicą formalną, a Pretoria siedzibą rządu",
+          "Pretoria jest stolicą formalną, a Kapsztad siedzibą rządu",
+          "Johannesburg jest stolicą formalną, a Pretoria siedzibą rządu",
+          "Kapsztad jest stolicą formalną, a Johannesburg siedzibą rządu"
+        ],
+        "answer": "A",
+        "explanation": "W RPA Kapsztad jest stolicą konstytucyjną (formalną - siedzibą parlamentu), a Pretoria to stolica realna, czyli siedziba rządu."
+      },
+      {
+        "question": "Jaką maksymalną szerokość mogą mieć wody terytorialne wyznaczane przez dane państwo nadmorskie?",
+        "options": [
+          "Do 12 mil morskich od linii brzegowej",
+          "Do 24 mil morskich od linii brzegowej",
+          "Do 50 mil morskich od linii brzegowej",
+          "Do 200 mil morskich od linii brzegowej"
+        ],
+        "answer": "A",
+        "explanation": "Wody terytorialne, które zaliczają się do terytorium każdego państwa nadmorskiego, mają maksymalną szerokość 12 mil morskich."
+      },
+      {
+        "question": "Jakie wyłączne prawo przysługuje państwu nadmorskiemu w obrębie 200-milowej wyłącznej strefy ekonomicznej?",
+        "options": [
+          "Zakaz przepływu obcych statków i lotów",
+          "Prawo do korzystania z zasobów wodnych",
+          "Włączanie strefy do wód terytorialnych",
+          "Budowa wysp bez zgody państw sąsiednich"
+        ],
+        "answer": "B",
+        "explanation": "W tej strefie państwu przysługuje wyłączne prawo do prowadzenia badań, eksploatacji złóż surowców mineralnych oraz czerpania korzyści z zasobów żywych."
+      },
+      {
+        "question": "Który dokument wprowadził całkowity zakaz wydobywania surowców na Antarktydzie obowiązujący do 2048 roku?",
+        "options": [
+          "Dokument zwany protokołem madryckim z 1991 roku",
+          "Pierwotny układ o statusie Antarktydy z 1959 roku",
+          "Porozumienie waszyngtońskie zawarte w 1980 roku",
+          "Uzupełniający układ międzynarodowy z 1985 roku"
+        ],
+        "answer": "A",
+        "explanation": "Protokół madrycki podpisany w 1991 roku wprowadził restrykcyjny zakaz eksploatacji surowców mineralnych na tym kontynencie do 2048 roku."
+      },
+      {
+        "question": "Które z wymienionych państw dysponuje obecnie największą powierzchnią terytorialną na świecie?",
+        "options": [
+          "Chiny",
+          "Rosja",
+          "Kanada",
+          "Brazylia"
+        ],
+        "answer": "B",
+        "explanation": "Rosja posiada największe terytorium na kuli ziemskiej, wynoszące ponad 17,1 mln km kwadratowych."
+      },
+      {
+        "question": "Jaką cechą charakteryzują się obszary takie jak Górski Karabach, Naddniestrze oraz Somaliland?",
+        "options": [
+          "Mają odrębną władzę, ale nie są uznawane na świecie",
+          "Należą do ONZ, ale nie biorą udziału w głosowaniach",
+          "Są to przykłady enklaw otoczonych przez inne państwa",
+          "Mają status terytoriów całkowicie zależnych od innych"
+        ],
+        "answer": "A",
+        "explanation": "Te obszary formalnie sprawują niezależną władzę (suwerenność wewnątrz), ale nie są oficjalnie uznawane za państwa przez inne kraje (brak uznania międzynarodowego)."
+      },
+      {
+        "question": "Jaki warunek szerokości musi być spełniony, aby morska zatoka została zaliczona do morskich wód wewnętrznych?",
+        "options": [
+          "Szerokość cieśniny nie może przekraczać 12 mil morskich",
+          "Szerokość cieśniny nie może przekraczać 24 mil morskich",
+          "Szerokość cieśniny nie może przekraczać 50 mil morskich",
+          "Szerokość cieśniny nie może przekraczać 200 mil morskich"
+        ],
+        "answer": "B",
+        "explanation": "Morskie wody wewnętrzne obejmują zatoki tylko w przypadku, gdy szerokość cieśniny łączącej je z morzem otwartym nie przekracza 24 mil morskich."
+      },
+      {
+        "question": "Na jakiej drodze prawno-historycznej powstało w 2011 roku najmłodsze państwo świata, czyli Sudan Południowy?",
+        "options": [
+          "W wyniku secesji i potwierdzającego ją referendum",
+          "Przez podział państwa narzucony przez władze ONZ",
+          "Wskutek uzyskania niepodległości po dekolonizacji",
+          "Na skutek połączenia kilku małych terytoriów w jedno"
+        ],
+        "answer": "A",
+        "explanation": "Sudan Południowy uzyskał niepodległość na skutek udanej secesji, poprzedzonej długą wojną domową, o której ostatecznie przesądziły wyniki referendum."
+      },
+      {
+        "question": "Z jakiego zasadniczego powodu ustalenie oficjalnej liczby suwerennych państw napotyka w praktyce trudności?",
+        "options": [
+          "Część terytoriów to zbuntowane prowincje innych państw",
+          "Prawo międzynarodowe całkowicie zakazuje liczenia państw",
+          "Dokumenty ONZ nie precyzują minimalnej liczby ludności",
+          "Proces uznawania państw wymaga zgody wszystkich krajów"
+        ],
+        "answer": "A",
+        "explanation": "Obszary takie jak Tajwan posiadają w praktyce terytorium i suwerenność, ale w relacjach dyplomatycznych są traktowane przez część państw (np. Chiny) jako zbuntowane prowincje."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Enklawa to część państwa oddzielona od głównego terytorium powierzchnią innego kraju, czego flagowym przykładem jest obwód kaliningradzki.",
+        "answer": false,
+        "explanation": "Zdanie zawiera błędną definicję. Obwód kaliningradzki to eksklawa. Enklawa to terytorium jednego kraju całkowicie otoczone przez obszar i granice innego państwa (np. San Marino)."
+      },
+      {
+        "sentence": "Transformacja systemowa w Czechosłowacji doprowadziła do podziału tego kraju na dwa niepodległe państwa: Czechy i Słowację w 1989 roku.",
+        "answer": false,
+        "explanation": "Podział Czechosłowacji na dwa państwa nastąpił w 1993 roku, a nie w roku 1989."
+      },
+      {
+        "sentence": "Gujana Francuska położona w Ameryce Południowej to przykład współczesnego terytorium zależnego, które podlega zwierzchnictwu Holandii.",
+        "answer": false,
+        "explanation": "Gujana Francuska jest terytorium zależnym podlegającym zwierzchnictwu Francji, a nie Holandii."
+      },
+      {
+        "sentence": "W wyniku rozpadu Związku Socjalistycznych Republik Radzieckich (ZSRR) powstało łącznie 15 niepodległych państw, z których 8 leży całkowicie lub częściowo w Europie.",
+        "answer": true,
+        "explanation": "Zgodnie z faktami i podsumowaniem działu, z rozpadu ZSRR powstało 15 państw, z czego 8 znajduje się w Europie (w tym Rosja i Kazachstan częściowo)."
+      },
+      {
+        "sentence": "Wyłączna strefa ekonomiczna to pas wód o szerokości do 12 mil morskich, w którym tylko państwu nadmorskiemu przysługuje prawo do korzystania ze złóż surowców mineralnych.",
+        "answer": false,
+        "explanation": "Pas wód o szerokości do 12 mil morskich to wody terytorialne. Wyłączna strefa ekonomiczna to obszar sięgający do 200 mil morskich od wybrzeża."
+      },
+      {
+        "sentence": "Zgodnie z protokołem madryckim z 1991 roku, będącym uzupełnieniem Układu antarktycznego, wydobywanie surowców mineralnych na Antarktydzie jest zakazane do 2048 roku.",
+        "answer": true,
+        "explanation": "Jest to prawda. Protokół madrycki wprowadził restrykcyjny zakaz eksploatacji surowców na Antarktydzie obowiązujący do 2048 roku."
+      },
+      {
+        "sentence": "W Republice Południowej Afryki funkcjonuje tylko jedna stolica – Kapsztad, która koncentruje w sobie władzę konstytucyjną i jest realną siedzibą rządu.",
+        "answer": false,
+        "explanation": "W RPA funkcjonują dwie stolice. Kapsztad jest stolicą konstytucyjną (formalną), natomiast siedzibą rządu (stolicą realną) jest Pretoria."
+      },
+      {
+        "sentence": "Oficjalna liczba państw na świecie wynosi równe 200, co jest bezpośrednio dyktowane przez warunki przyjęte podczas powoływania Organizacji Narodów Zjednoczonych.",
+        "answer": false,
+        "explanation": "Oficjalna liczba państw to 195 (obejmuje 193 pełnoprawnych członków ONZ oraz dwa państwa-obserwatorów: Watykan i Palestynę)."
+      },
+      {
+        "sentence": "Morskie zatoki zalicza się w poczet morskich wód wewnętrznych danego państwa pod warunkiem, że szerokość prowadzących do nich cieśnin wynosi mniej niż 24 mile morskie.",
+        "answer": true,
+        "explanation": "Zgodnie z zasadami podziału wód, jest to oficjalny wymóg uznania zatoki za morskie wody wewnętrzne."
+      },
+      {
+        "sentence": "Największym państwem świata pod względem powierzchni jest Rosja, z kolei najmniejszym San Marino, którego terytorium zajmuje zaledwie 0,44 km2.",
+        "answer": false,
+        "explanation": "Najmniejszym państwem świata nie jest San Marino, lecz Watykan, którego powierzchnia wynosi dokładnie 0,44 km2."
+      },
+      {
+        "sentence": "Tajwan nie jest wliczany do grupy 195 oficjalnie uznawanych państw, ponieważ mimo posiadania suwerennej władzy, przez władze Chin traktowany jest jako zbuntowana prowincja.",
+        "answer": true,
+        "explanation": "Mimo faktycznej niepodległości, z powodu sprzeciwu Chin, Tajwan ma ograniczony status dyplomatyczny i nie jest zaliczany do oficjalnej listy państw ONZ."
+      },
+      {
+        "sentence": "Somaliland to przykład w pełni zintegrowanego terytorium zależnego, które znajduje się pod administracją rządu w Wielkiej Brytanii.",
+        "answer": false,
+        "explanation": "Somaliland to część Somalii posiadająca własną władzę o nieustalonym statusie międzynarodowym, dążąca do niepodległości, a nie brytyjskie terytorium zależne."
+      }
+    ]
+  }
+}

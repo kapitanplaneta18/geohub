@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz3-t2",
+    "title": "Globalizacja",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Globalizacja",
+        "definition": "Zjawisko polegające na przenikaniu się i łączeniu systemów gospodarczych państw, a także ujednolicaniu upodobań i zachowań ludzi żyjących w różnych miejscach na Ziemi."
+      },
+      {
+        "term": "Indeks globalizacji",
+        "definition": "Miernik przyjmujący wartość od 0 do 100, ukazujący stopień gospodarczego, społecznego i politycznego zintegrowania danego kraju z resztą świata."
+      },
+      {
+        "term": "Płaszczyzna gospodarcza globalizacji",
+        "definition": "Prowadzi do formowania się ogólnoświatowego systemu ekonomicznego. Jej przejawy to m.in. tworzenie globalnego rynku, wzrost znaczenia korporacji i standaryzacja produktów."
+      },
+      {
+        "term": "Płaszczyzna społeczna globalizacji",
+        "definition": "Wiąże się ze swobodą przepływu osób, ułatwieniami w podróżowaniu, a także przemianami kulturowymi, w tym upowszechnianiem jednolitego stylu w kulturze masowej."
+      },
+      {
+        "term": "Płaszczyzna polityczna globalizacji",
+        "definition": "Obejmuje procesy integracyjne państw, powstawanie bloków gospodarczo-politycznych, porozumienia o ruchu bezwizowym oraz sojusze wojskowe (np. NATO)."
+      },
+      {
+        "term": "Międzynarodowe korporacje",
+        "definition": "Wielkie przedsiębiorstwa czerpiące największe zyski z globalizacji, często przenoszące produkcję do innych państw, aby obniżać koszty i maksymalizować zyski."
+      },
+      {
+        "term": "Standaryzacja produktów",
+        "definition": "Ujednolicanie wyrobów, będące przejawem gospodarczej globalizacji. Może ulegać modyfikacjom pod wpływem lokalnych różnic religijnych i kulturowych."
+      },
+      {
+        "term": "Drenaż mózgów",
+        "definition": "Jeden z negatywnych skutków globalizacji, polegający na odpływie za granicę wysoko wykwalifikowanych specjalistów w poszukiwaniu lepszych warunków pracy."
+      },
+      {
+        "term": "Pozytywne skutki gospodarcze globalizacji dla Polski",
+        "definition": "Zmniejszenie bezrobocia dzięki inwestycjom światowych koncernów, spadek cen standaryzowanych wyrobów oraz swobodny przepływ kapitału i towarów."
+      },
+      {
+        "term": "Negatywne skutki gospodarcze globalizacji dla Polski",
+        "definition": "Zmonopolizowanie rynków przez międzynarodowe koncerny, zmniejszenie konkurencyjności mniejszych polskich firm oraz transfer zysków koncernów za granicę."
+      },
+      {
+        "term": "Pozytywne skutki społeczno-kulturowe globalizacji dla Polski",
+        "definition": "Łatwiejszy dostęp do wiedzy i informacji, możliwość promowania polskiej kultury za granicą oraz poszerzenie wiedzy o innych obyczajach."
+      },
+      {
+        "term": "Negatywne skutki społeczno-kulturowe globalizacji dla Polski",
+        "definition": "Zastępowanie tradycyjnych, lokalnych marek towarami globalnymi oraz zacieranie się różnorodności kulturowej poprzez przejmowanie wzorców z zagranicy."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Tworzenie się globalnego rynku towarów, usług i rozwój gospodarki opartej na wiedzy",
+        "pair2": "Przejaw globalizacji na płaszczyźnie gospodarczej"
+      },
+      {
+        "pair1": "Kształtowanie norm i poglądów przez globalne media oraz upowszechnianie jednolitego stylu w kulturze",
+        "pair2": "Przejaw globalizacji na płaszczyźnie społeczno-kulturowej"
+      },
+      {
+        "pair1": "Działania Interpolu, ruch bezwizowy i wsparcie sojuszy wojskowych np. NATO",
+        "pair2": "Przejaw globalizacji na płaszczyźnie politycznej"
+      },
+      {
+        "pair1": "Zmniejszenie bezrobocia w wyniku bezpośrednich inwestycji zagranicznych koncernów",
+        "pair2": "Pozytywny skutek globalizacji na rynek pracy w Polsce"
+      },
+      {
+        "pair1": "Zmniejszanie roli polskiego rządu względem ponadnarodowych organizacji",
+        "pair2": "Negatywny skutek globalizacji na płaszczyźnie politycznej dla państwa"
+      },
+      {
+        "pair1": "Transfer przestarzałych, niekiedy szkodliwych dla środowiska technologii z krajów rozwiniętych do Polski",
+        "pair2": "Negatywny skutek gospodarczo-środowiskowy globalizacji"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Na czym polega zjawisko globalizacji we współczesnym świecie?",
+        "options": [
+          "Na łączeniu systemów gospodarczych państw i ujednolicaniu zachowań ludzi.",
+          "Na całkowitym izolowaniu się państw słabo rozwiniętych od reszty globu.",
+          "Na tworzeniu zamkniętych barier celnych wewnątrz poszczególnych kontynentów.",
+          "Na radykalnym ograniczaniu swobodnego przepływu osób oraz idei politycznych."
+        ],
+        "answer": "A",
+        "explanation": "Globalizacja to przenikanie się i łączenie systemów gospodarczych państw oraz ujednolicanie upodobań i zachowań ludzi w różnych miejscach na Ziemi."
+      },
+      {
+        "question": "Które państwa odznaczały się najwyższym indeksem globalizacji w 2017 roku?",
+        "options": [
+          "Słabo zaludnione państwa afrykańskie.",
+          "Kraje europejskie, w tym Szwajcaria.",
+          "Mocarstwa azjatyckie, na czele z Chinami.",
+          "Rozległe terytorialnie kraje obu Ameryk."
+        ],
+        "answer": "B",
+        "explanation": "W 2017 r. najwyższym indeksem globalizacji odznaczały się kraje europejskie, ze Szwajcarią, Holandią i Belgią na czele."
+      },
+      {
+        "question": "Jakie państwa zazwyczaj osiągają najniższe wartości indeksu globalizacji na świecie?",
+        "options": [
+          "Duże państwa o bardzo wysokim poziomie cyfryzacji.",
+          "Niewielkie kraje o bardzo słabym poziomie rozwoju.",
+          "Rozległe terytorialnie i silne państwa w Europie.",
+          "Silnie uprzemysłowione kraje Półwyspu Skandynawskiego."
+        ],
+        "answer": "B",
+        "explanation": "Według podręcznika, najmniej zglobalizowane są niewielkie państwa słabo rozwinięte."
+      },
+      {
+        "question": "Co precyzyjnie ukazuje wartość indeksu globalizacji?",
+        "options": [
+          "Stopień wszechstronnego zintegrowania państwa z resztą świata.",
+          "Roczny poziom wydobycia najważniejszych surowców w kraju.",
+          "Dokładną liczbę wszystkich korporacji zarejestrowanych w kraju.",
+          "Wielkość produktu krajowego brutto w rolnictwie i leśnictwie."
+        ],
+        "answer": "A",
+        "explanation": "Indeks globalizacji to miernik ukazujący stopień gospodarczego, społecznego i politycznego zintegrowania danego kraju z resztą świata."
+      },
+      {
+        "question": "Które z wymienionych podmiotów czerpią obecnie największe zyski z postępującego procesu globalizacji?",
+        "options": [
+          "Lokalne i całkowicie państwowe przedsiębiorstwa usługowe.",
+          "Słabo rozwinięte kraje znajdujące się na kontynencie afrykańskim.",
+          "Wielkie korporacje charakteryzujące się zasięgiem międzynarodowym.",
+          "Tradycyjne i niewielkie zakłady rzemieślnicze w krajach zachodniej Europy."
+        ],
+        "answer": "C",
+        "explanation": "W tekście podkreślono, że mimo zysków różnych krajów, najwięcej korzyści z globalizacji uzyskują jednak wielkie międzynarodowe korporacje."
+      },
+      {
+        "question": "Do której płaszczyzny globalizacji zalicza się powstawanie sojuszy wojskowych (np. NATO)?",
+        "options": [
+          "Płaszczyzny dotyczącej uwarunkowań gospodarczych.",
+          "Płaszczyzny związanej z uwarunkowaniami społecznymi.",
+          "Płaszczyzny obejmującej uwarunkowania kulturowe w kraju.",
+          "Płaszczyzny charakteryzującej się współpracą polityczną."
+        ],
+        "answer": "D",
+        "explanation": "Wspólne działania o charakterze globalnym, na przykład walka z terroryzmem czy sojusze wojskowe (NATO), stanowią przejaw globalizacji na płaszczyźnie politycznej."
+      },
+      {
+        "question": "Które zjawisko stanowi bezpośredni przejaw globalizacji na płaszczyźnie społeczno-kulturowej?",
+        "options": [
+          "Szybka standaryzacja produktów na rynku międzynarodowym.",
+          "Powszechne upowszechnianie jednolitego stylu w masowej kulturze.",
+          "Szybkie powstawanie globalnego rynku dla najnowszych towarów.",
+          "Bieżąca koordynacja działań Interpolu przeciw przestępczości."
+        ],
+        "answer": "B",
+        "explanation": "Upowszechnianie jednolitego stylu w kulturze masowej (np. w kinie czy muzyce) to wyraźny przejaw globalizacji na płaszczyźnie społeczno-kulturowej."
+      },
+      {
+        "question": "Który z poniższych procesów zalicza się wyłącznie do gospodarczej płaszczyzny globalizacji?",
+        "options": [
+          "Gwałtowny wzrost znaczenia wielkich międzynarodowych korporacji.",
+          "Znacznie swobodniejszy przepływ osób poszukujących lepszej pracy.",
+          "Wyraźne kształtowanie ludzkich poglądów przez globalne media.",
+          "Międzynarodowe upowszechnianie kultury lokalnych społeczności."
+        ],
+        "answer": "A",
+        "explanation": "Wzrost znaczenia korporacji międzynarodowych, rozwój handlu oraz globalnego rynku usług finansowych należą do przejawów na płaszczyźnie gospodarczej. Pozostałe to płaszczyzna społeczno-kulturowa."
+      },
+      {
+        "question": "Porozumienia między poszczególnymi państwami dotyczące ruchu bezwizowego są przejawem globalizacji na płaszczyźnie:",
+        "options": [
+          "Obejmującej relacje na tle lokalnych kwestii środowiskowych.",
+          "Dotyczącej globalnej wymiany wzorców czysto kulturowych.",
+          "Obejmującej tworzenie wspólnych ogólnoświatowych rynków.",
+          "Związanej z procesami oraz uwarunkowaniami czysto politycznymi."
+        ],
+        "answer": "D",
+        "explanation": "Podpisane przez poszczególne państwa porozumienia o ruchu bezwizowym stanowią przejaw globalizacji na płaszczyźnie politycznej."
+      },
+      {
+        "question": "Które negatywne zjawisko przeciwnicy globalizacji odnoszą bezpośrednio do sfery społeczno-kulturowej?",
+        "options": [
+          "Gwałtowną monopolizację rynków przez olbrzymie, bogate koncerny.",
+          "Postępujące ubożenie języków ojczystych na rzecz języka angielskiego.",
+          "Szybkie zmniejszanie się roli państwowych rządów względem organizacji.",
+          "Nieustanny napływ przestarzałych technologii środowiskowych do kraju."
+        ],
+        "answer": "B",
+        "explanation": "Ubożenie ojczystych języków oraz zacieranie odrębności kulturowej są negatywnymi skutkami w obszarze społeczno-kulturowym. Odpowiedzi dotyczące monopolizacji lub technologii to sfera gospodarcza."
+      },
+      {
+        "question": "W jaki sposób międzynarodowe korporacje starają się najczęściej optymalizować swoje zyski na rynkach światowych?",
+        "options": [
+          "Koncentrują produkcję wyłącznie w najlepiej rozwiniętych państwach.",
+          "Stanowczo wzbraniają się przed zatrudnianiem specjalistów z zagranicy.",
+          "Przenoszą produkcję przemysłową w regiony o tańszej sile roboczej.",
+          "Celowo ignorują rynki zbytu we wschodzących gospodarkach światowych."
+        ],
+        "answer": "C",
+        "explanation": "Korporacje międzynarodowe mogą optymalizować działalność, przenosząc między innymi produkcję oraz zatrudnienie do krajów dysponujących tańszą, a jednocześnie wykwalifikowaną siłą roboczą."
+      },
+      {
+        "question": "Który negatywny skutek odnosi się do płaszczyzny gospodarczej globalizacji na przykładzie Polski?",
+        "options": [
+          "Wyraźne ubożenie rodzimego języka z powodu narastających obcych wpływów.",
+          "Systematyczny transfer zysków koncernów do ich macierzystych państw.",
+          "Silny i nieustanny rozwój nowoczesnego lotnictwa pasażerskiego w kraju.",
+          "Znacznie większa możliwość podejmowania legalnej pracy poza granicami."
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z podręcznikiem, negatywnym skutkiem globalizacji dla Polski w sferze gospodarczej jest między innymi wywożenie (transfer) zysków przez zagraniczne koncerny, co zmniejsza wpływy podatkowe kraju."
+      },
+      {
+        "question": "Z jakiego powodu biedniejsze i słabiej rozwinięte państwa są często marginalizowane na arenie gospodarki światowej?",
+        "options": [
+          "Tworzą produkty zbytnio wyprzedzające technologicznie resztę globu.",
+          "Bardzo często całkowicie odrzucają propozycje zachodnich inwestorów.",
+          "Mają bardzo znikomy wpływ na decyzje zapadające w skali całego świata.",
+          "Charakteryzują się bardzo wysokimi kosztami zatrudnienia w przemyśle."
+        ],
+        "answer": "C",
+        "explanation": "Tekst wprost wskazuje, że państwa biedne, które z racji swojej pozycji mają marginalny wpływ na ważne światowe decyzje, są spychane w globalnej gospodarce na boczny tor."
+      },
+      {
+        "question": "Dlaczego w krajach o niskim poziomie rozwoju globalizacja i nowa technologia mogą spotęgować problem bezrobocia?",
+        "options": [
+          "Powodują w bardzo szybkim tempie rygorystyczne zamknięcie granic państwa.",
+          "Wiążą się bezpośrednio z zastępowaniem pracy ludzkiej przez nowoczesne maszyny.",
+          "Trwale zmniejszają globalne zapotrzebowanie na surowce mineralne i naturalne.",
+          "Wymuszają niezwykle pilną likwidację każdego rodzaju lokalnego przemysłu ciężkiego."
+        ],
+        "answer": "B",
+        "explanation": "W krajach o niskim poziomie rozwoju szybka automatyzacja wprowadzana przez korporacje, w ramach której maszyny i roboty zastępują ludzi, potrafi znacznie zwiększyć skalę bezrobocia."
+      },
+      {
+        "question": "Z jakiego powodu państwa stosujące silny izolacjonizm (np. Korea Północna) odczuwają skutki procesów globalizacji?",
+        "options": [
+          "Ponieważ całkowicie otworzyły własne rynki na duże amerykańskie koncerny produkcyjne.",
+          "Ponieważ w pełni zrezygnowały z utrzymywania potężnych, licznych oddziałów wojskowych.",
+          "Ponieważ muszą w sposób nieunikniony utrzymywać kontakty z wybranymi państwami na świecie.",
+          "Ponieważ formalnie należą do najściślejszego grona największych mocarstw technologicznych."
+        ],
+        "answer": "C",
+        "explanation": "Według podręcznika procesy globalizacyjne docierają wszędzie, ponieważ nawet zamknięte państwa muszą prowadzić wymianę polityczną lub wybiórczo handlową, co włącza je w sieć wzajemnych powiązań."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Podpisanie porozumienia o ruchu bezwizowym między państwami to główny przejaw społeczno-kulturowej płaszczyzny globalizacji.",
+        "answer": false,
+        "explanation": "Porozumienia między państwami dotyczące ruchu bezwizowego należą do politycznej, a nie społeczno-kulturowej płaszczyzny globalizacji."
+      },
+      {
+        "sentence": "Proces globalizacji sprawia, że najwięcej zyskują państwa biedne, co prowadzi do szybkiego wyrównania poziomu rozwoju gospodarczego na świecie.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem, państwa biedne są często marginalizowane w gospodarce światowej, a największe zyski z globalizacji osiągają kraje wysoko rozwinięte oraz międzynarodowe korporacje."
+      },
+      {
+        "sentence": "Skutki procesów globalizacyjnych obejmują cały świat, w tym państwa próbujące stosować politykę izolacjonizmu, takie jak Korea Północna czy Iran.",
+        "answer": true,
+        "explanation": "Nawet państwa odizolowane muszą utrzymywać pewne kontakty na płaszczyźnie politycznej lub gospodarczej, przez co również odczuwają skutki globalizacji."
+      },
+      {
+        "sentence": "W 2017 roku najwyższym indeksem globalizacji na świecie odznaczały się potężne mocarstwa azjatyckie oraz rozległe państwa afrykańskie.",
+        "answer": false,
+        "explanation": "W 2017 roku czołówkę rankingu indeksu globalizacji stanowiły kraje europejskie, przede wszystkim Szwajcaria, Holandia i Belgia."
+      },
+      {
+        "sentence": "Rozwój gospodarki opartej na wiedzy oraz innowacje w pracach badawczo-rozwojowych to zjawiska wchodzące w zakres gospodarczej płaszczyzny globalizacji.",
+        "answer": true,
+        "explanation": "Rozwój gospodarki opartej na wiedzy to jeden z głównych przejawów procesu globalizacji w sferze gospodarczej."
+      },
+      {
+        "sentence": "Wartość indeksu globalizacji dla Polski systematycznie spada, co sygnalizuje jej powolne zamykanie się na współpracę międzynarodową.",
+        "answer": false,
+        "explanation": "Wartość indeksu globalizacji dla Polski nieustannie rośnie (w 2017 r. wyniosła 81,3), co dowodzi rosnącej otwartości na otoczenie międzynarodowe."
+      },
+      {
+        "sentence": "Największe zyski finansowe z postępującej globalizacji czerpią niewielkie, lokalne i państwowe zakłady pracy.",
+        "answer": false,
+        "explanation": "Podręcznik jednoznacznie wskazuje, że największe zyski z globalizacji osiągają wielkie korporacje międzynarodowe, optymalizujące swoje koszty w skali globu."
+      },
+      {
+        "sentence": "Ubożenie języków ojczystych spowodowane dominacją języka angielskiego to negatywny skutek zaliczany do społeczno-kulturowej płaszczyzny globalizacji.",
+        "answer": true,
+        "explanation": "Przeciwnicy globalizacji zaliczają ubożenie języków ojczystych i zanikanie odrębności kulturowej do negatywnych skutków w obszarze społeczno-kulturowym."
+      },
+      {
+        "sentence": "Pełna standaryzacja oznacza, że globalne marki, takie jak McDonald's, sprzedają na całym świecie identyczne produkty, ignorując lokalne różnice religijne.",
+        "answer": false,
+        "explanation": "Pomimo globalnej standaryzacji, produkty bywają modyfikowane pod wpływem różnic religijnych lub kulturowych (np. brak wieprzowiny i wołowiny w indyjskich restauracjach McDonald's)."
+      },
+      {
+        "sentence": "Działalność międzynarodowej organizacji policyjnej Interpol jest przejawem globalizacji na płaszczyźnie politycznej.",
+        "answer": true,
+        "explanation": "Międzynarodowa współpraca policyjna oraz działania globalne, takie jak walka z terroryzmem, należą do politycznej płaszczyzny globalizacji."
+      },
+      {
+        "sentence": "Transfer technologii z krajów wysoko rozwiniętych do Polski ma wyłącznie wymiar pozytywny, dostarczając w pełni ekologicznych, najnowocześniejszych rozwiązań.",
+        "answer": false,
+        "explanation": "Jednym z negatywnych skutków globalizacji dla Polski jest zjawisko transferu technologii przestarzałych, a czasem także szkodliwych dla środowiska naturalnego."
+      },
+      {
+        "sentence": "Zastępowanie rąk ludzkich przez maszyny produkcyjne stanowi największe ryzyko gwałtownego wzrostu bezrobocia w krajach o niskim poziomie rozwoju.",
+        "answer": true,
+        "explanation": "Automatyzacja produkcji w państwach słabo rozwiniętych może znacznie zwiększyć poziom bezrobocia, w przeciwieństwie do krajów wysoko rozwiniętych, gdzie stymuluje to inne usługi edukacyjne i badawcze."
+      }
+    ]
+  }
+}

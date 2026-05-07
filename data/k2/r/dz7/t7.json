@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t7",
+    "title": "Krajobraz kulturowy i jego ochrona",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Krajobraz kulturowy",
+        "definition": "Historycznie ukształtowany fragment przestrzeni geograficznej, powstały w procesie zagospodarowania krajobrazów przyrodniczych przez człowieka i cechujący się regionalną odrębnością."
+      },
+      {
+        "term": "Krajobraz miejski",
+        "definition": "Typ krajobrazu kulturowego charakteryzujący się zwartą i wysoką zabudową, gęstą siecią ulic, parkami oraz silnie rozwiniętą infrastrukturą komunikacyjną."
+      },
+      {
+        "term": "Krajobraz wiejski",
+        "definition": "Typ krajobrazu kulturowego obejmujący układ pól uprawnych, zabudowę zagrodową i sakralną oraz niematerialne zasoby, takie jak lokalne tradycje i folklor."
+      },
+      {
+        "term": "Degradacja krajobrazu kulturowego",
+        "definition": "Proces obniżenia jakości przestrzeni, obejmujący pogorszenie stanu środowiska, zaburzenie ładu przestrzennego i utratę dotychczasowych funkcji."
+      },
+      {
+        "term": "Degradacja krajobrazu wiejskiego (przyczyny)",
+        "definition": "Silna presja urbanizacyjna, budowa rozległych osiedli, centrów logistycznych i zakładów przemysłowych na terenach dotychczas rolniczych."
+      },
+      {
+        "term": "Degradacja krajobrazu miejskiego (przyczyny)",
+        "definition": "Niewłaściwe zagospodarowanie wolnych obszarów, brak inwestycji w infrastrukturę, a niekiedy upadek gospodarczy i masowe wyludnianie miast."
+      },
+      {
+        "term": "Planowanie przestrzenne",
+        "definition": "Działalność zmierzająca do racjonalnego zagospodarowania przestrzeni z uwzględnieniem przyrody oraz bieżących i przyszłych potrzeb społeczeństwa."
+      },
+      {
+        "term": "Studium uwarunkowań i kierunków zagospodarowania przestrzennego",
+        "definition": "Podstawowy dokument samorządowy określający politykę przestrzenną gminy, w którym analizuje się i utrwala wytyczne dla ochrony krajobrazu."
+      },
+      {
+        "term": "Miejscowy plan zagospodarowania przestrzennego",
+        "definition": "Akt prawa miejscowego określający szczegółowe przeznaczenie terenów, zasady ich zabudowy oraz utrzymania ładu przestrzennego w gminie."
+      },
+      {
+        "term": "Uchwała krajobrazowa",
+        "definition": "Lokalny akt prawny regulujący zasady sytuowania obiektów małej architektury, szyldów, ogrodzeń i wielkoformatowych reklam w celu ochrony krajobrazu."
+      },
+      {
+        "term": "Park kulturowy",
+        "definition": "Obszar podlegający ochronie ze względu na wyjątkowe wartości kulturowe i krajobrazowe, w tym cenne zabytki miejscowej tradycji osadniczej."
+      },
+      {
+        "term": "Detroit (przykład degradacji miejskiej)",
+        "definition": "Miasto w Stanach Zjednoczonych, w którym upadek przemysłu doprowadził do silnego wyludnienia i dominacji niszczejących pustostanów w krajobrazie."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Krajobraz kulturowy (definicja)",
+        "pair2": "Historycznie ukształtowany fragment przestrzeni o cechach indywidualnych dla danego regionu, zmieniony przez osadnictwo i gospodarkę."
+      },
+      {
+        "pair1": "Krajobraz wiejski (elementy niematerialne)",
+        "pair2": "Lokalne tradycje kulinarne, folklor i regionalne odmiany języka (gwary)."
+      },
+      {
+        "pair1": "Krajobraz miejski (zagrożenie)",
+        "pair2": "Ogólne niszczenie przestrzeni, powstawanie pustostanów i degradacja terenów po zlikwidowanych zakładach przemysłowych."
+      },
+      {
+        "pair1": "Ochrona krajobrazu (dokumenty samorządowe)",
+        "pair2": "Studium uwarunkowań oraz miejscowy plan zagospodarowania przestrzennego gminy."
+      },
+      {
+        "pair1": "Ochrona krajobrazu (uchwała krajobrazowa)",
+        "pair2": "Regulacja zakazująca umieszczania wielkoformatowych banerów i nieestetycznych reklam w centrach miast."
+      },
+      {
+        "pair1": "Ochrona krajobrazu (park kulturowy)",
+        "pair2": "Zabezpieczenie cennych układów osadniczych i architektonicznych, niekiedy wpisywanych na Listę światowego dziedzictwa UNESCO."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co jest podstawowym warunkiem uznania danego krajobrazu za krajobraz kulturowy?",
+        "options": [
+          "Występowanie w nim naturalnych elementów przyrody.",
+          "Występowanie w nim wytworów ludzkiej działalności.",
+          "Występowanie w nim wyłącznie obiektów ożywionych.",
+          "Występowanie w nim wyłącznie obiektów abiotycznych."
+        ],
+        "answer": "B",
+        "explanation": "Krajobraz kulturowy powstaje, gdy na danym terenie, oprócz obiektów przyrodniczych, występują wytwory ludzkiej działalności."
+      },
+      {
+        "question": "Na jakie dwa główne typy dzieli się krajobraz osadniczy powstały w wyniku działalności człowieka?",
+        "options": [
+          "Krajobraz naturalny oraz krajobraz zurbanizowany.",
+          "Krajobraz rolniczy oraz krajobraz uprzemysłowiony.",
+          "Krajobraz wiejski oraz krajobraz miejski osadniczy.",
+          "Krajobraz chroniony oraz krajobraz turystyczny."
+        ],
+        "answer": "C",
+        "explanation": "Krajobraz kulturowy powstały w wyniku działania mieszkańców danego obszaru dzieli się na krajobraz wiejski i krajobraz miejski."
+      },
+      {
+        "question": "Jak nazywa się forma ochrony obejmująca obiekty o wyjątkowych wartościach krajobrazowych i tradycji budowlanej?",
+        "options": [
+          "Park narodowy o statusie rezerwatu ścisłego.",
+          "Park kulturowy chroniący tradycję osadniczą.",
+          "Park krajobrazowy o znaczeniu przyrodniczym.",
+          "Park technologiczny dla rozwoju przemysłu."
+        ],
+        "answer": "B",
+        "explanation": "Parki kulturowe to obszary, na których chroni się obiekty o wyjątkowych wartościach kulturowych i krajobrazowych, w tym lokalne zabytki."
+      },
+      {
+        "question": "Jaki akt prawny uchwalany lokalnie reguluje zasady ustawiania małej architektury oraz umieszczania wielkoformatowych banerów w miastach?",
+        "options": [
+          "Krajowa ustawa o planowaniu przestrzennym.",
+          "Gminna oraz lokalna uchwała krajobrazowa.",
+          "Wojewódzkie zarządzenie rady ministrów.",
+          "Powiatowa ogólna dyrektywa budowlana."
+        ],
+        "answer": "B",
+        "explanation": "Uchwały krajobrazowe regulują zasady ustawiania małej architektury oraz zakazują umieszczania wielkoformatowych banerów w centralnych dzielnicach."
+      },
+      {
+        "question": "Jaki proces stanowi obecnie największe zagrożenie dla krajobrazu terenów wiejskich położonych w strefach podmiejskich dużych miast?",
+        "options": [
+          "Masowe wylesianie pod nowe uprawy rolne.",
+          "Ogromna presja urbanizacyjna i zabudowa.",
+          "Powstawanie wielkich kopalni odkrywkowych.",
+          "Rozwój tradycyjnych form gospodarowania."
+        ],
+        "answer": "B",
+        "explanation": "Tereny wiejskie wokół miast podlegają ogromnej presji urbanizacyjnej, co skutkuje powstawaniem rozległych osiedli i centrów logistycznych."
+      },
+      {
+        "question": "Jaki jest główny cel działań związanych z planowaniem przestrzennym w kontekście kształtowania krajobrazu kulturowego?",
+        "options": [
+          "Całkowite wyeliminowanie wpływu człowieka.",
+          "Stworzenie optymalnych warunków dla miast.",
+          "Zahamowanie wszelkiego rozwoju gospodarki.",
+          "Przekształcenie miast w tereny tylko rolnicze."
+        ],
+        "answer": "B",
+        "explanation": "Celem planowania przestrzennego jest stworzenie optymalnych warunków do rozwoju osadnictwa, produkcji i usług przy racjonalnym gospodarowaniu przestrzenią."
+      },
+      {
+        "question": "Co było główną przyczyną silnej degradacji krajobrazu miejskiego Detroit w pierwszej połowie XXI wieku?",
+        "options": [
+          "Rozwój masowej turystyki wypoczynkowej.",
+          "Gwałtowne i częste katastrofy naturalne.",
+          "Przemiany gospodarcze i upadek przemysłu.",
+          "Celowe działania planistyczne władz miasta."
+        ],
+        "answer": "C",
+        "explanation": "Degradacja krajobrazu Detroit została wywołana upadkiem przemysłu, przemianami gospodarczymi, problemami społecznymi oraz emigracją bogatszych mieszkańców."
+      },
+      {
+        "question": "Jaki jest niematerialny skutek degradacji krajobrazu wiejskiego wywołanej rosnącą liczbą napływowych mieszkańców?",
+        "options": [
+          "Zanikanie lokalnych tradycji, zwyczajów i gwary.",
+          "Wzrost znaczenia tradycyjnego rolnictwa wsie.",
+          "Powstawanie zupełnie nowych dialektów miejskich.",
+          "Rozwój masowych imprez folklorystycznych wsie."
+        ],
+        "answer": "A",
+        "explanation": "Skutkiem urbanizacji i napływu nowych mieszkańców na tereny wiejskie jest zanikanie tradycji, zwyczajów oraz regionalnych odmian języka, czyli gwary."
+      },
+      {
+        "question": "W jakich podstawowych dokumentach samorządowych utrwala się wytyczne dotyczące racjonalnego planowania przestrzeni w gminie?",
+        "options": [
+          "W rejestrze zabytków i ewidencji gruntów miejskich.",
+          "W studium uwarunkowań i miejscowym planie gminy.",
+          "W regionalnym programie rozwoju turystyki i usług.",
+          "W krajowej strategii zagospodarowania lasów państw."
+        ],
+        "answer": "B",
+        "explanation": "Ustalenia planistyczne utrwala się w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz w miejscowym planie zagospodarowania przestrzennego."
+      },
+      {
+        "question": "Które z poniższych działań stanowi przykład dbałości pojedynczego człowieka o ład przestrzenny i krajobraz kulturowy swojej okolicy?",
+        "options": [
+          "Budowa wielkopowierzchniowego centrum handlowego.",
+          "Stosowanie się do prawa dotyczącego estetyki elewacji.",
+          "Rezygnacja z segregacji wytwarzanych odpadów w domu.",
+          "Organizacja masowych imprez bez zgody władz miasta."
+        ],
+        "answer": "B",
+        "explanation": "Każdy człowiek może chronić krajobraz, stosując się do lokalnego prawa dotyczącego ładu przestrzennego, na przykład unikając wykańczania elewacji w jaskrawych kolorach."
+      },
+      {
+        "question": "W jaki sposób przekształcenie funkcji terenów wiejskich w strefach podmiejskich wpływa na ich środowisko ekologiczne i lokalną społeczność?",
+        "options": [
+          "Poprawia stabilność ekologiczną i wzmacnia dawne tradycje.",
+          "Zwiększa różnorodność biologiczną i zachowuje układ pól.",
+          "Zachwiawa stabilność ekologiczną, ale podnosi poziom życia.",
+          "Ogranicza rozwój gospodarczy i zubaża lokalną ludność."
+        ],
+        "answer": "C",
+        "explanation": "Rozwój zabudowy zachwiawa stabilność ekologiczną i powoduje degradację pierwotnego krajobrazu, jednak zwykle sprzyja rozwojowi gospodarczemu i podnosi poziom życia mieszkańców."
+      },
+      {
+        "question": "Co jest najbardziej charakterystycznym elementem krajobrazu kulturowego, odróżniającym go od obszarów wyłącznie przyrodniczych?",
+        "options": [
+          "Występowanie zróżnicowanej rzeźby terenu i klimatu.",
+          "Występowanie sieci osadniczej i infrastruktury dróg.",
+          "Występowanie naturalnych ekosystemów i zbiorników.",
+          "Występowanie pierwotnej szaty roślinnej i fauny leśnej."
+        ],
+        "answer": "B",
+        "explanation": "Krajobraz kulturowy odróżnia się od przyrodniczego obecnością antropogenicznych wytworów ludzkiej działalności, takich jak infrastruktura drogowa czy sieć osadnicza."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Krajobraz wiejski to wyłącznie materialne obiekty i tereny rolnicze, natomiast lokalne tradycje kulinarne i dialekty nie stanowią jego części.",
+        "answer": false,
+        "explanation": "Specyfika krajobrazu kulturowego wsi obejmuje również zasoby niematerialne, związane przede wszystkim z folklorem, takie jak dialekt i lokalne tradycje kulinarne."
+      },
+      {
+        "sentence": "Powstawanie rozległych osiedli i centrów logistycznych na terenach wiejskich zawsze prowadzi do pogorszenia poziomu życia mieszkańców.",
+        "answer": false,
+        "explanation": "Choć takie działania prowadzą do degradacji pierwotnego krajobrazu kulturowego i zachwiania stabilności ekologicznej, to zazwyczaj sprzyjają rozwojowi gospodarczemu i podnoszą poziom życia mieszkańców."
+      },
+      {
+        "sentence": "Podstawowym dokumentem planowania przestrzennego na poziomie gminy, służącym do wyznaczania kierunków zagospodarowania terenu, jest uchwała krajobrazowa.",
+        "answer": false,
+        "explanation": "Podstawowymi dokumentami planowania przestrzennego są studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz miejscowy plan zagospodarowania przestrzennego, natomiast uchwała krajobrazowa reguluje jedynie zasady ustawiania małej architektury i umieszczania reklam."
+      },
+      {
+        "sentence": "Degradacja krajobrazu miejskiego Detroit w Stanach Zjednoczonych była bezpośrednim skutkiem przemian gospodarczych, problemów społecznych i emigracji najbogatszych mieszkańców.",
+        "answer": true,
+        "explanation": "Przemiany gospodarcze, problemy społeczne i emigracja bogatszych mieszkańców spowodowały upadek finansowy i wyludnienie miasta, co skutkowało powstaniem niszczejących pustostanów."
+      },
+      {
+        "sentence": "Ochrona obszarów o wyjątkowych wartościach kulturowych i krajobrazowych może być realizowana poprzez ustanawianie parków kulturowych, z których niektóre wpisuje się na Listę światowego dziedzictwa UNESCO.",
+        "answer": true,
+        "explanation": "Parki kulturowe chronią obiekty o wyjątkowej wartości dla miejscowej tradycji budowlanej i osadniczej, mogą zostać uznane za pomniki historii, a wybrane wpisywane są na Listę światowego dziedzictwa UNESCO."
+      }
+    ]
+  }
+}

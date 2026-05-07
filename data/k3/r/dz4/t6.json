@@ -1,0 +1,340 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t6",
+                     "title":  "Rynek pracy i bezrobocie",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Ludność aktywna zawodowo",
+                                              "definition":  "Osoby pracujące zarobkowo oraz osoby bezrobotne (poszukujące pracy i gotowe do jej podjęcia)."
+                                          },
+                                          {
+                                              "term":  "Ludność bierna zawodowo",
+                                              "definition":  "Osoby niepracujące i nieposzukujące pracy, utrzymujące się ze źródeł niezarobkowych (np. uczniowie, emeryci, renciści)."
+                                          },
+                                          {
+                                              "term":  "Bezrobotny (wg GUS)",
+                                              "definition":  "Osoba niezatrudniona i niewykonująca innej pracy zarobkowej, zdolna i gotowa do podjęcia pracy oraz zarejestrowana w urzędzie pracy."
+                                          },
+                                          {
+                                              "term":  "Stopa bezrobocia",
+                                              "definition":  "Wskaźnik procentowy określający udział bezrobotnych w liczbie ludności aktywnej zawodowo."
+                                          },
+                                          {
+                                              "term":  "Współczynnik aktywności zawodowej",
+                                              "definition":  "Miernik określający udział osób aktywnych zawodowo w ogólnej liczbie ludności w wieku 15 lat i więcej."
+                                          },
+                                          {
+                                              "term":  "Wskaźnik zatrudnienia",
+                                              "definition":  "Odsetek ludności w wieku 15 lat i więcej, która wykonuje pracę zarobkową."
+                                          },
+                                          {
+                                              "term":  "Sektor I gospodarki (rolniczy)",
+                                              "definition":  "Obejmuje rolnictwo, leśnictwo i rybactwo; dominuje w strukturze zatrudnienia krajów słabo rozwiniętych."
+                                          },
+                                          {
+                                              "term":  "Sektor II gospodarki (przemysłowy)",
+                                              "definition":  "Obejmuje przemysł wydobywczy, przetwórczy oraz budownictwo."
+                                          },
+                                          {
+                                              "term":  "Sektor III gospodarki (usługowy)",
+                                              "definition":  "Obejmuje działalność nieprodukcyjną (np. handel, edukacja, ochrona zdrowia); dominuje w krajach wysoko rozwiniętych."
+                                          },
+                                          {
+                                              "term":  "Bezrobocie frykcyjne",
+                                              "definition":  "Krótkotrwałe bezrobocie związane z przerwą w zatrudnieniu z powodu zmiany pracy lub poszukiwania pierwszej posady."
+                                          },
+                                          {
+                                              "term":  "Bezrobocie strukturalne",
+                                              "definition":  "Wynika z niedostosowania kwalifikacji pracowników do wymagań rynku lub likwidacji całych gałęzi przemysłu (często długotrwałe)."
+                                          },
+                                          {
+                                              "term":  "Bezrobocie koniunkturalne",
+                                              "definition":  "Pojawia się w okresie recesji gospodarczej, gdy spada popyt na towary i usługi, co zmusza firmy do redukcji zatrudnienia."
+                                          },
+                                          {
+                                              "term":  "Bezrobocie sezonowe",
+                                              "definition":  "Wynika ze zmienności zapotrzebowania na pracę w cyklu rocznym, np. w rolnictwie, budownictwie czy turystyce."
+                                          },
+                                          {
+                                              "term":  "Szara strefa (praca nierejestrowana)",
+                                              "definition":  "Wykonywanie pracy zarobkowej bez formalnej umowy i opodatkowania, co zawyża statystyki osób biernych zawodowo."
+                                          },
+                                          {
+                                              "term":  "Wiek produkcyjny w Polsce",
+                                              "definition":  "Ekonomiczna grupa wieku obejmująca mężczyzn (18–64 lata) i kobiety (18–59 lat) zdolnych do podjęcia pracy."
+                                          },
+                                          {
+                                              "term":  "Podaż pracy",
+                                              "definition":  "Liczba osób aktywnych zawodowo (pracujących i bezrobotnych), które chcą podjąć pracę na rynku."
+                                          },
+                                          {
+                                              "term":  "Popyt na pracę",
+                                              "definition":  "Zapotrzebowanie na pracowników zgłaszane przez pracodawców (liczba wolnych miejsc pracy)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Likwidacja dużych zakładów przemysłowych w latach 90. XX w.",
+                                                 "pair2":  "Wysokie bezrobocie strukturalne (niedopasowanie kwalifikacji)"
+                                             },
+                                             {
+                                                 "pair1":  "Sezonowość prac w rolnictwie i budownictwie",
+                                                 "pair2":  "Wzrost stopy bezrobocia w miesiącach zimowych"
+                                             },
+                                             {
+                                                 "pair1":  "Zmiana miejsca zamieszkania lub poszukiwanie lepszej posady",
+                                                 "pair2":  "Występowanie bezrobocia frykcyjnego"
+                                             },
+                                             {
+                                                 "pair1":  "Recesja gospodarcza i spadek popytu na towary",
+                                                 "pair2":  "Występowanie bezrobocia koniunkturalnego"
+                                             },
+                                             {
+                                                 "pair1":  "Dominacja rolnictwa na ścianie wschodniej",
+                                                 "pair2":  "Wysoki udział zatrudnienia w I sektorze w woj. lubelskim i podlaskim"
+                                             },
+                                             {
+                                                 "pair1":  "Rozwój dużych ośrodków miejskich (aglomeracje)",
+                                                 "pair2":  "Najwyższy odsetek pracujących w usługach (np. woj. mazowieckie)"
+                                             },
+                                             {
+                                                 "pair1":  "Upadek Państwowych Gospodarstw Rolnych (PGR)",
+                                                 "pair2":  "Trwale wysokie bezrobocie w woj. warmińsko-mazurskim"
+                                             },
+                                             {
+                                                 "pair1":  "Wysoki poziom uprzemysłowienia (Górny Śląsk)",
+                                                 "pair2":  "Duży odsetek zatrudnionych w II sektorze w woj. śląskim"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który sektor gospodarki dominuje obecnie w strukturze zatrudnienia w Polsce?",
+                                      "options":  [
+                                                      "Rolnictwo (sektor I), zatrudniające nadal około 20% pracujących.",
+                                                      "Przemysł i budownictwo (sektor II), który jest głównym filarem gospodarki.",
+                                                      "Usługi (sektor III)",
+                                                      "Zatrudnienie jest równomiernie rozłożone między trzy sektory gospodarki."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Podobnie jak w innych krajach rozwiniętych, w Polsce dominuje sektor usług, zatrudniający blisko 60% pracujących."
+                                  },
+                                  {
+                                      "question":  "Jak oblicza się stopę bezrobocia?",
+                                      "options":  [
+                                                      "Jako stosunek liczby bezrobotnych do liczby ludności w wieku produkcyjnym.",
+                                                      "Jako udział procentowy bezrobotnych w liczbie ludności aktywnej zawodowo",
+                                                      "Jako różnicę między liczbą pracujących a bezrobotnych w danym regionie.",
+                                                      "Jako odsetek osób niepracujących w ogólnej liczbie ludności kraju."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Stopa bezrobocia to jeden z najważniejszych wskaźników ekonomicznych, pokazujący, jaka część osób chcących pracować (aktywnych) nie może znaleźć zatrudnienia."
+                                  },
+                                  {
+                                      "question":  "Kogo zaliczamy do ludności biernej zawodowo?",
+                                      "options":  [
+                                                      "Osoby bezrobotne zarejestrowane w urzędzie, ale poszukujące aktywnie pracy.",
+                                                      "Osoby pracujące na część etatu, które chciałyby pracować w pełnym wymiarze.",
+                                                      "Niepracujących emerytów, rencistów oraz uczniów i studentów niepodejmujących pracy",
+                                                      "Rolników indywidualnych posiadających gospodarstwa o małej powierzchni."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ludność bierna zawodowo to osoby, które nie pracują i nie są bezrobotne (nie poszukują pracy lub nie są gotowe do jej podjęcia)."
+                                  },
+                                  {
+                                      "question":  "Jaki jest przedział wieku produkcyjnego dla mężczyzn w Polsce przyjęty w statystyce?",
+                                      "options":  [
+                                                      "18–59 lat, co odpowiada wiekowi produkcyjnemu dla kobiet.",
+                                                      "18–64 lata",
+                                                      "18–67 lat, zgodnie z podwyższonym wiekiem emerytalnym w niektórych krajach UE.",
+                                                      "15–64 lata, co jest standardem międzynarodowym stosowanym przez Eurostat."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W Polsce wiek produkcyjny (mobilny i niemobilny) dla mężczyzn kończy się wraz z osiągnięciem 65 lat (wiek emerytalny)."
+                                  },
+                                  {
+                                      "question":  "W których regionach Polski stopa bezrobocia jest zazwyczaj najniższa?",
+                                      "options":  [
+                                                      "W województwach ściany wschodniej, gdzie dominuje rolnictwo.",
+                                                      "W dużych miastach i aglomeracjach o zróżnicowanym rynku pracy (np. Poznań, Warszawa)",
+                                                      "Na obszarach typowo rolniczych z dala od miast, gdzie każdy ma pracę w gospodarstwie.",
+                                                      "W województwie warmińsko-mazurskim, dzięki rozwojowi turystyki."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Duże ośrodki miejskie oferują wiele miejsc pracy w usługach i przemyśle, co skutkuje rynkiem pracownika i minimalnym bezrobociem."
+                                  },
+                                  {
+                                      "question":  "Co było główną przyczyną wysokiego bezrobocia strukturalnego w Polsce w latach 90. XX wieku?",
+                                      "options":  [
+                                                      "Nadmierny przyrost naturalny, który spowodował nadpodaż rąk do pracy.",
+                                                      "Likwidacja państwowych zakładów przemysłowych i PGR-ów w wyniku transformacji ustrojowej",
+                                                      "Masowa imigracja zarobkowa do Polski z krajów byłego ZSRR.",
+                                                      "Wprowadzenie komputerów do biur, co wyeliminowało potrzebę pracy ludzkiej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Upadek nierentownych zakładów (np. w Łodzi, na Śląsku) i PGR-ów (Warmia, Pomorze) pozostawił rzesze ludzi bez pracy i kwalifikacji potrzebnych w nowej gospodarce."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w województwie warmińsko-mazurskim od lat utrzymuje się wysoka stopa bezrobocia?",
+                                      "options":  [
+                                                      "Z powodu braku surowców mineralnych, co uniemożliwia rozwój przemysłu.",
+                                                      "Z powodu skutków likwidacji Państwowych Gospodarstw Rolnych (PGR) i słabego uprzemysłowienia",
+                                                      "Z powodu nadmiaru ofert pracy, których nikt nie chce przyjąć ze względu na niskie płace.",
+                                                      "Z powodu bardzo wysokiego przyrostu naturalnego, generującego nadmiar siły roboczej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Region ten, słabo uprzemysłowiony i peryferyjny, najdotkliwiej odczuł skutki transformacji rolnictwa państwowego."
+                                  },
+                                  {
+                                      "question":  "Na czym polega bezrobocie frykcyjne?",
+                                      "options":  [
+                                                      "Na trwałej niemożności znalezienia pracy z powodu braku odpowiednich kwalifikacji.",
+                                                      "Na krótkotrwałym pozostawaniu bez pracy w okresie zmiany miejsca zatrudnienia",
+                                                      "Na braku pracy w rolnictwie i budownictwie w okresie zimowym (sezonowość).",
+                                                      "Na masowych zwolnieniach w czasie głębokiego kryzysu gospodarczego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bezrobocie frykcyjne jest zjawiskiem naturalnym i wiąże się z poszukiwaniem nowej, lepszej pracy lub zmianą miejsca zamieszkania."
+                                  },
+                                  {
+                                      "question":  "Jaka zmiana zaszła w strukturze zatrudnienia w Polsce po 1989 roku?",
+                                      "options":  [
+                                                      "Gwałtowny wzrost zatrudnienia w przemyśle ciężkim i górnictwie.",
+                                                      "Spadek zatrudnienia w rolnictwie i przemyśle na rzecz wzrostu zatrudnienia w usługach",
+                                                      "Całkowity zanik rolnictwa jako źródła utrzymania ludności.",
+                                                      "Zatrzymanie wszelkich zmian w strukturze zatrudnienia na poziomie z PRL."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Transformacja ustrojowa wymusiła modernizację gospodarki, co doprowadziło do serwicyzacji (wzrostu znaczenia usług) kosztem sektorów produkcyjnych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego współczynnik aktywności zawodowej kobiet w Polsce jest niższy niż mężczyzn?",
+                                      "options":  [
+                                                      "Kobiety nie chcą pracować zawodowo i wolą zajmować się domem.",
+                                                      "Kobiety częściej opiekują się dziećmi i osobami starszymi oraz wcześniej przechodzą na emeryturę",
+                                                      "Prawo zabrania kobietom pracy w większości zawodów fizycznych.",
+                                                      "Kobiety stanowią mniejszość w strukturze ludności w wieku produkcyjnym."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Obowiązki opiekuńcze (często wymuszające bierność zawodową) oraz niższy wiek emerytalny (60 lat) obniżają wskaźnik aktywności kobiet."
+                                  },
+                                  {
+                                      "question":  "Jakie są negatywne skutki społeczne długotrwałego bezrobocia?",
+                                      "options":  [
+                                                      "Wzrost zamożności społeczeństwa dzięki zasiłkom socjalnym.",
+                                                      "Ubóstwo, wykluczenie społeczne, patologie i emigracja zarobkowa",
+                                                      "Rozwój infrastruktury kulturalnej dzięki większej ilości czasu wolnego.",
+                                                      "Zwiększenie wpływów podatkowych do budżetu państwa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bezrobocie prowadzi do degradacji materialnej i psychicznej jednostek, a w skali makro obciąża system pomocy społecznej."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się tzw. ukryte bezrobocie w rolnictwie?",
+                                      "options":  [
+                                                      "Pracą rolników w fabrykach na czarno bez umowy o pracę.",
+                                                      "Formalnym statusem rolnika przy faktycznym braku pełnego zatrudnienia w małym, niewydajnym gospodarstwie",
+                                                      "Brakiem rąk do pracy przy zbiorach owoców i warzyw.",
+                                                      "Bardzo wysokimi zarobkami w sektorze rolniczym, które nie są opodatkowane."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wiele osób w Polsce posiada status rolnika (KRUS), ale ich gospodarstwa są zbyt małe, by zapewnić im pełne zajęcie i dochód (przeludnienie agrarne)."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób starzenie się społeczeństwa wpłynie na polski rynek pracy w przyszłości?",
+                                      "options":  [
+                                                      "Zwiększy bezrobocie wśród młodych, którzy nie będą mogli znaleźć pracy.",
+                                                      "Spowoduje niedobory pracowników i konieczność aktywizacji zawodowej seniorów lub importu siły roboczej",
+                                                      "Nie będzie miało żadnego wpływu na rynek pracy.",
+                                                      "Spowoduje administracyjne obniżenie wieku emerytalnego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kurczenie się zasobów siły roboczej (ubytek osób w wieku produkcyjnym) zmusi pracodawców do poszukiwania pracowników wśród imigrantów i seniorów."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w województwie mazowieckim występuje największy odsetek pracujących w usługach?",
+                                      "options":  [
+                                                      "Ponieważ gleby są tam bardzo słabe i rolnictwo nie może się rozwijać.",
+                                                      "Ze względu na obecność Warszawy – centrum administracyjnego, finansowego i biznesowego",
+                                                      "Ponieważ zlikwidowano tam cały przemysł na rzecz ochrony środowiska.",
+                                                      "Ponieważ jest to województwo o najmniejszej powierzchni i gęstej sieci osadniczej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Warszawa jako stolica skupia centrale firm, banki, urzędy i uczelnie, generując ogromny popyt na pracowników sektora usług."
+                                  },
+                                  {
+                                      "question":  "Jaką zależność można zaobserwować między poziomem wykształcenia a stopą bezrobocia w Polsce?",
+                                      "options":  [
+                                                      "Osoby z wyższym wykształceniem są najbardziej narażone na bezrobocie.",
+                                                      "Wykształcenie nie ma żadnego wpływu na ryzyko utraty pracy.",
+                                                      "Im wyższe wykształcenie, tym niższa stopa bezrobocia i wyższa aktywność zawodowa",
+                                                      "Bezrobocie dotyka w Polsce tylko i wyłącznie osoby po studiach humanistycznych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Statystyki pokazują, że osoby z wyższym wykształceniem są bardziej elastyczne na rynku pracy i rzadziej pozostają bezrobotne niż osoby z wykształceniem podstawowym czy zawodowym."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Uczniowie i studenci, którzy nie pracują i nie poszukują pracy, są zaliczani do grupy bezrobotnych.",
+                                           "answer":  false,
+                                           "explanation":  "Zgodnie z definicją ekonomiczną, uczniowie i studenci niepodejmujący pracy należą do ludności biernej zawodowo, a nie do bezrobotnych."
+                                       },
+                                       {
+                                           "sentence":  "Obecnie w Polsce najwięcej osób pracuje w sektorze usług, który generuje ponad połowę miejsc pracy.",
+                                           "answer":  true,
+                                           "explanation":  "W 2019 roku udział zatrudnionych w usługach w Polsce wynosił 58,8%, co czyni ten sektor dominującym na rynku pracy."
+                                       },
+                                       {
+                                           "sentence":  "Bezrobocie frykcyjne jest zjawiskiem patologicznym i długotrwałym, świadczącym o głębokim kryzysie gospodarczym.",
+                                           "answer":  false,
+                                           "explanation":  "Bezrobocie frykcyjne obejmuje krótkie przerwy w zatrudnieniu spowodowane np. zmianą miejsca pracy i jest uznawane za zjawisko normalne w gospodarce rynkowej."
+                                       },
+                                       {
+                                           "sentence":  "Województwo warmińsko-mazurskie należy do regionów o najwyższej stopie bezrobocia w Polsce, co jest historycznie związane z upadkiem PGR-ów.",
+                                           "answer":  true,
+                                           "explanation":  "Najwyższe bezrobocie notuje się m.in. w województwie warmińsko-mazurskim, gdzie po transformacji ustrojowej zlikwidowano wiele Państwowych Gospodarstw Rolnych."
+                                       },
+                                       {
+                                           "sentence":  "Stopa bezrobocia rejestrowanego obliczana na podstawie danych z urzędów pracy jest zazwyczaj niższa niż stopa bezrobocia liczona według metody BAEL.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie – stopa bezrobocia rejestrowanego (na podstawie danych z urzędów pracy) jest zwykle wyższa niż ta obliczana metodą ankietową BAEL."
+                                       },
+                                       {
+                                           "sentence":  "Rodzice przebywający na urlopach wychowawczych są w statystykach rynku pracy zaliczani do ludności biernej zawodowo.",
+                                           "answer":  true,
+                                           "explanation":  "Osoby niemogące pracować zarobkowo z powodów rodzinnych, w tym rodzice na urlopach wychowawczych, klasyfikowane są jako osoby bierne zawodowo."
+                                       },
+                                       {
+                                           "sentence":  "Podaż pracy to liczba wolnych miejsc pracy zgłaszana przez pracodawców.",
+                                           "answer":  false,
+                                           "explanation":  "To definicja popytu na pracę. Podaż pracy tworzą osoby aktywne zawodowo (pracujący i bezrobotni), które chcą podjąć pracę."
+                                       },
+                                       {
+                                           "sentence":  "Wiek produkcyjny w Polsce jest określony tak samo dla kobiet i mężczyzn i wynosi 18–64 lata.",
+                                           "answer":  false,
+                                           "explanation":  "Wiek produkcyjny jest zróżnicowany płciowo: dla mężczyzn wynosi 18–64 lata, a dla kobiet 18–59 lat."
+                                       },
+                                       {
+                                           "sentence":  "Praca w tzw. szarej strefie (zatrudnienie nierejestrowane) powoduje zawyżenie statystyk dotyczących liczby osób biernych zawodowo.",
+                                           "answer":  true,
+                                           "explanation":  "Osoby pracujące nielegalnie nie figurują w rejestrach jako pracujące, przez co statystycznie często trafiają do grupy biernych zawodowo lub bezrobotnych, mimo że faktycznie pracują."
+                                       },
+                                       {
+                                           "sentence":  "Bezrobocie strukturalne w Polsce w latach 90. XX wieku wynikało z niedostosowania kwalifikacji pracowników do nowych wymagań rynku po likwidacji dużych zakładów przemysłowych.",
+                                           "answer":  true,
+                                           "explanation":  "Transformacja gospodarcza i likwidacja nierentownych zakładów (w tym przemysłu ciężkiego) wywołały bezrobocie strukturalne, wynikające z niedopasowania kwalifikacji siły roboczej."
+                                       },
+                                       {
+                                           "sentence":  "Najniższym poziomem bezrobocia w Polsce charakteryzują się województwa wschodnie, takie jak podkarpackie i lubelskie.",
+                                           "answer":  false,
+                                           "explanation":  "Najniższe bezrobocie występuje w dużych miastach i województwach o wysokim poziomie rozwoju, np. wielkopolskim, śląskim i małopolskim. Województwa wschodnie mają wyższe wskaźniki bezrobocia."
+                                       }
+                                   ]
+                 }
+}

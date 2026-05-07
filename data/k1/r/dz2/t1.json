@@ -1,0 +1,350 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz2-t1",
+                     "unit":  "II",
+                     "title":  "Budowa Wszechświata",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Teoria Wielkiego Wybuchu",
+                                              "definition":  "Koncepcja zakładająca, że ok. 13,8 mld lat temu cała materia i energia były skoncentrowane w jednym punkcie o ogromnej gęstości, a następnie zaczęły się rozszerzać."
+                                          },
+                                          {
+                                              "term":  "Galaktyka",
+                                              "definition":  "Ogromne skupisko gwiazd, materii międzygwiazdowej i pyłu, poruszające się wokół wspólnego środka masy."
+                                          },
+                                          {
+                                              "term":  "Droga Mleczna",
+                                              "definition":  "Galaktyka spiralna, w której znajduje się Układ Słoneczny, składająca się z niemal 400 mld gwiazd i będąca częścią Lokalnej Grupy Galaktyk."
+                                          },
+                                          {
+                                              "term":  "Galaktyka spiralna",
+                                              "definition":  "Rodzaj galaktyki mający kształt dysku z odchodzącymi od środka ramionami (przykładem jest Droga Mleczna lub galaktyka Wiatraczek)."
+                                          },
+                                          {
+                                              "term":  "Gwiazda",
+                                              "definition":  "Ciało niebieskie (np. Słońce) emitujące światło i ciepło dzięki reakcjom termojądrowym zachodzącym w jego wnętrzu, podczas których wodór ulega przemianie w hel."
+                                          },
+                                          {
+                                              "term":  "Protogwiazda (Protosłońce)",
+                                              "definition":  "Wczesne stadium ewolucji gwiazdy, formujące się z kurczącego się obłoku materii międzygwiazdowej, w którego centrum wzrasta temperatura i gęstość."
+                                          },
+                                          {
+                                              "term":  "Mgławica",
+                                              "definition":  "Obłok gazu i pyłu międzygwiazdowego, z którego mogą formować się gwiazdy (np. Filary Stworzenia w Mgławicy Orzeł)."
+                                          },
+                                          {
+                                              "term":  "Jednostka astronomiczna (AU)",
+                                              "definition":  "Średnia odległość Ziemi od Słońca, wynosząca ok. 149 597 870 km."
+                                          },
+                                          {
+                                              "term":  "Rok świetlny",
+                                              "definition":  "Odległość przebyta przez światło w próżni w ciągu roku, równa 63 241 AU."
+                                          },
+                                          {
+                                              "term":  "Parsek (pc)",
+                                              "definition":  "Największa z jednostek miary stosowanych w astronomii, odpowiadająca 3,26 roku świetlnego (206 265 AU)."
+                                          },
+                                          {
+                                              "term":  "Ciemna materia",
+                                              "definition":  "Niewidoczna materia stanowiąca większość masy wszechświata, na której istnienie wskazują badania ruchu galaktyk."
+                                          },
+                                          {
+                                              "term":  "Ekspansja wszechświata",
+                                              "definition":  "Proces rozszerzania się wszechświata, trwający od Wielkiego Wybuchu, potwierdzony odkryciem Edwina Hubble\u0027a."
+                                          },
+                                          {
+                                              "term":  "Teoria heliocentryczna",
+                                              "definition":  "Teoria sformułowana przez Mikołaja Kopernika w 1543 r., zakładająca, że Słońce leży w centrum wszechświata, a Ziemia i planety krążą wokół niego."
+                                          },
+                                          {
+                                              "term":  "Teoria geocentryczna",
+                                              "definition":  "Starożytny pogląd (m.in. Ptolemeusza), że Ziemia jest nieruchoma i leży w centrum wszechświata."
+                                          },
+                                          {
+                                              "term":  "Radioteleskop",
+                                              "definition":  "Urządzenie badawcze umożliwiające obserwację obiektów niewidocznych gołym okiem, które emitują fale radiowe."
+                                          },
+                                          {
+                                              "term":  "Sonda kosmiczna",
+                                              "definition":  "Bezzałogowy statek kosmiczny wysyłany w odległe rejony (zwykle Układu Słonecznego) w celu prowadzenia obserwacji i pomiarów."
+                                          },
+                                          {
+                                              "term":  "Supergromada",
+                                              "definition":  "Struktura wchodząca w skład wszechświata, składająca się z gromad i grup galaktyk (np. Supergromada Lokalna)."
+                                          },
+                                          {
+                                              "term":  "Teleskop optyczny",
+                                              "definition":  "Przyrząd wykorzystujący soczewki lub zwierciadła do powiększania obrazu odległych ciał niebieskich."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Jednostka astronomiczna (AU)",
+                                                 "pair2":  "Średnia odległość Ziemi od Słońca (ok. 150 mln km)"
+                                             },
+                                             {
+                                                 "pair1":  "Rok świetlny",
+                                                 "pair2":  "Odległość przebyta przez światło w próżni w ciągu roku"
+                                             },
+                                             {
+                                                 "pair1":  "Parsek (pc)",
+                                                 "pair2":  "3,26 roku świetlnego"
+                                             },
+                                             {
+                                                 "pair1":  "Galaktyka spiralna",
+                                                 "pair2":  "Kształt dysku z odchodzącymi od środka ramionami"
+                                             },
+                                             {
+                                                 "pair1":  "Protogwiazda",
+                                                 "pair2":  "Formuje się z kurczącego się obłoku materii, wzrost temperatury i gęstości"
+                                             },
+                                             {
+                                                 "pair1":  "Gwiazda",
+                                                 "pair2":  "Obiekt emitujący energię dzięki reakcjom termojądrowym (wodór w hel)"
+                                             },
+                                             {
+                                                 "pair1":  "Edwin Hubble",
+                                                 "pair2":  "Odkrycie zjawiska rozszerzania się wszechświata"
+                                             },
+                                             {
+                                                 "pair1":  "Aleksander Wolszczan",
+                                                 "pair2":  "Odkrycie pierwszych planet spoza Układu Słonecznego"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Które stwierdzenie najlepiej opisuje początek Wszechświata zgodnie z teorią Wielkiego Wybuchu?",
+                                      "options":  [
+                                                      "Skoncentrowanie materii i energii w jednym punkcie o ogromnej gęstości.",
+                                                      "Zderzenie dwóch równoległych wszechświatów w przestrzeni wielowymiarowej.",
+                                                      "Cykliczne kurczenie się materii do momentu osiągnięcia stanu osobliwości.",
+                                                      "Rozpad supermasywnej czarnej dziury na mniejsze obiekty gwiazdowe."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Teoria Wielkiego Wybuchu zakłada, że materia i energia były początkowo skoncentrowane w jednym punkcie o ogromnej gęstości."
+                                  },
+                                  {
+                                      "question":  "Ile wynosi szacowany wiek Wszechświata?",
+                                      "options":  [
+                                                      "4,6 mld lat",
+                                                      "10,5 mld lat",
+                                                      "13,8 mld lat",
+                                                      "15,2 mld lat"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Współcześnie uważa się, że wszechświat powstał ok. 13,8 mld lat temu."
+                                  },
+                                  {
+                                      "question":  "Jakie odkrycie Edwina Hubble\u0027a potwierdziło dynamiczny charakter Wszechświata?",
+                                      "options":  [
+                                                      "Stała temperatura promieniowania kosmicznego w tle.",
+                                                      "Występowanie czarnych dziur w centrach galaktyk.",
+                                                      "Istnienie ciemnej materii i ciemnej energii w kosmosie.",
+                                                      "Obserwowane oddalanie się od siebie galaktyk."
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Edwin Powell Hubble odkrył zjawisko rozszerzania się wszechświata na podstawie obserwacji ruchu galaktyk."
+                                  },
+                                  {
+                                      "question":  "Co stanowi dominujący składnik masy i energii we Wszechświecie według współczesnych badań?",
+                                      "options":  [
+                                                      "Ciemna materia i ciemna energia.",
+                                                      "Materia emitująca światło widzialne.",
+                                                      "Zjonizowany wodór oraz hel gwiazdowy.",
+                                                      "Obłoki pyłu i gazu międzygwiazdowego."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Materia emitująca światło stanowi jedynie ok. 5% masy wszechświata, składa się on przede wszystkim z ciemnej materii i ciemnej energii."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się galaktyka spiralna, taka jak Droga Mleczna?",
+                                      "options":  [
+                                                      "Kształtem dysku z odchodzącymi od środka ramionami.",
+                                                      "Kształtem spłaszczonej kuli zbudowanej tylko ze starych gwiazd.",
+                                                      "Brakiem wyraźnego jądra i chaotycznym rozmieszczeniem gwiazd.",
+                                                      "Kulistym kształtem i brakiem materii międzygwiazdowej."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Większość znanych galaktyk to galaktyki spiralne, mające kształt dysku z odchodzącymi od środka ramionami."
+                                  },
+                                  {
+                                      "question":  "Jaka struktura znajduje się bezpośrednio nad Lokalną Grupą Galaktyk w hierarchii budowy Wszechświata?",
+                                      "options":  [
+                                                      "Układ Słoneczny",
+                                                      "Droga Mleczna",
+                                                      "Mgławica Orzeł",
+                                                      "Supergromada Lokalna"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Droga Mleczna i inne galaktyki tworzą Lokalną Grupę Galaktyk, która wchodzi w skład Supergromady Lokalnej."
+                                  },
+                                  {
+                                      "question":  "Co jest źródłem energii Słońca i innych gwiazd?",
+                                      "options":  [
+                                                      "Grawitacyjne kurczenie się jądra bez udziału reakcji jądrowych.",
+                                                      "Reakcje termojądrowe przemiany wodoru w hel.",
+                                                      "Spalanie węgla i tlenu w zewnętrznych warstwach atmosfery.",
+                                                      "Rozpad promieniotwórczy ciężkich pierwiastków w jądrze."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Słońce emituje światło i ciepło dzięki reakcjom termojądrowym, w wyniku których wodór ulega przemianie w hel."
+                                  },
+                                  {
+                                      "question":  "Jak definiowana jest jednostka astronomiczna (AU)?",
+                                      "options":  [
+                                                      "Odległość, jaką światło pokonuje w próżni w ciągu roku.",
+                                                      "Średnia odległość między środkami Ziemi i Słońca.",
+                                                      "Odległość, z której promień orbity ziemskiej widać pod kątem sekundy.",
+                                                      "Maksymalna odległość między Ziemią a Księżycem w perygeum."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jednostka astronomiczna (AU) to średnia odległość Ziemi od Słońca, czyli 149 597 870 km."
+                                  },
+                                  {
+                                      "question":  "Ile lat świetlnych mieści się w jednym parseku?",
+                                      "options":  [
+                                                      "1,50 roku świetlnego",
+                                                      "3,26 roku świetlnego",
+                                                      "63 241 lat świetlnych",
+                                                      "206 265 lat świetlnych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Parsek (pc) to największa z jednostek miary; 1 pc = 3,26 roku świetlnego."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko zapoczątkowało formowanie się Układu Słonecznego?",
+                                      "options":  [
+                                                      "Eksplozja supernowej, która rozrzuciła ciężkie pierwiastki w przestrzeni.",
+                                                      "Zderzenie dwóch mniejszych gwiazd prowadzące do powstania dysku pyłowego.",
+                                                      "Wzrost temperatury i gęstości w centrum kurczącego się obłoku materii.",
+                                                      "Kondensacja pary wodnej w strefach oddalonych od centrum mgławicy."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wraz z kurczeniem się obłoku w jego centrum wzrastała temperatura i zwiększała się gęstość materii, co zapoczątkowało proces formowania protosłońca."
+                                  },
+                                  {
+                                      "question":  "Jakie jest główne założenie teorii heliocentrycznej Mikołaja Kopernika?",
+                                      "options":  [
+                                                      "Ziemia jest nieruchoma i znajduje się w geometrycznym środku wszechświata.",
+                                                      "Słońce krąży wokół Ziemi, a pozostałe planety krążą wokół Słońca.",
+                                                      "Słońce znajduje się w centrum, a Ziemia obiega je wraz z planetami.",
+                                                      "Wszechświat nie ma centrum, a wszystkie ciała niebieskie oddalają się od siebie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Teoria heliocentryczna mówi o tym, że Słońce leży w centrum wszechświata, a wokół niego krążą Ziemia i inne planety."
+                                  },
+                                  {
+                                      "question":  "Które osiągnięcie przypisuje się Aleksandrowi Wolszczanowi?",
+                                      "options":  [
+                                                      "Odkrycie pierwszych planet spoza Układu Słonecznego.",
+                                                      "Sformułowanie trzech praw opisujących ruch planet.",
+                                                      "Sporządzenie pierwszych dokładnych map powierzchni Księżyca.",
+                                                      "Odkrycie zjawiska ucieczki galaktyk i rozszerzania się wszechświata."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W 1992 r. Aleksander Wolszczan odkrywa pierwsze planety spoza Układu Słonecznego."
+                                  },
+                                  {
+                                      "question":  "Do jakich obserwacji służy Kosmiczny Teleskop Jamesa Webba?",
+                                      "options":  [
+                                                      "Rejestrowania fal radiowych emitowanych przez pulsary i kwazary.",
+                                                      "Badania najdalszych i najstarszych obszarów wszechświata.",
+                                                      "Poszukiwania planet w Układzie Słonecznym metodą wizualną.",
+                                                      "Analizy składu chemicznego skał na powierzchni Marsa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kosmiczny Teleskop Jamesa Webba bada najdalsze (czyli najstarsze) obszary wszechświata."
+                                  },
+                                  {
+                                      "question":  "Jaka jest prawidłowa kolejność jednostek odległości od najmniejszej do największej?",
+                                      "options":  [
+                                                      "Jednostka astronomiczna \u003c parsek \u003c rok świetlny",
+                                                      "Rok świetlny \u003c jednostka astronomiczna \u003c parsek",
+                                                      "Parsek \u003c rok świetlny \u003c jednostka astronomiczna",
+                                                      "Jednostka astronomiczna \u003c rok świetlny \u003c parsek"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "1 rok świetlny = 63 241 AU, a 1 parsek = 3,26 roku świetlnego, więc AU jest najmniejsza, a parsek największy."
+                                  },
+                                  {
+                                      "question":  "Czym są mgławice, takie jak Mgławica Orzeł?",
+                                      "options":  [
+                                                      "Obłokami gazu i pyłu międzygwiazdowego.",
+                                                      "Skupiskami starych, gasnących gwiazd.",
+                                                      "Pozostałościami po wybuchu supernowej.",
+                                                      "Gromadami galaktyk powiązanymi grawitacyjnie."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Mgławice to obłoki gazu i pyłu międzygwiazdowego (np. Filary Stworzenia w Mgławicy Orzeł)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Rok świetlny to jednostka czasu wykorzystywana do określania wieku gwiazd i galaktyk.",
+                                           "answer":  false,
+                                           "explanation":  "Rok świetlny to jednostka odległości przebywanej przez światło w próżni w ciągu roku."
+                                       },
+                                       {
+                                           "sentence":  "Zgodnie ze współczesnymi badaniami, widzialna materia emitująca światło stanowi większość masy Wszechświata.",
+                                           "answer":  false,
+                                           "explanation":  "Materia emitująca światło stanowi jedynie ok. 5% masy wszechświata, reszta to ciemna materia i ciemna energia."
+                                       },
+                                       {
+                                           "sentence":  "Teoria geocentryczna zakładała, że Ziemia jest nieruchoma i znajduje się w centrum Wszechświata.",
+                                           "answer":  true,
+                                           "explanation":  "Starożytni astronomowie (np. Ptolemeusz) uważali, że Ziemia leży w centrum wszechświata i jest nieruchoma."
+                                       },
+                                       {
+                                           "sentence":  "Słońce, ze względu na swoją dużą masę, zakończy swój cykl ewolucyjny jako czarna dziura.",
+                                           "answer":  false,
+                                           "explanation":  "Słońce ma zbyt małą masę, aby stać się czarną dziurą; jest to typowy los znacznie masywniejszych gwiazd."
+                                       },
+                                       {
+                                           "sentence":  "Odkrycie Edwina Hubble\u0027a potwierdziło, że Wszechświat jest statyczny i nie zmienia swoich rozmiarów.",
+                                           "answer":  false,
+                                           "explanation":  "Edwin Powell Hubble odkrył zjawisko rozszerzania się wszechświata."
+                                       },
+                                       {
+                                           "sentence":  "Jednostka astronomiczna (AU) oznacza odległość większą niż jeden rok świetlny.",
+                                           "answer":  false,
+                                           "explanation":  "Rok świetlny to 63 241 AU, więc jest jednostką znacznie większą."
+                                       },
+                                       {
+                                           "sentence":  "Droga Mleczna jest przykładem galaktyki eliptycznej o kulistym kształcie.",
+                                           "answer":  false,
+                                           "explanation":  "Droga Mleczna jest galaktyką spiralną."
+                                       },
+                                       {
+                                           "sentence":  "Kosmiczny Teleskop Jamesa Webba pozwala badać najstarsze obszary Wszechświata.",
+                                           "answer":  true,
+                                           "explanation":  "Teleskop ten bada najdalsze (czyli najstarsze) obszary wszechświata."
+                                       },
+                                       {
+                                           "sentence":  "Aleksander Wolszczan zasłynął odkryciem pierwszych planet znajdujących się w Układzie Słonecznym.",
+                                           "answer":  false,
+                                           "explanation":  "Aleksander Wolszczan odkrył pierwsze planety spoza Układu Słonecznego."
+                                       },
+                                       {
+                                           "sentence":  "Jeden parsek (pc) odpowiada odległości około 3,26 roku świetlnego.",
+                                           "answer":  true,
+                                           "explanation":  "Parsek to największa z jednostek miary; 1 pc = 3,26 roku świetlnego."
+                                       },
+                                       {
+                                           "sentence":  "Według teorii Wielkiego Wybuchu materia była początkowo rozłożona równomiernie w całej przestrzeni.",
+                                           "answer":  false,
+                                           "explanation":  "Materia i energia były początkowo skoncentrowane w jednym punkcie o ogromnej gęstości."
+                                       },
+                                       {
+                                           "sentence":  "Teoria heliocentryczna Mikołaja Kopernika zakładała, że Ziemia znajduje się w centrum Wszechświata.",
+                                           "answer":  false,
+                                           "explanation":  "Teoria heliocentryczna mówi o tym, że to Słońce leży w centrum wszechświata."
+                                       }
+                                   ]
+                 }
+}

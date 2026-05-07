@@ -1,0 +1,358 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t5",
+                     "unit":  "V",
+                     "title":  "Plutonizm i wulkanizm",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Plutonizm",
+                                              "definition":  "Wszystkie procesy geologiczne zachodzące w głębi litosfery, związane z powstawaniem, gromadzeniem się, przemieszczaniem oraz krystalizacją magmy."
+                                          },
+                                          {
+                                              "term":  "Wulkanizm",
+                                              "definition":  "Procesy geologiczne związane z wydobywaniem się magmy z głębi Ziemi na jej powierzchnię."
+                                          },
+                                          {
+                                              "term":  "Magma a Lawa",
+                                              "definition":  "Magma to gorąca masa skalna we wnętrzu Ziemi; po wydostaniu się na powierzchnię w trakcie erupcji staje się lawą."
+                                          },
+                                          {
+                                              "term":  "Intruzje magmowe",
+                                              "definition":  "Formy powstałe w wyniku krystalizacji magmy, która wciska się w szczeliny i pęknięcia skalne lub między warstwy skał pod powierzchnią ziemi."
+                                          },
+                                          {
+                                              "term":  "Batolit",
+                                              "definition":  "Intruzja o ogromnej miąższości, powstająca zwykle w wyniku połączenia się wielu pojedynczych intruzji magmowych."
+                                          },
+                                          {
+                                              "term":  "Lakolit",
+                                              "definition":  "Intruzja o płaskiej podstawie i wypukłej górnej części, która wypycha w górę wyżej położone warstwy skalne."
+                                          },
+                                          {
+                                              "term":  "Dajka",
+                                              "definition":  "Intruzja w formie żyły przecinającej starsze warstwy skalne w pionie lub na ukos (intruzja niezgodna)."
+                                          },
+                                          {
+                                              "term":  "Ognisko magmowe",
+                                              "definition":  "Zbiornik z magmą i produktami erupcji znajdujący się w skorupie ziemskiej lub płaszczu Ziemi."
+                                          },
+                                          {
+                                              "term":  "Komin wulkaniczny",
+                                              "definition":  "Kanał, przez który magma jest wypierana pod dużym ciśnieniem z ogniska magmowego ku górze."
+                                          },
+                                          {
+                                              "term":  "Krater",
+                                              "definition":  "Lejkowate ujście komina wulkanicznego, którym produkty wulkaniczne wydostają się na powierzchnię."
+                                          },
+                                          {
+                                              "term":  "Stożek wulkaniczny",
+                                              "definition":  "Wzniesienie uformowane z produktów kolejnych erupcji wulkanicznych."
+                                          },
+                                          {
+                                              "term":  "Wulkany eksplozywne",
+                                              "definition":  "Wulkany, których erupcje przebiegają gwałtownie, wydobywają się z nich głównie materiały piroklastyczne oraz gazy, a stożek jest niewielki i ma strome stoki."
+                                          },
+                                          {
+                                              "term":  "Wulkany efuzywne",
+                                              "definition":  "Wulkany o spokojnym przebiegu erupcji, z których wydobywa się głównie gazy i mało lepka lawa; ich stożki są bardzo rozległe i mają łagodne stoki."
+                                          },
+                                          {
+                                              "term":  "Stratowulkany",
+                                              "definition":  "Wulkany, w których gwałtowne erupcje (lawa i materiały piroklastyczne) przeplatają się ze spokojnymi wypływami lawy; tworzą wysokie stożki o stromych stokach."
+                                          },
+                                          {
+                                              "term":  "Bomby wulkaniczne",
+                                              "definition":  "Duże bryły lawy, która zastyga w powietrzu podczas wydobywania się z komina wulkanicznego."
+                                          },
+                                          {
+                                              "term":  "Lapille",
+                                              "definition":  "Okruchy skalne o wielkości ok. 6 cm, powstające z rozdrobnionej lawy (materiał piroklastyczny)."
+                                          },
+                                          {
+                                              "term":  "Popioły wulkaniczne",
+                                              "definition":  "Drobne okruchy skalne o średnicy do 2 mm (materiał piroklastyczny)."
+                                          },
+                                          {
+                                              "term":  "Plamy gorąca",
+                                              "definition":  "Miejsca występowania wulkanów, gdzie gorąca magma przebija się przez cienką skorupę oceaniczną, często z dala od granic płyt litosfery."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Batolit",
+                                                 "pair2":  "Intruzja o ogromnej miąższości, efekt połączenia wielu intruzji"
+                                             },
+                                             {
+                                                 "pair1":  "Lakolit",
+                                                 "pair2":  "Intruzja z płaską podstawą i wypukłą górą, wypychająca warstwy skalne"
+                                             },
+                                             {
+                                                 "pair1":  "Dajka",
+                                                 "pair2":  "Intruzja przecinająca warstwy skalne w pionie lub na ukos"
+                                             },
+                                             {
+                                                 "pair1":  "Wulkan eksplozywny",
+                                                 "pair2":  "Gwałtowna erupcja materiałów piroklastycznych i gazów, stromy stożek"
+                                             },
+                                             {
+                                                 "pair1":  "Wulkan efuzywny",
+                                                 "pair2":  "Spokojna erupcja mało lepkiej lawy, rozległy i łagodny stożek"
+                                             },
+                                             {
+                                                 "pair1":  "Stratowulkan",
+                                                 "pair2":  "Przeplatane erupcje gwałtowne i spokojne, wysoki i stromy stożek"
+                                             },
+                                             {
+                                                 "pair1":  "Bomby wulkaniczne",
+                                                 "pair2":  "Duże bryły lawy zastygające w powietrzu"
+                                             },
+                                             {
+                                                 "pair1":  "Lapille",
+                                                 "pair2":  "Okruchy skalne z rozdrobnionej lawy o wielkości ok. 6 cm"
+                                             },
+                                             {
+                                                 "pair1":  "Popioły wulkaniczne",
+                                                 "pair2":  "Drobne okruchy skalne o średnicy do 2 mm"
+                                             },
+                                             {
+                                                 "pair1":  "Pumeks",
+                                                 "pair2":  "Wulkaniczna skała magmowa o dużej porowatości i małej gęstości"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który element budowy wulkanu jest bezpośrednim miejscem gromadzenia się magmy pod powierzchnią ziemi przed erupcją?",
+                                      "options":  [
+                                                      "Krater",
+                                                      "Ognisko magmowe",
+                                                      "Stożek wulkaniczny",
+                                                      "Komin boczny"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ognisko magmowe to zbiornik z magmą i innymi produktami erupcji znajdujący się w skorupie ziemskiej lub płaszczu Ziemi."
+                                  },
+                                  {
+                                      "question":  "Czym różni się lawa od magmy w kontekście procesów wulkanicznych?",
+                                      "options":  [
+                                                      "Lawa zawiera znacznie więcej składników gazowych niż magma",
+                                                      "Magma to stop skalny na powierzchni, a lawa występuje w głębi",
+                                                      "Magma po wydobyciu się na powierzchnię i odgazowaniu staje się lawą",
+                                                      "Nie ma między nimi żadnej istotnej różnicy fizycznej ani chemicznej"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wulkanizm obejmuje wydobywanie się magmy na powierzchnię, gdzie w trakcie erupcji staje się ona lawą."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych produktów erupcji wulkanicznej zaliczamy do materiałów piroklastycznych o średnicy mniejszej niż 2 mm?",
+                                      "options":  [
+                                                      "Bomby wulkaniczne",
+                                                      "Lapilli",
+                                                      "Popioły wulkaniczne",
+                                                      "Pumeks"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Popioły wulkaniczne to drobne okruchy skalne o średnicy do 2 mm."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się strefa, w której występuje największe skupisko czynnych wulkanów na Ziemi?",
+                                      "options":  [
+                                                      "Grzbiet Śródatlantycki",
+                                                      "Ognisty Pierścień Pacyfiku",
+                                                      "Wielkie Rowy Afrykańskie",
+                                                      "Strefa alpejsko-himalajska"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Największe skupiska czynnych wulkanów występują wokół wybrzeży Oceanu Spokojnego, tworząc tzw. Ognisty Pierścień Pacyfiku."
+                                  },
+                                  {
+                                      "question":  "Które gazy stanowią główny składnik ekshalacji wulkanicznych?",
+                                      "options":  [
+                                                      "Tlen i azot",
+                                                      "Para wodna, dwutlenek węgla, siarkowodór i metan",
+                                                      "Argon i hel",
+                                                      "Tylko dwutlenek siarki"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podczas erupcji z wulkanów wydobywają się gazy, głównie para wodna, dwutlenek węgla, siarkowodór i metan."
+                                  },
+                                  {
+                                      "question":  "Jak zdefiniować dajkę w kontekście form plutonicznych?",
+                                      "options":  [
+                                                      "Jest to intruzja o płaskiej podstawie i wypukłej górnej części",
+                                                      "To żyła przecinająca starsze warstwy skalne w pionie lub na ukos",
+                                                      "Jest to największa forma intruzji o ogromnej miąższości",
+                                                      "To rozległa pokrywa lawowa na powierzchni"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dajki występują w formie żył przecinających w pionie lub na ukos starsze warstwy skalne."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się lakolit w odróżnieniu od batolitu?",
+                                      "options":  [
+                                                      "Ma ogromną miąższość i powstaje z połączenia wielu intruzji magmowych",
+                                                      "Ma płaską podstawę, a jego górna część jest wypukła i wypycha warstwy wyżej",
+                                                      "Przecina warstwy skalne pionowo względem ich pierwotnego ułożenia",
+                                                      "Powstaje na powierzchni ziemi jako wylew o charakterze linijnym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Lakolit ma płaską podstawę, a jego górna część jest wypukła i wypycha w górę warstwy położone wyżej, w przeciwieństwie do batolitu, który ma ogromną miąższość."
+                                  },
+                                  {
+                                      "question":  "Jaki typ wulkanu powstaje w wyniku erupcji o spokojnym przebiegu, z wylewem mało lepkiej lawy?",
+                                      "options":  [
+                                                      "Wulkan eksplozywny",
+                                                      "Stratowulkan",
+                                                      "Wulkan efuzywny",
+                                                      "Stożek żużlowy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wulkany efuzywne charakteryzują się spokojnym przebiegiem erupcji, podczas której wydobywa się głównie gazy oraz mało lepka lawa."
+                                  },
+                                  {
+                                      "question":  "Która cecha najlepiej opisuje stratowulkany, takie jak Etna czy Wezuwiusz?",
+                                      "options":  [
+                                                      "Bardzo łagodne stoki i rozległa podstawa",
+                                                      "Wyłącznie gwałtowne erupcje materiałów piroklastycznych",
+                                                      "Przeplatanie się gwałtownych erupcji z wypływami lawy oraz strome stoki",
+                                                      "Powstawanie wyłącznie w strefach ryftowych"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Stratowulkany mają strome stoki, znaczne rozmiary, a ich erupcje to przeplatające się gwałtowne wyrzuty materiałów i spokojne wylewy lawy."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstaje pumeks?",
+                                      "options":  [
+                                                      "W wyniku powolnej krystalizacji magmy głęboko pod ziemią",
+                                                      "Z lawy bogatej w gazy, która zastyga z licznymi pęcherzykami powietrza",
+                                                      "Przez scementowanie popiołów wulkanicznych na dnie morza",
+                                                      "Jako efekt metamorfizmu skał wapiennych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pumeks powstaje, gdy wyrzucana lawa jest bogata w gazy wydobywające się w trakcie stygnięcia, co nadaje skale dużą porowatość."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych form plutonicznych osiąga największe rozmiary i powstaje głęboko pod powierzchnią?",
+                                      "options":  [
+                                                      "Dajka",
+                                                      "Lakolit",
+                                                      "Batolit",
+                                                      "Sill"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Batolit ma ogromną miąższość, może osiągać długość 2000 km i powstaje z połączenia wielu intruzji magmowych."
+                                  },
+                                  {
+                                      "question":  "Jaką funkcję w klasyfikacji wulkanów pełni rodzaj wydobywających się produktów?",
+                                      "options":  [
+                                                      "Decyduje o barwie skał, ale nie o kształcie stożka",
+                                                      "Determinuje podział na wulkany eksplozywne, efuzywne i stratowulkany",
+                                                      "Nie ma wpływu na klasyfikację, liczy się tylko lokalizacja",
+                                                      "Wpływa jedynie na temperaturę lawy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wulkany dzieli się m.in. ze względu na rodzaj wydobywających się produktów oraz przebieg erupcji na eksplozywne, efuzywne i stratowulkany."
+                                  },
+                                  {
+                                      "question":  "Jaki mechanizm geologiczny odpowiada za powstawanie wulkanów na Hawajach, z dala od granic płyt litosfery?",
+                                      "options":  [
+                                                      "Kolizja płyt kontynentalnych",
+                                                      "Subdukcja płyty oceanicznej",
+                                                      "Działanie plamy gorąca przebijającej cienką skorupę oceaniczną",
+                                                      "Rozsuwanie się płyt w strefie ryftu"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wulkany na Hawajach powstały nad plamami gorąca, gdzie gorąca magma przebiła się przez cienką skorupę oceaniczną z dala od granic płyt."
+                                  },
+                                  {
+                                      "question":  "Dlaczego stożek wulkanu efuzywnego (np. Mauna Loa) jest rozległy i ma łagodne stoki?",
+                                      "options":  [
+                                                      "Ponieważ buduje go głównie gęsta, lepka lawa kwaśna",
+                                                      "Ponieważ wydobywa się z niego mało lepka lawa, która rozlewa się na dużej powierzchni",
+                                                      "Z powodu dominacji materiałów piroklastycznych wyrzucanych na dużą wysokość",
+                                                      "Ponieważ powstaje on wyłącznie w wyniku zapadania się kalder wulkanicznych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wulkany efuzywne mają rozległe i łagodne stoki, ponieważ podczas erupcji wydobywa się z nich mało lepka lawa, która łatwo rozlewa się na dużej powierzchni."
+                                  },
+                                  {
+                                      "question":  "Analizując formy intruzji magmowych, która z nich jest przykładem formy „zgodnej”, deformującej warstwy nadległe, w przeciwieństwie do form przecinających warstwy?",
+                                      "options":  [
+                                                      "Dajka",
+                                                      "Batolit",
+                                                      "Lakolit",
+                                                      "Ognisko magmowe"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Lakolit jest intruzją wciskaną między warstwy skalne (forma zgodna), której górna część jest wypukła i wypycha wyżej położone warstwy, w odróżnieniu od dajek, które przecinają warstwy."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Dajki to intruzje magmowe, które układają się równolegle do warstw skalnych, nie przecinając ich struktur.",
+                                           "answer":  false,
+                                           "explanation":  "Dajki to intruzje występujące w formie żył przecinających starsze warstwy skalne w pionie lub na ukos."
+                                       },
+                                       {
+                                           "sentence":  "Lawa różni się od magmy tym, że wydostaje się na powierzchnię i jest uboższa o składniki gazowe.",
+                                           "answer":  true,
+                                           "explanation":  "Magma wydostająca się na powierzchnię w trakcie erupcji staje się lawą, a procesowi temu towarzyszy uwalnianie gazów."
+                                       },
+                                       {
+                                           "sentence":  "Bomby wulkaniczne zaliczane są do gazowych produktów erupcji wulkanicznej.",
+                                           "answer":  false,
+                                           "explanation":  "Bomby wulkaniczne to materiały piroklastyczne będące dużymi bryłami lawy, która zastyga w powietrzu."
+                                       },
+                                       {
+                                           "sentence":  "Wulkany efuzywne charakteryzują się gwałtownymi erupcjami materiałów piroklastycznych i posiadają niewielkie, strome stożki.",
+                                           "answer":  false,
+                                           "explanation":  "Wulkany efuzywne mają spokojny przebieg erupcji, wydobywa się z nich głównie lawa, a ich stożki są rozległe i łagodne."
+                                       },
+                                       {
+                                           "sentence":  "Krater to wzniesienie uformowane z produktów kolejnych erupcji wulkanicznych.",
+                                           "answer":  false,
+                                           "explanation":  "Opis ten dotyczy stożka wulkanicznego; krater to lejkowate ujście komina wulkanicznego."
+                                       },
+                                       {
+                                           "sentence":  "Batolit to intruzja magmowa o ogromnej miąższości, powstająca zwykle z połączenia wielu pojedynczych intruzji.",
+                                           "answer":  true,
+                                           "explanation":  "Batolity mają ogromną miąższość i powstają w wyniku połączenia się wielu intruzji magmowych."
+                                       },
+                                       {
+                                           "sentence":  "Hipocentrum to punkt na powierzchni Ziemi, w którym wstrząsy sejsmiczne są odczuwane najwcześniej.",
+                                           "answer":  false,
+                                           "explanation":  "Hipocentrum to ognisko wstrząsów we wnętrzu Ziemi; punkt na powierzchni to epicentrum."
+                                       },
+                                       {
+                                           "sentence":  "Góry zrębowe powstają w wyniku sfałdowania osadów morskich na krawędziach płyt litosfery.",
+                                           "answer":  false,
+                                           "explanation":  "Góry zrębowe powstają w wyniku wypiętrzania sztywnych warstw skalnych wzdłuż uskoków, a nie fałdowania."
+                                       },
+                                       {
+                                           "sentence":  "Transgresja morza zachodzi wtedy, gdy lądy się obniżają i zostają zalane przez wody morskie.",
+                                           "answer":  true,
+                                           "explanation":  "Gdy lądy się obniżają w wyniku ruchów epejrogenicznych, mogą być zalewane przez morze, co nazywamy transgresją."
+                                       },
+                                       {
+                                           "sentence":  "Pumeks jest wulkaniczną skałą magmową o dużej porowatości, która powstaje z lawy bogatej w gazy.",
+                                           "answer":  true,
+                                           "explanation":  "Pumeks powstaje, gdy wyrzucana lawa jest bogata w gazy, które tworzą w niej drobne pęcherzyki."
+                                       },
+                                       {
+                                           "sentence":  "Proces subdukcji polega na podsuwaniu się jednej płyty litosfery pod drugą, co prowadzi m.in. do powstania rowów oceanicznych.",
+                                           "answer":  true,
+                                           "explanation":  "Subdukcja to proces podsuwania się płyty (zwykle oceanicznej) pod inną, co skutkuje powstaniem rowów oceanicznych."
+                                       },
+                                       {
+                                           "sentence":  "Stratowulkany charakteryzują się erupcjami, w których gwałtowne wybuchy przeplatają się ze spokojnymi wylewami lawy.",
+                                           "answer":  true,
+                                           "explanation":  "Stratowulkany mają erupcje mieszane: gwałtowne wyrzuty materiałów piroklastycznych przeplatają się z wylewami lawy."
+                                       }
+                                   ]
+                 }
+}

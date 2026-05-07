@@ -1,0 +1,418 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t2",
+                     "unit":  "V",
+                     "title":  "Minerały i skały",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Minerał",
+                                              "definition":  "Podstawowy pierwiastek lub związek chemiczny o określonych właściwościach chemicznych i fizycznych, budujący skorupę ziemską."
+                                          },
+                                          {
+                                              "term":  "Skała",
+                                              "definition":  "Naturalne skupisko jednego minerału lub wielu minerałów, powstałe w określonych procesach geologicznych."
+                                          },
+                                          {
+                                              "term":  "Surowce energetyczne",
+                                              "definition":  "Grupa surowców wykorzystywanych do produkcji energii, obejmująca m.in. węgiel kamienny, węgiel brunatny, ropę naftową i gaz ziemny."
+                                          },
+                                          {
+                                              "term":  "Surowce metaliczne",
+                                              "definition":  "Kopaliny zawierające związki metali, np. rudy żelaza, miedzi, cynku i ołowiu oraz metale szlachetne jak złoto i srebro."
+                                          },
+                                          {
+                                              "term":  "Surowce chemiczne",
+                                              "definition":  "Surowce znajdujące zastosowanie w przemyśle chemicznym, np. ropa naftowa, sól kamienna, siarka oraz fosforyty."
+                                          },
+                                          {
+                                              "term":  "Surowce skalne",
+                                              "definition":  "Skały stosowane głównie w budownictwie, np. granit, bazalt, wapień, gips, piaskowiec, piasek, żwir i glina."
+                                          },
+                                          {
+                                              "term":  "Skały magmowe głębinowe (plutoniczne)",
+                                              "definition":  "Skały powstające z magmy, która powoli krystalizuje głęboko pod powierzchnią Ziemi, co pozwala na wykształcenie widocznych gołym okiem minerałów (np. granit, gabro)."
+                                          },
+                                          {
+                                              "term":  "Skały magmowe wylewne (wulkaniczne)",
+                                              "definition":  "Skały powstające z lawy, która szybko zastyga na powierzchni Ziemi, zbudowane z mikroskopijnych minerałów (np. bazalt, andezyt)."
+                                          },
+                                          {
+                                              "term":  "Skały osadowe okruchowe",
+                                              "definition":  "Skały powstałe z nagromadzenia okruchów skalnych pochodzących z niszczenia innych skał; dzielą się na luźne (piasek, żwir) i zwięzłe (piaskowiec, zlepieniec)."
+                                          },
+                                          {
+                                              "term":  "Skały osadowe pochodzenia chemicznego",
+                                              "definition":  "Skały powstające najczęściej w płytkich zbiornikach wodnych na skutek wytrącania się substancji z roztworów (np. sól kamienna, gips)."
+                                          },
+                                          {
+                                              "term":  "Skały osadowe pochodzenia organicznego",
+                                              "definition":  "Skały tworzące się z nagromadzenia szczątków roślinnych (np. węgiel kamienny, torf) lub zwierzęcych (np. wapień)."
+                                          },
+                                          {
+                                              "term":  "Skały metamorficzne (przeobrażone)",
+                                              "definition":  "Skały powstające w warunkach bardzo wysokiej temperatury i ogromnego ciśnienia oddziałujących na istniejące skały magmowe lub osadowe (np. gnejs, marmur)."
+                                          },
+                                          {
+                                              "term":  "Granit",
+                                              "definition":  "Skała magmowa głębinowa o budowie, w której widać poszczególne minerały (np. kwarc), wykorzystywana m.in. w budownictwie."
+                                          },
+                                          {
+                                              "term":  "Bazalt",
+                                              "definition":  "Skała magmowa wylewna zbudowana z mikroskopijnych minerałów o barwie czarnej, szarej lub zielonej."
+                                          },
+                                          {
+                                              "term":  "Piaskowiec",
+                                              "definition":  "Skała osadowa okruchowa zwięzła, powstająca w wyniku scementowania ziaren piasku."
+                                          },
+                                          {
+                                              "term":  "Wapień",
+                                              "definition":  "Skała osadowa pochodzenia organicznego, powstająca z nagromadzonych na dnie mórz muszli oraz wapiennych szkieletów zwierząt."
+                                          },
+                                          {
+                                              "term":  "Sól kamienna",
+                                              "definition":  "Skała osadowa chemiczna tworząca się w wyniku odparowania wody z mórz i słonych jezior."
+                                          },
+                                          {
+                                              "term":  "Marmur",
+                                              "definition":  "Skała metamorficzna powstająca z przeobrażenia wapieni pod wpływem wysokiej temperatury i ciśnienia."
+                                          },
+                                          {
+                                              "term":  "Gnejs",
+                                              "definition":  "Skała metamorficzna będąca efektem przeobrażenia granitu, charakteryzująca się występowaniem pasm (smug) na powierzchni."
+                                          },
+                                          {
+                                              "term":  "Minerały skałotwórcze",
+                                              "definition":  "Nieliczne minerały powszechnie budujące skorupę ziemską, do których należą m.in. mika, skaleń i kwarc."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Skała magmowa głębinowa",
+                                                 "pair2":  "Granit"
+                                             },
+                                             {
+                                                 "pair1":  "Skała magmowa wylewna",
+                                                 "pair2":  "Bazalt"
+                                             },
+                                             {
+                                                 "pair1":  "Skała osadowa okruchowa luźna",
+                                                 "pair2":  "Piasek"
+                                             },
+                                             {
+                                                 "pair1":  "Skała osadowa okruchowa zwięzła",
+                                                 "pair2":  "Piaskowiec"
+                                             },
+                                             {
+                                                 "pair1":  "Skała osadowa chemiczna",
+                                                 "pair2":  "Sól kamienna"
+                                             },
+                                             {
+                                                 "pair1":  "Skała osadowa organiczna",
+                                                 "pair2":  "Węgiel kamienny"
+                                             },
+                                             {
+                                                 "pair1":  "Skała wyjściowa: Wapień",
+                                                 "pair2":  "Produkt metamorfizmu: Marmur"
+                                             },
+                                             {
+                                                 "pair1":  "Skała wyjściowa: Granit",
+                                                 "pair2":  "Produkt metamorfizmu: Gnejs"
+                                             },
+                                             {
+                                                 "pair1":  "Proces powstawania: Krystalizacja magmy pod powierzchnią",
+                                                 "pair2":  "Skały plutoniczne"
+                                             },
+                                             {
+                                                 "pair1":  "Proces powstawania: Zastyganie lawy na powierzchni",
+                                                 "pair2":  "Skały wulkaniczne"
+                                             },
+                                             {
+                                                 "pair1":  "Proces powstawania: Wytrącanie substancji z roztworów",
+                                                 "pair2":  "Skały chemiczne"
+                                             },
+                                             {
+                                                 "pair1":  "Proces powstawania: Nagromadzenie szczątków roślinnych/zwierzęcych",
+                                                 "pair2":  "Skały organiczne"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym jest minerał według definicji geologicznej?",
+                                      "options":  [
+                                                      "Naturalnym skupiskiem wielu różnych skał.",
+                                                      "Podstawowym pierwiastkiem lub związkiem chemicznym o określonych właściwościach.",
+                                                      "Skamieniałą pozostałością organizmów żywych.",
+                                                      "Sztucznie wytworzonym w laboratorium kryształem."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Minerały to podstawowe pierwiastki oraz związki chemiczne budujące skorupę ziemską, mające określone właściwości chemiczne i fizyczne."
+                                  },
+                                  {
+                                      "question":  "Która grupa minerałów jest najpowszechniejsza w skorupie ziemskiej i określana mianem skałotwórczych?",
+                                      "options":  [
+                                                      "Diament, szafir, rubin.",
+                                                      "Złoto, srebro, platyna.",
+                                                      "Mika, skaleń, kwarc.",
+                                                      "Siarka, sól kamienna, gips."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Do nielicznych minerałów budujących skorupę ziemską, zwanych skałotwórczymi, należą m.in. mika, skaleń i kwarc."
+                                  },
+                                  {
+                                      "question":  "Jaka jest podstawowa różnica w genezie skał magmowych głębinowych i wylewnych?",
+                                      "options":  [
+                                                      "Głębokość krystalizacji i tempo stygnięcia.",
+                                                      "Zawartość skamieniałości w strukturze.",
+                                                      "Pochodzenie od organizmów roślinnych lub zwierzęcych.",
+                                                      "Wpływ wysokiego ciśnienia na skały osadowe."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Skały głębinowe krystalizują powoli głęboko pod ziemią, natomiast wylewne powstają z lawy szybko zastygającej na powierzchni."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w strukturze granitu widoczne są poszczególne minerały, a w bazalcie nie?",
+                                      "options":  [
+                                                      "Granit jest skałą osadową, a bazalt metamorficzną.",
+                                                      "Granit powstaje w wyniku powolnej krystalizacji magmy, co pozwala na wzrost kryształów.",
+                                                      "Bazalt powstaje z magmy bogatej w gazy, które niszczą kryształy.",
+                                                      "Granit składa się wyłącznie z jednego rodzaju minerału o wyjątkowo dużych rozmiarach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Granit to skała głębinowa powstała z powoli krystalizującej magmy, co umożliwia wykształcenie widocznych minerałów, w przeciwieństwie do szybko stygnącego bazaltu."
+                                  },
+                                  {
+                                      "question":  "Do której grupy skał osadowych zalicza się węgiel kamienny?",
+                                      "options":  [
+                                                      "Okruchowych.",
+                                                      "Chemicznych.",
+                                                      "Organicznych.",
+                                                      "Magmowych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Węgiel kamienny należy do skał osadowych pochodzenia organicznego, powstających z nagromadzenia szczątków roślinnych."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają skały osadowe chemiczne, takie jak sól kamienna?",
+                                      "options":  [
+                                                      "Przez scementowanie luźnych ziaren piasku.",
+                                                      "Na skutek wytrącania się substancji z roztworów wodnych.",
+                                                      "W wyniku przeobrażenia wapieni pod wpływem temperatury.",
+                                                      "Poprzez nagromadzenie szkieletów zwierząt morskich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skały chemiczne powstają najczęściej w płytkich zbiornikach wodnych na skutek wytrącania się substancji z roztworów, np. podczas parowania wody."
+                                  },
+                                  {
+                                      "question":  "Który proces prowadzi do powstania piaskowca z piasku?",
+                                      "options":  [
+                                                      "Topnienie.",
+                                                      "Metamorfizm.",
+                                                      "Scementowanie.",
+                                                      "Wietrzenie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Piaskowiec to skała okruchowa zwięzła, która powstaje w wyniku scementowania ziaren piasku."
+                                  },
+                                  {
+                                      "question":  "Co jest charakterystyczną cechą budowy gnejsu?",
+                                      "options":  [
+                                                      "Jednolita, szklista struktura.",
+                                                      "Obecność pęcherzyków gazu.",
+                                                      "Występowanie ciemnych smug na powierzchni.",
+                                                      "Wyraźne warstwowanie ziaren piasku."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gnejs, będący efektem przeobrażenia granitu, charakteryzuje się występowaniem ciemnych smug na powierzchni."
+                                  },
+                                  {
+                                      "question":  "Która para skał przedstawia relację: skała wyjściowa – skała metamorficzna?",
+                                      "options":  [
+                                                      "Granit – Bazalt.",
+                                                      "Wapień – Marmur.",
+                                                      "Piasek – Żwir.",
+                                                      "Węgiel – Ropa naftowa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Marmur powstaje z wapieni, które ulegają przeobrażeniu pod wpływem wysokiej temperatury i ciśnienia."
+                                  },
+                                  {
+                                      "question":  "Jakie warunki są niezbędne do powstania skał metamorficznych?",
+                                      "options":  [
+                                                      "Niska temperatura i obecność wody.",
+                                                      "Bardzo wysoka temperatura i ogromne ciśnienie.",
+                                                      "Szybkie stygnięcie lawy na powierzchni.",
+                                                      "Odparowanie wody z płytkiego zbiornika."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skały metamorficzne tworzą się, gdy na istniejące skały oddziałują bardzo wysoka temperatura oraz ogromne ciśnienie."
+                                  },
+                                  {
+                                      "question":  "Który surowiec jest wykorzystywany do produkcji opon samochodowych?",
+                                      "options":  [
+                                                      "Siarka.",
+                                                      "Sól kamienna.",
+                                                      "Granit.",
+                                                      "Wapień."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Siarka to jeden z surowców chemicznych wykorzystywanych do wyrobu produktów gumowych, np. opon."
+                                  },
+                                  {
+                                      "question":  "Do produkcji jakich elementów wykorzystuje się miedź ze względu na jej właściwości?",
+                                      "options":  [
+                                                      "Nawierzchni dróg i autostrad.",
+                                                      "Urządzeń elektrycznych i kabli.",
+                                                      "Cementu i zaprawy murarskiej.",
+                                                      "Nawozów sztucznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Miedź znajduje zastosowanie w produkcji urządzeń elektrycznych (np. silników), elektronicznych oraz kabli i przewodów."
+                                  },
+                                  {
+                                      "question":  "Dlaczego ropa naftowa jest zaliczana zarówno do surowców energetycznych, jak i chemicznych?",
+                                      "options":  [
+                                                      "Ponieważ jest to specyficzna skała magmowa o szerokim zastosowaniu w nowoczesnym budownictwie.",
+                                                      "Ponieważ służy do produkcji paliw oraz tworzyw sztucznych i leków.",
+                                                      "Ponieważ wydobywa się ją w tych samych kopalniach co węgiel.",
+                                                      "Ponieważ zawiera metale szlachetne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ropa naftowa to surowiec energetyczny (paliwo), ale też chemiczny, z którego wytwarza się benzynę, smary, tworzywa sztuczne, kosmetyki i leki."
+                                  },
+                                  {
+                                      "question":  "Który z wymienionych surowców należy do grupy surowców skalnych?",
+                                      "options":  [
+                                                      "Ruda żelaza.",
+                                                      "Węgiel brunatny.",
+                                                      "Granit.",
+                                                      "Siarka."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Granit jest zaliczany do surowców skalnych, wykorzystywanych głównie w budownictwie."
+                                  },
+                                  {
+                                      "question":  "Z jakiej skały głównie produkuje się cement?",
+                                      "options":  [
+                                                      "Z granitu.",
+                                                      "Z wapienia.",
+                                                      "Z bazaltu.",
+                                                      "Z piaskowca."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wapienie są surowcem skalnym, z którego w procesie produkcji wytwarza się cement."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia skały osadowe okruchowe luźne od zwięzłych?",
+                                      "options":  [
+                                                      "Rodzaj minerałów w składzie.",
+                                                      "Stopień scementowania ziaren.",
+                                                      "Zawartość szczątków organicznych.",
+                                                      "Głębokość występowania pod ziemią."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skały luźne (np. piasek) to niescementowane ziarna, natomiast skały zwięzłe (np. piaskowiec) powstają w wyniku scementowania tych okruchów."
+                                  },
+                                  {
+                                      "question":  "Który minerał jest kamieniem szlachetnym?",
+                                      "options":  [
+                                                      "Kwarc.",
+                                                      "Mika.",
+                                                      "Diament.",
+                                                      "Skaleń."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Diamenty, obok szafirów i rubinów, są wymieniane jako kamienie szlachetne, w przeciwieństwie do pospolitych minerałów skałotwórczych."
+                                  },
+                                  {
+                                      "question":  "Jak klasyfikujemy andezyt?",
+                                      "options":  [
+                                                      "Jako skałę magmową głębinową.",
+                                                      "Jako skałę magmową wylewną.",
+                                                      "Jako skałę osadową chemiczną.",
+                                                      "Jako skałę metamorficzną."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Andezyt, podobnie jak bazalt, jest przykładem skały magmowej wylewnej (wulkanicznej)."
+                                  },
+                                  {
+                                      "question":  "Która cecha najlepiej opisuje pumeks?",
+                                      "options":  [
+                                                      "Duża gęstość i twardość.",
+                                                      "Struktura krystaliczna widoczna gołym okiem.",
+                                                      "Duża porowatość i mała gęstość.",
+                                                      "Pochodzenie organiczne."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Pumeks to wulkaniczna skała magmowa charakteryzująca się dużą porowatością i małą gęstością, powstała z lawy bogatej w gazy."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Skały magmowe głębinowe, takie jak granit, powstają w wyniku gwałtownego stygnięcia lawy na powierzchni Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Granit jest skałą głębinową (plutoniczną), która powstaje z magmy krystalizującej powoli głęboko pod powierzchnią Ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Minerały skałotwórcze, takie jak mika, skaleń i kwarc, stanowią nieliczną grupę spośród tysięcy poznanych minerałów.",
+                                           "answer":  true,
+                                           "explanation":  "Mimo że poznano około 4 tys. minerałów, tylko nieliczne z nich budują skorupę ziemską i są określane mianem skałotwórczych."
+                                       },
+                                       {
+                                           "sentence":  "Wapień jest klasyfikowany jako skała osadowa pochodzenia chemicznego, powstająca z wytrącania się substancji z roztworów.",
+                                           "answer":  false,
+                                           "explanation":  "Wapień to skała osadowa pochodzenia organicznego, powstającą z nagromadzenia szczątków zwierzęcych (muszli, szkieletów)."
+                                       },
+                                       {
+                                           "sentence":  "Bazalt posiada strukturę, w której gołym okiem można rozróżnić poszczególne kryształy minerałów.",
+                                           "answer":  false,
+                                           "explanation":  "Bazalt jest skałą wylewną powstałą z szybko stygnącej lawy, przez co budują go mikroskopijne minerały niewidoczne gołym okiem."
+                                       },
+                                       {
+                                           "sentence":  "Skały metamorficzne powstają w wyniku oddziaływania bardzo wysokiej temperatury i ciśnienia na istniejące już skały magmowe lub osadowe.",
+                                           "answer":  true,
+                                           "explanation":  "Proces metamorfizmu polega na przeobrażaniu skał pod wpływem wysokiej temperatury i ciśnienia."
+                                       },
+                                       {
+                                           "sentence":  "Piaskowiec jest zaliczany do skał osadowych okruchowych luźnych.",
+                                           "answer":  false,
+                                           "explanation":  "Piaskowiec to skała okruchowa zwięzła, która powstaje w wyniku scementowania ziaren piasku (luźną skałą jest sam piasek)."
+                                       },
+                                       {
+                                           "sentence":  "Węgiel kamienny pełni funkcję zarówno surowca energetycznego, jak i chemicznego.",
+                                           "answer":  true,
+                                           "explanation":  "Węgiel kamienny jest wykorzystywany do produkcji energii oraz jako surowiec chemiczny do produkcji m.in. tworzyw sztucznych i leków."
+                                       },
+                                       {
+                                           "sentence":  "Marmur jest efektem przeobrażenia granitu pod wpływem czynników metamorficznych.",
+                                           "answer":  false,
+                                           "explanation":  "Marmur powstaje z przeobrażenia wapieni, natomiast efektem przeobrażenia granitu jest gnejs."
+                                       },
+                                       {
+                                           "sentence":  "Sól kamienna tworzy się w procesie sedymentacji chemicznej poprzez odparowanie wody z mórz lub słonych jezior.",
+                                           "answer":  true,
+                                           "explanation":  "Sól kamienna jest skałą osadową chemiczną powstającą na skutek wytrącania się substancji z roztworów, gdy woda odparowuje."
+                                       },
+                                       {
+                                           "sentence":  "Pumeks jest skałą o dużej gęstości, która powstaje w warunkach wysokiego ciśnienia w głębi Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Pumeks to skała wulkaniczna o małej gęstości i dużej porowatości, powstała z lawy bogatej w gazy stygnącej na powierzchni."
+                                       },
+                                       {
+                                           "sentence":  "Granit, piasek i wapień są zaliczane do grupy surowców skalnych wykorzystywanych w budownictwie.",
+                                           "answer":  true,
+                                           "explanation":  "Wszystkie wymienione (granit, piasek, wapień) znajdują się w grupie surowców skalnych stosowanych w budownictwie."
+                                       },
+                                       {
+                                           "sentence":  "Ropa naftowa jest klasyfikowana wyłącznie jako surowiec energetyczny.",
+                                           "answer":  false,
+                                           "explanation":  "Ropa naftowa jest również cennym surowcem chemicznym, z którego wytwarza się m.in. tworzywa sztuczne, leki i kosmetyki."
+                                       }
+                                   ]
+                 }
+}

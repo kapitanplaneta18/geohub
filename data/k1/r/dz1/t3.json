@@ -1,0 +1,349 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz1-t3",
+                     "title":  "Mapa jako obraz Ziemi",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Mapa",
+                                              "definition":  "Uogólniony, graficzny obraz powierzchni Ziemi, innego ciała niebieskiego lub ich fragmentu, wykonany na płaszczyźnie w określonym pomniejszeniu, za pomocą znaków umownych."
+                                          },
+                                          {
+                                              "term":  "Plan",
+                                              "definition":  "Obraz niewielkiego fragmentu terenu (np. miasta) sporządzony w dużej skali, który traktuje powierzchnię Ziemi jako płaską i nie uwzględnia jej krzywizny."
+                                          },
+                                          {
+                                              "term":  "Odwzorowanie kartograficzne",
+                                              "definition":  "Matematyczny sposób prezentowania powierzchni kuli ziemskiej na płaszczyźnie, stosowany przy tworzeniu map."
+                                          },
+                                          {
+                                              "term":  "Zniekształcenia odwzorowawcze",
+                                              "definition":  "Deformacje odległości, powierzchni lub kątów powstające, gdy duży fragment powierzchni kuli ziemskiej jest prezentowany na płaszczyźnie mapy."
+                                          },
+                                          {
+                                              "term":  "Siatka kartograficzna",
+                                              "definition":  "Układ południków i równoleżników przedstawiony na mapie (płaszczyźnie), służący do odczytywania współrzędnych geograficznych."
+                                          },
+                                          {
+                                              "term":  "Skala mapy",
+                                              "definition":  "Informacja o stopniu, w jakim odległości na mapie zostały pomniejszone w stosunku do odległości w terenie."
+                                          },
+                                          {
+                                              "term":  "Skala liczbowa",
+                                              "definition":  "Zapis skali w postaci ułamka (np. 1:100 000), gdzie mianownik wskazuje wielkość pomniejszenia odległości."
+                                          },
+                                          {
+                                              "term":  "Skala polowa",
+                                              "definition":  "Skala służąca do wyrażania stopnia zmniejszenia powierzchni na mapie (np. 1 mm² – 1 000 000 mm²), obliczana jako kwadrat skali liniowej."
+                                          },
+                                          {
+                                              "term":  "Szerokość geograficzna (φ)",
+                                              "definition":  "Kąt zawarty między płaszczyzną równika (0°) a promieniem Ziemi przechodzącym przez dany punkt na jej powierzchni."
+                                          },
+                                          {
+                                              "term":  "Długość geograficzna (λ)",
+                                              "definition":  "Kąt zawarty między półpłaszczyzną południka zerowego (0°) a półpłaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi."
+                                          },
+                                          {
+                                              "term":  "Równoleżniki",
+                                              "definition":  "Linie na mapie wskazujące kierunek wschód–zachód, mające różną długość i przebiegające równolegle do równika."
+                                          },
+                                          {
+                                              "term":  "Południki",
+                                              "definition":  "Linie na mapie wskazujące kierunek północ–południe, zbiegające się na biegunach i mające jednakową długość."
+                                          },
+                                          {
+                                              "term":  "Zakres szerokości geograficznej",
+                                              "definition":  "Przyjmuje wartości od 0° na równiku do 90° na biegunach (północna N lub południowa S)."
+                                          },
+                                          {
+                                              "term":  "Zakres długości geograficznej",
+                                              "definition":  "Przyjmuje wartości od 0° do 180° na wschód (E) i na zachód (W) od południka zerowego."
+                                          },
+                                          {
+                                              "term":  "Szczegółowość mapy a skala",
+                                              "definition":  "Im mniejszy ułamek skali (większy mianownik), tym mniejsza jest skala mapy i tym samym jej mniejsza szczegółowość."
+                                          },
+                                          {
+                                              "term":  "GPS (Global Positioning System)",
+                                              "definition":  "Amerykański system nawigacji satelitarnej umożliwiający ustalenie współrzędnych obiektu oraz wysokości nad poziomem morza."
+                                          },
+                                          {
+                                              "term":  "Zasada działania GPS",
+                                              "definition":  "Odbiornik oblicza odległość od satelitów na podstawie czasu dotarcia sygnału; do określenia lokalizacji wymagany jest zasięg minimum czterech satelitów."
+                                          },
+                                          {
+                                              "term":  "Systemy nawigacji satelitarnej",
+                                              "definition":  "Oprócz GPS, do systemów tych należą m.in. rosyjski GLONASS oraz europejski Galileo."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Mapa",
+                                                 "pair2":  "Uwzględnia krzywiznę Ziemi, posiada siatkę kartograficzną"
+                                             },
+                                             {
+                                                 "pair1":  "Plan",
+                                                 "pair2":  "Traktuje powierzchnię jako płaską, brak siatki kartograficznej"
+                                             },
+                                             {
+                                                 "pair1":  "Szerokość geograficzna",
+                                                 "pair2":  "Mierzona od równika (0°) do biegunów (90°)"
+                                             },
+                                             {
+                                                 "pair1":  "Długość geograficzna",
+                                                 "pair2":  "Mierzona od południka zerowego (0°) do 180°"
+                                             },
+                                             {
+                                                 "pair1":  "Skala 1:10 000",
+                                                 "pair2":  "Mapa wielkoskalowa, duża szczegółowość"
+                                             },
+                                             {
+                                                 "pair1":  "Skala 1:80 000 000",
+                                                 "pair2":  "Mapa małoskalowa, duża generalizacja"
+                                             },
+                                             {
+                                                 "pair1":  "Południki",
+                                                 "pair2":  "Wyznaczają kierunek północ-południe"
+                                             },
+                                             {
+                                                 "pair1":  "Równoleżniki",
+                                                 "pair2":  "Wyznaczają kierunek wschód-zachód"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym różni się mapa od planu w kontekście odwzorowania powierzchni Ziemi?",
+                                      "options":  [
+                                                      "Mapa traktuje powierzchnię Ziemi jako płaską i nie wymaga stosowania odwzorowań, podczas gdy plan uwzględnia krzywiznę Ziemi i deformacje.",
+                                                      "Mapa przedstawia małe fragmenty terenu w bardzo dużej skali bez zniekształceń, natomiast plan obejmuje całe kontynenty ze znacznymi deformacjami.",
+                                                      "Mapa uwzględnia krzywiznę Ziemi, co powoduje zniekształcenia odległości, powierzchni lub kątów, natomiast plan traktuje mały obszar jako płaski.",
+                                                      "Mapa jest obrazem trójwymiarowym wykorzystującym numeryczny model terenu, podczas gdy plan jest zawsze dwuwymiarowym obrazem kartograficznym."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Kiedy duży fragment kuli ziemskiej jest prezentowany na mapie, powstają zniekształcenia. Plan obejmuje tak mały obszar, że można go traktować jak płaski."
+                                  },
+                                  {
+                                      "question":  "Która definicja poprawnie opisuje pojęcie szerokości geograficznej (φ)?",
+                                      "options":  [
+                                                      "Kąt zawarty między półpłaszczyzną południka początkowego a półpłaszczyzną południka przechodzącego przez dany punkt na Ziemi.",
+                                                      "Kąt zawarty między płaszczyzną równika a promieniem Ziemi przechodzącym przez dany punkt na jej powierzchni.",
+                                                      "Odległość w kilometrach mierzona wzdłuż dowolnego południka od bieguna północnego do bieguna południowego.",
+                                                      "Wartość liczbowa określająca położenie punktu względem poziomu morza, odczytywana z poziomic na mapie topograficznej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Szerokość geograficzna to kąt między płaszczyzną równika a promieniem Ziemi przechodzącym przez dany punkt."
+                                  },
+                                  {
+                                      "question":  "Jaką cechę posiadają południki w siatce geograficznej na kuli ziemskiej?",
+                                      "options":  [
+                                                      "Są liniami równoległymi do siebie, które przecinają równik pod kątem ostrym i mają różną długość zależną od szerokości geograficznej.",
+                                                      "Są liniami o jednakowej długości, które zbiegają się na biegunach i wskazują kierunek północ-południe.",
+                                                      "Są liniami o zróżnicowanej długości, najdłuższy jest południk zerowy, a najkrótsze znajdują się przy biegunach.",
+                                                      "Są liniami biegnącymi w kierunku wschód-zachód, które zachowują stałą odległość od siebie na całej kuli ziemskiej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Południki wskazują kierunek północ-południe, zbiegają się na biegunach i mają jednakową długość."
+                                  },
+                                  {
+                                      "question":  "Co oznacza zapis skali liczbowej 1:100 000 na mapie?",
+                                      "options":  [
+                                                      "Jeden centymetr na mapie odpowiada stu tysiącom kilometrów w terenie, co jest typowe dla map przeglądowych świata.",
+                                                      "Jedna jednostka długości na mapie odpowiada stu tysiącom takich samych jednostek w terenie (np. 1 cm to 100 000 cm).",
+                                                      "Jeden centymetr kwadratowy na mapie odpowiada stu tysiącom metrów kwadratowych powierzchni rzeczywistej.",
+                                                      "Jedna jednostka na mapie została powiększona sto tysięcy razy względem rzeczywistych rozmiarów obiektu w terenie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skala liczbowa informuje o stopniu pomniejszenia; 1:100 000 oznacza, że 1 cm na mapie to 100 000 cm w terenie."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób zmienia się powierzchnia obiektu na mapie w stosunku do terenu przy skalowaniu?",
+                                      "options":  [
+                                                      "Powierzchnia ulega zmniejszeniu proporcjonalnie do mianownika skali (np. w skali 1:100 maleje 100 razy).",
+                                                      "Powierzchnia ulega zmniejszeniu o wartość stałą niezależną od skali, wynikającą z błędu kartograficznego.",
+                                                      "Powierzchnia ulega zmniejszeniu proporcjonalnie do kwadratu liczby wyrażającej pomniejszenie odległości.",
+                                                      "Powierzchnia na mapie pozostaje niezmienna, a jedynie odległości liniowe ulegają odpowiedniemu przeskalowaniu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Liczba wyrażająca pomniejszenie powierzchni to liczba pomniejszenia odległości podniesiona do kwadratu."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się metoda izolinii w prezentacji danych na mapach?",
+                                      "options":  [
+                                                      "Polega na wypełnianiu powierzchni zamkniętych konturów kolorami lub szrafem w zależności od natężenia zjawiska.",
+                                                      "Polega na nanoszeniu linii łączących punkty o jednakowych wartościach liczbowych danego zjawiska ciągłego.",
+                                                      "Polega na umieszczaniu sygnatur punktowych, których wielkość jest proporcjonalna do wartości przedstawianego zjawiska.",
+                                                      "Polega na prezentowaniu struktury zjawiska za pomocą wykresów naniesionych na poszczególne jednostki administracyjne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metoda izolinii polega na nanoszeniu linii łączących punkty o takich samych wartościach, np. izohipsy czy izotermy."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych opisów najlepiej definiuje system GIS (Geograficzne Systemy Informacyjne)?",
+                                      "options":  [
+                                                      "Zbiór narzędzi komputerowych służący wyłącznie do digitalizacji starych map papierowych w celu ich archiwizacji.",
+                                                      "System nawigacji satelitarnej umożliwiający wyznaczanie trasy przejazdu i śledzenie położenia obiektów w czasie rzeczywistym.",
+                                                      "Zbiór narzędzi komputerowych do gromadzenia, analizy i prezentacji danych przestrzennych o obiektach i zjawiskach.",
+                                                      "Internetowy portal udostępniający zdjęcia lotnicze i satelitarne bez możliwości ich edycji i przetwarzania analitycznego."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "GIS to zbiór narzędzi komputerowych służący do gromadzenia, opisu, analizy oraz prezentacji danych przestrzennych."
+                                  },
+                                  {
+                                      "question":  "Na czym polega metoda kartogramu stosowana w kartografii?",
+                                      "options":  [
+                                                      "Na przedstawieniu uśrednionej wartości natężenia zjawiska w granicach danego obszaru (np. gminy) za pomocą skali barw.",
+                                                      "Na umieszczeniu wykresów słupkowych lub kołowych w obrębie jednostek administracyjnych w celu pokazania struktury zjawiska.",
+                                                      "Na zaznaczeniu punktami miejsc występowania zjawiska, gdzie zagęszczenie punktów odzwierciedla jego intensywność.",
+                                                      "Na wyznaczeniu linii zasięgu występowania danego zjawiska, np. gatunku rośliny lub strefy klimatycznej."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Metoda kartogramu prezentuje wartości względne (uśrednione) w granicach obszaru (np. jednostek administracyjnych) za pomocą skali barw."
+                                  },
+                                  {
+                                      "question":  "Czym są atrybuty w systemach informacji geograficznej (GIS)?",
+                                      "options":  [
+                                                      "Są to wyłącznie współrzędne geograficzne określające dokładne położenie punktów pomiarowych w przestrzeni.",
+                                                      "Są to dodatkowe informacje o obiektach (np. typ gleby, szerokość drogi) przechowywane w tabelach bazy danych.",
+                                                      "Są to błędy pomiarowe powstające podczas konwersji map papierowych na formaty cyfrowe w komputerze.",
+                                                      "Są to warstwy graficzne przedstawiające rzeźbę terenu za pomocą cieniowania i poziomic na geoportalu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Atrybuty to dodatkowe informacje o obiektach (lokalizacja, wielkość, cechy) zamieszczane w tabelach GIS."
+                                  },
+                                  {
+                                      "question":  "W jakim celu stosuje się metodę cieniowania na mapach hipsometrycznych?",
+                                      "options":  [
+                                                      "Aby precyzyjnie odczytać wysokość bezwzględną każdego punktu bez konieczności używania poziomic.",
+                                                      "Aby rozróżnić tereny lądowe od obszarów wodnych poprzez nadanie im kontrastowych barw.",
+                                                      "Aby mapa stała się bardziej plastyczna i imitowała oświetlenie stoków, co ułatwia wyobrażenie rzeźby terenu.",
+                                                      "Aby ukryć mniej istotne szczegóły topograficzne i zwiększyć czytelność głównych dróg i miast."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Cieniowanie to zabieg graficzny sprawiający, że mapa staje się bardziej plastyczna, imitując oświetlenie stoków."
+                                  },
+                                  {
+                                      "question":  "Co jest niezbędne do poprawnego działania odbiornika GPS w celu wyznaczenia lokalizacji (3D)?",
+                                      "options":  [
+                                                      "Połączenie z siecią internetową w celu pobrania aktualnych map topograficznych okolicy.",
+                                                      "Znajdowanie się w zasięgu sygnału radiowego z co najmniej czterech satelitów nawigacyjnych.",
+                                                      "Posiadanie wbudowanego kompasu magnetycznego do orientacji kierunków świata.",
+                                                      "Widoczność stacji bazowej telefonii komórkowej w odległości nie większej niż 5 km."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Aby obliczyć lokalizację (szerokość, długość i wysokość), odbiornik musi być w zasięgu minimum czterech satelitów."
+                                  },
+                                  {
+                                      "question":  "Która skala mapy zapewnia największą szczegółowość przedstawianych obiektów?",
+                                      "options":  [
+                                                      "1:10 000 (mapa wielkoskalowa).",
+                                                      "1:100 000 (mapa średnioskalowa).",
+                                                      "1:1 000 000 (mapa małoskalowa).",
+                                                      "1:80 000 000 (mapa przeglądowa)."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Im mniejszy mianownik ułamka (np. 10 000), tym większa skala i większa szczegółowość mapy."
+                                  },
+                                  {
+                                      "question":  "Na czym polega generalizacja treści mapy?",
+                                      "options":  [
+                                                      "Na automatycznym generowaniu nazw geograficznych przez algorytmy sztucznej inteligencji.",
+                                                      "Na powiększaniu wszystkich obiektów na mapie w celu zwiększenia ich czytelności dla użytkownika.",
+                                                      "Na selekcji i uproszczeniu obiektów wynikającym ze zmniejszania skali mapy i ograniczonej pojemności arkusza.",
+                                                      "Na zastępowaniu sygnatur punktowych rzeczywistymi zdjęciami obiektów wykonanymi w terenie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Choć definicja nie jest wprost w słowniczku, kontekst map małoskalowych i ogólna wiedza geograficzna w podręczniku implikują uogólnienie (mapa to uogólniony obraz)."
+                                  },
+                                  {
+                                      "question":  "Która z metod prezentacji jest metodą ilościową?",
+                                      "options":  [
+                                                      "Metoda sygnaturowa (przedstawiająca np. lokalizację kopalń).",
+                                                      "Metoda powierzchniowa (przedstawiająca np. typy gleb).",
+                                                      "Metoda kropkowa (gdzie zagęszczenie kropek oddaje natężenie zjawiska).",
+                                                      "Metoda zasięgów (przedstawiająca np. obszar występowania buka)."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Metoda kropkowa jest metodą ilościową, gdzie waga kropki i ich zagęszczenie oddają wielkość zjawiska."
+                                  },
+                                  {
+                                      "question":  "Czym jest ortofotomapa?",
+                                      "options":  [
+                                                      "Zdjęciem lotniczym lub satelitarnym przetworzonym tak, aby miało jednolitą skalę i było wpasowane w układ współrzędnych.",
+                                                      "Zwykłym zdjęciem satelitarnym surowym, które posiada zniekształcenia perspektywiczne wynikające z kąta wykonania zdjęcia.",
+                                                      "Mapą topograficzną, na którą nałożono ręcznie cieniowanie ołówkiem w celu uwypuklenia rzeźby terenu.",
+                                                      "Rodzajem diagramu klimatycznego przedstawiającego opady i temperaturę na tle mapy fizycznej danego regionu."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ortofotomapy powstają przez nadanie zdjęciom jednolitej skali i wpisanie ich w układ współrzędnych."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Mapa to wierny obraz powierzchni Ziemi, który dzięki zastosowaniu skali jest całkowicie wolny od zniekształceń odległości i kątów.",
+                                           "answer":  false,
+                                           "explanation":  "Mapa jest obrazem uogólnionym i wykonanym na płaszczyźnie, co nieuchronnie prowadzi do powstania zniekształceń odległości, powierzchni lub kątów."
+                                       },
+                                       {
+                                           "sentence":  "W przypadku planów, przedstawiających niewielkie fragmenty terenu, zakłada się, że powierzchnia Ziemi jest płaska.",
+                                           "answer":  true,
+                                           "explanation":  "Jeśli przedstawiany obszar jest bardzo mały (jak na planie), można go traktować tak, jakby był płaski, pomijając krzywiznę Ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Skala 1:100 000 jest skalą większą niż skala 1:10 000, ponieważ obejmuje większy obszar.",
+                                           "answer":  false,
+                                           "explanation":  "Skala jest ułamkiem; im mniejszy mianownik, tym większa skala. Skala 1:10 000 jest większa (bardziej szczegółowa) niż 1:100 000."
+                                       },
+                                       {
+                                           "sentence":  "Aby obliczyć powierzchnię w terenie na podstawie mapy, należy pomnożyć powierzchnię z mapy przez mianownik skali liczbowej podniesiony do kwadratu.",
+                                           "answer":  true,
+                                           "explanation":  "Przy obliczaniu powierzchni stopień pomniejszenia (mianownik skali) musi zostać podniesiony do kwadratu."
+                                       },
+                                       {
+                                           "sentence":  "Szerokość geograficzna to kąt zawarty między półpłaszczyzną południka zerowego a półpłaszczyzną południka przechodzącego przez dany punkt.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to definicja długości geograficznej. Szerokość geograficzna to kąt między płaszczyzną równika a promieniem Ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Im większy fragment powierzchni kuli ziemskiej prezentujemy na mapie, tym mniejsze są zniekształcenia odwzorowawcze.",
+                                           "answer":  false,
+                                           "explanation":  "Zniekształcenia (odległości, powierzchni lub kątów) powstają, gdy duży fragment kuli jest prezentowany na płaszczyźnie; dla małych obszarów (plany) zniekształcenia są pomijalne."
+                                       },
+                                       {
+                                           "sentence":  "Wartości długości geograficznej mieszczą się w przedziale od 0° do 180°.",
+                                           "answer":  true,
+                                           "explanation":  "Długość geograficzna przyjmuje wartości od 0° do 180° na wschód i na zachód od południka zerowego."
+                                       },
+                                       {
+                                           "sentence":  "Na planach miast zazwyczaj nie przedstawia się rzeźby terenu.",
+                                           "answer":  true,
+                                           "explanation":  "Plany są sporządzane dla niewielkich obszarów i w przeciwieństwie do map topograficznych, zazwyczaj nie przedstawiają rzeźby terenu."
+                                       },
+                                       {
+                                           "sentence":  "Aby odbiornik GPS mógł określić pełną lokalizację użytkownika wraz z wysokością n.p.m., musi znaleźć się w zasięgu minimum trzech satelitów.",
+                                           "answer":  false,
+                                           "explanation":  "Do określenia szerokości, długości oraz wysokości nad poziomem morza niezbędny jest zasięg minimum czterech satelitów."
+                                       },
+                                       {
+                                           "sentence":  "Południki to linie na mapie, które wskazują kierunek wschód-zachód i są równoległe do równika.",
+                                           "answer":  false,
+                                           "explanation":  "Południki wskazują kierunek północ-południe i zbiegają się na biegunach. Kierunek wschód-zachód wskazują równoleżniki."
+                                       },
+                                       {
+                                           "sentence":  "Skala liczbowa 1:100 000 oznacza, że 1 centymetr na mapie odpowiada 1 kilometrowi w terenie.",
+                                           "answer":  true,
+                                           "explanation":  "100 000 cm to 1000 metrów, czyli 1 kilometr."
+                                       },
+                                       {
+                                           "sentence":  "System GPS służy wyłącznie do nawigacji samochodowej i nie znajduje zastosowania w badaniach naukowych czy ratownictwie.",
+                                           "answer":  false,
+                                           "explanation":  "GPS jest wykorzystywany w wielu dziedzinach, w tym przez służby ratunkowe (GOPR), w turystyce pieszej oraz do zbierania danych o środowisku."
+                                       }
+                                   ]
+                 }
+}

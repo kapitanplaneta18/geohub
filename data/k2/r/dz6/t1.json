@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t1",
+    "title": "Zróżnicowanie usług na świecie",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Usługi (definicja)",
+        "definition": "Sektor gospodarki obejmujący działalność, która nie polega na wytwarzaniu dóbr materialnych, lecz ma charakter świadczeń na rzecz innych osób i służy zaspokajaniu ich potrzeb."
+      },
+      {
+        "term": "Podział usług (według PKWiU)",
+        "definition": "Klasyfikacja dzieląca działalność usługową na usługi konsumpcyjne, produkcyjne i ogólnospołeczne."
+      },
+      {
+        "term": "Usługi konsumpcyjne",
+        "definition": "Działalność usługowa związana bezpośrednio z zaspokajaniem codziennych potrzeb ludności, np. remonty mieszkań czy usługi fryzjerskie."
+      },
+      {
+        "term": "Usługi produkcyjne",
+        "definition": "Świadczenia na rzecz przedsiębiorstw, które wspierają procesy wytwórcze, np. naprawa i konserwacja linii produkcyjnych."
+      },
+      {
+        "term": "Usługi ogólnospołeczne",
+        "definition": "Działalność zaspokajająca porządkowo-organizacyjne potrzeby gospodarki narodowej i społeczeństwa, np. administracja państwowa lub policja."
+      },
+      {
+        "term": "Usługi materialne",
+        "definition": "Rodzaj usług związanych z oddziaływaniem na konkretne dobra, obejmujący m.in. naprawę samochodów, transport towarów czy usługi porządkowe."
+      },
+      {
+        "term": "Usługi niematerialne",
+        "definition": "Usługi dotyczące czynności niemających związku z fizycznymi dobrami, do których należą m.in. usługi edukacyjne, bankowe czy konsultacje lekarskie."
+      },
+      {
+        "term": "Podział usług (według wyniku pracy usługowej)",
+        "definition": "Klasyfikacja wyróżniająca usługi: renowacyjne (naprawcze), informacyjne, dystrybucyjne, rekreacyjne, oświatowo-kulturalne, organizacyjne i zdrowotne."
+      },
+      {
+        "term": "Usługi podstawowe (niższego rzędu)",
+        "definition": "Usługi powszechne i względnie łatwo dostępne, z których ludność korzysta na co dzień, np. handel, usługi naprawcze, przewozy pasażerskie."
+      },
+      {
+        "term": "Usługi wyspecjalizowane (wyższego rzędu)",
+        "definition": "Usługi bardziej rozproszone, z których korzysta się rzadziej i które często są świadczone na rzecz firm, np. usługi finansowe, prawnicze, badania naukowe."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Usługi produkcyjne",
+        "pair2": "Wspierają procesy wytwórcze, świadczone na rzecz przedsiębiorstw"
+      },
+      {
+        "pair1": "Usługi materialne",
+        "pair2": "Naprawa samochodu, transport towarów, usługi porządkowe"
+      },
+      {
+        "pair1": "Usługi niematerialne",
+        "pair2": "Usługi edukacyjne, bankowe, konsultacje medyczne"
+      },
+      {
+        "pair1": "Usługi podstawowe",
+        "pair2": "Powszechne usługi niższego rzędu, np. handel i przewozy pasażerskie"
+      },
+      {
+        "pair1": "Usługi wyspecjalizowane",
+        "pair2": "Rzadziej wykorzystywane usługi wyższego rzędu, np. badania naukowe i doradztwo prawne"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jaką główną cechą charakteryzuje się sektor usług na tle innych sektorów gospodarki?",
+        "options": [
+          "Produkuje dobra materialne przy użyciu nowoczesnych maszyn.",
+          "Obejmuje świadczenia zaspokajające potrzeby innych podmiotów.",
+          "Zajmuje się pozyskiwaniem surowców ze środowiska naturalnego.",
+          "Skupia się na dystrybucji energii oraz surowców wtórnych."
+        ],
+        "answer": "B",
+        "explanation": "Sektor usług nie polega na wytwarzaniu dóbr materialnych, lecz ma charakter świadczeń wykonywanych na rzecz innych osób i służących zaspokajaniu ich potrzeb."
+      },
+      {
+        "question": "Do której grupy usług należy działalność związana z naprawą samochodów i transportem towarów?",
+        "options": [
+          "Usługi o charakterze rekreacyjno-turystycznym.",
+          "Usługi o charakterze informacyjno-doradczym.",
+          "Usługi o charakterze ściśle ogólnospołecznym.",
+          "Usługi o charakterze stricte materialnym."
+        ],
+        "answer": "D",
+        "explanation": "Usługi materialne wiążą się bezpośrednio z oddziaływaniem na fizyczne dobra materialne, na przykład poprzez ich naprawę lub transport."
+      },
+      {
+        "question": "Która z wymienionych form działalności gospodarczej jest zaliczana do usług niematerialnych?",
+        "options": [
+          "Naprawa i modernizacja linii produkcyjnych.",
+          "Transport ciężarowy i dystrybucja towarów.",
+          "Usługi edukacyjne oraz porady medyczne.",
+          "Renowacja budynków i starych mebli."
+        ],
+        "answer": "C",
+        "explanation": "Usługi niematerialne dotyczą czynności niemających związku z dobrami fizycznymi. Należą do nich między innymi usługi zdrowotne, bankowe czy edukacyjne."
+      },
+      {
+        "question": "Jak dzieli się działalność usługową według Polskiej Klasyfikacji Wyrobów i Usług (PKWiU)?",
+        "options": [
+          "Na usługi materialne, niematerialne i dystrybucyjne.",
+          "Na usługi podstawowe, wyspecjalizowane i rynkowe.",
+          "Na usługi konsumpcyjne, produkcyjne i ogólnospołeczne.",
+          "Na usługi rekreacyjne, zdrowotne oraz organizacyjne."
+        ],
+        "answer": "C",
+        "explanation": "Klasyfikacja PKWiU dzieli sektor usług na trzy główne kategorie: konsumpcyjne, produkcyjne i ogólnospołeczne w zależności od charakteru odbiorcy i celu."
+      },
+      {
+        "question": "Który zestaw zawiera wyłącznie usługi podstawowe, z których ludność korzysta na co dzień?",
+        "options": [
+          "Porady prawne, badania naukowe, doradztwo ubezpieczeniowe.",
+          "Handel detaliczny, usługi naprawcze, przewozy pasażerskie.",
+          "Zarządzanie finansami, administracja centralna, marketing.",
+          "Rozwój oprogramowania, badania rynkowe, edukacja wyższa."
+        ],
+        "answer": "B",
+        "explanation": "Usługi podstawowe, czyli niższego rzędu, charakteryzują się powszechnością i łatwą dostępnością, a zaliczamy do nich m.in. handel detaliczny i przewozy pasażerskie."
+      },
+      {
+        "question": "Czym charakteryzują się usługi wyspecjalizowane na tle innych form działalności gospodarczej?",
+        "options": [
+          "Są powszechnie dostępne i wykorzystywane każdego dnia.",
+          "Skupiają się na zaspokajaniu biologicznych potrzeb ludzi.",
+          "Są używane rzadziej i świadczone często na rzecz firm.",
+          "Zajmują się głównie bieżącą konserwacją wyposażenia."
+        ],
+        "answer": "C",
+        "explanation": "Usługi wyspecjalizowane, zwane usługami wyższego rzędu, są bardziej rozproszone, rzadziej wykorzystywane i często adresowane do przedsiębiorstw."
+      },
+      {
+        "question": "Na czym polegają usługi produkcyjne wyróżniane w klasyfikacjach działalności gospodarczej?",
+        "options": [
+          "Zaspokajają porządkowe potrzeby ogółu społeczeństwa.",
+          "Wspierają procesy wytwórcze w innych przedsiębiorstwach.",
+          "Służą bezpośredniemu zaspokajaniu potrzeb konsumentów.",
+          "Obejmują finansowanie funkcjonowania służby zdrowia."
+        ],
+        "answer": "B",
+        "explanation": "Usługi produkcyjne nie tworzą nowych dóbr bezpośrednio, ale wspierają procesy produkcji i są świadczone na rzecz przedsiębiorstw wytwórczych."
+      },
+      {
+        "question": "Działalność policji, straży pożarnej i urzędów państwowych klasyfikuje się jako:",
+        "options": [
+          "Usługi o charakterze stricte materialnym.",
+          "Usługi klasyfikowane jako konsumpcyjne.",
+          "Usługi wyspecjalizowane produkcyjne.",
+          "Usługi o charakterze ogólnospołecznym."
+        ],
+        "answer": "D",
+        "explanation": "Usługi ogólnospołeczne mają na celu zaspokajanie porządkowo-organizacyjnych potrzeb gospodarki narodowej i całego społeczeństwa."
+      },
+      {
+        "question": "Transport i handel, w podziale uwzględniającym wynik pracy usługowej, zaliczane są do usług:",
+        "options": [
+          "Dystrybucyjnych.",
+          "Renowacyjnych.",
+          "Informacyjnych.",
+          "Organizacyjnych."
+        ],
+        "answer": "A",
+        "explanation": "Zgodnie z podziałem usług na podstawie wyniku pracy usługowej, transport oraz handel klasyfikuje się jako usługi o charakterze dystrybucyjnym."
+      },
+      {
+        "question": "Który z poniższych rodzajów działalności stanowi klasyczny przykład usługi wyspecjalizowanej?",
+        "options": [
+          "Komunikacja miejska w strefach wielkich aglomeracji.",
+          "Specjalistyczny audyt finansowy dla dużej korporacji.",
+          "Dystrybucja podstawowej żywności w sklepach osiedlowych.",
+          "Bieżąca konserwacja lokalnych sieci wodociągowych."
+        ],
+        "answer": "B",
+        "explanation": "Audyt finansowy to usługa wyższego rzędu, która wymaga specjalistycznej wiedzy i jest rzadziej wykorzystywana, najczęściej przez sektor przedsiębiorstw."
+      },
+      {
+        "question": "Jakie rodzaje usług zaczynają odgrywać dominującą rolę podczas przechodzenia gospodarki w fazę informacyjną?",
+        "options": [
+          "Usługi związane z codziennym zaopatrzeniem w żywność.",
+          "Usługi ogólnospołeczne na najniższym szczeblu lokalnym.",
+          "Usługi wyspecjalizowane w przetwarzaniu informacji.",
+          "Usługi transportowe ułatwiające handel surowcami."
+        ],
+        "answer": "C",
+        "explanation": "W fazie informacyjnej rozwoju cywilizacyjnego przeważają wysoko wyspecjalizowane usługi opierające się na pozyskiwaniu, analizie i przetwarzaniu informacji."
+      },
+      {
+        "question": "Jak zmienia się profil sektora usługowego w momencie wchodzenia państwa w fazę postindustrialną?",
+        "options": [
+          "Dominują usługi wspierające wielkoskalową produkcję rolną.",
+          "Rośnie rola usług wyspecjalizowanych oraz edukacji wyższej.",
+          "Największe znaczenie zyskują usługi naprawcze i rzemiosło.",
+          "Maleje rola usług finansowych na rzecz szkolnictwa zawodowego."
+        ],
+        "answer": "B",
+        "explanation": "Faza postindustrialna cechuje się dynamicznym wzrostem usług wyspecjalizowanych, takich jak usługi finansowe, reklamowe, szkolnictwo najwyższego szczebla i kultura."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Usługi edukacyjne oraz porady lekarskie zalicza się do usług materialnych, ponieważ wymagają one fizycznej obecności usługobiorcy w wyznaczonej placówce.",
+        "answer": false,
+        "explanation": "Usługi edukacyjne i zdrowotne zalicza się do usług niematerialnych, ponieważ dotyczą czynności niemających bezpośredniego związku z fizycznym oddziaływaniem na dobra materialne."
+      },
+      {
+        "sentence": "Działalność policji i administracji państwowej to przykłady usług ogólnospołecznych, które zaspokajają porządkowo-organizacyjne potrzeby gospodarki narodowej.",
+        "answer": true,
+        "explanation": "Usługi ogólnospołeczne służą całemu społeczeństwu i gospodarce, dbając o ich właściwą organizację, administrację oraz bezpieczeństwo."
+      },
+      {
+        "sentence": "Badania naukowe oraz doradztwo prawne są powszechnie zaliczane do usług podstawowych, niezbędnych do codziennego funkcjonowania społeczeństwa.",
+        "answer": false,
+        "explanation": "Badania naukowe i usługi prawnicze należą do usług wyspecjalizowanych wyższego rzędu, z których korzysta się rzadziej i które są często świadczone na rzecz firm."
+      },
+      {
+        "sentence": "W podziale uwzględniającym wynik pracy usługowej, działalność handlową oraz transport zalicza się do grupy usług dystrybucyjnych.",
+        "answer": true,
+        "explanation": "Handel i transport ułatwiają przepływ towarów oraz usług, dlatego w klasyfikacji opartej na wyniku pracy klasyfikuje się je jako usługi dystrybucyjne."
+      },
+      {
+        "sentence": "Sektor usług różni się od przemysłu tym, że skupia się na wytwarzaniu dóbr materialnych na masową skalę przy użyciu nowoczesnych technologii.",
+        "answer": false,
+        "explanation": "Działalność usługowa nie polega na masowym wytwarzaniu dóbr materialnych ani energii, lecz ma charakter świadczeń wykonywanych na rzecz innych osób."
+      },
+      {
+        "sentence": "Usługi naprawcze, handel detaliczny oraz przewozy pasażerskie zaliczają się do usług wyspecjalizowanych, ponieważ wymagają odpowiedniej infrastruktury.",
+        "answer": false,
+        "explanation": "Przewozy pasażerskie, handel i usługi naprawcze to usługi podstawowe niższego rzędu, które cechują się powszechnością i względnie łatwą dostępnością."
+      },
+      {
+        "sentence": "Transport towarów, naprawa samochodów oraz usługi porządkowe to klasyczne przykłady usług o charakterze materialnym.",
+        "answer": true,
+        "explanation": "Usługi te wiążą się bezpośrednio z fizycznym oddziaływaniem na konkretne dobra materialne, na przykład w celu ich przemieszczenia lub odnowienia."
+      },
+      {
+        "sentence": "Usługi produkcyjne, takie jak naprawa i konserwacja linii w fabrykach, polegają na bezpośrednim tworzeniu nowych dóbr konsumpcyjnych dla ludności.",
+        "answer": false,
+        "explanation": "Usługi produkcyjne wspierają procesy wytwórcze przedsiębiorstw i są świadczone na ich rzecz, jednak nie polegają na bezpośrednim tworzeniu nowych dóbr."
+      },
+      {
+        "sentence": "Działalność związana ze sportem i turystyką tworzy grupę usług rekreacyjnych w klasyfikacji działalności usługowej ze względu na wynik pracy.",
+        "answer": true,
+        "explanation": "W klasyfikacji usług opartej na kryterium wyniku pracy usługowej sport i turystyka są kategoryzowane jako usługi rekreacyjne."
+      },
+      {
+        "sentence": "Remonty mieszkań i usługi fryzjerskie należą według Polskiej Klasyfikacji Wyrobów i Usług do usług produkcyjnych, gdyż dają wymierny, fizyczny efekt pracy.",
+        "answer": false,
+        "explanation": "Według klasyfikacji PKWiU remonty mieszkań i usługi fryzjerskie należą do usług konsumpcyjnych, ponieważ służą bezpośredniemu zaspokajaniu potrzeb ludności."
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz7-t2",
+                     "unit":  "VII",
+                     "title":  "Typy genetyczne gleb",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Gleby ferralitowe (czerwone i czerwonożółte)",
+                                              "definition":  "Gleby występujące w klimatach równikowym wybitnie wilgotnym i podrównikowym wilgotnym. Powstają pod bujną roślinnością, lecz mają małą zawartość próchnicy ze względu na szybki rozkład materii i intensywne przemywanie. Związki żelaza i glinu nadają im czerwoną barwę."
+                                          },
+                                          {
+                                              "term":  "Gleby cynamonowe",
+                                              "definition":  "Gleby strefowe charakterystyczne dla klimatu śródziemnomorskiego, powstające na skałach węglanowych pod suchymi lasami i zaroślami. Są dość żyzne, ale trudne w uprawie i podatne na erozję."
+                                          },
+                                          {
+                                              "term":  "Szaroziemy i buroziemy",
+                                              "definition":  "Gleby strefowe występujące w klimatach podzwrotnikowych i zwrotnikowych suchych. Ze względu na skąpą roślinność zawierają niewielką ilość próchnicy i często są zasolone."
+                                          },
+                                          {
+                                              "term":  "Czarnoziemy",
+                                              "definition":  "Gleby powstające w klimacie umiarkowanym ciepłym kontynentalnym, najczęściej na lessach przy udziale roślinności trawiastej. Charakteryzują się bardzo grubym poziomem próchnicznym i należą do najżyźniejszych gleb na świecie."
+                                          },
+                                          {
+                                              "term":  "Gleby kasztanowe",
+                                              "definition":  "Gleby powstające na południe od czarnoziemów, w bardziej suchym klimacie i pod mniej bujną roślinnością trawiastą. Zawierają mniej próchnicy niż czarnoziemy i mają jaśniejszą barwę."
+                                          },
+                                          {
+                                              "term":  "Gleby brunatne",
+                                              "definition":  "Gleby strefowe klimatu umiarkowanego ciepłego morskiego i przejściowego, tworzące się pod lasami liściastymi i mieszanymi. Ich barwa wynika z procesu brunatnienia, czyli uwalniania związków żelaza i glinu otaczających cząstki gleby."
+                                          },
+                                          {
+                                              "term":  "Gleby płowe",
+                                              "definition":  "Gleby występujące w klimacie umiarkowanym pod lasami liściastymi i mieszanymi. W ich profilu zaznacza się jasny poziom wymywania (części ilastych) i ciemniejszy poziom wmywania, co jest efektem procesu płowienia."
+                                          },
+                                          {
+                                              "term":  "Gleby bielicowe",
+                                              "definition":  "Gleby charakterystyczne dla klimatu umiarkowanego chłodnego i lasów iglastych (tajgi). Powstają na utworach polodowcowych (piaskach, żwirach) i posiadają wyraźny, jasny poziom wymywania."
+                                          },
+                                          {
+                                              "term":  "Gleby tundrowe",
+                                              "definition":  "Gleby strefowe obszarów o klimacie subpolarnym, powstające na terenie wieloletniej zmarzliny. Są oglejone, mają siną barwę i rzadko są wykorzystywane rolniczo."
+                                          },
+                                          {
+                                              "term":  "Inicjalne gleby arktyczne",
+                                              "definition":  "Gleby strefy polarnej o bardzo słabo wykształconym profilu. Występują na obszarach porośniętych roślinnością pionierską."
+                                          },
+                                          {
+                                              "term":  "Mady",
+                                              "definition":  "Gleby śródstrefowe występujące w dolinach i deltach rzecznych. Powstają w wyniku akumulacji mułów, piasków i żwirów podczas wezbrań rzeki i mają profil warstwowany."
+                                          },
+                                          {
+                                              "term":  "Rędziny",
+                                              "definition":  "Gleby śródstrefowe powstające ze zwietrzeliny skał węglanowych (np. wapieni) lub siarczanowych (np. gipsów). Zawierają liczne odłamki skalne, co czyni je trudnymi w uprawie."
+                                          },
+                                          {
+                                              "term":  "Czarne ziemie",
+                                              "definition":  "Gleby śródstrefowe powstające przy udziale roślinności łąkowej na obszarach o dużej wilgotności (np. zarastające bagna). Posiadają gruby poziom próchniczny i są bardzo żyzne."
+                                          },
+                                          {
+                                              "term":  "Gleby bagienne",
+                                              "definition":  "Gleby tworzące się w miejscach, gdzie zwierciadło wód podziemnych zalega płytko, co prowadzi do warunków beztlenowych. Zawierają dużo nierozłożonej materii organicznej i sinoniebieski poziom glejowy."
+                                          },
+                                          {
+                                              "term":  "Gleby wulkaniczne",
+                                              "definition":  "Żyzne gleby śródstrefowe powstające na skałach wulkanicznych, takich jak pokrywy bazaltowe czy tufy. Często charakteryzują się ciemną barwą."
+                                          },
+                                          {
+                                              "term":  "Gleby górskie",
+                                              "definition":  "Gleby niestrefowe występujące w górach we wszystkich strefach klimatycznych. Są to gleby inicjalne o płytkim profilu, zwykle wykorzystywane jako pastwiska."
+                                          },
+                                          {
+                                              "term":  "Gleby antropogeniczne",
+                                              "definition":  "Gleby niestrefowe powstałe lub silnie przekształcone w wyniku działalności człowieka. Występują m.in. w miastach (gleby zdegradowane) oraz w ogrodach (gleby bogate w próchnicę)."
+                                          },
+                                          {
+                                              "term":  "Lateryzacja (Ferralityzacja)",
+                                              "definition":  "Proces zachodzący w gorącym i wilgotnym klimacie, polegający na szybkim rozkładzie szczątków organicznych i wypłukiwaniu minerałów. W glebie pozostają głównie związki żelaza i glinu."
+                                          },
+                                          {
+                                              "term":  "Oglejenie",
+                                              "definition":  "Odtlenianie związków mineralnych w glebie na skutek nadmiernego uwilgotnienia. Prowadzi do powstania poziomu o sinoniebieskiej barwie."
+                                          },
+                                          {
+                                              "term":  "Proces darniowy",
+                                              "definition":  "Proces glebotwórczy zachodzący przy udziale roślinności trawiastej (np. na stepach), w którym bujna roślinność dostarcza dużej ilości materii organicznej. Prowadzi do wytworzenia grubego poziomu próchnicznego charakterystycznego dla czarnoziemów."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Gleby bielicowe",
+                                                 "pair2":  "Tajga / Klimat umiarkowany chłodny"
+                                             },
+                                             {
+                                                 "pair1":  "Gleby brunatne",
+                                                 "pair2":  "Lasy liściaste i mieszane / Klimat umiarkowany ciepły"
+                                             },
+                                             {
+                                                 "pair1":  "Czarnoziemy",
+                                                 "pair2":  "Stepy / Klimat umiarkowany ciepły kontynentalny"
+                                             },
+                                             {
+                                                 "pair1":  "Gleby cynamonowe",
+                                                 "pair2":  "Roślinność śródziemnomorska (makia)"
+                                             },
+                                             {
+                                                 "pair1":  "Gleby ferralitowe (czerwonożółte)",
+                                                 "pair2":  "Wilgotny las równikowy"
+                                             },
+                                             {
+                                                 "pair1":  "Szaroziemy i buroziemy",
+                                                 "pair2":  "Pustynie i półpustynie"
+                                             },
+                                             {
+                                                 "pair1":  "Gleby tundrowe",
+                                                 "pair2":  "Tundra / Klimat subpolarny"
+                                             },
+                                             {
+                                                 "pair1":  "Mady",
+                                                 "pair2":  "Warstwowane osady rzeczne (doliny i delty)"
+                                             },
+                                             {
+                                                 "pair1":  "Rędziny",
+                                                 "pair2":  "Skały węglanowe (wapienie) lub siarczanowe (gipsy)"
+                                             },
+                                             {
+                                                 "pair1":  "Gleby wulkaniczne",
+                                                 "pair2":  "Skały wulkaniczne (bazalty, tufy)"
+                                             },
+                                             {
+                                                 "pair1":  "Czarne ziemie",
+                                                 "pair2":  "Obszary o dużej wilgotności (zarośnięte bagna/jeziora)"
+                                             },
+                                             {
+                                                 "pair1":  "Gleby bagienne",
+                                                 "pair2":  "Płytkie zwierciadło wód podziemnych (warunki beztlenowe)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Która z wymienionych gleb należy do grupy gleb strefowych, których rozmieszczenie zależy od klimatu?",
+                                      "options":  [
+                                                      "Mada rzeczna",
+                                                      "Rędzina wapienna",
+                                                      "Gleba bielicowa",
+                                                      "Gleba górska"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gleby bielicowe są glebami strefowymi charakterystycznymi dla klimatu umiarkowanego chłodnego i tajgi, podczas gdy mady i rędziny to gleby śródstrefowe, a gleby górskie są niestrefowe."
+                                  },
+                                  {
+                                      "question":  "Jaki czynnik jest decydujący dla powstawania gleb śródstrefowych, takich jak rędziny czy mady?",
+                                      "options":  [
+                                                      "Lokalny rodzaj podłoża lub wody",
+                                                      "Ogólny układ stref klimatycznych",
+                                                      "Temperatura powietrza w górach",
+                                                      "Działalność rolnicza człowieka"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Rozmieszczenie gleb śródstrefowych zależy głównie od warunków lokalnych, takich jak wilgotność podłoża (np. gleby bagienne) lub rodzaj skały macierzystej (np. rędziny)."
+                                  },
+                                  {
+                                      "question":  "Który typ gleby zaliczany jest do gleb niestrefowych ze względu na słabe wykształcenie profilu?",
+                                      "options":  [
+                                                      "Czarnoziem",
+                                                      "Gleba płowa",
+                                                      "Gleba górska",
+                                                      "Gleba brązowa"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gleby górskie są przykładem gleb niestrefowych; są to gleby inicjalne o płytkim profilu, występujące w różnych strefach klimatycznych."
+                                  },
+                                  {
+                                      "question":  "W jakim środowisku powstają mady, zaliczane do żyznych gleb śródstrefowych?",
+                                      "options":  [
+                                                      "Na suchych wydmach",
+                                                      "W dolinach rzecznych",
+                                                      "Na stokach górskich",
+                                                      "W strefie tundry"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mady występują w dolinach i deltach rzecznych, gdzie dochodzi do regularnych wezbrań i akumulacji osadów rzecznych."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych gleb powstają w wyniku działalności człowieka, np. w ogrodach?",
+                                      "options":  [
+                                                      "Gleby antropogeniczne",
+                                                      "Gleby wulkaniczne",
+                                                      "Gleby ferralitowe",
+                                                      "Gleby bagienne"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gleby antropogeniczne to gleby powstałe lub przekształcone w wyniku działalności człowieka, spotykane m.in. w ogrodach i miastach."
+                                  },
+                                  {
+                                      "question":  "Jaki rodzaj gleby jest charakterystyczny dla strefy wilgotnych lasów równikowych?",
+                                      "options":  [
+                                                      "Gleba bielicowa",
+                                                      "Gleba cynamonowa",
+                                                      "Gleba ferralitowa",
+                                                      "Gleba tundrowa"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W klimacie równikowym wybitnie wilgotnym, pod bujną roślinnością, powstają czerwone i czerwonożółte gleby ferralitowe."
+                                  },
+                                  {
+                                      "question":  "Z jaką formacją roślinną nierozerwalnie związane jest występowanie czarnoziemów?",
+                                      "options":  [
+                                                      "Z lasem liściastym",
+                                                      "Z roślinnością stepową",
+                                                      "Z lasem iglastym",
+                                                      "Z roślinnością makii"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Czarnoziemy powstają najczęściej na lessach przy udziale roślinności trawiastej, charakterystycznej dla stepów."
+                                  },
+                                  {
+                                      "question":  "Jaki typ gleby jest typowy dla strefy roślinności śródziemnomorskiej?",
+                                      "options":  [
+                                                      "Gleba cynamonowa",
+                                                      "Gleba bielicowa",
+                                                      "Gleba tundrowa",
+                                                      "Gleba płowa"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Dla strefy śródziemnomorskiej charakterystyczne są gleby cynamonowe, powstające na skałach węglanowych pod suchymi lasami i zaroślami."
+                                  },
+                                  {
+                                      "question":  "Które gleby tworzą się pod lasami iglastymi w klimacie umiarkowanym chłodnym (tajga)?",
+                                      "options":  [
+                                                      "Gleby czerwone",
+                                                      "Gleby bielicowe",
+                                                      "Czarne ziemie",
+                                                      "Mady rzeczne"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gleby bielicowe są charakterystyczne dla obszarów o klimacie umiarkowanym chłodnym porośniętych lasami iglastymi (tajgą)."
+                                  },
+                                  {
+                                      "question":  "Jaka cecha jest typowa dla gleb pustynnych (szaroziemów i buroziemów)?",
+                                      "options":  [
+                                                      "Bardzo duża żyzność",
+                                                      "Częste występowanie zasolenia",
+                                                      "Gruby poziom próchniczny",
+                                                      "Występowanie poziomu glejowego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gleby pustynne (szaroziemy, buroziemy) często są zasolone z powodu dużego parowania, które przewyższa opady."
+                                  },
+                                  {
+                                      "question":  "Pod jaką formacją roślinną tworzą się gleby brunatne i płowe?",
+                                      "options":  [
+                                                      "Pod lasami liściastymi",
+                                                      "Pod wilgotnym lasem",
+                                                      "Pod roślinnością tundry",
+                                                      "Pod trawami sawanny"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gleby brunatne i płowe tworzą się w klimacie umiarkowanym ciepłym pod lasami liściastymi i mieszanymi."
+                                  },
+                                  {
+                                      "question":  "Co jest charakterystyczną cechą gleb tundrowych?",
+                                      "options":  [
+                                                      "Barwa cynamonowa",
+                                                      "Sinoniebieski poziom glejowy",
+                                                      "Wysoka przydatność rolnicza",
+                                                      "Gruby poziom wymywania"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gleby tundrowe są oglejone (mają siną barwę) z powodu wieloletniej zmarzliny i przesiąknięcia wodą."
+                                  },
+                                  {
+                                      "question":  "Jaka gleba występuje na południe od czarnoziemów, w bardziej suchym klimacie stepowym?",
+                                      "options":  [
+                                                      "Gleba kasztanowa",
+                                                      "Gleba bagienna",
+                                                      "Gleba bielicowa",
+                                                      "Gleba brunatna"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Na terenach o bardziej suchym klimacie niż czarnoziemy, pod mniej bujną roślinnością trawiastą, tworzą się gleby kasztanowe."
+                                  },
+                                  {
+                                      "question":  "Jaki jest główny czynnik powodujący piętrowe zróżnicowanie roślinności w górach?",
+                                      "options":  [
+                                                      "Spadek temperatury z wysokością",
+                                                      "Wzrost ciśnienia atmosferycznego",
+                                                      "Rodzaj skały macierzystej",
+                                                      "Działalność gospodarcza ludzi"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Najważniejszym czynnikiem wpływającym na piętra roślinne jest spadek temperatury powietrza wraz ze wzrostem wysokości n.p.m."
+                                  },
+                                  {
+                                      "question":  "Gdzie występują gleby wulkaniczne charakteryzujące się dużą żyznością?",
+                                      "options":  [
+                                                      "Na pokrywach bazaltowych i tufach",
+                                                      "Wyłącznie w dolinach rzecznych",
+                                                      "Na piaszczystych wydmach",
+                                                      "W strefie wiecznej zmarzliny"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gleby wulkaniczne powstają tam, gdzie występują skały wulkaniczne, np. na pokrywach bazaltowych oraz na tufach wulkanicznych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego gleby wilgotnych lasów równikowych zawierają mało próchnicy mimo bujnej roślinności?",
+                                      "options":  [
+                                                      "Przez bardzo szybki rozkład materii",
+                                                      "Przez brak dostawy szczątków roślin",
+                                                      "Przez niską temperaturę powietrza",
+                                                      "Przez brak organizmów glebowych"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W klimacie równikowym materia organiczna bardzo szybko się rozkłada, a składniki są natychmiast wypłukiwane, co skutkuje małą ilością próchnicy."
+                                  },
+                                  {
+                                      "question":  "Od czego zależy żyzność rędzin, zaliczanych do gleb śródstrefowych?",
+                                      "options":  [
+                                                      "Od rodzaju skały macierzystej",
+                                                      "Od temperatury powietrza",
+                                                      "Od wysokości nad poziomem morza",
+                                                      "Od głębokości wód gruntowych"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Rędziny powstają ze skał węglanowych lub siarczanowych, a ich żyzność zależy od skały macierzystej (są trudne w uprawie przez odłamki skalne)."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces ferralityzacji zachodzący w klimacie gorącym i wilgotnym?",
+                                      "options":  [
+                                                      "Na akumulacji wapnia w glebie",
+                                                      "Na tworzeniu poziomu glejowego",
+                                                      "Na pozostawianiu tlenków żelaza i glinu",
+                                                      "Na powstawaniu grubego poziomu próchnicy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ferralityzacja polega na szybkim rozkładzie szczątków i wypłukiwaniu minerałów, w efekcie czego w glebie pozostają głównie związki żelaza i glinu."
+                                  },
+                                  {
+                                      "question":  "Czym różni się żyzność gleby od jej urodzajności?",
+                                      "options":  [
+                                                      "Urodzajność to cecha tylko naturalna",
+                                                      "Żyzność wynika z zabiegów rolniczych",
+                                                      "Urodzajność uwzględnia zabiegi rolnicze",
+                                                      "Żyzność dotyczy tylko gleb strefowych"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Żyzność to naturalna zdolność gleby, natomiast urodzajność to zdolność produkcyjna wynikająca z żyzności oraz prowadzonych prac rolniczych."
+                                  },
+                                  {
+                                      "question":  "Który proces glebotwórczy prowadzi do powstania jasnego poziomu wymywania w glebach bielicowych?",
+                                      "options":  [
+                                                      "Oglejenie",
+                                                      "Bielicowanie",
+                                                      "Brunatnienie",
+                                                      "Humifikacja"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bielicowanie polega na wymywaniu w głąb gleby związków mineralnych i organicznych, co tworzy jasny poziom wymywania."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Czerwone i czerwonożółte gleby ferralitowe są bardzo żyzne, ponieważ bujna roślinność równikowa dostarcza im grubą warstwę trwałej próchnicy.",
+                                           "answer":  false,
+                                           "explanation":  "Mimo bujnej roślinności gleby te odznaczają się małą zawartością próchnicy, ponieważ materia organiczna rozkłada się bardzo szybko, a składniki są wypłukiwane przez deszcze."
+                                       },
+                                       {
+                                           "sentence":  "Gleby bielicowe tworzą się najczęściej na utworach polodowcowych pod lasami iglastymi w klimacie umiarkowanym chłodnym.",
+                                           "answer":  true,
+                                           "explanation":  "Gleby bielicowe są charakterystyczne dla obszarów tajgi i powstają w procesie bielicowania na piaskach, żwirach lub glinach."
+                                       },
+                                       {
+                                           "sentence":  "Mady to gleby powstające ze zwietrzeliny skał węglanowych, takich jak wapienie i gipsy.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to definicja rędzin; mady występują w dolinach i deltach rzecznych i powstają z osadów (mułów, piasków) naniesionych przez wodę."
+                                       },
+                                       {
+                                           "sentence":  "Proces brunatnienia, prowadzący do powstania gleb brunatnych, zachodzi głównie pod lasami liściastymi i mieszanymi.",
+                                           "answer":  true,
+                                           "explanation":  "Gleby brunatne tworzą się w klimacie umiarkowanym ciepłym pod lasami liściastymi i mieszanymi w wyniku procesu brunatnienia."
+                                       },
+                                       {
+                                           "sentence":  "Gleby cynamonowe są typowe dla strefy tajgi i powstają w warunkach wieloletniej zmarzliny.",
+                                           "answer":  false,
+                                           "explanation":  "Gleby cynamonowe występują w klimacie śródziemnomorskim i powstają pod suchymi lasami i zaroślami, często na skałach węglanowych."
+                                       },
+                                       {
+                                           "sentence":  "Proces oglejenia polega na odtlenianiu związków mineralnych w warunkach nadmiernego uwilgotnienia, co nadaje glebie sinoniebieską barwę.",
+                                           "answer":  true,
+                                           "explanation":  "Oglejenie zachodzi w warunkach beztlenowych spowodowanych nadmiarem wody, np. w glebach tundrowych lub bagiennych, tworząc poziom glejowy."
+                                       },
+                                       {
+                                           "sentence":  "Mineralizacja to proces rozkładu materii organicznej przy udziale bakterii i grzybów, którego bezpośrednim efektem jest powstanie próchnicy (humusu).",
+                                           "answer":  false,
+                                           "explanation":  "Powstanie próchnicy to efekt humifikacji, natomiast mineralizacja prowadzi do przemiany związków organicznych w proste związki mineralne."
+                                       },
+                                       {
+                                           "sentence":  "Czarnoziemy powstają najczęściej na lessach przy udziale roślinności trawiastej i należą do najżyźniejszych gleb na świecie.",
+                                           "answer":  true,
+                                           "explanation":  "Czarnoziemy charakteryzują się bardzo grubym poziomem próchnicznym, który tworzy się pod bujną roślinnością trawiastą, głównie na podłożu lessowym."
+                                       },
+                                       {
+                                           "sentence":  "Szaroziemy i gleby pustynne odznaczają się dużą zawartością próchnicy ze względu na brak opadów wymywających składniki odżywcze.",
+                                           "answer":  false,
+                                           "explanation":  "Gleby te zawierają niewiele próchnicy ze względu na skąpą roślinność, która dostarcza mało materii organicznej."
+                                       },
+                                       {
+                                           "sentence":  "Gleby górskie zaliczane są do gleb niestrefowych, ponieważ ich występowanie zależy od ukształtowania terenu, a nie tylko od strefy klimatycznej.",
+                                           "answer":  true,
+                                           "explanation":  "Gleby górskie są glebami niestrefowymi, występują w górach we wszystkich strefach klimatycznych i są glebami inicjalnymi."
+                                       },
+                                       {
+                                           "sentence":  "Gleby tundrowe charakteryzują się intensywnie czerwoną barwą wynikającą z dużej zawartości tlenków żelaza.",
+                                           "answer":  false,
+                                           "explanation":  "Gleby tundrowe są oglejone i mają siną barwę, natomiast czerwoną barwę mają m.in. gleby ferralitowe."
+                                       },
+                                       {
+                                           "sentence":  "Lateryt to skała ilasta składająca się głównie ze związków żelaza i glinu, występująca pod glebami ferralitowymi.",
+                                           "answer":  true,
+                                           "explanation":  "Lateryt jest charakterystycznym tworem występującym pod czerwonymi i czerwonożółtymi glebami ferralitowe w klimatach wilgotnych."
+                                       },
+                                       {
+                                           "sentence":  "Gleby wulkaniczne zaliczane są do gleb strefowych, ponieważ występują wyłącznie w strefie klimatów gorących.",
+                                           "answer":  false,
+                                           "explanation":  "Gleby wulkaniczne należą do gleb śródstrefowych, a ich występowanie zależy od obecności skał wulkanicznych, a nie od strefy klimatycznej."
+                                       },
+                                       {
+                                           "sentence":  "Gleby kasztanowe mają jaśniejszą barwę i zawierają mniej próchnicy niż czarnoziemy.",
+                                           "answer":  true,
+                                           "explanation":  "Gleby kasztanowe powstają w bardziej suchym klimacie niż czarnoziemy, przez co mają cieńszy poziom próchniczny i są jaśniejsze."
+                                       },
+                                       {
+                                           "sentence":  "Rędziny są glebami łatwymi w uprawie, ponieważ powstają na miękkich osadach rzecznych.",
+                                           "answer":  false,
+                                           "explanation":  "Rędziny są trudne w uprawie ze względu na liczne odłamki skalne (powstają na skałach węglanowych), a na osadach rzecznych powstają mady."
+                                       }
+                                   ]
+                 }
+}

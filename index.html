@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeoHub ALPHA - Edukacja Mobilna</title>
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@600;700&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <script>
+    tailwind.config = {
+        theme: {
+            extend: {
+                fontFamily: { sans: ['Inter', 'sans-serif'] },
+                colors: {
+                    primary: { 50: '#ecfdf5', 100: '#d1fae5', 500: '#10b981', 600: '#059669', 700: '#047857', 800: '#065f46' }
+                }
+            }
+        }
+    }
+    </script>
+</head>
+<body class="flex flex-col min-h-screen pb-12">
+    <div class="mesh-gradient" aria-hidden="true">
+        <div class="mesh-blob mesh-blob-emerald fixed opacity-10 blur-[120px]"></div>
+        <div class="mesh-blob mesh-blob-blue fixed opacity-10 blur-[120px]"></div>
+        <div class="mesh-blob mesh-blob-rose fixed opacity-10 blur-[120px]"></div>
+        <div class="mesh-blob mesh-blob-amber fixed opacity-10 blur-[120px]"></div>
+    </div>
+
+    <nav class="sticky top-0 w-full z-50 bg-white/90 backdrop-blur-md border-b border-slate-200 shadow-sm h-16 flex items-center justify-between px-4 sm:px-6">
+        <div class="flex items-center gap-3">
+            <button id="back-btn" class="hidden p-2 rounded-xl hover:bg-slate-100 text-slate-600 transition flex items-center justify-center group">
+                <i data-lucide="chevron-left" class="w-6 h-6 group-hover:-translate-x-1 transition-transform"></i>
+            </button>
+            <div class="flex items-center gap-2 cursor-pointer select-none group" onclick="app.goHome()">
+                <div class="flex items-baseline leading-none" style="font-family: 'Fredoka', sans-serif;">
+                    <span class="text-[#169d72] font-bold tracking-tight">GEO</span><span class="text-[#354253] font-bold tracking-tight">hub</span>
+                </div>
+            </div>
+        </div>
+        <div id="breadcrumbs" class="text-xs font-bold text-slate-400 hidden sm:flex items-center gap-2 truncate max-w-[250px] uppercase tracking-wider bg-slate-50 px-3 py-1.5 rounded-full border border-slate-100"></div>
+    </nav>
+
+    <main id="app-root" class="flex-grow pt-8 pb-12 px-4 max-w-3xl mx-auto w-full">
+        <div class="flex flex-col items-center justify-center h-[60vh] animate-pulse">
+            <i data-lucide="loader-2" class="w-10 h-10 text-primary-600 animate-spin"></i>
+            <span class="mt-4 text-sm text-slate-500 font-medium">Inicjalizacja systemu...</span>
+        </div>
+    </main>
+
+    <footer class="fixed bottom-0 w-full bg-white/90 backdrop-blur-sm border-t border-slate-200 text-slate-500 text-xs py-3 px-6 text-center z-50 font-medium">
+        GeoHub - Aplikacja Edukacyjna | Wersja BETA 0.9 | &copy; 2026  
+    </footer>
+
+    <div id="bugModal" class="hidden fixed inset-0 bg-slate-900/80 backdrop-blur-sm z-[9999] flex items-center justify-center p-4">
+        <div class="bg-white rounded-xl shadow-2xl w-full max-w-md overflow-hidden border border-slate-200">
+            <div class="bg-slate-50 px-6 py-4 border-b border-slate-100 flex justify-between items-center">
+                <h3 class="font-bold text-slate-700 flex items-center gap-2"><i data-lucide="flag" class="w-5 h-5 text-red-500"></i> Zgłoś błąd</h3>
+                <button type="button" onclick="app.closeBugReport()" class="text-slate-400 hover:text-slate-600"><i data-lucide="x" class="w-5 h-5"></i></button>
+            </div>
+            <form id="bugForm" onsubmit="app.submitBugReport(event)" class="p-6 space-y-4">
+                <input type="hidden" name="access_key" value="9b613134-c75c-44d5-8f65-797170889073">
+                <textarea name="message" required class="w-full p-3 bg-slate-50 border border-slate-200 rounded-lg text-sm min-h-[100px]" placeholder="Opisz błąd..."></textarea>
+                <div class="flex gap-3 pt-2">
+                    <button type="button" onclick="app.closeBugReport()" class="flex-1 px-4 py-2 bg-slate-100 text-slate-600 rounded-lg font-medium">Anuluj</button>
+                    <button type="submit" class="flex-1 px-4 py-2 bg-red-500 text-white rounded-lg font-medium shadow-lg shadow-red-500/20">Wyślij</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/views.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>

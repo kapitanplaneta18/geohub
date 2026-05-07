@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz5-t7",
+                     "title":  "Turystyka",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Walory turystyczne",
+                                              "definition":  "Elementy środowiska przyrodniczego i kulturowego oraz infrastruktura, które decydują o atrakcyjności danego miejsca dla turystów i umożliwiają uprawianie turystyki,."
+                                          },
+                                          {
+                                              "term":  "Walory przyrodnicze",
+                                              "definition":  "Elementy środowiska naturalnego sprzyjające wypoczynkowi, takie jak urozmaicona rzeźba terenu, dostęp do morza, jeziora, lasy oraz rzadkie gatunki roślin i zwierząt,."
+                                          },
+                                          {
+                                              "term":  "Walory kulturowe",
+                                              "definition":  "Zabytki architektury i techniki, muzea, miejsca kultu religijnego oraz elementy kultury niematerialnej (tradycje, wydarzenia), które przyciągają turystów,."
+                                          },
+                                          {
+                                              "term":  "Infrastruktura turystyczna",
+                                              "definition":  "Obiekty i urządzenia umożliwiające korzystanie z walorów turystycznych, obejmujące bazę noclegową, gastronomiczną, towarzyszącą oraz komunikacyjną."
+                                          },
+                                          {
+                                              "term":  "Lista światowego dziedzictwa UNESCO",
+                                              "definition":  "Międzynarodowy spis obiektów o unikatowej wartości kulturowej lub przyrodniczej; w Polsce znajduje się na niej 16 wpisów, w tym Puszcza Białowieska i Stare Miasto w Krakowie,."
+                                          },
+                                          {
+                                              "term":  "Pomnik historii",
+                                              "definition":  "Status nadawany najcenniejszym polskim zabytkom przez Prezydenta RP ze względu na ich szczególną wartość historyczną, artystyczną lub naukową."
+                                          },
+                                          {
+                                              "term":  "Szlak Zabytków Techniki",
+                                              "definition":  "Samochodowy szlak turystyczny w województwie śląskim, łączący obiekty dziedzictwa przemysłowego, takie jak kopalnie, huty czy radiostację w Gliwicach."
+                                          },
+                                          {
+                                              "term":  "Uzdrowisko",
+                                              "definition":  "Miejscowość wypoczynkowa posiadająca naturalne czynniki lecznicze, np. wody mineralne (solanki), jak Ciechocinek słynący z tężni."
+                                          },
+                                          {
+                                              "term":  "Baza noclegowa",
+                                              "definition":  "Obiekty oferujące turystom noclegi, m.in. hotele, pensjonaty, schroniska, kempingi i sanatoria; jej wielkość i jakość systematycznie rosną w Polsce."
+                                          },
+                                          {
+                                              "term":  "Baza towarzysząca",
+                                              "definition":  "Urządzenia rekreacyjne i sportowe uzupełniające ofertę turystyczną, np. wyciągi narciarskie, baseny, kąpieliska i wypożyczalnie sprzętu."
+                                          },
+                                          {
+                                              "term":  "Sezonowość turystyczna",
+                                              "definition":  "Zjawisko koncentracji ruchu turystycznego w określonych porach roku, widoczne np. na polskim wybrzeżu (lato) w przeciwieństwie do gór (cały rok),."
+                                          },
+                                          {
+                                              "term":  "Hala Stulecia we Wrocławiu",
+                                              "definition":  "Wielofunkcyjny obiekt żelbetowy wpisany na Listę UNESCO, uznawany za przełomowe dzieło w historii architektury i inżynierii XX wieku."
+                                          },
+                                          {
+                                              "term":  "Krzemionkowski region pradziejowego górnictwa",
+                                              "definition":  "Obiekt UNESCO obejmujący neolityczne kopalnie krzemienia pasiastego, posiadający ogromną wartość naukową i historyczną."
+                                          },
+                                          {
+                                              "term":  "Puszcza Białowieska",
+                                              "definition":  "Jedyny w Polsce obiekt przyrodniczy na Liście światowego dziedzictwa UNESCO, chroniący fragmenty lasu pierwotnego,."
+                                          },
+                                          {
+                                              "term":  "Stare Miasto w Warszawie",
+                                              "definition":  "Zespół zabytkowy na Liście UNESCO, będący unikatowym przykładem wiernej i kompletnej odbudowy miasta zniszczonego podczas II wojny światowej."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Puszcza Białowieska",
+                                                 "pair2":  "Obiekt przyrodniczy na Liście UNESCO (las pierwotny),"
+                                             },
+                                             {
+                                                 "pair1":  "Zamek krzyżacki w Malborku",
+                                                 "pair2":  "Jedna z najpotężniejszych twierdz średniowiecznej Europy (UNESCO),,"
+                                             },
+                                             {
+                                                 "pair1":  "Stare Miasto w Krakowie",
+                                                 "pair2":  "Pierwszy polski zabytek wpisany na Listę światowego dziedzictwa UNESCO,"
+                                             },
+                                             {
+                                                 "pair1":  "Hala Stulecia we Wrocławiu",
+                                                 "pair2":  "Przełomowe dzieło architektury żelbetowej XX wieku (UNESCO),"
+                                             },
+                                             {
+                                                 "pair1":  "Tatry",
+                                                 "pair2":  "Najpopularniejszy region turystyki górskiej o rzeźbie alpejskiej,"
+                                             },
+                                             {
+                                                 "pair1":  "Pojezierza (Mazurskie, Kaszubskie)",
+                                                 "pair2":  "Idealne warunki do uprawiania żeglarstwa i kajakarstwa,"
+                                             },
+                                             {
+                                                 "pair1":  "Szlak Zabytków Techniki (Śląsk)",
+                                                 "pair2":  "Trasa turystyczna prezentująca dziedzictwo przemysłowe (np. kopalnie),"
+                                             },
+                                             {
+                                                 "pair1":  "Kopalnia rud ołowiu, srebra i cynku w Tarnowskich Górach",
+                                                 "pair2":  "Zabytek techniki z systemem gospodarowania wodami podziemnymi (UNESCO),"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Co zaliczamy do infrastruktury turystycznej, która jest niezbędna do korzystania z walorów danego regionu?",
+                                      "options":  [
+                                                      "Wyłącznie hotele i pensjonaty o wysokim standardzie.",
+                                                      "Tylko zabytki i parki narodowe, które przyciągają turystów.",
+                                                      "Bazę noclegową, gastronomiczną, towarzyszącą oraz sieć transportową.",
+                                                      "Biura podróży i ubezpieczalnie oferujące polisy turystyczne."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Infrastruktura turystyczna to zespół obiektów i urządzeń (hotele, restauracje, wyciągi, szlaki) umożliwiających obsługę ruchu turystycznego."
+                                  },
+                                  {
+                                      "question":  "Które polskie pasmo górskie, charakteryzujące się rzeźbą alpejską, jest najpopularniejszym celem wyjazdów narciarskich i pieszych?",
+                                      "options":  [
+                                                      "Bieszczady, słynące z połonin i dzikiej przyrody.",
+                                                      "Tatry.",
+                                                      "Góry Świętokrzyskie, będące najstarszymi górami w Polsce.",
+                                                      "Beskid Niski, znany z opuszczonych łemkowskich wsi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Tatry to jedyne w Polsce góry o charakterze alpejskim, co przyciąga miliony turystów rocznie, generując duży ruch w Zakopanem."
+                                  },
+                                  {
+                                      "question":  "Co jest głównym celem tworzenia Listy światowego dziedzictwa UNESCO, na której znajduje się 16 obiektów z Polski?",
+                                      "options":  [
+                                                      "Promocja najtańszych hoteli w danym kraju w celu rozwoju turystyki masowej.",
+                                                      "Ułatwienie ochrony obiektów o wyjątkowej wartości kulturowej lub przyrodniczej.",
+                                                      "Zwiększenie sprzedaży pamiątek w regionie poprzez certyfikację sklepów.",
+                                                      "Wyznaczenie tras dla rajdów samochodowych przebiegających przez zabytkowe miasta."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wpis na listę UNESCO to prestiż, ale przede wszystkim zobowiązanie państwa do szczególnej ochrony danego miejsca dla przyszłych pokoleń."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna cecha ruchu turystycznego na polskim wybrzeżu Bałtyku?",
+                                      "options":  [
+                                                      "Równomierne rozłożenie turystów przez cały rok, niezależnie od pogody.",
+                                                      "Wysoka sezonowość z koncentracją ruchu w miesiącach letnich.",
+                                                      "Największa liczba turystów zimą ze względu na zamarznięte morze i możliwość jazdy na łyżwach.",
+                                                      "Całkowity brak zainteresowania turystów tym regionem z powodu zimnej wody."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Krótki sezon letni (lipiec-sierpień) powoduje tłok w kurortach nadmorskich, podczas gdy poza sezonem wiele obiektów świeci pustkami."
+                                  },
+                                  {
+                                      "question":  "Gdzie znajduje się transgraniczny obiekt UNESCO – Park Mużakowski?",
+                                      "options":  [
+                                                      "Na granicy z Rosją (Obwód Kaliningradzki), w pobliżu Mierzei Wiślanej.",
+                                                      "Na pograniczu polsko-niemieckim (województwo lubuskie).",
+                                                      "W Tatrach, na granicy ze Słowacją, obejmując Tatrzański Park Narodowy.",
+                                                      "Na wschodzie Polski, przy granicy z Białorusią, w Puszczy Białowieskiej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Park Mużakowski to największy w Europie Środkowej park w stylu angielskim, rozciągający się po obu stronach Nysy Łużyckiej."
+                                  },
+                                  {
+                                      "question":  "Który polski obiekt został jako pierwszy wpisany na Listę światowego dziedzictwa UNESCO?",
+                                      "options":  [
+                                                      "Zamek w Malborku, będący największą ceglaną twierdzą Europy.",
+                                                      "Puszcza Białowieska, jako jedyny obiekt przyrodniczy.",
+                                                      "Stare Miasto w Krakowie.",
+                                                      "Hala Stulecia we Wrocławiu, wpisana dopiero w XXI wieku."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Historyczne centrum Krakowa (wraz z Wieliczką) znalazło się na pierwszej liście UNESCO utworzonej w 1978 roku."
+                                  },
+                                  {
+                                      "question":  "Co zaliczamy do kulturowych walorów niematerialnych przyciągających turystów?",
+                                      "options":  [
+                                                      "Muzea i skanseny prezentujące dawne budownictwo ludowe.",
+                                                      "Zamki i pałace będące świadectwem potęgi dawnych rodów.",
+                                                      "Parki narodowe i rezerwaty chroniące unikalną przyrodę.",
+                                                      "Lokalne tradycje, obrzędy oraz wydarzenia kulturalne (festiwale)."
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Folklor (np. góralski), kuchnia regionalna, festiwale muzyczne (np. Open„er) to magnesy przyciągające turystów, niebędące obiektami fizycznymi."
+                                  },
+                                  {
+                                      "question":  "Jaki rodzaj turystyki dominuje na pojezierzach (Mazurskim, Kaszubskim) ze względu na warunki przyrodnicze?",
+                                      "options":  [
+                                                      "Turystyka wysokogórska i wspinaczka skałkowa.",
+                                                      "Turystyka kwalifikowana związana ze sportami wodnymi (żeglarstwo, kajakarstwo).",
+                                                      "Turystyka uzdrowiskowa oparta na wodach termalnych wydobywanych z głębi ziemi.",
+                                                      "Turystyka zakupowa w wielkich galeriach handlowych zlokalizowanych w miastach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sieć jezior połączonych kanałami (Szlak Wielkich Jezior Mazurskich) stwarza idealne warunki dla żeglarzy i kajakarzy."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Stare Miasto w Warszawie znalazło się na Liście UNESCO, mimo że nie jest oryginalnym zabytkiem średniowiecznym?",
+                                      "options":  [
+                                                      "Ponieważ jest największym powierzchniowo starym miastem w Europie.",
+                                                      "Jako unikatowy przykład wiernej i kompletnej odbudowy miasta zniszczonego podczas wojny.",
+                                                      "Ponieważ wybudowano je od podstaw w stylu nowoczesnym, nawiązującym do historii.",
+                                                      "Ze względu na obecność Pałacu Kultury i Nauki w jego bezpośrednim sąsiedztwie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "UNESCO doceniło wysiłek rekonstrukcji zabytkowej tkanki miejskiej, która została niemal całkowicie zrównana z ziemią w 1944 roku."
+                                  },
+                                  {
+                                      "question":  "Jaka zmiana zachodzi w strukturze bazy noclegowej w Polsce w ostatnich latach?",
+                                      "options":  [
+                                                      "Masowe zamykanie hoteli na rzecz dzikich pól namiotowych.",
+                                                      "Drastyczny spadek liczby miejsc w hotelach o wysokim standardzie (4 i 5 gwiazdek).",
+                                                      "Wzrost liczby hoteli i spadek udziału tradycyjnych ośrodków wczasowych.",
+                                                      "Całkowity zanik gospodarstw agroturystycznych na terenach wiejskich."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Turyści oczekują wyższego standardu, dlatego stare ośrodki z czasów PRL (FWP) upadają lub są przekształcane w nowoczesne hotele i apartamenty."
+                                  },
+                                  {
+                                      "question":  "Czym jest Szlak Zabytków Techniki, będący atrakcją województwa śląskiego?",
+                                      "options":  [
+                                                      "Trasą rowerową prowadzącą przez lasy bukowe i rezerwaty przyrody.",
+                                                      "Samochodowym szlakiem łączącym obiekty dziedzictwa przemysłowego (kopalnie, huty, browary).",
+                                                      "Szlakiem pielgrzymkowym prowadzącym do sanktuariów maryjnych.",
+                                                      "Trasą kajakową po rzece Odra, łączącą miasta portowe."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Szlak ten promuje turystykę industrialną, udostępniając do zwiedzania m.in. Zabytkową Kopalnię Guido czy Tyskie Browarium."
+                                  },
+                                  {
+                                      "question":  "Jaki walor przyrodniczy decyduje o uzdrowiskowym charakterze Ciechocinka?",
+                                      "options":  [
+                                                      "Występowanie wód mineralnych (solanek) wykorzystywanych w tężniach.",
+                                                      "Obecność wysokich gór i krystalicznie czystego powietrza alpejskiego.",
+                                                      "Dostęp do otwartego morza bogatego w jod i bursztyn.",
+                                                      "Występowanie gorących źródeł siarkowych o temperaturze powyżej 60 stopni."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Tężnie w Ciechocinku wytwarzają specyficzny mikroklimat (aerozol solny), pomagający w leczeniu chorób układu oddechowego."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Hala Stulecia we Wrocławiu została wpisana na Listę UNESCO?",
+                                      "options":  [
+                                                      "Jako miejsce ważnej bitwy historycznej z okresu wojen napoleońskich.",
+                                                      "Jako przełomowe dzieło architektury żelbetowej XX wieku.",
+                                                      "Jako najstarszy i najlepiej zachowany drewniany kościół w Polsce.",
+                                                      "Jako przykład renesansowej rezydencji królewskiej z ogrodami włoskimi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zbudowana przez Maxa Berga hala była w momencie powstania (1913 r.) obiektem o największej na świecie kopule żelbetowej."
+                                  },
+                                  {
+                                      "question":  "Co jest przedmiotem ochrony w Krzemionkowskim regionie pradziejowego górnictwa (UNESCO)?",
+                                      "options":  [
+                                                      "Kopalnie złota z XIX wieku, w których wydobywano cenny kruszec.",
+                                                      "Średniowieczne sztolnie wydobywające sól kamienną na potrzeby dworu królewskiego.",
+                                                      "Neolityczne kopalnie krzemienia pasiastego z okresu 3,9–1,6 tys. lat p.n.e.",
+                                                      "Współczesne, odkrywkowe kopalnie węgla brunatnego."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Krzemionki Opatowskie to unikatowy w skali świata zespół kopalń krzemienia, zachowany w niemal nienaruszonym stanie od tysięcy lat."
+                                  },
+                                  {
+                                      "question":  "Który region Polski charakteryzuje się całorocznym sezonem turystycznym?",
+                                      "options":  [
+                                                      "Wybrzeże Bałtyku (turystyka plażowa), gdzie ruch zamiera zimą.",
+                                                      "Pojezierze Mazurskie (żeglarstwo), aktywne głównie latem.",
+                                                      "Góry (turystyka piesza latem, narciarstwo zimą).",
+                                                      "Nizina Mazowiecka (rolnictwo), która nie przyciąga turystów przez cały rok."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Tatry czy Beskidy przyciągają turystów zarówno latem (wędrówki), jak i zimą (sporty zimowe), co zapewnia ciągłość dochodów branży turystycznej."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Wszystkie polskie obiekty wpisane na Listę Światowego Dziedzictwa UNESCO to zabytki architektury i kultury.",
+                                           "answer":  false,
+                                           "explanation":  "Na liście znajduje się również obiekt przyrodniczy – Puszcza Białowieska, chroniąca fragmenty lasu pierwotnego."
+                                       },
+                                       {
+                                           "sentence":  "Hotele, restauracje i wyciągi narciarskie zaliczane są do walorów turystycznych regionu.",
+                                           "answer":  false,
+                                           "explanation":  "Obiekty te stanowią infrastrukturę turystyczną, która umożliwia korzystanie z walorów (przyrodniczych lub kulturowych), ale sama w sobie walorem nie jest."
+                                       },
+                                       {
+                                           "sentence":  "Województwo małopolskie wyróżnia się największym nagromadzeniem obiektów z Listy UNESCO w Polsce.",
+                                           "answer":  true,
+                                           "explanation":  "W tym regionie znajdują się m.in. Stare Miasto w Krakowie, Kopalnie Soli w Wieliczce i Bochni, obóz Auschwitz-Birkenau, Kalwaria Zebrzydowska oraz drewniane kościoły."
+                                       },
+                                       {
+                                           "sentence":  "Sezon turystyczny na polskim wybrzeżu Morza Bałtyckiego trwa przez cały rok.",
+                                           "answer":  false,
+                                           "explanation":  "Wybrzeże charakteryzuje się krótkim sezonem turystycznym, a zdecydowana większość turystów wypoczywa tam latem ze względu na pogodę."
+                                       },
+                                       {
+                                           "sentence":  "Stare Miasto w Warszawie wpisano na Listę UNESCO jako autentyczny, niezniszczony zespół zabytkowy z czasów średniowiecza.",
+                                           "answer":  false,
+                                           "explanation":  "Zostało wpisane jako wyjątkowy przykład wiernej i kompletnej odbudowy (rekonstrukcji) miasta niemal doszczętnie zniszczonego w 1944 roku."
+                                       },
+                                       {
+                                           "sentence":  "Polskie góry, a zwłaszcza Tatry, są obszarem o całorocznym sezonie turystycznym.",
+                                           "answer":  true,
+                                           "explanation":  "W górach ruch turystyczny trwa cały rok: lato jest sezonem na turystykę pieszą, a zima na narciarstwo."
+                                       },
+                                       {
+                                           "sentence":  "Śródlądowy transport wodny (rzeczny) w Polsce pełni obecnie funkcję głównie turystyczną, a nie pasażerską.",
+                                           "answer":  true,
+                                           "explanation":  "Przewozy pasażerskie rzekami mają niemal wyłącznie charakter turystyczny, a rola komunikacyjna żeglugi jest marginalna."
+                                       },
+                                       {
+                                           "sentence":  "Kopalnia Soli w Wieliczce jest jedynym obiektem zabytkowego górnictwa w Polsce wpisanym na Listę UNESCO.",
+                                           "answer":  false,
+                                           "explanation":  "Na liście znajdują się również Kopalnia Soli w Bochni, Kopalnia rud ołowiu, srebra i cynku w Tarnowskich Górach oraz Krzemionkowski region pradziejowego górnictwa."
+                                       },
+                                       {
+                                           "sentence":  "Bieszczady są jedynym w Polsce pasmem górskim o rzeźbie alpejskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Jedynym pasmem górskim o rzeźbie alpejskiej w Polsce są Tatry, co czyni je najpopularniejszym celem turystów górskich."
+                                       },
+                                       {
+                                           "sentence":  "W strukturze polskiej bazy noclegowej obserwuje się spadek udziału tradycyjnych ośrodków wczasowych na rzecz hoteli.",
+                                           "answer":  true,
+                                           "explanation":  "Zmienia się struktura obiektów: maleje udział ośrodków wczasowych, a rośnie liczba hoteli o coraz wyższym standardzie usług."
+                                       },
+                                       {
+                                           "sentence":  "Walory uzdrowiskowe Ciechocinka opierają się na występowaniu wód mineralnych (solanek).",
+                                           "answer":  true,
+                                           "explanation":  "Ciechocinek słynie z leczniczych wód mineralnych (solanek), wykorzystywanych m.in. w tężniach, co zalicza się do walorów przyrodniczych."
+                                       },
+                                       {
+                                           "sentence":  "Liczba turystów zagranicznych odwiedzających Polskę stale maleje od momentu wejścia do UE.",
+                                           "answer":  false,
+                                           "explanation":  "Od kilkunastu lat liczba turystów odwiedzających Polskę rośnie; w 2019 r. przyjechało ponad 21 mln osób."
+                                       }
+                                   ]
+                 }
+}

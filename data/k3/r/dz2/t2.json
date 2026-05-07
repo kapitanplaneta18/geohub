@@ -1,0 +1,336 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz2-t2",
+                     "title":  "Sudety, Bieszczady i Góry Świętokrzyskie",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Góry zrębowe (Sudety)",
+                                              "definition":  "Powstały w wyniku potrzaskania sztywnych warstw skorupy ziemskiej na bloki i ich pionowego przemieszczenia wzdłuż uskoków podczas orogenezy alpejskiej."
+                                          },
+                                          {
+                                              "term":  "Flisz karpacki (Bieszczady)",
+                                              "definition":  "Naprzemianległe warstwy skał osadowych (zlepieńców, piaskowców, mułowców i iłowców), które są podatne na erozję, co skutkuje łagodną rzeźbą terenu."
+                                          },
+                                          {
+                                              "term":  "Góry płytowe (Góry Stołowe)",
+                                              "definition":  "Pasma górskie zbudowane z płasko ułożonych warstw piaskowców (kreda), które nie zostały sfałdowane, lecz pocięte uskokami, tworząc płaskie wierzchołki i labirynty skalne."
+                                          },
+                                          {
+                                              "term":  "Gołoborza (Góry Świętokrzyskie)",
+                                              "definition":  "Rumowiska skalne powstałe w klimacie peryglacjalnym (plejstocen) w wyniku wietrzenia mrozowego (rozpadu blokowego) twardych piaskowców kwarcytowych."
+                                          },
+                                          {
+                                              "term":  "Piętra roślinne w Bieszczadach",
+                                              "definition":  "Charakteryzują się brakiem regla górnego i kosodrzewiny; powyżej regla dolnego (lasy jodłowo-bukowe) występują bezpośrednio łąki górskie zwane połoninami."
+                                          },
+                                          {
+                                              "term":  "Rzeźba rusztowa (Góry Świętokrzyskie)",
+                                              "definition":  "Ukształtowanie powierzchni polegające na występowaniu równoległych pasm górskich pooddzielanych podłużnymi dolinami, wynikające z odporności skał na niszczenie."
+                                          },
+                                          {
+                                              "term":  "Karkonosze - rzeźba",
+                                              "definition":  "Najwyższe pasmo Sudetów zbudowane z granitów, modelowane przez lodowce górskie (kotły polodowcowe) oraz wietrzenie fizyczne (granitowe ostańce skalne)."
+                                          },
+                                          {
+                                              "term":  "Ostańce granitowe (Sudety)",
+                                              "definition":  "Skałki o fantazyjnych kształtach (np. Pielgrzymy, Słonecznik) powstałe w wyniku procesów wietrzenia fizycznego i chemicznego na wierzchowinach i zboczach gór."
+                                          },
+                                          {
+                                              "term":  "Jaskinia Raj (Góry Świętokrzyskie)",
+                                              "definition":  "Jaskinia krasowa w wapiennym Paśmie Chęcińskim, wyróżniająca się bogatą szatą naciekową (stalaktyty, perły jaskiniowe)."
+                                          },
+                                          {
+                                              "term":  "Połoniny",
+                                              "definition":  "Górskie łąki występujące w szczytowych partiach Bieszczad (powyżej granicy lasu), np. Połonina Wetlińska, zajmujące miejsce naturalnego piętra kosodrzewiny."
+                                          },
+                                          {
+                                              "term":  "Piaskowce kwarcytowe (Łysogóry)",
+                                              "definition":  "Bardzo twarde i odporne na niszczenie skały paleozoiczne budujące najwyższe pasmo Gór Świętokrzyskich, z których powstały gołoborza."
+                                          },
+                                          {
+                                              "term":  "Formy powulkaniczne Sudetów",
+                                              "definition":  "Ślady dawnej aktywności wulkanicznej nasilonej podczas orogenezy alpejskiej, obejmujące wylewy bazaltowe, stożki wulkaniczne i nekki."
+                                          },
+                                          {
+                                              "term":  "Peneplena (Sudety)",
+                                              "definition":  "Prawierównia, czyli powierzchnia zrównania powstała przez miliony lat niszczenia gór po orogenezie hercyńskiej, zanim zostały one ponownie wypiętrzone."
+                                          },
+                                          {
+                                              "term":  "Jaskinia Niedźwiedzia",
+                                              "definition":  "Najdłuższa jaskinia Sudetów (Masyw Śnieżnika) z bogatą szatą naciekową i znaleziskami kości zwierząt plejstoceńskich."
+                                          },
+                                          {
+                                              "term":  "Układ rzeźby Bieszczad",
+                                              "definition":  "Równoległe grzbiety o stromych stokach oddzielone głębokimi dolinami, co wynika z budowy geologicznej (twarde piaskowce vs miękkie łupki) i tektoniki."
+                                          },
+                                          {
+                                              "term":  "Klimat Sudetów",
+                                              "definition":  "Górski z cechami oceanicznymi (brak barier od zachodu), co skutkuje wysokimi opadami, łagodniejszymi zimami i obniżeniem granic pięter roślinnych o ok. 200 m względem Karpat."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Sudety (typ gór)",
+                                                 "pair2":  "Góry zrębowe"
+                                             },
+                                             {
+                                                 "pair1":  "Bieszczady (typ gór)",
+                                                 "pair2":  "Góry fałdowe (fliszowe)"
+                                             },
+                                             {
+                                                 "pair1":  "Góry Świętokrzyskie (typ gór)",
+                                                 "pair2":  "Góry niskie (stare)"
+                                             },
+                                             {
+                                                 "pair1":  "Góry Stołowe (cecha)",
+                                                 "pair2":  "Góry płytowe z piaskowców ciosowych"
+                                             },
+                                             {
+                                                 "pair1":  "Gołoborza (lokalizacja)",
+                                                 "pair2":  "Łysogóry (Góry Świętokrzyskie)"
+                                             },
+                                             {
+                                                 "pair1":  "Połoniny (piętro)",
+                                                 "pair2":  "Łąki górskie w Bieszczadach"
+                                             },
+                                             {
+                                                 "pair1":  "Karkonosze (formy)",
+                                                 "pair2":  "Kotły polodowcowe i granitowe ostańce"
+                                             },
+                                             {
+                                                 "pair1":  "Pasmo Chęcińskie (procesy)",
+                                                 "pair2":  "Zjawiska krasowe (Jaskinia Raj)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Dlaczego Sudety określane są mianem gór zrębowych, a nie fałdowych, mimo że ich historia geologiczna sięga orogenez paleozoicznych?",
+                                      "options":  [
+                                                      "Ponieważ zostały wypiętrzone w postaci fałdów podczas orogenezy alpejskiej, podobnie jak Karpaty.",
+                                                      "Ponieważ podczas orogenezy alpejskiej sztywne i grube warstwy skorupy ziemskiej zostały potrzaskane na bloki i przesunięte wzdłuż uskoków.",
+                                                      "Ponieważ są zbudowane wyłącznie ze skał osadowych, które nie ulegają fałdowaniu.",
+                                                      "Ponieważ lądolód zniszczył ich fałdową strukturę, pozostawiając jedynie płaskie zręby."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Stare struktury geologiczne Sudetów były zbyt sztywne, by ulec ponownemu sfałdowaniu w orogenezie alpejskiej. Zamiast tego popękały, tworząc system bloków (zrąb) wyniesionych na różne wysokości wzdłuż uskoków (np. uskok brzeżny)."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na współczesną rzeźbę Bieszczad ma budowa geologiczna oparta na fliszu karpackim?",
+                                      "options":  [
+                                                      "Występowanie ostrych turni i głębokich żlebów typowych dla twardych skał krystalicznych.",
+                                                      "Dominacja zjawisk krasowych i powstawanie głębokich jaskiń w skałach węglanowych.",
+                                                      "Występowanie łagodnych grzbietów i zaokrąglonych szczytów podatnych na erozję.",
+                                                      "Obecność licznych stożków wulkanicznych i pokryw bazaltowych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Flisz karpacki składa się z naprzemianległych warstw piaskowców, łupków i margli, które są skałami osadowymi stosunkowo podatnymi na erozję. Skutkuje to łagodniejszą rzeźbą terenu w porównaniu do gór zbudowanych ze skał krystalicznych (jak Tatry)."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstały gołoborza charakterystyczne dla Łysogór w Górach Świętokrzyskich?",
+                                      "options":  [
+                                                      "W wyniku akumulacji materiału skalnego przez lodowce górskie w plejstocenie.",
+                                                      "Na skutek wietrzenia mrozowego twardych piaskowców kwarcytowych w warunkach klimatu peryglacjalnego.",
+                                                      "Przez osadzanie się materiału niesionego przez rzeki w dnach dolin.",
+                                                      "W wyniku zapadania się stropów jaskiń krasowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podczas zlodowaceń, na przedpolu lądolodu panował klimat peryglacjalny. Częste zamarzanie i rozmarzanie wody w szczelinach skalnych (wietrzenie fizyczne) doprowadziło do rozpadu blokowego twardych piaskowców kwarcytowych, tworząc rumowiska skalne."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Góry Stołowe w Sudetach charakteryzują się płaskimi wierzchołkami i pionowymi ścianami skalnymi?",
+                                      "options":  [
+                                                      "Są zbudowane z poziomo ułożonych warstw piaskowców, które nie zostały sfałdowane, lecz pocięte uskokami.",
+                                                      "Zostały wyrównane przez działalność lądolodu skandynawskiego.",
+                                                      "Są dawnymi stożkami wulkanicznymi, których wierzchołki uległy erozji.",
+                                                      "Powstały w wyniku nasunięcia się płaszczowin o płaskim ułożeniu."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Góry Stołowe to jedyny w Polsce przykład gór płytowych. Budujące je piaskowce z okresu kredy zalegają poziomo (płasko), co po wypiętrzeniu i pocięciu uskokami dało efekt płaskich stoliw skalnych."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną specyficznego układu pięter roślinnych w Bieszczadach (brak regla górnego i kosodrzewiny)?",
+                                      "options":  [
+                                                      "Zbyt niska wysokość tych gór, by wykształciły się wyższe piętra, przy specyficznych warunkach klimatycznych.",
+                                                      "Działalność człowieka, który całkowicie wyciął lasy świerkowe i kosodrzewinę pod pastwiska.",
+                                                      "Występowanie zbyt stromych stoków uniemożliwiających wzrost drzew iglastych.",
+                                                      "Brak odpowiedniego podłoża glebowego dla roślinności alpejskiej."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W Bieszczadach układ pięter jest nietypowy: lasy regla dolnego (bukowe) przechodzą bezpośrednio w łąki górskie (połoniny). Brakuje naturalnego piętra regla górnego (świerkowego) i piętra kosodrzewiny, co wynika z warunków klimatycznych i wysokości pasma."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w Karkonoszach występują kotły polodowcowe i jeziora cyrkowe, mimo że Sudety są górami średnimi?",
+                                      "options":  [
+                                                      "Ponieważ Sudety były w plejstocenie przykryte lądolodem skandynawskim aż po same szczyty.",
+                                                      "W najwyższym paśmie Sudetów w plejstocenie rozwinęły się lokalne lodowce górskie.",
+                                                      "Formy te są pozostałością po dawnych kraterach wulkanicznych wypełnionych wodą.",
+                                                      "Są to formy krasowe powstałe w soczewkach wapieni wewnątrz granitu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mimo że Sudety nie są górami wysokimi, w plejstocenie klimat był na tyle surowy, że w najwyższych partiach Karkonoszy (powyżej granicy wiecznego śniegu) utworzyły się lokalne lodowce górskie, które wyrzeźbiły kotły (cyrki)."
+                                  },
+                                  {
+                                      "question":  "Jaki proces geologiczny odpowiada za występowanie jaskini Raj w Paśmie Chęcińskim (Góry Świętokrzyskie)?",
+                                      "options":  [
+                                                      "Erozja rzeczna w skałach piaskowcowych.",
+                                                      "Procesy krasowe zachodzące w wapieniach dewońskich.",
+                                                      "Wietrzenie mrozowe w skałach kwarcytowych.",
+                                                      "Zastyganie lawy z pęcherzami gazowymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pasmo Chęcińskie zbudowane jest m.in. ze skał węglanowych (wapieni), które są podatne na rozpuszczanie przez wodę nasyconą CO2 (krasowienie), co doprowadziło do powstania jaskiń, w tym Jaskini Raj."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „peneplena” w kontekście historii geologicznej Sudetów?",
+                                      "options":  [
+                                                      "Jest to nazwa najwyższego szczytu Sudetów przed erozją.",
+                                                      "To powierzchnia zrównania powstała w wyniku długotrwałego niszczenia gór po orogenezie hercyńskiej.",
+                                                      "To warstwa osadów morskich pokrywająca góry.",
+                                                      "To rodzaj gleby występującej w kotlinach śródgórskich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Po wypiętrzeniu w orogenezie hercyńskiej, Sudety były przez miliony lat (200 mln lat) niszczone przez czynniki zewnętrzne, aż stały się niemal płaską równiną (penepleną), zanim zostały ponownie wydźwignięte w orogenezie alpejskiej."
+                                  },
+                                  {
+                                      "question":  "Dlaczego granice pięter roślinnych w Sudetach przebiegają niżej niż w Karpatach?",
+                                      "options":  [
+                                                      "Z powodu cieplejszego klimatu i większego nasłonecznienia.",
+                                                      "Ze względu na surowszy klimat i wpływ mas powietrza oceanicznego oraz słabsze gleby.",
+                                                      "Ponieważ Sudety leżą bardziej na południe niż Karpaty.",
+                                                      "Z powodu braku wiatru halnego w Sudetach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sudety są bardziej wyeksponowane na wilgotne i chłodne masy powietrza z zachodu (oceaniczne) oraz mają chłodniejszy klimat i słabsze gleby, co powoduje obniżenie granic pięter roślinnych o ok. 200 m względem Karpat."
+                                  },
+                                  {
+                                      "question":  "Jaką strukturę geologiczną reprezentują Bieszczady?",
+                                      "options":  [
+                                                      "Zrąb tektoniczny zbudowany ze skał krystalicznych.",
+                                                      "Stare góry fałdowe zbudowane z piaskowców kwarcytowych.",
+                                                      "Płaszczowiny zbudowane ze sfałdowanych osadów morskich (fliszu).",
+                                                      "Stożki wulkaniczne z trzeciorzędu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Bieszczady to góry fałdowe powstałe w orogenezie alpejskiej. Osady morskie (flisz) zostały sfałdowane, oderwane od podłoża i nasunięte na północ w formie płaszczowin."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w Sudetach występują formy wulkaniczne, takie jak stożki i nekki (np. Ostrzyca)?",
+                                      "options":  [
+                                                      "Ponieważ Sudety leżą na styku płyt litosferycznych aktywnym obecnie.",
+                                                      "Ponieważ głębokie spękania skorupy ziemskiej w trakcie orogenezy alpejskiej umożliwiły wydostanie się magmy na powierzchnię.",
+                                                      "Jest to efekt uderzenia meteorytów w przeszłości geologicznej.",
+                                                      "Są to pozostałości po wulkanizmie z ery prekambryjskiej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podczas orogenezy alpejskiej sztywny blok Sudetów popękał. Wzdłuż głębokich pęknięć i uskoków magma wydostawała się na powierzchnię, tworząc wulkany i wylewy bazaltowe (trzeciorzęd)."
+                                  },
+                                  {
+                                      "question":  "Co charakteryzuje „rzeźbę rusztową” Gór Świętokrzyskich?",
+                                      "options":  [
+                                                      "Chaotyczny układ wzniesień i dolin bez wyraźnego kierunku.",
+                                                      "Układ równoległych pasm górskich pooddzielanych podłużnymi dolinami, wynikający z odporności skał.",
+                                                      "Występowanie licznych izolowanych stożków wulkanicznych.",
+                                                      "Płaskie wierzchowiny pocięte głębokimi kanionami rzecznymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rzeźba rusztowa to naprzemienne występowanie pasm wzniesień (zbudowanych z odpornych skał, np. piaskowców) i obniżeń (zbudowanych ze skał mniej odpornych, np. iłowców), ułożonych równolegle do siebie."
+                                  },
+                                  {
+                                      "question":  "Jaka jest geneza Jeziorek Duszatyńskich w Bieszczadach?",
+                                      "options":  [
+                                                      "Są to jeziora polodowcowe typu cyrkowego.",
+                                                      "Powstały w lej krasowym wypełnionym wodą.",
+                                                      "Powstały na skutek zatamowania potoku przez osuwisko skalne.",
+                                                      "Są to starorzecza rzeki San."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Jeziorka Duszatyńskie są przykładem jezior osuwiskowych. Powstały, gdy masy ziemi i skał zsunęły się ze zbocza, tamując przepływ potoku Olchowatego."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Śnieżka góruje nad resztą Karkonoszy i ma charakterystyczny kształt piramidy?",
+                                      "options":  [
+                                                      "Jest wygasłym wulkanem, który zachował swój stożkowaty kształt.",
+                                                      "Zbudowana jest z bardzo odpornych na niszczenie hornfelsów, tworząc tzw. twardzielca.",
+                                                      "Została wypiętrzona wyżej niż inne bloki wzdłuż uskoków.",
+                                                      "Jest to nasyp moreny czołowej pozostawiony przez lodowiec."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Śnieżka jest twardzielcem – jej szczyt zbudowany jest z hornfelsów (skał metamorficznych), które są znacznie twardsze i odporniejsze na erozję niż otaczające je granity i łupki, dlatego przetrwała jako najwyższe wzniesienie."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia Sudety od Karpat pod względem wieku geologicznego?",
+                                      "options":  [
+                                                      "Sudety są górami młodymi (alpejskimi), a Karpaty starymi (hercyńskimi).",
+                                                      "Sudety są geologicznie starsze (sfałdowane w paleozoiku), a Karpaty młodsze (sfałdowane w kenozoiku).",
+                                                      "Oba pasma powstały w tym samym czasie, w orogenezie kaledońskiej.",
+                                                      "Sudety nigdy nie były fałdowane, są górami wulkanicznymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Główny zrąb Sudetów uformował się w orogenezie hercyńskiej (paleozoik), a Karpaty (w tym Bieszczady i Tatry) to góry młode sfałdowane w orogenezie alpejskiej (kenozoik). Sudety w orogenezie alpejskiej zostały jedynie „odmłodzone” (wyniesione)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Bieszczady są zbudowane z fliszu karpackiego, czyli naprzemianległych warstw piaskowców, łupków i margli, co skutkuje ich łagodniejszą rzeźbą w porównaniu do Tatr.",
+                                           "answer":  true,
+                                           "explanation":  "Bieszczady to góry fałdowe zbudowane z mało odpornego na erozję fliszu karpackiego, co nadaje im charakter gór o zaokrąglonych grzbietach."
+                                       },
+                                       {
+                                           "sentence":  "Sudety są młodymi górami fałdowymi, które powstały w całości w czasie orogenezy alpejskiej, podobnie jak Karpaty.",
+                                           "answer":  false,
+                                           "explanation":  "Sudety to stare góry zrębowe. Ich struktura uformowała się w paleozoiku, a w czasie orogenezy alpejskiej sztywne warstwy skalne zostały jedynie potrzaskane na bloki i wyniesione wzdłuż uskoków."
+                                       },
+                                       {
+                                           "sentence":  "W Bieszczadach występuje pełny układ pięter roślinnych, w tym piętro regla górnego (świerkowego) oraz piętro kosodrzewiny.",
+                                           "answer":  false,
+                                           "explanation":  "W Bieszczadach układ pięter jest specyficzny: brakuje regla górnego i kosodrzewiny. Lasy bukowe (regiel dolny) przechodzą bezpośrednio w łąki górskie zwane połoninami."
+                                       },
+                                       {
+                                           "sentence":  "Najwyższe pasmo Gór Świętokrzyskich, Łysogóry, zbudowane jest z twardych i odpornych na niszczenie piaskowców kwarcytowych pochodzących z paleozoiku.",
+                                           "answer":  true,
+                                           "explanation":  "Łysogóry budują kambryjskie i dewońskie piaskowce kwarcytowe, które dzięki swojej twardości oparły się erozji i tworzą najwyższe wzniesienia tego pasma."
+                                       },
+                                       {
+                                           "sentence":  "Góry Stołowe w Sudetach są przykładem gór płytowych, zbudowanych z poziomo ułożonych warstw piaskowców, które nie zostały sfałdowane.",
+                                           "answer":  true,
+                                           "explanation":  "Góry Stołowe to jedyny w Polsce przykład gór płytowych. Budują je płasko zalegające ławice piaskowców ciosowych z okresu kredy, pocięte systemem spękań."
+                                       },
+                                       {
+                                           "sentence":  "Gołoborza w Górach Świętokrzyskich powstały w wyniku chemicznego rozpuszczania skał wapiennych przez wodę (procesy krasowe).",
+                                           "answer":  false,
+                                           "explanation":  "Gołoborza to rumowiska skalne powstałe w wyniku wietrzenia mrozowego (fizycznego) piaskowców kwarcytowych w warunkach klimatu peryglacjalnego."
+                                       },
+                                       {
+                                           "sentence":  "W najwyższym paśmie Sudetów, Karkonoszach, występują kotły polodowcowe i jeziora cyrkowe będące śladem plejstoceńskiego zlodowacenia.",
+                                           "answer":  true,
+                                           "explanation":  "Mimo że Sudety są górami średnimi, w plejstocenie w Karkonoszach rozwinęły się lokalne lodowce górskie, które wyrzeźbiły kotły (cyrki), np. Kocioł Małego Stawu."
+                                       },
+                                       {
+                                           "sentence":  "Jeziorka Duszatyńskie w Bieszczadach są typowymi jeziorami rynnowymi powstałymi w wyniku działalności lądolodu.",
+                                           "answer":  false,
+                                           "explanation":  "Jeziorka Duszatyńskie są jeziorami osuwiskowymi. Powstały na skutek zatamowania potoku Olchowatego przez osuwisko ziemne, a nie przez lodowiec."
+                                       },
+                                       {
+                                           "sentence":  "Granice pięter roślinnych w Sudetach przebiegają niżej niż w Karpatach z powodu chłodniejszego klimatu i słabszych gleb.",
+                                           "answer":  true,
+                                           "explanation":  "W Sudetach granice pięter są obniżone o ok. 200 m względem Karpat, co wynika z surowszego klimatu, większego zachmurzenia i wpływu mas oceanicznych."
+                                       },
+                                       {
+                                           "sentence":  "W Sudetach nie występują żadne ślady działalności wulkanicznej, ponieważ są to góry zbyt stare.",
+                                           "answer":  false,
+                                           "explanation":  "Podczas orogenezy alpejskiej w Sudetach nasiliły się zjawiska wulkaniczne wzdłuż spękań tektonicznych, czego dowodem są m.in. stożki wulkaniczne, nekki i pokrywy bazaltowe."
+                                       },
+                                       {
+                                           "sentence":  "Góry Świętokrzyskie charakteryzują się rzeźbą rusztową, polegającą na występowaniu równoległych pasm wzniesień i dolin.",
+                                           "answer":  true,
+                                           "explanation":  "Taki układ terenu wynika z budowy geologicznej – naprzemianległego występowania skał o różnej odporności na niszczenie, co po erozji dało efekt „rusztu”."
+                                       }
+                                   ]
+                 }
+}

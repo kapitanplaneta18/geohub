@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz4-t1",
+    "title": "Czynniki rozwoju rolnictwa",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Przyrodnicze czynniki rozwoju rolnictwa",
+        "definition": "Należą do nich: warunki klimatyczne (agroklimatyczne), żyzność gleb, warunki wodne oraz ukształtowanie powierzchni."
+      },
+      {
+        "term": "Okres wegetacyjny",
+        "definition": "Liczba dni w roku, w których średnia dobowa temperatura powietrza (powyżej 5°C) umożliwia rozwój i wzrost roślin."
+      },
+      {
+        "term": "Najbardziej sprzyjające warunki klimatyczne",
+        "definition": "Występują w strefie klimatów umiarkowanych ciepłych oraz w wilgotnych odmianach klimatów stref zwrotnikowej i podzwrotnikowej."
+      },
+      {
+        "term": "Najmniej korzystne warunki klimatyczne",
+        "definition": "Obejmują obszary polarne, pustynne oraz tereny leżące w klimacie równikowym wybitnie wilgotnym."
+      },
+      {
+        "term": "Żyzność gleby",
+        "definition": "Zdolność gleby do dostarczania roślinom wody, powietrza i składników mineralnych. Najkorzystniejsze gleby to czarnoziemy, mady i gleby płowe, a najsłabsze - piaszczyste, słone i inicjalne."
+      },
+      {
+        "term": "Warunki wodne w rolnictwie",
+        "definition": "Zależą od głębokości zalegania wód gruntowych i dostępności wód powierzchniowych. Mogą być poprawiane dzięki sztucznemu nawadnianiu (irygacji)."
+      },
+      {
+        "term": "Ukształtowanie powierzchni",
+        "definition": "Rolnictwu sprzyjają tereny łagodnie nachylone. Ważna jest też ekspozycja stoku (np. stoki o ekspozycji południowej na półkuli północnej otrzymują więcej energii słonecznej)."
+      },
+      {
+        "term": "Pozaprzyrodnicze czynniki rozwoju rolnictwa",
+        "definition": "Należą do nich: poziom rozwoju społeczno-gospodarczego, zasoby pracy, poziom kultury rolnej, czynniki polityczne oraz struktura agrarna."
+      },
+      {
+        "term": "Zasoby pracy (siła robocza)",
+        "definition": "Są kluczowe w krajach słabo rozwiniętych do prowadzenia pracochłonnych upraw (np. ryżu). W krajach wysoko rozwiniętych zapotrzebowanie na pracę ludzi zmniejsza mechanizacja."
+      },
+      {
+        "term": "Poziom kultury rolnej",
+        "definition": "Obejmuje stosowanie nowoczesnych metod upraw (np. rolnictwa precyzyjnego), wykorzystanie środków ochrony roślin, mechanizację oraz wprowadzanie wydajnych odmian roślin i zwierząt."
+      },
+      {
+        "term": "Polityka rolna państwa",
+        "definition": "Oddziaływanie władz na rolnictwo poprzez m.in. skupy interwencyjne, gwarantowane ceny minimalne czy dotacje bezpośrednie (np. Wspólna Polityka Rolna UE)."
+      },
+      {
+        "term": "Protekcjonizm w rolnictwie",
+        "definition": "Polityka ochrony rodzimej produkcji przed zagraniczną konkurencją za pomocą ceł, barier importowych oraz dotacji pobudzających eksport."
+      },
+      {
+        "term": "Struktura agrarna",
+        "definition": "Całokształt stosunków panujących w rolnictwie, na który składają się struktura własnościowa oraz struktura wielkościowa gospodarstw rolnych."
+      },
+      {
+        "term": "Struktura własnościowa gospodarstw",
+        "definition": "Podział gospodarstw według form własności ziemi: wspólnej, prywatnej i społecznej. Najbardziej efektywna jest własność prywatna, która motywuje rolników do pracy."
+      },
+      {
+        "term": "Struktura wielkościowa gospodarstw",
+        "definition": "Podział gospodarstw według ich powierzchni. Małe (do 10 ha) dominują np. w Azji, średnie (10-50 ha) w Europie Zachodniej, a duże w obu Amerykach, Rosji i Australii."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Występowanie mad, czarnoziemów oraz gleb płowych",
+        "pair2": "Przyrodnicze czynniki rozwoju rolnictwa (żyzność gleby)"
+      },
+      {
+        "pair1": "Struktura agrarna oraz poziom rozwoju społeczno-gospodarczego",
+        "pair2": "Pozaprzyrodnicze czynniki rozwoju rolnictwa"
+      },
+      {
+        "pair1": "Przewaga małych gospodarstw rolnych (do 10 ha)",
+        "pair2": "Mniejsza wydajność i brak opłacalności stosowania drogich maszyn i urządzeń"
+      },
+      {
+        "pair1": "Prywatna (indywidualna) własność ziemi",
+        "pair2": "Motywacja rolników do dbałości o gospodarstwo, co sprzyja wyższej wydajności produkcji"
+      },
+      {
+        "pair1": "Wysoki stopień zmechanizowania i rolnictwo precyzyjne",
+        "pair2": "Wysoki poziom kultury rolnej zmniejszający zapotrzebowanie na zasoby ludzkiej pracy"
+      },
+      {
+        "pair1": "Ograniczanie importu za pomocą ceł i wspieranie rodzimego eksportu",
+        "pair2": "Polityka protekcjonizmu (polityczny czynnik rozwoju rolnictwa)"
+      },
+      {
+        "pair1": "Ekspozycja południowa stoków na półkuli północnej",
+        "pair2": "Większa ilość docierającej energii słonecznej, skutkująca dłuższym okresem wegetacyjnym i lepszą jakością owoców"
+      },
+      {
+        "pair1": "Klimat umiarkowany ciepły oraz wilgotny zwrotnikowy i podzwrotnikowy",
+        "pair2": "Najlepsze warunki klimatyczne sprzyjające pracom rolniczym"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Który z poniższych czynników zaliczany jest bezpośrednio do grupy przyrodniczych uwarunkowań rozwoju rolnictwa?",
+        "options": [
+          "Poziom kultury rolnej danego regionu",
+          "Ukształtowanie powierzchni na danym terenie",
+          "Polityka rolna prowadzona przez państwo",
+          "Struktura wielkościowa gospodarstw na obszarze"
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z podręcznikiem do przyrodniczych czynników rozwoju rolnictwa należą warunki klimatyczne, żyzność gleb, warunki wodne oraz ukształtowanie powierzchni."
+      },
+      {
+        "question": "Który z poniższych elementów stanowi w rzeczywistości czynnik pozaprzyrodniczy rozwoju rolnictwa?",
+        "options": [
+          "Stosowanie nawozów poprawiających żyzność gleb",
+          "Liczba dni z określoną temperaturą powietrza",
+          "Głębokość zalegania wód gruntowych w regionie",
+          "Nachylenie stoku oraz jego południowa ekspozycja"
+        ],
+        "answer": "A",
+        "explanation": "Zdolność do sztucznego poprawiania żyzności gleb poprzez nawożenie wiąże się z poziomem kultury rolnej, co jest czynnikiem społeczno-gospodarczym (pozaprzyrodniczym)."
+      },
+      {
+        "question": "Czym charakteryzuje się okres wegetacyjny w kontekście naturalnych uwarunkowań rozwoju rolnictwa?",
+        "options": [
+          "Czas, gdy średnia dobowa temperatura utrzymuje się powyżej 0°C.",
+          "Czas, gdy średnia dobowa temperatura powietrza przekracza 5°C.",
+          "Czas występowania najbardziej obfitych opadów atmosferycznych.",
+          "Czas pomiędzy ostatnimi zimowymi przymrozkami a pierwszym śniegiem."
+        ],
+        "answer": "B",
+        "explanation": "Podręcznik definiuje okres wegetacyjny jako liczbę dni w roku, w których średnia dobowa temperatura powietrza powyżej 5°C umożliwia wzrost roślin."
+      },
+      {
+        "question": "W których strefach klimatycznych występują najbardziej sprzyjające warunki do prowadzenia działalności rolniczej?",
+        "options": [
+          "Klimaty równikowe wybitnie wilgotne z ulewnymi deszczami.",
+          "Klimaty podbiegunowe, polarne oraz skrajnie suche pustynne.",
+          "Klimaty zwrotnikowe kontynentalne z bardzo wysokimi temperaturami.",
+          "Klimaty umiarkowane ciepłe oraz wilgotne odmiany podzwrotnikowe."
+        ],
+        "answer": "D",
+        "explanation": "Najlepsze warunki agroklimatyczne panują w strefie klimatów umiarkowanych ciepłych oraz w wilgotnych odmianach klimatów stref zwrotnikowej i podzwrotnikowej."
+      },
+      {
+        "question": "Jaki wpływ na rolnictwo na półkuli północnej wywiera odpowiednia ekspozycja górskiego stoku?",
+        "options": [
+          "Stoki zachodnie chronią przed nadmiernym nasłonecznieniem.",
+          "Stoki południowe uzyskują więcej energii od słońca.",
+          "Stoki północne zatrzymują znacznie więcej wilgoci.",
+          "Stoki wschodnie gwarantują błyskawiczne dojrzewanie plonów."
+        ],
+        "answer": "B",
+        "explanation": "Na półkuli północnej stoki o ekspozycji południowej otrzymują więcej energii słonecznej, co skutkuje dłuższym okresem wegetacyjnym i lepszą jakością owoców."
+      },
+      {
+        "question": "W jaki sposób można ingerować w słabe warunki wodne, aby poprawić efektywność rolnictwa na suchych obszarach?",
+        "options": [
+          "Wprowadza się mechanizację prac oraz sztuczne nawożenie.",
+          "Stosuje się irygację, czyli sztuczne nawadnianie upraw.",
+          "Zwiększa się gwałtownie udział bardzo małych gospodarstw.",
+          "Wykorzystuje się stoki o ekspozycji północnej pod uprawy."
+        ],
+        "answer": "B",
+        "explanation": "Warunki wodne na danym obszarze mogą być modyfikowane i poprawiane przez człowieka między innymi poprzez zabiegi irygacyjne (nawadnianie)."
+      },
+      {
+        "question": "Dlaczego w państwach słabo rozwiniętych duże zasoby ludzkiej pracy są wciąż kluczowym czynnikiem dla rolnictwa?",
+        "options": [
+          "Prowadzi się tam pracochłonne uprawy wymagające rąk do pracy.",
+          "Rolnicy zmuszeni są obsługiwać potężną flotę maszyn rolniczych.",
+          "Państwo bardzo mocno dotuje i wspiera zatrudnienie w rolnictwie.",
+          "Dominują w nich wielkoobszarowe uprawy modyfikowane genetycznie."
+        ],
+        "answer": "A",
+        "explanation": "Zasoby pracy (siła robocza) są szczególnie ważne w krajach słabo rozwiniętych, ponieważ prowadzi się tam niezwykle pracochłonne uprawy (np. ryżu) przy niskim poziomie mechanizacji."
+      },
+      {
+        "question": "Na czym opiera się rolnictwo precyzyjne, będące bezpośrednim przejawem wysokiego poziomu kultury rolnej?",
+        "options": [
+          "Na stosowaniu potężnych dawek chemikaliów bez planowania.",
+          "Na powrocie do całkowicie ręcznych metod sadzenia i zbioru.",
+          "Na precyzyjnym dawkowaniu środków przez systemy komputerowe.",
+          "Na rozdrobnieniu wielkich gospodarstw rolnych na małe parcele."
+        ],
+        "answer": "C",
+        "explanation": "Rolnictwo precyzyjne polega na bardzo dokładnym dawkowaniu nawozów i środków ochrony roślin przez zaawansowane maszyny zarządzane systemami komputerowymi."
+      },
+      {
+        "question": "Czym dokładnie różni się struktura wielkościowa gospodarstw rolnych od ich struktury własnościowej?",
+        "options": [
+          "Pierwsza określa rodzaj gleby, druga całkowitą masę plonów.",
+          "Pierwsza dotyczy obszaru w hektarach, druga formy własności.",
+          "Pierwsza odnosi się do nawożenia, druga do poziomu oświaty.",
+          "Pierwsza klasyfikuje roślinność, druga wskazuje formę władania."
+        ],
+        "answer": "B",
+        "explanation": "Struktura agrarna składa się ze struktury własnościowej (np. gospodarstwa prywatne, społeczne) oraz struktury wielkościowej (podział na wielkość powierzchni w hektarach)."
+      },
+      {
+        "question": "W jakich regionach świata struktura agrarna charakteryzuje się zdecydowaną przewagą gospodarstw małych (do 10 ha)?",
+        "options": [
+          "W krajach afrykańskich oraz w regionie Azji Południowej.",
+          "W Stanach Zjednoczonych, państwach europejskich i Australii.",
+          "W większości państw leżących na terenie Ameryki Południowej.",
+          "W krajach Europy Zachodniej nastawionych na masowy eksport."
+        ],
+        "answer": "A",
+        "explanation": "Dominacja gospodarstw małych (do 10 ha) jest cechą charakterystyczną dla rolnictwa w krajach Afryki, Azji Południowo-Wschodniej oraz niektórych państw śródziemnomorskich."
+      },
+      {
+        "question": "Które z wymienionych rodzajów gleb charakteryzują się najwyższą naturalną żyznością niezbędną w nowoczesnym rolnictwie?",
+        "options": [
+          "Gleby piaszczyste, gleby inicjalne i zniszczone bielicowe.",
+          "Gleby nadmiernie słone, gleby bagienne oraz mroźne tundrowe.",
+          "Żyzne czarnoziemy, bogate mady rzeczne oraz gleby płowe.",
+          "Gleby brunatne, suche gleby kasztanowe i kwaśne laterytowe."
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z informacjami z podręcznika najkorzystniejszymi pod względem fizyczno-chemicznym glebami są czarnoziemy, mady oraz gleby płowe."
+      },
+      {
+        "question": "O czym bezpośrednio świadczy wysoki stopień mechanizacji oraz powszechne stosowanie wydajnych odmian w rolnictwie?",
+        "options": [
+          "O bardzo sprzyjającej i wydajnej strukturze wielkościowej.",
+          "O występowaniu niezwykle żyznych gleb oraz wybitnie doskonałego klimatu.",
+          "O silnym państwowym protekcjonizmie chroniącym własny rynek.",
+          "O wysokim poziomie kultury rolnej stosowanej na danym obszarze."
+        ],
+        "answer": "D",
+        "explanation": "Wykorzystanie maszyn, środków ochrony roślin i wprowadzanie wydajnych gatunków to główne wyznaczniki pojęcia określanego jako poziom kultury rolnej."
+      },
+      {
+        "question": "W jaki sposób państwo może wspierać rodzimych producentów żywności, stosując twardą politykę protekcjonizmu?",
+        "options": [
+          "Przejmując ziemię państwową w ramach drastycznej reformy rolnej.",
+          "Ograniczając zagraniczny import i dotując produkcję eksportową.",
+          "Podnosząc drastycznie podatki dla wielkich prywatnych korporacji.",
+          "Zmieniając formę własności wszystkich działek na dobro społeczne."
+        ],
+        "answer": "B",
+        "explanation": "Polityka protekcjonizmu polega na stymulacji rolnictwa przez zaporowe cła (ograniczanie importu) i jednoczesne wspieranie rodzimego eksportu."
+      },
+      {
+        "question": "Z jakiego powodu w państwach zdominowanych przez gospodarstwa najmniejsze wprowadzanie mechanizacji jest spowolnione?",
+        "options": [
+          "Zakup kosztownych maszyn przy niewielkiej produkcji nie zwraca się.",
+          "Miejscowi rolnicy regularnie i celowo bojkotują wszelkie innowacje.",
+          "Złożone przepisy handlowe surowo zabraniają importu technologii.",
+          "Trudne ukształtowanie terenu całkowicie wyklucza ruch ciężkich pojazdów."
+        ],
+        "answer": "A",
+        "explanation": "Na bardzo małym areale (do 10 ha) stosowanie drogich urządzeń i inwestycji kapitałowych jest nieopłacalne, gdyż gospodarstwa te osiągają niską wydajność ogólną."
+      },
+      {
+        "question": "Jaki rodzaj własności ziemi uważa się obecnie za zjawisko najbardziej sprzyjające wysokiej wydajności produkcji rolnej?",
+        "options": [
+          "Własność społeczna, ponieważ szybko rozkłada ciężary finansowe.",
+          "Własność państwowa, ponieważ stale gwarantuje pełny zbyt plonów.",
+          "Własność prywatna, ponieważ najmocniej motywuje ludzi do pracy.",
+          "Własność spółdzielcza, ponieważ bardzo ułatwia dzielenie się sprzętem."
+        ],
+        "answer": "C",
+        "explanation": "Prywatna forma własności jest najbardziej efektywna, ponieważ bezpośrednio motywuje rolnika do zaangażowania i dbałości o zyski ze swojego gospodarstwa."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Struktura agrarna, określająca formy własności ziemi oraz strukturę wielkościową gospodarstw rolnych, zaliczana jest do przyrodniczych uwarunkowań rozwoju rolnictwa.",
+        "answer": false,
+        "explanation": "Struktura agrarna (własnościowa i wielkościowa) to czynnik społeczno-gospodarczy, należący do grupy pozaprzyrodniczych czynników rozwoju rolnictwa, a nie przyrodniczych."
+      },
+      {
+        "sentence": "Okres wegetacyjny to liczba dni w roku, w których średnia dobowa temperatura powietrza utrzymuje się powyżej 0°C, co umożliwia swobodny rozwój i wzrost roślin.",
+        "answer": false,
+        "explanation": "Zgodnie z tekstem źródłowym, okres wegetacyjny to liczba dni w roku, w których średnia dobowa temperatura powietrza wynosi powyżej 5°C, a nie 0°C."
+      },
+      {
+        "sentence": "Dominacja małych gospodarstw rolnych o powierzchni poniżej 10 hektarów sprzyja wprowadzaniu drogich maszyn i urządzeń, co znacznie zwiększa opłacalność produkcji rolnej.",
+        "answer": false,
+        "explanation": "W małych gospodarstwach (do 10 ha) stosowanie drogich maszyn i przeprowadzanie kosztownych inwestycji jest nieopłacalne ze względu na ograniczony poziom produkcji."
+      },
+      {
+        "sentence": "Najlepsze warunki klimatyczne do prowadzenia prac rolniczych występują w strefie klimatów umiarkowanych ciepłych oraz w wilgotnych odmianach klimatów stref zwrotnikowej i podzwrotnikowej.",
+        "answer": true,
+        "explanation": "Podręcznik wprost wskazuje, że te właśnie strefy i odmiany klimatów stwarzają najkorzystniejsze agroklimatyczne uwarunkowania dla rozwoju rolnictwa."
+      },
+      {
+        "sentence": "Na półkuli północnej stoki o ekspozycji północnej są bardziej korzystne dla rolnictwa, ponieważ skutecznie chronią uprawy przed nadmiernym promieniowaniem słonecznym i utratą wilgoci.",
+        "answer": false,
+        "explanation": "Na półkuli północnej dla rolnictwa najkorzystniejsze są stoki o ekspozycji południowej, ponieważ dociera do nich więcej energii słonecznej, co m.in. wydłuża okres wegetacji i poprawia jakość owoców."
+      },
+      {
+        "sentence": "W krajach wysoko rozwiniętych gospodarczo duże zasoby ludzkiej siły roboczej w rolnictwie są kluczowe, ponieważ uprawy tam prowadzone są wysoce zmechanizowane.",
+        "answer": false,
+        "explanation": "W krajach wysoko rozwiniętych zmechanizowane rolnictwo znacznie zmniejsza zapotrzebowanie na pracę ręczną. Duże zasoby pracy ludzkiej są natomiast kluczowe w krajach słabo rozwiniętych."
+      },
+      {
+        "sentence": "Polityka protekcjonizmu rolnego państwa polega na szerokim otwarciu granic, znoszeniu ceł i ułatwianiu zagranicznego importu w celu pobudzenia wewnętrznej konkurencji.",
+        "answer": false,
+        "explanation": "Polityka protekcjonizmu polega na działaniach odwrotnych – chroni produkcję krajową przed zagraniczną konkurencją poprzez ograniczanie importu (np. za pomocą ceł) i pobudzanie rodzimego eksportu."
+      },
+      {
+        "sentence": "Spośród podstawowych form własności ziemi, własność prywatna (indywidualna) uważana jest za najbardziej efektywną dla wydajności produkcji rolnej.",
+        "answer": true,
+        "explanation": "Własność prywatna jest najbardziej efektywna, ponieważ bezpośrednio motywuje rolników do dbałości o własne gospodarstwo i większego zaangażowania w pracę."
+      },
+      {
+        "sentence": "Wprowadzanie wysokowydajnych odmian roślin i zwierząt oraz stosowanie metod precyzyjnego dawkowania środków chemicznych zalicza się do uwarunkowań określanych jako poziom kultury rolnej.",
+        "answer": true,
+        "explanation": "Poziom kultury rolnej (czynnik pozaprzyrodniczy) objawia się właśnie poprzez stosowanie nowoczesnych metod upraw (rolnictwo precyzyjne), mechanizację, ochronę chemiczną oraz wprowadzanie wydajnych odmian."
+      },
+      {
+        "sentence": "Zdolność do sztucznego poprawiania warunków wodnych poprzez irygację jest całkowicie niezależna od poziomu rozwoju społeczno-gospodarczego i technologicznego danego państwa.",
+        "answer": false,
+        "explanation": "Stosowanie nowoczesnych technologii (np. systemów nawadniających) zależy od stopnia rozwoju przemysłu oraz usług rolniczych, a więc od poziomu rozwoju społeczno-gospodarczego kraju."
+      },
+      {
+        "sentence": "Cechy gleby, takie jak wielkość cząstek i zawartość materii organicznej (głównie próchnicy), decydują o jej naturalnej żyzności, zaliczanej do przyrodniczych czynników produkcji.",
+        "answer": true,
+        "explanation": "Żyzność gleby, czyli jej zdolność do dostarczania roślinom składników odżywczych, zależy m.in. od próchnicy i minerałów skały macierzystej, co czyni ją podstawowym czynnikiem przyrodniczym."
+      },
+      {
+        "sentence": "Zmiany środowiska wywołane globalnym ocieplaniem się klimatu powodują, że granica upraw poszczególnych roślin przesuwa się na półkuli północnej coraz bardziej w kierunku równika.",
+        "answer": false,
+        "explanation": "Według podręcznika, z powodu globalnego ocieplenia granica upraw na półkuli północnej przesuwa się w kierunku północnym (w wyższe szerokości geograficzne), a nie w stronę równika."
+      }
+    ]
+  }
+}

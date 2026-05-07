@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k3-r-dz1-t7",
+    "title": "Jeziora w Polsce",
+    "level": "R",
+    "class": "3"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Jezioro rynnowe (np. Hańcza, Gopło)",
+        "definition": "Typ jeziora polodowcowego o wydłużonym, wąskim kształcie i dużej głębokości, powstałego wskutek erozyjnej działalności wód płynących pod wysokim ciśnieniem pod lądolodem."
+      },
+      {
+        "term": "Jezioro morenowe (np. Śniardwy, Mamry)",
+        "definition": "Jezioro powstałe w wyniku zatamowania odpływu wód przez wały morenowe lub wypełnienia wodą zagłębień w obrębie moreny dennej; charakteryzuje się dużą powierzchnią i urozmaiconą linią brzegową."
+      },
+      {
+        "term": "Jezioro cyrkowe / karowe (np. Czarny Staw pod Rysami)",
+        "definition": "Wysokogórskie jezioro wypełniające cyrk (kocioł) polodowcowy, powstałe w zagłębieniu wyżłobionym przez pole firnowe lodowca; zazwyczaj głębokie i owalne."
+      },
+      {
+        "term": "Jezioro przybrzeżne (np. Łebsko, Gardno)",
+        "definition": "Duży i płytki zbiornik wodny powstały na skutek odcięcia zatoki morskiej od otwartego morza przez narastającą piaszczystą mierzeję."
+      },
+      {
+        "term": "Jezioro deltowe (np. Druzno, Dąbie)",
+        "definition": "Płytkie i szybko zarastające jezioro powstałe w obrębie delty rzecznej w wyniku nierównomiernego osadzania materiału skalnego (nanosów) przez rzekę."
+      },
+      {
+        "term": "Jezioro zakolowe / starorzecze (np. Jezioro Czerniakowskie)",
+        "definition": "Jezioro o sierpowatym kształcie, powstałe w dolinie rzeki wskutek odcięcia fragmentu dawnego koryta (meandru) od głównego nurtu."
+      },
+      {
+        "term": "Jezioro krasowe (np. Uściwierz, Perespa)",
+        "definition": "Zbiornik wodny powstały w obniżeniu terenu utworzonym w wyniku chemicznego rozpuszczania skał wapiennych lub gipsowych (procesy krasowe)."
+      },
+      {
+        "term": "Oczko polodowcowe",
+        "definition": "Mały, płytki i zazwyczaj bezodpływowy zbiornik wodny o owalnym kształcie, powstały w zagłębieniu po wytopieniu się bryły martwego lodu."
+      },
+      {
+        "term": "Jezioro osuwiskowe (np. Jeziorka Duszatyńskie)",
+        "definition": "Jezioro powstałe w górach (np. w Bieszczadach) w wyniku zatamowania przepływu potoku przez masy ziemne i skalne zsuwające się ze stoków."
+      },
+      {
+        "term": "Hańcza (Pojezierze Suwalskie)",
+        "definition": "Najgłębsze jezioro w Polsce (108,5 m), będące przykładem jeziora rynnowego o stromych brzegach."
+      },
+      {
+        "term": "Śniardwy (Kraina Wielkich Jezior Mazurskich)",
+        "definition": "Największe pod względem powierzchni jezioro w Polsce (113,4 km²), będące stosunkowo płytkim jeziorem morenowym."
+      },
+      {
+        "term": "Jezioro Włocławskie",
+        "definition": "Największy pod względem powierzchni (70,4 km²) sztuczny zbiornik w Polsce, powstały przez spiętrzenie wód Wisły zaporą."
+      },
+      {
+        "term": "Jezioro Solińskie",
+        "definition": "Sztuczny zbiornik wodny w Bieszczadach (na Sanie) o największej w Polsce pojemności retencyjnej (472 mln m³)."
+      },
+      {
+        "term": "Jeziorność Polski",
+        "definition": "Wskaźnik określający procentowy udział powierzchni jezior w ogólnej powierzchni obszaru; dla Polski wynosi średnio 0,9%, a najwyższy jest na Pojezierzu Mazurskim (ok. 7%)."
+      },
+      {
+        "term": "Funkcja retencyjna jezior",
+        "definition": "Zdolność jezior i zbiorników sztucznych do magazynowania wody w okresach jej nadmiaru i oddawania w czasie deficytu, co łagodzi skutki powodzi i suszy."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Hańcza",
+        "pair2": "Najgłębsze jezioro w Polsce (rynnowe)"
+      },
+      {
+        "pair1": "Śniardwy",
+        "pair2": "Największe jezioro w Polsce (morenowe)"
+      },
+      {
+        "pair1": "Morskie Oko",
+        "pair2": "Jezioro cyrkowe (Tatry)"
+      },
+      {
+        "pair1": "Łebsko",
+        "pair2": "Jezioro przybrzeżne (Słowiński Park Narodowy)"
+      },
+      {
+        "pair1": "Druzno",
+        "pair2": "Jezioro deltowe (Żuławy Wiślane)"
+      },
+      {
+        "pair1": "Jezioro Włocławskie",
+        "pair2": "Największy sztuczny zbiornik pod względem powierzchni"
+      },
+      {
+        "pair1": "Jezioro Solińskie",
+        "pair2": "Największy sztuczny zbiornik pod względem pojemności"
+      },
+      {
+        "pair1": "Jeziorka Duszatyńskie",
+        "pair2": "Geneza osuwiskowa (Bieszczady)"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Które jezioro jest największym pod względem powierzchni naturalnym zbiornikiem wodnym w Polsce?",
+        "options": [
+          "Jezioro Mamry",
+          "Jezioro Śniardwy",
+          "Jezioro Hańcza",
+          "Jezioro Łebsko"
+        ],
+        "answer": "B",
+        "explanation": "Jezioro Śniardwy, położone na Pojezierzu Mazurskim, jest największym polskim jeziorem o powierzchni 113,4 km²."
+      },
+      {
+        "question": "Jaki proces geologiczny doprowadził do powstania jezior rynnowych, takich jak Hańcza czy Gopło?",
+        "options": [
+          "Zatamowanie odpływu wód przez wały moreny czołowej",
+          "Wytopienie się brył martwego lodu zagrzebanych w osadach",
+          "Erozyjna działalność wód płynących pod wysokim ciśnieniem pod lądolodem",
+          "Odcięcie zakola rzecznego od głównego koryta"
+        ],
+        "answer": "C",
+        "explanation": "Jeziora rynnowe powstały w wyniku erozji podłoża przez wody roztopowe płynące pod lądolodem, co nadało im wydłużony kształt, strome brzegi i dużą głębokość."
+      },
+      {
+        "question": "Dlaczego jeziora przybrzeżne, takie jak Łebsko i Gardno, charakteryzują się małą głębokością i dużą powierzchnią?",
+        "options": [
+          "Ponieważ powstały w wyniku odcięcia płytkich zatok morskich przez mierzeje",
+          "Ponieważ są to dawne wyrobiska po wydobyciu torfu zalane wodą morską",
+          "Ponieważ powstały w głębokich rynnach polodowcowych zasypanych piaskiem",
+          "Ponieważ są to jeziora krasowe, których dno uległo zapadnięciu"
+        ],
+        "answer": "A",
+        "explanation": "Jeziora przybrzeżne to dawne zatoki morskie odcięte od morza przez narastające piaszczyste mierzeje, co sprawia, że są rozległe, ale płytkie."
+      },
+      {
+        "question": "Gdzie w Polsce znajduje się najgłębsze jezioro – Hańcza (108,5 m)?",
+        "options": [
+          "Na Pojezierzu Pomorskim",
+          "W Tatrach",
+          "Na Pojezierzu Suwalskim",
+          "W Krainie Wielkich Jezior Mazurskich"
+        ],
+        "answer": "C",
+        "explanation": "Najgłębsze jezioro w Polsce, Hańcza, jest jeziorem rynnowym położonym na Pojezierzu Suwalskim."
+      },
+      {
+        "question": "Które z wymienionych jezior jest przykładem jeziora deltowego, powstałego w zagłębieniach w obrębie ujścia rzeki?",
+        "options": [
+          "Jezioro Dąbie",
+          "Jezioro Solińskie",
+          "Morskie Oko",
+          "Jezioro Wigry"
+        ],
+        "answer": "A",
+        "explanation": "Jezioro Dąbie (w delcie Odry) oraz Druzno (w delcie Wisły) to jeziora deltowe powstałe w wyniku nierównomiernego osadzania materiału rzecznego."
+      },
+      {
+        "question": "Jaki typ genetyczny reprezentują jeziora Mamry i Śniardwy, charakteryzujące się urozmaiconą linią brzegową i dużą powierzchnią?",
+        "options": [
+          "Jeziora cyrkowe",
+          "Jeziora rynnowe",
+          "Jeziora morenowe",
+          "Jeziora krasowe"
+        ],
+        "answer": "C",
+        "explanation": "Są to jeziora morenowe, powstałe w wyniku zatamowania odpływu wód przez wały morenowe lub wypełnienia zagłębień w morenie dennej."
+      },
+      {
+        "question": "W jaki sposób powstały Jeziorka Duszatyńskie w Bieszczadach?",
+        "options": [
+          "W wyniku działalność bobrów budujących tamy na potokach",
+          "Na skutek zatamowania odpływu potoku przez osuwisko ziemne",
+          "Przez działalność lodowców górskich w plejstocenie",
+          "W wyniku zapadnięcia się jaskiń krasowych"
+        ],
+        "answer": "B",
+        "explanation": "Są to jeziora osuwiskowe, które powstały w 1907 r., gdy masy ziemi i skał zsunęły się ze zbocza Chryszczatej, tamując potok Olchowaty."
+      },
+      {
+        "question": "Który sztuczny zbiornik wodny w Polsce posiada największą pojemność (retencję)?",
+        "options": [
+          "Jezioro Włocławskie",
+          "Jezioro Solińskie",
+          "Jezioro Czorsztyńskie",
+          "Jeziorsko"
+        ],
+        "answer": "B",
+        "explanation": "Jezioro Solińskie na Sanie ma największą pojemność w Polsce (ok. 472 mln m³), choć powierzchniowo większe jest Włocławskie."
+      },
+      {
+        "question": "Czym charakteryzują się oczka polodowcowe?",
+        "options": [
+          "Są to duże i głębokie zbiorniki połączone rzekami",
+          "Są to małe, płytkie i często bezodpływowe zagłębienia po wytopieniu brył martwego lodu",
+          "Są to jeziora powstałe w kraterach wygasłych wulkanów",
+          "Są to sztuczne stawy rybne zakładane przez cystersów"
+        ],
+        "answer": "B",
+        "explanation": "Oczka polodowcowe powstały w miejscach, gdzie po ustąpieniu lądolodu pozostały i wytopiły się odizolowane bryły martwego lodu."
+      },
+      {
+        "question": "Który region Polski wyróżnia się najwyższym wskaźnikiem jeziorności (ok. 7%)?",
+        "options": [
+          "Pojezierze Pomorskie",
+          "Pojezierze Wielkopolskie",
+          "Pojezierze Mazurskie",
+          "Polesie Lubelskie"
+        ],
+        "answer": "C",
+        "explanation": "Pojezierze Mazurskie ma najwyższy odsetek powierzchni zajętej przez jeziora w stosunku do ogólnej powierzchni terenu."
+      },
+      {
+        "question": "Jaka jest geneza jezior cyrkowych (karowych), takich jak Czarny Staw pod Rysami?",
+        "options": [
+          "Wypełnienie wodą obniżeń po dawnych polach firnowych lodowców górskich",
+          "Zatamowanie doliny rzecznej przez stożek napływowy",
+          "Wypełnienie wodą leja krasowego w wapieniach",
+          "Odcięcie meandru rzeki górskiej"
+        ],
+        "answer": "A",
+        "explanation": "Jeziora te wypełniają cyrki (kotły) polodowcowe, czyli zagłębienia wyżłobione w górach przez gromadzący się tam lód i firn."
+      },
+      {
+        "question": "Czym są jeziora zakolowe (starorzecza)?",
+        "options": [
+          "Jeziorami powstałymi w kraterach po uderzeniu meteorytów",
+          "Fragmentami dawnych koryt rzecznych odciętymi od głównego nurtu",
+          "Zbiornikami wodnymi utworzonymi przez tamy bobrów",
+          "Jeziorami położonymi w zakolach moren czołowych"
+        ],
+        "answer": "B",
+        "explanation": "Jeziora zakolowe (np. Jezioro Czerniakowskie) powstają w dolinach rzek meandrujących, gdy rzeka prostuje swój bieg i odcina zakole."
+      },
+      {
+        "question": "Która funkcja NIE jest typowa dla sztucznych zbiorników wodnych w Polsce?",
+        "options": [
+          "Produkcja energii w elektrowniach wodnych",
+          "Ochrona przeciwpowodziowa (retencja)",
+          "Zaopatrywanie ludności w wodę",
+          "Tworzenie naturalnych siedlisk dla roślinności reliktowej z okresu glacjału"
+        ],
+        "answer": "D",
+        "explanation": "Sztuczne zbiorniki są dziełem człowieka i często drastycznie zmieniają środowisko, co może zagrażać naturalnej bioróżnorodności, zamiast tworzyć siedliska reliktowe."
+      },
+      {
+        "question": "Dlaczego liczba jezior w Polsce stopniowo maleje (zanik jezior)?",
+        "options": [
+          "Z powodu naturalnego procesu zarastania (eutrofizacji) i działalności człowieka (melioracje)",
+          "Z powodu wydobycia wody z jezior do celów przemysłowych na masową skalę",
+          "Wskutek zasypywania jezior przez wydmy ruchome",
+          "Z powodu transgresji morza, które zalewa jeziora śródlądowe"
+        ],
+        "answer": "A",
+        "explanation": "Jeziora zanikają w wyniku naturalnego zarastania roślinnością (eutrofizacja) oraz prac melioracyjnych, które obniżają poziom wód gruntowych."
+      },
+      {
+        "question": "Gdzie w Polsce występują jeziora krasowe, takie jak Uściwierz?",
+        "options": [
+          "Na Pojezierzu Kaszubskim",
+          "W Tatrach Wysokich",
+          "Na Polesiu Lubelskim",
+          "Na Żuławach Wiślanych"
+        ],
+        "answer": "C",
+        "explanation": "Jeziora krasowe, powstałe w wyniku rozpuszczania skał węglanowych podłoża, są charakterystyczne dla Polesia Lubelskiego (Równina Łęczyńsko-Włodawska)."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Jezioro Śniardwy jest najgłębszym jeziorem w Polsce i przykładem jeziora rynnowego.",
+        "answer": false,
+        "explanation": "Śniardwy to największe powierzchniowo jezioro w Polsce, ale jest jeziorem morenowym i stosunkowo płytkim; najgłębszym jeziorem jest rynnowa Hańcza."
+      },
+      {
+        "sentence": "Jeziora rynnowe powstały w wyniku erozyjnej działalności wód płynących pod lądolodem pod wysokim ciśnieniem.",
+        "answer": true,
+        "explanation": "Jeziora rynnowe (np. Gopło, Hańcza) wypełniają rynny wyżłobione (erozja) przez wody roztopowe płynące w tunelach pod lądolodem."
+      },
+      {
+        "sentence": "Jezioro Włocławskie jest największym sztucznym zbiornikiem w Polsce pod względem pojemności (retencji).",
+        "answer": false,
+        "explanation": "Jezioro Włocławskie ma największą powierzchnię, ale największą pojemność (ok. 472 mln m³) posiada Jezioro Solińskie na Sanie."
+      },
+      {
+        "sentence": "Jeziora przybrzeżne, takie jak Łebsko i Gardno, charakteryzują się dużą głębokością i stromymi brzegami.",
+        "answer": false,
+        "explanation": "Jeziora przybrzeżne powstały przez odcięcie zatok morskich mierzejami, dlatego są duże, ale płytkie i mają płaskie, bagniste brzegi."
+      },
+      {
+        "sentence": "Największą jeziornością w Polsce (ok. 7%) odznacza się Pojezierze Mazurskie.",
+        "answer": true,
+        "explanation": "Mimo że najwięcej jezior liczbowo występuje na Pojezierzu Pomorskim, to najwyższy wskaźnik jeziorności (procent powierzchni zajętej przez wodę) ma Pojezierze Mazurskie."
+      },
+      {
+        "sentence": "Jeziora cyrkowe (karowe) w Tatrach, np. Czarny Staw pod Rysami, powstały w wyniku działalności bobrów.",
+        "answer": false,
+        "explanation": "Jeziora cyrkowe powstały w zagłębieniach (cyrkach/kotłach) wyżłobionych przez pola firnowe plejstocenskich lodowców górskich."
+      },
+      {
+        "sentence": "Jeziora deltowe, takie jak Druzno i Dąbie, są płytkie i szybko zarastają.",
+        "answer": true,
+        "explanation": "Jeziora te powstały w obrębie delt rzecznych (Wisły, Odry) w zagłębieniach między nanosami rzecznymi, co sprzyja ich spłycaniu i eutrofizacji."
+      },
+      {
+        "sentence": "Większość jezior w Polsce znajduje się w pasie nizin środkowopolskich.",
+        "answer": false,
+        "explanation": "Większość jezior występuje w pasie pojezierzy (rzeźba młodoglacjalna); na nizinach (rzeźba staroglacjalna) jeziora zanikły lub zamieniły się w torfowiska."
+      },
+      {
+        "sentence": "Jeziorka Duszatyńskie w Bieszczadach to przykład jezior osuwiskowych.",
+        "answer": true,
+        "explanation": "Powstały one w 1907 roku na skutek zatamowania potoku Olchowatego przez masy ziemne i skalne zsuwające się ze zbocza Chryszczatej."
+      },
+      {
+        "sentence": "Jeziora morenowe, takie jak Mamry, powstały w wyniku zatamowania odpływu wód przez wały moreny czołowej lub w zagłębieniach moreny dennej.",
+        "answer": true,
+        "explanation": "Geneza jezior morenowych wiąże się z akumulacyjną działalnością lądolodu, która tworzy bariery dla wód lub nierówności terenu wypełniane wodą."
+      },
+      {
+        "sentence": "Jeziora krasowe, powstające w wyniku rozpuszczania skał wapiennych, są typowe dla Pojezierza Pomorskiego.",
+        "answer": false,
+        "explanation": "Jeziora krasowe (np. Uściwierz, Perespa) występują na obszarach występowania skał węglanowych blisko powierzchni, głównie na Polesiu Lubelskim."
+      },
+      {
+        "sentence": "Oczka polodowcowe to duże i głębokie zbiorniki wodne połączone systemem rzecznym.",
+        "answer": false,
+        "explanation": "Oczka polodowcowe to małe, płytkie, owalne i często bezodpływowe zagłębienia powstałe po wytopieniu się brył martwego lodu."
+      }
+    ]
+  }
+}

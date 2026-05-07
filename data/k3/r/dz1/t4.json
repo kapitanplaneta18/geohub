@@ -1,0 +1,382 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz1-t4",
+                     "title":  "Ukształtowanie powierzchni Polski. Zlodowacenia",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Rzeźba młodoglacjalna",
+                                              "definition":  "Typ rzeźby terenu występujący w północnej Polsce (pas pojezierzy), charakteryzujący się obecnością licznych jezior i wyraźnych form polodowcowych, ukształtowany podczas zlodowacenia północnopolskiego."
+                                          },
+                                          {
+                                              "term":  "Rzeźba staroglacjalna",
+                                              "definition":  "Typ rzeźby terenu w środkowej Polsce (pas nizin), gdzie formy polodowcowe uległy zniszczeniu (denudacji) i nie występują naturalne jeziora, ukształtowany podczas starszych zlodowaceń."
+                                          },
+                                          {
+                                              "term":  "Morena czołowa",
+                                              "definition":  "Forma akumulacji lodowcowej tworząca wały i wzgórza, powstała przed czołem lądolodu w trakcie jego dłuższego postoju."
+                                          },
+                                          {
+                                              "term":  "Morena denna",
+                                              "definition":  "Forma akumulacji lodowcowej stanowiąca płaską lub falistą powierzchnię, powstała z materiału osadzonego pod lądolodem."
+                                          },
+                                          {
+                                              "term":  "Sandr",
+                                              "definition":  "Rozległy, płaski stożek napływowy zbudowany ze żwirów i piasków, będący formą akumulacji fluwioglacjalnej (wód roztopowych) na przedpolu lądolodu."
+                                          },
+                                          {
+                                              "term":  "Pradolina",
+                                              "definition":  "Szeroka dolina o płaskim dnie, będąca formą erozji fluwioglacjalnej, którą spływały ogromne ilości wód z topniejącego lądolodu połączone z wodami rzek płynących z południa."
+                                          },
+                                          {
+                                              "term":  "Rynna podlodowcowa",
+                                              "definition":  "Długa, wąska i głęboka forma erozji fluwioglacjalnej, wyżłobiona przez wody płynące pod wysokim ciśnieniem pod lądolodem (współcześnie często wypełniona jeziorami)."
+                                          },
+                                          {
+                                              "term":  "Oz",
+                                              "definition":  "Długi, kręty wał zbudowany z piasków i żwirów, będący formą akumulacji fluwioglacjalnej, powstałą w szczelinach lub tunelach lodowcowych."
+                                          },
+                                          {
+                                              "term":  "Kem",
+                                              "definition":  "Pagórek o nieregularnym kształcie zbudowany z piasków i żwirów, forma akumulacji fluwioglacjalnej powstała w otwartych szczelinach martwego lodu."
+                                          },
+                                          {
+                                              "term":  "Drumlin",
+                                              "definition":  "Niewielkie wzgórze o owalnym kształcie i obłym profilu, zbudowane z gliny lodowcowej, będące formą akumulacji i detrakcji lodowcowej."
+                                          },
+                                          {
+                                              "term":  "Głaz narzutowy (eratyk)",
+                                              "definition":  "Fragment skały litej przetransportowany przez lądolód z Półwyspu Skandynawskiego i osadzony na terenie Polski."
+                                          },
+                                          {
+                                              "term":  "Kocioł lodowcowy (cyrk)",
+                                              "definition":  "Półkoliste zagłębienie w górach (np. Tatry, Karkonosze) otoczone z trzech stron stromymi ścianami, powstałe w wyniku erozyjnej działalności lodowca górskiego w polu firnowym."
+                                          },
+                                          {
+                                              "term":  "Dolina U-kształtna",
+                                              "definition":  "Dolina rzeczna przekształcona przez jęzor lodowca górskiego w wyniku erozji żłobów lodowcowych (np. w Tatrach)."
+                                          },
+                                          {
+                                              "term":  "Gołoborze",
+                                              "definition":  "Rumowisko skalne na stokach gór (np. Łysogóry), powstałe w klimacie peryglacjalnym w wyniku wietrzenia mrozowego."
+                                          },
+                                          {
+                                              "term":  "Pas pojezierzy",
+                                              "definition":  "Pas rzeźby terenu w północnej Polsce charakteryzujący się występowaniem rzeźby młodoglacjalnej, w tym licznych jezior rynnowych i morenowych."
+                                          },
+                                          {
+                                              "term":  "Pas nizin (Środkowopolskich)",
+                                              "definition":  "Pas rzeźby terenu obejmujący płaskie, staroglacjalne obszary środkowej Polski, gdzie dominują równiny denudacyjne i szerokie doliny rzeczne."
+                                          },
+                                          {
+                                              "term":  "Nachylenie powierzchni Polski",
+                                              "definition":  "Ogólne nachylenie terenu Polski z południowego wschodu na północny zachód, determinujące kierunek spływu większości rzek."
+                                          },
+                                          {
+                                              "term":  "Zlodowacenie północnopolskie (Wisły)",
+                                              "definition":  "Najmłodsze zlodowacenie, które objęło tylko północną część Polski i pozostawiło po sobie rzeźbę młodoglacjalną."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Pradolina",
+                                                 "pair2":  "Forma erozji wód fluwioglacjalnych"
+                                             },
+                                             {
+                                                 "pair1":  "Sandr",
+                                                 "pair2":  "Forma akumulacji wód fluwioglacjalnych"
+                                             },
+                                             {
+                                                 "pair1":  "Morena czołowa",
+                                                 "pair2":  "Forma akumulacji działalności lądolodu"
+                                             },
+                                             {
+                                                 "pair1":  "Zlodowacenie południowopolskie",
+                                                 "pair2":  "Największy zasięg (do Karpat i Sudetów)"
+                                             },
+                                             {
+                                                 "pair1":  "Zlodowacenie północnopolskie",
+                                                 "pair2":  "Rzeźba młodoglacjalna (Pojezierza)"
+                                             },
+                                             {
+                                                 "pair1":  "Rzeźba staroglacjalna",
+                                                 "pair2":  "Niziny Środkowopolskie (zdenudowane formy)"
+                                             },
+                                             {
+                                                 "pair1":  "Gołoborza",
+                                                 "pair2":  "Wietrzenie mrozowe (klimat peryglacjalny)"
+                                             },
+                                             {
+                                                 "pair1":  "Kotły i doliny U-kształtne",
+                                                 "pair2":  "Lodowce górskie (Tatry, Karkonosze)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaki jest ogólny kierunek nachylenia powierzchni Polski, który determinuje spływ większości rzek?",
+                                      "options":  [
+                                                      "Z południowego zachodu na północny wschód",
+                                                      "Z południowego wschodu na północny zachód",
+                                                      "Z północy na południe",
+                                                      "Z zachodu na wschód"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Powierzchnia Polski jest nachylona z południowego wschodu na północny zachód, co decyduje o kierunku płynięcia Wisły i Odry oraz asymetrii ich dorzeczy."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się asymetria dorzeczy Wisły i Odry?",
+                                      "options":  [
+                                                      "Lewa część dorzecza jest znacznie większa od prawej",
+                                                      "Prawa część dorzecza jest dwukrotnie większa od lewej",
+                                                      "Obie części dorzecza mają niemal identyczną powierzchnię",
+                                                      "Asymetria dotyczy tylko dorzecza Odry, Wisła jest symetryczna"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prawobrzeżne części dorzeczy Wisły i Odry są znacznie większe niż lewobrzeżne, co wynika z ogólnego nachylenia terenu Polski w kierunku północno-zachodnim."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstały pradoliny, takie jak Pradolina Toruńsko-Eberswaldzka?",
+                                      "options":  [
+                                                      "W wyniku erozji wód roztopowych na przedpolu lądolodu",
+                                                      "Na skutek pęknięć tektonicznych w skorupie ziemskiej",
+                                                      "Przez działalność akumulacyjną wiatru w klimacie peryglacjalnym",
+                                                      "W wyniku drążenia podłoża przez wody pod ciśnieniem pod lądolodem"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Pradoliny to szerokie doliny o płaskim dnie, wyżłobione przez ogromne ilości wód z topniejącego lądolodu, które łączyły się z wodami rzek płynących z południa i odpływały na zachód wzdłuż czoła lodu."
+                                  },
+                                  {
+                                      "question":  "Które zjawisko jest charakterystyczne dla rzeźby staroglacjalnej występującej w pasie Nizin Środkowopolskich?",
+                                      "options":  [
+                                                      "Liczne, głębokie jeziora rynnowe",
+                                                      "Wyraźne, wysokie wzgórza moreny czołowej",
+                                                      "Denudacja form polodowcowych i brak jezior",
+                                                      "Występowanie czynnych lodowców górskich"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W rzeźbie staroglacjalnej formy polodowcowe uległy zniszczeniu (denudacji) przez procesy zewnętrzne, a misy jeziorne zostały wypełnione osadami, co doprowadziło do zaniku jezior."
+                                  },
+                                  {
+                                      "question":  "Z jaką działalnością lądolodu wiąże się powstanie sandrów?",
+                                      "options":  [
+                                                      "Z erozją podłoża przez lód",
+                                                      "Z akumulacją materiału skalnego przez czoło lądolodu",
+                                                      "Z akumulacją żwirów i piasków przez wody roztopowe",
+                                                      "Z wyciskaniem podłoża pod ciężarem lodu"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Sandry to rozległe stożki napływowe zbudowane z piasków i żwirów, osadzone przez wody wypływające z topniejącego lądolodu (akumulacja fluwioglacjalna)."
+                                  },
+                                  {
+                                      "question":  "Które zlodowacenie miało największy zasięg na terytorium Polski?",
+                                      "options":  [
+                                                      "Zlodowacenie północnopolskie (Wisły)",
+                                                      "Zlodowacenie środkowopolskie (Odry)",
+                                                      "Zlodowacenie południowopolskie (Sanu)",
+                                                      "Zlodowacenie bałtyckie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Zlodowacenia południowopolskie miały największy zasięg – lądolód dotarł wówczas aż do dolin karpackich oraz kotlin sudeckich."
+                                  },
+                                  {
+                                      "question":  "Jak powstały rynny podlodowcowe, obecnie często wypełnione jeziorami?",
+                                      "options":  [
+                                                      "Wskutek erozji wód płynących pod lądolodem pod ciśnieniem",
+                                                      "Przez wytopienie się brył martwego lodu",
+                                                      "W wyniku akumulacji materiału morenowego",
+                                                      "Przez działalność wiatru w klimacie peryglacjalnym"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Rynny to głębokie i wąskie zagłębienia wyżłobione przez wody roztopowe płynące pod lądolodem pod dużym ciśnieniem hydrostatycznym."
+                                  },
+                                  {
+                                      "question":  "Czym są gołoborza występujące w Górach Świętokrzyskich?",
+                                      "options":  [
+                                                      "Rumowiskami skalnymi powstałymi w wyniku wietrzenia mrozowego",
+                                                      "Pozostałościami po dawnych kopalniach odkrywkowych",
+                                                      "Formami akumulacji rzecznej w dolinach górskich",
+                                                      "Stożkami wulkanicznymi z okresu trzeciorzędu"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gołoborza to pokrywy głazów powstałe w plejstocenie w warunkach klimatu peryglacjalnego na skutek intensywnego wietrzenia mrozowego (zamróz) skał."
+                                  },
+                                  {
+                                      "question":  "Która forma terenu powstaje w wyniku akumulacji materiału skalnego u czoła lądolodu podczas jego postoju?",
+                                      "options":  [
+                                                      "Pradolina",
+                                                      "Morena czołowa",
+                                                      "Morena denna",
+                                                      "Rynna polodowcowa"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Morena czołowa to wał lub wzgórze usypane z materiału skalnego (gliny, głazów) przed czołem lądolodu w czasie jego dłuższego postoju."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia rzeźbę młodoglacjalną od staroglacjalnej?",
+                                      "options":  [
+                                                      "Brak jezior i wyrównany teren w rzeźbie młodoglacjalnej",
+                                                      "Obecność licznych jezior i wyraźnych form polodowcowych",
+                                                      "Występowanie lessów tylko w rzeźbie młodoglacjalnej",
+                                                      "Brak różnic, terminy te są synonimami"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rzeźba młodoglacjalna (północna Polska) charakteryzuje się świeżością form i obecnością jezior, ponieważ powstała podczas ostatniego zlodowacenia i nie uległa jeszcze denudacji."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstały pokrywy lessowe na wyżynach południowej Polski?",
+                                      "options":  [
+                                                      "Zostały naniesione przez wody z topniejącego lądolodu",
+                                                      "Powstały z pyłu wywianego i osadzonego przez wiatr",
+                                                      "Są efektem wietrzenia chemicznego skał wapiennych",
+                                                      "Zostały osadzone na dnie morza w okresie kredy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Lessy powstały w klimacie peryglacjalnym z pyłu wywiewanego przez silne wiatry z materiału morenowego i sandrowego, a następnie osadzanego na południu Polski."
+                                  },
+                                  {
+                                      "question":  "Jaką genezę mają cyrki (kotły) lodowcowe w Tatrach?",
+                                      "options":  [
+                                                      "Są to kratery wygasłych wulkanów",
+                                                      "Są to leje krasowe powstałe w wapieniach",
+                                                      "Są to zagłębienia wyżłobione przez pole firnowe lodowca",
+                                                      "Są to doliny rzeczne pogłębione przez powodzie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Kotły lodowcowe to półkoliste nisze w górach, powstałe w miejscu gromadzenia się śniegu i firnu, który przekształcał się w lód lodowcowy i żłobił podłoże."
+                                  },
+                                  {
+                                      "question":  "Czym są ozy?",
+                                      "options":  [
+                                                      "Szerokimi dolinami odpływu wód",
+                                                      "Długimi, krętymi wałami piaszczysto-żwirowymi",
+                                                      "Płaskimi równinami moreny dennej",
+                                                      "Zagłębieniami po wytopieniu brył martwego lodu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ozy to formy akumulacji fluwioglacjalnej, będące długimi wałami osadów naniesionych przez wody płynące w szczelinach lub tunelach we wnętrzu lądolodu."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na Nizinie Mazowieckiej nie ma naturalnych jezior polodowcowych?",
+                                      "options":  [
+                                                      "Ponieważ lądolód nigdy nie dotarł na ten teren",
+                                                      "Ponieważ jeziora zanikły wskutek denudacji i zarastania",
+                                                      "Ponieważ klimat jest tam zbyt suchy",
+                                                      "Ponieważ człowiek osuszył wszystkie jeziora w średniowieczu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nizina Mazowiecka leży w zasięgu zlodowaceń starszych (środkowopolskich), dlatego formy polodowcowe uległy zniszczeniu, a misy jeziorne zostały zasypane (rzeźba staroglacjalna)."
+                                  },
+                                  {
+                                      "question":  "Jaki układ rzeźby terenu jest charakterystyczny dla Polski?",
+                                      "options":  [
+                                                      "Układ koncentryczny wokół Warszawy",
+                                                      "Układ pasowy z naprzemianległymi obniżeniami i wzniesieniami",
+                                                      "Układ szachownicowy",
+                                                      "Monotonny spadek terenu od gór do morza bez wyraźnych stref"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Polska charakteryzuje się pasowym układem rzeźby (pobrzeża, pojezierza, niziny, wyżyny, kotliny, góry) biegnących równoleżnikowo."
+                                  },
+                                  {
+                                      "question":  "Czym są drumliny?",
+                                      "options":  [
+                                                      "Niewielkimi wzgórzami o obłym kształcie z gliny lodowcowej",
+                                                      "Głębokimi rynnami wypełnionymi wodą",
+                                                      "Wielkimi głazami narzutowymi",
+                                                      "Stożkami piasku usypanymi przez wiatr"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Drumliny to formy o kształcie bochenka chleba lub odwróconej łodzi, powstałe z materiału morenowego pod lądolodem w wyniku jego ruchu."
+                                  },
+                                  {
+                                      "question":  "W którym pasie rzeźby terenu występują Żuławy Wiślane?",
+                                      "options":  [
+                                                      "W pasie pojezierzy",
+                                                      "W pasie nizin",
+                                                      "W pasie pobrzeży",
+                                                      "W pasie kotlin"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Żuławy Wiślane, będące obszarem deltowym z depresjami, znajdują się w pasie pobrzeży, bezpośrednio przylegającym do Morza Bałtyckiego."
+                                  },
+                                  {
+                                      "question":  "Jaki proces doprowadził do powstania dolin U-kształtnych w Tatrach?",
+                                      "options":  [
+                                                      "Erozja rzeczna (wody płynące)",
+                                                      "Wietrzenie chemiczne skał wapiennych",
+                                                      "Przekształcenie dolin przez jęzory lodowców górskich",
+                                                      "Działalność wód termalnych"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Doliny U-kształtne (żłoby lodowcowe) powstały w plejstocenie, gdy jęzory lodowców górskich spływały dolinami rzecznymi, poszerzając je i pogłębiając."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Zlodowacenie północnopolskie miało największy zasięg terytorialny i objęło obszar aż po Karpaty i Sudety.",
+                                           "answer":  false,
+                                           "explanation":  "Zlodowacenie północnopolskie było najmłodsze i miało najmniejszy zasięg, obejmując tylko północną część kraju; do gór dotarło zlodowacenie południowopolskie."
+                                       },
+                                       {
+                                           "sentence":  "Pradoliny są formami erozyjnymi powstałymi wskutek przepływu ogromnych ilości wód z topniejącego lądolodu.",
+                                           "answer":  true,
+                                           "explanation":  "Pradoliny to szerokie doliny o płaskim dnie wyżłobione (erozja) przez wody roztopowe płynące na przedpolu lądolodu."
+                                       },
+                                       {
+                                           "sentence":  "Rzeźba staroglacjalna w pasie Nizin Środkowopolskich charakteryzuje się licznymi, głębokimi jeziorami rynnowymi.",
+                                           "answer":  false,
+                                           "explanation":  "Rzeźba staroglacjalna została poddana denudacji, w wyniku której formy terenu uległy złagodzeniu, a jeziora zanikły (wypełniły się osadami)."
+                                       },
+                                       {
+                                           "sentence":  "Sandry to formy akumulacji fluwioglacjalnej zbudowane ze żwirów i piasków osadzonych przez wody roztopowe.",
+                                           "answer":  true,
+                                           "explanation":  "Sandry to rozległe stożki napływowe powstające na przedpolu lądolodu w wyniku akumulacyjnej działalności wód wypływających z lodu."
+                                       },
+                                       {
+                                           "sentence":  "Gołoborza w Górach Świętokrzyskich powstały w wyniku erozji rzecznej w klimacie umiarkowanym.",
+                                           "answer":  false,
+                                           "explanation":  "Gołoborza to rumowiska skalne powstałe w klimacie peryglacjalnym (zimnym) w wyniku intensywnego wietrzenia mrozowego skał."
+                                       },
+                                       {
+                                           "sentence":  "Rynny podlodowcowe powstały w wyniku erozyjnej działalności wód płynących pod lądolodem pod wysokim ciśnieniem.",
+                                           "answer":  true,
+                                           "explanation":  "Wody roztopowe płynące pod lądolodem pod dużym ciśnieniem hydrostatycznym żłobiły głębokie i wąskie zagłębienia zwane rynnami."
+                                       },
+                                       {
+                                           "sentence":  "Pokrywy lessowe na wyżynach południowej Polski są osadami pochodzenia lodowcowego (morenowego).",
+                                           "answer":  false,
+                                           "explanation":  "Lessy są osadami eolicznymi (wiatrowymi), powstałymi z pyłu wywiewanego z przedpola lądolodu w klimacie peryglacjalnym."
+                                       },
+                                       {
+                                           "sentence":  "Powierzchnia Polski jest nachylona z południowego wschodu na północny zachód, co wpływa na kierunek spływu rzek.",
+                                           "answer":  true,
+                                           "explanation":  "To ogólne nachylenie terenu decyduje o tym, że większość rzek w Polsce płynie w kierunku północno-zachodnim."
+                                       },
+                                       {
+                                           "sentence":  "Morena czołowa jest formą erozyjną powstałą w wyniku zdzierania podłoża przez nasuwający się lądolód.",
+                                           "answer":  false,
+                                           "explanation":  "Morena czołowa jest formą akumulacyjną, powstałą z materiału skalnego osadzonego przed czołem lądolodu podczas jego postoju."
+                                       },
+                                       {
+                                           "sentence":  "Kotły lodowcowe (cyrki) w Tatrach powstały w wyniku działalności lądolodu skandynawskiego.",
+                                           "answer":  false,
+                                           "explanation":  "Kotły w Tatrach są efektem działalności lokalnych lodowców górskich, które tworzyły się w plejstocenie niezależnie od lądolodu."
+                                       },
+                                       {
+                                           "sentence":  "Pasowy układ rzeźby terenu w Polsce charakteryzuje się naprzemianległym występowaniem obniżeń i wzniesień.",
+                                           "answer":  true,
+                                           "explanation":  "W Polsce wyróżnia się 6 pasów rzeźby (pobrzeża, pojezierza, niziny, wyżyny, kotliny, góry) biegnących równoleżnikowo."
+                                       },
+                                       {
+                                           "sentence":  "Drumliny to wzgórza o owalnym kształcie powstałe z piasków usypanych przez wiatr na przedpolu lądolodu.",
+                                           "answer":  false,
+                                           "explanation":  "Drumliny to formy powstałe z gliny lodowcowej pod lądolodem w wyniku jego ruchu (działalność lodu, nie wiatru)."
+                                       }
+                                   ]
+                 }
+}

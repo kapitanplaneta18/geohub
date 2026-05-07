@@ -1,0 +1,337 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz1-t2",
+                     "title":  "Mapa i skala mapy",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Mapa",
+                                              "definition":  "Uogólniony, graficzny obraz powierzchni Ziemi, ciała niebieskiego lub ich fragmentu, wykonany na płaszczyźnie w określonym pomniejszeniu, przy użyciu odwzorowania kartograficznego i znaków umownych."
+                                          },
+                                          {
+                                              "term":  "Plan",
+                                              "definition":  "Obraz niewielkiego fragmentu terenu (np. miasta) sporządzony w dużej skali (do 1:25 000), który traktuje powierzchnię jako płaską i nie uwzględnia krzywizny Ziemi ani siatki kartograficznej."
+                                          },
+                                          {
+                                              "term":  "Skala mapy",
+                                              "definition":  "Element mapy informujący o tym, w jakim stopniu odległości na mapie zostały pomniejszone w stosunku do rzeczywistych odległości w terenie."
+                                          },
+                                          {
+                                              "term":  "Skala liczbowa",
+                                              "definition":  "Rodzaj skali zapisywany w postaci ułamka, gdzie w liczniku występuje 1, a w mianowniku liczba oznaczająca krotność pomniejszenia, np. 1:100 000."
+                                          },
+                                          {
+                                              "term":  "Skala mianowana",
+                                              "definition":  "Zapis skali wyrażający bezpośrednie przełożenie jednostki długości na mapie na odległość w terenie, np. 1 cm – 1 km."
+                                          },
+                                          {
+                                              "term":  "Podziałka liniowa",
+                                              "definition":  "Graficzne przedstawienie skali w formie odcinka podzielonego na równe części, umożliwiające szybki pomiar odległości bezpośrednio na mapie."
+                                          },
+                                          {
+                                              "term":  "Skala polowa",
+                                              "definition":  "Skala służąca do wyrażania stopnia zmniejszenia powierzchni na mapie, będąca kwadratem skali długości, np. 1 mm² – 1 000 000 mm²."
+                                          },
+                                          {
+                                              "term":  "Przeliczanie skali liczbowej na mianowaną",
+                                              "definition":  "Proces polegający na zamianie ułamka na jednostki odległości, np. dla skali 1:100 000 odcinamy 5 zer, otrzymując 1 cm – 1 km."
+                                          },
+                                          {
+                                              "term":  "Mapa wielkoskalowa",
+                                              "definition":  "Mapa wykonana w skali większej niż 1:200 000 (np. mapy topograficzne 1:10 000), przedstawiająca obszar bardzo szczegółowo."
+                                          },
+                                          {
+                                              "term":  "Mapa małoskalowa (przeglądowa)",
+                                              "definition":  "Mapa wykonana w skali mniejszej niż 1:1 000 000 (np. 1:80 000 000), służąca do ogólnej orientacji i prezentująca bardzo duże obszary przy małej szczegółowości."
+                                          },
+                                          {
+                                              "term":  "Mapa średnioskalowa",
+                                              "definition":  "Mapa wykonana w skali od 1:200 000 do 1:1 000 000, służąca np. do analizy układu mas powietrza lub stref klimatycznych."
+                                          },
+                                          {
+                                              "term":  "Odwzorowanie kartograficzne",
+                                              "definition":  "Matematyczny sposób przeniesienia zakrzywionej powierzchni kuli ziemskiej na płaszczyznę mapy, co wiąże się z występowaniem zniekształceń."
+                                          },
+                                          {
+                                              "term":  "Znaki umowne",
+                                              "definition":  "Symbole graficzne (sygnatury) stosowane na mapie do reprezentowania obiektów i zjawisk zlokalizowanych w terenie."
+                                          },
+                                          {
+                                              "term":  "Obliczanie odległości w terenie",
+                                              "definition":  "Pomnożenie odległości zmierzonej na mapie przez mianownik skali (lub wartość ze skali mianowanej), np. 5,8 cm na mapie 1:2 500 000 odpowiada 145 km w terenie."
+                                          },
+                                          {
+                                              "term":  "Obliczanie powierzchni w terenie",
+                                              "definition":  "Wykorzystanie skali polowej (kwadratu skali liczbowej) do przeliczenia powierzchni z mapy, np. przy skali 1:50 000, 1 cm² na mapie to 250 000 m² (25 ha) w terenie."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Skala liczbowa",
+                                                 "pair2":  "1:100 000"
+                                             },
+                                             {
+                                                 "pair1":  "Skala mianowana",
+                                                 "pair2":  "1 cm – 1 km"
+                                             },
+                                             {
+                                                 "pair1":  "Plan",
+                                                 "pair2":  "Obraz terenu traktowanego jako płaski (bez krzywizny Ziemi)"
+                                             },
+                                             {
+                                                 "pair1":  "Mapa wielkoskalowa",
+                                                 "pair2":  "Skala większa niż 1:200 000 (np. 1:10 000)"
+                                             },
+                                             {
+                                                 "pair1":  "Mapa małoskalowa",
+                                                 "pair2":  "Skala mniejsza niż 1:1 000 000 (np. 1:80 000 000)"
+                                             },
+                                             {
+                                                 "pair1":  "Odwzorowanie kartograficzne",
+                                                 "pair2":  "Matematyczny sposób przeniesienia kuli na płaszczyznę"
+                                             },
+                                             {
+                                                 "pair1":  "Skala polowa",
+                                                 "pair2":  "Kwadrat skali liniowej (np. 1 cm² – 100 ha)"
+                                             },
+                                             {
+                                                 "pair1":  "Podziałka liniowa",
+                                                 "pair2":  "Graficzny odcinek umożliwiający pomiar odległości na mapie"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym zasadniczo różni się mapa od planu według definicji geograficznej?",
+                                      "options":  [
+                                                      "Plan uwzględnia krzywiznę Ziemi przy odwzorowaniu.",
+                                                      "Mapa jest wykonywana tylko w bardzo dużych skalach.",
+                                                      "Mapa uwzględnia krzywiznę Ziemi i stosuje odwzorowanie.",
+                                                      "Plan przedstawia obszary o zróżnicowanej rzeźbie terenu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Mapa uwzględnia krzywiznę Ziemi (bryły) i wymaga użycia odwzorowania kartograficznego, podczas gdy plan traktuje mały fragment powierzchni jako płaski."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych zapisów przedstawia skalę liczbową?",
+                                      "options":  [
+                                                      "1:100 000",
+                                                      "1 cm - 1 km",
+                                                      "1 cm odpowiada 100 m",
+                                                      "[Rysunek odcinka z podziałką]"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Skala liczbowa jest zawsze zapisywana w postaci ułamka (stosunku), np. 1:100 000. Pozostałe to skala mianowana lub podziałka liniowa."
+                                  },
+                                  {
+                                      "question":  "Wskaż skalę, która zapewnia największą szczegółowość przedstawianego obrazu (jest największa).",
+                                      "options":  [
+                                                      "1:10 000",
+                                                      "1:50 000",
+                                                      "1:100 000",
+                                                      "1:1 000 000"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Skala jest ułamkiem. Im mniejszy mianownik (np. 10 000), tym większa wartość ułamka, czyli skala jest większa i bardziej szczegółowa."
+                                  },
+                                  {
+                                      "question":  "Jak poprawnie zapisać skalę liczbową 1:50 000 w postaci skali mianowanej?",
+                                      "options":  [
+                                                      "1 cm - 50 km",
+                                                      "1 cm - 5 km",
+                                                      "1 cm - 500 m",
+                                                      "1 cm - 50 m"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "1 cm na mapie to 50 000 cm w terenie. Aby zamienić cm na metry, skreślamy dwa zera: 50 000 cm = 500 m."
+                                  },
+                                  {
+                                      "question":  "Jeżeli 1 cm na mapie odpowiada 3 km w terenie, to jaka jest skala liczbowa tej mapy?",
+                                      "options":  [
+                                                      "1:3 000",
+                                                      "1:30 000",
+                                                      "1:300 000",
+                                                      "1:3 000 000"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "3 km to 3000 metrów i 300 000 cm. Skala liczbowa wyraża stosunek 1 cm do odpowiadającej mu liczby cm w terenie, czyli 1:300 000."
+                                  },
+                                  {
+                                      "question":  "Oblicz odległość rzeczywistą, jeśli odległość na mapie w skali 1:200 000 wynosi 4 cm.",
+                                      "options":  [
+                                                      "8 km",
+                                                      "80 km",
+                                                      "0,8 km",
+                                                      "50 km"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Skala 1:200 000 oznacza, że 1 cm - 2 km (skreślamy 5 zer). 4 cm * 2 km/cm = 8 km."
+                                  },
+                                  {
+                                      "question":  "Rzeczywista odległość wynosi 15 km. Ile wyniesie ona na mapie w skali 1:150 000?",
+                                      "options":  [
+                                                      "1 cm",
+                                                      "10 cm",
+                                                      "100 cm",
+                                                      "0,1 cm"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skala 1:150 000 oznacza 1 cm - 1,5 km. Dzielimy odległość rzeczywistą przez wartość skali: 15 km : 1,5 km/cm = 10 cm."
+                                  },
+                                  {
+                                      "question":  "Do czego służy podziałka liniowa umieszczana na mapach?",
+                                      "options":  [
+                                                      "Do szybkiego pomiaru odległości na mapie bez obliczeń.",
+                                                      "Do wyznaczania współrzędnych geograficznych punktów.",
+                                                      "Do odczytywania wysokości bezwzględnej n.p.m.",
+                                                      "Do określania kąta nachylenia stoku w stopniach."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Podziałka liniowa to graficzny obraz skali, który umożliwia bezpośrednie odczytywanie odległości w terenie poprzez przyłożenie np. paska papieru lub cyrkla."
+                                  },
+                                  {
+                                      "question":  "Co dzieje się z treścią mapy podczas procesu generalizacji (przejścia od skali dużej do małej)?",
+                                      "options":  [
+                                                      "Treść staje się bardziej szczegółowa i precyzyjna.",
+                                                      "Następuje uproszczenie treści i selekcja obiektów.",
+                                                      "Wszystkie obiekty są zachowane, lecz pomniejszone.",
+                                                      "Zmienia się tylko skala, a treść pozostaje ta sama."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Generalizacja polega na celowym uogólnieniu obrazu mapy: pominięciu mniej ważnych szczegółów i uproszczeniu kształtów, aby mapa pozostała czytelna po zmniejszeniu skali."
+                                  },
+                                  {
+                                      "question":  "Powierzchnia lasu na mapie w skali 1:20 000 wynosi 1 cm². Jaka jest jego powierzchnia w terenie?",
+                                      "options":  [
+                                                      "2 ha",
+                                                      "4 ha",
+                                                      "20 ha",
+                                                      "400 m²"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skala liniowa 1:20 000 to 1 cm - 200 m. Skala polowa to kwadrat skali liniowej: (1 cm)² = (200 m)². 1 cm² = 40 000 m². Ponieważ 1 ha = 10 000 m², to 40 000 m² = 4 ha."
+                                  },
+                                  {
+                                      "question":  "Uszereguj podane skale od najmniejszej (najmniej szczegółowej) do największej (najbardziej szczegółowej).",
+                                      "options":  [
+                                                      "1:1 000 000, 1:50 000, 1:1 000",
+                                                      "1:1 000, 1:50 000, 1:1 000 000",
+                                                      "1:50 000, 1:1 000 000, 1:1 000",
+                                                      "1:1 000 000, 1:1 000, 1:50 000"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Im większy mianownik, tym mniejsza skala. Najmniejsza to 1:1 000 000 (mapa przeglądowa), średnia 1:50 000, największa 1:1 000 (plan)."
+                                  },
+                                  {
+                                      "question":  "Odległość na mapie wynosi 5 cm, a w rzeczywistości odpowiada to 20 km. W jakiej skali wykonano mapę?",
+                                      "options":  [
+                                                      "1:40 000",
+                                                      "1:250 000",
+                                                      "1:400 000",
+                                                      "1:4 000 000"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "5 cm - 20 km. Dzielimy przez 5, aby uzyskać wartość dla 1 cm: 1 cm - 4 km. Zamieniamy km na cm (dodajemy 5 zer): 4 km = 400 000 cm. Skala to 1:400 000."
+                                  },
+                                  {
+                                      "question":  "Która skala mianowana odpowiada skali liczbowej 1:2 000?",
+                                      "options":  [
+                                                      "1 cm - 20 m",
+                                                      "1 cm - 200 m",
+                                                      "1 cm - 2 km",
+                                                      "1 cm - 0,2 m"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "1:2 000 oznacza 1 cm - 2 000 cm. Aby zamienić na metry, odcinamy dwa zera: 2 000 cm = 20 m."
+                                  },
+                                  {
+                                      "question":  "Jeżeli powierzchnia jeziora w terenie wynosi 1 km², to ile zajmie ona na mapie w skali 1:50 000?",
+                                      "options":  [
+                                                      "2 cm²",
+                                                      "4 cm²",
+                                                      "20 cm²",
+                                                      "0,4 cm²"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skala liniowa 1:50 000 to 1 cm - 0,5 km. Skala polowa: (1 cm)² = (0,5 km)² = 0,25 km². Aby uzyskać 1 km², musimy pomnożyć 0,25 km² przez 4. Zatem na mapie będzie to 4 cm²."
+                                  },
+                                  {
+                                      "question":  "Dlaczego plany miast zazwyczaj nie wymagają stosowania skomplikowanych odwzorowań kartograficznych?",
+                                      "options":  [
+                                                      "Obejmują obszary na tyle małe, że krzywizna Ziemi jest pomijalna.",
+                                                      "Są tworzone wyłącznie na podstawie zdjęć satelitarnych.",
+                                                      "Przedstawiają teren w sposób trójwymiarowy, uwzględniając szczegółowe modele 3D.",
+                                                      "Są zawsze wykonywane w skali 1:1, co eliminuje błędy."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Plany dotyczą niewielkich fragmentów powierzchni Ziemi, które można traktować jako płaskie bez wprowadzania istotnych błędów wynikających z krzywizny planety."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Mapa wykonana w skali 1:100 000 jest mapą w skali większej niż mapa wykonana w skali 1:10 000.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie. Skala to ułamek (1/100 000 vs 1/10 000). Im mniejszy mianownik, tym większa wartość ułamka i większa skala."
+                                       },
+                                       {
+                                           "sentence":  "Im większa liczba znajduje się w mianowniku skali liczbowej, tym mniej szczegółowy jest obraz terenu na mapie.",
+                                           "answer":  true,
+                                           "explanation":  "Duży mianownik (np. 1 000 000) oznacza duże pomniejszenie, czyli małą skalę i małą szczegółowość (mapa przeglądowa)."
+                                       },
+                                       {
+                                           "sentence":  "Plan to obraz niewielkiego obszaru, który uwzględnia krzywiznę Ziemi i stosuje skomplikowane odwzorowania kartograficzne.",
+                                           "answer":  false,
+                                           "explanation":  "Plan traktuje powierzchnię Ziemi jako płaską i nie uwzględnia jej krzywizny, w przeciwieństwie do mapy."
+                                       },
+                                       {
+                                           "sentence":  "Mapa jest uogólnionym obrazem powierzchni Ziemi, co oznacza, że nie zawiera wszystkich obiektów widocznych w rzeczywistości, lecz wykorzystuje znaki umowne.",
+                                           "answer":  true,
+                                           "explanation":  "Zgodnie z definicją, mapa to obraz uogólniony (zgeneralizowany) wykorzystujący znaki umowne (sygnatury)."
+                                       },
+                                       {
+                                           "sentence":  "Skala liczbowa 1:200 000 odpowiada skali mianowanej „1 cm – 20 km”.",
+                                           "answer":  false,
+                                           "explanation":  "1 cm na mapie to 200 000 cm w terenie. Po zamianie jednostek: 200 000 cm = 2 000 m = 2 km, a nie 20 km."
+                                       },
+                                       {
+                                           "sentence":  "Jeśli odległość na mapie została pomniejszona 100 razy, to powierzchnia obiektu na tej samej mapie została pomniejszona 10 000 razy.",
+                                           "answer":  true,
+                                           "explanation":  "Pomniejszenie powierzchni jest kwadratem pomniejszenia liniowego (100² = 10 000)."
+                                       },
+                                       {
+                                           "sentence":  "Generalizacja mapy polega na dodawaniu nowych szczegółów w celu uatrakcyjnienia treści przy zmniejszaniu skali.",
+                                           "answer":  false,
+                                           "explanation":  "Generalizacja to proces selekcji i upraszczania treści, polegający na rezygnacji z mniej istotnych szczegółów."
+                                       },
+                                       {
+                                           "sentence":  "Podziałka liniowa to graficzna forma skali, która umożliwia szybki pomiar odległości na mapie bez konieczności wykonywania skomplikowanych obliczeń.",
+                                           "answer":  true,
+                                           "explanation":  "Podziałka liniowa pozwala na bezpośrednie odczytywanie odległości w terenie poprzez pomiar odcinka na mapie."
+                                       },
+                                       {
+                                           "sentence":  "Mapy topograficzne zaliczamy do map wielkoskalowych, ponieważ ich skala jest większa niż 1:200 000.",
+                                           "answer":  true,
+                                           "explanation":  "Mapy wielkoskalowe to te o skali powyżej 1:200 000 (np. 1:10 000, 1:50 000), a mapy topograficzne często są wykonywane w takich skalach."
+                                       },
+                                       {
+                                           "sentence":  "Zapis 1:50 000 jest przykładem skali mianowanej.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to przykład skali liczbowej (zapis w formie ułamka/stosunku). Skala mianowana to np. „1 cm – 500 m”."
+                                       },
+                                       {
+                                           "sentence":  "Plany miast są zazwyczaj sporządzane w dużych skalach, np. do 1:25 000.",
+                                           "answer":  true,
+                                           "explanation":  "Plany obejmują niewielkie obszary i są wykonywane w dużych skalach (do 1:25 000), co pozwala na przedstawienie dużej ilości szczegółów."
+                                       },
+                                       {
+                                           "sentence":  "Ortotomapa powstaje w wyniku nadania zdjęciom lotniczym lub satelitarnym jednolitej skali i wpisania ich w układ współrzędnych.",
+                                           "answer":  true,
+                                           "explanation":  "Definicja ortofotomapy w podsumowaniu potwierdza, że jest to przetworzone zdjęcie o cechach metrycznych mapy."
+                                       }
+                                   ]
+                 }
+}

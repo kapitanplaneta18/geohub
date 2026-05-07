@@ -1,0 +1,346 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz6-t3",
+                     "unit":  "VI",
+                     "title":  "Procesy krasowe",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Krasowienie",
+                                              "definition":  "Proces chemicznego rozpuszczania skał przez wodę zawierającą dwutlenek węgla. "
+                                          },
+                                          {
+                                              "term":  "Skały ulegające krasowieniu",
+                                              "definition":  "Skały węglanowe (wapienie, dolomity, marmury, margle) oraz siarczanowe (gips) i chlorkowe (sól kamienna)."
+                                          },
+                                          {
+                                              "term":  "Rola dwutlenku węgla (CO₂)",
+                                              "definition":  "Dwutlenek węgla rozpuszczony w wodzie tworzy kwas węglowy, który reaguje z węglanem wapnia, przekształcając go w łatwo rozpuszczalny wodorowęglan wapnia."
+                                          },
+                                          {
+                                              "term":  "Żłobki i żebra krasowe",
+                                              "definition":  "Podłużne bruzdy (żłobki) wyżłobione przez spływającą wodę opadową oraz rozdzielające je grzbiety skalne (żebra). "
+                                          },
+                                          {
+                                              "term":  "Lejki krasowe",
+                                              "definition":  "Okrągłe zagłębienia terenu powstałe w wyniku intensywnego rozpuszczania skał na powierzchni lub zapadania się podziemnych pustek."
+                                          },
+                                          {
+                                              "term":  "Uwały",
+                                              "definition":  "Rozległe obniżenia terenu powstałe z połączenia kilku lejów krasowych."
+                                          },
+                                          {
+                                              "term":  "Polja",
+                                              "definition":  "Płaskodenne kotliny krasowe o dużej powierzchni, otoczone stromymi wapiennymi zboczami."
+                                          },
+                                          {
+                                              "term":  "Ostańce krasowe (mogoty)",
+                                              "definition":  "Wzniesienia i skałki o stromych stokach wznoszące się ponad powierzchnię zrównaną przez procesy krasowe."
+                                          },
+                                          {
+                                              "term":  "Ponor",
+                                              "definition":  "Zagłębienie, którym wody powierzchniowe wpływają pod powierzchnię ziemi."
+                                          },
+                                          {
+                                              "term":  "Wywierzysko",
+                                              "definition":  "Źródło krasowe o dużej wydajności, którym podziemny ciek wodny wypływa na powierzchnię."
+                                          },
+                                          {
+                                              "term":  "Stalaktyty",
+                                              "definition":  "Nacieki jaskiniowe w kształcie sopli zwisające ze stropu jaskini. "
+                                          },
+                                          {
+                                              "term":  "Stalagmity",
+                                              "definition":  "Nacieki jaskiniowe narastające na dnie jaskini ku górze."
+                                          },
+                                          {
+                                              "term":  "Stalagnaty (kolumny)",
+                                              "definition":  "Formy powstałe z połączenia stalaktytu i stalagmitu, tworzące kolumny łączące dno ze stropem."
+                                          },
+                                          {
+                                              "term":  "Draperie",
+                                              "definition":  "Nacieki jaskiniowe mające kształt zasłon zwisających ze skał."
+                                          },
+                                          {
+                                              "term":  "Perły jaskiniowe (pizolity)",
+                                              "definition":  "Kuliste formy naciekowe powstające w misach martwicowych na skutek odkładania się węglanu wapnia wokół ziarna."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Krasowienie",
+                                                 "pair2":  "Proces chemiczny polegający na rozpuszczaniu skał przez wodę z dwutlenkiem węgla"
+                                             },
+                                             {
+                                                 "pair1":  "Ponor",
+                                                 "pair2":  "Miejsce wpływu wód powierzchniowych pod ziemię"
+                                             },
+                                             {
+                                                 "pair1":  "Wywierzysko",
+                                                 "pair2":  "Wydajne źródło, którym wody krasowe wypływają na powierzchnię"
+                                             },
+                                             {
+                                                 "pair1":  "Stalaktyt",
+                                                 "pair2":  "Naciek zwisający ze stropu jaskini"
+                                             },
+                                             {
+                                                 "pair1":  "Stalagmit",
+                                                 "pair2":  "Naciek narastający na dnie jaskini"
+                                             },
+                                             {
+                                                 "pair1":  "Stalagnat",
+                                                 "pair2":  "Kolumna powstała z połączenia stalaktytu i stalagmitu"
+                                             },
+                                             {
+                                                 "pair1":  "Polja",
+                                                 "pair2":  "Rozległe kotliny krasowe o płaskich dnach"
+                                             },
+                                             {
+                                                 "pair1":  "Lejki krasowe",
+                                                 "pair2":  "Okrągłe zagłębienia terenu powstałe przez rozpuszczanie lub zapadanie się skał"
+                                             },
+                                             {
+                                                 "pair1":  "Ostańce krasowe",
+                                                 "pair2":  "Wzniesienia ostańcowe wznoszące się ponad zrównaną powierzchnię krasową"
+                                             },
+                                             {
+                                                 "pair1":  "Perły jaskiniowe",
+                                                 "pair2":  "Luźne kuliste nacieki powstające w wypełnionych wodą zagłębieniach dna jaskini"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Która z wymienionych grup skał jest podatna na procesy krasowienia?",
+                                      "options":  [
+                                                      "Skały magmowe głębinowe takie jak granity, bazalty czy gnejsy krystaliczne",
+                                                      "Wapienie, dolomity, gipsy, sól kamienna",
+                                                      "Twarde piaskowce kwarcytowe oraz silnie przeobrażone łupki krystaliczne",
+                                                      "Skały magmowe wylewne, w tym gabro, andezyty oraz porfiry kwarcowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Krasowieniu ulegają przede wszystkim skały węglanowe (wapienie, dolomity, marmury, margle) oraz siarczanowe (gips) i chlorkowe (sól kamienna)."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się forma naciekowa narastająca od dna jaskini ku górze?",
+                                      "options":  [
+                                                      "Stalaktyt",
+                                                      "Stalagmit",
+                                                      "Stalagnat",
+                                                      "Draperia"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Stalagmit to forma nacieku jaskiniowego formująca się na dnie jaskini i narastająca ku górze."
+                                  },
+                                  {
+                                      "question":  "Podstawowym warunkiem zachodzenia procesu krasowienia chemicznego w skałach węglanowych jest obecność w wodzie:",
+                                      "options":  [
+                                                      "Wysokiego stężenia wolnego tlenu atmosferycznego i ozonu",
+                                                      "Rozpuszczonego dwutlenku węgla",
+                                                      "Złożonych związków azotu oraz materii organicznej pochodzenia glebowego",
+                                                      "Zawiesiny ilastej i mineralnej hamującej procesy rozpuszczania"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skały węglanowe ulegają rozpuszczeniu przez wodę zawierającą dwutlenek węgla, co prowadzi do powstania słabego kwasu węglowego."
+                                  },
+                                  {
+                                      "question":  "Okrągłe zagłębienie terenu powstałe w wyniku intensywnego rozpuszczania skał na powierzchni lub zapadania się pustek podziemnych to:",
+                                      "options":  [
+                                                      "Lej krasowy",
+                                                      "Polje",
+                                                      "Mogot",
+                                                      "Ponor"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Leje krasowe to okrągłe zagłębienia terenu powstałe w wyniku rozpuszczania skał na powierzchni lub zapadania się podziemnych pustek."
+                                  },
+                                  {
+                                      "question":  "Wskaż poprawną kolejność form krasu powierzchniowego, uszeregowanych od najmniejszej do największej (pod względem złożoności procesu powstawania):",
+                                      "options":  [
+                                                      "Rozległe polje -\u003e zorientowany uwał -\u003e pojedynczy lej krasowy",
+                                                      "Lej krasowy -\u003e Uwał -\u003e Polje",
+                                                      "Uwał -\u003e izolowany lej krasowy -\u003e wielkopowierzchniowe polje",
+                                                      "Lej krasowy -\u003e płaskodenne polje -\u003e uwał krasowy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Leje krasowe są formami podstawowymi, z połączenia kilku lejów powstają uwały, a największymi formami są polja zajmujące niekiedy powierzchnię kilkuset kilometrów kwadratowych."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób temperatura wody wpływa na intensywność procesu krasowienia?",
+                                      "options":  [
+                                                      "Im wyższa temperatura wody, tym intensywniejsze krasowienie, ponieważ ciepła woda szybciej wchodzi in reakcję z węglanem wapnia.",
+                                                      "Temperatura wód opadowych i podziemnych nie wykazuje mierzalnego wpływu na dynamikę krasowienia.",
+                                                      "Im niższa temperatura wody, tym intensywniejsze krasowienie, ponieważ zimna woda może rozpuścić więcej dwutlenku węgla.",
+                                                      "Najintensywniejsze krasowienie chemiczne zachodzi wyłącznie w temperaturze bliskiej fizycznemu wrzeniu wody."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Im niższa temperatura wody, tym więcej dwutlenku węgla może się w niej rozpuścić, co intensyfikuje proces krasowienia."
+                                  },
+                                  {
+                                      "question":  "Jaka jest rola pokrywy roślinnej i glebowej w procesach krasowych?",
+                                      "options":  [
+                                                      "Skutecznie hamuje procesy krasowe, izolując podłoże skalne od dopływu agresywnej wody opadowej.",
+                                                      "Zwiększa intensywność krasowienia poprzez dostarczanie dodatkowego dwutlenku węgla do wód wsiąkających.",
+                                                      "Jest całkowicie obojętna dla procesów chemicznych i wpływa jedynie na intensywność mechanicznej erozji wodnej.",
+                                                      "Drastycznie zmniejsza ilość kwasu węglowego w wodzie poprzez proces intensywnej fotosyntezy zachodzący w systemie korzeniowym."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pokrywa roślinna i glebowa dostarcza dodatkowego dwutlenku węgla do wód opadowych wsiąkających w głąb ziemi, co zwiększa ich agresywność chemiczną."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzują się uwały?",
+                                      "options":  [
+                                                      "Są to pojedyncze, mikroskopijne zagłębienia korozyjne o średnicy zaledwie kilku centymetrów.",
+                                                      "Są to formy powstałe z połączenia kilku lejów krasowych.",
+                                                      "Są to rozległe podziemne korytarze i sale jaskiniowe trwale wypełnione wodą krasową.",
+                                                      "Są to wzniesienia ostańcowe o bardzo stromych stokach, odporne na procesy rozpuszczania skał."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Uwały to formy krasu powierzchniowego powstałe z połączenia kilku lejów krasowych."
+                                  },
+                                  {
+                                      "question":  "W wyniku reakcji chemicznej węglanu wapnia (CaCO3) z wodą nasyconą dwutlenkiem węgla powstaje:",
+                                      "options":  [
+                                                      "Całkowicie nierozpuszczalny i trwały tlenek wapnia osadzający się na dnie zbiorników",
+                                                      "Łatwo rozpuszczalny wodorowęglan wapnia",
+                                                      "Silnie żrący kwas siarkowy niszczący struktury skał krystalicznych",
+                                                      "Czysty węgiel pierwiastkowy oraz metaliczny wapń in formie osadu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Węglan wapnia reaguje z kwasem węglowym, w rezultacie czego powstaje wodorowęglan wapnia Ca(HCO3)2, który łatwo rozpuszcza się w wodzie."
+                                  },
+                                  {
+                                      "question":  "Jakie znaczenie dla intensywności krasowienia ma ukształtowanie powierzchni?",
+                                      "options":  [
+                                                      "Na bardzo stromych stokach górskich krasowienie zachodzi najszybciej, ponieważ woda spływa pod dużym ciśnieniem.",
+                                                      "Im bardziej płaski obszar, tym więcej wody wsiąka w podłoże, co sprzyja krasowieniu.",
+                                                      "Pionowe ukształtowanie terenu nie wykazuje wpływu na proces krasowienia, gdyż decydujący jest wyłącznie skład chemiczny podłoża.",
+                                                      "Krasowienie powierzchniowe zachodzi wyłącznie w głębokich i wąskich dolinach rzek o charakterze przełomowym."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Im bardziej płaski jest obszar, tym więcej wody opadowej wsiąka w jego podłoże, co zwiększa intensywność procesów krasowych."
+                                  },
+                                  {
+                                      "question":  "Stalagnat to forma jaskiniowa, która powstaje w wyniku:",
+                                      "options":  [
+                                                      "Wyłącznie niszczącej erozji mechanicznej wywołanej przez podziemne cieki wodne płynące pod dużym ciśnieniem.",
+                                                      "Połączenia się stalaktytu wiszącego u stropu ze stalagmitem narastającym od dna.",
+                                                      "Powolnego osadzania się drobnoziarnistego namuliska mineralnego na dnie komory jaskiniowej.",
+                                                      "Gwałtownego zapadnięcia się osłabionego stropu jaskini krasowej pod wpływem sił grawitacji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Stalagnaty powstają z połączenia stalaktytu i stalagmitu, tworząc kolumnę naciekową."
+                                  },
+                                  {
+                                      "question":  "Czym jest ponor?",
+                                      "options":  [
+                                                      "Miejscem, w którym głęboki podziemny ciek krasowy gwałtownie wypływa na powierzchnię ziemi.",
+                                                      "Zagłębieniem, którym wody powierzchniowe przedostają się pod powierzchnię ziemi.",
+                                                      "Specyficznym rodzajem jaskini lodowej występującym wyłącznie in wysokich partiach gór skalistych.",
+                                                      "Skamieniałym naciekiem jaskiniowym mającym postać zasłony lub pionowej draperii skalnej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ponor to zagłębienie, którym wody przedostają się pod powierzchnię ziemi."
+                                  },
+                                  {
+                                      "question":  "Które stwierdzenie najlepiej wyjaśnia mechanizm chemiczny „agresywności” wody krasowej w strefie chłodnej w porównaniu do strefy gorącej (przy założeniu braku roślinności)?",
+                                      "options":  [
+                                                      "Woda in strefie chłodnej ma znacznie mniejszą lepkość fizyczną, przez co szybciej penetruje szczeliny skalne.",
+                                                      "Woda in strefie chłodnej ulega częstemu zamarzaniu, co inicjuje wietrzenie fizyczne zamiast chemicznego rozpuszczania.",
+                                                      "Woda w strefie chłodnej może rozpuścić więcej CO2, co zwiększa stężenie kwasu węglowego i intensyfikuje rozpuszczanie skał.",
+                                                      "Woda in strefie gorącej paruje zbyt gwałtownie, pozostawiając osady mineralne, które trwale blokują procesy krasowienia."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Im niższa temperatura wody, tym więcej dwutlenku węgla może się w tej wodzie rozpuścić, co jest kluczowym czynnikiem wpływającym na intensywność krasowienia."
+                                  },
+                                  {
+                                      "question":  "Analizując budowę geologiczną i rzeźbę terenu, wywierzysko zdefiniujemy jako:",
+                                      "options":  [
+                                                      "Miejsce, gdzie agresywna woda opadowa gwałtownie wpływa w liczne szczeliny skalne na szczycie wzniesienia krasowego.",
+                                                      "Źródło o dużej wydajności, którym podziemny ciek krasowy wypływa na powierzchnię.",
+                                                      "Dowolne źródło mineralne o podwyższonej temperaturze występujące wyłącznie na obszarach aktywnych tektonicznie.",
+                                                      "Miejsce trwałej stagnacji wody in szczelnym i głębokim leju krasowym uniemożliwiające dalszą infiltrację."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wywierzysko to źródło o dużej wydajności, którym podziemny ciek krasowy wypływa na powierzchnię."
+                                  },
+                                  {
+                                      "question":  "Jaka kombinacja czynników zapewni największą intensywność procesów krasowych na danym obszarze?",
+                                      "options":  [
+                                                      "Bardzo niskie opady, skrajnie wysoka temperatura, całkowity brak roślinności oraz strome stoki górskie.",
+                                                      "Duże opady, niska temperatura wody, obecność pokrywy roślinnej, płaski teren.",
+                                                      "Bardzo wysoka temperatura wody, brak warstwy glebowej oraz lite skały o budowie granitowej.",
+                                                      "Całkowity brak opadów, ujemna temperatura powietrza przez cały rok oraz lite skały bazaltowe."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Intensywność krasowienia rośnie wraz z sumą opadów, zawartością CO2 (zależną od niskiej temperatury i roślinności) oraz na płaskim terenie ułatwiającym wsiąkanie w skały podatne."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Procesom krasowym podlegają wyłącznie skały węglanowe, takie jak wapienie, dolomity i marmury.",
+                                           "answer":  false,
+                                           "explanation":  "Procesy krasowe zachodzą także w skałach siarczanowych (np. gips) oraz chlorkowe (np. sól kamienna)."
+                                       },
+                                       {
+                                           "sentence":  "Woda chemicznie czysta rozpuszcza skały wapienne szybciej niż woda zawierająca rozpuszczony dwutlenek węgla.",
+                                           "answer":  false,
+                                           "explanation":  "Do rozpuszczania skał węglanowych niezbędna jest woda zawierająca dwutlenek węgla, który tworzy kwas węglowy."
+                                       },
+                                       {
+                                           "sentence":  "Intensywny rozwój roślinności hamuje procesy krasowe, ponieważ korzenie utrudniają wodzie dostęp do skał.",
+                                           "answer":  false,
+                                           "explanation":  "Pokrywa roślinna dostarcza dodatkowego dwutlenku węgla do wód opadowych wsiąkających w głąb ziemi, co przyspiesza krasowienie."
+                                       },
+                                       {
+                                           "sentence":  "Stalagmity to formy naciekowe, które narastają od stropu jaskini w dół.",
+                                           "answer":  false,
+                                           "explanation":  "Stalagmity to formy formujące się na dnie jaskini i rosnące ku górze, natomiast ze stropu zwisają stalaktyty."
+                                       },
+                                       {
+                                           "sentence":  "Polja to najmniejsze powierzchniowe formy krasowe, przyjmujące postać drobnych żłobków.",
+                                           "answer":  false,
+                                           "explanation":  "Polja to jedne z największych form, będące kotlinami o powierzchni niekiedy kilkuset kilometrów kwadratowych."
+                                       },
+                                       {
+                                           "sentence":  "Niska temperatura wody sprzyja intensywniejszemu krasowieniu, ponieważ zwiększa rozpuszczalność dwutlenku węgla.",
+                                           "answer":  true,
+                                           "explanation":  "Im niższa temperatura wody, tym więcej dwutlenku węgla może się w niej rozpuścić, co intensyfikuje proces rozpuszczania skał."
+                                       },
+                                       {
+                                           "sentence":  "Produktem reakcji kwasu węglowego z węglanem wapnia jest wodorowęglan wapnia, który łatwo rozpuszcza się w wodzie.",
+                                           "answer":  true,
+                                           "explanation":  "Węglan wapnia reaguje z kwasem węglowym, tworząc wodorowęglan wapnia, który jest związkiem łatwo rozpuszczalnym."
+                                       },
+                                       {
+                                           "sentence":  "Leje krasowe mogą powstawać w wyniku zapadania się podziemnych pustek krasowych.",
+                                           "answer":  true,
+                                           "explanation":  "Leje krasowe to zagłębienia powstałe wskutek intensywnego rozpuszczania skał na powierzchni lub zapadania się podziemnych pustek."
+                                       },
+                                       {
+                                           "sentence":  "Ponor to miejsce, w którym ciek wodny znika pod powierzchnią ziemi.",
+                                           "answer":  true,
+                                           "explanation":  "Ponor to zagłębienie, którym wody przedostają się pod powierzchnię ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Stalagnaty to kolumny powstające z połączenia stalaktytu ze stalagmitem.",
+                                           "answer":  true,
+                                           "explanation":  "Stalagnaty tworzą się w wyniku połączenia stalaktytu (rosnącego w dół) i stalagmitu (rosnącego w górę)."
+                                       },
+                                       {
+                                           "sentence":  "Namuliska to osady mineralne wypełniające jaskinie, w których czasem znajdują się szczątki zwierząt.",
+                                           "answer":  true,
+                                           "explanation":  "Namuliska to osady wypełniające komory i korytarze jaskiniowe, mogące zawierać szczątki zwierząt."
+                                       },
+                                       {
+                                           "sentence":  "Płaskie ukształtowanie terenu sprzyja procesom krasowym, ponieważ ułatwia wsiąkanie wody opadowej w podłoże.",
+                                           "answer":  true,
+                                           "explanation":  "Im bardziej płaski jest obszar, tym więcej wody opadowej wsiąka w jego podłoże, co zwiększa intensywność krasowienia."
+                                       }
+                                   ]
+                 }
+}

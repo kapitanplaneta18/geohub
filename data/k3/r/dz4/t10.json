@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t10",
+                     "title":  "Jakość życia w mieście",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Genius loci",
+                                              "definition":  "Duch opiekuńczy miejsca; niepowtarzalny klimat i atmosfera miasta wynikająca z jego historii, układu przestrzennego, architektury i krajobrazu."
+                                          },
+                                          {
+                                              "term":  "Gettoizacja przestrzeni miejskiej",
+                                              "definition":  "Proces dzielenia się przestrzeni miasta na odizolowane strefy: getta dobrobytu (osiedla zamknięte) oraz getta biedy (obszary zdegradowane)."
+                                          },
+                                          {
+                                              "term":  "Osiedla zamknięte (gated communities)",
+                                              "definition":  "Ogrodzone, strzeżone i monitorowane strefy zamieszkania, oferujące mieszkańcom poczucie bezpieczeństwa i prywatności, ale prowadzące do izolacji społecznej."
+                                          },
+                                          {
+                                              "term":  "Getta biedy",
+                                              "definition":  "Zdegradowane fragmenty miast o złym stanie technicznym i słabej infrastrukturze, zamieszkiwane przez osoby ubogie, bezrobotne lub o niższym statusie społecznym."
+                                          },
+                                          {
+                                              "term":  "Rewitalizacja",
+                                              "definition":  "Kompleksowe działania (społeczne, techniczne, gospodarcze i przestrzenne) mające na celu ożywienie i odnowę zdegradowanych obszarów miasta."
+                                          },
+                                          {
+                                              "term":  "Smart City (Inteligentne miasto)",
+                                              "definition":  "Miasto wykorzystujące innowacyjne technologie (np. systemy sterowania ruchem, e-urzędy) w celu podniesienia jakości życia mieszkańców i oszczędzania zasobów."
+                                          },
+                                          {
+                                              "term":  "Wykluczenie na górze",
+                                              "definition":  "Zjawisko świadomego i dobrowolnego zamykania się bogatszych grup społecznych w osiedlach strzeżonych, prowadzące do dystansowania się od reszty mieszkańców."
+                                          },
+                                          {
+                                              "term":  "Prywatyzacja przestrzeni publicznej",
+                                              "definition":  "Negatywny skutek gettoizacji, polegający na zamykaniu dużych obszarów miasta na wyłączny użytek zamieszkującej je społeczności."
+                                          },
+                                          {
+                                              "term":  "Więź emocjonalna z miastem",
+                                              "definition":  "Poczucie przynależności do miasta, utożsamianie się z nim oraz odczuwanie komfortu psychicznego i bezpieczeństwa w miejscu zamieszkania."
+                                          },
+                                          {
+                                              "term":  "Więź instrumentalna z miastem",
+                                              "definition":  "Traktowanie miasta jako miejsca realizacji konkretnych celów życiowych, takich jak zdobycie wykształcenia, pracy czy dostęp do kultury."
+                                          },
+                                          {
+                                              "term":  "Infrastruktura społeczna w miastach",
+                                              "definition":  "Obiekty takie jak szkoły, szpitale, teatry czy obiekty sportowe, których dostępność wpływa na poziom życia mieszkańców."
+                                          },
+                                          {
+                                              "term":  "Zanieczyszczenie powietrza",
+                                              "definition":  "Jeden z głównych problemów obniżających jakość życia w dużych miastach (np. w Krakowie), wywołujący negatywne skutki zdrowotne."
+                                          },
+                                          {
+                                              "term":  "Problemy komunikacyjne (korki)",
+                                              "definition":  "Uciążliwość życia w mieście wynikająca z przeciążenia infrastruktury transportowej, szczególnie w godzinach szczytu."
+                                          },
+                                          {
+                                              "term":  "Cyfryzacja miast",
+                                              "definition":  "Wdrażanie nowoczesnych rozwiązań technologicznych, takich jak inteligentne oświetlenie czy systemy płatności, nie tylko w metropoliach, ale i w mniejszych miastach."
+                                          },
+                                          {
+                                              "term":  "Depopulacja miast",
+                                              "definition":  "Proces wyludniania się miast, spowodowany m.in. ujemnym przyrostem naturalnym oraz migracją mieszkańców na obszary podmiejskie (suburbanizacja)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Genius loci",
+                                                 "pair2":  "Specyficzny, niepowtarzalny klimat miasta wynikający z jego historii i architektury (np. Kraków, Toruń)"
+                                             },
+                                             {
+                                                 "pair1":  "Osiedla zamknięte (getta dobrobytu)",
+                                                 "pair2":  "Wzrost poczucia bezpieczeństwa mieszkańców kosztem izolacji i ograniczenia dostępności przestrzeni publicznej,"
+                                             },
+                                             {
+                                                 "pair1":  "Rewitalizacja dzielnic (np. Nikiszowiec, Dolne Miasto)",
+                                                 "pair2":  "Poprawa jakości życia i estetyki poprzez remonty oraz aktywizację społeczną mieszkańców"
+                                             },
+                                             {
+                                                 "pair1":  "Getta biedy",
+                                                 "pair2":  "Obszary degradacji technicznej i społecznej, często w dzielnicach poprzemysłowych, zagrożone wykluczeniem"
+                                             },
+                                             {
+                                                 "pair1":  "Smart City",
+                                                 "pair2":  "Zastosowanie nowoczesnych technologii (czujniki, aplikacje) do zarządzania miastem i poprawy ekologii"
+                                             },
+                                             {
+                                                 "pair1":  "Większa dostępność usług i rynku pracy",
+                                                 "pair2":  "Tradycyjna zaleta życia w dużym mieście przyciągająca nowych mieszkańców"
+                                             },
+                                             {
+                                                 "pair1":  "Wysokie koszty życia i zanieczyszczenie środowiska",
+                                                 "pair2":  "Czynniki obniżające subiektywną ocenę jakości życia w największych miastach,"
+                                             },
+                                             {
+                                                 "pair1":  "System roweru publicznego",
+                                                 "pair2":  "Rozwiązanie typu smart city pomagające unikać korków i zmniejszać emisję spalin"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Co jest wymieniane jako jeden z głównych czynników obniżających jakość życia w dużych polskich miastach, wpływający negatywnie na zdrowie mieszkańców?",
+                                      "options":  [
+                                                      "Brak dostępu do szybkiego internetu i nowoczesnych technologii.",
+                                                      "Zanieczyszczenie powietrza (smog)",
+                                                      "Zbyt duża liczba teatrów, muzeów i innych placówek kulturalnych.",
+                                                      "Nadmiar ścieżek rowerowych, które utrudniają ruch pieszy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Smog, będący efektem „niskiej emisji” i transportu, jest poważnym problemem zdrowotnym w aglomeracjach, szczególnie zimą."
+                                  },
+                                  {
+                                      "question":  "Jakie rozwiązanie transportowe, będące elementem Smart City, pozwala unikać korków i zmniejszać emisję spalin?",
+                                      "options":  [
+                                                      "Budowa szerszych autostrad w ścisłym centrum miasta.",
+                                                      "System miejskiego roweru publicznego",
+                                                      "Likwidacja chodników na rzecz dodatkowych pasów ruchu dla aut.",
+                                                      "Zwiększenie liczby prywatnych samochodów poprzez dopłaty do zakupu paliwa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rowery miejskie to ekologiczna alternatywa dla samochodów, zmniejszająca zatłoczenie ulic i poprawiająca jakość powietrza."
+                                  },
+                                  {
+                                      "question":  "Co jest tradycyjną zaletą życia w dużym mieście przyciągającą nowych mieszkańców?",
+                                      "options":  [
+                                                      "Niskie ceny nieruchomości i gruntów budowlanych.",
+                                                      "Całkowity brak hałasu i zgiełku ulicznego.",
+                                                      "Większa liczba ofert pracy i wyższe zarobki",
+                                                      "Małe zagęszczenie ludności zapewniające prywatność."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Duże miasta oferują rynek pracy z wyższymi wynagrodzeniami i szerszymi możliwościami rozwoju kariery niż małe miejscowości."
+                                  },
+                                  {
+                                      "question":  "Czym różni się rewitalizacja od zwykłego remontu budynku?",
+                                      "options":  [
+                                                      "Rewitalizacja dotyczy tylko malowania elewacji i wymiany okien.",
+                                                      "Rewitalizacja to proces kompleksowy, obejmujący działania społeczne, gospodarcze i przestrzenne, a nie tylko techniczne",
+                                                      "Remont jest zawsze znacznie droższy od rewitalizacji.",
+                                                      "Rewitalizacja dotyczy tylko i wyłącznie budowy nowych dróg dojazdowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Celem rewitalizacji jest ożywienie obszaru, rozwiązanie problemów społecznych (np. bezrobocia) i przywrócenie mu funkcji, a nie tylko naprawa murów."
+                                  },
+                                  {
+                                      "question":  "Co jest główną motywacją osób decydujących się na zamieszkanie na osiedlach zamkniętych (gated communities)?",
+                                      "options":  [
+                                                      "Chęć głębokiej integracji z lokalną społecznością sąsiedzką.",
+                                                      "Bardzo niskie koszty utrzymania i czynszu.",
+                                                      "Większe poczucie bezpieczeństwa i prywatności",
+                                                      "Całkowity brak ogrodzeń i barier architektonicznych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Mieszkańcy wybierają osiedla grodzone, licząc na ochronę przed przestępczością i hałasem oraz na wyższy prestiż."
+                                  },
+                                  {
+                                      "question":  "Jakie negatywne zjawisko społeczne wiąże się z tworzeniem zamkniętych osiedli (gett dobrobytu)?",
+                                      "options":  [
+                                                      "Gwałtowny wzrost przestępczości wewnątrz ogrodzonego osiedla.",
+                                                      "Izolacja społeczna i tzw. wykluczenie na górze",
+                                                      "Drastyczne obniżenie standardu życia mieszkańców.",
+                                                      "Nadmierna, niechciana integracja sąsiedzka."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gettoizacja przestrzeni prowadzi do zaniku więzi społecznych między różnymi grupami i prywatyzacji przestrzeni, która powinna być publiczna."
+                                  },
+                                  {
+                                      "question":  "Jakie skutki dla infrastruktury gminy niesie zjawisko „rozlewania się miast” (urban sprawl)?",
+                                      "options":  [
+                                                      "Zmniejszenie wydatków na drogi i oświetlenie.",
+                                                      "Zwiększenie kosztów budowy dróg i infrastruktury technicznej oraz przeciążenie transportu",
+                                                      "Znaczna poprawa płynności ruchu ulicznego w centrum.",
+                                                      "Zmniejszenie zapotrzebowania na szkoły i przedszkola."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Chaotyczna zabudowa na peryferiach wymusza na gminach kosztowną budowę długich sieci wodociągowych, kanalizacyjnych i dróg dla niewielkiej liczby mieszkańców."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „genius loci” w odniesieniu do miasta?",
+                                      "options":  [
+                                                      "Nowoczesny, cyfrowy system zarządzania odpadami.",
+                                                      "Niepowtarzalny klimat i atmosfera miejsca („duch opiekuńczy”), wynikające z historii i układu przestrzennego",
+                                                      "Liczbę mieszkańców przypadającą na 1 km2 powierzchni.",
+                                                      "Miejscowy plan zagospodarowania przestrzennego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Genius loci to unikalny charakter miasta (np. krakowskiego Kazimierza), który przyciąga turystów i buduje tożsamość mieszkańców."
+                                  },
+                                  {
+                                      "question":  "Która grupa miast w Polsce doświadcza największych problemów z depopulacją wynikającą z transformacji ustrojowej?",
+                                      "options":  [
+                                                      "Miasta turystyczne położone nad Morzem Bałtyckim.",
+                                                      "Ośrodki będące dawnymi monokulturami przemysłowymi (np. Łódź, Wałbrzych)",
+                                                      "Duże miasta uniwersyteckie (np. Kraków, Poznań).",
+                                                      "Stolice województw ściany wschodniej (np. Rzeszów)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Upadek dominującego przemysłu spowodował bezrobocie i odpływ ludności w poszukiwaniu pracy, co widać np. w Łodzi czy Bytomiu."
+                                  },
+                                  {
+                                      "question":  "Co charakteryzuje tzw. „getta biedy” w polskich miastach?",
+                                      "options":  [
+                                                      "Bardzo wysoki standard techniczny i energetyczny budynków.",
+                                                      "Zamieszkiwanie wyłącznie przez osoby zamożne i wpływowe.",
+                                                      "Zły stan techniczny, słaba infrastruktura i koncentracja problemów społecznych (bezrobocie, wykluczenie)",
+                                                      "Pełne ogrodzenie terenu, monitoring i ochrona fizyczna."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Są to obszary degradacji (np. stare kamienice czynszowe, osiedla socjalne), gdzie kumulują się problemy socjalne i materialne."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób „presja inwestycyjna” wpływa negatywnie na ład przestrzenny w gęsto zabudowanych miastach?",
+                                      "options":  [
+                                                      "Prowadzi do budowy zbyt dużej liczby parków i skwerów.",
+                                                      "Powoduje budowanie bloków zbyt blisko siebie, co ogranicza prywatność i dostęp do światła",
+                                                      "Zmusza deweloperów do drastycznego obniżania cen mieszkań.",
+                                                      "Powoduje całkowite wyludnianie się centrów miast."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dążenie deweloperów do maksymalnego wykorzystania gruntu (patodeweloperka) prowadzi do zagęszczania zabudowy kosztem komfortu mieszkańców."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych działań jest przykładem zastosowania technologii Smart City w zarządzaniu środowiskiem?",
+                                      "options":  [
+                                                      "Budowa nowych, wielopoziomowych parkingów betonowych w centrum.",
+                                                      "Monitoring stanu środowiska za pomocą czujników i dronów (np. w Toruniu)",
+                                                      "Zwiększenie liczby tradycyjnych koszy na śmieci na ulicach.",
+                                                      "Sadzenie drzew w parkach bez systemu nawadniania."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Inteligentne systemy monitoringu pozwalają na bieżąco kontrolować jakość powietrza i reagować na zagrożenia (np. wykrywać źródła smogu)."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko paradoksalne dotyczące satysfakcji z życia odnotowano w badaniach GUS z 2018 roku?",
+                                      "options":  [
+                                                      "Mieszkańcy największych miast są bezapelacyjnie najbardziej zadowoleni z życia.",
+                                                      "Mieszkańcy wsi i małych miast deklarują wyższy poziom zadowolenia niż mieszkańcy dużych metropolii",
+                                                      "Poziom zadowolenia nie zależy w ogóle od wielkości miejscowości.",
+                                                      "Najmniej zadowoleni z życia są zawsze mieszkańcy wsi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mimo niższych zarobków, mieszkańcy mniejszych ośrodków cenią sobie spokój, bezpieczeństwo i więzi społeczne bardziej niż wielkomiejski pośpiech."
+                                  },
+                                  {
+                                      "question":  "Na czym polega „prywatyzacja przestrzeni publicznej” jako skutek gettoizacji?",
+                                      "options":  [
+                                                      "Na sprzedaży budynków urzędów państwowych prywatnym firmom.",
+                                                      "Na zamykaniu dużych obszarów miasta (ulic, placów) na wyłączny użytek mieszkańców osiedli zamkniętych",
+                                                      "Na otwieraniu nowych, prywatnych sklepów w centrum miasta.",
+                                                      "Na budowie prywatnych autostrad łączących miasta."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Tworzenie zamkniętych enklaw wycina fragmenty miasta z ogólnodostępnej przestrzeni, utrudniając komunikację i integrację."
+                                  },
+                                  {
+                                      "question":  "Jakie działanie jest kluczowe dla sukcesu procesu rewitalizacji, odróżniające go od gentryfikacji (wymiany ludności)?",
+                                      "options":  [
+                                                      "Szybki i niekontrolowany wzrost czynszów w odnowionych budynkach.",
+                                                      "Aktywizacja społeczna dotychczasowych mieszkańców, a nie tylko remont budynków",
+                                                      "Całkowite wyburzenie starej zabudowy i postawienie nowych obiektów.",
+                                                      "Przekształcenie dzielnicy mieszkalnej w strefę wyłącznie biurową."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rewitalizacja ma służyć obecnym mieszkańcom, poprawiając ich warunki życia, a nie wypierać ich na rzecz bogatszych przybyszów (co jest cechą gentryfikacji)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Rewitalizacja obszarów miejskich ogranicza się wyłącznie do remontów budynków i modernizacji infrastruktury technicznej.",
+                                           "answer":  false,
+                                           "explanation":  "Rewitalizacja to proces kompleksowy, który oprócz działań technicznych musi obejmować sferę społeczną (aktywizację mieszkańców), gospodarczą i środowiskową."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko *genius loci* odnosi się do niemierzalnego, specyficznego klimatu i atmosfery miasta, wynikających m.in. z jego historii.",
+                                           "answer":  true,
+                                           "explanation":  "*Genius loci* to „duch opiekuńczy miejsca” – nieuchwytna atmosfera wiążąca się z układem przestrzennym, architekturą i przeszłością danego ośrodka."
+                                       },
+                                       {
+                                           "sentence":  "Badania statystyczne wykazują, że mieszkańcy największych polskich miast są bardziej zadowoleni z życia niż mieszkańcy wsi i małych miasteczek.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie – dane wskazują, że mieszkańcy wsi i małych miast (poniżej 20 tys.) wyrażają wyższy poziom zadowolenia z życia (84%) niż mieszkańcy dużych miast (81%)."
+                                       },
+                                       {
+                                           "sentence":  "Tworzenie osiedli zamkniętych (gated communities) sprzyja integracji społecznej i budowaniu więzi z mieszkańcami sąsiednich dzielnic.",
+                                           "answer":  false,
+                                           "explanation":  "Osiedla zamknięte prowadzą do izolacji społecznej, dystansowania się od innych grup („wykluczenie na górze”) oraz spadku zaangażowania społecznego."
+                                       },
+                                       {
+                                           "sentence":  "Koncepcja *Smart City* (miasta inteligentnego) polega na wykorzystywaniu nowoczesnych technologii, takich jak systemy sterowania ruchem czy monitoring środowiska, do poprawy jakości życia.",
+                                           "answer":  true,
+                                           "explanation":  "Inteligentne miasta wdrażają innowacje (np. czujniki, aplikacje, e-urzędy) w celu oszczędzania zasobów i podnoszenia komfortu życia mieszkańców."
+                                       },
+                                       {
+                                           "sentence":  "Prywatyzacja przestrzeni publicznej, polegająca na zamykaniu dostępu do ulic i placów, jest jednym z negatywnych skutków gettoizacji miast.",
+                                           "answer":  true,
+                                           "explanation":  "Gettoizacja prowadzi do wyłączania fragmentów miasta z ogólnodostępnej przestrzeni publicznej na użytek wyłącznie mieszkańców osiedli zamkniętych."
+                                       },
+                                       {
+                                           "sentence":  "Chaotyczny rozwój stref podmiejskich, zwany *urban sprawl*, przyczynia się do obniżenia kosztów funkcjonowania komunikacji i infrastruktury.",
+                                           "answer":  false,
+                                           "explanation":  "Rozlewanie się miast (*urban sprawl*) zwiększa koszty budowy dróg i infrastruktury oraz powoduje przeciążenie transportu (korki)."
+                                       },
+                                       {
+                                           "sentence":  "Główną motywacją osób decydujących się na zamieszkanie na osiedlach strzeżonych jest zazwyczaj chęć posiadania większego poczucia bezpieczeństwa i prywatności.",
+                                           "answer":  true,
+                                           "explanation":  "Do głównych powodów wyboru osiedli zamkniętych należą kwestie bezpieczeństwa (monitoring, ochrona), poczucie prywatności i prestiżu."
+                                       },
+                                       {
+                                           "sentence":  "Getta biedy w polskich miastach to zawsze obszary fizycznie odgrodzone murem od reszty zabudowy.",
+                                           "answer":  false,
+                                           "explanation":  "Getta biedy to obszary degradacji, które często nie posiadają fizycznych barier, a granica ich wyodrębnienia istnieje głównie w świadomości mieszkańców i wynika z problemów społecznych."
+                                       },
+                                       {
+                                           "sentence":  "Zanieczyszczenie powietrza jest wymieniane jako jeden z istotnych czynników obniżających jakość życia w dużych miastach Polski.",
+                                           "answer":  true,
+                                           "explanation":  "Stan powietrza atmosferycznego (smog) ma istotny negatywny wpływ na poziom życia w miastach i zdrowie ich mieszkańców."
+                                       },
+                                       {
+                                           "sentence":  "Dolne Miasto w Gdańsku jest przykładem dzielnicy, która uległa trwałej degradacji i nie podjęto w niej żadnych działań naprawczych.",
+                                           "answer":  false,
+                                           "explanation":  "Dolne Miasto w Gdańsku jest podawane jako przykład udanej rewitalizacji, obejmującej zarówno modernizację infrastruktury, jak i działania społeczne."
+                                       }
+                                   ]
+                 }
+}

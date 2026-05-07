@@ -1,0 +1,379 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz3-t3",
+                     "unit":  "III",
+                     "title":  "Ruchy powietrza (Ciśnienie i wiatry)",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Ciśnienie atmosferyczne",
+                                              "definition":  "Siła, z którą słup powietrza naciska na określoną powierzchnię terenu, mierzona w hektopaskalach (hPa)."
+                                          },
+                                          {
+                                              "term":  "Izobara",
+                                              "definition":  "Linia na mapie łącząca punkty o jednakowych wartościach ciśnienia atmosferycznego."
+                                          },
+                                          {
+                                              "term":  "Niż baryczny (cyklon)",
+                                              "definition":  "Układ zamkniętych izobar, w którym ciśnienie maleje w kierunku środka; powietrze wznosi się (konwekcja), co sprzyja powstawaniu chmur i opadów."
+                                          },
+                                          {
+                                              "term":  "Wyż baryczny (antycyklon)",
+                                              "definition":  "Układ zamkniętych izobar, w którym ciśnienie wzrasta w kierunku środka; chłodne powietrze osiada (prądy zstępujące), co prowadzi do braku zachmurzenia."
+                                          },
+                                          {
+                                              "term":  "Wiatr",
+                                              "definition":  "Poziomy ruch powietrza w dolnej warstwie troposfery, odbywający się zawsze od obszarów o wyższym ciśnieniu do obszarów o niższym ciśnieniu."
+                                          },
+                                          {
+                                              "term":  "Siła Coriolisa",
+                                              "definition":  "Siła wynikająca z ruchu obrotowego Ziemi, która odchyla kierunek wiatru w prawo na półkuli północnej i w lewo na półkuli południowej."
+                                          },
+                                          {
+                                              "term":  "Globalna cyrkulacja atmosfery",
+                                              "definition":  "Krążenie powietrza wokół Ziemi w obrębie trzech komórek cyrkulacyjnych (Hadleya, Ferrela, polarnej), wywołane różnicami w dopływie energii słonecznej i ruchem obrotowym planety."
+                                          },
+                                          {
+                                              "term":  "Komórka Hadleya",
+                                              "definition":  "Komórka cyrkulacyjna między równikiem a zwrotnikami, w której nagrzane powietrze unosi się nad równikiem, a chłodne osiada w okolicach zwrotników."
+                                          },
+                                          {
+                                              "term":  "Pasaty",
+                                              "definition":  "Stałe wiatry wiejące od wyżów zwrotnikowych w kierunku niżu równikowego, odchylane przez siłę Coriolisa (na półkuli północnej z kierunku północno-wschodniego)."
+                                          },
+                                          {
+                                              "term":  "Monsun letni",
+                                              "definition":  "Wilgotny wiatr wiejący znad chłodniejszego oceanu (wyż) nad silnie nagrzany ląd (niż), przynoszący duże zachmurzenie i obfite opady deszczu."
+                                          },
+                                          {
+                                              "term":  "Monsun zimowy",
+                                              "definition":  "Chłodny i suchy wiatr wiejący znad szybko wychładzającego się lądu (wyż) w stronę cieplejszego oceanu (niż), kształtujący słoneczną pogodę."
+                                          },
+                                          {
+                                              "term":  "Bryza dzienna (morska)",
+                                              "definition":  "Wiatr lokalny wiejący w ciągu dnia znad chłodniejszej wody w kierunku nagrzanego lądu, gdzie powietrze się unosi."
+                                          },
+                                          {
+                                              "term":  "Bryza nocna (lądowa)",
+                                              "definition":  "Wiatr lokalny wiejący w nocy znad wychłodzonego lądu (wyż) w stronę cieplejszej wody (niż)."
+                                          },
+                                          {
+                                              "term":  "Efekt fenowy",
+                                              "definition":  "Proces, w którym powietrze wznoszące się po stronie dowietrznej ochładza się i traci wilgoć (opady), a po stronie zawietrznej opada, ogrzewając się suchoadiabatycznie (co daje wiatr ciepły i suchy)."
+                                          },
+                                          {
+                                              "term":  "Fen (halny)",
+                                              "definition":  "Ciepły, suchy i porywisty wiatr spadający po zawietrznej stronie pasma górskiego, powodujący gwałtowne ocieplenie i odwilże."
+                                          },
+                                          {
+                                              "term":  "Bora",
+                                              "definition":  "Zimny, suchy i porywisty wiatr spływający gwałtownie z wychłodzonych wyżyn lub gór w kierunku cieplejszego morza."
+                                          },
+                                          {
+                                              "term":  "Wiatr dolinny",
+                                              "definition":  "Wiatr lokalny występujący w górach w ciągu dnia, kiedy nagrzane powietrze unosi się wzdłuż stoków."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Wyż baryczny",
+                                                 "pair2":  "Prądy zstępujące (osiadanie), pogoda bezchmurna."
+                                             },
+                                             {
+                                                 "pair1":  "Niż baryczny",
+                                                 "pair2":  "Prądy wstępujące (unoszenie), zachmurzenie i opady."
+                                             },
+                                             {
+                                                 "pair1":  "Pasat",
+                                                 "pair2":  "Stały wiatr od zwrotników ku równikowi."
+                                             },
+                                             {
+                                                 "pair1":  "Monsun letni",
+                                                 "pair2":  "Wiatr wilgotny znad oceanu, przynosi ulewne deszcze."
+                                             },
+                                             {
+                                                 "pair1":  "Bryza dzienna",
+                                                 "pair2":  "Wiatr od morza, ląd cieplejszy od wody (niż nad lądem)."
+                                             },
+                                             {
+                                                 "pair1":  "Fen (Halny)",
+                                                 "pair2":  "Ciepły i suchy wiatr po stronie zawietrznej gór."
+                                             },
+                                             {
+                                                 "pair1":  "Bora",
+                                                 "pair2":  "Zimny wiatr spływający ku cieplejszemu morzu."
+                                             },
+                                             {
+                                                 "pair1":  "Siła Coriolisa",
+                                                 "pair2":  "Odchyla wiatr w prawo na półkuli północnej"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Podczas oglądania prognozy pogody prezenter wskazuje na mapie układ baryczny oznaczony literą \u0027W\u0027, znajdujący się nad Polską. Jakiego kierunku ruchu powietrza w dolnej warstwie troposfery należy się spodziewać wokół centrum tego układu?",
+                                      "options":  [
+                                                      "Zgodnego z ruchem wskazówek zegara, kierując się od środka na zewnątrz układu barycznego.",
+                                                      "Przeciwnego do ruchu wskazówek zegara, do wnętrza układu.",
+                                                      "Zgodnego z ruchem wskazówek zegara, do wnętrza układu.",
+                                                      "Przeciwnego do ruchu wskazówek zegara, na zewnątrz układu."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Na półkuli północnej w wyżu barycznym (W) powietrze rozchodzi się od środka na zewnątrz (układ rozbieżny), a siła Coriolisa odchyla ten ruch w prawo, nadając mu kierunek zgodny z ruchem wskazówek zegara."
+                                  },
+                                  {
+                                      "question":  "Turysta przebywający na plaży nad Bałtykiem w słoneczne południe odczuwa wiatr wiejący prosto w twarz, od strony morza. Jaki mechanizm fizyczny jest bezpośrednią przyczyną tego zjawiska?",
+                                      "options":  [
+                                                      "Ląd nagrzewa się szybciej niż woda, tworząc nad sobą lokalny niż, co zasysa powietrze znad chłodniejszego morza (wyż).",
+                                                      "Woda nagrzewa się szybciej niż ląd, tworząc nad sobą niż, co powoduje napływ powietrza znad chłodniejszego lądu (wyż).",
+                                                      "Ląd oddaje ciepło szybciej niż woda, co prowadzi do inwersji temperatury i spływu powietrza w stronę morza.",
+                                                      "Globalna cyrkulacja zachodnia dominuje nad lokalnymi różnicami ciśnień, powodując stały napływ powietrza znad oceanu."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jest to bryza dzienna (morska). W ciągu dnia ląd nagrzewa się szybciej niż woda, powietrze nad nim unosi się (tworząc niższe ciśnienie), a na jego miejsce napływa chłodniejsze powietrze znad wody (gdzie panuje wyższe ciśnienie)."
+                                  },
+                                  {
+                                      "question":  "Analizujesz mapę klimatyczną Afryki i zauważasz rozległe obszary pustynne w okolicach zwrotników (np. Sahara). Jaki element globalnej cyrkulacji atmosfery jest główną przyczyną braku opadów w tej strefie?",
+                                      "options":  [
+                                                      "Wstępujące prądy powietrza w Komórce Hadleya, które powodują kondensację pary wodnej.",
+                                                      "Zstępujące prądy powietrza w Komórce Hadleya, które sprzyjają ogrzewaniu i osuszaniu powietrza.",
+                                                      "Stałe wiatry zachodnie, które przynoszą suche powietrze z wnętrza kontynentu azjatyckiego.",
+                                                      "Prądy konwekcyjne wywołane silnym nagrzaniem podłoża, tworzące chmury Cumulonimbus."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nad zwrotnikami powietrze, które przemieściło się znad równika, zagęszcza się i opada grawitacyjnie (prądy zstępujące). Opadając, ogrzewa się i osusza, co skutkuje brakiem zachmurzenia i opadów (powstają wyże zwrotnikowe)."
+                                  },
+                                  {
+                                      "question":  "W Tatrach wieje silny, porywisty wiatr halny. Turysta znajdujący się po zawietrznej stronie gór (np. w Zakopanem) obserwuje gwałtowny wzrost temperatury. Jeśli po stronie dowietrznej powietrze wznosząc się utraciło wilgoć (wystąpił opad), to dlaczego po stronie zawietrznej jest ono cieplejsze niż na tej samej wysokości po stronie dowietrznej?",
+                                      "options":  [
+                                                      "Ponieważ po stronie zawietrznej powietrze opada zgodnie z gradientem wilgotnoadiabatycznym (ok. 0,6°C/100m).",
+                                                      "Ponieważ po stronie zawietrznej powietrze opada zgodnie z gradientem suchoadiabatycznym (ok. 1°C/100m), który jest znacznie wyższy niż gradient wilgotnoadiabatyczny (0,6°C/100m) po stronie dowietrznej.",
+                                                      "Ponieważ po stronie zawietrznej następuje adwekcja ciepłych mas powietrza z południa, niezwiązana z barierą górską.",
+                                                      "Ponieważ tarcie powietrza o stoki górskie po stronie zawietrznej generuje dodatkowe ciepło, podnosząc temperaturę o kilka stopni."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Efekt fenowy wynika z różnicy gradientów. Po stronie dowietrznej (z opadem) powietrze ochładza się wolniej (0,6°C/100m), a po stronie zawietrznej (jako suche) ogrzewa się szybciej (1°C/100m) podczas opadania."
+                                  },
+                                  {
+                                      "question":  "Samolot pasażerski leci z obszaru wyżu barycznego do obszaru niżu barycznego. Jak, zgodnie z definicją wiatru, będą przemieszczać się masy powietrza wokół samolotu (pomijając siłę Coriolisa)?",
+                                      "options":  [
+                                                      "Z obszaru o niższym ciśnieniu do obszaru o wyższym ciśnieniu.",
+                                                      "Z obszaru o wyższym ciśnieniu atmosferycznym do obszaru o niższym ciśnieniu atmosferycznym, dążąc do wyrównania różnic.",
+                                                      "Równolegle do izobar, bez wyraźnego przemieszczania między układami.",
+                                                      "Pionowo do góry w obszarze wyżu i pionowo w dół w obszarze niżu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wiatr to poziomy ruch powietrza, który odbywa się zawsze od obszarów o wyższym ciśnieniu atmosferycznym do obszarów o niższym ciśnieniu."
+                                  },
+                                  {
+                                      "question":  "Mieszkaniec Indii przygotowuje się na nadejście monsunu letniego. Jakich warunków pogodowych i kierunku wiatru powinien się spodziewać?",
+                                      "options":  [
+                                                      "Wiatru wiejącego z lądu (północy), przynoszącego słoneczną i suchą pogodę.",
+                                                      "Wiatru wiejącego z oceanu (południa), przynoszącego gwałtowne ulewy i duże zachmurzenie.",
+                                                      "Wiatru wiejącego z zachodu, przynoszącego umiarkowane opady i spadek temperatury.",
+                                                      "Bezwietrznej pogody z częstymi mgłami i wysoką wilgotnością powietrza."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Monsun letni to wiatr wiejący znad chłodniejszego oceanu (wyż) nad silnie nagrzany ląd (niż). Przynosi on wilgotne powietrze, duże zachmurzenie i obfite opady deszczu."
+                                  },
+                                  {
+                                      "question":  "Pewien obszar znajduje się w centrum układu barycznego, w którym ciśnienie atmosferyczne wzrasta w kierunku środka. Jakiego rodzaju ruchu pionowego powietrza oraz pogody można się tam spodziewać?",
+                                      "options":  [
+                                                      "Prądów wstępujących (konwekcji) i dużego zachmurzenia z opadami.",
+                                                      "Prądów zstępujących (osiadania) i bezchmurnego nieba.",
+                                                      "Poziomych ruchów wirowych (turbulencji) i gwałtownych burz.",
+                                                      "Prądów wstępujących i inwersji temperatury przy gruncie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Opisany układ to wyż baryczny. W wyżu chłodne powietrze osiada (prądy zstępujące) i ogrzewa się, co prowadzi do braku zachmurzenia i opadów."
+                                  },
+                                  {
+                                      "question":  "Podróżnik znajduje się na półkuli południowej i obserwuje pasaty. Z jakiego kierunku wieją te stałe wiatry?",
+                                      "options":  [
+                                                      "Z północnego wschodu, odchylane w prawo przez siłę Coriolisa.",
+                                                      "Z południowego wschodu, odchylane w lewo przez siłę Coriolisa.",
+                                                      "Z południowego zachodu, zgodnie z kierunkiem wiatrów antypasatowych.",
+                                                      "Z północnego zachodu, wiejąc od równika w stronę zwrotników."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na półkuli południowej pasaty wieją od wyżów zwrotnikowych w kierunku niżu równikowego i są odchylane przez siłę Coriolisa w lewo, co daje kierunek południowo-wschodni."
+                                  },
+                                  {
+                                      "question":  "W chorwackich górach nad Adriatykiem zimą dochodzi do gwałtownego spływu chłodnego powietrza z wyżyn w stronę cieplejszego morza. Jak nazywa się ten wiatr?",
+                                      "options":  [
+                                                      "Fen (Halny).",
+                                                      "Pasat.",
+                                                      "Bora.",
+                                                      "Bryza lądowa."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Bora to zimny, suchy i porywisty wiatr spływający gwałtownie z wychłodzonych wyżyn lub gór w kierunku cieplejszego morza (np. nad Adriatykiem)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest standardowa wartość ciśnienia atmosferycznego na poziomie morza, przyjęta jako punkt odniesienia w meteorologii?",
+                                      "options":  [
+                                                      "1000 hPa.",
+                                                      "960 hPa.",
+                                                      "1013,25 hPa.",
+                                                      "1024 hPa."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Za normalną wartość ciśnienia atmosferycznego przyjmuje się 1013,25 hPa (przy temperaturze 0°C na szerokości 45° na poziomie morza)."
+                                  },
+                                  {
+                                      "question":  "Jak nazywają się linie na mapie synoptycznej, które łączą punkty o jednakowej wartości ciśnienia atmosferycznego?",
+                                      "options":  [
+                                                      "Izotermy.",
+                                                      "Izobary.",
+                                                      "Izohiety.",
+                                                      "Izohipsy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na mapach ciśnienie atmosferyczne przedstawia się za pomocą izobar, czyli linii łączących punkty o jednakowych wartościach ciśnienia."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w nocy w górach często występuje wiatr górski, wiejący ze szczytów w dół dolin?",
+                                      "options":  [
+                                                      "Ponieważ powietrze w wyższych partiach gór szybciej się wychładza, staje się cięższe i spływa wzdłuż stoków.",
+                                                      "Ponieważ w nocy dno doliny jest cieplejsze, co tworzy ośrodek wysokiego ciśnienia wypychający powietrze w górę.",
+                                                      "Ponieważ w nocy ustaje siła Coriolisa, co pozwala na swobodny spływ grawitacyjny powietrza.",
+                                                      "Ponieważ roślinność na stokach w nocy intensywnie paruje, zwiększając ciężar powietrza."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W nocy powietrze w wyższych częściach stoków silnie się wychładza, staje się ciężkie i spływa wzdłuż stoków jako wiatr górski."
+                                  },
+                                  {
+                                      "question":  "Oblicz temperaturę powietrza po stronie zawietrznej góry na wysokości 500 m n.p.m., wiedząc, że wiatr fenowy rozpoczął wznoszenie z poziomu 500 m n.p.m. (strona dowietrzna) przy temperaturze 15°C, a kondensacja pary wodnej (opad) rozpoczęła się na wysokości 1500 m n.p.m. Szczyt góry ma wysokość 2500 m n.p.m. (Gradienty: wilgotnoadiabatyczny 0,6°C/100m, suchoadiabatyczny 1°C/100m).",
+                                      "options":  [
+                                                      "15°C (temperatura nie ulegnie zmianie).",
+                                                      "19°C.",
+                                                      "23°C.",
+                                                      "9°C."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Etap 1 (suchy wznoszenie 500-\u003e1500m): -10*1°C = -10°C (Temp na 1500m = 5°C). Etap 2 (wilgotny wznoszenie 1500-\u003e2500m): -10*0,6°C = -6°C (Temp na szczycie = -1°C). Etap 3 (suchy opadanie 2500-\u003e500m): +20*1°C = +20°C. Wynik: -1°C + 20°C = 19°C."
+                                  },
+                                  {
+                                      "question":  "Globalna cyrkulacja atmosfery opiera się na istnieniu trzech głównych komórek cyrkulacyjnych na każdej półkuli. Jak nazywa się komórka znajdująca się bezpośrednio między równikiem a zwrotnikiem?",
+                                      "options":  [
+                                                      "Komórka Ferrela.",
+                                                      "Komórka Polarna.",
+                                                      "Komórka Hadleya.",
+                                                      "Komórka Walkera."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Komórka Hadleya to komórka cyrkulacyjna występująca między równikiem a zwrotnikiem."
+                                  },
+                                  {
+                                      "question":  "Jak siła Coriolisa wpływa na kierunek wiatru na półkuli północnej?",
+                                      "options":  [
+                                                      "Odchyla kierunek wiatru w lewo względem toru ruchu.",
+                                                      "Odchyla kierunek wiatru w prawo względem toru ruchu.",
+                                                      "Przyspiesza wiatr bez zmiany jego kierunku.",
+                                                      "Powoduje, że wiatr wieje prostopadle do izobar."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Siła Coriolisa na półkuli północnej odchyla kierunek wiatru w prawo, a na półkuli południowej – w lewo."
+                                  },
+                                  {
+                                      "question":  "Co jest bezpośrednią przyczyną powstawania niżu barycznego (cyklonu) nad silnie nagrzanym obszarem?",
+                                      "options":  [
+                                                      "Osiadanie zimnego, gęstego powietrza, które zwiększa nacisk na podłoże.",
+                                                      "Poziomy napływ chłodnych mas powietrza z obszarów o wyższym ciśnieniu.",
+                                                      "Unoszenie się ciepłego, rozprężonego powietrza (konwekcja), co powoduje spadek gęstości i zmniejsza nacisk słupa powietrza na podłoże.",
+                                                      "Resublimacja pary wodnej w wyższych warstwach atmosfery."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Nad silnie nagrzanymi obszarami powstają prądy wstępujące: powietrze przy powierzchni rozpręża się (gęstość maleje), unosi się, a siła nacisku słupa powietrza się zmniejsza, tworząc niż."
+                                  },
+                                  {
+                                      "question":  "Na mapie synoptycznej półkuli południowej widzisz układ baryczny, w którym wiatry wieją przeciwnie do ruchu wskazówek zegara, kierując się na zewnątrz od centrum. Jaki to układ?",
+                                      "options":  [
+                                                      "Niż baryczny (cyklon).",
+                                                      "Wyż baryczny (antycyklon).",
+                                                      "Front zokludowany.",
+                                                      "Siodło baryczne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na półkuli południowej siła Coriolisa działa w lewo. W wyżu (antycyklonie) wiatr wieje od centrum na zewnątrz, a odchylenie w lewo powoduje ruch odwrotny do ruchu wskazówek zegara."
+                                  },
+                                  {
+                                      "question":  "Jak zmienia się ciśnienie atmosferyczne wraz ze wzrostem wysokości nad poziomem morza w troposferze?",
+                                      "options":  [
+                                                      "Rośnie liniowo o ok. 11,5 hPa na każde 100 m.",
+                                                      "Maleje, ponieważ zmniejsza się grubość słupa powietrza naciskającego na powierzchnię.",
+                                                      "Pozostaje stałe do wysokości ok. 5 km, a potem gwałtownie spada.",
+                                                      "Maleje w dzień, a rośnie w nocy w wyniku zmian temperatury."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wartość ciśnienia atmosferycznego maleje wraz ze wzrostem wysokości, ponieważ im wyżej, tym mniejszy słup powietrza naciska na daną powierzchnię (np. na Mount Everest to tylko 300 hPa)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "W troposferze wartość ciśnienia atmosferycznego rośnie wraz ze wzrostem wysokości nad poziomem morza.",
+                                           "answer":  false,
+                                           "explanation":  "Wartość ciśnienia atmosferycznego maleje wraz ze wzrostem wysokości, ponieważ zmniejsza się grubość słupa powietrza naciskającego na powierzchnię."
+                                       },
+                                       {
+                                           "sentence":  "W centrum wyżu barycznego (antycyklonu) powietrze unosi się, ochładza i tworzy chmury deszczowe.",
+                                           "answer":  false,
+                                           "explanation":  "W wyżu barycznym chłodne powietrze opada (osiada) i ogrzewa się, co prowadzi do braku zachmurzenia i opadów."
+                                       },
+                                       {
+                                           "sentence":  "Wiatr jest poziomym ruchem powietrza, który odbywa się zawsze od obszarów o wyższym ciśnieniu do obszarów o niższym ciśnieniu.",
+                                           "answer":  true,
+                                           "explanation":  "Zgodnie z definicją, wiatr wieje zawsze od obszarów o wyższym ciśnieniu atmosferycznym do obszarów o niższym ciśnieniu."
+                                       },
+                                       {
+                                           "sentence":  "Na półkuli południowej siła Coriolisa odchyla kierunek wiatru w prawo, zgodnie z ruchem wskazówek zegara.",
+                                           "answer":  false,
+                                           "explanation":  "Siła Coriolisa na półkuli południowej odchyla kierunek wiatru w lewo."
+                                       },
+                                       {
+                                           "sentence":  "W cyrkulacji komórki Hadleya gorące powietrze znad równika przemieszcza się górą ku zwrotnikom, gdzie opada, tworząc strefy wysokiego ciśnienia.",
+                                           "answer":  true,
+                                           "explanation":  "W komórce Hadleya nagrzane powietrze unosi się nad równikiem, przemieszcza ku wyższym szerokościom i opada w okolicach zwrotników, tworząc wyże."
+                                       },
+                                       {
+                                           "sentence":  "Pasaty na półkuli północnej wieją z kierunku południowo-zachodniego w stronę równika.",
+                                           "answer":  false,
+                                           "explanation":  "Na półkuli północnej pasaty wieją z północnego wschodu, ponieważ są odchylane w prawo przez siłę Coriolisa."
+                                       },
+                                       {
+                                           "sentence":  "Monsun letni jest wiatrem wilgotnym, który wieje znad chłodniejszego oceanu w stronę silnie nagrzanego lądu.",
+                                           "answer":  true,
+                                           "explanation":  "Latem ląd nagrzewa się silniej niż ocean (niż nad lądem), co powoduje napływ wilgotnego powietrza znad oceanu."
+                                       },
+                                       {
+                                           "sentence":  "Bryza dzienna (morska) powstaje, gdy ląd nagrzewa się szybciej niż woda, powodując napływ chłodniejszego powietrza znad morza.",
+                                           "answer":  true,
+                                           "explanation":  "W dzień ląd jest cieplejszy (niż), a woda chłodniejsza (wyż), więc wiatr wieje od morza do lądu."
+                                       },
+                                       {
+                                           "sentence":  "Fen (halny) jest wiatrem zimnym i wilgotnym, który przynosi opady po zawietrznej stronie gór.",
+                                           "answer":  false,
+                                           "explanation":  "Fen to wiatr ciepły i suchy, który występuje po zawietrznej stronie gór, gdzie powietrze opada i ogrzewa się suchoadiabatycznie."
+                                       },
+                                       {
+                                           "sentence":  "Wiatr dolinny występuje w ciągu dnia, kiedy nagrzane powietrze unosi się wzdłuż stoków górskich.",
+                                           "answer":  true,
+                                           "explanation":  "W dzień powietrze przy stokach nagrzewa się i unosi, tworząc wiatr dolinny."
+                                       },
+                                       {
+                                           "sentence":  "Bora to ciepły wiatr spływający łagodnie w stronę morza, charakterystyczny dla wybrzeży tropikalnych.",
+                                           "answer":  false,
+                                           "explanation":  "Bora to wiatr zimny, suchy i porywisty, spadający z wychłodzonych wyżyn w stronę cieplejszego morza."
+                                       },
+                                       {
+                                           "sentence":  "Izobary to linie na mapie łączące punkty o jednakowej wartości temperatury powietrza.",
+                                           "answer":  false,
+                                           "explanation":  "Izobary to linie łączące punkty o jednakowych wartościach ciśnienia atmosferycznego, a nie temperatury."
+                                       }
+                                   ]
+                 }
+}

@@ -1,0 +1,317 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz1-t1",
+                     "title":  "Źródła informacji geograficznej",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Teledetekcja",
+                                              "definition":  "Proces wykonywania, przetwarzania oraz analizowania zdjęć lotniczych i satelitarnych w celu monitorowania zmian zachodzących w środowisku geograficznym, np. tworzenie ortofotomap."
+                                          },
+                                          {
+                                              "term":  "Ortofotomapa",
+                                              "definition":  "Opracowanie kartograficzne powstające w wyniku nadania zdjęciom lotniczym lub satelitarnym jednolitej skali i wpisania ich w układ współrzędnych geograficznych, co umożliwia dokonywanie pomiarów."
+                                          },
+                                          {
+                                              "term":  "Źródła tekstowe",
+                                              "definition":  "Opisy regionów i zjawisk zawarte w literaturze, które wymagają ostrożnej weryfikacji ze względu na zmiany zachodzące w czasie, jak w przypadku opisu wielkości wyspy Cejlon (Sejlan) w dziele Marco Polo."
+                                          },
+                                          {
+                                              "term":  "Źródła liczbowe",
+                                              "definition":  "Zestawienia danych statystycznych uzyskiwanych w wyniku pomiarów i rejestracji, służące do analizy wartości takich jak temperatura powietrza czy liczba turystów w parku narodowym."
+                                          },
+                                          {
+                                              "term":  "Malarstwo pejzażowe",
+                                              "definition":  "Specyficzne źródło graficzne wykorzystywane do analizy historycznego zagospodarowania przestrzennego i zmian krajobrazu, gdy brak innych danych, np. na podstawie obrazu Philipa Dombecka przedstawiającego Lublin w 1826 r."
+                                          },
+                                          {
+                                              "term":  "Badania terenowe",
+                                              "definition":  "Bezpośredni proces zbierania danych o środowisku przyrodniczym i społeczno-ekonomicznym w miejscu ich występowania, niezbędny np. przy pomiarach w Jaskini Kryształowej w Meksyku."
+                                          },
+                                          {
+                                              "term":  "Źródła elektroniczne",
+                                              "definition":  "Nowoczesne bazy danych i serwisy dostępne w internecie, umożliwiające szybki dostęp do bieżących informacji statystycznych, np. poprzez Bank Danych Lokalnych Głównego Urzędu Statystycznego."
+                                          },
+                                          {
+                                              "term":  "Źródła kartograficzne",
+                                              "definition":  "Uogólnione obrazy powierzchni Ziemi (mapy i plany), które dzięki zastosowaniu skali i odwzorowania pozwalają na analizę relacji przestrzennych oraz obliczanie odległości i powierzchni."
+                                          },
+                                          {
+                                              "term":  "Źródła multimedialne",
+                                              "definition":  "Złożone formy przekazu łączące tekst, obraz i dźwięk, takie jak aplikacje komputerowe typu Google Earth Pro, które umożliwiają wyświetlanie trójwymiarowych modeli zabudowy miast."
+                                          },
+                                          {
+                                              "term":  "Schematy i ilustracje",
+                                              "definition":  "Uproszczone graficzne formy prezentacji służące do wyjaśniania skomplikowanych procesów i zjawisk, których nie da się uchwycić na jednej fotografii, np. procesu przemieszczania się wydm."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Marco Polo „Opisanie świata”",
+                                                 "pair2":  "Historyczny opis Cejlonu (Sejlanu)"
+                                             },
+                                             {
+                                                 "pair1":  "Bank Danych Lokalnych",
+                                                 "pair2":  "Dane Głównego Urzędu Statystycznego"
+                                             },
+                                             {
+                                                 "pair1":  "Jaskinia Kryształowa",
+                                                 "pair2":  "Praca w temperaturze powyżej 57°C"
+                                             },
+                                             {
+                                                 "pair1":  "Google Earth Pro",
+                                                 "pair2":  "Trójwymiarowe modele zabudowy"
+                                             },
+                                             {
+                                                 "pair1":  "Wjazd generała Zajączka do Lublina",
+                                                 "pair2":  "Obraz Philipa Dombecka"
+                                             },
+                                             {
+                                                 "pair1":  "Zdjęcia satelitarne",
+                                                 "pair2":  "Regularne obrazowanie zmian środowiska"
+                                             },
+                                             {
+                                                 "pair1":  "Weryfikacja danych",
+                                                 "pair2":  "Analiza miejsca, czasu i metody zebrania"
+                                             },
+                                             {
+                                                 "pair1":  "Zdjęcia z powierzchni Ziemi",
+                                                 "pair2":  "Rejestracja szczegółów np. stanu dróg"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Które z wymienionych zestawów obejmują wyłącznie kartograficzne źródła informacji geograficznej?",
+                                      "options":  [
+                                                      "Atlasy geograficzne, plany miast, mapy topograficzne",
+                                                      "Podręczniki akademickie, encyklopedie, roczniki statystyczne",
+                                                      "Zdjęcia lotnicze, obrazy satelitarne, ortofotomapy",
+                                                      "Wykresy słupkowe, diagramy kołowe, tabele danych"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Do źródeł kartograficznych zalicza się mapy, plany oraz atlasy geograficzne, które są uogólnionym obrazem powierzchni Ziemi."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces teledetekcji wykorzystywany w badaniach geograficznych?",
+                                      "options":  [
+                                                      "Na bezpośrednim pomiarze cech środowiska w terenie za pomocą przyrządów",
+                                                      "Na wykonywaniu, przetwarzaniu i analizowaniu zdjęć lotniczych oraz satelitarnych",
+                                                      "Na tworzeniu symulacji komputerowych bez użycia rzeczywistych obrazów Ziemi",
+                                                      "Na gromadzeniu danych statystycznych w bankach danych urzędowych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Teledetekcja zajmuje się wykonywaniem, przetwarzaniem oraz analizą zdjęć lotniczych i satelitarnych w celu monitorowania środowiska."
+                                  },
+                                  {
+                                      "question":  "Jaką funkcję w badaniach geograficznych pełni malarstwo pejzażowe, takie jak obraz Philipa Dombecka przedstawiający wjazd do Lublina?",
+                                      "options":  [
+                                                      "Pozwala na precyzyjne obliczenie odległości między budynkami historycznymi",
+                                                      "Umożliwia analizę zmian zagospodarowania przestrzennego miasta w przeszłości",
+                                                      "Służy do dokładnego określenia ówczesnych warunków meteorologicznych",
+                                                      "Zastępuje mapy topograficzne w planowaniu współczesnych inwestycji"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dzieła sztuki, takie jak obraz Dombecka z 1826 r., są użyteczne do analizy historycznego zagospodarowania przestrzennego, gdy brak innych danych."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia ortofotomapę od surowego zdjęcia satelitarnego lub lotniczego?",
+                                      "options":  [
+                                                      "Przedstawia wyłącznie elementy środowiska przyrodniczego bez zabudowy",
+                                                      "Jest obrazem wykonanym w technologii trójwymiarowej wizualizacji terenu",
+                                                      "Posiada jednolitą skalę i jest wpasowana w układ współrzędnych geograficznych",
+                                                      "Została wykonana z poziomu powierzchni Ziemi, a nie z powietrza"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ortofotomapy tworzy się poprzez nadanie zdjęciom jednolitej skali i wpisanie ich w układ współrzędnych, co umożliwia dokonywanie pomiarów."
+                                  },
+                                  {
+                                      "question":  "W jakim celu w geografii wykorzystuje się schematy i ilustracje zamiast fotografii?",
+                                      "options":  [
+                                                      "Aby ukazać rzeczywisty, nieprzetworzony wygląd danego krajobrazu",
+                                                      "Aby wyjaśnić skomplikowane procesy, których nie da się ująć na jednym zdjęciu",
+                                                      "Aby zastąpić mapy w sytuacjach wymagających precyzyjnych pomiarów terenu",
+                                                      "Aby zaprezentować dokładne dane statystyczne w formie graficznej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Schematy wykorzystuje się do wyjaśniania zjawisk i procesów, których nie da się ukazać na fotografii, np. przemieszczania się wydm."
+                                  },
+                                  {
+                                      "question":  "Która instytucja w Polsce udostępnia oficjalne dane statystyczne w Banku Danych Lokalnych?",
+                                      "options":  [
+                                                      "Polskie Towarzystwo Geograficzne",
+                                                      "Instytut Meteorologii i Gospodarki Wodnej",
+                                                      "Główny Urząd Geodezji i Kartografii",
+                                                      "Główny Urząd Statystyczny"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Dane statystyczne, w tym te w Banku Danych Lokalnych, są udostępniane przez Główny Urząd Statystyczny (GUS)."
+                                  },
+                                  {
+                                      "question":  "Jakie ograniczenie posiadają zdjęcia wykonywane z powierzchni Ziemi w porównaniu do zdjęć lotniczych?",
+                                      "options":  [
+                                                      "Nie pozwalają na wykonywanie precyzyjnych pomiarów na dużych obszarach",
+                                                      "Nie rejestrują szczegółowych cech środowiska takich jak stan dróg",
+                                                      "Są zawsze czarno-białe i mają niską rozdzielczość obrazu",
+                                                      "Uniemożliwiają identyfikację rodzaju zabudowy w danej miejscowości"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Zdjęcia z powierzchni Ziemi dokładnie rejestrują cechy obszarów, ale nie pozwalają na wykonywanie precyzyjnych pomiarów, w przeciwieństwie do map czy ortofotomap."
+                                  },
+                                  {
+                                      "question":  "Dlaczego przy korzystaniu z historycznych źródeł tekstowych, takich jak „Opisanie świata” Marco Polo, zalecana jest ostrożność?",
+                                      "options":  [
+                                                      "Ponieważ dawni podróżnicy celowo fałszowali wszystkie dane geograficzne",
+                                                      "Ponieważ opisy te mogą zawierać błędy wynikające z ówczesnego stanu wiedzy",
+                                                      "Ponieważ teksty te są napisane w językach niemożliwych do przetłumaczenia",
+                                                      "Ponieważ nie zawierają one żadnych informacji o środowisku przyrodniczym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Należy zachować ostrożność, ponieważ dawne źródła mogą zawierać błędy, np. Marco Polo błędnie uznał Cejlon za największą wyspę świata."
+                                  },
+                                  {
+                                      "question":  "Które z poniższych działań jest przykładem bezpośredniego zbierania danych w terenie?",
+                                      "options":  [
+                                                      "Analiza rocznika statystycznego w bibliotece uniwersyteckiej",
+                                                      "Pomiar temperatury powietrza w Jaskini Kryształowej",
+                                                      "Przeglądanie zdjęć satelitarnych w serwisie Google Earth",
+                                                      "Czytanie opisu regionu w przewodniku turystycznym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zbieranie danych w terenie wymaga bezpośredniej obecności, np. speleolodzy mierzący temperaturę w Jaskini Kryształowej."
+                                  },
+                                  {
+                                      "question":  "Co jest kluczową zaletą aplikacji typu Google Earth Pro w kontekście źródeł multimedialnych?",
+                                      "options":  [
+                                                      "Możliwość wyświetlania trójwymiarowych modeli zabudowy miast",
+                                                      "Dostęp do danych statystycznych z lat przed naszą erą",
+                                                      "Automatyczne tworzenie papierowych map topograficznych",
+                                                      "Całkowite zastąpienie konieczności prowadzenia badań terenowych"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jedną z funkcji Google Earth Pro jest wyświetlanie realistycznych, trójwymiarowych modeli zabudowy miast, np. Warszawy."
+                                  },
+                                  {
+                                      "question":  "Który z parametrów weryfikacji danych geograficznych odnosi się do ryzyka ich dezaktualizacji?",
+                                      "options":  [
+                                                      "Gdzie zebrano dane (lokalizacja przestrzenna)",
+                                                      "Kiedy zebrano dane (czas pozyskania)",
+                                                      "Jak zebrano dane (metodologia badań)",
+                                                      "Kto zebrał dane (autor opracowania)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wiedza o tym, kiedy zebrano dane, jest kluczowa, ponieważ niektóre informacje, np. liczba ludności, szybko stają się nieaktualne."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób graficzne źródła informacji, takie jak zdjęcia satelitarne, wspierają monitorowanie środowiska?",
+                                      "options":  [
+                                                      "Pozwalają na jednorazowe uchwycenie stanu środowiska bez możliwości porównań",
+                                                      "Ukazują zmiany zachodzące w środowisku dzięki regularnemu obrazowaniu",
+                                                      "Służą wyłącznie do celów artystycznych i promowania walorów turystycznych",
+                                                      "Zastępują całkowicie opisy tekstowe w dokumentacji geologicznej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ponieważ zdjęcia satelitarne wykonuje się regularnie od kilkudziesięciu lat, ukazują one zmiany zachodzące w środowisku geograficznym."
+                                  },
+                                  {
+                                      "question":  "Czego dotyczy informacja o \u0027metodologii badań\u0027 podczas weryfikacji źródeł geograficznych?",
+                                      "options":  [
+                                                      "Określenia dokładnych współrzędnych geograficznych badanego obiektu",
+                                                      "Sprawdzenia, czy pomiary przebiegały zgodnie z zasadami badań geograficznych",
+                                                      "Ustalenia daty dziennej i godzinowej wykonania ostatniego pomiaru",
+                                                      "Zidentyfikowania instytucji finansującej prowadzone badania terenowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Weryfikacja \u0027jak zostały zebrane\u0027 oznacza sprawdzenie, czy pomiary przebiegały zgodnie z przyjętą metodologią badań geograficznych."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia źródła liczbowe od źródeł tekstowych w geografii?",
+                                      "options":  [
+                                                      "Źródła liczbowe zawierają subiektywne opinie podróżników",
+                                                      "Źródła liczbowe prezentują dane statystyczne uzyskane z pomiarów",
+                                                      "Źródła tekstowe są zawsze bardziej precyzyjne niż liczbowe",
+                                                      "Źródła tekstowe powstają wyłącznie w wyniku teledetekcji"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Źródła liczbowe dostarczają danych statystycznych (np. wartości temperatury), w przeciwieństwie do opisowych źródeł tekstowych."
+                                  },
+                                  {
+                                      "question":  "Który przykład najlepiej ilustruje konieczność weryfikacji danych ze względu na zmiany procesów naturalnych?",
+                                      "options":  [
+                                                      "Zmiana powierzchni wyspy Cejlon opisana w dziele Marco Polo",
+                                                      "Liczba turystów odwiedzających park narodowy w danym roku",
+                                                      "Wartość temperatury powietrza zmierzona w stacji meteo",
+                                                      "Współrzędne geograficzne stałego punktu osnowy geodezyjnej"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Przykład Cejlonu w dziele Marco Polo pokazuje, że zmiany powierzchni wyspy mogą wynikać ze skomplikowanych procesów geologicznych, co wymaga weryfikacji starych źródeł."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Weryfikacja parametru „gdzie zebrano dane” jest kluczowa dla oceny ich aktualności, ponieważ dane takie jak liczba ludności szybko się dezaktualizują.",
+                                           "answer":  false,
+                                           "explanation":  "Ryzyko dezaktualizacji danych (np. o liczbie ludności) dotyczy parametru czasu („kiedy je zebrano”), a nie lokalizacji."
+                                       },
+                                       {
+                                           "sentence":  "Ortofotomapa powstaje w wyniku nadania zdjęciom lotniczym lub satelitarnym jednolitej skali i wpasowania ich w układ współrzędnych geograficznych.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to poprawna definicja ortofotomapy, która dzięki temu procesowi umożliwia dokonywanie pomiarów."
+                                       },
+                                       {
+                                           "sentence":  "Obraz Philipa Dombecka „Wjazd generała Zajączka do Lublina” służy współcześnie do wykonywania precyzyjnych pomiarów geodezyjnych historycznej zabudowy.",
+                                           "answer":  false,
+                                           "explanation":  "Dzieła sztuki służą do analizy zagospodarowania przestrzennego i zmian krajobrazu, a nie do precyzyjnych pomiarów geodezyjnych."
+                                       },
+                                       {
+                                           "sentence":  "Marco Polo w swoim dziele „Opisanie świata” błędnie zidentyfikował wiatr północny jako przyczynę zmniejszenia się powierzchni wyspy Cejlon.",
+                                           "answer":  true,
+                                           "explanation":  "Marco Polo przypisał zmiany działaniu wiatru, podczas gdy współczesna nauka wskazuje na skomplikowane procesy geologiczne."
+                                       },
+                                       {
+                                           "sentence":  "Teledetekcja zajmuje się wykonywaniem i analizą zdjęć wykonanych wyłącznie z powierzchni Ziemi w celu rejestracji szczegółów takich jak stan dróg.",
+                                           "answer":  false,
+                                           "explanation":  "Teledetekcja zajmuje się zdjęciami lotniczymi i satelitarnymi; zdjęcia z powierzchni Ziemi to odrębna kategoria źródeł graficznych."
+                                       },
+                                       {
+                                           "sentence":  "Bank Danych Lokalnych, udostępniający szczegółowe dane statystyczne, jest serwisem prowadzonym przez Instytut Meteorologii i Gospodarki Wodnej.",
+                                           "answer":  false,
+                                           "explanation":  "Bank Danych Lokalnych jest serwisem Głównego Urzędu Statystycznego (GUS)."
+                                       },
+                                       {
+                                           "sentence":  "Schematy i ilustracje stosuje się w geografii do wyjaśniania procesów, których przebieg jest zbyt skomplikowany lub długotrwały, by uchwycić go na jednej fotografii.",
+                                           "answer":  true,
+                                           "explanation":  "Uproszczone formy graficzne (jak schemat ruchu wydm) lepiej trafiają do wyobraźni w przypadku złożonych zjawisk."
+                                       },
+                                       {
+                                           "sentence":  "Speleolodzy zbierający dane w Jaskini Kryształowej w Meksyku pracują w temperaturze nieprzekraczającej 0°C, co wymaga specjalistycznego sprzętu.",
+                                           "answer":  false,
+                                           "explanation":  "Badania w Jaskini Kryształowej prowadzone są w ekstremalnie wysokiej temperaturze, przekraczającej 57°C."
+                                       },
+                                       {
+                                           "sentence":  "Zdjęcia wykonywane z powierzchni Ziemi, w przeciwieństwie do lotniczych, pozwalają na wykonywanie precyzyjnych pomiarów odległości na dużych obszarach.",
+                                           "answer":  false,
+                                           "explanation":  "Zdjęcia z powierzchni Ziemi rejestrują detale, ale nie pozwalają na precyzyjne pomiary, które są domeną map i ortofotomap."
+                                       },
+                                       {
+                                           "sentence":  "Aplikacje komputerowe takie jak Google Earth Pro zaliczane są do źródeł multimedialnych, łączących tekst, obraz i dźwięk.",
+                                           "answer":  true,
+                                           "explanation":  "Źródła multimedialne to złożone formy przekazu (filmy, aplikacje), a Google Earth Pro jest ich przykładem."
+                                       },
+                                       {
+                                           "sentence":  "Opisy regionów w przewodnikach turystycznych stanowią główne źródło danych liczbowych wykorzystywanych do analiz statystycznych.",
+                                           "answer":  false,
+                                           "explanation":  "Przewodniki to źródła tekstowe; źródła liczbowe to zestawienia danych statystycznych z pomiarów i rejestracji."
+                                       },
+                                       {
+                                           "sentence":  "Weryfikacja metodologii („jak zostały zebrane”) jest konieczna, aby upewnić się, że pomiary przebiegały zgodnie z zasadami badań geograficznych.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to jeden z trzech kluczowych kroków weryfikacji informacji geograficznej wymienionych w podręczniku."
+                                       }
+                                   ]
+                 }
+}

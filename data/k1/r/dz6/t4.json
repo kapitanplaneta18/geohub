@@ -1,0 +1,391 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz6-t4",
+                     "unit":  "VI",
+                     "title":  "Rzeźbotwórcza działalność rzek",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Baza erozyjna",
+                                              "definition":  "Głębokość, do której rzeka może niszczyć podłoże; ogólną bazą jest poziom morza, a lokalną np. poziom ujścia do innej rzeki."
+                                          },
+                                          {
+                                              "term":  "Erozja wgłębna",
+                                              "definition":  "Proces polegający na żłobieniu dna rzeki przez niesiony materiał skalny, prowadzący do pogłębiania koryta, dominujący w górnym biegu."
+                                          },
+                                          {
+                                              "term":  "Dolina V-kształtna",
+                                              "definition":  "Dolina o wąskim dnie i stromych zboczach, powstająca w wyniku intensywnej erozji wgłębnej w górnym biegu rzeki. "
+                                          },
+                                          {
+                                              "term":  "Erozja wsteczna",
+                                              "definition":  "Proces podcinania progu skalnego (np. wodospadu) od dołu lub cofania się źródeł rzeki, co prowadzi do przesuwania się formy w górę cieku. "
+                                          },
+                                          {
+                                              "term":  "Kotły eworsyjne",
+                                              "definition":  "Cylindryczne zagłębienia w dnie rzeki pod wodospadem, wyżłobione przez rumowisko rzeczne w ruchu wirowym."
+                                          },
+                                          {
+                                              "term":  "Kaptaż rzeczny",
+                                              "definition":  "Zjawisko przejęcia wód jednej rzeki przez drugą (o większej sile erozyjnej) w wyniku erozji wstecznej przecinającej dział wodny."
+                                          },
+                                          {
+                                              "term":  "Erozja boczna",
+                                              "definition":  "Podmywanie brzegów rzeki, prowadzące do poszerzania dna doliny i powstawania zakoli, charakterystyczne dla środkowego biegu."
+                                          },
+                                          {
+                                              "term":  "Meandry (zakola)",
+                                              "definition":  "Pętle koryta rzeki powstające wskutek erozji brzegu wklęsłego i akumulacji materiału na brzegu wypukłym. "
+                                          },
+                                          {
+                                              "term":  "Starorzecze",
+                                              "definition":  "Jezioro powstające z odciętego od głównego nurtu zakola rzeki (meandru) po jego przerwaniu. "
+                                          },
+                                          {
+                                              "term":  "Aluwia",
+                                              "definition":  "Osady rzeczne nagromadzone na dnie rzeki lub przy jej brzegach w wyniku procesu akumulacji."
+                                          },
+                                          {
+                                              "term":  "Łachy śródkorytowe",
+                                              "definition":  "Piaszczyste wyspy wystające nieznacznie ponad poziom wody, tworzące się w miejscach wolniejszego przepływu w dolnym biegu rzeki."
+                                          },
+                                          {
+                                              "term":  "Delta",
+                                              "definition":  "Ujście rzeki rozgałęzione na liczne ramiona, powstające tam, gdzie morze jest płytkie i nie występują silne prądy usuwające osady."
+                                          },
+                                          {
+                                              "term":  "Estuarium (ujście lejkowe)",
+                                              "definition":  "Szerokie, lejkowate ujście rzeki, powstające w morzach o dużych pływach lub silnych prądach, które nie pozwalają na akumulację osadów."
+                                          },
+                                          {
+                                              "term":  "Delta wsteczna",
+                                              "definition":  "Forma powstająca w lagunie lub zalewie, narastająca w kierunku przeciwnym do spływu wód rzecznych w wyniku akumulacji materiału podczas sztormów (cofki)."
+                                          },
+                                          {
+                                              "term":  "Terasy rzeczne",
+                                              "definition":  "Fragmenty dawnego dna doliny w postaci schodów (terasy nadzalewowe), powstałe wskutek obniżenia bazy erozyjnej i ponownego wcięcia się rzeki."
+                                          },
+                                          {
+                                              "term":  "Przełom antecedentny",
+                                              "definition":  "Odcinek doliny wyżłobiony przez rzekę w powoli wypiętrzającym się paśmie górskim."
+                                          },
+                                          {
+                                              "term":  "Przełom epigenetyczny",
+                                              "definition":  "Przełom powstały, gdy rzeka wcięła się w skały osadowe, a następnie w twardsze podłoże pod nimi."
+                                          },
+                                          {
+                                              "term":  "Przełom odziedziczony",
+                                              "definition":  "Odcinek doliny wykorzystujący rynny, którymi dawniej płynęły wody roztopowe z lądolodu (np. przecinając moreny czołowe)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Erozja wsteczna",
+                                                 "pair2":  "Cofanie się progu wodospadu"
+                                             },
+                                             {
+                                                 "pair1":  "Bieg górny rzeki",
+                                                 "pair2":  "Duży spadek i dominacja erozji wgłębnej"
+                                             },
+                                             {
+                                                 "pair1":  "Bieg środkowy rzeki",
+                                                 "pair2":  "Dominacja erozji bocznej i powstawanie meandrów"
+                                             },
+                                             {
+                                                 "pair1":  "Bieg dolny rzeki",
+                                                 "pair2":  "Malejąca siła transportowa i akumulacja (tworzenie łach)"
+                                             },
+                                             {
+                                                 "pair1":  "Ujście lejkowe (estuarium)",
+                                                 "pair2":  "Garonna / Tamiza / Łaba"
+                                             },
+                                             {
+                                                 "pair1":  "Ujście deltowe",
+                                                 "pair2":  "Wisła / Nil / Amazonka / Wołga"
+                                             },
+                                             {
+                                                 "pair1":  "Brzeg wklęsły zakola",
+                                                 "pair2":  "Erozja i podcinanie brzegu przez nurt"
+                                             },
+                                             {
+                                                 "pair1":  "Brzeg wypukły zakola",
+                                                 "pair2":  "Akumulacja osadów rzecznych"
+                                             },
+                                             {
+                                                 "pair1":  "Obniżenie bazy erozyjnej",
+                                                 "pair2":  "Powstawanie teras rzecznych (nadzalewowych)"
+                                             },
+                                             {
+                                                 "pair1":  "Kaptaż",
+                                                 "pair2":  "Przecięcie działu wodnego i przejęcie innej rzeki"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Z jakich dwóch podstawowych elementów składa się łożysko rzeki w jej dolinie?",
+                                      "options":  [
+                                                      "Z koryta rzeki i teras zalewowych",
+                                                      "Z koryta rzeki i teras nadzalewowych",
+                                                      "Z nurtu głównego rzeki oraz piaszczystych łach śródkorytowych występujących w dolnym biegu",
+                                                      "Z licznych rozwiniętych meandrów oraz izolowanych starorzeczy wypełnionych wodą"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Łożysko rzeki obejmuje koryto rzeki oraz terasy zalewowe, na które rozlewa się woda w czasie wezbrań."
+                                  },
+                                  {
+                                      "question":  "Jaki kształt profilu poprzecznego doliny jest charakterystyczny dla górnego biegu rzeki, gdzie dominuje erozja wgłębna?",
+                                      "options":  [
+                                                      "Kształt litery U charakterystyczny dla dolin przemodelowanych przez lodowce górskie",
+                                                      "Kształt litery V",
+                                                      "Płaskodenny profil doliny wypełnionej grubą warstwą osadów rzecznych",
+                                                      "Asymetryczny profil z meandrami i wyraźnie zaznaczonym nurtem"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W górnym biegu rzeki, wskutek silnej erozji wgłębnej, dolina przyjmuje kształt litery V (ma wąskie dno i strome zbocza)."
+                                  },
+                                  {
+                                      "question":  "Czym jest baza erozyjna rzeki?",
+                                      "options":  [
+                                                      "Charakterystycznym miejscem na profilu podłużnym, gdzie rzeka bierze swój początek ze źródeł szczelinowych",
+                                                      "Poziomem zwierciadła wód podziemnych zasilających dany ciek wodny w sposób ciągły",
+                                                      "Głębokością, do której rzeka może niszczyć podłoże",
+                                                      "Maksymalnym kulminacyjnym stanem wody odnotowanym podczas wezbrania katastrofalnego"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Baza erozyjna to głębokość, do której rzeki mogą niszczyć podłoże; za ogólną bazą przyjmuje się poziom morza."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych rzek kończy swój bieg ujściem typu delta?",
+                                      "options":  [
+                                                      "Tamiza",
+                                                      "Garonna",
+                                                      "Rzeka Świętego Wawrzyńca",
+                                                      "Wisła"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Rzekami, które utworzyły delty, są na przykład Wisła, Missisipi, Amazonka czy Wołga."
+                                  },
+                                  {
+                                      "question":  "Jaki typ ujścia powstaje, gdy rzeka wpada do morza o dużych pływach, które wynoszą osady w głąb morza?",
+                                      "options":  [
+                                                      "Delta",
+                                                      "Estuarium",
+                                                      "Delta wsteczna",
+                                                      "Fiord"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Estuarium (ujście lejkowate) powstaje, gdy rzeka uchodzi do morza, w którym występują duże pływy lub prądy przybrzeżne niepozwalające na akumulację osadów."
+                                  },
+                                  {
+                                      "question":  "Jak nazywają się piaszczyste wyspy tworzące się w korycie rzeki w jej dolnym biegu wskutek akumulacji?",
+                                      "options":  [
+                                                      "Terasy nadzalewowe",
+                                                      "Łachy śródkorytowe",
+                                                      "Starorzecza",
+                                                      "Stożki napływowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W dolnym biegu rzeki, gdzie woda płynie wolniej, tworzą się łachy śródkorytowe, czyli piaszczyste wyspy."
+                                  },
+                                  {
+                                      "question":  "W której części zakola rzecznego (meandru) nurt wody jest najszybszy i jaki proces tam zachodzi?",
+                                      "options":  [
+                                                      "Przy brzegu wewnętrznym (wypukłym) – zachodzi akumulacja",
+                                                      "Przy brzegu zewnętrznym (wklęsłym) – zachodzi erozja boczna",
+                                                      "Na środku koryta rzeki, gdzie następuje proces intensywnej erozji wgłębnej",
+                                                      "Przy brzegu zewnętrznym zakola, gdzie prąd rzeki sprzyja akumulacji materiału"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nurt rzeki jest najszybszy przy brzegu zewnętrznym, co powoduje podcinanie brzegu (erozję boczną), podczas gdy przy drugim brzegu następuje akumulacja."
+                                  },
+                                  {
+                                      "question":  "Jaki jest bezpośredni mechanizm powstawania starorzecza?",
+                                      "options":  [
+                                                      "Gwałtowne obniżenie bazy erozyjnej rzeki skutkujące intensywnym wcinaniem się nurtu i powstaniem teras rzecznych",
+                                                      "Systematyczne zasypywanie głównego koryta przez materiał piaszczysty pochodzący z pobliskich wydm śródlądowych",
+                                                      "Przerwanie szyi meandru i odcięcie zakola od głównego koryta",
+                                                      "Cofanie się progu skalnego wodospadu w kierunku źródeł wskutek niszczącej działalności erozji wstecznej"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Erozja boczna prowadzi do zwężenia szyi meandru, aż do jej przerwania; oderwane od głównego koryta zakole staje się starorzeczem."
+                                  },
+                                  {
+                                      "question":  "Jaki warunek musi zostać spełniony, aby powstała delta rzeczna?",
+                                      "options":  [
+                                                      "Akwen morski musi cechować się znaczną głębokością oraz występowaniem intensywnych prądów zawiesinowych",
+                                                      "Ciek rzeczny musi uchodzić bezpośrednio do otwartego oceanu charakteryzującego się potężnymi pływami",
+                                                      "Morze musi być płytkie i nie mogą w nim występować silne prądy przybrzeżne",
+                                                      "Rzeka musi wykazywać bardzo mały przepływ i transportować znikomą ilość osadów mineralnych"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Delta tworzy się tam, gdzie morze jest płytkie i nie występują w nim silne prądy przybrzeżne, dzięki czemu rzeka przynosi więcej materiału, niż mogą usunąć fale."
+                                  },
+                                  {
+                                      "question":  "Czym różni się erozja boczna od erozji wgłębnej?",
+                                      "options":  [
+                                                      "Erozja boczna powoduje systematyczne pogłębianie profilu podłużnego, podczas gdy wgłębna rozszerza stoki doliny",
+                                                      "Erozja boczna prowadzi do meandrowania i poszerzania doliny, a wgłębna do pogłębiania koryta",
+                                                      "Erozja boczna występuje wyłącznie w odcinku źródłowym rzeki, a wgłębna dominuje w strefie ujściowej",
+                                                      "Erozja boczna formuje progi skalne i wodospady, natomiast wgłębna inicjuje powstanie teras nadzalewowych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Erozja wgłębna pogłębia koryto (tworząc doliny V-kształtne), natomiast erozja boczna poszerza dno doliny i prowadzi do powstawania zakoli."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają kotły eworsyjne w korycie rzeki?",
+                                      "options":  [
+                                                      "Poprzez selektywne osadzanie najgrubszych frakcji materiału skalnego na dnie koryta rzecznego",
+                                                      "Wskutek wirowego ruchu wody z rumowiskiem u podnóża wodospadu",
+                                                      "Przez intensywne podcinanie brzegów w obrębie rozwiniętych zakoli rzecznych w biegu środkowym",
+                                                      "W wyniku chemicznego rozpuszczania skał wapiennych przez agresywną wodę rzeczną"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kotły eworsyjne to zagłębienia wyżłobione przez rumowisko rzeczne obracające się w wirach wodnych, np. poniżej progu wodospadu."
+                                  },
+                                  {
+                                      "question":  "Co to jest kaptaż rzeczny?",
+                                      "options":  [
+                                                      "Dynamiczny proces zamykania i zasypywania ujściowego odcinka rzeki przez piaski transportowane prądem morskim",
+                                                      "Przejęcie wód jednej rzeki przez drugą wskutek erozji wstecznej",
+                                                      "Gwałtowne i katastrofalne wezbranie wód rzecznych następujące po nagłych wiosennych roztopach w górach",
+                                                      "Proces odcięcia zakola od nurtu rzeki prowadzący do powstania starorzecza o stojącej wodzie"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kaptaż zachodzi, gdy rzeka wskutek erozji wstecznej przecina dział wodny i przejmuje wody innej rzeki o mniejszej sile erozyjnej."
+                                  },
+                                  {
+                                      "question":  "Gdzie i w jaki sposób powstaje delta wsteczna?",
+                                      "options":  [
+                                                      "W strefie przełomu rzecznego w biegu górnym, wskutek nagłej akumulacji grubych frakcji głazów i bloków",
+                                                      "W lagunie lub zalewie, narastając w kierunku przeciwnym do spływu rzeki wskutek wlewu wód morskich",
+                                                      "Na obszarze szelfu kontynentalnego, gdzie dominują najbardziej intensywne prądy zawiesinowe i przybrzeżne",
+                                                      "W miejscu przerwania wału przeciwpowodziowego przez wezbraną rzekę podczas powodzi katastrofalnej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Delta wsteczna tworzy się w wyniku akumulacji materiału nanoszonego podczas sztormów (cofka), gdy wody morskie wpływają do zalewu (np. na Świnie)."
+                                  },
+                                  {
+                                      "question":  "Na czym polega erozja wsteczna w obrębie wodospadu?",
+                                      "options":  [
+                                                      "Woda podcina próg skalny od dołu, co powoduje obrywanie się jego górnej części i cofanie wodospadu",
+                                                      "Nurt rzeki systematycznie nadbudowuje próg skalny osadami twardymi, co skutkuje przesuwaniem wodospadu w stronę ujścia",
+                                                      "Dynamicznie płynąca woda żłobi koryto wyłącznie na krawędzi górnej progu, pozostawiając jego podstawę nienaruszoną",
+                                                      "Woda bocznie podcina brzegi koryta wokół wodospadu, co prowadzi do jego znacznego poszerzenia"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Opadająca woda podcina próg skalny od dołu; w efekcie górna część progu obrywa się, a cały wodospad się cofa."
+                                  },
+                                  {
+                                      "question":  "Co determinuje dużą zdolność transportową rzeki w jej górnym biegu mimo mniejszej ilości wody?",
+                                      "options":  [
+                                                      "Powszechne występowanie drobnoziarnistego dna piaszczystego w obrębie całego profilu doliny",
+                                                      "Duży spadek rzeki i znaczna prędkość nurtu",
+                                                      "Obecność rozległej i płaskiej doliny zalewowej ograniczającej siłę transportową nurtu",
+                                                      "Całkowity brak jakiegokolwiek materiału skalnego w nienaruszonym korycie rzeki"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Górny odcinek rzeki odznacza się dużym spadkiem, dzięki czemu woda płynie ze znaczną prędkością i może transportować nawet duże głazy."
+                                  },
+                                  {
+                                      "question":  "Jaki proces geomorfologiczny zostaje zainicjowany przez obniżenie bazy erozyjnej rzeki?",
+                                      "options":  [
+                                                      "Proces intensywnej akumulacji rumowiska prowadzący do systematycznego podnoszenia dna doliny rzecznej",
+                                                      "Całkowity zanik procesów niszczących oraz długotrwała stagnacja wód rzecznych w korycie",
+                                                      "Nasilenie erozji wgłębnej i powstanie teras rzecznych",
+                                                      "Selektywne poszerzenie koryta rzecznego bez żadnej zmiany jego pierwotnej głębokości"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Obniżenie bazy erozyjnej nasila erozję wgłębną; rzeka rozcina podłoże, a fragmenty starego dna stają się terasami nadzalewowymi."
+                                  },
+                                  {
+                                      "question":  "Jak powstaje przełom rzeki typu antecedentnego?",
+                                      "options":  [
+                                                      "Rzeka wcina się głęboko w podłoże skalne, które pierwotnie było całkowicie przykryte miąższymi osadami jeziornymi",
+                                                      "Rzeka żłobi dolinę w górach wypiętrzających się powoli na obszarze jej przepływu",
+                                                      "Gwałtowne wody roztopowe wypływające z lądolodu z dużą siłą przecinają wał moreny czołowej na jego zapleczu",
+                                                      "Rzeka omija nagłą przeszkodę tektoniczną, tworząc gwałtowny zakręt o charakterze meandrowym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przełom antecedentny powstaje, gdy rzeka żłobi dolinę w górach, które powoli wypiętrzają się na obszarze, przez który rzeka płynie."
+                                  },
+                                  {
+                                      "question":  "Co jest charakterystyczną cechą profilu podłużnego rzeki w miejscu występowania skał bardziej odpornych na erozję?",
+                                      "options":  [
+                                                      "Powstanie głębokich przegłębień o charakterze kotłów eworsyjnych",
+                                                      "Utworzenie progów skalnych i wodospadów",
+                                                      "Gwałtowne rozszerzenie dna doliny i drastyczny spadek prędkości nurtu wody",
+                                                      "Całkowity zanik wyraźnego koryta i wsiąkanie wody rzecznej w podłoże"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Tam, gdzie rzeka napotyka bardziej odporne skały, tworzą się wodospady – strome progi, z których woda spada."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Erozja wsteczna jest procesem charakterystycznym dla dolnego biegu rzeki, gdzie woda płynie wolno i dominuje akumulacja.",
+                                           "answer":  false,
+                                           "explanation":  "Erozja wsteczna zachodzi m.in. przy wodospadach i progach skalnych, które są typowe dla górnego biegu rzeki, a nie dolnego."
+                                       },
+                                       {
+                                           "sentence":  "W obrębie zakola rzecznego (meandru) akumulacja niesionego materiału zachodzi intensywnie przy brzegu wklęsłym.",
+                                           "answer":  false,
+                                           "explanation":  "Brzeg wklęsły jest niszczony (podcinany) przez nurt, natomiast akumulacja materiału zachodzi przy brzegu wypukłym."
+                                       },
+                                       {
+                                           "sentence":  "Estuarium (ujście lejkowe) powstaje w miejscu, gdzie rzeka przynosi więcej materiału skalnego, niż mogą usunąć fale i prądy przybrzeżne.",
+                                           "answer":  false,
+                                           "explanation":  "Taki opis dotyczy powstawania delty; estuarium tworzy się, gdy prądy i pływy usuwają osady, nie pozwalając na ich akumulację."
+                                       },
+                                       {
+                                           "sentence":  "Podniesienie poziomu bazy erozyjnej (np. poziomu morza) powoduje nasilenie erozji wgłębnej i ponowne rozcinanie dna doliny przez rzekę.",
+                                           "answer":  false,
+                                           "explanation":  "To obniżenie bazy erozyjnej nasila erozję wgłębną; podniesienie bazy sprzyja osłabieniu erozji i akumulacji."
+                                       },
+                                       {
+                                           "sentence":  "Saltacja to sposób transportu, w którym najdrobniejszy materiał (np. pył) utrzymuje się w powietrzu przez dłuższy czas w formie zawiesiny.",
+                                           "answer":  false,
+                                           "explanation":  "Opis ten dotyczy suspensji; saltacja polega na cyklicznym odrywaniu się materiału od podłoża i jego transporcie przez skoki."
+                                       },
+                                       {
+                                           "sentence":  "Doliny U-kształtne o płaskim dnie i stromych zboczach powstają w wyniku erozyjnej działalności lodowców górskich.",
+                                           "answer":  true,
+                                           "explanation":  "Lodowce górskie przekształcają doliny rzeczne, nadając im profil poprzeczny w kształcie litery U."
+                                       },
+                                       {
+                                           "sentence":  "Proces krasowienia polega na rozpuszczaniu skał, takich jak wapienie, przez wodę zawierającą dwutlenek węgla.",
+                                           "answer":  true,
+                                           "explanation":  "Woda z rozpuszczonym dwutlenkiem węgla tworzy kwas węglowy, który reaguje ze skałami węglanowymi."
+                                       },
+                                       {
+                                           "sentence":  "Bruk deflacyjny to pokrywa złożona z grubszego materiału skalnego, powstała wskutek wywiewania piasku i pyłu przez wiatr.",
+                                           "answer":  true,
+                                           "explanation":  "Deflacja usuwa drobny materiał, pozostawiając na powierzchni cięższe fragmenty skalne, tworzące bruk."
+                                       },
+                                       {
+                                           "sentence":  "Platforma abrazyjna to lekko nachylona powierzchnia powstająca u podnóża klifu w wyniku niszczącej działalności fal morskich.",
+                                           "answer":  true,
+                                           "explanation":  "Cofanie się klifu podcinanego przez fale prowadzi do wytworzenia płaskiej powierzchni zwanej platformą abrazyjną."
+                                       },
+                                       {
+                                           "sentence":  "Spełzywanie jest powolnym procesem przesuwania się zwietrzeliny w dół stoku, którego efektem mogą być pochylone pnie drzew.",
+                                           "answer":  true,
+                                           "explanation":  "Spełzywanie zachodzi na stokach o niewielkim nachyleniu i jest procesem długotrwałym."
+                                       },
+                                       {
+                                           "sentence":  "W górnym biegu rzeki, w wyniku intensywnej erozji wgłębnej, kształtują się doliny o profilu poprzecznym przypominającym literę V.",
+                                           "answer":  true,
+                                           "explanation":  "Woda w górnym biegu silnie żłobi dno, co prowadzi do powstania doliny V-kształtnej o stromych zboczach."
+                                       },
+                                       {
+                                           "sentence":  "Sandry to wały osadów morenowych biegnące wzdłuż zboczy doliny, utworzone wskutek wytapiania się materiału na bokach jęzora lodowcowego.",
+                                           "answer":  false,
+                                           "explanation":  "Opis dotyczy moreny bocznej; sandry to stożki napływowe zbudowane ze żwirów i piasków, powstałe na przedpolu lądolodu."
+                                       }
+                                   ]
+                 }
+}

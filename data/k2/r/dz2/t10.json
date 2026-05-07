@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t10",
+    "title": "Rozwój sieci osadniczej na świecie",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Osadnictwo",
+        "definition": "Proces długotrwałego osiedlania się ludności na określonym terenie."
+      },
+      {
+        "term": "Jednostki osadnicze",
+        "definition": "Różne formy osadnictwa (m.in. wsie i miasta), które połączone liniami komunikacyjnymi tworzą sieci osadnicze."
+      },
+      {
+        "term": "Sieć osadnicza",
+        "definition": "Zbiór jednostek osadniczych powiązanych liniami komunikacyjnymi na określonym obszarze."
+      },
+      {
+        "term": "Wsie",
+        "definition": "Jednostki osadnicze zamieszkiwane tradycyjnie przez ludność zajmującą się rolnictwem."
+      },
+      {
+        "term": "Miasta",
+        "definition": "Jednostki osadnicze, w których ludność prowadzi głównie działalność pozarolniczą."
+      },
+      {
+        "term": "Kontinuum miejsko-wiejskie",
+        "definition": "Strefy przejściowe powstające wskutek zacierania się wyraźnych granic i różnic między miastem a wsią."
+      },
+      {
+        "term": "Zagroda",
+        "definition": "Tradycyjna wiejska zabudowa, składająca się z budynków gospodarczych i mieszkalnych."
+      },
+      {
+        "term": "Przyrodnicze czynniki osadnictwa",
+        "definition": "Uwarunkowania lokalizacji osad, m.in. żyzność gleb, dostęp do słodkiej wody czy dogodne ukształtowanie terenu."
+      },
+      {
+        "term": "Gospodarcze czynniki osadnictwa",
+        "definition": "Uwarunkowania rozwoju sieci osadniczej, takie jak rozwój handlu, przemysłu oraz stan infrastruktury transportowej."
+      },
+      {
+        "term": "Społeczno-kulturowe czynniki osadnictwa",
+        "definition": "Czynniki kształtujące sieć osadniczą, do których należą m.in. obecność miejsc kultu religijnego i walory turystyczne."
+      },
+      {
+        "term": "Polityczne czynniki osadnictwa",
+        "definition": "Uwarunkowania rozwoju miast wynikające m.in. z pełnienia funkcji obronnych lub administracyjnych (np. stolic państw)."
+      },
+      {
+        "term": "Kryterium nadania praw miejskich",
+        "definition": "Prawne kryterium stosowane w Polsce, decydujące o oficjalnym uznaniu jednostki osadniczej za miasto."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Obecność żyznych gleb, surowców mineralnych oraz dostęp do wód rzecznych",
+        "pair2": "Przyrodniczy czynnik lokalizacji jednostek osadniczych"
+      },
+      {
+        "pair1": "Lokalizacja wzdłuż szlaków komunikacyjnych oraz rozwój usług i przemysłu",
+        "pair2": "Gospodarczy czynnik lokalizacji jednostek osadniczych"
+      },
+      {
+        "pair1": "Pełnienie przez ośrodek funkcji administracyjnych, stołecznych lub obronnych",
+        "pair2": "Społeczno-polityczny czynnik lokalizacji jednostek osadniczych"
+      },
+      {
+        "pair1": "Gęstość zaludnienia (np. w UE mniej niż 100 os./km2)",
+        "pair2": "Kryterium stosowane do wyróżniania obszarów wiejskich przez międzynarodowe instytucje"
+      },
+      {
+        "pair1": "Kontinuum miejsko-wiejskie",
+        "pair2": "Strefa przejściowa, w której wieś zatraca swój typowo rolniczy charakter"
+      },
+      {
+        "pair1": "Osadnictwo",
+        "pair2": "Proces zmieniania przez człowieka wędrownego trybu życia na osiadły"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Pojęcie oznaczające historyczny proces zmieniania wędrownego trybu życia na tryb osiadły to:",
+        "options": [
+          "Zjawisko eksplozji miast",
+          "Proces rozwoju osadnictwa",
+          "Rozwój ciągów komunikacji",
+          "Tworzenie się megalopolis"
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z tekstem, proces zmieniania koczowniczego trybu życia na osiadły i długotrwałe osiedlanie się ludności to osadnictwo."
+      },
+      {
+        "question": "Na jakie dwie główne grupy dzieli się historycznie jednostki osadnicze na podstawie struktury zatrudnienia i typu zabudowy?",
+        "options": [
+          "Obszary metropolitalne i dawne kolonie",
+          "Wielkie aglomeracje i małe miasteczka",
+          "Wsie i zróżnicowane jednostki miejskie",
+          "Strefy rekreacyjne oraz wielkie porty"
+        ],
+        "answer": "C",
+        "explanation": "W oparciu o kryteria zatrudnienia (rolnicze vs pozarolnicze) oraz zabudowy, wyróżnia się wsie i miasta."
+      },
+      {
+        "question": "Jaka cecha jest tradycyjnie postrzegana jako wyróżnik dla jednostek osadniczych definiowanych w geografii jako wsie?",
+        "options": [
+          "Powszechna dominacja działalności rolniczej",
+          "Koncentracja wielkich biurowców korporacji",
+          "Funkcjonowanie ogromnych węzłów transportu",
+          "Otwieranie nowoczesnych parków technologii"
+        ],
+        "answer": "A",
+        "explanation": "Wsie to tradycyjnie jednostki osadnicze zamieszkiwane przez ludność, której główną działalnością jest rolnictwo."
+      },
+      {
+        "question": "Jakie formalne kryterium jest stosowane najczęściej w Polsce w celu oficjalnego zakwalifikowania danej osady jako miasta?",
+        "options": [
+          "Znaczne skupienie placówek dyplomatycznych",
+          "Uroczyste i formalne nadanie praw miejskich",
+          "Zbudowanie fabryki przemysłu przetwórczego",
+          "Otwarcie wielkich międzynarodowych lotnisk"
+        ],
+        "answer": "B",
+        "explanation": "W Polsce o statusie miasta nie decyduje wyłącznie liczba mieszkańców (np. Opatowiec), ale prawne i oficjalne nadanie praw miejskich."
+      },
+      {
+        "question": "Który spośród wymienionych warunków jest zaliczany do kluczowych przyrodniczych czynników rozwoju sieci osadniczych?",
+        "options": [
+          "Obecność wyjątkowo żyznych i urodzajnych gleb",
+          "Centralne umiejscowienie na szlakach transportu",
+          "Występowanie ogromnego zaplecza dla turystyki",
+          "Systematyczne realizowanie funkcji politycznych"
+        ],
+        "answer": "A",
+        "explanation": "Żyzność gleb, obok ukształtowania terenu czy dostępu do słodkiej wody, stanowi bezpośredni przyrodniczy czynnik osadnictwa."
+      },
+      {
+        "question": "Które zjawisko odpowiada procesowi zacierania się widocznych granic i różnic między funkcjonowaniem terenów miejskich a wsi?",
+        "options": [
+          "Powstawanie stref przejściowych blisko miast",
+          "Masowe wyburzanie starych zakładów przemysłu",
+          "Ciągłe wyludnianie zabytkowych centrów handlu",
+          "Szybkie przekształcanie nieużytków w rolnicze"
+        ],
+        "answer": "A",
+        "explanation": "Zjawisko to określane jest mianem kontinuum miejsko-wiejskiego, a strefy wokół miast często zatracają swój tradycyjnie wiejski charakter."
+      },
+      {
+        "question": "Z jakiego powodu w zamierzchłych epokach najwcześniejsze ośrodki miejskie lokalizowano na trudno dostępnych wzniesieniach?",
+        "options": [
+          "Gwarancja wyjątkowej ochrony przed napaścią",
+          "Szybki rozwój regionalnych szlaków dla handlu",
+          "Utrzymanie bezpieczeństwa przed powodzią rzek",
+          "Łatwy i szybki dostęp do głębokich złóż węgla"
+        ],
+        "answer": "A",
+        "explanation": "Początkowo kluczową funkcją wielu miast była funkcja obronna, dlatego ich lokacja (np. na wzgórzach) miała ułatwić ochronę przed wrogami."
+      },
+      {
+        "question": "Jakie historyczne zmiany gospodarcze wpłynęły kluczowo na ewolucję i powstawanie nowych miast na przełomie XVIII i XIX stulecia?",
+        "options": [
+          "Szerokie udostępnienie ośrodków dla turystów",
+          "Gwałtowny rozwój przemysłu w tym kopalnictwa",
+          "Tworzenie międzynarodowych węzłów autostrad",
+          "Dynamiczne powstawanie nowych uniwersytetów"
+        ],
+        "answer": "B",
+        "explanation": "Rewolucja przemysłowa wywołała powstawanie ośrodków miejskich w rejonach eksploatacji surowców mineralnych, rozwijając rzemiosło w fabryki."
+      },
+      {
+        "question": "Które aglomeracje są klasycznymi przykładami dynamicznego rozwoju sieci osadniczej w oparciu o rewolucję przemysłową i wydobycie?",
+        "options": [
+          "Stare historyczne miasta jak Kraków i Mediolan",
+          "Miasta takie jak Ruda Śląska i polskie Katowice",
+          "Ośrodki władzy jak Warszawa i kanadyjska Ottawa",
+          "Kurorty zimowe takie jak Zakopane oraz Chamonix"
+        ],
+        "answer": "B",
+        "explanation": "Na przykład Katowice, Ruda Śląska (a także Łódź i Manchester) to miasta, których ekspansja opierała się na funkcjach przemysłowych."
+      },
+      {
+        "question": "Jaka jest kluczowa przyczyna depopulacji bardzo wielu wiosek oddalonych w znacznej mierze od dynamicznie prosperujących aglomeracji?",
+        "options": [
+          "Lokalna administracja ogranicza ruch budowlany",
+          "Objęto te obszary specjalnymi formami ochrony",
+          "Młodzi mieszkańcy wyjeżdżają stamtąd za pracą",
+          "Rządy stosują aktywne programy relokacji ludzi"
+        ],
+        "answer": "C",
+        "explanation": "Wsie położone daleko od miast i głównych szlaków tracą ludność przede wszystkim ze względu na migrację zarobkową ludzi młodych."
+      },
+      {
+        "question": "Które z podanych ról gospodarczych i funkcjonalnych najsilniej i najszybciej rozwijają się współcześnie we wsiach podmiejskich?",
+        "options": [
+          "Funkcje obronne państwa i wielkie zakłady militarne",
+          "Nowoczesne osiedla mieszkalne i zaplecza logistyki",
+          "Wyłącznie tradycyjne ośrodki przemysłu ciężkiego",
+          "Wielkoobszarowe tereny uprawne o cechach plantacji"
+        ],
+        "answer": "B",
+        "explanation": "Współczesne wsie ulegają transformacji, przejmując funkcje rezydencjalne (sypialnie miejskie) oraz usługowe i logistyczne, w tym strefy magazynowe."
+      },
+      {
+        "question": "Na jakiej podstawie można w sposób najbardziej logiczny wytłumaczyć występowanie stosunkowo rzadkiej sieci osadniczej na terenach Syberii?",
+        "options": [
+          "Surowe bariery klimatyczne i ograniczenia przyrodnicze",
+          "Powszechne wprowadzanie zamkniętych stref wojskowych",
+          "Niezwykle wysoki odsetek rolnictwa w gospodarce kraju",
+          "Dynamiczny rozwój innowacyjnych kompleksów logistyki"
+        ],
+        "answer": "A",
+        "explanation": "Obszary w dużej mierze odosobnione lub posiadające niesprzyjający klimat (jak Syberia) ograniczają gęstość osadnictwa poprzez barierę osadniczą."
+      },
+      {
+        "question": "Czym charakteryzują się największe współczesne miasta, które z powodu swojej złożonej struktury określa się pojęciem miast poligenetycznych?",
+        "options": [
+          "Pełnią one współcześnie bardzo wiele różnych ról i funkcji",
+          "Zyskały prestiżowe miano stolic dla dziedzictwa ludzkości",
+          "Zostały wchłonięte przez okoliczne bardzo duże megalopolis",
+          "Skupiły na swoich terenach ponad połowę populacji regionu"
+        ],
+        "answer": "A",
+        "explanation": "Wielofunkcyjność (poligenetyczność) miast polega na jednoczesnym odgrywaniu wielu kluczowych ról: handlowej, turystycznej, transportowej, usługowej, edukacyjnej itd."
+      },
+      {
+        "question": "Jakiego kryterium używają w praktyce znane instytucje, takie jak chociażby organizacja OECD, do statystycznego wydzielania obszarów wiejskich?",
+        "options": [
+          "Klasyfikują terytoria na podstawie rzeźby i cech krajobrazu",
+          "Wykorzystują głównie kryterium oparte na gęstości zaludnienia",
+          "Zwracają uwagę jedynie na oficjalnie nadane prawa dla miast",
+          "Skupiają się na dominacji sektora usługowego w danej gminie"
+        ],
+        "answer": "B",
+        "explanation": "Instytucje międzynarodowe, m.in. OECD, korzystają z kryteriów mierzalnych ilościowo, takich jak gęstość zaludnienia (np. poniżej 150 os./km2 to wieś)."
+      },
+      {
+        "question": "Które z wymienionych zjawisk o charakterze historycznym przyczyniło się do wyraźnego ukształtowania klasycznych funkcji transportowych w miastach?",
+        "options": [
+          "Szybki rozwój szlaków przeznaczonych dla lotnictwa cywilnego",
+          "Masowa rozbudowa linii transportu publicznego w metropoliach",
+          "Powstawanie szlaków do masowej wymiany handlowej i rzemiosła",
+          "Zakładanie ogromnych centrów rozrywki oraz turystyki masowej"
+        ],
+        "answer": "C",
+        "explanation": "Dawne osady lokowane wzdłuż najważniejszych traktów zyskiwały status węzłów handlowych, a z czasem przeradzały się w potężne centra transportu drogowego czy rzecznego."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "W początkowym etapie rozwoju osadnictwa na świecie najważniejszą rolę odgrywały czynniki gospodarcze, takie jak rozwój przemysłu fabrycznego i zintegrowanych węzłów transportowych.",
+        "answer": false,
+        "explanation": "Początkowo najważniejszą rolę odgrywały czynniki przyrodnicze, a pierwsze miasta lokalizowano tam, gdzie warunki naturalne i obronne były korzystne. Czynniki gospodarcze, takie jak rozwój przemysłu, stały się kluczowe znacznie później, na przełomie XVIII i XIX wieku."
+      },
+      {
+        "sentence": "W Polsce o zakwalifikowaniu jednostki osadniczej do kategorii miast decyduje wyłącznie kryterium demograficzne, czyli przekroczenie progu określonej liczby mieszkańców.",
+        "answer": false,
+        "explanation": "W Polsce stosuje się kryterium formalno-prawne. Za miasto uznaje się jednostkę osadniczą, której oficjalnie nadano prawa miejskie, niezależnie od liczby ludności (czego przykładem jest Opatowiec)."
+      },
+      {
+        "sentence": "Współcześnie wszystkie wsie w państwach wysoko rozwiniętych gospodarczo wyludniają się w szybkim tempie ze względu na spadek znaczenia rolnictwa jako źródła utrzymania.",
+        "answer": false,
+        "explanation": "Wyludnianie dotyczy głównie wsi oddalonych od dużych ośrodków. Wsie położone przy głównych szlakach i blisko miast rozwijają się, zyskując nowe funkcje (np. rezydencjalne czy usługowe) i często pełniąc rolę miejskich sypialni."
+      },
+      {
+        "sentence": "Zjawisko polegające na zacieraniu się widocznych różnic w zabudowie oraz strukturze zatrudnienia między miastem a sąsiadującą z nim wsią nosi nazwę kontinuum miejsko-wiejskiego.",
+        "answer": true,
+        "explanation": "Kontinuum miejsko-wiejskie to strefa przejściowa powstająca w wyniku utraty przez wsie podmiejskie ich tradycyjnego, typowo rolniczego charakteru."
+      },
+      {
+        "sentence": "Funkcje wykształcone w procesie historycznym przez dane miasto mają charakter stały i niezmienny, bez względu na współczesne przemiany polityczno-gospodarcze w państwie.",
+        "answer": false,
+        "explanation": "Podręcznik wskazuje, że większość miast o długiej historii ewoluuje, a w zależności od zmieniających się warunków gospodarczych i cywilizacyjnych, rodzaj oraz znaczenie pełnionych przez nie funkcji ulegają stałym zmianom."
+      },
+      {
+        "sentence": "Geograficzna sieć osadnicza to zbiór luźno rozrzuconych w przestrzeni jednostek osadniczych pozbawiony powiązań infrastrukturalnych, opierający się wyłącznie na tożsamości kulturowej mieszkańców.",
+        "answer": false,
+        "explanation": "Zgodnie z definicją w tekście, sieć osadnicza to zbiór jednostek osadniczych (wsi i miast), które są połączone i powiązane ze sobą liniami komunikacyjnymi na określonym obszarze."
+      },
+      {
+        "sentence": "Według standardów statystycznych stosowanych przez niektóre międzynarodowe organizacje, takie jak OECD, obszary wiejskie wyróżnia się wykorzystując kryterium gęstości zaludnienia.",
+        "answer": true,
+        "explanation": "Dla celów statystycznych instytucje takie jak OECD czy Unia Europejska stosują wymierne kryterium gęstości zaludnienia, aby odróżnić obszary wiejskie od miejskich (np. przyjmując granicę poniżej 150 lub 100 osób na 1 km2)."
+      },
+      {
+        "sentence": "Intensywny rozwój przestrzenny ośrodków miejskich, takich jak Katowice czy Manchester na przełomie XVIII i XIX wieku, był bezpośrednio stymulowany koniecznością obrony przed najazdami zbrojnymi.",
+        "answer": false,
+        "explanation": "Ośrodki te zyskały charakter miejski i dynamicznie się rozwijały w wyniku rewolucji przemysłowej, eksploatacji surowców mineralnych oraz uprzemysłowienia rzemiosła (funkcja przemysłowa), a nie ze względu na obronność."
+      },
+      {
+        "sentence": "W geografii osadnictwa przyjmuje się, że współczesna wieś to wyłącznie taka jednostka, w której bezwzględnie każdy z jej mieszkańców utrzymuje się z działalności rolniczej.",
+        "answer": false,
+        "explanation": "Klasyfikacja bazująca wyłącznie na zatrudnieniu w rolnictwie stała się zbyt ogólna, ponieważ na obszarach wiejskich pojawiają się nowe funkcje. Coraz więcej mieszkańców wsi rezygnuje z działalności rolniczej, utrzymując się z pracy w usługach lub dojeżdżając do miast."
+      },
+      {
+        "sentence": "Wysoka żyzność gleb jest zaliczana do kluczowych przyrodniczych czynników wpływających na powstawanie i rozwój tradycyjnych jednostek osadnictwa wiejskiego.",
+        "answer": true,
+        "explanation": "Dostęp do urodzajnych gleb ułatwiał dawniej prowadzenie upraw rolnych, stając się jednym z najważniejszych przyrodniczych czynników decydujących o lokalizacji obszarów wiejskich."
+      },
+      {
+        "sentence": "Niska gęstość i rzadka sieć osadnicza na rozległych obszarach Syberii jest przede wszystkim efektem rygorystycznych ograniczeń administracyjno-prawnych nałożonych na to terytorium.",
+        "answer": false,
+        "explanation": "Brak gęstej sieci osadniczej na Syberii to głównie skutek występowania surowych barier przyrodniczych (klimat), a nie uwarunkowań prawno-administracyjnych. Istniejące osadnictwo koncentruje się tam przeważnie wzdłuż rzek."
+      },
+      {
+        "sentence": "Proces przeobrażania obszarów wiejskich, wywołany przez rozwój turystyki i nową strukturę usług, ma miejsce nie tylko w państwach zamożnych, ale zachodzi także w krajach słabo rozwiniętych gospodarczo, np. w Kenii czy Tanzanii.",
+        "answer": true,
+        "explanation": "Do przeobrażeń wsi poprzez ruch turystyczny oparty na atrakcyjności egzotycznej przyrody dochodzi także w krajach rozwijających się, na przykład w Kenii czy Tanzanii."
+      }
+    ]
+  }
+}

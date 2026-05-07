@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz5-t5",
+                     "title":  "Transport w Polsce",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Transport samochodowy",
+                                              "definition":  "Najpowszechniejszy rodzaj transportu w Polsce, przewożący ponad 85% ładunków i 45% pasażerów, ceniony za możliwość dowiezienia towaru bezpośrednio do odbiorcy („od drzwi do drzwi”)."
+                                          },
+                                          {
+                                              "term":  "Transport kolejowy",
+                                              "definition":  "Drugi najważniejszy dział transportu w Polsce, odgrywający kluczową rolę w przewozie towarów masowych (np. węgla) oraz w pasażerskiej komunikacji zbiorowej, szczególnie w aglomeracjach."
+                                          },
+                                          {
+                                              "term":  "Transport lotniczy",
+                                              "definition":  "Najdynamiczniej rozwijająca się gałąź transportu w Polsce, obsługująca głównie ruch pasażerski w relacjach zagranicznych, z największym portem im. Chopina w Warszawie."
+                                          },
+                                          {
+                                              "term":  "Transport przesyłowy",
+                                              "definition":  "Specyficzny rodzaj transportu wykorzystujący rurociągi do przesyłania paliw płynnych i gazowych (ropy naftowej, gazu) oraz sieci energetyczne i wodociągowe."
+                                          },
+                                          {
+                                              "term":  "Transport wodny śródlądowy",
+                                              "definition":  "Rodzaj transportu o marginalnym znaczeniu w Polsce (przewóz głównie towarów masowych rzekami), ograniczony przez zły stan infrastruktury wodnej i zmienność stanów wód."
+                                          },
+                                          {
+                                              "term":  "Dostępność transportowa",
+                                              "definition":  "Łatwość, z jaką można dotrzeć do danego miejsca; w Polsce jest zróżnicowana regionalnie i zależy od gęstości oraz jakości sieci dróg i linii kolejowych."
+                                          },
+                                          {
+                                              "term":  "Gęstość sieci kolejowej",
+                                              "definition":  "Wskaźnik nasycenia terenu liniami kolejowymi; w Polsce jest on najwyższy w części zachodniej i południowej (dziedzictwo zaboru pruskiego), a najniższy na wschodzie."
+                                          },
+                                          {
+                                              "term":  "Terminal transportowy",
+                                              "definition":  "Miejsce wyposażone w specjalistyczny sprzęt, umożliwiające przeładunek towarów (np. kontenerów) z jednego środka transportu na drugi oraz ich sortowanie i magazynowanie."
+                                          },
+                                          {
+                                              "term":  "Węzeł transportowy",
+                                              "definition":  "Punkt, w którym krzyżują się co najmniej trzy szlaki transportowe (np. drogowe, kolejowe), sprzyjający lokalizacji usług logistycznych i obsługi podróżnych."
+                                          },
+                                          {
+                                              "term":  "Rurociąg „Przyjaźń”",
+                                              "definition":  "Magistrala rurociągowa o podstawowym znaczeniu dla Polski, transportująca ropę naftową z Rosji do rafinerii w Płocku, a następnie w kierunku Niemiec."
+                                          },
+                                          {
+                                              "term":  "Gazociąg Jamalski",
+                                              "definition":  "Ważna linia przesyłowa przebiegająca przez Polskę, służąca do transportu gazu ziemnego z rosyjskiego półwyspu Jamał do Europy Zachodniej."
+                                          },
+                                          {
+                                              "term":  "Rurociąg Pomorski",
+                                              "definition":  "Rurociąg łączący port w Gdańsku z rafinerią w Płocku, umożliwiający transport ropy naftowej dostarczanej do Polski tankowcami drogą morską."
+                                          },
+                                          {
+                                              "term":  "Lotnisko Chopina",
+                                              "definition":  "Największy port lotniczy w Polsce, położony w Warszawie (Okęcie), obsługujący niemal 40% całego ruchu pasażerskiego w naszym kraju."
+                                          },
+                                          {
+                                              "term":  "Metro w Warszawie",
+                                              "definition":  "Jedyny w Polsce system kolei podziemnej, składający się z dwóch linii, który odgrywa kluczową rolę w komunikacji miejskiej stolicy."
+                                          },
+                                          {
+                                              "term":  "Odrzańska Droga Wodna",
+                                              "definition":  "Najważniejszy śródlądowy szlak żeglugowy w Polsce, łączący uprzemysłowiony Górny Śląsk z portami morskimi w Szczecinie i Świnoujściu."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Transport samochodowy",
+                                                 "pair2":  "Zapewnia dowóz towarów bezpośrednio do odbiorcy (zasada „od drzwi do drzwi”)"
+                                             },
+                                             {
+                                                 "pair1":  "Polska zachodnia i południowa",
+                                                 "pair2":  "Największa gęstość sieci kolejowej (dziedzictwo zaboru pruskiego)"
+                                             },
+                                             {
+                                                 "pair1":  "Transport lotniczy",
+                                                 "pair2":  "Obsługa głównie ruchu pasażerskiego na dużych odległościach (podróże zagraniczne)"
+                                             },
+                                             {
+                                                 "pair1":  "Transport rurociągowy",
+                                                 "pair2":  "Najtańszy sposób masowego przesyłu ropy naftowej i gazu ziemnego"
+                                             },
+                                             {
+                                                 "pair1":  "Żegluga śródlądowa",
+                                                 "pair2":  "Marginalne znaczenie w Polsce z powodu regulacji rzek i wahań stanów wód"
+                                             },
+                                             {
+                                                 "pair1":  "Terminale transportowe",
+                                                 "pair2":  "Umożliwiają przeładunek towarów (np. kontenerów) między różnymi środkami transportu"
+                                             },
+                                             {
+                                                 "pair1":  "Wejście Polski do UE (2004)",
+                                                 "pair2":  "Impuls do modernizacji infrastruktury (budowa autostrad, dróg ekspresowych),"
+                                             },
+                                             {
+                                                 "pair1":  "Węzły transportowe",
+                                                 "pair2":  "Miejsca krzyżowania się szlaków transportowych przyciągające inwestorów i usługi,"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który rodzaj transportu odgrywa dominującą rolę w Polsce, przewożąc ponad 85% ładunków i około 45% pasażerów (wg statystyk oficjalnych)?",
+                                      "options":  [
+                                                      "Transport kolejowy, który jest najtańszym środkiem transportu masowego.",
+                                                      "Transport samochodowy.",
+                                                      "Transport lotniczy, zyskujący na znaczeniu dzięki tanim liniom lotniczym.",
+                                                      "Żegluga śródlądowa, wykorzystująca naturalne drogi wodne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Elastyczność, szybkość dostaw (door-to-door) i gęsta sieć dróg sprawiają, że ciężarówki i samochody osobowe dominują w polskim transporcie."
+                                  },
+                                  {
+                                      "question":  "Co jest głównym towarem transportowanym przez rurociąg „Przyjaźń” przebiegający przez Polskę?",
+                                      "options":  [
+                                                      "Gaz ziemny z Norwegii, przesyłany rurociągiem Baltic Pipe.",
+                                                      "Woda pitna dla aglomeracji śląskiej, pochodząca z ujęć w Karpatach.",
+                                                      "Ropa naftowa z Rosji.",
+                                                      "Ścieki przemysłowe, transportowane do oczyszczalni centralnej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Rurociąg ten dostarcza ropę do rafinerii w Płocku (PKN Orlen) oraz do Niemiec (Schwedt), będąc kluczowym elementem infrastruktury energetycznej."
+                                  },
+                                  {
+                                      "question":  "Gdzie znajduje się największy polski port lotniczy, obsługujący znaczną część ruchu pasażerskiego?",
+                                      "options":  [
+                                                      "W Krakowie (Balice), będący drugim co do wielkości portem w Polsce.",
+                                                      "W Gdańsku (Rębiechowo), obsługujący ruch turystyczny nad morze.",
+                                                      "W Katowicach (Pyrzowice), specjalizujący się w przewozach cargo.",
+                                                      "W Warszawie (Okęcie/Chopin)."
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Port Lotniczy im. Fryderyka Chopina w Warszawie obsługuje ponad 35% wszystkich pasażerów w Polsce (dane przed pandemią)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna przyczyna historyczna większej gęstości sieci kolejowej w zachodniej i południowej Polsce?",
+                                      "options":  [
+                                                      "Warunki geologiczne sprzyjające budowie tuneli i estakad.",
+                                                      "Polityka gospodarcza zaborców (Prus i Austrii) w XIX i XX wieku.",
+                                                      "Decyzje władz PRL o budowie nowych linii tylko na zachodzie kraju.",
+                                                      "Brak rzek w tej części kraju wymuszający transport szynowy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zabór pruski, stawiający na uprzemysłowienie, rozbudował gęstą sieć kolei, podczas gdy zabór rosyjski traktował infrastrukturę jako zagrożenie militarne (rzadsza sieć)."
+                                  },
+                                  {
+                                      "question":  "Jaki trend w infrastrukturze kolejowej obserwowano w Polsce w latach 1990–2018?",
+                                      "options":  [
+                                                      "Budowę tysięcy kilometrów nowych linii lokalnych w każdej gminie.",
+                                                      "Likwidację ponad 25% linii kolejowych, zwłaszcza w zachodniej i północnej części kraju.",
+                                                      "Całkowitą rezygnację z trakcji elektrycznej na rzecz lokomotyw spalinowych.",
+                                                      "Utrzymanie długości sieci na niezmiennym poziomie z lat 80. XX wieku."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Transformacja ustrojowa i spadek przewozów towarowych doprowadziły do zamknięcia wielu rentownych linii lokalnych, co pogłębiło wykluczenie komunikacyjne."
+                                  },
+                                  {
+                                      "question":  "Dlaczego transport wodny śródlądowy (rzeczny) odgrywa w Polsce marginalną rolę?",
+                                      "options":  [
+                                                      "Z powodu całkowitego zamarzania rzek przez 6 miesięcy w roku.",
+                                                      "Ze względu na zły stan infrastruktury (brak regulacji) i wahania stanów wód.",
+                                                      "Ponieważ w Polsce nie ma rzek łączących główne miasta przemysłowe.",
+                                                      "Z powodu zakazu transportu towarów rzekami wprowadzonego przez dyrektywy UE."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Brak inwestycji w stopnie wodne i pogłębianie rzek sprawia, że Odra i Wisła są żeglowne tylko na krótkich odcinkach i okresowo."
+                                  },
+                                  {
+                                      "question":  "Jaki czynnik gospodarczy po 1989 roku wpłynął na dynamiczny rozwój transportu samochodowego w Polsce?",
+                                      "options":  [
+                                                      "Centralne planowanie dostaw przez państwo, typowe dla gospodarki socjalistycznej.",
+                                                      "Decentralizacja gospodarki i wzrost liczby małych przedsiębiorstw.",
+                                                      "Gwałtowny wzrost wydobycia węgla kamiennego, wymagający transportu ciężarowego.",
+                                                      "Całkowity zakaz importu samochodów ciężarowych z zagranicy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rozdrobnienie handlu i usług wymusiło elastyczność dostaw, którą zapewnia transport drogowy, w przeciwieństwie do sztywnej kolei."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzują się terminale transportowe, będące kluczowym elementem nowoczesnej logistyki?",
+                                      "options":  [
+                                                      "Są to miejsca przeznaczone wyłącznie do długoterminowego parkowania ciężarówek.",
+                                                      "Są to punkty umożliwiające przeładunek towarów (np. kontenerów) między różnymi środkami transportu.",
+                                                      "Są to stacje benzynowe zlokalizowane przy autostradach i drogach ekspresowych.",
+                                                      "Są to dawne dworce kolejowe przekształcone w muzea kolejnictwa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Terminale intermodalne (np. w Gdańsku, Małaszewiczach) pozwalają na zmianę środka transportu (statek-kolej-ciężarówka) bez rozpakowywania towaru."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na dostępność transportową Polski miało przystąpienie do Unii Europejskiej?",
+                                      "options":  [
+                                                      "Spowodowało zamknięcie granic i utrudnienie swobodnego przepływu towarów.",
+                                                      "Umożliwiło pozyskanie funduszy na budowę autostrad, dróg ekspresowych i modernizację kolei.",
+                                                      "Zahamowało rozwój lotnictwa poprzez wprowadzenie restrykcyjnych przepisów ekologicznych.",
+                                                      "Wymusiło likwidację wszystkich portów morskich na wybrzeżu Bałtyku."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Środki unijne (Fundusz Spójności) stały się głównym źródłem finansowania wielkich inwestycji infrastrukturalnych w Polsce po 2004 r."
+                                  },
+                                  {
+                                      "question":  "Który polski port morski specjalizuje się w przeładunku skroplonego gazu ziemnego (LNG)?",
+                                      "options":  [
+                                                      "Gdynia, będąca portem uniwersalnym.",
+                                                      "Gdańsk, znany z przeładunku kontenerów.",
+                                                      "Świnoujście.",
+                                                      "Szczecin, położony w głębi lądu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Terminal LNG im. Lecha Kaczyńskiego w Świnoujściu (gazoport) umożliwia import gazu drogą morską z Kataru czy USA, uniezależniając Polskę od Rosji."
+                                  },
+                                  {
+                                      "question":  "Na czym polega rola węzła transportowego?",
+                                      "options":  [
+                                                      "Jest to miejsce, gdzie krzyżują się co najmniej trzy szlaki transportowe, co sprzyja inwestycjom.",
+                                                      "Jest to długi odcinek autostrady bez zjazdów i węzłów komunikacyjnych.",
+                                                      "Jest to granica państwa, na której odbywa się szczegółowa kontrola celna.",
+                                                      "Jest to most łączący dwa brzegi rzeki, ułatwiający przeprawę."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Węzły (np. Stryków pod Łodzią) przyciągają centra logistyczne i magazynowe dzięki łatwości dystrybucji towarów w różnych kierunkach."
+                                  },
+                                  {
+                                      "question":  "Jakie zmiany zaszły w strukturze przewozów pasażerskich w Polsce w ostatnich dekadach?",
+                                      "options":  [
+                                                      "Wzrosła rola kolei, a spadła rola samochodów osobowych dzięki ekologii.",
+                                                      "Wzrosła rola transportu indywidualnego (samochodowego) i lotniczego, a spadła rola transportu zbiorowego.",
+                                                      "Transport autobusowy stał się dominujący nad samochodowym we wszystkich regionach.",
+                                                      "Rola żeglugi śródlądowej w przewozach pasażerskich gwałtownie wzrosła."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wzrost zamożności społeczeństwa doprowadził do gwałtownego wzrostu liczby samochodów prywatnych (ok. 600 na 1000 mieszkańców) kosztem PKS i PKP."
+                                  },
+                                  {
+                                      "question":  "Dlaczego województwa centralne (np. łódzkie) charakteryzują się wysoką dostępnością transportową?",
+                                      "options":  [
+                                                      "Ponieważ posiadają bezpośredni dostęp do morza i portów.",
+                                                      "Ze względu na położenie na skrzyżowaniu głównych szlaków (autostrad) i w pobliżu dużych rynków zbytu.",
+                                                      "Ponieważ nie ma tam żadnych obszarów chronionych przyrodniczo.",
+                                                      "Dzięki występowaniu tam bogatych złóż ropy naftowej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Centralne położenie i przecięcie autostrad A1 i A2 czyni ten region hubem logistycznym Polski."
+                                  },
+                                  {
+                                      "question":  "Czym jest transport intermodalny, dla którego kluczowe są terminale przeładunkowe?",
+                                      "options":  [
+                                                      "Przewozem wykorzystującym wyłącznie transport lotniczy na dużych dystansach.",
+                                                      "Przewozem ładunków różnymi środkami transportu (np. statek-kolej) w tej samej jednostce ładunkowej (np. kontenerze).",
+                                                      "Przewozem pasażerów bez przesiadek między miastami.",
+                                                      "Transportem surowców energetycznych rurociągami podziemnymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Intermodalność zwiększa efektywność logistyki, łącząc zalety taniego transportu masowego (statek, kolej) z elastycznością ciężarówek (ostatnia mila)."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na rozwój regionalny ma budowa dróg ekspresowych i autostrad?",
+                                      "options":  [
+                                                      "Powoduje masowy odpływ inwestorów z regionu do krajów sąsiednich.",
+                                                      "Zwiększa dostępność transportową, przyciąga inwestycje (magazyny, fabryki) i tworzy miejsca pracy.",
+                                                      "Prowadzi do całkowitego zaniku rolnictwa w regionie z powodu hałasu.",
+                                                      "Nie ma żadnego istotnego wpływu na gospodarkę lokalną."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dobra infrastruktura jest magnesem dla firm (np. Amazona), co widać wzdłuż A2 czy A4, gdzie powstają strefy aktywności gospodarczej."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Od 1990 roku długość eksploatowanych linii kolejowych w Polsce systematycznie wzrasta dzięki nowym inwestycjom.",
+                                           "answer":  false,
+                                           "explanation":  "W latach 1990–2018 zlikwidowano w Polsce ponad 25% linii kolejowych (ok. 7 tys. km), głównie w zachodniej i północnej części kraju."
+                                       },
+                                       {
+                                           "sentence":  "Transport samochodowy odgrywa dominującą rolę w Polsce, przewożąc ponad 85% ładunków i znaczną część pasażerów.",
+                                           "answer":  true,
+                                           "explanation":  "Według statystyk samochodami przewozi się ponad 85% ładunków i ponad 45% pasażerów, co czyni ten rodzaj transportu najpowszechniejszym."
+                                       },
+                                       {
+                                           "sentence":  "Gęstość sieci kolejowej jest najwyższa we wschodniej Polsce, co wynika z uwarunkowań historycznych zaboru rosyjskiego.",
+                                           "answer":  false,
+                                           "explanation":  "Gęstość sieci kolejowej jest zróżnicowana regionalnie: najwyższa występuje na zachodzie i południu (dawny zabór pruski i austriacki), a najniższa na wschodzie (dawny zabór rosyjski)."
+                                       },
+                                       {
+                                           "sentence":  "Transport lotniczy w Polsce wykorzystywany jest przede wszystkim do przewozu towarów masowych (cargo).",
+                                           "answer":  false,
+                                           "explanation":  "Transport lotniczy służy głównie do przewozu pasażerów (w 2019 r. odprawiono prawie 50 mln osób), a nie towarów."
+                                       },
+                                       {
+                                           "sentence":  "Większość śródlądowych dróg wodnych w Polsce spełnia wysokie standardy międzynarodowe.",
+                                           "answer":  false,
+                                           "explanation":  "Jedynie 5% polskich szlaków żeglugowych spełnia wymagania stawiane międzynarodowym drogom wodnym; większość ma znaczenie tylko lokalne z powodu zaniedbań infrastruktury."
+                                       },
+                                       {
+                                           "sentence":  "Rurociąg „Przyjaźń” przebiegający przez Polskę służy do transportu gazu ziemnego z Rosji do Europy Zachodniej.",
+                                           "answer":  false,
+                                           "explanation":  "Rurociąg „Przyjaźń” transportuje ropę naftową. Gaz ziemny przesyłany jest przez Polskę Gazociągiem Jamalskim."
+                                       },
+                                       {
+                                           "sentence":  "Budowa sieci dróg szybkiego ruchu i autostrad w Polsce przyspieszyła w XXI wieku głównie dzięki funduszom z Unii Europejskiej.",
+                                           "answer":  true,
+                                           "explanation":  "Budowę spójnej sieci dróg szybkiego ruchu na dużą skalę rozpoczęto dopiero w XXI w., co było możliwe dzięki napływowi środków finansowych z UE."
+                                       },
+                                       {
+                                           "sentence":  "W ostatnich latach rola transportu kolejowego w przewozach pasażerskich dynamicznie rośnie kosztem transportu indywidualnego.",
+                                           "answer":  false,
+                                           "explanation":  "Trend jest odwrotny: od kilkunastu lat rośnie znaczenie indywidualnej motoryzacji i lotnictwa, a maleje rola zbiorowego transportu kolejowego i autobusowego."
+                                       },
+                                       {
+                                           "sentence":  "Terminal w Świnoujściu jest przystosowany do odbioru skroplonego gazu ziemnego (LNG).",
+                                           "answer":  true,
+                                           "explanation":  "W Świnoujściu znajduje się port (gazoport), w którym odbywa się przeładunek skroplonego gazu ziemnego."
+                                       },
+                                       {
+                                           "sentence":  "Transport intermodalny polega na przewozie towarów różnymi środkami transportu bez zmiany jednostki ładunkowej (np. kontenera).",
+                                           "answer":  true,
+                                           "explanation":  "Istotą transportu intermodalnego, obsługiwanego przez terminale, jest przeładunek towarów w zintegrowanych jednostkach (np. kontenerach) między różnymi środkami transportu."
+                                       },
+                                       {
+                                           "sentence":  "Liczba samochodów osobowych w Polsce wzrosła z około 7,5 mln w 1995 roku do niemal 32 mln w 2019 roku.",
+                                           "answer":  true,
+                                           "explanation":  "Liczba pojazdów samochodowych gwałtownie wzrosła w okresie transformacji i po wejściu do UE, osiągając niemal 32 mln sztuk w 2019 r."
+                                       }
+                                   ]
+                 }
+}

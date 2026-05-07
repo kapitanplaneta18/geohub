@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t6",
+    "title": "Struktura językowa i struktura wykształcenia ludności świata",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rodzina językowa",
+        "definition": "Grupa spokrewnionych ze sobą języków, która dzieli się na mniejsze jednostki, takie jak podrodziny, grupy i gałęzie."
+      },
+      {
+        "term": "Rodzina indoeuropejska",
+        "definition": "Największa rodzina językowa na świecie. Językami do niej należącymi posługuje się około 46% ludności Ziemi, głównie w Europie i obu Amerykach."
+      },
+      {
+        "term": "Język urzędowy",
+        "definition": "Język ustalony przez władze państwowe, obowiązujący w oficjalnych kontaktach, np. w urzędach, sądach i w edukacji (szkołach)."
+      },
+      {
+        "term": "Języki oficjalne ONZ",
+        "definition": "Sześć języków wykorzystywanych w kontaktach międzynarodowych ONZ: angielski, chiński, rosyjski, francuski, hiszpański i arabski."
+      },
+      {
+        "term": "Języki sztuczne",
+        "definition": "Języki stworzone przez człowieka (np. esperanto) w celu usprawnienia komunikacji międzynarodowej, wyróżniające się uproszczoną gramatyką."
+      },
+      {
+        "term": "Kolonializm (a język)",
+        "definition": "Proces historyczny, który w głównej mierze przyczynił się do światowego zasięgu i upowszechnienia języka angielskiego, hiszpańskiego oraz portugalskiego."
+      },
+      {
+        "term": "Alfabet",
+        "definition": "Uporządkowany zbiór liter stosowany do zapisu danego języka w formie pisanej. Najbardziej rozpowszechnionym na świecie jest alfabet łaciński."
+      },
+      {
+        "term": "Cyrylica",
+        "definition": "Alfabet utworzony na podstawie alfabetu greckiego, stosowany współcześnie m.in. w Rosji, na Ukrainie, Białorusi, w Serbii i Bułgarii."
+      },
+      {
+        "term": "Analfabetyzm",
+        "definition": "Zjawisko całkowitego braku umiejętności czytania i pisania, dotykające obecnie około 750 milionów ludzi, głównie w krajach Afryki i Azji."
+      },
+      {
+        "term": "Wskaźnik analfabetyzmu",
+        "definition": "Odsetek ludności w wieku 15 lat i więcej, która nie potrafi czytać i pisać."
+      },
+      {
+        "term": "Przyczyny analfabetyzmu",
+        "definition": "Brak lub ograniczony dostęp do edukacji w krajach biednych oraz czynniki kulturowe, np. rzadsze i krótsze kształcenie dziewcząt w niektórych społeczeństwach."
+      },
+      {
+        "term": "Wskaźnik skolaryzacji",
+        "definition": "Wartość określająca, jaki odsetek osób w danej grupie wiekowej (odpowiadającej danemu etapowi edukacji) rzeczywiście uczęszcza do szkół."
+      },
+      {
+        "term": "Skolaryzacja w państwach wysoko rozwiniętych",
+        "definition": "Ze względu na powszechny obowiązek szkolny, na poziomie szkoły podstawowej wskaźnik ten z reguły sięga tam 100%."
+      },
+      {
+        "term": "Struktura wykształcenia w państwach rozwijających się",
+        "definition": "W wielu państwach Azji, Afryki i Ameryki Łacińskiej zdecydowanie dominuje ludność z wykształceniem podstawowym lub niemająca żadnego wykształcenia."
+      },
+      {
+        "term": "Gospodarcze skutki niskiego wykształcenia",
+        "definition": "Niedobór wykwalifikowanej kadry odstrasza inwestorów z branż zaawansowanych technologii i hamuje rozwój kraju, wymuszając zatrudnienie w nisko opłacanym rolnictwie."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Język hiszpański, francuski, włoski",
+        "pair2": "Języki z grupy romańskiej (rodzina indoeuropejska)"
+      },
+      {
+        "pair1": "Język polski, czeski, rosyjski",
+        "pair2": "Języki z grupy słowiańskiej (rodzina indoeuropejska)"
+      },
+      {
+        "pair1": "Język angielski, niemiecki, szwedzki",
+        "pair2": "Języki z grupy germańskiej (rodzina indoeuropejska)"
+      },
+      {
+        "pair1": "Esperanto",
+        "pair2": "Najpopularniejszy język sztuczny, oparty na językach europejskich z uproszczoną gramatyką"
+      },
+      {
+        "pair1": "Szwajcaria",
+        "pair2": "Państwo posiadające aż cztery języki urzędowe: niemiecki, francuski, włoski i retoromański"
+      },
+      {
+        "pair1": "Ameryka Łacińska",
+        "pair2": "Region, gdzie wskutek kolonializmu powszechnie używa się języków hiszpańskiego i portugalskiego"
+      },
+      {
+        "pair1": "Afryka Subsaharyjska i Azja Południowa",
+        "pair2": "Obszary charakteryzujące się najniższymi wartościami wskaźnika skolaryzacji na świecie"
+      },
+      {
+        "pair1": "Europa, Ameryka Północna, Japonia",
+        "pair2": "Regiony, w których struktura wykształcenia odznacza się dużym udziałem osób z wykształceniem średnim i wyższym"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Czym jest wskaźnik analfabetyzmu według definicji stosowanej w badaniach demograficznych?",
+        "options": [
+          "Odsetek ludności w wieku od 15 lat, która nie potrafi czytać i pisać.",
+          "Odsetek dzieci w wieku szkolnym, które nigdy nie chodziły do szkoły.",
+          "Procent osób dorosłych, które ukończyły tylko szkołę podstawową.",
+          "Odsetek ludności w wieku do 15 lat, która nie potrafi czytać i pisać."
+        ],
+        "answer": "A",
+        "explanation": "Wskaźnik analfabetyzmu to odsetek ludności nieumiejącej pisać i czytać w wieku 15 lat i więcej."
+      },
+      {
+        "question": "Do której rodziny językowej należy największy odsetek ludności współczesnego świata?",
+        "options": [
+          "Do ogromnej rodziny chińsko-tybetańskiej.",
+          "Do rozległej rodziny indoeuropejskiej.",
+          "Do zróżnicowanej rodziny afrasiatyckiej.",
+          "Do historycznej rodziny drawidyjskiej."
+        ],
+        "answer": "B",
+        "explanation": "Najwięcej ludzi na Ziemi (około 46%) mówi językami zaliczanymi do rodziny indoeuropejskiej, do której należy m.in. język polski i angielski."
+      },
+      {
+        "question": "Który z poniższych języków pełni współcześnie funkcję jednego z oficjalnych języków Organizacji Narodów Zjednoczonych?",
+        "options": [
+          "Język portugalski wykorzystywany w Ameryce.",
+          "Język hiszpański używany w wielu państwach.",
+          "Język niemiecki dominujący w Europie Środkowej.",
+          "Język hindi stosowany powszechnie na Półwyspie."
+        ],
+        "answer": "B",
+        "explanation": "W kontaktach międzynarodowych w obrębie ONZ używa się sześciu języków oficjalnych: angielskiego, chińskiego, rosyjskiego, francuskiego, hiszpańskiego i arabskiego."
+      },
+      {
+        "question": "Który alfabet jest obecnie najbardziej rozpowszechnionym systemem zapisu na kuli ziemskiej?",
+        "options": [
+          "Alfabet łaciński stosowany w wielu regionach.",
+          "Alfabet arabski używany na Bliskim Wschodzie.",
+          "Alfabet chiński dominujący we wschodniej Azji.",
+          "Alfabet grecki spotykany na południu Europy."
+        ],
+        "answer": "A",
+        "explanation": "Najbardziej rozpowszechnionym na świecie zbiorem liter jest alfabet łaciński, funkcjonujący m.in. w Europie, obu Amerykach i Australii."
+      },
+      {
+        "question": "Jaki czynnik decyduje o tym, że język chiński ma znikome szanse na zostanie uniwersalnym językiem międzynarodowym?",
+        "options": [
+          "Obecność skomplikowanego systemu znaków i trudnego zapisu.",
+          "Ograniczony zasięg występowania do tylko jednego państwa.",
+          "Brak formy pisanej oraz skodyfikowanych zasad gramatyki.",
+          "Stosowanie bardzo trudnych liter ze znakami diakrytycznymi."
+        ],
+        "answer": "A",
+        "explanation": "Powszechnym nie stanie się język o bardzo skomplikowanym alfabecie, dlatego chiński, mimo dużej liczby użytkowników, nie będzie językiem globalnym."
+      },
+      {
+        "question": "Do jakiej grupy w obrębie rodziny indoeuropejskiej należą języki: hiszpański, włoski i portugalski?",
+        "options": [
+          "Stanowią część grupy języków germańskich.",
+          "Zalicza się je do grupy języków romańskich.",
+          "Należą do zróżnicowanej grupy słowiańskiej.",
+          "Tworzą rozbudowaną grupę języków celtyckich."
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z podziałem języków indoeuropejskich język francuski, hiszpański, włoski i portugalski to języki z grupy romańskiej."
+      },
+      {
+        "question": "Dlaczego na obszarze Namibii powszechnie używa się dzisiaj języka angielskiego, niemieckiego oraz afrikaans?",
+        "options": [
+          "Wynika to wprost z kolonialnej przeszłości tego państwa.",
+          "Jest to efekt funkcjonowania wielkich korporacji w kraju.",
+          "Taki stan to rezultat działalności misji chrześcijańskich.",
+          "Decyduje o tym bezpośrednie sąsiedztwo z państwem RPA."
+        ],
+        "answer": "A",
+        "explanation": "Na obszarze Namibii używa się tych trzech języków przede wszystkim ze względu na przeszłość kolonialną i historyczne podboje terytorialne w Afryce."
+      },
+      {
+        "question": "Na jakich językach naturalnych opierają się przede wszystkim zasady gramatyczne i słownictwo języka esperanto?",
+        "options": [
+          "Na wybranych językach romańskich oraz germańskich.",
+          "Na różnorodnych językach podgrupy ugrofińskiej.",
+          "Na skomplikowanych językach rodziny słowiańskiej.",
+          "Na tradycyjnych językach z rodziny afrasiatyckiej."
+        ],
+        "answer": "A",
+        "explanation": "Esperanto, najpopularniejszy język sztuczny, odznacza się prostymi regułami bazującymi głównie na językach romańskich i germańskich."
+      },
+      {
+        "question": "W którym z wymienionych regionów odnotowuje się współcześnie najwyższe wskaźniki analfabetyzmu?",
+        "options": [
+          "W zamożnych państwach położonych w Ameryce Północnej.",
+          "W najsłabiej rozwiniętych państwach strefy afrykańskiej.",
+          "W szybko bogacących się państwach Ameryki Łacińskiej.",
+          "W gęsto zaludnionych państwach na terenie Europy Zachodniej."
+        ],
+        "answer": "B",
+        "explanation": "Analfabetyzm jest zjawiskiem najpowszechniejszym w krajach biednych o słabym dostępie do edukacji, głównie na terenie Afryki i Azji."
+      },
+      {
+        "question": "Z jakiego powodu w państwach takich jak Szwajcaria obowiązują aż cztery odrębne języki urzędowe?",
+        "options": [
+          "Ma to na celu usprawnienie wymiany handlowej z sąsiadami.",
+          "Jest to historyczny wymóg nakazany przez Unię Europejską.",
+          "Wynika to z silnego zróżnicowania narodowościowego państwa.",
+          "Służy to ułatwieniu masowej asymilacji nowych imigrantów."
+        ],
+        "answer": "C",
+        "explanation": "W państwach wielonarodowościowych ustala się kilka języków urzędowych w celu umożliwienia swobodnego porozumiewania się różnym grupom językowym."
+      },
+      {
+        "question": "Dlaczego w państwach muzułmańskich wskaźnik analfabetyzmu jest z reguły wyraźnie wyższy w populacji kobiet?",
+        "options": [
+          "Dziewczęta dużo rzadziej posyłane są do placówek szkolnych.",
+          "Kobiety częściej decydują się na dalekie migracje zarobkowe.",
+          "Chłopcy wykazują znacznie większe zdolności do nauki pisania.",
+          "Szkoły publiczne znajdują się w znacznym oddaleniu od domów."
+        ],
+        "answer": "A",
+        "explanation": "Ze względów kulturowych w państwach muzułmańskich dziewczęta rzadziej trafiają do szkół i szybciej kończą edukację, by zająć się domem."
+      },
+      {
+        "question": "W jakich państwach Europy współcześnie powszechnie wykorzystuje się cyrylicę jako podstawowy alfabet narodowy?",
+        "options": [
+          "W Rosji, na Ukrainie, na Białorusi oraz w Bułgarii i Serbii.",
+          "W Niemczech, w Austrii, w Szwajcarii oraz w Liechtensteinie.",
+          "We Włoszech, we Francji, w Hiszpanii oraz na terenie Grecji.",
+          "W Finlandii, w Szwecji, w Norwegii oraz w dalekiej Islandii."
+        ],
+        "answer": "A",
+        "explanation": "Cyrylica stosowana jest głównie w państwach używających języków z grupy słowiańskiej, takich jak Rosja, Białoruś, Ukraina, Serbia i Bułgaria."
+      },
+      {
+        "question": "Dlaczego niektóre państwa charakteryzujące się słabą strukturą wykształcenia osiągają stosunkowo wysokie wskaźniki HDI?",
+        "options": [
+          "Zyskują one ogromne środki dzięki masowej zagranicznej turystyce.",
+          "Posiadają znaczące dochody z masowego wydobycia ropy naftowej.",
+          "Korzystają z ogromnych bezzwrotnych dotacji międzynarodowych.",
+          "Opierają gospodarkę na wysoce zaawansowanym sektorze usług."
+        ],
+        "answer": "B",
+        "explanation": "Niektóre państwa o słabej edukacji mają wysoki HDI dzięki zyskom ze sprzedaży surowców (głównie ropy), których wydobycie nie wymaga licznych wykwalifikowanych kadr."
+      },
+      {
+        "question": "Jaki jest główny skutek utrzymującego się niskiego poziomu wykształcenia dla gospodarek państw słabo rozwiniętych?",
+        "options": [
+          "Skutkuje to dynamicznym wzrostem eksportu zaawansowanych dóbr.",
+          "Wymusza to szybkie przechodzenie do nowoczesnej fazy przemysłu.",
+          "Prowadzi to do spadku zapotrzebowania na usługi gastronomiczne.",
+          "Hamuje to napływ inwestorów z nowoczesnych branż technologii."
+        ],
+        "answer": "D",
+        "explanation": "Niedobór kadr z wyższym wykształceniem odstrasza inwestorów z branż high-tech, przez co gospodarka tych krajów nadal opiera się na rolnictwie."
+      },
+      {
+        "question": "O czym może świadczyć zjawisko bardzo niskiego wskaźnika skolaryzacji występujące w wielu państwach Azji i Afryki?",
+        "options": [
+          "O masowej emigracji większości lokalnych ekspertów za granicę.",
+          "O braku przymusu szkolnego dla dzieci i młodzieży w tych krajach.",
+          "O powszechnym funkcjonowaniu zaawansowanej oświaty cyfrowej.",
+          "O zatrudnianiu wyłącznie absolwentów elitarnych szkół wyższych."
+        ],
+        "answer": "B",
+        "explanation": "W krajach rozwiniętych skolaryzacja sięga niemal 100% dzięki obowiązkowi szkolnemu, podczas gdy niska wartość tego wskaźnika sugeruje brak powszechnego obowiązku nauki."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Język chiński, ze względu na największą liczbę osób posługujących się nim jako językiem ojczystym, ma największe szanse na uzyskanie statusu uniwersalnego języka międzynarodowego.",
+        "answer": false,
+        "explanation": "Język chiński ma małe szanse na status języka międzynarodowego ze względu na skomplikowany alfabet i trudny zapis. Największe szanse mają języki oparte na alfabecie łacińskim, takie jak angielski."
+      },
+      {
+        "sentence": "Język arabski zaliczany jest do ogromnej rodziny indoeuropejskiej, którą posługuje się blisko połowa mieszkańców Ziemi.",
+        "answer": false,
+        "explanation": "Język arabski należy do rodziny afroazjatyckiej (semicko-chamickiej), a nie indoeuropejskiej. Rodzina indoeuropejska jest największa, ale obejmuje m.in. języki słowiańskie, romańskie i germańskie."
+      },
+      {
+        "sentence": "Wskaźnik analfabetyzmu to wskaźnik demograficzny określający odsetek dzieci i młodzieży do 15 roku życia, które nie potrafią czytać i pisać.",
+        "answer": false,
+        "explanation": "Wskaźnik analfabetyzmu oblicza się dla ludności w wieku 15 lat i więcej, która nie posiada umiejętności pisania i czytania, a nie dla dzieci poniżej 15 roku życia."
+      },
+      {
+        "sentence": "Zjawisko bardzo niskiego wskaźnika skolaryzacji dotyka obecnie przede wszystkim państwa Afryki Subsaharyjskiej, z wyłączeniem Republiki Południowej Afryki.",
+        "answer": true,
+        "explanation": "Bardzo niski wskaźnik skolaryzacji występuje m.in. w Afryce Subsaharyjskiej, przy czym jedynym wyraźnym wyjątkiem w tym regionie jest Republika Południowej Afryki (RPA)."
+      },
+      {
+        "sentence": "Państwa o bardzo słabej strukturze wykształcenia zawsze charakteryzują się niskimi wartościami wskaźnika rozwoju społeczno-gospodarczego (HDI).",
+        "answer": false,
+        "explanation": "Wyjątkiem są niektóre kraje bogate w surowce mineralne (głównie ropę naftową), które osiągają wysokie wartości HDI dzięki ogromnym dochodom z eksportu, pomimo słabej struktury wykształcenia własnych mieszkańców."
+      },
+      {
+        "sentence": "Powszechność języków hiszpańskiego i portugalskiego w Ameryce Południowej i Środkowej jest bezpośrednim skutkiem uwarunkowań przyrodniczych i izolacji geograficznej regionu.",
+        "answer": false,
+        "explanation": "Powszechność tych języków w Ameryce Łacińskiej nie jest skutkiem środowiska geograficznego, lecz wynikiem procesów historycznych, a dokładniej europejskiego kolonializmu."
+      },
+      {
+        "sentence": "Alfabet zwany cyrylicą, powszechnie stosowany na Ukrainie, Białorusi i w Rosji, został utworzony na podstawie alfabetu łacińskiego.",
+        "answer": false,
+        "explanation": "Cyrylica została utworzona na podstawie alfabetu greckiego, a nie łacińskiego."
+      },
+      {
+        "sentence": "W państwach takich jak Indie, zróżnicowanych pod względem narodowościowym i etnicznym, ustalenie oficjalnego języka urzędowego ułatwia swobodne porozumiewanie się obywateli.",
+        "answer": true,
+        "explanation": "W państwach wielonarodowościowych, takich jak Indie, wprowadzenie urzędowego języka (np. angielskiego) umożliwia porozumiewanie się przedstawicielom różnych grup językowych na terenie jednego kraju."
+      },
+      {
+        "sentence": "Esperanto to najpopularniejszy język naturalny wywodzący się z kręgu romańskiego, ułatwiający międzynarodową komunikację.",
+        "answer": false,
+        "explanation": "Esperanto nie jest językiem naturalnym, lecz najpopularniejszym językiem sztucznym, stworzonym przez człowieka (L. Zamenhofa) na bazie reguł języków romańskich i germańskich."
+      },
+      {
+        "sentence": "W kontaktach międzynarodowych w obrębie Organizacji Narodów Zjednoczonych używa się dokładnie sześciu języków oficjalnych, wśród których znajduje się m.in. rosyjski i arabski.",
+        "answer": true,
+        "explanation": "Tekst precyzuje, że oficjalnymi językami ONZ jest sześć języków: angielski, chiński, rosyjski, francuski, hiszpański oraz arabski."
+      },
+      {
+        "sentence": "W Szwajcarii, w celu ułatwienia kontaktów międzyludzkich w wielonarodowościowym państwie, obowiązują aż cztery odrębne języki urzędowe: niemiecki, francuski, włoski i retoromański.",
+        "answer": true,
+        "explanation": "Szwajcaria to sztandarowy przykład kraju posiadającego więcej niż jeden język urzędowy, wyliczając dokładnie te cztery języki."
+      },
+      {
+        "sentence": "W strukturze wykształcenia mieszkańców krajów słabo rozwiniętych, głównie w Azji i Afryce, przeważają osoby z wykształceniem średnim, a problemem gospodarczym jest jedynie brak kadr z wykształceniem wyższym.",
+        "answer": false,
+        "explanation": "W większości państw Afryki, Oceanii i wielu krajach Azji w strukturze wykształcenia dominuje ludność z wykształceniem zaledwie podstawowym lub niemająca wykształcenia wcale."
+      }
+    ]
+  }
+}

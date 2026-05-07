@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t2",
+                     "title":  "Struktura płci i wieku ludności Polski",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Współczynnik feminizacji (definicja)",
+                                              "definition":  "Wskaźnik demograficzny określający liczbę kobiet przypadającą na 100 mężczyzn w danej populacji."
+                                          },
+                                          {
+                                              "term":  "Struktura płci ludności Polski (ogólna proporcja)",
+                                              "definition":  "W populacji Polski występuje przewaga liczebna kobiet; współczynnik feminizacji wynosi ok. 107 (na 100 mężczyzn przypada 107 kobiet)."
+                                          },
+                                          {
+                                              "term":  "Nadumieralność mężczyzn",
+                                              "definition":  "Zjawisko polegające na wyższej śmiertelności mężczyzn niż kobiet w poszczególnych grupach wiekowych, co prowadzi do drastycznej przewagi kobiet w wieku poprodukcyjnym."
+                                          },
+                                          {
+                                              "term":  "Średnia długość trwania życia w Polsce (wg danych z 2019 r.)",
+                                              "definition":  "Występuje wyraźna różnica między płciami: kobiety żyją średnio 81,8 lat, natomiast mężczyźni 74,1 lat."
+                                          },
+                                          {
+                                              "term":  "Współczynnik dzietności – próg zastępowalności pokoleń",
+                                              "definition":  "Wartość wskaźnika wynosząca 2,1–2,15, która gwarantuje biologiczną stabilność populacji (w Polsce wskaźnik ten jest znacznie niższy, w 2019 r. wynosił 1,42)."
+                                          },
+                                          {
+                                              "term":  "Wyż kompensacyjny (lata 50. XX w.)",
+                                              "definition":  "Gwałtowny wzrost liczby urodzeń po zakończeniu II wojny światowej, będący reakcją na straty ludnościowe i odłożone decyzje prokreacyjne z czasu wojny."
+                                          },
+                                          {
+                                              "term":  "Echo wyżu demograficznego",
+                                              "definition":  "Zjawisko wzrostu urodzeń (np. w latach 80. XX w.) wynikające z wchodzenia w wiek rozrodczy licznych roczników urodzonych w czasie poprzedniego wyżu."
+                                          },
+                                          {
+                                              "term":  "Implozja demograficzna",
+                                              "definition":  "Gwałtowny spadek liczby urodzeń prowadzący do zmniejszania się liczby ludności i starzenia się społeczeństwa (regres demograficzny)."
+                                          },
+                                          {
+                                              "term":  "Wcięcie niżowe w piramidzie wieku",
+                                              "definition":  "Zwężenie na wykresie piramidy wieku świadczące o małej liczebności roczników urodzonych w okresie spadku liczby urodzeń (niżu demograficznego)."
+                                          },
+                                          {
+                                              "term":  "Starzenie się społeczeństwa (cechy strukturalne)",
+                                              "definition":  "Proces polegający na systematycznym wzroście udziału osób w wieku poprodukcyjnym (65+) przy jednoczesnym spadku udziału dzieci i młodzieży (0–14 lat)."
+                                          },
+                                          {
+                                              "term":  "Przestrzenne zróżnicowanie feminizacji w Polsce",
+                                              "definition":  "Wyższy współczynnik feminizacji występuje w miastach (ok. 111) niż na wsiach (ok. 101), co wynika z migracji kobiet do miast w celach edukacyjnych i zawodowych."
+                                          },
+                                          {
+                                              "term":  "Wiek środkowy (mediana wieku) ludności Polski",
+                                              "definition":  "Wskaźnik dzielący populację na dwie równe części; w 2019 r. wynosił 41,3 lat, co wskazuje na postępujący proces starzenia się ludności."
+                                          },
+                                          {
+                                              "term":  "Ekonomiczne grupy wieku",
+                                              "definition":  "Podział ludności na wiek przedprodukcyjny (0–17 lat), produkcyjny (18–59 lat dla kobiet, 18–64 lat dla mężczyzn) i poprodukcyjny (emerytalny)."
+                                          },
+                                          {
+                                              "term":  "Regiony o najwyższym przyroście naturalnym w Polsce",
+                                              "definition":  "Województwa: pomorskie, małopolskie i podkarpackie (często związane z zachowaniem tradycyjnego modelu rodziny)."
+                                          },
+                                          {
+                                              "term":  "Podstawa piramidy wieku ludności Polski (obecnie)",
+                                              "definition":  "Jest wyraźnie zwężona, co obrazuje małą liczebność najmłodszych grup wiekowych w efekcie niskiej dzietności."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Nadumieralność mężczyzn w wieku średnim i starszym",
+                                                 "pair2":  "Bardzo wysoki współczynnik feminizacji w grupach wieku poprodukcyjnego (nawet 169 kobiet na 100 mężczyzn powyżej 70 lat)."
+                                             },
+                                             {
+                                                 "pair1":  "Wchodzenie w dorosłość roczników wyżu powojennego (lata 70./80.)",
+                                                 "pair2":  "Wystąpienie echa wyżu demograficznego (kulminacja urodzeń w 1983 r.)."
+                                             },
+                                             {
+                                                 "pair1":  "Migracja młodych kobiet ze wsi do miast (edukacja/praca)",
+                                                 "pair2":  "Niższy współczynnik feminizacji na wsiach (często ok. 101) w porównaniu do miast (ok. 111)."
+                                             },
+                                             {
+                                                 "pair1":  "Spadek dzietności i wydłużanie średniej długości życia",
+                                                 "pair2":  "Proces starzenia się społeczeństwa (wzrost udziału osób w wieku 65+)."
+                                             },
+                                             {
+                                                 "pair1":  "II wojna światowa (mała liczba urodzeń w czasie okupacji)",
+                                                 "pair2":  "Wyraźne wcięcie niżowe w piramidzie wieku dla roczników urodzonych w latach 40. XX wieku."
+                                             },
+                                             {
+                                                 "pair1":  "Transformacja ustrojowa i zmiany stylu życia po 1989 r.",
+                                                 "pair2":  "Gwałtowny spadek współczynnika dzietności poniżej progu zastępowalności pokoleń."
+                                             },
+                                             {
+                                                 "pair1":  "Utrwalony model rodziny wielodzietnej (np. na Kaszubach)",
+                                                 "pair2":  "Utrzymywanie się dodatniego przyrostu naturalnego w powiatach takich jak kartuski."
+                                             },
+                                             {
+                                                 "pair1":  "Zmniejszenie liczby urodzeń w ostatnich dekadach",
+                                                 "pair2":  "Zwężenie podstawy piramidy wieku i płci ludności Polski."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Ile wynosił współczynnik feminizacji w Polsce w 2019 roku (ogólna średnia dla kraju)?",
+                                      "options":  [
+                                                      "101 (na 100 mężczyzn przypada 101 kobiet), co oznaczałoby niemal idealną równowagę płci w społeczeństwie.",
+                                                      "107 (na 100 mężczyzn przypada 107 kobiet)",
+                                                      "111 (na 100 mężczyzn przypada 111 kobiet), co jest wartością typową dla dużych miast wojewódzkich.",
+                                                      "98 (na 100 mężczyzn przypada 98 kobiet)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W Polsce występuje przewaga liczebna kobiet nad mężczyznami (ok. 51,7% populacji to kobiety), co daje współczynnik feminizacji na poziomie 107."
+                                  },
+                                  {
+                                      "question":  "Co jest główną cechą procesu starzenia się społeczeństwa polskiego widoczną w strukturze wieku?",
+                                      "options":  [
+                                                      "Gwałtowny wzrost udziału dzieci (0–14 lat) i spadek udziału osób starszych, typowy dla fazy eksplozji demograficznej.",
+                                                      "Stabilizacja udziału wszystkich grup wiekowych na niezmiennym poziomie przez ostatnie dekady.",
+                                                      "Spadek udziału dzieci (0–14 lat) i wzrost udziału osób w wieku 65 lat i więcej",
+                                                      "Gwałtowny wzrost liczby osób w wieku produkcyjnym, przewyższający tempo starzenia się."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Niska dzietność oraz wydłużanie się średniej długości życia powodują, że odsetek dzieci maleje, a seniorów rośnie (osiągając ponad 18% w 2019 r.)."
+                                  },
+                                  {
+                                      "question":  "Jak definiuje się ludność w wieku przedprodukcyjnym w Polsce?",
+                                      "options":  [
+                                                      "Osoby, które mają mniej niż 18 lat",
+                                                      "Osoby w wieku 0–14 lat, co jest standardem międzynarodowym stosowanym przez ONZ.",
+                                                      "Osoby uczące się do 24 roku życia, pozostające na utrzymaniu rodziców.",
+                                                      "Osoby, które nie podjęły jeszcze pierwszej pracy zawodowej, niezależnie od wieku."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W polskiej statystyce (GUS) ekonomiczne grupy wieku to: przedprodukcyjny (0–17 lat), produkcyjny (18–59/64) i poprodukcyjny (60+/65+)."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „mediana wieku” (wiek środkowy), która w 2019 r. wynosiła w Polsce 41,3 lat?",
+                                      "options":  [
+                                                      "Jest to średnia arytmetyczna wieku wszystkich Polaków, obliczona przez sumowanie lat życia.",
+                                                      "Jest to wiek, którego statystycznie nie dożywa połowa społeczeństwa polskiego.",
+                                                      "Jest to wartość dzieląca populację na dwie równe części (połowa ma mniej, połowa więcej lat)",
+                                                      "Jest to najczęściej występujący wiek w populacji (dominanta), reprezentujący najliczniejszy rocznik."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Mediana wieku to parametr statystyczny dzielący zbiorowość na dwie równe połowy; jej wzrost świadczy o starzeniu się populacji."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną wyraźnego wcięcia w piramidzie wieku ludności Polski widocznego u osób w wieku około 75–79 lat (dane na 2019 r.)?",
+                                      "options":  [
+                                                      "Echo wyżu demograficznego, które wystąpiło w latach 80. XX wieku.",
+                                                      "Wzmożona emigracja zarobkowa w latach 80., która objęła głównie osoby w tym wieku.",
+                                                      "Mała liczebność roczników urodzonych w czasie II wojny światowej",
+                                                      "Epidemia grypy w latach 50., która zdziesiątkowała tę grupę wiekową."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W czasie II wojny światowej (1939–1945) nastąpił drastyczny spadek urodzeń oraz wzrost śmiertelności niemowląt (niż wojenny), co jest widoczne jako wcięcie w piramidzie."
+                                  },
+                                  {
+                                      "question":  "Dlaczego współczynnik feminizacji w polskich miastach (111) jest wyższy niż na wsiach (101)?",
+                                      "options":  [
+                                                      "Ponieważ na wsi rodzi się statystycznie znacznie więcej chłopców niż w mieście.",
+                                                      "Ponieważ kobiety migrują ze wsi do miast w celach edukacyjnych i zawodowych",
+                                                      "Ponieważ mężczyźni żyją w miastach znacznie krócej niż na wsi z powodu zanieczyszczeń.",
+                                                      "Ponieważ polityka prorodzinna jest skuteczniejsza w miastach, zachęcając kobiety do osiedlania się."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kobiety częściej niż mężczyźni opuszczają wieś, poszukując pracy w sektorze usług lub edukacji, które koncentrują się w miastach."
+                                  },
+                                  {
+                                      "question":  "Zjawisko „nadumieralności mężczyzn” w Polsce powoduje, że:",
+                                      "options":  [
+                                                      "W najmłodszych rocznikach (0–4 lata) rodzi się znacznie więcej dziewczynek niż chłopców.",
+                                                      "Równowaga płci utrzymuje się w populacji Polski aż do 80. roku życia.",
+                                                      "W starszych grupach wiekowych (powyżej 60-70 lat) występuje drastyczna przewaga liczebna kobiet",
+                                                      "Średnia długość życia mężczyzn jest wyższa niż kobiet o kilka lat."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Mężczyźni żyją krócej (m.in. z powodu trybu życia, wypadków, chorób cywilizacyjnych), co sprawia, że w starszych rocznikach dominują kobiety (feminizacja starości)."
+                                  },
+                                  {
+                                      "question":  "W jakim przedziale wiekowym w Polsce utrzymuje się naturalna nadwyżka liczby mężczyzn nad liczbą kobiet?",
+                                      "options":  [
+                                                      "Od urodzenia do około 50. roku życia",
+                                                      "Tylko w grupie wiekowej 0–4 lata, potem następuje przewaga kobiet.",
+                                                      "W całym okresie wieku produkcyjnego (18–64 lata), aż do momentu przejścia na emeryturę.",
+                                                      "Nadwyżka mężczyzn nie występuje w żadnej grupie wiekowej w Polsce."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Rodzi się więcej chłopców niż dziewczynek (ok. 106:100), a przewaga ta utrzymuje się do wieku średniego, kiedy to nadumieralność mężczyzn odwraca proporcje."
+                                  },
+                                  {
+                                      "question":  "Które wydarzenie demograficzne odpowiada za „wybrzuszenie” piramidy wieku dla roczników urodzonych w latach 80. XX wieku?",
+                                      "options":  [
+                                                      "Wyż kompensacyjny, który nastąpił bezpośrednio po zakończeniu II wojny światowej.",
+                                                      "Echo wyżu demograficznego",
+                                                      "Masowy napływ imigrantów ze Wschodu, który miał miejsce w latach 80.",
+                                                      "Gwałtowny wzrost dzietności spowodowany wprowadzeniem programu 500+."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jest to drugie powojenne wyżowe pokolenie (dzieci osób urodzonych w wyżu kompensacyjnym lat 50.)."
+                                  },
+                                  {
+                                      "question":  "Jaki jest ustawowy wiek produkcyjny dla mężczyzn w Polsce przyjęty w statystyce?",
+                                      "options":  [
+                                                      "18–59 lat, tak samo jak dla kobiet.",
+                                                      "18–64 lata",
+                                                      "18–67 lat, zgodnie z podwyższonym wiekiem emerytalnym w UE.",
+                                                      "24–65 lat, po zakończeniu edukacji wyższej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dla mężczyzn wiek produkcyjny to 18–64 lata, a dla kobiet 18–59 lat (zgodnie z wiekiem emerytalnym)."
+                                  },
+                                  {
+                                      "question":  "Analizując mapę wskaźnika starości demograficznej, w których regionach Polski odnotowuje się najniższy udział osób starszych i dlaczego?",
+                                      "options":  [
+                                                      "W Polsce środkowej i wschodniej z powodu masowej emigracji ludzi młodych.",
+                                                      "W województwach zachodnich (Ziemie Odzyskane) z powodu napływu zagranicznych emerytów.",
+                                                      "Na północy (Pomorskie) i południu (Małopolskie) z powodu wyższego przyrostu naturalnego i tradycyjnego modelu rodziny",
+                                                      "W województwie łódzkim z powodu skutecznej rewitalizacji miast przyciągającej młodzież."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Regiony te (np. Kaszuby, Małopolska) charakteryzują się wyższą dzietnością i strukturą wieku młodszą niż średnia krajowa (w przeciwieństwie np. do woj. łódzkiego)."
+                                  },
+                                  {
+                                      "question":  "Jaki wpływ na system finansów publicznych będzie miała prognozowana zmiana struktury wieku do 2050 roku?",
+                                      "options":  [
+                                                      "Zmniejszenie wydatków budżetowych na cele socjalne dzięki ogólnemu spadkowi liczby ludności.",
+                                                      "Konieczność zwiększenia obciążeń podatkowych pracujących w celu sfinansowania emerytur (zwiększenie współczynnika obciążenia demograficznego)",
+                                                      "Znaczny wzrost wpływów ze składek emerytalnych dzięki wydłużeniu aktywności zawodowej seniorów.",
+                                                      "Brak istotnego wpływu, ponieważ system emerytalny jest w pełni zbilansowany i niezależny od demografii."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wzrost liczby osób w wieku poprodukcyjnym przy jednoczesnym spadku liczby pracujących (płatników składek) oznacza większe obciążenie systemu."
+                                  },
+                                  {
+                                      "question":  "Porównując piramidy wieku z lat 1995 i prognozę na 2050 r., jak zmieni się kształt wykresu?",
+                                      "options":  [
+                                                      "Z kształtu zbliżonego do dzwonu przejdzie w kształt trójkąta z szeroką podstawą (progresywny).",
+                                                      "Podstawa ulegnie drastycznemu zwężeniu, a góra rozszerzeniu (kształt urny/grzyba), co oznacza zanik zastępowalności pokoleń",
+                                                      "Kształt pozostanie bez zmian, zmienią się tylko liczby bezwzględne w poszczególnych rocznikach.",
+                                                      "Znikną wszelkie wcięcia niżowe, tworząc idealny prostokąt (struktura stacjonarna)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Piramida staje się regresywna (kształt grzyba): wąska podstawa (mało urodzeń) i szeroki wierzchołek (dużo seniorów)."
+                                  },
+                                  {
+                                      "question":  "W kontekście rynku pracy, jakie zagrożenie niesie ze sobą „luka pokoleniowa” widoczna w strukturze demograficznej?",
+                                      "options":  [
+                                                      "Nadmiar pracowników na rynku i gwałtowny wzrost bezrobocia wśród osób młodych.",
+                                                      "Masowa likwidacja szkół wyższych z powodu całkowitego braku kadry dydaktycznej.",
+                                                      "Niedobory rąk do pracy w niszowych, ale niezbędnych zawodach oraz konieczność importu siły roboczej",
+                                                      "Całkowity spadek zapotrzebowania na usługi opiekuńcze i medyczne."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Odchodzenie na emeryturę licznych roczników wyżu nie jest rekompensowane przez wchodzące na rynek nieliczne roczniki niżu, co tworzy lukę podażową pracy."
+                                  },
+                                  {
+                                      "question":  "Gdzie w Polsce występuje najwyższy wskaźnik starości demograficznej (udział osób 65+)?",
+                                      "options":  [
+                                                      "W województwach zachodnich (Ziemie Odzyskane), które są regionami imigracyjnymi.",
+                                                      "W dużych aglomeracjach miejskich, gdzie rodzi się najwięcej dzieci.",
+                                                      "We wschodniej i środkowej części kraju (obszary odpływu młodej ludności)",
+                                                      "W pasie pojezierzy, który charakteryzuje się najmłodszą strukturą wieku."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Obszary peryferyjne (ściana wschodnia, wsie woj. łódzkiego i świętokrzyskiego) wyludniają się z młodych, co przyspiesza starzenie się pozostałej populacji."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Współczynnik feminizacji w Polsce wynosi ok. 107, co oznacza, że kobiety przeważają liczebnie nad mężczyznami w każdej grupie wiekowej.",
+                                           "answer":  false,
+                                           "explanation":  "Zjawisko to nie dotyczy wszystkich grup. W młodszych rocznikach rodzi się więcej chłopców i naturalna nadwyżka mężczyzn utrzymuje się w Polsce aż do około 50. roku życia."
+                                       },
+                                       {
+                                           "sentence":  "Współczynnik feminizacji jest wyższy na obszarach wiejskich niż w miastach z powodu większego przywiązania kobiet do tradycji wiejskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie. Wyższy współczynnik feminizacji występuje w miastach (ok. 111) niż na wsiach (ok. 101). Kobiety częściej migrują ze wsi do miast w celach edukacyjnych i zarobkowych."
+                                       },
+                                       {
+                                           "sentence":  "Asymetria w górnej części piramidy wieku (powyżej 70. roku życia) wskazuje na znaczną nadwyżkę liczby mężczyzn.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to nadwyżka kobiet. Wynika ona z wyższej średniej długości trwania życia kobiet (81,8 lat) oraz zjawiska nadumieralności mężczyzn (średnia długość życia 74,1 lat)."
+                                       },
+                                       {
+                                           "sentence":  "Ekonomiczna grupa wieku produkcyjnego jest w Polsce zdefiniowana tak samo dla obu płci (18–64 lata).",
+                                           "answer":  false,
+                                           "explanation":  "W Polsce występują różnice w definicji wieku produkcyjnego ze względu na płeć: dla mężczyzn jest to przedział 18–64 lata, natomiast dla kobiet 18–59 lat."
+                                       },
+                                       {
+                                           "sentence":  "Obecna sytuacja demograficzna Polski charakteryzuje się fazą dynamicznego rozwoju (eksplozji demograficznej).",
+                                           "answer":  false,
+                                           "explanation":  "Polska znajduje się w fazie regresu demograficznego (implozji). Od 2012 roku liczba ludności spada (ujemny przyrost naturalny i rzeczywisty), a społeczeństwo się starzeje."
+                                       },
+                                       {
+                                           "sentence":  "Współczynnik urbanizacji w Polsce stale rośnie od lat 90. XX wieku w wyniku migracji do dużych miast.",
+                                           "answer":  false,
+                                           "explanation":  "Wskaźnik urbanizacji w Polsce spada (z 62% w 1991 r. do 60% w 2019 r.). Wynika to z procesu suburbanizacji (odpływu ludności z miast na tereny podmiejskie) oraz zmian administracyjnych."
+                                       },
+                                       {
+                                           "sentence":  "Mediana wieku ludności Polski w 2019 roku była wyższa od średniej mediany wieku w krajach Unii Europejskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Mediana wieku w Polsce (41,3 lat) była niższa niż w UE (43,7 lat), jednak tempo starzenia się społeczeństwa polskiego jest bardzo szybkie (wzrost mediany o 3,3 roku w latach 2010–2019)."
+                                       },
+                                       {
+                                           "sentence":  "Tak zwane „echo wyżu demograficznego” widoczne na piramidzie wieku to roczniki urodzone w latach 50. XX wieku.",
+                                           "answer":  false,
+                                           "explanation":  "Roczniki z lat 50. to właściwy wyż kompensacyjny. „Echo wyżu” to ich dzieci, czyli liczne roczniki urodzone w latach 80. XX wieku (szczyt w 1983 r.)."
+                                       },
+                                       {
+                                           "sentence":  "Współczynnik dzietności w Polsce w 2019 roku osiągnął poziom gwarantujący prostą zastępowalność pokoleń (powyżej 2,1).",
+                                           "answer":  false,
+                                           "explanation":  "Współczynnik dzietności wynosił 1,42, co jest wartością znacznie poniżej progu prostej zastępowalności pokoleń (2,1–2,15), co prowadzi do kurczenia się populacji."
+                                       },
+                                       {
+                                           "sentence":  "Wcięcie w piramidzie wieku ludności Polski u osób w wieku 75–79 lat (w 2019 r.) jest skutkiem niżu wojennego.",
+                                           "answer":  true,
+                                           "explanation":  "Wyraźne zwężenie piramidy w tej grupie wiekowej wynika z małej liczby urodzeń i dużej śmiertelności w okresie II wojny światowej."
+                                       },
+                                       {
+                                           "sentence":  "Największą gęstością zaludnienia w Polsce charakteryzują się województwa wschodnie (np. podlaskie).",
+                                           "answer":  false,
+                                           "explanation":  "Województwa wschodnie (podlaskie, warmińsko-mazurskie) mają najniższą gęstość zaludnienia. Najwyższa występuje na południu (śląskie, małopolskie)."
+                                       }
+                                   ]
+                 }
+}

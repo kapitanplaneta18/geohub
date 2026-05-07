@@ -1,0 +1,350 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz2-t4",
+                     "unit":  "II",
+                     "title":  "Czas na Ziemi",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Czas słoneczny (miejscowy)",
+                                              "definition":  "Czas oparty na pozornym ruchu Słońca, ustalany dla danej miejscowości na podstawie momentu górowania Słońca (południa słonecznego), który wyznacza godzinę 12.00."
+                                          },
+                                          {
+                                              "term":  "Górowanie Słońca (południe słoneczne)",
+                                              "definition":  "Moment w ciągu doby, w którym Słońce znajduje się najwyżej nad horyzontem na danym południku."
+                                          },
+                                          {
+                                              "term":  "Czas średni słoneczny",
+                                              "definition":  "Czas wyznaczany przez tzw. słońce średnie (fikcyjny obiekt poruszający się ze stałą prędkością), wprowadzony w celu wyeliminowania nierównomierności czasu prawdziwego słonecznego."
+                                          },
+                                          {
+                                              "term":  "UTC (Uniwersalny Czas Koordynowany)",
+                                              "definition":  "Podstawa rachuby czasu na świecie, liczona według czasu średniego słonecznego dla południka 0°, który przebiega przez Greenwich."
+                                          },
+                                          {
+                                              "term":  "Czas strefowy",
+                                              "definition":  "Czas umowny obowiązujący w jednej z 24 stref czasowych, z których każda obejmuje pas o szerokości 15° długości geograficznej; czas w sąsiednich strefach różni się o pełną godzinę."
+                                          },
+                                          {
+                                              "term":  "Czas urzędowy",
+                                              "definition":  "Czas wprowadzany przez państwa dla ułatwienia organizacji życia (często z podziałem na letni i zimowy), obowiązujący na obszarze wykraczającym poza jedną strefę czasową."
+                                          },
+                                          {
+                                              "term":  "Międzynarodowa linia zmiany daty",
+                                              "definition":  "Umowna granica biegnąca wzdłuż południka 180° (z modyfikacjami), której przekroczenie wiąże się ze zmianą daty kalendarzowej."
+                                          },
+                                          {
+                                              "term":  "1 stopień długości geograficznej",
+                                              "definition":  "Odpowiada różnicy czasu słonecznego wynoszącej 4 minuty."
+                                          },
+                                          {
+                                              "term":  "15 stopni długości geograficznej",
+                                              "definition":  "Odpowiada różnicy czasu słonecznego wynoszącej 1 godzinę."
+                                          },
+                                          {
+                                              "term":  "Reguła przekraczania linii zmiany daty na wschód (E)",
+                                              "definition":  "Podróżując z półkuli wschodniej na zachodnią (np. z Azji do Ameryki), odejmujemy jeden dzień (tę samą datę przeżywamy dwa razy)."
+                                          },
+                                          {
+                                              "term":  "Reguła przekraczania linii zmiany daty na zachód (W)",
+                                              "definition":  "Podróżując z półkuli zachodniej na wschodnią (np. z Ameryki do Azji), dodajemy jeden dzień (np. pomijamy jedną datę w kalendarzu)."
+                                          },
+                                          {
+                                              "term":  "Czas letni w Polsce",
+                                              "definition":  "Czas urzędowy przesunięty o godzinę do przodu względem czasu zimowego, odpowiadający czasowi strefy wschodnioeuropejskiej (UTC + 2 h)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Czas strefowy",
+                                                 "pair2":  "Czas umowny dla pasa o szerokości 15° długości geograficznej"
+                                             },
+                                             {
+                                                 "pair1":  "15° długości geograficznej",
+                                                 "pair2":  "1 godzina różnicy czasu słonecznego"
+                                             },
+                                             {
+                                                 "pair1":  "1° długości geograficznej",
+                                                 "pair2":  "4 minuty różnicy czasu słonecznego"
+                                             },
+                                             {
+                                                 "pair1":  "UTC (Czas w Greenwich)",
+                                                 "pair2":  "Czas średni słoneczny na południku 0°"
+                                             },
+                                             {
+                                                 "pair1":  "Przekraczanie linii zmiany daty na wschód (E)",
+                                                 "pair2":  "Odejmujemy jedną dobę (np. poniedziałek staje się niedzielą)"
+                                             },
+                                             {
+                                                 "pair1":  "Przekraczanie linii zmiany daty na zachód (W)",
+                                                 "pair2":  "Dodajemy jedną dobę (np. niedziela staje się poniedziałkiem)"
+                                             },
+                                             {
+                                                 "pair1":  "Czas urzędowy zimowy w Polsce",
+                                                 "pair2":  "Czas środkowoeuropejski (UTC + 1 h)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "O jaki kąt obraca się Ziemia wokół własnej osi w ciągu jednej godziny?",
+                                      "options":  [
+                                                      "1°",
+                                                      "4°",
+                                                      "15°",
+                                                      "24°"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ziemia wykonuje pełny obrót (360°) w ciągu 24 godzin. 360° : 24 = 15° na godzinę."
+                                  },
+                                  {
+                                      "question":  "Ile czasu zajmuje Ziemi obrót o 1° długości geograficznej?",
+                                      "options":  [
+                                                      "1 minuta",
+                                                      "4 minuty",
+                                                      "15 minut",
+                                                      "60 minut"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skoro obrót o 15° trwa 60 minut, to obrót o 1° trwa 4 minuty (60 : 15 = 4)."
+                                  },
+                                  {
+                                      "question":  "Który rodzaj czasu liczony jest według średniego czasu słonecznego dla południka 0°?",
+                                      "options":  [
+                                                      "Czas strefowy",
+                                                      "Czas urzędowy",
+                                                      "Uniwersalny (UTC)",
+                                                      "Czas letni"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Czas uniwersalny koordynowany (UTC) liczony jest według czasu średniego słonecznego dla południka 0° (Greenwich)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest rozciągłość południkowa jednej strefy czasowej?",
+                                      "options":  [
+                                                      "1°",
+                                                      "15°",
+                                                      "24°",
+                                                      "180°"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kula ziemska została umownie podzielona na 24 strefy czasowe, z których każda obejmuje 15° długości geograficznej."
+                                  },
+                                  {
+                                      "question":  "Jeśli na południku 0° (Greenwich) jest południe słoneczne (12:00), która godzina jest na południku 15°E?",
+                                      "options":  [
+                                                      "11:00",
+                                                      "12:15",
+                                                      "13:00",
+                                                      "14:00"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "15° różnicy to 1 godzina. Punkt 15°E leży na wschód od 0°, więc czas jest tam późniejszy: 12:00 + 1h = 13:00."
+                                  },
+                                  {
+                                      "question":  "W którą stronę należy przestawić zegarki przy przekraczaniu międzynarodowej linii zmiany daty z półkuli wschodniej na zachodnią (np. z Azji do Ameryki)?",
+                                      "options":  [
+                                                      "Odjąć 1 dzień",
+                                                      "Dodać 1 dzień",
+                                                      "Odjąć 1 godzinę",
+                                                      "Dodać 12 godzin"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Przy podróży z półkuli wschodniej na zachodnią (kierunek wschodni) odejmuje się jeden dzień (np. poniedziałek staje się niedzielą)."
+                                  },
+                                  {
+                                      "question":  "Miejscowość A leży na 20°E, a miejscowość B na 40°E. Jaka jest różnica czasu słonecznego między nimi?",
+                                      "options":  [
+                                                      "20 minut",
+                                                      "40 minut",
+                                                      "1 godz. 20 min",
+                                                      "2 godz."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Różnica długości: 40° - 20° = 20°. Czas: 20° * 4 min = 80 min = 1 godz. 20 min."
+                                  },
+                                  {
+                                      "question":  "W miejscowości X (30°E) jest 10:00 czasu słonecznego. Która godzina jest w miejscowości Y (35°E)?",
+                                      "options":  [
+                                                      "09:40",
+                                                      "10:05",
+                                                      "10:20",
+                                                      "10:35"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Różnica 5°. Czas: 5 * 4 min = 20 min. Y leży na wschód od X, więc dodajemy czas: 10:00 + 20 min = 10:20."
+                                  },
+                                  {
+                                      "question":  "W punkcie A (50°W) jest 15:00 czasu słonecznego. Która godzina jest w punkcie B (20°W)?",
+                                      "options":  [
+                                                      "13:00",
+                                                      "14:30",
+                                                      "16:00",
+                                                      "17:00"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Oba punkty na zachodzie. Różnica: 50° - 20° = 30°. Czas: 30° * 4 min = 120 min = 2h. Punkt B (20°W) leży na wschód od A, więc jest tam później: 15:00 + 2h = 17:00."
+                                  },
+                                  {
+                                      "question":  "Oblicz różnicę czasu słonecznego między punktem A (10°E) a punktem B (10°W).",
+                                      "options":  [
+                                                      "20 minut",
+                                                      "40 minut",
+                                                      "1 godz. 20 min",
+                                                      "1 godz. 40 min"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Punkty na różnych półkulach, dodajemy wartości: 10° + 10° = 20°. Czas: 20° * 4 min = 80 min = 1 godz. 20 min."
+                                  },
+                                  {
+                                      "question":  "W Warszawie (21°E) jest 12:00 czasu słonecznego. Która godzina czasu słonecznego jest w punkcie położonym na 19°E?",
+                                      "options":  [
+                                                      "11:52",
+                                                      "11:58",
+                                                      "12:02",
+                                                      "12:08"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Różnica: 21° - 19° = 2°. Czas: 2° * 4 min = 8 min. Punkt 19°E leży na zachód od Warszawy, więc odejmujemy: 12:00 - 8 min = 11:52."
+                                  },
+                                  {
+                                      "question":  "Jeśli w strefie czasu uniwersalnego (UTC) jest 10:00, która godzina czasu strefowego jest w Polsce w zimie (UTC+1)?",
+                                      "options":  [
+                                                      "09:00",
+                                                      "10:00",
+                                                      "11:00",
+                                                      "12:00"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Czas zimowy w Polsce to UTC+1. 10:00 + 1h = 11:00."
+                                  },
+                                  {
+                                      "question":  "Samolot startuje z Warszawy (strefa UTC+1) o 14:00 i leci do Londynu (strefa UTC). Lot trwa 2 godziny. O której godzinie czasu strefowego wyląduje w Londynie?",
+                                      "options":  [
+                                                      "14:00",
+                                                      "15:00",
+                                                      "16:00",
+                                                      "17:00"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Start: 14:00 czasu PL = 13:00 czasu UK (bo UTC = UTC+1 - 1h). Lot: 2h. Lądowanie: 13:00 + 2h = 15:00."
+                                  },
+                                  {
+                                      "question":  "W miejscowości A jest 12:00 czasu słonecznego. W miejscowości B jest 12:40. Gdzie leży miejscowość B względem A?",
+                                      "options":  [
+                                                      "10° na wschód",
+                                                      "10° na zachód",
+                                                      "40° na wschód",
+                                                      "40° na zachód"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Różnica czasu 40 minut. Długość: 40 : 4 = 10°. Czas w B jest późniejszy (12:40 \u003e 12:00), więc B leży na wschód od A."
+                                  },
+                                  {
+                                      "question":  "Jaka jest różnica długości geograficznej między punktami, których czas słoneczny różni się o 3 godziny?",
+                                      "options":  [
+                                                      "15°",
+                                                      "30°",
+                                                      "45°",
+                                                      "60°"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "3 godziny = 180 minut. 180 : 4 = 45°. Alternatywnie: 3h * 15°/h = 45°."
+                                  },
+                                  {
+                                      "question":  "W miejscowości X (40°E) jest 16:00 czasu słonecznego. W miejscowości Y jest 14:20. Jaka jest długość geograficzna miejscowości Y?",
+                                      "options":  [
+                                                      "15°E",
+                                                      "25°E",
+                                                      "65°E",
+                                                      "15°W"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Różnica czasu: 1h 40min = 100 min. Różnica długości: 100 : 4 = 25°. Czas w Y jest wcześniejszy, więc Y leży na zachód od X. 40°E - 25° = 15°E."
+                                  },
+                                  {
+                                      "question":  "Podróżny przekracza linię zmiany daty z zachodu na wschód (np. z Japonii do USA). Jak zmienia datę?",
+                                      "options":  [
+                                                      "Odejmuje 1 dzień",
+                                                      "Dodaje 1 dzień",
+                                                      "Nie zmienia daty",
+                                                      "Dodaje 12 godzin"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Przekraczając linię zmiany daty (180°) z półkuli wschodniej (Japonia) na zachodnią (USA), należy odjąć jeden dzień (np. z poniedziałku robi się niedziela)."
+                                  },
+                                  {
+                                      "question":  "W Londynie (0°) jest 12:00. Wyznacz długość geograficzną punktu, w którym jest 17:20 czasu słonecznego.",
+                                      "options":  [
+                                                      "75°E",
+                                                      "80°E",
+                                                      "80°W",
+                                                      "85°E"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Różnica czasu: 5h 20min = 320 min. Różnica długości: 320 : 4 = 80°. Czas jest późniejszy (17:20 \u003e 12:00), więc punkt leży na wschód. 0° + 80° = 80°E."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Południe słoneczne (godzina 12.00) występuje w tym samym momencie we wszystkich miejscowościach leżących w tej samej strefie czasowej.",
+                                           "answer":  false,
+                                           "explanation":  "Jednakowy czas słoneczny występuje tylko w miejscach leżących na tym samym południku; czas strefowy jest czasem umownym, ujednoliconym dla całego obszaru strefy."
+                                       },
+                                       {
+                                           "sentence":  "Ponieważ Ziemia obraca się z zachodu na wschód, w miejscowościach położonych na wschód od danego punktu czas słoneczny jest zawsze późniejszy.",
+                                           "answer":  true,
+                                           "explanation":  "Ziemia obraca się z zachodu na wschód, dlatego Słońce wschodzi i góruje wcześniej w punktach położonych bardziej na wschód."
+                                       },
+                                       {
+                                           "sentence":  "Podróżując samolotem z Azji do Ameryki (z półkuli wschodniej na zachodnią), należy dodać jeden dzień do bieżącej daty.",
+                                           "answer":  false,
+                                           "explanation":  "Przekraczając linię zmiany daty z półkuli wschodniej na zachodnią (kierunek wschodni), należy odjąć jeden dzień (tę samą datę przeżywa się dwa razy)."
+                                       },
+                                       {
+                                           "sentence":  "Obrót Ziemi o 1 stopień długości geograficznej odpowiada różnicy czasu słonecznego wynoszącej 4 minuty.",
+                                           "answer":  true,
+                                           "explanation":  "Pełny obrót (360°) trwa 24 godziny (1440 minut), więc 1440 : 360 = 4 minuty na jeden stopień."
+                                       },
+                                       {
+                                           "sentence":  "Przejście z czasu zimowego na letni w Polsce wiąże się z przesunięciem wskazówek zegara o godzinę do tyłu.",
+                                           "answer":  false,
+                                           "explanation":  "Przejście na czas letni wymaga przesunięcia wskazówek o godzinę do przodu (z UTC+1 na UTC+2)."
+                                       },
+                                       {
+                                           "sentence":  "Podstawą Uniwersalnego Czasu Koordynowanego (UTC) jest czas średni słoneczny na południku 180°.",
+                                           "answer":  false,
+                                           "explanation":  "UTC liczony jest według czasu średniego słonecznego dla południka 0° (przebiegającego przez Greenwich)."
+                                       },
+                                       {
+                                           "sentence":  "Każda ze stref czasowych obejmuje teoretycznie pas o szerokości 15 stopni długości geograficznej.",
+                                           "answer":  true,
+                                           "explanation":  "Kula ziemska została podzielona na 24 strefy czasowe, a wynik dzielenia 360° przez 24 daje szerokość 15°."
+                                       },
+                                       {
+                                           "sentence":  "Mimo że terytorium Polski rozciąga się w dwóch strefach czasowych, w całym kraju obowiązuje jeden czas urzędowy.",
+                                           "answer":  true,
+                                           "explanation":  "Polska leży w zasięgu strefy czasu środkowoeuropejskiego i wschodnioeuropejskiego, ale dla wygody stosuje się jeden czas urzędowy."
+                                       },
+                                       {
+                                           "sentence":  "Podróżny przekraczający międzynarodową linię zmiany daty w kierunku zachodnim (z Ameryki do Azji) \u0027traci\u0027 jeden dzień.",
+                                           "answer":  true,
+                                           "explanation":  "Przekraczając linię zmiany daty z półkuli zachodniej na wschodnią (kierunek zachodni), dodajemy jeden dzień do daty, czyli np. po niedzieli następuje od razu wtorek."
+                                       },
+                                       {
+                                           "sentence":  "Czas średni słoneczny jest wyznaczany przez słońce prawdziwe i zmienia się nierównomiernie w ciągu roku.",
+                                           "answer":  false,
+                                           "explanation":  "Czas średni słoneczny wyznacza się przez tzw. słońce średnie (fikcyjny obiekt), aby wyeliminować nierównomierności wynikające z ruchu Ziemi po orbicie."
+                                       },
+                                       {
+                                           "sentence":  "Czas zimowy w Polsce odpowiada czasowi strefy środkowoeuropejskiej (UTC + 1 h).",
+                                           "answer":  true,
+                                           "explanation":  "W Polsce czas zimowy to czas środkowoeuropejski (UTC+1), natomiast czas letni to czas wschodnioeuropejski (UTC+2)."
+                                       }
+                                   ]
+                 }
+}

@@ -1,0 +1,346 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t1",
+                     "unit":  "V",
+                     "title":  "Budowa wnętrza Ziemi",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Metody bezpośrednie badania wnętrza Ziemi",
+                                              "definition":  "Badania polegające na analizie materiału skalnego wydostającego się na powierzchnię (np. lawy) oraz wykonywaniu głębokich odwiertów."
+                                          },
+                                          {
+                                              "term":  "Metody pośrednie badania wnętrza Ziemi",
+                                              "definition":  "Badania opierające się głównie na analizie przebiegu fal sejsmicznych, które zmieniają prędkość i kierunek w zależności od ośrodka."
+                                          },
+                                          {
+                                              "term":  "Najgłębszy odwiert badawczy",
+                                              "definition":  "Odwiert wykonany na rosyjskiej wyspie Sachalin, sięgający głębokości 15 km."
+                                          },
+                                          {
+                                              "term":  "Najgłębsze miejsce dostępne dla człowieka",
+                                              "definition":  "Kopalnia złota Mponeng w RPA, gdzie udało się zejść na głębokość nieco ponad 4 km."
+                                          },
+                                          {
+                                              "term":  "Litosfera",
+                                              "definition":  "Zewnętrzna, sztywna powłoka Ziemi składająca się ze skorupy ziemskiej oraz zewnętrznej części płaszcza górnego."
+                                          },
+                                          {
+                                              "term":  "Skorupa oceaniczna",
+                                              "definition":  "Cieńsza odmiana skorupy ziemskiej występująca pod oceanami, o grubości od 5 do 12 km."
+                                          },
+                                          {
+                                              "term":  "Skorupa kontynentalna",
+                                              "definition":  "Grubsza odmiana skorupy ziemskiej występująca pod lądami, o grubości ok. 80 km."
+                                          },
+                                          {
+                                              "term":  "Powierzchnia nieciągłości Moho",
+                                              "definition":  "Dolna granica skorupy ziemskiej oddzielająca ją od płaszcza Ziemi."
+                                          },
+                                          {
+                                              "term":  "Płaszcz górny",
+                                              "definition":  "Warstwa obejmująca zewnętrzną część o cechach ciała stałego oraz głębiej położoną warstwę półplastyczną."
+                                          },
+                                          {
+                                              "term":  "Temperatura płaszcza górnego",
+                                              "definition":  "Wynosi ok. 1600°C."
+                                          },
+                                          {
+                                              "term":  "Płaszcz dolny",
+                                              "definition":  "Warstwa wnętrza Ziemi wykazująca właściwości ciała plastycznego i temperaturę ok. 3000°C."
+                                          },
+                                          {
+                                              "term":  "Powierzchnia nieciągłości Wiecherta-Gutenberga",
+                                              "definition":  "Granica oddzielająca płaszcz dolny od jądra zewnętrznego."
+                                          },
+                                          {
+                                              "term":  "Jądro zewnętrzne",
+                                              "definition":  "Warstwa jądra Ziemi mająca właściwości ciała ciekłego i temperaturę ok. 4500°C."
+                                          },
+                                          {
+                                              "term":  "Jądro wewnętrzne",
+                                              "definition":  "Najgłębsza część wnętrza Ziemi wykazująca cechy ciała stałego, z temperaturą przekraczającą 6000°C."
+                                          },
+                                          {
+                                              "term":  "Prądy konwekcyjne",
+                                              "definition":  "Ruchy magmy w płaszczu Ziemi wywoływane przez ciepło z wnętrza planety, powodujące przemieszczanie się płyt litosfery."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Nieciągłość Moho",
+                                                 "pair2":  "Granica skorupy ziemskiej i płaszcza"
+                                             },
+                                             {
+                                                 "pair1":  "Nieciągłość Wiecherta-Gutenberga",
+                                                 "pair2":  "Granica płaszcza dolnego i jądra zewnętrznego"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda bezpośrednia",
+                                                 "pair2":  "Wykonywanie odwiertów"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda pośrednia",
+                                                 "pair2":  "Analiza fal sejsmicznych"
+                                             },
+                                             {
+                                                 "pair1":  "Skorupa oceaniczna",
+                                                 "pair2":  "Grubość 5–12 km"
+                                             },
+                                             {
+                                                 "pair1":  "Skorupa kontynentalna",
+                                                 "pair2":  "Grubość ok. 80 km"
+                                             },
+                                             {
+                                                 "pair1":  "Jądro zewnętrzne",
+                                                 "pair2":  "Ciało ciekłe"
+                                             },
+                                             {
+                                                 "pair1":  "Jądro wewnętrzne",
+                                                 "pair2":  "Ciało stałe"
+                                             },
+                                             {
+                                                 "pair1":  "Płaszcz dolny",
+                                                 "pair2":  "Ciało plastyczne"
+                                             },
+                                             {
+                                                 "pair1":  "Najgłębszy odwiert (Sachalin)",
+                                                 "pair2":  "15 km"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Z jakich elementów zbudowana jest litosfera?",
+                                      "options":  [
+                                                      "Tylko ze sztywnej skorupy ziemskiej",
+                                                      "Ze skorupy ziemskiej i zewnętrznej części płaszcza górnego",
+                                                      "Ze skorupy ziemskiej i całego gorącego płaszcza górnego",
+                                                      "Z plastycznego płaszcza górnego oraz płaszcza dolnego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego tworzą litosferę."
+                                  },
+                                  {
+                                      "question":  "Jaka jest maksymalna głębokość, na którą udało się dotrzeć człowiekowi (kopalnia Mponeng)?",
+                                      "options":  [
+                                                      "ok. 4 km",
+                                                      "12 km",
+                                                      "15 km",
+                                                      "80 km"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Najgłębiej – nieco ponad 4 km – udało się zejść człowiekowi w kopalni złota Mponeng w RPA."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych metod badania wnętrza Ziemi zaliczana jest do metod pośrednich?",
+                                      "options":  [
+                                                      "Prowadzenie bardzo głębokich wierceń badawczych",
+                                                      "Badanie próbek skał pochodzących bezpośrednio z erupcji",
+                                                      "Analiza fal sejsmicznych",
+                                                      "Pobieranie próbek skalnych w najgłębszych kopalniach"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Najwięcej informacji na temat budowy wnętrza dostarczają metody pośrednie, zwłaszcza analiza przebiegu fal sejsmicznych."
+                                  },
+                                  {
+                                      "question":  "Ile wynosi przybliżona głębokość najgłębszego odwiertu wykonanego na wyspie Sachalin?",
+                                      "options":  [
+                                                      "4 km",
+                                                      "10 km",
+                                                      "12 km",
+                                                      "15 km"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Jednego z najgłębszych odwiertów – sięgającego 15 km – dokonano na rosyjskiej wyspie Sachalin."
+                                  },
+                                  {
+                                      "question":  "Jaka jest cecha charakterystyczna jądra zewnętrznego?",
+                                      "options":  [
+                                                      "Jest ciałem o stałym stanie skupienia",
+                                                      "Ma właściwości ciała ciekłego",
+                                                      "Jest znacznie chłodniejsze niż zewnętrzny płaszcz górny",
+                                                      "Budują je wyłącznie porowate skały osadowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jądro zewnętrzne ma właściwości ciała ciekłego, a temperatura w tej warstwie wynosi ok. 4500°C."
+                                  },
+                                  {
+                                      "question":  "Jaką grubość osiąga skorupa kontynentalna pod lądami?",
+                                      "options":  [
+                                                      "5–12 km",
+                                                      "15 km",
+                                                      "ok. 80 km",
+                                                      "100–200 km"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Pod lądami występuje skorupa kontynentalna, której grubość wynosi ok. 80 km."
+                                  },
+                                  {
+                                      "question":  "Gdzie znajduje się powierzchnia nieciągłości Moho?",
+                                      "options":  [
+                                                      "Między jądrem a płaszczem",
+                                                      "Między płaszczem górnym a dolnym",
+                                                      "Jako dolna granica skorupy ziemskiej",
+                                                      "W połowie głębokości jądra"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Dolną granicę skorupy ziemskiej stanowi powierzchnia nieciągłości Moho."
+                                  },
+                                  {
+                                      "question":  "Jaka temperatura panuje w płaszczu górnym?",
+                                      "options":  [
+                                                      "ok. 600°C",
+                                                      "ok. 1600°C",
+                                                      "ok. 3000°C",
+                                                      "ok. 4500°C"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Temperatura w płaszczu górnym wynosi ok. 1600°C."
+                                  },
+                                  {
+                                      "question":  "Która warstwa wnętrza Ziemi jest ciałem plastycznym o temperaturze ok. 3000°C?",
+                                      "options":  [
+                                                      "Skorupa oceaniczna",
+                                                      "Płaszcz górny",
+                                                      "Płaszcz dolny",
+                                                      "Jądro zewnętrzne"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Płaszcz dolny ma właściwości ciała plastycznego i temperaturę ok. 3000°C."
+                                  },
+                                  {
+                                      "question":  "Co oddziela powierzchnia nieciągłości Wiecherta-Gutenberga?",
+                                      "options":  [
+                                                      "Skorupę od płaszcza",
+                                                      "Płaszcz górny od dolnego",
+                                                      "Płaszcz dolny od jądra zewnętrznego",
+                                                      "Jądro zewnętrzne od wewnętrznego"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Dolną granicę płaszcza dolnego stanowi powierzchnia nieciągłości Wiecherta-Gutenberga."
+                                  },
+                                  {
+                                      "question":  "Jaką miąższość ma skorupa oceaniczna?",
+                                      "options":  [
+                                                      "5–12 km",
+                                                      "30–50 km",
+                                                      "80 km",
+                                                      "ponad 100 km"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Pod oceanami występuje skorupa oceaniczna, której grubość wynosi 5–12 km."
+                                  },
+                                  {
+                                      "question":  "Jaka temperatura prawdopodobnie panuje w jądrze wewnętrznym?",
+                                      "options":  [
+                                                      "1600°C",
+                                                      "3000°C",
+                                                      "4500°C",
+                                                      "ponad 6000°C"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Temperatura w jądrze wewnętrznym przekracza prawdopodobnie 6000°C."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się zewnętrzna część płaszcza górnego (tuż pod skorupą)?",
+                                      "options":  [
+                                                      "Znajduje się stale w stanie całkowicie płynnym",
+                                                      "Wykazuje charakterystyczne cechy ciała stałego",
+                                                      "Jest półplastyczna i ulega powolnym odkształceniom",
+                                                      "Nie występują tam żadne znane nauce skały stałe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zewnętrzna część płaszcza górnego wykazuje cechy ciała stałego. Dopiero poniżej znajduje się warstwa półplastyczna."
+                                  },
+                                  {
+                                      "question":  "Który z odwiertów jest opisywany w podręczniku jako jeden z najgłębszych?",
+                                      "options":  [
+                                                      "Odwiert na Półwyspie Kolskim",
+                                                      "Odwiert w Rowu Mariańskim",
+                                                      "Odwiert na wyspie Sachalin",
+                                                      "Odwiert w kopalni Mponeng"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Podręcznik przywołuje przykład jednego z najgłębszych odwiertów (15 km) na rosyjskiej wyspie Sachalin."
+                                  },
+                                  {
+                                      "question":  "W której warstwie Ziemi zachodzą powolne ruchy magmy (prądy konwekcyjne)?",
+                                      "options":  [
+                                                      "W najgłębszej części jądra wewnętrznego Ziemi",
+                                                      "W zewnętrznej (sztywnej) części płaszcza górnego Ziemi",
+                                                      "W półplastycznej warstwie płaszcza górnego Ziemi",
+                                                      "W sztywnej skorupie ziemskiej pod dnem oceanów"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Poniżej zewnętrznej części płaszcza górnego znajduje się półplastyczna warstwa, w której trwają powolne ruchy magmy."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Analiza fal sejsmicznych zaliczana jest do bezpośrednich metod badania wnętrza Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Zgodnie ze źródłem, analiza fal sejsmicznych należy do metod pośrednich; metodami bezpośrednimi są m.in. odwierty i badanie skał."
+                                       },
+                                       {
+                                           "sentence":  "Najgłębszy wykonany odwiert na wyspie Sachalin o głębokości 15 km stanowi znikomy odsetek promienia ziemskiego.",
+                                           "answer":  true,
+                                           "explanation":  "Odwiert na Sachalinie sięga 15 km, co źródło określa jako niewielki odsetek długości średniego promienia ziemskiego."
+                                       },
+                                       {
+                                           "sentence":  "Litosfera składa się wyłącznie ze skorupy ziemskiej (kontynentalnej i oceanicznej).",
+                                           "answer":  false,
+                                           "explanation":  "Litosferę tworzy skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego."
+                                       },
+                                       {
+                                           "sentence":  "Powierzchnia nieciągłości Moho stanowi dolną granicę skorupy ziemskiej.",
+                                           "answer":  true,
+                                           "explanation":  "Źródło podaje wprost, że dolną granicę skorupy ziemskiej stanowi powierzchnia nieciągłości Moho."
+                                       },
+                                       {
+                                           "sentence":  "Jądro zewnętrzne Ziemi ma właściwości ciała stałego, podobnie jak jądro wewnętrzne.",
+                                           "answer":  false,
+                                           "explanation":  "Jądro zewnętrzne ma właściwości ciała ciekłego, w przeciwieństwie do stałego jądra wewnętrznego."
+                                       },
+                                       {
+                                           "sentence":  "Skorupa kontynentalna osiąga grubość około 80 km, podczas gdy skorupa oceaniczna ma zaledwie 5–12 km.",
+                                           "answer":  true,
+                                           "explanation":  "Pod lądami skorupa ma ok. 80 km grubości, a pod oceanami 5–12 km."
+                                       },
+                                       {
+                                           "sentence":  "Powierzchnia nieciągłości Wiecherta-Gutenberga znajduje się pomiędzy skorupą ziemską a płaszczem górnym.",
+                                           "answer":  false,
+                                           "explanation":  "Powierzchnia ta stanowi granicę między płaszczem dolnym a jądrem zewnętrznym."
+                                       },
+                                       {
+                                           "sentence":  "Temperatura w jądrze wewnętrznym Ziemi przekracza prawdopodobnie 6000°C.",
+                                           "answer":  true,
+                                           "explanation":  "Źródło podaje, że temperatura w jądrze wewnętrznym przekracza 6000°C."
+                                       },
+                                       {
+                                           "sentence":  "Płaszcz dolny Ziemi charakteryzuje się właściwościami ciała plastycznego i temperaturą ok. 3000°C.",
+                                           "answer":  true,
+                                           "explanation":  "Tekst potwierdza, że płaszcz dolny jest ciałem plastycznym o temperaturze ok. 3000°C."
+                                       },
+                                       {
+                                           "sentence":  "Najgłębsze miejsce, do którego dotarł człowiek, to dno Rowu Mariańskiego.",
+                                           "answer":  false,
+                                           "explanation":  "Najgłębiej człowiek zszedł w kopalni złota Mponeng (RPA) na głębokość nieco ponad 4 km."
+                                       },
+                                       {
+                                           "sentence":  "Zewnętrzna część płaszcza górnego wykazuje cechy ciała stałego.",
+                                           "answer":  true,
+                                           "explanation":  "Źródło wskazuje, że zewnętrzna część płaszcza górnego jest ciałem stałym, a dopiero poniżej znajduje się warstwa półplastyczna."
+                                       },
+                                       {
+                                           "sentence":  "Wiedza o budowie jądra Ziemi pochodzi głównie z analizy materiału skalnego wydobytego podczas najgłębszych odwiertów.",
+                                           "answer":  false,
+                                           "explanation":  "Najgłębsze odwierty sięgają 15 km (skorupa), a wiedza o głębszych warstwach, w tym jądrze, pochodzi z metod pośrednich (fale sejsmiczne)."
+                                       }
+                                   ]
+                 }
+}

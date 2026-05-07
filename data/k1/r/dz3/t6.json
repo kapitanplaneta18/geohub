@@ -1,0 +1,379 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz3-t6",
+                     "unit":  "III",
+                     "title":  "Czynniki klimatotwórcze",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Klimat",
+                                              "definition":  "Układ warunków pogodowych o typowej zmienności w ciągu roku, charakterystyczny dla danego obszaru i określony na podstawie wieloletnich obserwacji."
+                                          },
+                                          {
+                                              "term":  "Pogoda",
+                                              "definition":  "Chwilowy stan atmosfery w danym miejscu, określony przez zespół elementów meteorologicznych, takich jak temperatura, ciśnienie czy opady."
+                                          },
+                                          {
+                                              "term":  "Szerokość geograficzna (czynnik strefowy)",
+                                              "definition":  "Decyduje o kącie padania promieni słonecznych, co bezpośrednio wpływa na ilość energii docierającej do powierzchni Ziemi i rozkład temperatury powietrza."
+                                          },
+                                          {
+                                              "term":  "Czynniki astrefowe",
+                                              "definition":  "Czynniki niemeteorologiczne modyfikujące klimat niezależnie od szerokości geograficznej, np. rozkład lądów i mórz, prądy morskie, rzeźba terenu czy wysokość n.p.m.."
+                                          },
+                                          {
+                                              "term":  "Prąd morski ciepły",
+                                              "definition":  "Przyczynia się do podwyższenia temperatury powietrza oraz zwiększenia sum opadów atmosferycznych na sąsiadujących obszarach lądowych."
+                                          },
+                                          {
+                                              "term":  "Prąd morski chłodny",
+                                              "definition":  "Powoduje obniżenie temperatury powietrza oraz zmniejszenie sum opadów atmosferycznych na wybrzeżach, które opływa."
+                                          },
+                                          {
+                                              "term":  "Rozmieszczenie lądów i mórz (Kontynentalizm)",
+                                              "definition":  "Lądy nagrzewają się i ochładzają szybciej niż woda; masy powietrza kontynentalnego są suchsze i cechują się większymi amplitudami temperatury niż masy morskie."
+                                          },
+                                          {
+                                              "term":  "Wysokość nad poziomem morza",
+                                              "definition":  "Wraz ze wzrostem wysokości następuje spadek ciśnienia atmosferycznego i temperatury powietrza oraz wzrost sumy opadów."
+                                          },
+                                          {
+                                              "term":  "Bariera orograficzna",
+                                              "definition":  "Góry stanowią przeszkodę dla mas powietrza; na stokach dowietrznych występują obfitsze opady, podczas gdy stoki zawietrzne są znacznie suchsze."
+                                          },
+                                          {
+                                              "term":  "Ekspozycja stoku",
+                                              "definition":  "Warunkuje ilość energii słonecznej docierającej do gruntu; na półkuli północnej stoki południowe są cieplejsze i otrzymują więcej światła niż stoki północne."
+                                          },
+                                          {
+                                              "term":  "Pokrycie terenu (Albedo)",
+                                              "definition":  "Barwa i rodzaj podłoża decydują o stosunku promieniowania odbitego do padającego; np. lasy latem są chłodniejsze, a obszary zurbanizowane cieplejsze."
+                                          },
+                                          {
+                                              "term":  "Miejska wyspa ciepła",
+                                              "definition":  "Zjawisko klimatyczne w dużych miastach, gdzie średnia roczna temperatura powietrza jest wyższa niż na terenach podmiejskich (m.in. przez emisję ciepła i betonową zabudowę)."
+                                          },
+                                          {
+                                              "term":  "Klimat lokalny",
+                                              "definition":  "Klimat obejmujący niewielki obszar (np. dolinę, miasto), kształtowany przez lokalne czynniki takie jak rzeźba terenu i zbiorniki wodne."
+                                          },
+                                          {
+                                              "term":  "Mikroklimat",
+                                              "definition":  "Warunki pogodowe w bardzo małej skali, obejmujące warstwę powietrza do kilku metrów wysokości, np. we wnętrzu lasu czy w zacienionym pomieszczeniu."
+                                          },
+                                          {
+                                              "term":  "Klimat monsunowy (czynnik astrefowy)",
+                                              "definition":  "Występuje na obszarach objętych cyrkulacją monsunową; cechuje się występowaniem pory deszczowej (latem) i suchej (zimą)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Prąd Peruwiański (zimny)",
+                                                 "pair2":  "Obniżenie temperatury i pustynnienie wybrzeża (np. Antofagasta)"
+                                             },
+                                             {
+                                                 "pair1":  "Prąd Brazylijski (ciepły)",
+                                                 "pair2":  "Wzrost temperatury i opadów (np. Rio de Janeiro)"
+                                             },
+                                             {
+                                                 "pair1":  "Wnętrze dużego kontynentu",
+                                                 "pair2":  "Duże amplitudy temperatury i mała wilgotność (Kontynentalizm)"
+                                             },
+                                             {
+                                                 "pair1":  "Stok zawietrzny gór",
+                                                 "pair2":  "Znacznie niższe sumy opadów atmosferycznych"
+                                             },
+                                             {
+                                                 "pair1":  "Centrum dużego miasta",
+                                                 "pair2":  "Wyższa temperatura i większe zachmurzenie (Miejska wyspa ciepła)."
+                                             },
+                                             {
+                                                 "pair1":  "Wzrost wysokości n.p.m.",
+                                                 "pair2":  "Spadek temperatury i ciśnienia atmosferycznego"
+                                             },
+                                             {
+                                                 "pair1":  "Jasne pokrycie terenu (śnieg)",
+                                                 "pair2":  "Wysokie albedo (silne odbijanie promieniowania)."
+                                             },
+                                             {
+                                                 "pair1":  "Azja Południowo-Wschodnia",
+                                                 "pair2":  "Występowanie klimatu monsunowego (pora deszczowa i sucha)"
+                                             },
+                                             {
+                                                 "pair1":  "Stok o ekspozycji południowej (płn. półkula)",
+                                                 "pair2":  "Wyższa temperatura i większe nasłonecznienie"
+                                             },
+                                             {
+                                                 "pair1":  "Dolina rzeczna lub osiedle",
+                                                 "pair2":  "Występowanie klimatu lokalnego"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "W prognozie pogody zapowiedziano \u0027chwilowe przejaśnienia i spadek temperatury w ciągu nadchodzących godzin\u0027. Który termin najlepiej opisuje to zjawisko i dlaczego?",
+                                      "options":  [
+                                                      "Klimat, ponieważ opisuje typowy przebieg warunków atmosferycznych w danym miejscu na podstawie wieloletnich obserwacji.",
+                                                      "Pogoda, ponieważ dotyczy aktualnego, chwilowego stanu atmosfery, jaki występuje w konkretnym miejscu i w danym momencie czasu.",
+                                                      "Klimat, ponieważ uwzględnia dynamikę zmian temperatury i zachmurzenia charakterystyczną dla danej pory roku.",
+                                                      "Pogoda, ponieważ opisuje średnie wartości elementów meteorologicznych uśrednione dla okresu 30 lat."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pogoda to chwilowy stan atmosfery w danym miejscu, określony przez zespół elementów meteorologicznych, takich jak temperatura czy zachmurzenie."
+                                  },
+                                  {
+                                      "question":  "Analizując mapę świata, zauważasz, że średnia roczna temperatura powietrza maleje w miarę przesuwania się od równika w stronę biegunów. Jaki czynnik klimatotwórczy jest za to odpowiedzialny?",
+                                      "options":  [
+                                                      "Szerokość geograficzna, która decyduje o kącie padania promieni słonecznych i ilości energii docierającej do powierzchni Ziemi.",
+                                                      "Rozkład lądów i mórz, który wpływa na tempo nagrzewania się powierzchni i wymianę ciepła między oceanem a atmosferą.",
+                                                      "Globalna cyrkulacja atmosferyczna, która powoduje przemieszczanie się mas powietrza z wyżów zwrotnikowych ku równikowi.",
+                                                      "Wysokość nad poziomem morza, która powoduje spadek ciśnienia i rozrzedzenie atmosfery w wyższych szerokościach."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Szerokość geograficzna jest czynnikiem strefowym decydującym o kącie padania promieni słonecznych, co bezpośrednio wpływa na ilość ciepła docierającego do powierzchni Ziemi."
+                                  },
+                                  {
+                                      "question":  "Dwa miasta, Rio de Janeiro i Antofagasta, leżą na tej samej szerokości geograficznej w Ameryce Południowej, jednak ich klimaty drastycznie się różnią. Rio jest wilgotne i gorące, a Antofagasta chłodna i sucha. Co jest główną przyczyną tej różnicy?",
+                                      "options":  [
+                                                      "Występowanie bariery orograficznej Andów, która blokuje napływ wilgotnych mas powietrza znad Atlantyku do Antofagasty.",
+                                                      "Różnica w prądach morskich: ciepły Prąd Brazylijski ogrzewa Rio, a zimny Prąd Peruwiański ochładza i osusza Antofagastę.",
+                                                      "Różnica w wysokości nad poziomem morza: Antofagasta leży znacznie wyżej niż nizinne Rio de Janeiro.",
+                                                      "Oddziaływanie wyżu zwrotnikowego, który stale utrzymuje się nad pacyficznym wybrzeżem, a omija wybrzeże atlantyckie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ciepłe prądy (np. Brazylijski) podwyższają temperaturę i opady, podczas gdy zimne prądy (np. Peruwiański przy Antofagaście) obniżają temperaturę i zmniejszają opady."
+                                  },
+                                  {
+                                      "question":  "Wielka Brytania ma łagodniejsze zimy niż położone na tej samej szerokości geograficznej wnętrze Eurazji. Jaki mechanizm za to odpowiada?",
+                                      "options":  [
+                                                      "Oceanizm klimatu: woda nagrzewa się i ochładza wolniej niż ląd, oddając ciepło zimą i łagodząc spadki temperatur.",
+                                                      "Kontynentalizm klimatu: ląd szybko traci ciepło, co powoduje powstawanie silnych wyżów barycznych nad oceanem.",
+                                                      "Prąd Północnoatlantycki: jest to prąd zimny, który paradoksalnie zapobiega zamarzaniu wybrzeży poprzez ruch wody.",
+                                                      "Albedo: powierzchnia oceanu ma wyższe albedo niż ląd, dzięki czemu pochłania więcej promieniowania słonecznego zimą."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Powierzchnie wodne nagrzewają się i ochładzają wolniej niż lądowe. Nad morzami wahania temperatury są mniejsze (oceanizm), co łagodzi zimy."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na pustyni Namib, położonej na wybrzeżu Afryki, opady są znikome, mimo bliskości oceanu?",
+                                      "options":  [
+                                                      "Występuje tam ciepły prąd morski, który wzmaga parowanie, ale silne wiatry pasatowe przenoszą wilgoć w głąb lądu.",
+                                                      "Zimny Prąd Benguelski ochładza powietrze nad oceanem, co hamuje konwekcję i uniemożliwia powstawanie chmur deszczowych.",
+                                                      "Wysokie góry Atlasu blokują napływ wilgotnych mas powietrza znad Oceanu Indyjskiego na zachodnie wybrzeże.",
+                                                      "Obszar ten leży w strefie równikowej, gdzie dominują prądy zstępujące powietrza, uniemożliwiające kondensację pary wodnej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zimne prądy morskie (jak Prąd Benguelski przy pustyni Namib) powodują obniżenie temperatury powietrza i zmniejszenie opadów (często tworzą się tylko mgły)."
+                                  },
+                                  {
+                                      "question":  "Turysta wspina się na górę Kilimanjaro. Mimo że znajduje się blisko równika, na szczycie widzi śnieg. Jaki czynnik astrefowy jest za to odpowiedzialny?",
+                                      "options":  [
+                                                      "Szerokość geograficzna, która na dużych wysokościach przestaje odgrywać rolę w kształtowaniu temperatury.",
+                                                      "Wysokość nad poziomem morza, ponieważ wraz z jej wzrostem następuje spadek temperatury powietrza.",
+                                                      "Ekspozycja stoku, gdyż szczyt jest stale zacieniony przez chmury konwekcyjne tworzące się w niższych partiach.",
+                                                      "Cyrkulacja monsunowa, która przynosi chłodne masy powietrza z wyższych szerokości geograficznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wraz ze wzrostem wysokości nad poziomem morza następuje spadek temperatury powietrza (gradient termiczny), co umożliwia występowanie śniegu nawet w pobliżu równika."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko klimatyczne jest charakterystyczne dla centrów dużych aglomeracji miejskich w porównaniu z terenami wiejskimi?",
+                                      "options":  [
+                                                      "Miejska wyspa chłodu, spowodowana zacienieniem ulic przez wysokie budynki, co obniża średnią roczną temperaturę.",
+                                                      "Miejska wyspa ciepła, wynikająca z akumulacji ciepła przez betonową zabudowę i emisji ciepła antropogenicznego.",
+                                                      "Zmniejszone zachmurzenie, ponieważ zanieczyszczenia powietrza rozpraszają jądra kondensacji niezbędne do powstania chmur.",
+                                                      "Zwiększona prędkość wiatru, wymuszona przez tunelowy przepływ powietrza między wieżowcami (efekt dyszy)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W dużych miastach występuje miejska wyspa ciepła – temperatura jest wyższa m.in. przez betonową zabudowę oddającą ciepło i emisję zanieczyszczeń."
+                                  },
+                                  {
+                                      "question":  "Góry Skandynawskie stanowią barierę dla wiatrów zachodnich. Jaki wpływ ma to na klimat Półwyspu Skandynawskiego?",
+                                      "options":  [
+                                                      "Stoki zachodnie (dowietrzne) otrzymują obfite opady, podczas gdy wschodnie (zawietrzne) znajdują się w cieniu opadowym.",
+                                                      "Stoki wschodnie są znacznie wilgotniejsze dzięki kondensacji pary wodnej po przekroczeniu bariery górskiej.",
+                                                      "Oba stoki otrzymują taką samą ilość opadów, ponieważ wiatry zachodnie są zbyt silne, by ulec zjawisku fenowemu.",
+                                                      "Stoki zachodnie są suchsze, ponieważ zimny Prąd Norweski osusza powietrze zanim dotrze ono do wybrzeża."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Na stokach dowietrznych (tu: zachodnich) występują większe opady, a po stronie zawietrznej (wschodniej) opady są mniejsze (cień opadowy)."
+                                  },
+                                  {
+                                      "question":  "Na półkuli północnej, w obszarach górskich, stoki o ekspozycji południowej są zazwyczaj cieplejsze niż stoki północne. Dlaczego?",
+                                      "options":  [
+                                                      "Otrzymują one większą dawkę promieniowania słonecznego, ponieważ promienie padają na nie pod większym kątem.",
+                                                      "Są one osłonięte od zimnych wiatrów wiejących zazwyczaj z południa w strefie umiarkowanej.",
+                                                      "Mają niższe albedo, ponieważ są częściej pokryte śniegiem, który odbija promieniowanie słoneczne.",
+                                                      "Występuje na nich intensywniejsza roślinność, która poprzez transpirację podnosi temperaturę otoczenia."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ekspozycja stoku wpływa na czas nasłonecznienia i kąt padania promieni. Na półkuli północnej stoki południowe są cieplejsze."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych czynników zaliczamy do czynników meteorologicznych (cyrkulacyjnych), a nie geograficznych (niemeteorologicznych)?",
+                                      "options":  [
+                                                      "Rozkład prądów morskich.",
+                                                      "Rodzaj napływających mas powietrza.",
+                                                      "Ukształtowanie powierzchni terenu.",
+                                                      "Szerokość geograficzna."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Do czynników meteorologicznych należą m.in. rodzaje napływających mas powietrza, rozmieszczenie ośrodków barycznych i fronty."
+                                  },
+                                  {
+                                      "question":  "Wskaż prawidłową zależność między rodzajem podłoża a jego wpływem na temperaturę powietrza (albedo).",
+                                      "options":  [
+                                                      "Świeży śnieg ma niskie albedo (ok. 10%), dlatego silnie pochłania promieniowanie i ogrzewa powietrze.",
+                                                      "Las ma wysokie albedo (ok. 90%), dlatego w lesie latem jest znacznie cieplej niż na otwartej przestrzeni.",
+                                                      "Asfalt ma niskie albedo, co oznacza, że silnie pochłania promieniowanie i oddaje ciepło, podnosząc temperaturę otoczenia.",
+                                                      "Obszary trawiaste mają albedo równe 0%, co oznacza, że całkowicie pochłaniają energię słoneczną."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Albedo to stosunek promieniowania odbitego do padającego. Asfalt ma niskie albedo (pochłania energię), co powoduje wzrost temperatury, w przeciwieństwie do śniegu (wysokie albedo)."
+                                  },
+                                  {
+                                      "question":  "Miejscowość X leży w głębi dużego kontynentu w strefie umiarkowanej. Jakich cech klimatu należy się tam spodziewać w porównaniu do miejscowości nadmorskiej na tej samej szerokości?",
+                                      "options":  [
+                                                      "Mniejszej rocznej amplitudy temperatury i wyższych rocznych sum opadów.",
+                                                      "Większej rocznej amplitudy temperatury i niższych rocznych sum opadów.",
+                                                      "Stałej temperatury w ciągu roku i braku wyraźnych pór roku.",
+                                                      "Bardzo wysokich opadów zimą i chłodnego lata dzięki inercji termicznej lądu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Kontynentalizm cechuje się dużymi amplitudami temperatury i mniejszą wilgotnością (mniejsze opady) w porównaniu do klimatu morskiego."
+                                  },
+                                  {
+                                      "question":  "Co jest przyczyną powstawania cienia opadowego?",
+                                      "options":  [
+                                                      "Opadanie mas powietrza po stronie zawietrznej gór, co prowadzi do wzrostu temperatury i spadku wilgotności względnej.",
+                                                      "Wznoszenie się mas powietrza po stronie zawietrznej, co powoduje gwałtowną kondensację i opady.",
+                                                      "Blokowanie promieniowania słonecznego przez wysokie szczyty, co uniemożliwia parowanie po stronie dowietrznej.",
+                                                      "Występowanie zimnego prądu morskiego u podnóża gór, który osusza napływające powietrze."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Po zawietrznej stronie gór powietrze opada, ogrzewa się i staje się suchsze (efekt cienia opadowego), przez co opady są niskie."
+                                  },
+                                  {
+                                      "question":  "Które zestawienie poprawnie opisuje wpływ prądu morskiego na sąsiadujący ląd?",
+                                      "options":  [
+                                                      "Prąd Norweski (ciepły) -\u003e Obniżenie temperatury zimą w Skandynawii.",
+                                                      "Prąd Peruwiański (zimny) -\u003e Powstanie pustyni Atakama i częste mgły.",
+                                                      "Prąd Brazylijski (ciepły) -\u003e Zmniejszenie opadów i wzrost amplitudy temperatur.",
+                                                      "Prąd Benguelski (zimny) -\u003e Wzrost wilgotności i bujna roślinność na wybrzeżu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zimne prądy (np. Peruwiański, Benguelski) obniżają temperaturę i zmniejszają opady, przyczyniając się do powstawania pustyń."
+                                  },
+                                  {
+                                      "question":  "Czym różni się klimat lokalny od mikroklimatu?",
+                                      "options":  [
+                                                      "Klimat lokalny dotyczy strefy całego kontynentu, a mikroklimat dotyczy pojedynczego miasta.",
+                                                      "Klimat lokalny obejmuje niewielki obszar (np. dolinę, miasto), natomiast mikroklimat dotyczy zjawisk w bardzo małej skali przestrzennej (np. wnętrze lasu).",
+                                                      "Klimat lokalny jest kształtowany przez czynniki strefowe, a mikroklimat wyłącznie przez działalność człowieka.",
+                                                      "Nie ma różnicy, oba terminy są w geografii używane zamiennie dla obszarów mniejszych niż strefa klimatyczna."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat lokalny dotyczy np. miasta lub doliny, natomiast mikroklimat ma mniejszy zasięg, np. ściana lasu czy pojedyncze pomieszczenie."
+                                  },
+                                  {
+                                      "question":  "W południowo-wschodniej Azji występują cykliczne zmiany kierunku wiatru przynoszące porę deszczową i suchą. Jest to efekt:",
+                                      "options":  [
+                                                      "Stałego wyżu barycznego utrzymującego się nad Oceanem Indyjskim przez cały rok.",
+                                                      "Cyrkulacji monsunowej wynikającej z nierównomiernego nagrzewania się lądu i oceanu.",
+                                                      "Działania prądów morskich, które zmieniają kierunek przepływu co 6 miesięcy.",
+                                                      "Przesuwania się strefy wiatrów zachodnich nad obszary zwrotnikowe w porze letniej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Cyrkulacja monsunowa powstaje wskutek różnic w nagrzewaniu się lądu i oceanu, co powoduje sezonowe zmiany ciśnienia i kierunku wiatru (monsun letni i zimowy)."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych czynników jest przykładem czynnika strefowego?",
+                                      "options":  [
+                                                      "Prądy morskie, ponieważ występują w określonych strefach oceanicznych.",
+                                                      "Szerokość geograficzna, ponieważ determinuje strefowy układ temperatur na Ziemi.",
+                                                      "Rzeźba terenu, ponieważ pasma górskie układają się równoleżnikowo.",
+                                                      "Odległość od morza, ponieważ wpływa na strefowość roślinności."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Szerokość geograficzna jest głównym czynnikiem strefowym decydującym o ilości energii słonecznej."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w lasach latem temperatura powietrza jest niższa niż na terenach zurbanizowanych?",
+                                      "options":  [
+                                                      "Roślinność pochłania całe promieniowanie słoneczne, nie oddając ciepła do atmosfery (zerowe albedo).",
+                                                      "Roślinność zużywa ciepło na proces transpiracji, a korony drzew zacieniają podłoże.",
+                                                      "Drzewa emitują chłodne masy powietrza w procesie fotosyntezy w nocy.",
+                                                      "W lasach nie występuje zjawisko wiatru, co zapobiega napływowi ciepłego powietrza."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pokrycie terenu roślinnością modyfikuje klimat: lasy są chłodniejsze latem m.in. dzięki transpiracji i cieniowi (innemu albedo)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Zimne prądy morskie przyczyniają się do wzrostu sum opadów atmosferycznych na wybrzeżach, które opływają.",
+                                           "answer":  false,
+                                           "explanation":  "Zimne prądy morskie powodują obniżenie temperatury powietrza i zmniejszenie sum opadów (często prowadząc do pustynnienia), w przeciwieństwie do prądów ciepłych."
+                                       },
+                                       {
+                                           "sentence":  "Szerokość geograficzna jest czynnikiem astrefowym, ponieważ wpływa na klimat niezależnie od położenia względem równika.",
+                                           "answer":  false,
+                                           "explanation":  "Szerokość geograficzna jest głównym czynnikiem strefowym, który decyduje o kącie padania promieni słonecznych i strefowym układzie temperatur."
+                                       },
+                                       {
+                                           "sentence":  "Obszary położone w głębi dużych kontynentów cechują się mniejszymi rocznymi amplitudami temperatury powietrza niż obszary nadmorskie na tej samej szerokości.",
+                                           "answer":  false,
+                                           "explanation":  "Lądy nagrzewają się i ochładzają szybciej niż woda, co sprawia, że w głębi kontynentu amplitudy temperatur są znacznie większe (kontynentalizm) niż nad morzem."
+                                       },
+                                       {
+                                           "sentence":  "Wraz ze wzrostem wysokości nad poziomem morza następuje wzrost ciśnienia atmosferycznego oraz średniej rocznej temperatury powietrza.",
+                                           "answer":  false,
+                                           "explanation":  "Wraz ze wzrostem wysokości następuje spadek ciśnienia atmosferycznego oraz spadek temperatury powietrza."
+                                       },
+                                       {
+                                           "sentence":  "Na stokach zawietrznych gór sumy opadów są zazwyczaj niższe niż na stokach dowietrznych z powodu występowania cienia opadowego.",
+                                           "answer":  true,
+                                           "explanation":  "Powietrze przemieszczające się przez barierę górską traci wilgoć na stoku dowietrznym, dlatego po stronie zawietrznej (w cieniu opadowym) opady są niskie."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko miejskiej wyspy ciepła polega na tym, że średnia roczna temperatura w centrum miasta jest wyższa niż na terenach podmiejskich.",
+                                           "answer":  true,
+                                           "explanation":  "Betonowa zabudowa i emisja ciepła sprawiają, że centra miast są cieplejsze od peryferii, tworząc miejską wyspę ciepła."
+                                       },
+                                       {
+                                           "sentence":  "Tereny leśne latem charakteryzują się wyższą temperaturą powietrza niż sąsiadujące z nimi tereny pozbawione roślinności.",
+                                           "answer":  false,
+                                           "explanation":  "W lasach latem jest chłodniej niż na terenach otwartych (m.in. dzięki transpiracji i zacienieniu), natomiast zimą jest w nich cieplej."
+                                       },
+                                       {
+                                           "sentence":  "Na półkuli północnej stoki o ekspozycji południowej otrzymują więcej energii słonecznej i są cieplejsze niż stoki o ekspozycji północnej.",
+                                           "answer":  true,
+                                           "explanation":  "Ekspozycja stoku wpływa na kąt padania promieni; na półkuli północnej stoki południowe są lepiej nasłonecznione."
+                                       },
+                                       {
+                                           "sentence":  "Klimat to chwilowy stan atmosfery w danym miejscu, określony na podstawie aktualnych pomiarów meteorologicznych.",
+                                           "answer":  false,
+                                           "explanation":  "Definicja ta dotyczy pogody. Klimat to układ warunków pogodowych o typowej zmienności w ciągu roku, określony na podstawie wieloletnich obserwacji."
+                                       },
+                                       {
+                                           "sentence":  "Masy powietrza formujące się nad oceanami są zazwyczaj bardziej wilgotne niż masy powietrza kształtujące się nad rozległymi lądami.",
+                                           "answer":  true,
+                                           "explanation":  "Masy morskie zawierają więcej wilgoci dzięki parowaniu ze zbiorników wodnych, podczas gdy masy kontynentalne są suchsze."
+                                       },
+                                       {
+                                           "sentence":  "Do czynników meteorologicznych kształtujących klimat zaliczamy rzeźbę terenu, prądy morskie oraz pokrycie terenu.",
+                                           "answer":  false,
+                                           "explanation":  "Są to czynniki niemeteorologiczne (geograficzne). Czynniki meteorologiczne to np. cyrkulacja atmosferyczna i układy baryczne."
+                                       },
+                                       {
+                                           "sentence":  "Klimat lokalny obejmuje zazwyczaj obszar całej strefy klimatycznej, na przykład całą strefę równikową.",
+                                           "answer":  false,
+                                           "explanation":  "Klimat lokalny dotyczy niewielkiego obszaru, np. miasta, doliny rzecznej czy osiedla, a nie całej strefy."
+                                       }
+                                   ]
+                 }
+}

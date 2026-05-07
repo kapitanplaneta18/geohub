@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t5",
+                     "title":  "Struktura narodowościowa i etniczna",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Struktura narodowościowa Polski",
+                                              "definition":  "Struktura niemal homogeniczna (jednolita), w której ok. 95% mieszkańców deklaruje wyłącznie polską tożsamość narodową."
+                                          },
+                                          {
+                                              "term":  "Mniejszość narodowa (definicja ustawowa)",
+                                              "definition":  "Grupa obywateli polskich utożsamiająca się z narodem, który posiada współcześnie własne państwo (np. Niemcy, Ukraińcy)."
+                                          },
+                                          {
+                                              "term":  "Mniejszość etniczna (definicja ustawowa)",
+                                              "definition":  "Grupa obywateli polskich utożsamiająca się z narodem, który nie posiada współcześnie własnego państwa (np. Romowie, Łemkowie)."
+                                          },
+                                          {
+                                              "term":  "Język regionalny w Polsce",
+                                              "definition":  "Status ten posiada jedynie język kaszubski (nadany ustawą z 2005 r.), co umożliwia m.in. zdawanie z niego matury."
+                                          },
+                                          {
+                                              "term":  "Akcja „Wisła” (1947 r.)",
+                                              "definition":  "Masowe, przymusowe przesiedlenia ludności (m.in. Ukraińców i Łemków) z południowo-wschodniej Polski na Ziemie Odzyskane, prowadzące do rozproszenia tych mniejszości."
+                                          },
+                                          {
+                                              "term":  "Romowie",
+                                              "definition":  "Mniejszość etniczna pochodzenia indyjskiego, dawniej prowadząca wędrowny tryb życia (nomadyzm), przymusowo osiedlana w czasach PRL."
+                                          },
+                                          {
+                                              "term":  "Tatarzy",
+                                              "definition":  "Mniejszość etniczna wyznająca islam, której przodkowie osiedlili się na ziemiach Wielkiego Księstwa Litewskiego (głównie Podlasie) już w XIV w."
+                                          },
+                                          {
+                                              "term":  "Łemkowie",
+                                              "definition":  "Wschodniosłowiańska mniejszość etniczna, historycznie zamieszkująca Beskid Niski i Sądecki, wyznająca głównie prawosławie lub grekokatolicyzm."
+                                          },
+                                          {
+                                              "term":  "Karaimi",
+                                              "definition":  "Najmniej liczna mniejszość etniczna w Polsce (ok. 300 osób), pochodzenia turkijskiego, wyznająca religię wywodzącą się z judaizmu."
+                                          },
+                                          {
+                                              "term":  "Ślązacy",
+                                              "definition":  "Najliczniejsza grupa etnograficzna w Polsce, zamieszkująca Górny Śląsk, charakteryzująca się silną tożsamością regionalną i gwarą z wpływami niemieckimi i czeskimi."
+                                          },
+                                          {
+                                              "term":  "Kaszubi",
+                                              "definition":  "Rdzzenna ludność słowiańska Pomorza, kultywująca własne tradycje i język; zamieszkuje m.in. powiaty kartuski, pucki i wejherowski."
+                                          },
+                                          {
+                                              "term":  "Przyczyny ujednolicenia etnicznego Polski",
+                                              "definition":  "Zmiana granic po II wojnie światowej, przesiedlenia ludności (repatriacje, wysiedlenia Niemców), akcja „Wisła” oraz polityka władz PRL."
+                                          },
+                                          {
+                                              "term":  "Liczba mniejszości narodowych w Polsce",
+                                              "definition":  "Ustawowo uznaje się 9 mniejszości: Niemcy, Ukraińcy, Białorusini, Rosjanie, Litwini, Żydzi, Ormianie, Czesi i Słowacy."
+                                          },
+                                          {
+                                              "term":  "Genius loci",
+                                              "definition":  "Specyficzny, niepowtarzalny klimat miejsca (duch miejsca), wynikający z jego historii, architektury i układu przestrzennego (np. Tykocin, Zamość)."
+                                          },
+                                          {
+                                              "term":  "Gettoizacja (w sensie etnicznym/społecznym)",
+                                              "definition":  "Proces tworzenia się odizolowanych obszarów zamieszkanych przez określone grupy, np. mniejszości narodowe lub grupy o niskim statusie społecznym."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Mniejszość Niemiecka",
+                                                 "pair2":  "Województwo opolskie i śląskie (specyficzne uprawnienia wyborcze)"
+                                             },
+                                             {
+                                                 "pair1":  "Białorusini",
+                                                 "pair2":  "Województwo podlaskie (południowo-wschodnia część, np. Hajnówka)"
+                                             },
+                                             {
+                                                 "pair1":  "Kaszubi",
+                                                 "pair2":  "Województwo pomorskie (obszar Pojezierza Kaszubskiego i wybrzeża)"
+                                             },
+                                             {
+                                                 "pair1":  "Tatarzy",
+                                                 "pair2":  "Historyczne kolonie na Podlasiu: Bohoniki i Kruszyniany"
+                                             },
+                                             {
+                                                 "pair1":  "Łemkowie",
+                                                 "pair2":  "Rozproszenie na Ziemiach Odzyskanych (woj. dolnośląskie, lubuskie) oraz Beskid Niski"
+                                             },
+                                             {
+                                                 "pair1":  "Litwini",
+                                                 "pair2":  "Województwo podlaskie (gmina Puńsk)"
+                                             },
+                                             {
+                                                 "pair1":  "Romowie",
+                                                 "pair2":  "Rozproszenie w dużych i średnich miastach (skutek zakazu taborów)"
+                                             },
+                                             {
+                                                 "pair1":  "Ślązacy",
+                                                 "pair2":  "Górny Śląsk (województwa śląskie i opolskie)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaka jest współczesna struktura narodowościowa Polski?",
+                                      "options":  [
+                                                      "Polska jest krajem wielonarodowościowym, w którym mniejszości stanowią około 30% ogółu ludności.",
+                                                      "Polska jest krajem niemal homogenicznym (jednolitym), gdzie ok. 95% ludności deklaruje wyłącznie narodowość polską",
+                                                      "Polska jest krajem dwunarodowym (polsko-śląskim) o równym udziale obu grup.",
+                                                      "Udział mniejszości narodowych wynosi około 15%, co jest średnią europejską."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Współczesna Polska, w wyniku zmian granic i przesiedleń po II wojnie światowej, jest jednym z najbardziej jednolitych narodowościowo państw w Europie."
+                                  },
+                                  {
+                                      "question":  "Która społeczność, niewymieniona w ustawie jako mniejszość narodowa lub etniczna, była najliczniejszą grupą deklarującą odrębność w spisie z 2011 roku?",
+                                      "options":  [
+                                                      "Niemcy, zamieszkujący głównie województwo opolskie.",
+                                                      "Ukraińcy, rozproszeni na północy i zachodzie kraju.",
+                                                      "Ślązacy",
+                                                      "Kaszubi, posługujący się językiem regionalnym."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W spisie powszechnym z 2011 r. narodowość śląską (jako pierwszą lub drugą) zadeklarowało ponad 800 tys. osób, co czyni ją najliczniejszą grupą identyfikującą się inaczej niż tylko polska."
+                                  },
+                                  {
+                                      "question":  "Ile mniejszości narodowych jest oficjalnie uznawanych w Polsce na mocy ustawy z 2005 roku?",
+                                      "options":  [
+                                                      "4 (mniejszości etniczne)",
+                                                      "9",
+                                                      "13 (łącznie narodowych i etnicznych)",
+                                                      "15 (wliczając grupy regionalne)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ustawa wymienia 9 mniejszości narodowych: Białorusini, Czesi, Litwini, Niemcy, Ormianie, Rosjanie, Słowacy, Ukraińcy, Żydzi."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna różnica prawna między mniejszością narodową a mniejszością etniczną w Polsce?",
+                                      "options":  [
+                                                      "Liczebność grupy – mniejszości etniczne muszą być znacznie mniej liczne od narodowych.",
+                                                      "Posiadanie własnego państwa współcześnie (mniejszości narodowe je mają, etniczne nie)",
+                                                      "Region zamieszkania – mniejszości etniczne mogą zamieszkiwać tylko tereny górskie.",
+                                                      "Wyznawana religia – mniejszości etniczne muszą być innowiercami."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mniejszości narodowe utożsamiają się z narodem zorganizowanym we własnym państwie (np. Niemcy), a etniczne nie mają swojego państwa (np. Romowie)."
+                                  },
+                                  {
+                                      "question":  "Który język posiada w Polsce status języka regionalnego, umożliwiający m.in. zdawanie z niego matury?",
+                                      "options":  [
+                                                      "Śląski (uznawany za etnolekt)",
+                                                      "Kaszubski",
+                                                      "Łemkowski (język mniejszości etnicznej)",
+                                                      "Romski (język mniejszości etnicznej)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Język kaszubski jako jedyny posiada status języka regionalnego na mocy ustawy z 2005 r., co pozwala na jego nauczanie w szkołach i używanie jako języka pomocniczego w urzędach."
+                                  },
+                                  {
+                                      "question":  "Gdzie w Polsce znajduje się zwarte skupisko mniejszości litewskiej?",
+                                      "options":  [
+                                                      "Na Śląsku Opolskim, w gminach o podwójnym nazewnictwie.",
+                                                      "W okolicach Puńska na Suwalszczyźnie (województwo podlaskie)",
+                                                      "W Bieszczadach, wzdłuż granicy z Ukrainą.",
+                                                      "Na Pomorzu, w okolicach Trójmiasta."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gmina Puńsk jest centrum kultury litewskiej w Polsce; Litwini stanowią tam większość mieszkańców (ok. 75%)."
+                                  },
+                                  {
+                                      "question":  "Jakie wydarzenie historyczne jest główną przyczyną współczesnej homogeniczności etnicznej Polski?",
+                                      "options":  [
+                                                      "Przystąpienie do Unii Europejskiej i otwarcie granic.",
+                                                      "Zmiana granic po II wojnie światowej i powojenne migracje (przesiedlenia)",
+                                                      "Współczesna emigracja zarobkowa Polaków na Zachód.",
+                                                      "Rozbiory Polski w XVIII wieku."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przesunięcie granic na zachód, wysiedlenie Niemców oraz utrata Kresów Wschodnich (zamieszkanych przez Ukraińców, Białorusinów i Litwinów) ujednoliciły Polskę narodowościowo."
+                                  },
+                                  {
+                                      "question":  "W którym województwie odnotowuje się największe skupisko mniejszości niemieckiej, mającej nawet swoją reprezentację w parlamencie?",
+                                      "options":  [
+                                                      "Dolnośląskim",
+                                                      "Opolskim",
+                                                      "Warmińsko-mazurskim",
+                                                      "Zachodniopomorskim"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mniejszość niemiecka najliczniej zamieszkuje wschodnią część województwa opolskiego, gdzie w wielu gminach wprowadzono dwujęzyczne nazwy miejscowości."
+                                  },
+                                  {
+                                      "question":  "Która mniejszość etniczna w Polsce tradycyjnie wyznaje islam i zamieszkuje historyczne kolonie na Podlasiu?",
+                                      "options":  [
+                                                      "Karaimi, wywodzący się z judaizmu.",
+                                                      "Romowie, będący chrześcijanami.",
+                                                      "Tatarzy",
+                                                      "Łemkowie, wyznający prawosławie lub grekokatolicyzm."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Polscy Tatarzy (Lipkowie) mieszkają na ziemiach polskich od XIV w. (nadanie ziem przez królów), zachowując religię muzułmańską (np. meczety w Bohonikach i Kruszynianach)."
+                                  },
+                                  {
+                                      "question":  "Co charakteryzowało strukturę narodowościową Polski w okresie międzywojennym (1921 r.)?",
+                                      "options":  [
+                                                      "Była identyczna jak współcześnie, z dominacją Polaków (ok. 95%).",
+                                                      "Mniejszości narodowe stanowiły ok. 1/3 ludności (dominowali Ukraińcy i Żydzi)",
+                                                      "Mniejszości stanowiły tylko 5% ludności, zamieszkując głównie miasta.",
+                                                      "Dominującą mniejszością byli Litwini, stanowiący 20% populacji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "II Rzeczpospolita była państwem wielonarodowym; Polacy stanowili ok. 69%, a najliczniejszymi mniejszościami byli Ukraińcy (14%) i Żydzi (8%)."
+                                  },
+                                  {
+                                      "question":  "Jaki był bezpośredni skutek akcji „Wisła” przeprowadzonej w 1947 roku dla mniejszości łemkowskiej i ukraińskiej?",
+                                      "options":  [
+                                                      "Powrót na tereny Kresów Wschodnich w ramach repatriacji.",
+                                                      "Przymusowe przesiedlenie i rozproszenie na Ziemiach Odzyskanych (zachodnia i północna Polska)",
+                                                      "Utworzenie autonomicznego regionu w Bieszczadach.",
+                                                      "Masowa, dobrowolna emigracja do USA i Kanady."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Celem akcji „Wisła” było rozbicie struktur UPA poprzez wysiedlenie ludności ukraińskiej i łemkowskiej z Karpat i rozproszenie jej na ziemiach zachodnich i północnych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Ślązacy nie są wymienieni w ustawie jako mniejszość narodowa ani etniczna, mimo dużej liczebności?",
+                                      "options":  [
+                                                      "Ponieważ nie zamieszkują zwartego terytorium, lecz są rozproszeni po całym kraju.",
+                                                      "Ponieważ ich język jest uznany oficjalnie za dialekt języka niemieckiego.",
+                                                      "Ponieważ w świetle polskiego prawa nie spełniają definicji ustawowej (są uznawani za grupę etnograficzną/społeczność regionalną)",
+                                                      "Ponieważ wszyscy Ślązacy wyemigrowali do Niemiec w latach 80. XX wieku."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Państwo polskie traktuje Ślązaków jako grupę etnograficzną w ramach narodu polskiego, a nie odrębny naród, mimo starań środowisk śląskich o uznanie."
+                                  },
+                                  {
+                                      "question":  "Kim są Karaimi w strukturze etnicznej Polski?",
+                                      "options":  [
+                                                      "Grupą wyznającą prawosławie, zamieszkującą Karpaty Wschodnie.",
+                                                      "Najmniej liczną mniejszością etniczną pochodzenia turkijskiego, wyznającą religię karaimską (wywodzącą się z judaizmu)",
+                                                      "Odłamem mniejszości tatarskiej, który przyjął chrześcijaństwo.",
+                                                      "Ludnością napływową z Wietnamu, która osiedliła się w Polsce po 1989 roku."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Karaimi to najmniejsza mniejszość etniczna w Polsce (kilkadziesiąt osób), o korzeniach turkijskich i unikalnej religii opartej na Starym Testamencie."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób władze PRL wpłynęły na zmianę stylu życia Romów w Polsce?",
+                                      "options":  [
+                                                      "Promowały kulturę romską w mediach publicznych.",
+                                                      "Wprowadziły przymus osiedlania się, co zakończyło ich tradycyjny wędrowny tryb życia (nomadyzm)",
+                                                      "Utworzyły dla nich specjalne regiony autonomiczne na południu Polski.",
+                                                      "Zachęcały do emigracji do Indii jako kraju pochodzenia."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W latach 60. XX w. władze wprowadziły zakaz koczownictwa, zmuszając Romów do osiedlenia się w blokach lub barakach, co drastycznie zmieniło ich strukturę społeczną."
+                                  },
+                                  {
+                                      "question":  "Co umożliwił spis powszechny z 2011 roku w kwestii deklaracji narodowościowej, czego nie było wcześniej?",
+                                      "options":  [
+                                                      "Deklarację wyłącznie jednej, głównej narodowości.",
+                                                      "Możliwość podania podwójnej identyfikacji narodowo-etnicznej (np. polskiej i śląskiej)",
+                                                      "Deklarację wyznania zamiast narodowości.",
+                                                      "Możliwość całkowitej odmowy odpowiedzi na pytanie o płeć."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Spis z 2011 r. (i kolejne) pozwolił na złożoną deklarację tożsamości (np. „Jestem Polakiem i Ślązakiem”), co ujawniło rzeczywistą liczebność grup regionalnych."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "W świetle obowiązującej ustawy z 2005 r., Ślązacy są uznawani za jedną z dziewięciu mniejszości narodowych w Polsce.",
+                                           "answer":  false,
+                                           "explanation":  "Ślązacy nie są wymienieni w ustawie jako mniejszość narodowa ani etniczna. Są uznawani za grupę etnograficzną lub społeczność regionalną, mimo że w spisach powszechnych jest to najliczniej deklarowana identyfikacja inna niż polska."
+                                       },
+                                       {
+                                           "sentence":  "Romowie posiadają status mniejszości etnicznej, ponieważ nie utożsamiają się z narodem zorganizowanym we własne państwo.",
+                                           "answer":  true,
+                                           "explanation":  "Zgodnie z prawem, mniejszość etniczna to grupa, która nie posiada współcześnie własnego państwa. Romowie (obok Tatarów, Łemków i Karaimów) spełniają ten warunek."
+                                       },
+                                       {
+                                           "sentence":  "Żydzi są w Polsce klasyfikowani jako mniejszość etniczna, ponieważ są rozproszeni po całym świecie.",
+                                           "answer":  false,
+                                           "explanation":  "Żydzi są uznawani za mniejszość narodową, ponieważ utożsamiają się z narodem posiadającym własne państwo (Izrael)."
+                                       },
+                                       {
+                                           "sentence":  "Język kaszubski posiada status języka regionalnego, co umożliwia m.in. zdawanie z niego egzaminu maturalnego.",
+                                           "answer":  true,
+                                           "explanation":  "Ustawa z 2005 r. nadała językowi kaszubskiemu status jedynego języka regionalnego w Polsce, co wiąże się z ochroną prawną i możliwością nauczania w szkołach."
+                                       },
+                                       {
+                                           "sentence":  "Przed II wojną światową Polska była krajem niemal jednolitym narodowościowo, podobnie jak współcześnie.",
+                                           "answer":  false,
+                                           "explanation":  "II Rzeczpospolita była krajem wielonarodowościowym, w którym mniejszości stanowiły około 30–33% ogółu ludności (głównie Ukraińcy, Żydzi, Białorusini i Niemcy)."
+                                       },
+                                       {
+                                           "sentence":  "Komitety wyborcze mniejszości narodowych są zwolnione z konieczności przekroczenia 5-procentowego progu wyborczego w wyborach do Sejmu.",
+                                           "answer":  true,
+                                           "explanation":  "Ordynacja wyborcza przewiduje przywilej dla komitetów mniejszości narodowych, zwalniając je z progu 5%, co pozwala np. Mniejszości Niemieckiej na posiadanie reprezentacji w parlamencie."
+                                       },
+                                       {
+                                           "sentence":  "Wietnamczycy mieszkający w Polsce od kilku dekad są ustawowo uznawani za mniejszość narodową.",
+                                           "answer":  false,
+                                           "explanation":  "Wietnamczycy są traktowani jako grupa imigrancka. Aby uzyskać status mniejszości, grupa musi zamieszkiwać terytorium RP od co najmniej 100 lat (wymóg ustawowy)."
+                                       },
+                                       {
+                                           "sentence":  "Akcja „Wisła” z 1947 roku polegała na dobrowolnym osiedlaniu się ludności ukraińskiej i łemkowskiej w dużych miastach.",
+                                           "answer":  false,
+                                           "explanation":  "Akcja „Wisła” była przymusową deportacją i rozproszeniem ludności ukraińskiej i łemkowskiej z południowo-wschodniej Polski na tzw. Ziemie Odzyskane w celu ich asymilacji."
+                                       },
+                                       {
+                                           "sentence":  "Tatarzy są mniejszością etniczną tradycyjnie wyznającą islam, zamieszkującą ziemie polskie od czasów Wielkiego Księstwa Litewskiego.",
+                                           "answer":  true,
+                                           "explanation":  "Tatarzy to mniejszość etniczna obecna na ziemiach polskich od XIV w., skupiona historycznie na Podlasiu (np. Bohoniki, Kruszyniany) i kultywująca islam."
+                                       },
+                                       {
+                                           "sentence":  "Łemkowie to grupa etnograficzna górali polskich, która nie posiada statusu mniejszości w świetle ustawy.",
+                                           "answer":  false,
+                                           "explanation":  "Łemkowie są uznani ustawowo za mniejszość etniczną (wschodniosłowiańską), a nie za grupę etnograficzną narodu polskiego (jak np. Górale Podhalańscy)."
+                                       },
+                                       {
+                                           "sentence":  "Współczesna Polska należy do państw o najbardziej homogenicznej (jednolitej) strukturze narodowościowej w Europie.",
+                                           "answer":  true,
+                                           "explanation":  "Współcześnie około 95% mieszkańców Polski deklaruje wyłącznie narodowość polską, co czyni kraj niemal jednolitym etnicznie."
+                                       }
+                                   ]
+                 }
+}

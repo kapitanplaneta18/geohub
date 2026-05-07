@@ -1,0 +1,360 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz1-t5",
+                     "title":  "Klimat Polski",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Klimat umiarkowany ciepły przejściowy",
+                                              "definition":  "Typ klimatu Polski charakteryzujący się dużą zmiennością pogody oraz cechami pośrednimi między klimatem morskim (zachód kraju) a kontynentalnym (wschód kraju)."
+                                          },
+                                          {
+                                              "term":  "Powietrze polarne morskie (PPm)",
+                                              "definition":  "Masa powietrza napływająca z północnego Atlantyku; latem przynosi ochłodzenie, zachmurzenie i opady, a zimą ocieplenie, odwilż i opady deszczu ze śniegiem."
+                                          },
+                                          {
+                                              "term":  "Powietrze polarne kontynentalne (PPk)",
+                                              "definition":  "Masa powietrza napływająca ze wschodu (Europa Wsch., Azja); latem przynosi upalną i słoneczną pogodę, a zimą silne mrozy i słońce."
+                                          },
+                                          {
+                                              "term":  "Powietrze arktyczne (PA)",
+                                              "definition":  "Masa powietrza znad Arktyki; wiosną i jesienią przynosi silne ochłodzenie i przymrozki (tzw. zimni ogrodnicy), a zimą mroźną i słoneczną pogodę."
+                                          },
+                                          {
+                                              "term":  "Powietrze zwrotnikowe morskie (PZm)",
+                                              "definition":  "Masa powietrza znad Azorów i Morza Śródziemnego; napływa rzadko, latem przynosi upały i burze, a zimą gwałtowne odwilże."
+                                          },
+                                          {
+                                              "term":  "Powietrze zwrotnikowe kontynentalne (PZk)",
+                                              "definition":  "Masa powietrza znad Azji Mniejszej i Afryki; jesienią przynosi pogodną, słoneczną aurę (tzw. babie lato), a latem upały i susze."
+                                          },
+                                          {
+                                              "term":  "Okres wegetacyjny",
+                                              "definition":  "Liczba dni w roku ze średnią dobową temperaturą powietrza wynoszącą co najmniej 5°C, umożliwiającą wzrost i rozwój roślin."
+                                          },
+                                          {
+                                              "term":  "Termiczne pory roku",
+                                              "definition":  "Sześć okresów w roku wyróżnianych na podstawie progów średniej dobowej temperatury powietrza (przedwiośnie, wiosna, lato, jesień, przedzimie, zima)."
+                                          },
+                                          {
+                                              "term":  "Przedwiośnie",
+                                              "definition":  "Termiczna pora roku, w której średnia dobowa temperatura powietrza waha się w przedziale od 0°C do 5°C."
+                                          },
+                                          {
+                                              "term":  "Przedzimie",
+                                              "definition":  "Termiczna pora roku, w której średnia dobowa temperatura powietrza spada do przedziału od 5°C do 0°C."
+                                          },
+                                          {
+                                              "term":  "Amplituda roczna temperatury",
+                                              "definition":  "Różnica między średnią temperaturą najcieplejszego i najchłodniejszego miesiąca; w Polsce rośnie z zachodu na wschód, co świadczy o wzroście kontynentalizmu."
+                                          },
+                                          {
+                                              "term":  "Cień opadowy Pojezierza Pomorskiego",
+                                              "definition":  "Zjawisko powodujące najniższe sumy opadów w Polsce na Pojezierzu Kujawskim i Wielkopolskim (poniżej 500-550 mm)."
+                                          },
+                                          {
+                                              "term":  "Opady konwekcyjne",
+                                              "definition":  "Rodzaj opadów występujących latem, związanych z silnym nagrzewaniem się powietrza, wznoszeniem prądów wstępujących i tworzeniem chmur burzowych."
+                                          },
+                                          {
+                                              "term":  "Niż Islandzki",
+                                              "definition":  "Ośrodek baryczny kształtujący pogodę w Polsce głównie zimą, przynoszący wilgotne powietrze, ocieplenie i opady."
+                                          },
+                                          {
+                                              "term":  "Wyż Azorski",
+                                              "definition":  "Stały ośrodek wysokiego ciśnienia, który latem często decyduje o napływie ciepłych mas powietrza nad Polskę."
+                                          },
+                                          {
+                                              "term":  "Bryza",
+                                              "definition":  "Wiatr lokalny na wybrzeżu zmieniający kierunek w cyklu dobowym; w dzień wieje od morza (chłodniejszego) do lądu (cieplejszego)."
+                                          },
+                                          {
+                                              "term":  "Przejściowość klimatu",
+                                              "definition":  "Cecha klimatu Polski wynikająca z położenia między Oceanem Atlantyckim a kontynentem azjatyckim, objawiająca się dużą zmiennością typów pogody."
+                                          },
+                                          {
+                                              "term":  "Zróżnicowanie okresu wegetacyjnego",
+                                              "definition":  "Różnica w długości trwania wegetacji od ok. 190 dni na Suwalszczyźnie do ponad 225 dni na Nizinie Śląskiej i w Kotlinie Sandomierskiej."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Powietrze polarne morskie (PPm)",
+                                                 "pair2":  "Odwilż zimą, ochłodzenie latem"
+                                             },
+                                             {
+                                                 "pair1":  "Powietrze polarne kontynentalne (PPk)",
+                                                 "pair2":  "Siarczyste mrozy zimą, upały latem"
+                                             },
+                                             {
+                                                 "pair1":  "Powietrze zwrotnikowe kontynentalne (PZk)",
+                                                 "pair2":  "Złota polska jesień (babie lato)"
+                                             },
+                                             {
+                                                 "pair1":  "Powietrze arktyczne (PA)",
+                                                 "pair2":  "Majowe przymrozki (zimni ogrodnicy)"
+                                             },
+                                             {
+                                                 "pair1":  "Termiczne lato",
+                                                 "pair2":  "Średnia dobowa temperatura powyżej 15°C"
+                                             },
+                                             {
+                                                 "pair1":  "Termiczna zima",
+                                                 "pair2":  "Średnia dobowa temperatura poniżej 0°C"
+                                             },
+                                             {
+                                                 "pair1":  "Najniższe opady w Polsce",
+                                                 "pair2":  "Pojezierze Kujawskie i Wielkopolskie"
+                                             },
+                                             {
+                                                 "pair1":  "Najdłuższy okres wegetacyjny",
+                                                 "pair2":  "Nizina Śląska i Kotlina Sandomierska"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaka jest główna cecha klimatu Polski wynikająca z jej położenia między Oceanem Atlantyckim a kontynentem azjatyckim?",
+                                      "options":  [
+                                                      "Monotonność i stałość warunków pogodowych przez cały rok",
+                                                      "Przejściowość klimatu objawiająca się dużą zmiennością pogody",
+                                                      "Występowanie wyraźnej pory deszczowej oraz pory suchej latem",
+                                                      "Całkowity brak wpływów oceanicznych we wschodniej części kraju"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przejściowość klimatu Polski wynika ze ścierania się mas powietrza morskiego z zachodu i kontynentalnego ze wschodu, co skutkuje dużą zmiennością typów pogody i różnicami w długości pór roku między wschodem a zachodem kraju."
+                                  },
+                                  {
+                                      "question":  "Która masa powietrza napływa nad Polskę najczęściej (przez 45-60% dni w roku) i jaki ma wpływ na pogodę zimą?",
+                                      "options":  [
+                                                      "Powietrze polarne kontynentalne (PPk) przynoszące silne, siarczyste mrozy",
+                                                      "Powietrze arktyczne (PA) wywołujące gwałtowne opady śniegu i ochłodzenie",
+                                                      "Powietrze polarne morskie (PPm) powodujące ocieplenie i odwilż",
+                                                      "Powietrze zwrotnikowe morskie (PZm) przynoszące gwałtowne burze śnieżne"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Masy powietrza polarnego morskiego (PPm) napływają z północnego Atlantyku najczęściej. Zimą przynoszą ocieplenie, wzrost zachmurzenia i często odwilż, latem zaś ochłodzenie."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na Pojezierzu Kujawskim i w Wielkopolsce notuje się najniższe roczne sumy opadów atmosferycznych w Polsce (poniżej 550 mm)?",
+                                      "options":  [
+                                                      "Obszary te leżą w cieniu opadowym Pojezierza Pomorskiego",
+                                                      "Jest to bezpośredni skutek intensywnego parowania wód z licznych jezior",
+                                                      "Regiony te znajdują się pod stałym, całorocznym wpływem Wyżu Azjatyckiego",
+                                                      "Wynika to z bardzo dużej, blokującej chmury wysokości nad poziomem morza"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Niskie opady na Kujawach i w Wielkopolsce wynikają z efektu cienia opadowego. Masy powietrza tracą wilgoć na wzniesieniach Pojezierza Pomorskiego, docierając do centrum kraju jako osuszone."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób Ciepły Prąd Północnoatlantycki wpływa na układ izoterm in Polsce w miesiącach zimowych?",
+                                      "options":  [
+                                                      "Izotermy układają się równoleżnikowo, a temperatura spada z południa na północ",
+                                                      "Izotermy mają układ południkowy, a zachodnia część kraju jest cieplejsza od wschodniej",
+                                                      "Prąd ten nie ma wpływu na temperaturę w Polsce, decyduje tylko nasłonecznienie",
+                                                      "Powoduje on odwrócenie gradientu, czyniąc wschodnią Polskę cieplejszą od zachodniej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zimą zachodnia część Polski jest cieplejsza dzięki łagodzącemu wpływowi Oceanu Atlantyckiego i Prądu Północnoatlantyckiego, co sprawia, że izotermy mają przebieg zbliżony do południkowego."
+                                  },
+                                  {
+                                      "question":  "Ile termicznych pór roku wyróżnia się w Polsce?",
+                                      "options":  [
+                                                      "Cztery (wiosna, lato, jesień, zima)",
+                                                      "Dwie (główna pora ciepła i pora chłodna)",
+                                                      "Sześć (wiosna, lato, jesień, zima, przedwiośnie, przedzimie)",
+                                                      "Pięć (wiosna, lato, babie lato, jesień, zima)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Klimatolodzy wyróżniają w Polsce sześć termicznych pór roku na podstawie progów średniej dobowej temperatury powietrza (0°C, 5°C, 15°C)."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się masa powietrza zwrotnikowego kontynentalnego (PZk) napływająca nad Polskę jesienią?",
+                                      "options":  [
+                                                      "Przynosi gwałtowne, niszczycielskie burze i długotrwałe ulewy",
+                                                      "Powoduje nagłe, silne przymrozki oraz intensywne opady mokrego śniegu",
+                                                      "Kształtuje pogodę słoneczną, ciepłą i suchą, zwaną potocznie babim latem",
+                                                      "Jest przyczyną porywistych, sztormowych wiatrów wiejących od strony Bałtyku"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Napływ ciepłego i suchego powietrza zwrotnikowego kontynentalnego z południowego wschodu jesienią skutkuje występowaniem tzw. polskiej złotej jesieni (babiego lata)."
+                                  },
+                                  {
+                                      "question":  "Który region Polski charakteryzuje się najdłuższym okresem wegetacyjnym, trwającym ponad 225 dni?",
+                                      "options":  [
+                                                      "Chłodne i wilgotne Pojezierze Suwalskie",
+                                                      "Nizina Śląska i zachodnia część Kotliny Sandomierskiej",
+                                                      "Wyżyna Lubelska oraz Roztocze",
+                                                      "Centralna część Pojezierza Mazurskiego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Najdłuższy okres wegetacyjny występuje na Nizinie Śląskiej i w Kotlinie Sandomierskiej ze względu na korzystne warunki termiczne (cieplejszy klimat)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest przyczyna powstawania bryzy dziennej nad Morzem Bałtyckim?",
+                                      "options":  [
+                                                      "Ląd nagrzewa się szybciej niż woda, co powoduje spadek ciśnienia i napływ powietrza z morza",
+                                                      "Woda nagrzewa się szybciej niż ląd, tworząc silny ośrodek niskiego ciśnienia nad morzem",
+                                                      "Jest to bezpośredni efekt oddziaływania stałego Wyżu Azorskiego na strefę brzegową",
+                                                      "Wynika to z globalnej cyrkulacji zachodniej dominującej w górnych warstwach atmosfery"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W dzień ląd nagrzewa się szybciej od wody. Cieplejsze powietrze nad lądem unosi się (niż), a na jego miejsce napływa chłodniejsze powietrze znad morza (wyż)."
+                                  },
+                                  {
+                                      "question":  "Co oznacza wzrost rocznej amplitudy temperatury powietrza w Polsce z zachodu na wschód?",
+                                      "options":  [
+                                                      "Stopniowy wzrost wpływu klimatu morskiego",
+                                                      "Wzrost kontynentalizmu klimatu",
+                                                      "Zmniejszanie się różnic termicznych między latem a zimą",
+                                                      "Silniejszy wpływ bariery górskiej Sudetów na cyrkulację"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Większa różnica temperatur między latem a zimą (amplituda) na wschodzie świadczy o rosnącym wpływie kontynentalizmu (ląd nagrzewa się i wychładza szybciej niż ocean)."
+                                  },
+                                  {
+                                      "question":  "Jaką rolę w kształtowaniu klimatu Polski odgrywają Karpaty i Sudety?",
+                                      "options":  [
+                                                      "Ułatwiają swobodny napływ wilgotnych mas powietrza z południa",
+                                                      "Stanowią barierę hamującą napływ mas powietrza zwrotnikowego z południa",
+                                                      "Powodują, że w Polsce dominują suche i mroźne wiatry wschodnie",
+                                                      "Są obszarem o zdecydowanie najniższych sumach opadów w całym kraju"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Równoleżnikowy układ gór na południu Polski stanowi barierę orograficzną, która utrudnia swobodny napływ ciepłych mas powietrza z południa Europy."
+                                  },
+                                  {
+                                      "question":  "Który ośrodek baryczny ma największy wpływ na pogodę w Polsce zimą, przynosząc ocieplenie i opady?",
+                                      "options":  [
+                                                      "Wyż Azorski",
+                                                      "Wyż Wschodnioazjatycki",
+                                                      "Niż Islandzki",
+                                                      "Niż Południowoazjatycki"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Niż Islandzki jest aktywnym ośrodkiem niskiego ciśnienia, który zimą kieruje nad Europę (w tym Polskę) wilgotne i cieplejsze masy powietrza znad Atlantyku."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w lipcu średnie temperatury w Polsce układają się strefowo (maleją z południa na północ), z wyjątkiem gór?",
+                                      "options":  [
+                                                      "Decyduje o tym rosnąca odległość od ciepłego Oceanu Atlantyckiego",
+                                                      "Decyduje o tym różna wysokość górowania Słońca i długość dnia",
+                                                      "Jest to wynik silnego, ochładzającego oddziaływania Bałtyku na cały kraj",
+                                                      "Wynika to z intensywnej działalności ciepłych wiatrów fenowych w górach"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Latem różnice w dopływie energii słonecznej (zależne od szerokości geograficznej) są decydujące, dlatego temperatura jest wyższa na południu, a niższa na północy (poza górami, gdzie decyduje wysokość)."
+                                  },
+                                  {
+                                      "question":  "Czym jest termiczne przedwiośnie?",
+                                      "options":  [
+                                                      "Okresem ze średnią temperaturą 0-5°C",
+                                                      "Czasem, gdy temperatura przekracza 15°C",
+                                                      "Okresem wegetacyjnym roślin uprawnych",
+                                                      "Kalendarzowym początkiem miesiąca marca"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Termiczne przedwiośnie to pora roku, w której średnia dobowa temperatura powietrza mieści się w przedziale 0–5°C, występująca przed właściwą wiosną."
+                                  },
+                                  {
+                                      "question":  "Które masy powietrza są odpowiedzialne za występowanie tzw. zimnych ogrodników (majowych przymrozków)?",
+                                      "options":  [
+                                                      "Powietrze polarne morskie (PPm)",
+                                                      "Powietrze zwrotnikowe morskie (PZm)",
+                                                      "Powietrze arktyczne (PA)",
+                                                      "Powietrze zwrotnikowe kontynentalne (PZk)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wiosną napływ zimnego powietrza arktycznego (PA) z północy powoduje gwałtowne ochłodzenie i przymrozki, znane w ludowej tradycji jako zimni ogrodnicy."
+                                  },
+                                  {
+                                      "question":  "Jak ukształtowanie powierzchni Polski wpływa na przemieszczanie się mas powietrza?",
+                                      "options":  [
+                                                      "Wysokie góry na północy skutecznie blokują zimne powietrze arktyczne",
+                                                      "Nizinny charakter ułatwia swobodny przepływ mas powietrza z zachodu na wschód",
+                                                      "Wyżyny w centrum kraju zatrzymują wilgotne masy powietrza morskiego",
+                                                      "Brak gór na południu powoduje stałe napływy gorącego powietrza zwrotnikowego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przewaga nizin i brak barier górskich na osi zachód-wschód umożliwia swobodne przemieszczanie się mas powietrza z Atlantyku w głąb kontynentu oraz ze wschodu na zachód."
+                                  },
+                                  {
+                                      "question":  "Z czego wynika asymetria klimatyczna między Śnieżką a Warszawą, mimo że leżą na podobnej szerokości geograficznej?",
+                                      "options":  [
+                                                      "Z ogromnej różnicy w stopniu zalesienia terenu wokół obu punktów",
+                                                      "Ze spadku temperatury wraz z wysokością (gradient wilgotnoadiabatyczny)",
+                                                      "Ze znacznie bliższego położenia Warszawy względem Morza Bałtyckiego",
+                                                      "Z występowania intensywnej miejskiej wyspy ciepła w centrum Warszawy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Głównym czynnikiem jest wysokość nad poziomem morza. Temperatura spada średnio o 0,6°C na każde 100 m wzniesienia, dlatego na Śnieżce jest znacznie zimniej."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Masy powietrza polarnego morskiego (PPm) napływające zimą nad Polskę przynoszą silne mrozy i słoneczną pogodę.",
+                                           "answer":  false,
+                                           "explanation":  "Zimą masy powietrza polarnego morskiego (PPm) przynoszą ocieplenie, wzrost zachmurzenia i odwilż, natomiast mrozy i słońce są skutkiem napływu powietrza polarnego kontynentalnego (PPk)."
+                                       },
+                                       {
+                                           "sentence":  "W Polsce wyróżnia się sześć termicznych pór roku, uwzględniając przedwiośnie i przedzimie.",
+                                           "answer":  true,
+                                           "explanation":  "Klimatolodzy wyróżniają sześć termicznych pór roku na podstawie średnich dobowych temperatur, dodając przedwiośnie (0–5°C) i przedzimie (5–0°C) do czterech kalendarzowych pór."
+                                       },
+                                       {
+                                           "sentence":  "Najniższe roczne sumy opadów atmosferycznych w Polsce notuje się w Tatrach i Sudetach.",
+                                           "answer":  false,
+                                           "explanation":  "W górach (Tatry) notuje się najwyższe opady (ok. 1700 mm); najniższe sumy opadów występują na Pojezierzu Kujawskim i Wielkopolskim z powodu cienia opadowego Pojezierza Pomorskiego."
+                                       },
+                                       {
+                                           "sentence":  "Okres wegetacyjny trwa najkrócej na nizinach Polski Środkowej, a najdłużej na Pojezierzu Suwalskim.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie: okres wegetacyjny jest najkrótszy na północnym wschodzie (Pojezierze Suwalskie, ok. 190 dni), a najdłuższy na zachodzie i południowym zachodzie (Nizina Śląska, ponad 225 dni)."
+                                       },
+                                       {
+                                           "sentence":  "Roczna amplituda temperatury powietrza wzrasta z zachodu na wschód Polski, co świadczy o narastaniu cech kontynentalnych klimatu.",
+                                           "answer":  true,
+                                           "explanation":  "Wzrost amplitudy (różnicy między latem a zimą) w kierunku wschodnim jest efektem oddalania się od wpływu Oceanu Atlantyckiego i wzrostu kontynentalizmu."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko „babiego lata”, czyli ciepłej i słonecznej pogody jesienią, jest związane z napływem powietrza zwrotnikowego kontynentalnego (PZk).",
+                                           "answer":  true,
+                                           "explanation":  "Masy powietrza zwrotnikowego kontynentalnego napływające jesienią z południowego wschodu przynoszą pogodną aurę, zwaną babim latem."
+                                       },
+                                       {
+                                           "sentence":  "Największe sumy opadów atmosferycznych w Polsce przypadają zazwyczaj na miesiące zimowe (styczeń, luty).",
+                                           "answer":  false,
+                                           "explanation":  "W Polsce przeważają opady letnie; miesiącem o najwyższych sumach opadów jest zazwyczaj lipiec (opady konwekcyjne i frontalne)."
+                                       },
+                                       {
+                                           "sentence":  "Bryza dzienna wieje znad morza w kierunku lądu, ponieważ w dzień ląd nagrzewa się szybciej niż woda.",
+                                           "answer":  true,
+                                           "explanation":  "W dzień ląd jest cieplejszy (niż baryczny), a woda chłodniejsza (wyż baryczny), dlatego wiatr wieje od wyżu do niżu, czyli z morza na ląd."
+                                       },
+                                       {
+                                           "sentence":  "Umowną granicę między klimatem o cechach morskich a klimatem o cechach kontynentalnych w Polsce stanowi izoamplituda 20°C.",
+                                           "answer":  true,
+                                           "explanation":  "Izolinia amplitudy rocznej temperatury o wartości 20°C oddziela zachodnią część kraju (cechy morskie, niższa amplituda) od wschodniej (cechy kontynentalne, wyższa amplituda)."
+                                       },
+                                       {
+                                           "sentence":  "Powietrze arktyczne (PA) napływa nad Polskę głównie latem, przynosząc fale upałów.",
+                                           "answer":  false,
+                                           "explanation":  "Powietrze arktyczne napływa głównie zimą oraz wiosną i jesienią, przynosząc silne ochłodzenie i przymrozki (np. w maju), a nie upały."
+                                       },
+                                       {
+                                           "sentence":  "Asymetria dorzeczy Wisły i Odry wynika z ogólnego nachylenia powierzchni Polski z południowego wschodu na północny zachód.",
+                                           "answer":  true,
+                                           "explanation":  "Nachylenie terenu sprawia, że rzeki spływają na północny zachód, co powoduje, że ich prawobrzeżne dorzecza są znacznie bardziej rozwinięte niż lewobrzeżne."
+                                       },
+                                       {
+                                           "sentence":  "W lipcu średnie temperatury powietrza w Polsce (poza górami) rosną z południa na północ.",
+                                           "answer":  false,
+                                           "explanation":  "Latem decydujący wpływ ma szerokość geograficzna i kąt padania promieni słonecznych, dlatego temperatura maleje z południa na północ (na południu jest cieplej)."
+                                       }
+                                   ]
+                 }
+}

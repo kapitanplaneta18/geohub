@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t8",
+    "title": "Rewitalizacja i działania proekologiczne",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rekultywacja krajobrazu",
+        "definition": "Przywracanie całkowicie zdegradowanym terenom wartości użytkowych poprzez nadawanie im nowych funkcji, np. przekształcanie wyrobisk pogórniczych w zbiorniki wodne czy tereny rekreacyjne."
+      },
+      {
+        "term": "Renaturalizacja krajobrazu",
+        "definition": "Działania polegające na nadawaniu terenom lub obiektom wyglądu jak najbardziej zbliżonego do tego, którym odznaczały się one przed szkodliwą ingerencją człowieka, np. odtwarzanie naturalnych koryt rzecznych."
+      },
+      {
+        "term": "Rewitalizacja krajobrazu",
+        "definition": "Kompleksowa metoda przywracania wartości użytkowych częściowo zdegradowanym obszarom (np. miejskim i poprzemysłowym), łącząca działania o charakterze społecznym, gospodarczym, środowiskowym, przestrzennym i technicznym."
+      },
+      {
+        "term": "Działania proekologiczne w rolnictwie (nawożenie)",
+        "definition": "Stopniowa rezygnacja ze sztucznych nawozów i zastępowanie ich nawozami naturalnymi, takimi jak obornik, kompost, gnojówka czy nawozy zielone."
+      },
+      {
+        "term": "Działania proekologiczne w rolnictwie (uprawy)",
+        "definition": "Powrót do stosowania płodozmianu w celu podtrzymania żyzności gleby oraz zastępowanie roślin modyfikowanych genetycznie (GMO) własnym materiałem siewnym."
+      },
+      {
+        "term": "Działania proekologiczne w rolnictwie (chów zwierząt)",
+        "definition": "Znaczne ograniczanie ilości antybiotyków i hormonów podawanych trzodzie chlewnej i ptactwu oraz wprowadzanie chowu wolnowybiegowego."
+      },
+      {
+        "term": "Rozwiązania proekologiczne w przemyśle",
+        "definition": "Wdrażanie energooszczędnych technologii, stosowanie zamkniętego obiegu wody, korzystanie z OZE oraz montowanie filtrów redukujących emisję zanieczyszczeń."
+      },
+      {
+        "term": "Rozwiązania proekologiczne w transporcie",
+        "definition": "Konstruowanie i produkcja niskoemisyjnych napędów hybrydowych oraz elektrycznych, a także wykorzystywanie biopaliw i materiałów z recyklingu."
+      },
+      {
+        "term": "Działania proekologiczne w usługach (hotele)",
+        "definition": "Czerpanie energii z OZE, instalowanie oświetlenia energooszczędnego, ponowne wykorzystywanie szarej wody do spłukiwania toalet oraz rzadsze pranie pościeli."
+      },
+      {
+        "term": "Rekuperacja",
+        "definition": "Proces odzyskiwania energii cieplnej z wentylacji, powszechnie stosowany jako rozwiązanie proekologiczne w nowoczesnych obiektach usługowych."
+      },
+      {
+        "term": "Zrównoważone wybory konsumenckie",
+        "definition": "Wybieranie towarów w opakowaniach przyjaznych środowisku (szklanych, papierowych), korzystanie z produktów z recyklingu i jak najdłuższe używanie posiadanych urządzeń elektronicznych."
+      },
+      {
+        "term": "Proekologiczne działania codzienne (transport)",
+        "definition": "Świadome ograniczenie korzystania z samochodu osobowego na rzecz komunikacji zbiorowej, jazdy na rowerze lub poruszania się pieszo."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Działania naprawcze (rekultywacja)",
+        "pair2": "Przywracanie całkowicie zdegradowanym terenom wartości użytkowych poprzez nadawanie im nowych funkcji, np. sportowo-rekreacyjnych w starych kamieniołomach."
+      },
+      {
+        "pair1": "Działania naprawcze (renaturalizacja)",
+        "pair2": "Nadawanie zniszczonym przez człowieka terenom wyglądu maksymalnie zbliżonego do stanu naturalnego, np. naturalnego biegu rzeki."
+      },
+      {
+        "pair1": "Działania naprawcze (rewitalizacja)",
+        "pair2": "Kompleksowe przywracanie funkcji zdegradowanym dzielnicom miejskim w wymiarze przestrzennym, społecznym, gospodarczym i technicznym."
+      },
+      {
+        "pair1": "Rozwiązania proekologiczne (w rolnictwie)",
+        "pair2": "Zastępowanie upraw GMO własnym materiałem siewnym, powrót do płodozmianu i rezygnacja z nawozów sztucznych na rzecz kompostu."
+      },
+      {
+        "pair1": "Rozwiązania proekologiczne (w przemyśle)",
+        "pair2": "Redukcja pyłów dzięki elektrofiltrom, obieg zamknięty wody produkcyjnej oraz konstruowanie napędów hybrydowych."
+      },
+      {
+        "pair1": "Rozwiązania proekologiczne (w usługach)",
+        "pair2": "Odzyskiwanie energii z rekuperacji, własne oczyszczalnie ścieków w hotelach i podlewanie ogrodów wodą z odzysku."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co oznacza pojęcie rekultywacji krajobrazu w kontekście ochrony środowiska?",
+        "options": [
+          "Przywracanie całkowicie zdegradowanym terenom wartości użytkowych przez nadawanie nowych funkcji.",
+          "Nadawanie zniszczonym obszarom wyglądu maksymalnie zbliżonego do naturalnego przed ingerencją.",
+          "Kompleksowe odnawianie krajobrazów kulturowych poprzez działania społeczne i architektoniczne.",
+          "Zapobieganie powstawaniu szkód w środowisku przyrodniczym poprzez rygorystyczne normy prawne."
+        ],
+        "answer": "A",
+        "explanation": "Rekultywacja krajobrazu polega na przywracaniu całkowicie zdegradowanym terenom wartości użytkowych poprzez nadawanie im nowych funkcji, na przykład rekreacyjnych czy gospodarczych."
+      },
+      {
+        "question": "Na czym polega proces renaturalizacji zdegradowanych elementów środowiska?",
+        "options": [
+          "Na przywracaniu terenom wyglądu maksymalnie zbliżonego do stanu przed ingerencją człowieka.",
+          "Na nadawaniu zniszczonym obszarom zupełnie nowych funkcji gospodarczych lub rekreacyjnych.",
+          "Na kompleksowej przebudowie historycznych dzielnic miejskich i terenów poprzemysłowych.",
+          "Na wprowadzaniu nowoczesnych i energooszczędnych technologii do zakładów produkcyjnych."
+        ],
+        "answer": "A",
+        "explanation": "Renaturalizację przeprowadza się, aby nadać terenom lub obiektom wygląd jak najbardziej zbliżony do tego, którym odznaczały się one przed ingerencją człowieka."
+      },
+      {
+        "question": "Jak definiuje się rewitalizację w odniesieniu do terenów przekształconych?",
+        "options": [
+          "Kompleksowa metoda przywracania wartości użytkowych częściowo zdegradowanym obszarom miejskim.",
+          "Proces zalesiania i zazieleniania dawnych wyrobisk górniczych w celu stworzenia stref relaksu.",
+          "Działanie polegające na całkowitym usunięciu śladów ludzkiej ingerencji ze środowiska leśnego.",
+          "Ograniczenie zużycia zasobów naturalnych w zakładach usługowych poprzez segregację odpadów."
+        ],
+        "answer": "A",
+        "explanation": "Rewitalizacja to najbardziej kompleksowa metoda przywracania wartości użytkowych częściowo zdegradowanym obszarom, obejmująca m.in. krajobrazy kulturowe, tereny miejskie czy poprzemysłowe."
+      },
+      {
+        "question": "Które z poniższych działań jest bezpośrednim przykładem procesu rekultywacji?",
+        "options": [
+          "Zalanie nieczynnego kamieniołomu wodą w celu utworzenia z niego bezpiecznego kąpieliska.",
+          "Przywrócenie naturalnego koryta wyprostowanej rzece dla odtworzenia pierwotnych siedlisk.",
+          "Przebudowa starego dworca kolejowego w nowoczesny węzeł komunikacyjny i strefę handlową.",
+          "Wprowadzenie energooszczędnych instalacji oświetleniowych w nowo wybudowanym biurowcu."
+        ],
+        "answer": "A",
+        "explanation": "Przykładem rekultywacji jest zalewanie nieczynnych kamieniołomów wodą, dzięki czemu nadaje się im nowe funkcje rekreacyjne (tworzenie zbiorników wodnych)."
+      },
+      {
+        "question": "Jakie działanie naprawcze najlepiej pasuje do wieloaspektowej rewitalizacji miast?",
+        "options": [
+          "Przekształcenie opuszczonego dworca kolejowego w nowoczesny węzeł komunikacyjny i kulturalny.",
+          "Zasadzenie nowych drzew w miejscu dawnego wyrobiska po kopalni węgla w celu ukrycia zniszczeń.",
+          "Zlikwidowanie betonowych brzegów rzeki i przywrócenie jej pierwotnego, meandrującego kształtu.",
+          "Wprowadzenie do funkcjonującego gospodarstwa rolnego nawozów naturalnych zamiast sztucznych."
+        ],
+        "answer": "A",
+        "explanation": "Działania rewitalizacyjne obejmują poprawę infrastruktury technicznej i transportowej oraz przestrzeni publicznej, jak wdrożony w Łodzi proces przebudowy dworca Łódź Fabryczna."
+      },
+      {
+        "question": "Które rozwiązanie zalicza się stricte do działań proekologicznych w rolnictwie?",
+        "options": [
+          "Zastępowanie sztucznych nawozów chemicznych substancjami naturalnymi i nawozami zielonymi.",
+          "Montowanie nowoczesnych instalacji wentylacyjnych z rekuperacją ciepła w halach fabrycznych.",
+          "Zwiększanie wydajności plonów poprzez wprowadzanie nowych odmian modyfikowanych genetycznie.",
+          "Wykorzystywanie ogromnych maszyn napędzanych wyłącznie silnikami spalinowymi wysokiej mocy."
+        ],
+        "answer": "A",
+        "explanation": "Działania proekologiczne w rolnictwie to m.in. stopniowa rezygnacja ze sztucznych nawozów i zastępowanie ich kompostem, gnojówką, obornikiem czy nawozami zielonymi."
+      },
+      {
+        "question": "Jakie proekologiczne rozwiązania najczęściej wprowadza się w usługach turystycznych?",
+        "options": [
+          "Instalowanie urządzeń ograniczających zużycie prądu i wody oraz stosowanie własnych oczyszczalni.",
+          "Zastępowanie upraw modyfikowanych genetycznie lokalnymi odmianami sadzeniowymi w strefach SPA.",
+          "Wprowadzanie nowoczesnych systemów zamkniętego obiegu wody w okolicznych strefach przemysłu.",
+          "Wykorzystywanie wyłącznie potężnych układów spalinowych dla uzyskania wyższej mocy grzewczej."
+        ],
+        "answer": "A",
+        "explanation": "Hotele i inne obiekty usługowe stosują m.in. urządzenia zmniejszające zużycie wody, energooszczędne oświetlenie, odzyskują ciepło z wentylacji oraz budują własne oczyszczalnie ścieków."
+      },
+      {
+        "question": "Jaki jest główny mechanizm celowego stosowania elektrofiltrów w działalności przemysłowej?",
+        "options": [
+          "Mechaniczne zatrzymywanie dużych frakcji pyłowych przez specjalne gęste włókna materiałowe.",
+          "Chemiczne wchłanianie i neutralizowanie niebezpiecznych tlenków siarki przy ciągłym spalaniu.",
+          "Wyłapywanie zanieczyszczeń stałych ze spalin elektrowni przy użyciu pola elektrostatycznego.",
+          "Certyfikowane wyeliminowanie emisji dwutlenku węgla ze starych pieców w domach prywatnych."
+        ],
+        "answer": "C",
+        "explanation": "Metoda elektromagnetyczna, stosowana m.in. w elektrowniach węglowych, polega na wyłapywaniu pyłów ze spalin poprzez elektrofiltry, które oddziałują na cząsteczki elektrostatycznie."
+      },
+      {
+        "question": "Co zdecydowanie zalicza się do proekologicznych zachowań w codziennym życiu mieszkańców?",
+        "options": [
+          "Ograniczanie korzystania z samochodów prywatnych na rzecz sprawnego transportu zbiorowego.",
+          "Regularne wymienianie starszych urządzeń elektronicznych na najnowsze modele wyższej klasy.",
+          "Skuteczna przebudowa systemów rzecznych w celu zwiększenia rocznej rentowności rolnictwa.",
+          "Konstruowanie specjalnych napędów wodorowych dla wielkich maszyn transportu oceanicznego."
+        ],
+        "answer": "A",
+        "explanation": "Jednym z kluczowych, codziennych działań proekologicznych obywateli jest rezygnacja z podróżowania samochodem prywatnym na rzecz komunikacji miejskiej lub roweru."
+      },
+      {
+        "question": "Jaki cel przyświeca powrotowi do stosowania klasycznego płodozmianu w rolnictwie ekologicznym?",
+        "options": [
+          "Podtrzymanie naturalnej żyzności gleby i odpowiednie odbudowanie jej właściwej struktury biologicznej.",
+          "Skuteczne zmniejszenie ilości zanieczyszczeń gazowych pochodzących z intensywnej obróbki przemysłowej.",
+          "Wyraźne skrócenie czasu potrzebnego na mechaniczne przygotowanie bardzo rozległych pól do nowych siewów.",
+          "Błyskawiczne zneutralizowanie skutków globalnego ocieplenia na terenach charakteryzujących się suszą."
+        ],
+        "answer": "A",
+        "explanation": "Zastosowanie płodozmianu zamiast monokultury to ważny proces w rolnictwie mający na celu ochronę gleb poprzez podtrzymanie jej żyzności oraz odbudowanie właściwej struktury."
+      },
+      {
+        "question": "Na czym polega główne zróżnicowanie pomiędzy procesem zaawansowanej rekultywacji a renaturalizacją?",
+        "options": [
+          "Rekultywacja celowo nadaje terenom zupełnie nowe funkcje użytkowe, renaturalizacja silnie dąży do powrotu do autentycznego stanu dziewiczego.",
+          "Rekultywacja skupia się wyłącznie na rozległych obszarach poprzemysłowych, renaturalizacja dotyczy wyłącznie gęstych historycznych centrów miast.",
+          "Rekultywacja zawsze wykorzystuje wyłącznie naturalne materiały biologiczne, renaturalizacja bazuje na zaawansowanych rozwiązaniach budowlanych.",
+          "Rekultywacja stale wymaga całkowitego zaprzestania działalności gospodarczej, renaturalizacja w pełni pozwala na dalszą obróbkę ciężką rolniczą."
+        ],
+        "answer": "A",
+        "explanation": "Rekultywacja zakłada stworzenie od podstaw nowej użyteczności (np. stworzenie boiska czy zalesienie hałdy), podczas gdy renaturalizacja dąży do zatarcia śladów obecności człowieka i przywrócenia ekosystemu do kształtu zbliżonego do dzikiej natury."
+      },
+      {
+        "question": "Dlaczego procesy rewitalizacji przestrzeni miejskich uznaje się za działania naprawcze o najwyższym stopniu złożoności?",
+        "options": [
+          "Bezwarunkowo wymaga równoczesnej poprawy zniszczonej tkanki społecznej, kondycji gospodarczej regionu oraz przestarzałej infrastruktury drogowej.",
+          "Opiera się wyłącznie na całkowitym wyburzeniu dotychczasowych struktur przemysłowych i szybkim zastąpieniu ich rozległymi strefami miejskiej zieleni.",
+          "Zawsze pociąga za sobą ogromną konieczność natychmiastowego przywrócenia pierwotnego siedliska naturalnego poprzez zalanie starych stref fabrycznych.",
+          "Bezpośrednio obliguje lokalne organy do silnego zwalczania zjawiska ubóstwa tylko poprzez natychmiastowe rozdawnictwo państwowe pośród mieszkańców."
+        ],
+        "answer": "A",
+        "explanation": "Rewitalizacja to najpełniejszy proces przestrzenny. Poza fizyczną odbudową starych budynków musi integrować procesy społeczne (spadek bezrobocia), aktywizować kapitał gospodarczy i modyfikować sieć techniczną obszaru."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Renaturalizacja to kompleksowa metoda przywracania wartości użytkowej terenom poprzemysłowym, polegająca między innymi na przebudowie zniszczonych budynków fabrycznych na centra usługowe i osiedla.",
+        "answer": false,
+        "explanation": "Opisany proces to rewitalizacja, która dotyczy obszarów zurbanizowanych i poprzemysłowych. Renaturalizacja polega na nadawaniu terenom wyglądu jak najbardziej zbliżonego do stanu sprzed ingerencji człowieka, na przykład poprzez przywracanie naturalnego koryta rzeki."
+      },
+      {
+        "sentence": "Wdrażanie systemów obiegu zamkniętego wody w procesach produkcyjnych oraz montaż instalacji wyłapujących pyły przez elektrofiltry to typowe działania proekologiczne stosowane w nowoczesnym rolnictwie.",
+        "answer": false,
+        "explanation": "Systemy obiegu zamkniętego wody oraz elektrofiltry działające elektrostatycznie to rozwiązania proekologiczne charakterystyczne dla działalności przemysłowej, a nie rolnictwa."
+      },
+      {
+        "sentence": "Rekultywacja krajobrazu może polegać na zalaniu nieczynnego kamieniołomu wodą, co pozwala przekształcić całkowicie zdegradowany teren w zbiornik pełniący funkcje rekreacyjne.",
+        "answer": true,
+        "explanation": "Zatopienie wyrobiska górniczego w celu nadania mu nowych funkcji wypoczynkowych jest przykładem przywracania wartości użytkowych całkowicie zdegradowanym obszarom poprzez działania rekultywacyjne."
+      },
+      {
+        "sentence": "Działania proekologiczne w rolnictwie opierają się na całkowitym zastąpieniu naturalnego materiału siewnego organizmami modyfikowanymi genetycznie (GMO) w celu zwiększenia odporności upraw po wycofaniu sztucznych nawozów.",
+        "answer": false,
+        "explanation": "Rozwiązania proekologiczne w rolnictwie polegają na odchodzeniu od upraw GMO na rzecz wykorzystywania własnego materiału siewnego lub sadzeniowego, a także na stosowaniu płodozmianu i naturalnych nawozów."
+      },
+      {
+        "sentence": "W branży usługowej, na przykład w hotelarstwie, działania proekologiczne obejmują rekuperację, czyli odzyskiwanie energii cieplnej z wentylacji, oraz powtórne wykorzystywanie wody do nawadniania ogrodów.",
+        "answer": true,
+        "explanation": "Obiekty usługowe wdrażają systemy zmniejszające zużycie zasobów, w tym odzyskiwanie ciepła z systemów wentylacyjnych oraz ponowne wykorzystywanie zużytej wcześniej wody do spłukiwania toalet czy podlewania terenów zielonych."
+      }
+    ]
+  }
+}

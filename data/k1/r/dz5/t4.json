@@ -1,0 +1,347 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t4",
+                     "unit":  "V",
+                     "title":  "Ruchy górotwórcze",
+                     "level":  "R",
+                     "class":  "1",
+                     "source_note":  "Część definicji została uzupełniona na podstawie wiedzy eksperckiej zgodnie z podstawą programową dla klasy 1 (zakres rozszerzony)."
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Orogeneza (ruch górotwórczy)",
+                                              "definition":  "Procesy wewnętrzne związane z fałdowaniem oraz wypiętrzaniem warstw skalnych, w których efekcie powstają góry. "
+                                          },
+                                          {
+                                              "term":  "Góry fałdowe",
+                                              "definition":  "Góry powstające w wyniku fałdowania i wypiętrzania osadów, najczęściej na skutek subdukcji lub kolizji płyt litosfery (np. Himalaje, Andy)."
+                                          },
+                                          {
+                                              "term":  "Góry zrębowe",
+                                              "definition":  "Góry powstające w wyniku wypiętrzania sztywnych warstw skalnych wzdłuż uskoków; skały te pękają i przesuwają się zamiast fałdować (np. Sudety, Góry Smocze)."
+                                          },
+                                          {
+                                              "term":  "Góry wulkaniczne",
+                                              "definition":  "Wzniesienia powstające w wyniku wypływania lawy oraz wydostawania się materiałów wulkanicznych na powierzchnię (np. Kilimandżaro)."
+                                          },
+                                          {
+                                              "term":  "Zręb",
+                                              "definition":  "Wypiętrzony blok skorupy ziemskiej ograniczony uskokami, powstający w procesie tworzenia gór zrębowych."
+                                          },
+                                          {
+                                              "term":  "Rów tektoniczny",
+                                              "definition":  "Wąskie i długie obniżenie skorupy ziemskiej ograniczone uskokami, powstałe w wyniku rozciągania litosfery lub ruchów wzdłuż uskoków."
+                                          },
+                                          {
+                                              "term":  "Deformacje ciągłe",
+                                              "definition":  "Typ deformacji tektonicznych polegający na wygięciu warstw skalnych bez przerwania ich ciągłości, np. w procesie fałdowania."
+                                          },
+                                          {
+                                              "term":  "Deformacje nieciągłe",
+                                              "definition":  "Typ deformacji polegający na przerwaniu ciągłości warstw skalnych i ich przemieszczeniu, np. uskoki. "
+                                          },
+                                          {
+                                              "term":  "Antyklina (siodełko)",
+                                              "definition":  "Wypukła część fałdu, w której jądrze znajdują się zazwyczaj starsze warstwy skalne. "
+                                          },
+                                          {
+                                              "term":  "Synklina (łęk)",
+                                              "definition":  "Wklęsła część fałdu, w której jądrze znajdują się zazwyczaj młodsze warstwy skalne."
+                                          },
+                                          {
+                                              "term":  "Skrzydło fałdu",
+                                              "definition":  "Boczna część fałdu łącząca antyklinę z synkliną."
+                                          },
+                                          {
+                                              "term":  "Uskok",
+                                              "definition":  "Struktura powstała w wyniku pęknięcia i przesunięcia mas skalnych względem siebie."
+                                          },
+                                          {
+                                              "term":  "Orogeneza alpejska",
+                                              "definition":  "Najmłodsza era ruchów górotwórczych, w trakcie której powstały m.in. Alpy, Himalaje i Andy."
+                                          },
+                                          {
+                                              "term":  "Orogeneza hercyńska",
+                                              "definition":  "Starsza orogeneza (paleozoiczna), w trakcie której sfałdowano m.in. Sudety i Góry Harz."
+                                          },
+                                          {
+                                              "term":  "Orogeneza kaledońska",
+                                              "definition":  "Wczesnopaleozoiczny ruch górotwórczy, starszy od hercyńskiego."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Orogeneza alpejska",
+                                                 "pair2":  "Alpy / Himalaje / Andy (Góry fałdowe)"
+                                             },
+                                             {
+                                                 "pair1":  "Góry zrębowe",
+                                                 "pair2":  "Wypiętrzanie sztywnych bloków skalnych wzdłuż uskoków"
+                                             },
+                                             {
+                                                 "pair1":  "Antyklina",
+                                                 "pair2":  "Wypukła część fałdu (siodełko)"
+                                             },
+                                             {
+                                                 "pair1":  "Deformacja nieciągła",
+                                                 "pair2":  "Uskok (pęknięcie i przesunięcie warstw)"
+                                             },
+                                             {
+                                                 "pair1":  "Góry wulkaniczne",
+                                                 "pair2":  "Powstają w wyniku erupcji i gromadzenia lawy (np. Kilimandżaro)"
+                                             },
+                                             {
+                                                 "pair1":  "Subdukcja (geneza gór)",
+                                                 "pair2":  "Powstawanie gór fałdowych na styku płyty oceanicznej i kontynentalnej (np. Andy)"
+                                             },
+                                             {
+                                                 "pair1":  "Kolizja płyt kontynentalnych",
+                                                 "pair2":  "Powstawanie gór fałdowych z osadów między płytami (np. Himalaje)"
+                                             },
+                                             {
+                                                 "pair1":  "Góry Smocze / Sudety",
+                                                 "pair2":  "Przykłady gór zrębowych"
+                                             },
+                                             {
+                                                 "pair1":  "Synklina",
+                                                 "pair2":  "Wklęsła część fałdu (łęk)"
+                                             },
+                                             {
+                                                 "pair1":  "Rów tektoniczny",
+                                                 "pair2":  "Wydłużone obniżenie terenu ograniczone uskokami"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który z poniższych procesów jest bezpośrednią przyczyną powstawania gór fałdowych, takich jak Himalaje?",
+                                      "options":  [
+                                                      "Rozsuwanie się płyt litosfery w strefach ryftowych.",
+                                                      "Wypływanie lawy na powierzchnię w strefach plam gorąca.",
+                                                      "Kolizja dwóch płyt kontynentalnych powodująca fałdowanie osadów.",
+                                                      "Pionowe przemieszczanie sztywnych bloków skalnych wzdłuż uskoków."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Góry fałdowe, takie jak Himalaje, powstają jako efekt kolizji dwóch płyt kontynentalnych, w wyniku czego osady są fałdowane i wypiętrzane."
+                                  },
+                                  {
+                                      "question":  "Jakie struktury geologiczne powstają w wyniku wypiętrzania się sztywnych warstw skalnych wzdłuż uskoków?",
+                                      "options":  [
+                                                      "Góry fałdowe.",
+                                                      "Góry zrębowe.",
+                                                      "Góry wulkaniczne.",
+                                                      "Grzbiety śródoceaniczne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Góry zrębowe powstają w wyniku wypiętrzania się warstw skalnych wzdłuż uskoków, gdy sztywne warstwy w podłożu pękają i się przesuwają."
+                                  },
+                                  {
+                                      "question":  "Które z wymienionych gór są przykładem gór wulkanicznych?",
+                                      "options":  [
+                                                      "Andy.",
+                                                      "Sudety.",
+                                                      "Kilimandżaro.",
+                                                      "Himalaje."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Przykładem gór wulkanicznych jest Kilimandżaro, będący najwyższym masywem Afryki."
+                                  },
+                                  {
+                                      "question":  "W jakiej strefie tektonicznej tworzą się rowy oceaniczne i łańcuchy górskie, takie jak Andy?",
+                                      "options":  [
+                                                      "W strefie spredingu (rozsuwania się płyt).",
+                                                      "W strefie subdukcji (podsuwania się płyty oceanicznej pod kontynentalną).",
+                                                      "W strefie występowania plam gorąca.",
+                                                      "W strefie kolizji dwóch płyt kontynentalnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy płyta oceaniczna podsuwa się pod płytę kontynentalną (subdukcja), powstają rowy oceaniczne oraz łańcuchy górskie na lądzie, np. Andy."
+                                  },
+                                  {
+                                      "question":  "Co jest główną przyczyną powstawania ryftów, w obrębie których mogą tworzyć się nowe fragmenty dna oceanicznego?",
+                                      "options":  [
+                                                      "Zbliżanie się płyt litosfery.",
+                                                      "Ruchy epejrogeniczne wznoszące.",
+                                                      "Rozciąganie litosfery przez prądy konwekcyjne płynące w przeciwnych kierunkach.",
+                                                      "Gromadzenie się osadów na dnie morza."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ryfty powstają tam, gdzie prądy konwekcyjne płyną w przeciwnych kierunkach, co powoduje rozciąganie litosfery i jej pękanie."
+                                  },
+                                  {
+                                      "question":  "Na czym polega różnica w genezie Himalajów i Andów, mimo że oba pasma są górami fałdowymi?",
+                                      "options":  [
+                                                      "Himalaje powstały w wyniku kolizji płyt kontynentalnych, a Andy w wyniku subdukcji płyty oceanicznej pod kontynentalną.",
+                                                      "Himalaje są górami zrębowymi, a Andy wulkanicznymi.",
+                                                      "Andy powstały na skutek spredingu, a Himalaje na skutek ruchów epejrogenicznych.",
+                                                      "Himalaje powstały w orogenezie kaledońskiej, a Andy w alpejskiej."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Himalaje powstały w wyniku kolizji płyty indyjskiej z eurazjatycką (obie kontynentalne), natomiast Andy utworzyły się w strefie subdukcji na granicy płyty południowoamerykańskiej i Nazca."
+                                  },
+                                  {
+                                      "question":  "Wybierz zestaw zawierający wyłącznie przykłady gór zrębowych.",
+                                      "options":  [
+                                                      "Alpy, Karpaty, Himalaje.",
+                                                      "Harz, Góry Smocze, Sudety.",
+                                                      "Andy, Kordyliery, Atlas.",
+                                                      "Wezuwiusz, Etna, Kilimandżaro."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Góry zrębowe to m.in. Harz, Góry Smocze i Sudety (niebędące fałdowymi młodymi łańcuchami)."
+                                  },
+                                  {
+                                      "question":  "Analizując schemat powstawania gór zrębowych, co dzieje się ze sztywnymi warstwami skalnymi poddanymi naciskom?",
+                                      "options":  [
+                                                      "Ulegają elastycznemu fałdowaniu tworząc płaszczowiny.",
+                                                      "Topicielą się i wypływają jako lawa.",
+                                                      "Pękają i przesuwają się wzdłuż uskoków, tworząc zręby i rowy.",
+                                                      "Obniżają się powoli w procesie epejrogenezy."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Sztywne warstwy skalne nie ulegają fałdowaniu, lecz zostają potrzaskane, pękają i przesuwają się wzdłuż uskoków, tworząc zręby oraz rowy tektoniczne."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko towarzyszy subdukcji płyty oceanicznej pod inną płytę oceaniczną?",
+                                      "options":  [
+                                                      "Powstanie wysokich gór fałdowych wewnątrz kontynentu.",
+                                                      "Utworzenie łańcucha wysp wulkanicznych i rowu oceanicznego.",
+                                                      "Powstanie ryftu i grzbietu śródoceanicznego.",
+                                                      "Wypiętrzenie rozległego zrębu tektonicznego."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy płyta oceaniczna podsuwa się pod inną płytę oceaniczną, powstaje rów oceaniczny oraz łańcuch wysp wulkanicznych (np. Mariany)."
+                                  },
+                                  {
+                                      "question":  "Które stwierdzenie najlepiej opisuje powstawanie Rowu Mariańskiego?",
+                                      "options":  [
+                                                      "Jest efektem rozsuwania się płyt pacyficznej i filipińskiej.",
+                                                      "Powstał w wyniku kolizji dwóch płyt kontynentalnych.",
+                                                      "Jest skutkiem podsuwania się jednej płyty oceanicznej pod drugą.",
+                                                      "Utworzył się w wyniku zapadnięcia bloku skalnego między uskokami."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Najgłębszy rów oceaniczny – Rów Mariański – utworzył się w miejscu, gdzie płyta oceaniczna podsuwa się pod inną płytę oceaniczną."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w obrębie ryftów dochodzi do powstawania nowej skorupy ziemskiej?",
+                                      "options":  [
+                                                      "Ponieważ osady rzeczne są tam silnie sprasowane.",
+                                                      "Ponieważ magma z płaszcza Ziemi wdziera się w pęknięcia i zastyga jako lawa.",
+                                                      "Ponieważ fałdowanie warstw skalnych zwiększa grubość skorupy.",
+                                                      "Ponieważ zachodzi tam proces subdukcji niszczący stare skały."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W ryftach magma pochodząca z płaszcza Ziemi wdziera się w pęknięcia, zmienia w lawę i zastyga, tworząc nowe fragmenty dna oceanicznego (spreding)."
+                                  },
+                                  {
+                                      "question":  "Rozpoznaj typ deformacji tektonicznej na podstawie opisu: \u0027Warstwy skalne zostały przemieszczone pionowo względem siebie wzdłuż pęknięcia; część środkowa uległa obniżeniu względem boków\u0027.",
+                                      "options":  [
+                                                      "Płaszczowina.",
+                                                      "Rów tektoniczny.",
+                                                      "Fałd stojący.",
+                                                      "Zrąb tektoniczny."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy masy skalne przesuwają się wzdłuż uskoków i tworzą obniżenie ograniczone uskokami, powstaje rów tektoniczny."
+                                  },
+                                  {
+                                      "question":  "Dlaczego góry z orogenezy alpejskiej (np. Himalaje) są zazwyczaj wyższe od gór powstałych w starszych orogenezach?",
+                                      "options":  [
+                                                      "Ponieważ są zbudowane wyłącznie ze skał magmowych odpornych na erozję.",
+                                                      "Ponieważ procesy zewnętrzne działały na nie krócej niż na góry starsze.",
+                                                      "Ponieważ powstały w strefach ryftowych, a nie w strefach kolizji.",
+                                                      "Ponieważ starsze góry uległy zapadnięciu w procesie subdukcji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Większość najwyższych łańcuchów górskich to góry geologicznie młode (orogeneza alpejska), co oznacza, że procesy niszczące (erozja) działały na nie przez krótszy czas."
+                                  },
+                                  {
+                                      "question":  "Jaka jest zależność między budową geologiczną podłoża a typem powstających gór w wyniku nacisków tektonicznych?",
+                                      "options":  [
+                                                      "Na obszarach o plastycznych osadach powstają góry zrębowe.",
+                                                      "Sztywne warstwy skalne, wcześniej sfałdowane, pękają tworząc góry zrębowe.",
+                                                      "Na tarczach krystalicznych zawsze powstają góry wulkaniczne.",
+                                                      "W strefach ryftowych tworzą się wyłącznie góry fałdowe."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Góry zrębowe powstają tam, gdzie w podłożu występują sztywne warstwy skalne, które nie poddają się fałdowaniu, lecz pękają."
+                                  },
+                                  {
+                                      "question":  "Na podstawie mechanizmu powstawania, czym różni się zrąb tektoniczny od rowu tektonicznego?",
+                                      "options":  [
+                                                      "Zrąb to fragment wypiętrzony względem otoczenia, a rów to fragment obniżony.",
+                                                      "Zrąb powstaje w wyniku fałdowania, a rów w wyniku wulkanizmu.",
+                                                      "Zrąb jest formą wklęsłą, a rów formą wypukłą.",
+                                                      "Zrąb tworzy się tylko pod wodą, a rów tylko na lądzie."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W wyniku przesuwania się warstw wzdłuż uskoków tworzą się zręby (elementy wypiętrzone) oraz rowy tektoniczne (elementy obniżone)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Litosfera obejmuje wyłącznie skorupę ziemską, bez udziału płaszcza Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Litosferę tworzy skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego."
+                                       },
+                                       {
+                                           "sentence":  "Prądy konwekcyjne w płaszczu Ziemi są siłą napędową wędrówki płyt litosfery.",
+                                           "answer":  true,
+                                           "explanation":  "Ciągły ruch płyt wywołują prądy konwekcyjne, czyli strumienie magmy wędrujące z głębi Ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Jądro wewnętrzne Ziemi ma właściwości ciała ciekłego ze względu na wysoką temperaturę.",
+                                           "answer":  false,
+                                           "explanation":  "Jądro wewnętrzne wykazuje cechy ciała stałego, mimo temperatury przekraczającej 6000°C."
+                                       },
+                                       {
+                                           "sentence":  "Góry zrębowe powstają w wyniku sfałdowania elastycznych warstw skalnych.",
+                                           "answer":  false,
+                                           "explanation":  "Góry zrębowe powstają, gdy sztywne warstwy skalne pękają i przesuwają się wzdłuż uskoków, a nie ulegają fałdowaniu."
+                                       },
+                                       {
+                                           "sentence":  "Proces subdukcji polega na podsuwaniu się jednej płyty litosfery pod drugą.",
+                                           "answer":  true,
+                                           "explanation":  "Subdukcja zachodzi tam, gdzie jedna płyta litosfery (najczęściej oceaniczna) podsuwa się pod drugą."
+                                       },
+                                       {
+                                           "sentence":  "Epicentrum to miejsce głęboko we wnętrzu Ziemi, z którego rozchodzą się fale sejsmiczne.",
+                                           "answer":  false,
+                                           "explanation":  "Miejsce we wnętrzu Ziemi to hipocentrum; epicentrum znajduje się na powierzchni bezpośrednio nad nim."
+                                       },
+                                       {
+                                           "sentence":  "Skorupa oceaniczna jest znacznie grubsza od skorupy kontynentalnej.",
+                                           "answer":  false,
+                                           "explanation":  "Skorupa oceaniczna ma grubość 5–12 km, podczas gdy kontynentalna około 80 km, więc oceaniczna jest cieńsza."
+                                       },
+                                       {
+                                           "sentence":  "Wulkany eksplozywne charakteryzują się gwałtownymi erupcjami i wyrzucaniem materiałów piroklastycznych.",
+                                           "answer":  true,
+                                           "explanation":  "Wulkany eksplozywne mają gwałtowne erupcje, podczas których wydobywają się materiały piroklastyczne i gazy."
+                                       },
+                                       {
+                                           "sentence":  "Transgresja morza następuje w wyniku powolnego wznoszenia się obszaru lądowego.",
+                                           "answer":  false,
+                                           "explanation":  "Transgresja (zalewanie lądu) zachodzi, gdy lądy się obniżają; wznoszenie lądu powoduje regresję."
+                                       },
+                                       {
+                                           "sentence":  "Granit jest przykładem skały magmowej głębinowej, która krystalizuje pod powierzchnią Ziemi.",
+                                           "answer":  true,
+                                           "explanation":  "Granit to skała magmowa głębinowa, powstająca z magmy krystalizującej głęboko pod powierzchnią."
+                                       },
+                                       {
+                                           "sentence":  "Ryfty to wąskie i długie pęknięcia powstające w strefach rozsuwania się płyt (spredingu), a nie kolizji.",
+                                           "answer":  true,
+                                           "explanation":  "Ryfty to formy charakterystyczne dla granic rozbieżnych, gdzie płyty oddalają się od siebie."
+                                       },
+                                       {
+                                           "sentence":  "Himalaje oraz Andy są przykładami gór zrębowych.",
+                                           "answer":  false,
+                                           "explanation":  "Himalaje i Andy powstały w strefach subdukcji lub kolizji jako góry fałdowe; przykładem gór zrębowych są Góry Smocze."
+                                       }
+                                   ]
+                 }
+}

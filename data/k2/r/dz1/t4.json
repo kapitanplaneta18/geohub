@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz1-t4",
+    "title": "Konflikty zbrojne. Terroryzm",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Ekonomiczne przyczyny konfliktów",
+        "definition": "Sprzeczne interesy gospodarcze albo długotrwały kryzys gospodarczy (np. w Wenezueli, wywołany przez zapaść gospodarki opartej na doktrynie socjalistycznej)."
+      },
+      {
+        "term": "Polityczne przyczyny konfliktów",
+        "definition": "Odmienna ideologia lub rozbieżne dążenia polityczne, często stanowiące tło dla działań separatystycznych i zmian władzy (np. autokratycznych rządów podczas arabskiej wiosny w Syrii)."
+      },
+      {
+        "term": "Terytorialne przyczyny konfliktów",
+        "definition": "Spory najczęściej toczące się o przebieg granic państwowych lub terytoria bogate w zasoby naturalne, na przykład w ropę naftową czy wodę pitną."
+      },
+      {
+        "term": "Religijne przyczyny konfliktów",
+        "definition": "Różnice wyznaniowe prowadzące do starć zbrojnych między wyznawcami odmiennych religii (np. walki muzułmanów z chrześcijanami w Nigerii czy dawniej w Sudanie) lub ich odłamów."
+      },
+      {
+        "term": "Etniczne przyczyny konfliktów",
+        "definition": "Zróżnicowanie etniczne, narodowościowe i plemienne, przeważnie powiązane z dążeniami niepodległościowymi mniejszości (np. w Kosowie czy Rwandzie)."
+      },
+      {
+        "term": "Terroryzm",
+        "definition": "Specyficzna forma walki zbrojnej, wykorzystująca przemoc i zastraszanie (np. zamachy bombowe, porwania) do osiągania określonych celów politycznych, społecznych lub religijnych."
+      },
+      {
+        "term": "Skutki terroryzmu",
+        "definition": "Podtrzymywanie poczucia zagrożenia w społeczeństwie, które prowadzi m.in. do ograniczenia swobód obywatelskich oraz kontaktów międzyludzkich, np. spadku wyjazdów turystycznych."
+      },
+      {
+        "term": "Konflikt w Kaszmirze",
+        "definition": "Spór na pograniczu indyjsko-pakistańskim o podłożu etniczno-religijnym, toczący się między hindusami a muzułmanami dążącymi do przyłączenia terenów do swoich państw."
+      },
+      {
+        "term": "Konflikt w Rwandzie",
+        "definition": "Wyjątkowo krwawy konflikt etniczny w Afryce Środkowej, podczas którego w 1994 r. członkowie plemienia Hutu dopuścili się ludobójstwa na niemal milionie osób z plemienia Tutsi."
+      },
+      {
+        "term": "Konflikt w Sudanie i Sudanie Południowym",
+        "definition": "Spór o podłożu religijnym (muzułmanie i chrześcijanie), etnicznym (ludność arabska i czarnoskóra) oraz gospodarczym, związanym z walką o obszary najzasobniejsze w ropę naftową."
+      },
+      {
+        "term": "Konflikt w Palestynie",
+        "definition": "Trwający konflikt arabsko-izraelski o charakterze etnicznym i religijnym. Dotyczy obszaru podzielonego przez ONZ w 1947 r., uważanego przez Żydów za kolebkę ich cywilizacji."
+      },
+      {
+        "term": "Ruchy separatystyczne w Hiszpanii",
+        "definition": "Konflikty o podłożu etnicznym, politycznym i ekonomicznym, wywołane dążeniami Basków i Katalończyków do oddzielenia zajmowanych przez nich obszarów od Hiszpanii."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Kaszmir",
+        "pair2": "Spór terytorialny, etniczny i religijny toczący się pomiędzy Indiami a Pakistanem."
+      },
+      {
+        "pair1": "Spór ekonomiczny (walka o zasoby)",
+        "pair2": "Dążenie do kontroli nad terytoriami bogatymi w zasoby naturalne, np. ropę naftową lub wodę pitną."
+      },
+      {
+        "pair1": "Rwanda",
+        "pair2": "Konflikt etniczny między plemionami Tutsi i Hutu, który w 1994 roku przybrał charakter ludobójstwa."
+      },
+      {
+        "pair1": "Syria i Irak",
+        "pair2": "Konflikt spotęgowany przez działalność Państwa Islamskiego, ogłaszającego wojnę z zachodnią cywilizacją."
+      },
+      {
+        "pair1": "Ukraina",
+        "pair2": "Konflikt zapoczątkowany przez kryzys polityczny w 2014 r., skutkujący zbrojną aneksją Krymu przez Rosję oraz działalnością separatystów na wschodzie kraju."
+      },
+      {
+        "pair1": "Wenezuela",
+        "pair2": "Konflikt wewnętrzny wywołany ogromnym kryzysem ekonomicznym w wyniku zapaści gospodarki opartej na doktrynie socjalistycznej."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jak określa się formę walki zbrojnej, która celowo wykorzystuje przemoc i zastraszanie do osiągnięcia ustalonych celów (np. politycznych i religijnych)?",
+        "options": [
+          "Ataki terrorystyczne i akty międzynarodowego terroru",
+          "Walka zbrojna państwowych oddziałów wojsk specjalnych",
+          "Lokalna krwawa działalność skrajnych grup narodowych",
+          "Globalna społeczna rewolucja najniższych klas ludności"
+        ],
+        "answer": "A",
+        "explanation": "Terroryzm to specyficzna forma walki zbrojnej wykorzystująca przemoc i zastraszanie w celu wywarcia nacisku oraz podtrzymania poczucia zagrożenia."
+      },
+      {
+        "question": "O które sporne terytorium od wielu dekad toczy się długotrwały konflikt zbrojny o podłożu religijnym i etnicznym z udziałem Indii oraz Pakistanu?",
+        "options": [
+          "Tereny odłączonego państwa zwanego Górskim Karabachem",
+          "Niewielki i słabo rozwinięty obszar Osetii Południowej",
+          "Północno-zachodnia część całego Półwyspu Somalijskiego",
+          "Pogranicze nazywane dumnie regionem Dżammu i Kaszmir"
+        ],
+        "answer": "D",
+        "explanation": "Spór w Kaszmirze (oraz regionie Dżammu) odbywa się na pograniczu indyjsko-pakistańskim. U jego podstaw leżą kwestie etniczne i religijne (hindusi kontra muzułmanie)."
+      },
+      {
+        "question": "Jakie głębokie podłoże ma obecnie długotrwały i niezwykle brutalny konflikt arabsko-izraelski toczący się niemal bez przerwy na obszarze Palestyny?",
+        "options": [
+          "Krwawy i niezwykle silny spór o podłożu etniczno-religijnym",
+          "Otwarta zbrojna walka na rzecz zmiany ustroju politycznego",
+          "Skrajny spór państw o wyłączne prawo do licznych złóż ropy",
+          "Globalny i bardzo niebezpieczny spór o morskie szlaki handlu"
+        ],
+        "answer": "A",
+        "explanation": "Tło konfliktu na obszarze Palestyny (podzielonej w 1947 przez ONZ) między Arabami a rządem Izraela jest zdefiniowane przez uwarunkowania etniczne i silnie religijne."
+      },
+      {
+        "question": "Który z poniższych czynników naturalnych stanowi niezwykle istotny cel gospodarczy oraz dodatkowy punkt zapalny walk na pograniczu państw sudańskich?",
+        "options": [
+          "Wyjątkowo duże podziemne pokłady węgla oraz rud żelaza",
+          "Żyzne tereny i tereny bardzo zasobne w surową ropę naftową",
+          "Ogromne, stosunkowo płytkie złoża rzadkich metali i miedzi",
+          "Historyczne afrykańskie regiony obfitujące w drogie diamenty"
+        ],
+        "answer": "B",
+        "explanation": "Konflikt zbrojny w Sudanie oraz w Sudanie Południowym ma tło religijne, etniczne i przede wszystkim gospodarcze, sprowadzające się do bezpośredniej walki o obszary bogate w ropę naftową."
+      },
+      {
+        "question": "W granicach jakiego rozwiniętego kraju na kontynencie europejskim zlokalizowane są bardzo silne konflikty odśrodkowe generowane przez Katalończyków i Basków?",
+        "options": [
+          "Zlewnia terytorialna we włoskich rejonach górzystych",
+          "Powojenne brytyjskie tereny oddalone od głównych miast",
+          "Regiony dawnego wielkiego radzieckiego terytorium Rosji",
+          "Obszar i autonomiczne jednostki państwa w Hiszpanii"
+        ],
+        "answer": "D",
+        "explanation": "Wewnętrzne walki o podłożu politycznym, ekonomicznym i etnicznym wynikające z ogromnych chęci uzyskania niepodległości toczą się na hiszpańskich terenach Kraju Basków i Katalonii."
+      },
+      {
+        "question": "Który wariant precyzyjnie identyfikuje pierwotną przyczynę brutalnego wybuchu starć skutkujących ludobójstwem w 1994 r. w środkowej Afryce (Rwanda)?",
+        "options": [
+          "Etniczne spory pomiędzy historycznie odmiennymi plemionami",
+          "Spory religijne w obrębie rozmaitych lokalnych odłamów islamu",
+          "Niezwykle dotkliwe zapaści rynkowe i bardzo uciążliwe sankcje ONZ",
+          "Konflikt wielkich politycznych mocarstw i zewnętrznych doradców"
+        ],
+        "answer": "A",
+        "explanation": "Tragedia masowych zbrodni w Rwandzie w roku 1994 miała tło wybitnie etniczne, w którym członkowie jednego lokalnego plemienia (Hutu) celowo mordowali obywateli innego (Tutsi)."
+      },
+      {
+        "question": "O jakim nieuznawanym w świetle praw międzynarodowych zaborze ukraińskich terytoriów z roku 2014 przez państwo rosyjskie pisze dołączony tekst podręcznika?",
+        "options": [
+          "Dawna część terytoriów Abchazji po wojnie niepodległościowej",
+          "Obszar samozwańczej prorosyjskiej prowincji o nazwie Naddniestrze",
+          "Ukraiński teren niezwykle strategicznego Półwyspu zwanego Krymskim",
+          "Pas wschodni dawnych jednostek administracyjnych należących do Gruzji"
+        ],
+        "answer": "C",
+        "explanation": "Skutkiem kryzysu w rejonie Ukrainy z 2014 roku była niemal natychmiastowa wojskowa aneksja w pełni strategicznego Półwyspu Krymskiego z rąk ukraińskich przez Rosję."
+      },
+      {
+        "question": "Jakie głośne na świecie zdarzenie w obrębie działań frontowych w Syrii stało się zapalnikiem dla bezpośredniej zbrojnej zagranicznej interwencji USA oraz innych państw w 2013 roku?",
+        "options": [
+          "Odkrycie bardzo tajnych składów amunicji atomowej na obrzeżach miast",
+          "Zastosowanie zakazanej międzynarodowymi przepisami morskiej piraterii",
+          "Gwałtowne wkroczenie zagranicznych żołnierzy dywizji piechoty wrogiej",
+          "Wykorzystanie w walce skrajnie niebezpiecznej broni typu chemicznego"
+        ],
+        "answer": "D",
+        "explanation": "Zgodnie z informacjami podręcznika, przełomowym czynnikiem zaogniającym sprawę w 2013 roku (i powodem zagranicznych nalotów) było bezprawne użycie przez syryjskie wojska reżimu państwowego broni chemicznej."
+      },
+      {
+        "question": "Jaka jest opisywana w materiale wiodąca i kluczowa przyczyna katastrofalnego pogorszenia życia i brutalnych strajków społecznych widocznych w rejonie Wenezueli?",
+        "options": [
+          "Ciągłe wkraczanie plemion etnicznych oburzonych niszczeniem lasów wód",
+          "Agresywne działanie bardzo niebezpiecznych grup dżihadystów arabskich",
+          "Katastrofalny kryzys państwowej gospodarki planowanej socjalistycznie",
+          "Masowe deklaracje wyzwolenia bogatych rynków prowincji w południowej"
+        ],
+        "answer": "C",
+        "explanation": "Podłożem ogromnych konfliktów społeczno-rządowych we współczesnej Wenezueli okazał się być głęboki i paraliżujący kraj kryzys opierający się o funkcjonowanie całkowicie zepsutej doktryny socjalistycznej gospodarki."
+      },
+      {
+        "question": "W jaki sposób zidentyfikowano radykalne struktury paramilitarne odpowiedzialne za odgórne utworzenie tak zwanego „Islamskiego Emiratu Somalii” przed z górą dziesięcioma laty?",
+        "options": [
+          "Znane ugrupowania europejskie, takie jak irlandzka partia wojskowa IRA",
+          "Wybitnie radykalne grupy terrorystów muzułmańskich Asz-Szabab i Hizbul",
+          "Odłamy fundamentalnych bojowników zwanych na Zachodzie Państwem Islamu",
+          "Zbrojne, partyzanckie i lokalne grupki radykalnych separatystów Czeczeni"
+        ],
+        "answer": "B",
+        "explanation": "Poważne straty kontroli przez rząd na terytorium Somalii (ok. 2010 r.) wiązały się z masowymi atakami fundamentalistów z niebezpiecznej grupy Asz-Szabab oraz powiązanego rzutu Hizbul Islam."
+      },
+      {
+        "question": "Które z wymienionych zachwiań demograficznych populacji państwowej wskazuje się naukowo jako wyjątkowo częste następstwo dziesiątek ofiar podczas zbrojnych wojen?",
+        "options": [
+          "Rekordowo krótki czas przeciętnego oczekiwania na kolejne rynkowe kryzysy",
+          "Globalne zwiększenie zaufania społecznego do władzy oraz obietnic urzędów",
+          "Gwałtowne zahamowanie ogólnego wzrostu niekontrolowanej emigracji do UE",
+          "Szybkie wygenerowanie w bilansie znacznej nadwyżki żyjących kobiet"
+        ],
+        "answer": "D",
+        "explanation": "W strukturze wiekowej zaburzonego przez wojny społeczeństwa wyraźnie rysuje się poważna dysproporcja płciowa (nadwyżka w populacji państwa liczby uwięzionych kobiet nad walczącymi mężczyznami)."
+      },
+      {
+        "question": "Czego nieodzownie doświadcza rynek fiskalno-walutowy poszkodowanego kraju wskutek odpływu zagranicznych inwestorów oraz gwałtownego upadku produkcji w czasie wojny?",
+        "options": [
+          "Bardzo trudny do zneutralizowania, natychmiastowy wzrost rynkowej inflacji",
+          "Wielki i powszechnie oczekiwany zagraniczny napływ gigantycznego kapitału z Zachodu",
+          "Znaczne i niezwykle szybkie umocnienie rynkowej wartości miejscowej waluty",
+          "Rekordowy i historycznie widoczny całkowity zanik zobowiązań długu narodu"
+        ],
+        "answer": "A",
+        "explanation": "Niepewność panująca w czasie trwania ciężkiego konfliktu zbrojnego jest jednoznaczną podstawą dla nieustającego odpływu wszelkiego kapitału, a co za tym idzie – masowo szybującej inflacji trudnej do opanowania po zjawiskach kryzysowych."
+      },
+      {
+        "question": "Co podano jako wymowny i niezwykle nieludzki przejaw upadku wszelkich fundamentalnych standardów zachowań zbrojnych w strefie frontowych wojen domowych?",
+        "options": [
+          "Powszechny zwrot wszystkich wiernych z dotychczasowej, starej i znanej religii",
+          "Odbieranie matkom i oznaczanie nowo narodzonych potomków jako bojowych żołnierzy",
+          "Konsekwentne porywanie nieletnich w celu włączenia ich do walki w oddziałach",
+          "Wyrzeczenie się dawnych przodków przez całkowite zburzenie swych świętych ruin"
+        ],
+        "answer": "C",
+        "explanation": "Zaburzenia systemu wartości moralnych charakteryzują się potężną dehumanizacją zjawisk militarnych – co ilustruje masowe i bezwzględne uzbrajanie tysięcy nieletnich w celach ofensywnych (dzieci do wojska)."
+      },
+      {
+        "question": "Jaką funkcję, wobec wielokrotnie prowadzonych nagłośnionych akcji w skupiskach aglomeracyjnych świata, uważa się za prawdziwe i wyłączne paliwo zjawiska terroryzmu?",
+        "options": [
+          "Zamierzone wymuszenie u zwykłych cywili bezustannego poczucia bezradności",
+          "Masowe rozbijanie lokalnej opozycji i dławienie wewnętrznych dysydentów siłą",
+          "Wywołanie szybkiej reformacji wszystkich odłamów znanych globalnych wielkich religii",
+          "Skupienie całej potęgi finansowej regionu w garści kilkunastu rynkowych światowych liderów"
+        ],
+        "answer": "A",
+        "explanation": "Kluczem wszystkich współczesnych poczynań terrorystycznych od zawsze pozostawało brutalne oddziaływanie psychospołeczne polegające na nieprzerwanym podtrzymywaniu strachu, zniechęcenia i ogólnego poczucia zagrożenia dla cywilów."
+      },
+      {
+        "question": "Co stanowi jedno z powszechnych zjawisk odczuwalnych bezpośrednio przez obywateli na skutek niepohamowanego rozwoju systemów prewencyjnych władz chroniących od ataków terrorystycznych?",
+        "options": [
+          "Całkowite oddanie publicznych praw przez państwo dla zewnętrznych służb zbrojnych",
+          "Widoczne dławienie fundamentalnych wolności ze względu na specjalne ścisłe reguły",
+          "Natychmiastowe obniżanie podatków dochodowych dla osłon lokalnego budżetu miejskiego",
+          "Powszechne nakładanie surowych sankcji finansowych na każdy zagraniczny wrogi rynek"
+        ],
+        "answer": "B",
+        "explanation": "Chęć rygorystycznej ochrony ludności przed morderczymi zamachami prowadzi niestety bezpośrednio do wielopoziomowego wzmacniania stałych kontroli bezpieczeństwa – czym trwale pomniejsza poczucie swobód obywatelskich."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Konflikt w Rwandzie w 1994 roku miał podłoże głównie ekonomiczne i wynikał z bezwzględnej walki o dostęp do bogatych złóż ropy naftowej.",
+        "answer": false,
+        "explanation": "To pułapka merytoryczna. Konflikt w Rwandzie miał charakter etniczny – plemię Hutu dokonało ludobójstwa na członkach plemienia Tutsi. Walka o ropę naftową to przyczyna m.in. konfliktu sudańskiego."
+      },
+      {
+        "sentence": "Długotrwały spór w regionie Dżammu i Kaszmir toczy się głównie między Indiami a Chinami i dotyczy wyłącznie dostępu do strategicznych szlaków handlowych.",
+        "answer": false,
+        "explanation": "Zdanie zawiera zamianę podmiotów i mylną przyczynę. Spór w Kaszmirze toczy się na pograniczu indyjsko-pakistańskim i ma głębokie podłoże etniczno-religijne (konflikt między hindusami a muzułmanami)."
+      },
+      {
+        "sentence": "Kryzys i napięcia wewnętrzne w Wenezueli są wynikiem załamania się gospodarki opartej na doktrynie socjalistycznej.",
+        "answer": true,
+        "explanation": "Podłożem trwającego konfliktu wewnętrznego w Wenezueli jest potężny kryzys ekonomiczny, który wybuchł na skutek wieloletniego funkcjonowania gospodarki socjalistycznej, co wywołało falę demonstracji."
+      },
+      {
+        "sentence": "Długotrwałe działania zbrojne zazwyczaj prowadzą do zaburzeń demograficznych, w tym do wykształcenia się w społeczeństwie wyraźnej nadwyżki mężczyzn nad kobietami.",
+        "answer": false,
+        "explanation": "Zdanie prezentuje odwrotny skutek. Wskutek wojen ginie z reguły więcej walczących mężczyzn, co prowadzi do powstawania w społeczeństwach nadwyżki kobiet nad mężczyznami."
+      },
+      {
+        "sentence": "Wojna domowa w Somalii doprowadziła do dezintegracji państwa, w wyniku której wyodrębniły się z niego między innymi Somaliland oraz autonowmiczny Puntland.",
+        "answer": true,
+        "explanation": "To prawda. Wojna domowa na tle etnicznym (oraz działalność grup terrorystycznych) trwająca w Somalii od 1991 roku spowodowała rozpad państwa i utworzenie nieuznawanego na arenie międzynarodowej Somalilandu oraz Puntlandu."
+      },
+      {
+        "sentence": "Głównym celem ruchów separatystycznych w Kraju Basków jest dążenie miejscowej ludności do szybkiego przyłączenia tych terytoriów do sąsiadującej Francji.",
+        "answer": false,
+        "explanation": "Pułapka w określaniu kierunku dążeń. Baskowie dążą do całkowitego oddzielenia się od Hiszpanii i przekształcenia zajmowanych przez siebie ziem we w pełni niepodległe, własne państwo."
+      },
+      {
+        "sentence": "Spór na obszarze Palestyny, zapoczątkowany przez podział tego terytorium przez ONZ w 1947 roku, ma charakter głównie arabsko-izraelski oraz tło etniczno-religijne.",
+        "answer": true,
+        "explanation": "Podział w 1947 r. na państwo arabskie i żydowskie stał się zarzewiem długotrwałego i krwawego konfliktu etnicznego i religijnego, który trwa do dzisiaj."
+      },
+      {
+        "sentence": "Podstawowym celem działań terrorystycznych jest zdobycie przewagi militarnej w regularnych starciach na polu walki ze zbrojnymi siłami państwowymi.",
+        "answer": false,
+        "explanation": "Zdanie przekłamuje istotę terroryzmu. Terroryzm używa przemocy i zastraszania cywilów w celu podtrzymywania poczucia zagrożenia i wymuszenia ustępstw politycznych lub społecznych, a nie walki z regularną armią w otwartym starciu."
+      },
+      {
+        "sentence": "Przełomowym momentem wojny w Syrii, który skłonił zachodnie mocarstwa do zbrojnej interwencji w 2013 roku, było wykorzystanie przez siły rządowe broni chemicznej.",
+        "answer": true,
+        "explanation": "Tekst wprost podaje, że bezprawne zastosowanie niezwykle groźnej broni chemicznej w 2013 roku stanowio moment przełomowy, który zaangażował do konfliktu między innymi wojska Stanów Zjednoczonych."
+      },
+      {
+        "sentence": "Dzięki obowiązującym konwencjom, zjawisko zaciągania nieletnich do walki zbrojnej jest w dzisiejszych konfliktach marginalne i dotyczy zaledwie ułamka promila walczących.",
+        "answer": false,
+        "explanation": "To fałszywy skutek oparty o zmyślone przesłanki. Rozpad wartości moralnych doprowadził do sytuacji, w której obecnie w konfliktach na świecie zaciągnięto do wojska ponad 300 tysięcy dzieci."
+      },
+      {
+        "sentence": "Konflikt na Ukrainie, rozpoczęty w 2014 roku, był m.in. skutkiem nielegalnej, zbrojnej aneksji Półwyspu Krymskiego przez Federację Rosyjską.",
+        "answer": true,
+        "explanation": "Następstwem kryzysu politycznego z 2014 r. i obalenia ukraińskiego rządu była szybka i nielegalna w świetle prawa międzynarodowego aneksja Krymu dokonana przez terytorialne siły zbrojne Rosji."
+      },
+      {
+        "sentence": "Konflikty zbrojne wpływają korzystnie na rynek walutowy zaatakowanych państw poprzez gwałtowny napływ kapitału od zagranicznych inwestorów ratujących gospodarkę.",
+        "answer": false,
+        "explanation": "To odwrócenie skutków gospodarczych. Konflikty owocują ogromnym odpływem inwestorów z rynku państwa, zapaścią finansową oraz niemal niekontrolowanym, drastycznym wzrostem krajowej inflacji."
+      }
+    ]
+  }
+}

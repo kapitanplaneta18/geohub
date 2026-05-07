@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t1",
+    "title": "Konflikt w relacji człowiek - środowisko przyrodnicze",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Środowisko przyrodnicze",
+        "definition": "Wszystkie składniki przyrody występujące na danym obszarze, w tym elementy ożywione (biotyczne) i nieożywione (abiotyczne)."
+      },
+      {
+        "term": "Środowisko geograficzne",
+        "definition": "Najszersze pojęcie obejmujące składniki przyrody, a także ludzi oraz wszelkie wytwory ich działalności gospodarczej i społecznej."
+      },
+      {
+        "term": "Antropopresja",
+        "definition": "Ogół działań człowieka wywierających negatywny wpływ na środowisko przyrodnicze."
+      },
+      {
+        "term": "Konflikt ekologiczny",
+        "definition": "Sytuacja występująca w relacji człowiek – środowisko, gdy działalność gospodarcza przynosi korzyści ludziom, ale szkodzi przyrodzie."
+      },
+      {
+        "term": "Zrównoważony rozwój",
+        "definition": "Proces zaspokajania aspiracji rozwojowych obecnego pokolenia w sposób, który umożliwia realizację tych samych dążeń następnym pokoleniom."
+      },
+      {
+        "term": "Szczyt Ziemi w Rio de Janeiro",
+        "definition": "Konferencja Narodów Zjednoczonych z 1992 roku, podczas której przyjęto fundamentalne zasady światowej polityki uwzględniającej ochronę środowiska."
+      },
+      {
+        "term": "Agenda 21",
+        "definition": "Dokument stanowiący program działań dotyczących ochrony i kształtowania środowiska życia ludzi oraz racjonalnego gospodarowania zasobami naturalnymi."
+      },
+      {
+        "term": "Deklaracja z Rio de Janeiro",
+        "definition": "Zbiór 27 zasad określających prawa i obowiązki państw w dążeniu do trwałego rozwoju ludzkości i zapewnienia dobrych warunków życia."
+      },
+      {
+        "term": "Cele zrównoważonego rozwoju",
+        "definition": "Zestaw 17 globalnych celów przyjętych w 2015 r. przez ONZ, mających kluczowe znaczenie dla dobrobytu ludzkości i zachowania środowiska przyrodniczego."
+      },
+      {
+        "term": "Konflikt (rolnictwo)",
+        "definition": "Stosowanie chemicznych środków ochrony roślin zwiększa plony, ale powoduje szkodliwe zmiany w stanie gleb, wód oraz zagraża zdrowiu ludzkiemu."
+      },
+      {
+        "term": "Konflikt (transport)",
+        "definition": "Rozbudowa sieci komunikacyjnej ułatwia przewóz, jednak wiąże się z emisją zanieczyszczeń przyczyniających się do globalnego ocieplenia oraz fragmentacją siedlisk."
+      },
+      {
+        "term": "Konflikt (górnictwo)",
+        "definition": "Pozyskiwanie surowców jest konieczne dla gospodarki, lecz skutkuje ogromnymi zmianami w krajobrazie, skażeniem gleb metalami ciężkimi i degradacją wód podziemnych."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Środowisko (przyrodnicze)",
+        "pair2": "Naturalne elementy przyrody występujące na danym obszarze, takie jak flora, fauna, woda i powietrze."
+      },
+      {
+        "pair1": "Środowisko (geograficzne)",
+        "pair2": "Środowisko przyrodnicze powiększone o ludzi oraz obiekty stworzone w wyniku ich osadnictwa i gospodarki."
+      },
+      {
+        "pair1": "Zjawisko (antropopresja)",
+        "pair2": "Każdy przejaw działalności ludzkiej skutkujący negatywnym wpływem i degradacją środowiska."
+      },
+      {
+        "pair1": "Koncepcja (zrównoważony rozwój)",
+        "pair2": "Model rozwoju wprowadzający normy gospodarowania, które chronią zasoby Ziemi dla przyszłych pokoleń."
+      },
+      {
+        "pair1": "Dokument (Agenda 21)",
+        "pair2": "Program działań proekologicznych na miarę XXI wieku sygnowany w Rio de Janeiro przez państwa członkowskie ONZ."
+      },
+      {
+        "pair1": "Reguła (internalizacja kosztów)",
+        "pair2": "Zasada oznaczająca, że podmiot generujący zanieczyszczenia ponosi wszelkie koszty z nimi związane."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Czym jest antropopresja w kontekście relacji człowieka z otaczającą go przyrodą?",
+        "options": [
+          "Ochroną pierwotnych elementów środowiska naturalnego.",
+          "Procesem samoczynnego odradzania się lokalnej biocenozy.",
+          "Negatywnym wpływem człowieka na środowisko przyrodnicze.",
+          "Pozytywnym wpływem człowieka na środowisko przyrodnicze."
+        ],
+        "answer": "C",
+        "explanation": "Antropopresja to ogół działań człowieka, które wywierają negatywny wpływ na funkcjonowanie i stan środowiska przyrodniczego."
+      },
+      {
+        "question": "Jakie elementy wchodzą w skład środowiska przyrodniczego?",
+        "options": [
+          "Składniki przyrody ożywionej oraz infrastruktura miejska.",
+          "Zarówno składniki przyrody, jak i działalność gospodarcza.",
+          "Tylko wytwory ludzkiej działalności oraz infrastruktura.",
+          "Wyłącznie ożywione i nieożywione składniki samej przyrody."
+        ],
+        "answer": "D",
+        "explanation": "Środowisko przyrodnicze tworzą wyłącznie naturalne elementy ożywione (biotyczne) i nieożywione (abiotyczne), bez wytworów rąk ludzkich."
+      },
+      {
+        "question": "Jaki jest główny cel koncepcji zrównoważonego rozwoju?",
+        "options": [
+          "Maksymalna eksploatacja zasobów dla szybkiego zysku.",
+          "Zaspokojenie potrzeb obecnych i przyszłych pokoleń.",
+          "Zahamowanie wszelkiego rozwoju gospodarczego świata.",
+          "Całkowita rezygnacja z wydobycia surowców naturalnych."
+        ],
+        "answer": "B",
+        "explanation": "Zrównoważony rozwój zakłada zaspokojenie aspiracji obecnego pokolenia w sposób, który umożliwi realizację dążeń następnym pokoleniom."
+      },
+      {
+        "question": "Ile nowych celów zrównoważonego rozwoju sformułowano w Agendzie 2030?",
+        "options": [
+          "Dokładnie siedemnaście głównych celów.",
+          "Dokładnie dwadzieścia siedem głównych celów.",
+          "Dokładnie dwadzieścia jeden głównych celów.",
+          "Dokładnie szesnaście głównych celów."
+        ],
+        "answer": "A",
+        "explanation": "W dokumencie Agenda na rzecz zrównoważonego rozwoju 2030 przyjętym przez ONZ sformułowano 17 nowych celów zrównoważonego rozwoju."
+      },
+      {
+        "question": "Jak nazywa się dokument z 1992 roku stanowiący program działań dla zrównoważonego rozwoju?",
+        "options": [
+          "Agenda na rzecz rozwoju.",
+          "Karta praw przyrodniczych.",
+          "Protokół ustaleń z Kioto.",
+          "Agenda dwadzieścia jeden."
+        ],
+        "answer": "D",
+        "explanation": "Agenda 21 to program działań dotyczący ochrony środowiska i racjonalnego gospodarowania zasobami, podpisany w 1992 roku w Rio de Janeiro."
+      },
+      {
+        "question": "Który z poniższych zbiorów elementów stanowi przykład środowiska geograficznego, ale nie przyrodniczego?",
+        "options": [
+          "Zwierzęta dzikie, roślinność leśna, skały osadowe.",
+          "Wody powierzchniowe, masy powietrza, gleby bielicowe.",
+          "Zakład przemysłowy, droga asfaltowa, sieć osadnicza.",
+          "Lasy równikowe, lodowce górskie, rafy koralowe."
+        ],
+        "answer": "C",
+        "explanation": "Środowisko geograficzne obejmuje nie tylko naturalne składniki przyrody, ale również ludzi i wytwory ich działalności, takie jak budynki i drogi."
+      },
+      {
+        "question": "Z czego wynika główny konflikt ekologiczny w obrębie współczesnej działalności rolniczej?",
+        "options": [
+          "Wycinka lasów poprawia jakość powietrza, ale niszczy glebę.",
+          "Stosowanie chemikaliów zwiększa plony, ale zanieczyszcza wody.",
+          "Melioracja terenów zwiększa bioróżnorodność, ale osusza rzeki.",
+          "Monokultury zapobiegają erozji, ale obniżają produkcję rolną."
+        ],
+        "answer": "B",
+        "explanation": "Używanie chemicznych środków ochrony roślin pozwala na uzyskanie wysokich plonów, jednak powoduje degradację gleb, zanieczyszczenie wód i zagraża zdrowiu."
+      },
+      {
+        "question": "Dlaczego rozwój infrastruktury transportowej stanowi przyczynę konfliktów ekologicznych?",
+        "options": [
+          "Ogranicza emisję gazów, lecz powoduje wzrost bezrobocia.",
+          "Zmniejsza zużycie paliw, lecz prowadzi do zmian klimatu.",
+          "Zwiększa bioróżnorodność, lecz podnosi koszty logistyki.",
+          "Ułatwia przemieszczanie, lecz niszczy siedliska naturalne."
+        ],
+        "answer": "D",
+        "explanation": "Rozbudowa dróg czy lotnisk warunkuje rozwój gospodarczy i ułatwia transport, ale wiąże się ze zmniejszaniem powierzchni naturalnych siedlisk roślin i zwierząt."
+      },
+      {
+        "question": "Jaki jest główny negatywny skutek pozyskiwania surowców mineralnych dla środowiska przyrodniczego?",
+        "options": [
+          "Prowadzi do natychmiastowego wzrostu zalesienia obszaru.",
+          "Poprawia jakość wód głębinowych i stabilizuje ekosystem.",
+          "Skutkuje degradacją wód podziemnych i skażeniem gleb.",
+          "Przyczynia się do odbudowy naturalnych form rzeźby terenu."
+        ],
+        "answer": "C",
+        "explanation": "Prace wydobywcze wywołują ogromne zmiany w krajobrazie, degradację wód podziemnych oraz skażenie gleb szkodliwymi substancjami, takimi jak metale ciężkie."
+      },
+      {
+        "question": "Zgodnie z Zasadą 16 Deklaracji z Rio, kto powinien ponosić finansowe koszty zanieczyszczeń środowiska?",
+        "options": [
+          "Podmiot dokonujący zanieczyszczenia i niszczenia.",
+          "Społeczność lokalna zamieszkująca dany obszar.",
+          "Rząd państwa, na którego terytorium powstała szkoda.",
+          "Międzynarodowe organizacje ochrony przyrody."
+        ],
+        "answer": "A",
+        "explanation": "Zasada internalizacji kosztów wymaga, by podmiot generujący zanieczyszczenia ponosił wszelkie finansowe koszty naprawy środowiska."
+      },
+      {
+        "question": "Co jest wewnętrznym instrumentem kontroli planowanych inwestycji według Deklaracji z Rio?",
+        "options": [
+          "Taryfikator opłat za emisję gazów cieplarnianych.",
+          "Ocena oddziaływania na otaczające środowisko.",
+          "Zestawienie limitów nawozów dla rolnictwa wielkoobszarowego.",
+          "Rejestr gatunków zagrożonych wymarciem na danym terenie."
+        ],
+        "answer": "B",
+        "explanation": "Ocena oddziaływania na środowisko musi być wykonywana przed podjęciem działań, które mogą mieć znaczący, niekorzystny wpływ na zasoby naturalne."
+      },
+      {
+        "question": "W jakich sytuacjach najczęściej zarysowuje się konflikt między człowiekiem a środowiskiem?",
+        "options": [
+          "Społeczeństwo rezygnuje z zysków na rzecz ochrony flory.",
+          "Przyroda uniemożliwia realizację wszelkich inwestycji.",
+          "Zasoby naturalne odnawiają się szybciej niż są zużywane.",
+          "Działalność gospodarcza daje korzyści, ale szkodzi przyrodzie."
+        ],
+        "answer": "D",
+        "explanation": "Konflikt ekologiczny występuje wyraźnie wtedy, gdy eksploatacja zasobów przynosi wymierne zyski gospodarcze, jednocześnie powodując degradację natury."
+      },
+      {
+        "question": "W jaki sposób koncepcja zrównoważonego rozwoju pozwala łagodzić konflikty między gospodarką a środowiskiem?",
+        "options": [
+          "Poprzez całkowity zakaz eksploatacji złóż surowców kopalnych.",
+          "Przez ignorowanie potrzeb społecznych na rzecz ochrony przyrody.",
+          "Przez wprowadzanie norm i ograniczeń w korzystaniu z zasobów.",
+          "Poprzez nieograniczoną prywatyzację wszystkich zasobów Ziemi."
+        ],
+        "answer": "C",
+        "explanation": "Głównym założeniem zrównoważonego rozwoju jest ustanawianie prawnych i normatywnych limitów racjonalnego korzystania ze środowiska naturalnego."
+      },
+      {
+        "question": "Jak Deklaracja z Rio w Zasadzie 3 definiuje stosunek prawa do rozwoju względem ochrony środowiska?",
+        "options": [
+          "Prawo to musi uwzględniać potrzeby obecnych i przyszłych pokoleń.",
+          "Rozwój gospodarczy zawsze ma absolutny priorytet przed ekologią.",
+          "Ochrona przyrody całkowicie wyklucza dalszy rozwój przemysłowy.",
+          "Zaspokojenie potrzeb finansowych jest jedynym kryterium postępu."
+        ],
+        "answer": "A",
+        "explanation": "Prawo do rozwoju musi być sprawiedliwie realizowane z rygorystycznym uwzględnieniem równowagi między potrzebami rozwojowymi a wymogami środowiskowymi."
+      },
+      {
+        "question": "Jakie zobowiązanie spoczywa na państwach w kontekście eksploatacji własnych zasobów naturalnych według Zasady 2?",
+        "options": [
+          "Mogą dowolnie korzystać z zasobów, ignorując ewentualne zanieczyszczenia.",
+          "Muszą dbać, by ich działania nie niszczyły środowiska innych państw.",
+          "Są zobligowane do przekazania wszystkich surowców organizacjom globalnym.",
+          "Mają obowiązek całkowicie zamknąć najbardziej obciążające zakłady."
+        ],
+        "answer": "B",
+        "explanation": "Państwa mają suwerenne prawo do eksploatacji zasobów, jednak ponoszą bezwzględną odpowiedzialność za to, by działania w ich granicach nie uszkadzały terytoriów zewnętrznych."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Środowisko przyrodnicze to pojęcie znacznie szersze niż środowisko geograficzne, ponieważ obejmuje swoim zasięgiem nie tylko pierwotne składniki przyrody, lecz także ludzi oraz wszelkie wytwory ich działalności.",
+        "answer": false,
+        "explanation": "Pojęcie środowiska geograficznego jest szersze niż pojęcie środowiska przyrodniczego, ponieważ to ono obejmuje nie tylko składniki przyrody, lecz także ludzi oraz wytwory ich działalności."
+      },
+      {
+        "sentence": "Koncepcja zrównoważonego rozwoju zakłada całkowite zaprzestanie eksploatacji surowców mineralnych na świecie w celu zachowania nienaruszonego środowiska dla przyszłych pokoleń.",
+        "answer": false,
+        "explanation": "Zrównoważony rozwój nie zakłada całkowitego zatrzymania działalności, lecz wprowadzanie norm i ograniczeń, aby zaspokojenie aspiracji obecnego pokolenia umożliwiało realizację tych samych dążeń następnym pokoleniom."
+      },
+      {
+        "sentence": "Podstawowym celem stosowania chemicznych środków ochrony roślin jest poprawa fizycznych i chemicznych właściwości gleb oraz zwiększenie naturalnej retencji wód.",
+        "answer": false,
+        "explanation": "Podstawowym zadaniem chemicznych środków ochrony roślin jest minimalizowanie strat w uprawach powodowanych przez szkodniki, natomiast wywierają one negatywny wpływ na stan gleb i wód."
+      },
+      {
+        "sentence": "Rozwój infrastruktury komunikacyjnej i działalności transportowej przyczynia się bezpośrednio do zmniejszania powierzchni naturalnych siedlisk roślin i zwierząt oraz powiększania efektu cieplarnianego.",
+        "answer": true,
+        "explanation": "Budowa dróg i lotnisk wiąże się z emisją zanieczyszczeń przyczyniających się do globalnego ocieplenia oraz prowadzi do zmniejszania powierzchni naturalnych siedlisk roślin i zwierząt i przekształcania krajobrazu."
+      },
+      {
+        "sentence": "Agenda 21 to rezolucja Zgromadzenia Ogólnego ONZ przyjęta w 2015 roku, w której sformułowano 17 nowych celów zrównoważonego rozwoju.",
+        "answer": false,
+        "explanation": "Agenda 21 to program działań przyjęty podczas Konferencji w Rio de Janeiro w 1992 roku, natomiast 17 celów zrównoważonego rozwoju sformułowano w dokumencie Agenda na rzecz zrównoważonego rozwoju 2030, przyjętym w roku 2015."
+      }
+    ]
+  }
+}

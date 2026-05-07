@@ -1,0 +1,346 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz4-t6",
+                     "unit":  "IV",
+                     "title":  "Wody podziemne",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Infiltracja",
+                                              "definition":  "Proces grawitacyjnego przemieszczania się wód z powierzchni terenu w głąb skał (najlepiej zachodzi przez skały luźne, takie jak piaski i żwiry)."
+                                          },
+                                          {
+                                              "term":  "Warstwa wodonośna (strefa saturacji)",
+                                              "definition":  "Warstwa skał przepuszczalnych, w której wszystkie wolne przestrzenie (pory, szczeliny) są całkowicie wypełnione wodą."
+                                          },
+                                          {
+                                              "term":  "Zwierciadło swobodne",
+                                              "definition":  "Górna granica warstwy wodonośnej, która nie jest ograniczona od góry warstwą nieprzepuszczalną, co umożliwia wahania poziomu wody."
+                                          },
+                                          {
+                                              "term":  "Zwierciadło napięte",
+                                              "definition":  "Zwierciadło wód podziemnych ograniczone od góry warstwą skał nieprzepuszczalnych, która uniemożliwia swobodne podniesienie się poziomu wody."
+                                          },
+                                          {
+                                              "term":  "Wody przypowierzchniowe (zaskórne)",
+                                              "definition":  "Wody zalegające płytko pod powierzchnią, pozostające pod bezpośrednim wpływem warunków pogodowych i często silnie zanieczyszczone."
+                                          },
+                                          {
+                                              "term":  "Wody gruntowe",
+                                              "definition":  "Wody oddzielone od powierzchni strefą aeracji, posiadające zazwyczaj swobodne zwierciadło i ulegające naturalnemu oczyszczeniu podczas przesiąkania."
+                                          },
+                                          {
+                                              "term":  "Wody wgłębne",
+                                              "definition":  "Wody znajdujące się w warstwach wodonośnych przykrytych skałami nieprzepuszczalnymi, zasilane w miejscach wychodni warstwy na powierzchnię."
+                                          },
+                                          {
+                                              "term":  "Wody głębinowe",
+                                              "definition":  "Wody zalegające bardzo głęboko, całkowicie odizolowane od powierzchni wieloma warstwami nieprzepuszczalnymi (często wody reliktowe, nieodnawialne)."
+                                          },
+                                          {
+                                              "term":  "Basen artezyjski",
+                                              "definition":  "Obszar, na którym warstwa wodonośna znajduje się pomiędzy nieckowato ułożonymi warstwami skał nieprzepuszczalnych, co powoduje powstanie ciśnienia hydrostatycznego."
+                                          },
+                                          {
+                                              "term":  "Wody artezyjskie",
+                                              "definition":  "Wody podziemne pod ciśnieniem hydrostatycznym, które po nawierceniu warstwy nieprzepuszczalnej wypływają samoczynnie na powierzchnię."
+                                          },
+                                          {
+                                              "term":  "Wody subartezyjskie",
+                                              "definition":  "Wody podziemne pod ciśnieniem, które po nawierceniu studni podnoszą się, ale nie osiągają powierzchni terenu (brak samoczynnego wypływu)."
+                                          },
+                                          {
+                                              "term":  "Źródło",
+                                              "definition":  "Miejsce, w którym wody podziemne samoczynnie wypływają na powierzchnię pod wpływem siły grawitacji lub ciśnienia hydrostatycznego."
+                                          },
+                                          {
+                                              "term":  "Gejzer",
+                                              "definition":  "Rodzaj źródła na obszarach wulkanicznych, z którego wrząca woda i para wodna są gwałtownie wyrzucane w regularnych odstępach czasu."
+                                          },
+                                          {
+                                              "term":  "Wody termalne (cieplice)",
+                                              "definition":  "Wody podziemne, których temperatura przy wypływie na powierzchnię jest wyższa od średniej rocznej temperatury powietrza na danym obszarze."
+                                          },
+                                          {
+                                              "term":  "Wody mineralne",
+                                              "definition":  "Wody podziemne zawierające co najmniej 1 g rozpuszczonych związków mineralnych w 1 litrze wody."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Wody infiltracyjne",
+                                                 "pair2":  "Tworzą się na skutek przesiąkania wód opadowych i powierzchniowych do podłoża"
+                                             },
+                                             {
+                                                 "pair1":  "Wody juwenilne",
+                                                 "pair2":  "Powstają na obszarach wulkanicznych z kondensacji pary wodnej zawartej w magmie"
+                                             },
+                                             {
+                                                 "pair1":  "Wody reliktowe",
+                                                 "pair2":  "Są pozostałością po dawnych morzach lub jeziorach, odizolowane od cyklu hydrologicznego"
+                                             },
+                                             {
+                                                 "pair1":  "Wody kondensacyjne",
+                                                 "pair2":  "Powstają w wyniku skraplania pary wodnej w glebie, istotne na obszarach suchych"
+                                             },
+                                             {
+                                                 "pair1":  "Źródło krasowe (wywierzysko)",
+                                                 "pair2":  "Obfity wypływ wód ze skał podlegających procesom rozpuszczania (np. wapieni)"
+                                             },
+                                             {
+                                                 "pair1":  "Źródło uskokowe",
+                                                 "pair2":  "Powstaje, gdy obsunięta warstwa skał nieprzepuszczalnych ograniczy ruch wód na uskoku"
+                                             },
+                                             {
+                                                 "pair1":  "Woda artezyjska",
+                                                 "pair2":  "Zwierciadło piezometryczne znajduje się powyżej powierzchni terenu (samoczynny wypływ)"
+                                             },
+                                             {
+                                                 "pair1":  "Woda subartezyjska",
+                                                 "pair2":  "Zwierciadło piezometryczne podnosi się w studni, ale pozostaje poniżej powierzchni terenu"
+                                             },
+                                             {
+                                                 "pair1":  "Solanki",
+                                                 "pair2":  "Wody mineralne zawierające sól kamienną w ilości ponad 15 g/l"
+                                             },
+                                             {
+                                                 "pair1":  "Szczawy",
+                                                 "pair2":  "Wody mineralne nasycone dwutlenkiem węgla"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Proces, w którym wody opadowe przemieszczają się pod wpływem siły ciężkości w głąb skorupy ziemskiej przez pory i szczeliny skalne.",
+                                      "options":  [
+                                                      "Infiltracja",
+                                                      "Kondensacja",
+                                                      "Sublimacja",
+                                                      "Transpiracja"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Od rodzaju skał i ich ułożenia zależy infiltracja, czyli grawitacyjne przemieszczanie się wód z powierzchni terenu w głąb."
+                                  },
+                                  {
+                                      "question":  "Wiercenie studni na obszarze o nieckowatym układzie warstw skalnych ujawniło wodę pod ciśnieniem, która samoczynnie wypłynęła na powierzchnię. Z jakim zjawiskiem mamy do czynienia?",
+                                      "options":  [
+                                                      "Wypływ wody artezyjskiej",
+                                                      "Wypływ wody subartezyjskiej",
+                                                      "Wypływ wody krasowej",
+                                                      "Wypływ wody zawieszonej nad soczewką iłów"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wody artezyjskie znajdują się pod ciśnieniem hydrostatycznym i po nawierceniu wypływają samoczynnie na powierzchnię."
+                                  },
+                                  {
+                                      "question":  "Warstwa wodonośna znajduje się między dwiema warstwami skał nieprzepuszczalnych w ułożeniu synklinalnym (nieckowatym). Po nawierceniu poziom wody podniósł się, ale nie osiągnął powierzchni gruntu. Jak określisz ten rodzaj wód?",
+                                      "options":  [
+                                                      "Wody subartezyjskie",
+                                                      "Wody artezyjskie",
+                                                      "Wody gruntowe",
+                                                      "Wody zaskórne"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Gdy poziom wody w studni się podnosi, ale woda nie wypływa na powierzchnię, mówi się o wodach subartezyjskich."
+                                  },
+                                  {
+                                      "question":  "Woda w podziemnych komorach na obszarze wulkanicznym zostaje podgrzana powyżej 100°C, lecz nie wrze z powodu wysokiego ciśnienia słupa cieczy. Gwałtowna zamiana w parę następuje dopiero po spadku ciśnienia. Opis ten dotyczy mechanizmu działania:",
+                                      "options":  [
+                                                      "Gejzeru (wyrzutu wrzącej wody)",
+                                                      "Źródła krasowego",
+                                                      "Wywierzyska",
+                                                      "Źródła uskokowego"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Woda w gejzerach znajduje się pod ciśnieniem, dlatego nie wrze mimo temperatury przekraczającej 110°C; dopiero spadek ciśnienia powoduje gwałtowny wyrzut."
+                                  },
+                                  {
+                                      "question":  "Wody te występują bardzo płytko pod powierzchnią ziemi, są silnie uzależnione od warunków pogodowych i często ulegają zanieczyszczeniu, przez co zazwyczaj nie nadają się do celów spożywczych.",
+                                      "options":  [
+                                                      "Wody przypowierzchniowe (zaskórne)",
+                                                      "Wody gruntowe",
+                                                      "Wody wgłębne",
+                                                      "Wody głębinowe"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wody przypowierzchniowe (zaskórne) występują płytko, są zanieczyszczone i nie nadają się do celów spożywczych."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych skał jest przykładem skały litej, która nie chłonie wody całą objętością, a woda może gromadzić się jedynie w jej szczelinach?",
+                                      "options":  [
+                                                      "Granit (skała magmowa głębinowa)",
+                                                      "Piasek",
+                                                      "Żwir",
+                                                      "Less"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Skały lite (np. granit) ani nie chłoną wody, ani jej nie przepuszczają; woda gromadzi się jedynie w szczelinach."
+                                  },
+                                  {
+                                      "question":  "Miejsce naturalnego wypływu wody podziemnej na powierzchnię, powstałe w wyniku przecięcia się warstwy wodonośnej i nieprzepuszczalnej z powierzchnią terenu, to:",
+                                      "options":  [
+                                                      "Źródło warstwowe",
+                                                      "Źródło uskokowe",
+                                                      "Źródło krasowe",
+                                                      "Źródło szczelinowe"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Źródła warstwowe powstają na granicy warstwy przepuszczalnej i nieprzepuszczalnej, w miejscu przecięcia się tych warstw z powierzchnią terenu."
+                                  },
+                                  {
+                                      "question":  "Wody te są całkowicie odizolowane od powierzchni warstwami nieprzepuszczalnymi, nie uczestniczą w cyklu hydrologicznym i często są pozostałością dawnych epok geologicznych.",
+                                      "options":  [
+                                                      "Wody reliktowe",
+                                                      "Wody infiltracyjne",
+                                                      "Wody kondensacyjne",
+                                                      "Wody juwenilne"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wody reliktowe to wody głębinowe, które nie biorą udziału w cyklu hydrologicznym i są pozostałością dawnych epok."
+                                  },
+                                  {
+                                      "question":  "Analiza chemiczna próbki wody wykazała zawartość rozpuszczonych składników stałych na poziomie 1,5 g/l. Jak sklasyfikujesz tę wodę?",
+                                      "options":  [
+                                                      "Woda mineralna o wysokiej zawartości soli",
+                                                      "Woda słodka",
+                                                      "Woda destylowana",
+                                                      "Woda opadowa"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jeżeli w 1 l wody podziemnej znajduje się co najmniej 1 g rozpuszczonych związków mineralnych, mówi się o wodach mineralnych."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się strefa pod powierzchnią ziemi, w której tylko część wolnych przestrzeni skalnych jest wypełniona wodą, a resztę zajmuje powietrze?",
+                                      "options":  [
+                                                      "Strefa aeracji (strefa napowietrzania)",
+                                                      "Strefa saturacji",
+                                                      "Warstwa wodonośna",
+                                                      "Strefa reliktowa"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Bezpośrednio pod powierzchnią ziemi znajduje się strefa aeracji, gdzie woda wypełnia tylko niewielką część wolnych przestrzeni."
+                                  },
+                                  {
+                                      "question":  "Wody pochodzące z kondensacji pary wodnej zawartej w magmie, uwalniane na obszarach aktywnych wulkanicznie, to:",
+                                      "options":  [
+                                                      "Wody juwenilne (pochodzenia magmowego)",
+                                                      "Wody infiltracyjne",
+                                                      "Wody reliktowe",
+                                                      "Wody gruntowe"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wody juwenilne powstają na obszarach aktywnych wulkanicznie na skutek kondensacji pary wodnej zawartej w magmie."
+                                  },
+                                  {
+                                      "question":  "Na mapie hydrogeologicznej zaznaczono źródło, w którym woda wypływa szczeliną powstałą w wyniku przesunięcia warstw skalnych, pod wpływem ciśnienia hydrostatycznego. Jest to:",
+                                      "options":  [
+                                                      "Źródło uskokowe",
+                                                      "Źródło warstwowe",
+                                                      "Źródło krasowe",
+                                                      "Źródło dolinne"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Źródła uskokowe powstają, gdy obsunięta warstwa skał nieprzepuszczalnych ograniczy ruch wód; woda wypływa szczeliną uskoku."
+                                  },
+                                  {
+                                      "question":  "Badana woda podziemna ma temperaturę 15°C w miejscu wypływu, podczas gdy średnia roczna temperatura powietrza w tym regionie wynosi 8°C. Wodę tę zaliczymy do:",
+                                      "options":  [
+                                                      "Wód termalnych (cieplic)",
+                                                      "Wód mineralnych",
+                                                      "Wód zwykłych",
+                                                      "Wód reliktowych"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wodami termalnymi nazywa się wody, których temperatura przy wypływie przewyższa średnią roczną temperaturę powietrza na danym obszarze."
+                                  },
+                                  {
+                                      "question":  "Wody te znajdują się pod warstwą skał nieprzepuszczalnych, są zasilane w miejscach wychodni warstwy wodonośnej na powierzchnię i mogą znajdować się pod ciśnieniem hydrostatycznym.",
+                                      "options":  [
+                                                      "Wody wgłębne",
+                                                      "Wody zaskórne",
+                                                      "Wody gruntowe",
+                                                      "Wody zawieszone"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wody wgłębne znajdują się w warstwach wodonośnych przykrytych skałami nieprzepuszczalnymi; zasilanie odbywa się w miejscach wychodni."
+                                  },
+                                  {
+                                      "question":  "Jakim terminem określa się górną granicę warstwy wodonośnej, która jest ograniczona od góry skałami nieprzepuszczalnymi, uniemożliwiającymi swobodne podnoszenie się wody?",
+                                      "options":  [
+                                                      "Zwierciadło napięte",
+                                                      "Zwierciadło swobodne",
+                                                      "Zwierciadło zawieszone",
+                                                      "Zwierciadło gruntowe"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Zwierciadło napięte jest ograniczone od góry warstwą nieprzepuszczalną, która uniemożliwia podniesienie się poziomu zwierciadła wody."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Skały lite, takie jak granit, są przykładem skał dobrze przepuszczających wodę, ponieważ chłoną ją całą swoją objętością.",
+                                           "answer":  false,
+                                           "explanation":  "Skały lite (np. granit) ani nie chłoną wody, ani jej nie przepuszczają; woda może się gromadzić jedynie w ich szczelinach."
+                                       },
+                                       {
+                                           "sentence":  "Wody głębinowe biorą aktywny udział w cyklu hydrologicznym i są regularnie zasilane przez współczesne opady atmosferyczne.",
+                                           "answer":  false,
+                                           "explanation":  "Wody głębinowe są całkowicie odizolowane od powierzchni i na ogół są to wody reliktowe, które nie biorą udziału w cyklu hydrologicznym."
+                                       },
+                                       {
+                                           "sentence":  "Wody subartezyjskie to wody podziemne pod ciśnieniem, które po nawierceniu studni podnoszą się, ale nie wypływają samoczynnie na powierzchnię.",
+                                           "answer":  true,
+                                           "explanation":  "Gdy poziom wody w studni się podnosi, ale woda nie wypływa na powierzchnię, mówi się o wodach subartezyjskich."
+                                       },
+                                       {
+                                           "sentence":  "W podziemnych komorach gejzerów woda wrze w temperaturze 100°C, co powoduje jej natychmiastowy i regularny wyrzut.",
+                                           "answer":  false,
+                                           "explanation":  "Woda w gejzerach znajduje się pod ciśnieniem wysokiego słupa wody, dlatego nie wrze mimo temperatury przekraczającej 110°C."
+                                       },
+                                       {
+                                           "sentence":  "Zwierciadło napięte wód podziemnych występuje wówczas, gdy warstwa wodonośna jest ograniczona od góry warstwą nieprzepuszczalną.",
+                                           "answer":  true,
+                                           "explanation":  "Zwierciadło napięte jest ograniczone od góry warstwą nieprzepuszczalną, która uniemożliwia podniesienie się poziomu zwierciadła wody."
+                                       },
+                                       {
+                                           "sentence":  "Każda woda podziemna, która zawiera jakiekolwiek rozpuszczone związki mineralne, jest klasyfikowana jako woda mineralna.",
+                                           "answer":  false,
+                                           "explanation":  "O wodach mineralnych mówi się dopiero wtedy, gdy w 1 l wody podziemnej znajduje się co najmniej 1 g rozpuszczonych związków mineralnych."
+                                       },
+                                       {
+                                           "sentence":  "Wody przypowierzchniowe (zaskórne) są zazwyczaj bardzo czyste i zdatne do picia, ponieważ nie podlegają wpływom warunków pogodowych.",
+                                           "answer":  false,
+                                           "explanation":  "Wody te pozostają pod bezpośrednim wpływem warunków pogodowych, często są silnie zanieczyszczone i nie nadają się do celów spożywczych."
+                                       },
+                                       {
+                                           "sentence":  "Warunkiem powstania wód artezyjskich jest ułożenie warstw skalnych w kształcie niecki, gdzie warstwa wodonośna znajduje się między warstwami nieprzepuszczalnymi.",
+                                           "answer":  true,
+                                           "explanation":  "Wody artezyjskie występują na obszarach, gdzie warstwa wodonośna znajduje się pomiędzy nieckowato ułożonymi warstwami skał nieprzepuszczalnych."
+                                       },
+                                       {
+                                           "sentence":  "Źródła wstępujące to miejsca, w których woda wypływa na powierzchnię grawitacyjnie, spływając w dół ze stoków górskich.",
+                                           "answer":  false,
+                                           "explanation":  "W przypadku źródeł wstępujących woda jest wypychana ku górze pod wpływem ciśnienia hydrostatycznego, w przeciwieństwie do źródeł zstępujących, gdzie decyduje grawitacja."
+                                       },
+                                       {
+                                           "sentence":  "Wody termalne to wyłącznie takie wody podziemne, których temperatura w miejscu wypływu przekracza 100°C.",
+                                           "answer":  false,
+                                           "explanation":  "Wodami termalnymi nazywa się wody, których temperatura przy wypływie przewyższa średnią roczną temperaturę powietrza na danym obszarze."
+                                       },
+                                       {
+                                           "sentence":  "Wody juwenilne powstają na obszarach wulkanicznych w wyniku kondensacji pary wodnej zawartej w magmie.",
+                                           "answer":  true,
+                                           "explanation":  "Wody juwenilne powstają na obszarach aktywnych wulkanicznie na skutek kondensacji pary wodnej zawartej w magmie."
+                                       },
+                                       {
+                                           "sentence":  "Strefa aeracji to warstwa skalna pod powierzchnią ziemi, w której wszystkie wolne przestrzenie są całkowicie wypełnione wodą.",
+                                           "answer":  false,
+                                           "explanation":  "W strefie aeracji woda wypełnia tylko niewielką część wolnych przestrzeni, a w pozostałych znajduje się powietrze atmosferyczne."
+                                       }
+                                   ]
+                 }
+}

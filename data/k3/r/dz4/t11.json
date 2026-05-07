@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t11",
+                     "title":  "Sieć osadnicza wsi",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Wieś (definicja)",
+                                              "definition":  "Jednostka osadnicza, która nie posiada praw miejskich; w Polsce jest ich ponad 43 tys."
+                                          },
+                                          {
+                                              "term":  "Ulicówka",
+                                              "definition":  "Typ genetyczny wsi o zwartej zabudowie skupionej po obu stronach jednej głównej drogi"
+                                          },
+                                          {
+                                              "term":  "Owalnica",
+                                              "definition":  "Wieś placowa o owalnym kształcie, gdzie dwie ulice otaczają centralny plac (nawsie) i zbiegają się na krańcach"
+                                          },
+                                          {
+                                              "term":  "Łańcuchówka",
+                                              "definition":  "Wieś o luźnej, rozproszonej zabudowie ciągnącej się wzdłuż drogi, z polami (łanami) prostopadłymi do osi wsi"
+                                          },
+                                          {
+                                              "term":  "Rzędówka",
+                                              "definition":  "Wieś o luźnej zabudowie po jednej stronie drogi, która oddziela gospodarstwa od szerokich pasów pól"
+                                          },
+                                          {
+                                              "term":  "Semiurbanizacja",
+                                              "definition":  "Proces częściowego upodabniania się wsi do miasta (funkcje, styl życia) zachodzący na obszarach oddalonych od aglomeracji"
+                                          },
+                                          {
+                                              "term":  "Urbanizacja wsi",
+                                              "definition":  "Upodabnianie się warunków życia na wsi do miejskich oraz wzrost liczby osób utrzymujących się ze źródeł pozarolniczych"
+                                          },
+                                          {
+                                              "term":  "Funkcja rezydencjalna (mieszkaniowa)",
+                                              "definition":  "Nowa funkcja wsi polegająca na budowie osiedli domów dla osób pracujących w pobliskich miastach"
+                                          },
+                                          {
+                                              "term":  "Modernizacja wsi",
+                                              "definition":  "Proces obejmujący poprawę infrastruktury (wodociągi, drogi) oraz unowocześnianie rolnictwa"
+                                          },
+                                          {
+                                              "term":  "Zabudowa zagrodowa",
+                                              "definition":  "Tradycyjny typ zabudowy wiejskiej obejmujący dom mieszkalny oraz budynki gospodarcze"
+                                          },
+                                          {
+                                              "term":  "Strefa podmiejska",
+                                              "definition":  "Obszar przejściowy wokół dużych miast, łączący cechy miasta i wsi, podlegający silnej presji inwestycyjnej"
+                                          },
+                                          {
+                                              "term":  "Depopulacja wsi",
+                                              "definition":  "Wyludnianie się obszarów wiejskich (głównie peryferyjnych) na skutek ujemnego salda migracji i starzenia się ludności"
+                                          },
+                                          {
+                                              "term":  "Agroturystyka",
+                                              "definition":  "Forma działalności nierolniczej na wsi, polegająca na oferowaniu usług turystycznych i noclegowych"
+                                          },
+                                          {
+                                              "term":  "Funkcja przemysłowa wsi",
+                                              "definition":  "Lokalizowanie na terenach wiejskich zakładów przetwórczych, produkcyjnych i centrów magazynowych,"
+                                          },
+                                          {
+                                              "term":  "Wykluczenie komunikacyjne",
+                                              "definition":  "Problem terenów wiejskich polegający na braku połączeń transportu publicznego, utrudniający dostęp do miast"
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Owalnica",
+                                                 "pair2":  "Zachodnia i północno-zachodnia Polska (wieś placowa z centralnym placem)"
+                                             },
+                                             {
+                                                 "pair1":  "Ulicówka",
+                                                 "pair2":  "Środkowa, wschodnia i południowa Polska (zwarta zabudowa przy jednej drodze)"
+                                             },
+                                             {
+                                                 "pair1":  "Łańcuchówka",
+                                                 "pair2":  "Południowa Polska (rozproszona zabudowa, często w dolinach rzecznych)"
+                                             },
+                                             {
+                                                 "pair1":  "Rzędówka",
+                                                 "pair2":  "Środkowa Polska i Żuławy Wiślane (zabudowa po jednej stronie drogi)"
+                                             },
+                                             {
+                                                 "pair1":  "Semiurbanizacja",
+                                                 "pair2":  "Zmiany funkcjonalne i społeczne na wsiach oddalonych od dużych miast"
+                                             },
+                                             {
+                                                 "pair1":  "Funkcja rezydencjalna",
+                                                 "pair2":  "Dominująca nowa funkcja wsi w strefach podmiejskich (sypialnie dla miast)"
+                                             },
+                                             {
+                                                 "pair1":  "Województwo podlaskie",
+                                                 "pair2":  "Obszar peryferyjny dotknięty silną depopulacją wsi (np. wieś Trześcianka),"
+                                             },
+                                             {
+                                                 "pair1":  "Województwo śląskie",
+                                                 "pair2":  "Region z największymi wsiami w Polsce (np. Kozy - ok. 12,5 tys. mieszkańców)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Co stanowi formalne kryterium odróżniające miasto od wsi w polskim systemie osadniczym?",
+                                      "options":  [
+                                                      "Liczba mieszkańców przekraczająca 2000 osób, co jest standardem międzynarodowym.",
+                                                      "Posiadanie praw miejskich nadanych aktem administracyjnym",
+                                                      "Obecność rynku i kościoła w centrum miejscowości.",
+                                                      "Dostęp do pełnej sieci wodociągowej i kanalizacyjnej."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W Polsce o statusie miejscowości decyduje rozporządzenie Rady Ministrów; wiele wsi ma więcej mieszkańców niż małe miasta, ale nie posiada praw miejskich."
+                                  },
+                                  {
+                                      "question":  "Jaki odsetek ludności Polski zamieszkiwał obszary wiejskie w 2019 roku?",
+                                      "options":  [
+                                                      "Około 25%, co wskazywałoby na bardzo wysoki stopień urbanizacji.",
+                                                      "Dokładnie 50%, co oznaczałoby równowagę demograficzną.",
+                                                      "Około 40%",
+                                                      "Ponad 60%, co jest typowe dla krajów rolniczych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Mimo procesów urbanizacyjnych, odsetek ludności wiejskiej w Polsce pozostaje stabilny (ok. 40%), m.in. dzięki suburbanizacji (migracji na wieś)."
+                                  },
+                                  {
+                                      "question":  "Na czym polega funkcja turystyczna wsi realizowana poprzez agroturystykę?",
+                                      "options":  [
+                                                      "Na budowie wielkich hoteli spa i kompleksów basenowych.",
+                                                      "Na oferowaniu noclegów i wypoczynku w gospodarstwach rolnych",
+                                                      "Na organizacji masowych wycieczek autokarowych do pobliskich miast.",
+                                                      "Na pracy rolników w miejskich hotelach jako obsługa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Agroturystyka to forma wypoczynku u rolnika, pozwalająca na kontakt z przyrodą i poznanie życia wiejskiego, stanowiąca dodatkowe źródło dochodu gospodarstwa."
+                                  },
+                                  {
+                                      "question":  "Który typ genetyczny wsi charakteryzuje się owalnym kształtem wyznaczonym przez dwie ulice otaczające centralny plac?",
+                                      "options":  [
+                                                      "Ulicówka, gdzie zabudowa ciągnie się wzdłuż jednej drogi.",
+                                                      "Rzędówka, z luźną zabudową po jednej stronie drogi.",
+                                                      "Owalnica",
+                                                      "Łańcuchówka, typowa dla terenów górskich."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Centralny plac (nawsie) w owalnicy służył dawniej do spędzania bydła na noc lub znajdował się tam staw i kościół."
+                                  },
+                                  {
+                                      "question":  "W której części Polski najczęściej spotyka się łańcuchówki?",
+                                      "options":  [
+                                                      "Na Mazowszu, gdzie dominują wsie zwarte.",
+                                                      "W południowej Polsce (tereny górskie i wyżynne)",
+                                                      "Na Żuławach Wiślanych, gdzie występują rzędówki.",
+                                                      "Na Pojezierzu Mazurskim, gdzie przeważają wielodrożnice."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Łańcuchówki to wsie leśno-łanowe, których zabudowa ciągnie się kilometrami wzdłuż dolin rzecznych w górach i na wyżynach."
+                                  },
+                                  {
+                                      "question":  "Czym jest proces semiurbanizacji?",
+                                      "options":  [
+                                                      "Całkowitym wyludnieniem wsi i zamianą jej w teren leśny.",
+                                                      "Częściowym upodabnianiem się wsi do miasta (funkcje, styl życia) na obszarach nieprzylegających bezpośrednio do aglomeracji",
+                                                      "Nadawaniem praw miejskich każdej wsi powyżej 1000 mieszkańców.",
+                                                      "Masową migracją z miast na wieś w celu uprawy roli."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Semiurbanizacja to urbanizacja wsi w aspekcie społecznym i ekonomicznym, zachodząca wolniej i dalej od metropolii niż suburbanizacja."
+                                  },
+                                  {
+                                      "question":  "Jaka nowa funkcja dominuje we wsiach położonych w strefach podmiejskich dużych miast?",
+                                      "options":  [
+                                                      "Rolnicza, związana z intensywną uprawą zbóż.",
+                                                      "Mieszkaniowa (rezydencjalna)",
+                                                      "Wydobywcza, związana z eksploatacją piasku i żwiru.",
+                                                      "Leśna, związana z zalesianiem gruntów porolnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wsie te stają się „sypialniami” dla pracowników dojeżdżających do aglomeracji, tracąc swój rolniczy charakter (dezagraryzacja)."
+                                  },
+                                  {
+                                      "question":  "Co jest główną przyczyną depopulacji wsi położonych na peryferiach z dala od dużych miast?",
+                                      "options":  [
+                                                      "Zbyt wysokie ceny gruntów budowlanych, odstraszające inwestorów.",
+                                                      "Ujemne saldo migracji (odpływ ludzi młodych) i starzenie się społeczeństwa",
+                                                      "Prawny zakaz budowy nowych domów jednorodzinnych.",
+                                                      "Nadmiar atrakcyjnych miejsc pracy w lokalnym rolnictwie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Brak perspektyw zawodowych i słaba infrastruktura wypychają młodych do miast, co prowadzi do wyludniania i starzenia się wsi peryferyjnych."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces urbanizacji wsi w aspekcie ekonomicznym?",
+                                      "options":  [
+                                                      "Na gwałtownym wzroście liczby tradycyjnych gospodarstw rolnych.",
+                                                      "Na wzroście liczby osób utrzymujących się ze źródeł pozarolniczych i rozwoju działalności nierolniczej",
+                                                      "Na budowie wieżowców biurowych w centrum każdej wsi.",
+                                                      "Na likwidacji wszystkich lokalnych sklepów wiejskich."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mieszkańcy wsi coraz częściej pracują w usługach, drobnej wytwórczości lub dojeżdżają do pracy w mieście, odchodząc od rolnictwa."
+                                  },
+                                  {
+                                      "question":  "Jakie negatywne zjawisko określane mianem „urban sprawl” (rozlewanie się miast) dotyka obszarów wiejskich?",
+                                      "options":  [
+                                                      "Planowy i zrównoważony rozwój parków krajobrazowych.",
+                                                      "Żywiołowy, chaotyczny rozwój zabudowy zaburzający ład przestrzenny i generujący koszty infrastruktury",
+                                                      "Znaczne zmniejszenie ruchu samochodowego na lokalnych drogach.",
+                                                      "Gwałtowny wzrost powierzchni upraw ekologicznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nieplanowana zabudowa na dawnych polach uprawnych niszczy krajobraz, zwiększa koszty budowy mediów i powoduje konflikty przestrzenne."
+                                  },
+                                  {
+                                      "question":  "Jaki typ konfliktu społecznego jest charakterystyczny dla wsi w strefie podmiejskiej?",
+                                      "options":  [
+                                                      "Konflikt między rolnikami o granice pól uprawnych.",
+                                                      "Konflikt między ludnością napływową (z miasta) a miejscową, wynikający z różnic w stylu życia i systemie wartości",
+                                                      "Konflikt o dostęp do szerokopasmowego internetu.",
+                                                      "Konflikt między dwiema sąsiednimi wsiami o nazwę gminy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Nowi mieszkańcy oczekują ciszy i spokoju, co często kłóci się z realiami produkcji rolnej (zapachy, hałas maszyn) prowadzonymi przez „starych” mieszkańców."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się wieś typu rzędówka?",
+                                      "options":  [
+                                                      "Zwartą, gęstą zabudową wokół centralnego placu.",
+                                                      "Luźną zabudową po jednej stronie drogi, z polami po drugiej stronie",
+                                                      "Rozproszonymi gospodarstwami oddalonymi od siebie o kilkaset metrów (kolonia).",
+                                                      "Zabudową rozchodzącą się promieniście w kształcie gwiazdy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rzędówki powstawały na terenach osuszonych bagien lub po karczunku lasu, gdzie każdy osadnik otrzymywał pas ziemi prostopadły do drogi."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób suburbanizacja wpływa na strukturę demograficzną wsi położonych wokół dużych miast?",
+                                      "options":  [
+                                                      "Powoduje gwałtowne starzenie się ludności tych wsi.",
+                                                      "Prowadzi do odmłodzenia struktury wieku dzięki napływowi młodych rodzin i wzrostowi przyrostu naturalnego",
+                                                      "Nie ma żadnego istotnego wpływu na demografię wsi.",
+                                                      "Powoduje drastyczny spadek ogólnej liczby ludności."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na przedmieścia wyprowadzają się głównie młode rodziny z dziećmi, co odmładza strukturę wieku w gminach podmiejskich (np. wokół Poznania)."
+                                  },
+                                  {
+                                      "question":  "Jaka zmiana w użytkowaniu terenu jest typowa dla współczesnych przemian polskiej wsi?",
+                                      "options":  [
+                                                      "Znaczne zwiększanie powierzchni gruntów ornych kosztem lasów.",
+                                                      "Zmniejszanie powierzchni użytków rolnych na rzecz terenów usługowych, mieszkaniowych i produkcyjnych",
+                                                      "Masowe zalesianie terenów przeznaczonych pod budownictwo.",
+                                                      "Likwidacja dróg dojazdowych do posesji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Presja inwestycyjna powoduje przekształcanie ziemi rolnej (odrolnienie) na działki budowlane pod domy, magazyny czy zakłady usługowe."
+                                  },
+                                  {
+                                      "question":  "Który problem jest wymieniany jako istotna wada życia na obszarach wiejskich o niskim poziomie rozwoju?",
+                                      "options":  [
+                                                      "Nadmierny hałas uliczny i zanieczyszczenie światłem.",
+                                                      "Wykluczenie komunikacyjne (słabe skomunikowanie z miastem, likwidacja połączeń)",
+                                                      "Całkowity brak terenów zielonych i rekreacyjnych.",
+                                                      "Zbyt duży ruch turystyczny utrudniający życie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Likwidacja połączeń PKS i kolejowych utrudnia mieszkańcom wsi dostęp do pracy, szkół, lekarzy i kultury w miastach (wykluczenie transportowe)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Współcześnie każda wieś w Polsce pełni głównie funkcję rolniczą.",
+                                           "answer":  false,
+                                           "explanation":  "Na obszarach wiejskich zachodzą zmiany funkcjonalne; wsie coraz częściej pełnią funkcje nierolnicze, takie jak przemysłowa, handlowa, turystyczna czy mieszkaniowa (rezydencjalna)."
+                                       },
+                                       {
+                                           "sentence":  "Liczba ludności zamieszkującej polskie wsie w ostatnich dekadach systematycznie spada we wszystkich regionach kraju.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to mit. Choć obszary peryferyjne się wyludniają, to w skali kraju udział mieszkańców wsi wzrósł (z 38,1% w 2000 r. do 40% w 2019 r.), głównie dzięki migracji ludności z miast do stref podmiejskich."
+                                       },
+                                       {
+                                           "sentence":  "Formalnym kryterium odróżniającym miasto od wsi w Polsce jest posiadanie praw miejskich, a nie liczba ludności.",
+                                           "answer":  true,
+                                           "explanation":  "Wieś definiuje się jako jednostkę osadniczą nieposiadającą praw miejskich. Istnieją wsie (np. Kozy), które są ludniejsze od wielu małych miast."
+                                       },
+                                       {
+                                           "sentence":  "Wieś typu łańcuchówka występuje najczęściej na nizinnych terenach Mazowsza.",
+                                           "answer":  false,
+                                           "explanation":  "Łańcuchówka to typ wsi charakterystyczny dla południowej Polski (tereny górskie i wyżynne); jej zabudowa ciągnie się wzdłuż drogi w dolinie."
+                                       },
+                                       {
+                                           "sentence":  "Proces semiurbanizacji oznacza formalne nadanie wsi praw miejskich przez władze państwowe.",
+                                           "answer":  false,
+                                           "explanation":  "Semiurbanizacja to proces upodabniania się wsi do miasta pod względem stylu życia i funkcji, ale bez zmiany statusu prawnego na miejski; zachodzi on na obszarach nieprzylegających bezpośrednio do aglomeracji."
+                                       },
+                                       {
+                                           "sentence":  "Wsie typu owalnica charakteryzują się centralnym placem (nawsiem) otoczonym przez dwie ulice.",
+                                           "answer":  true,
+                                           "explanation":  "Owalnica to wieś placowa o owalnym kształcie wyznaczonym przez dwie ulice ze zwartą zabudową, które otaczają centralny plac."
+                                       },
+                                       {
+                                           "sentence":  "Na obszarach wiejskich położonych w strefach podmiejskich dużych miast dominuje funkcja rezydencjalna (mieszkaniowa).",
+                                           "answer":  true,
+                                           "explanation":  "W strefach podmiejskich buduje się osiedla domów jedno- i wielorodzinnych dla osób pracujących w mieście, co określa się mianem funkcji mieszkaniowej lub rezydencjalnej."
+                                       },
+                                       {
+                                           "sentence":  "Rzędówka to typ wsi, w której zabudowa znajduje się po obu stronach drogi, tworząc zwarty ciąg.",
+                                           "answer":  false,
+                                           "explanation":  "Opis ten dotyczy ulicówki. Rzędówka charakteryzuje się luźną zabudową skupioną najczęściej tylko po jednej stronie drogi."
+                                       },
+                                       {
+                                           "sentence":  "Największą gęstością wiejskiej sieci osadniczej w Polsce wyróżniają się województwa polski północno-zachodniej, np. zachodniopomorskie.",
+                                           "answer":  false,
+                                           "explanation":  "Największą gęstość sieci wiejskiej (dużo małych wsi) mają województwa centralne i południowo-wschodnie (np. łódzkie, mazowieckie). Województwa zachodniopomorskie czy lubuskie mają rzadszą sieć, ale przeważają tam wsie duże."
+                                       },
+                                       {
+                                           "sentence":  "Urban sprawl (rozlewanie się miast) na tereny wiejskie jest zjawiskiem korzystnym, ponieważ obniża koszty infrastruktury.",
+                                           "answer":  false,
+                                           "explanation":  "Jest to zjawisko negatywne; chaotyczna zabudowa na terenach rolniczych zwiększa koszty budowy dróg i infrastruktury oraz powoduje problemy komunikacyjne."
+                                       },
+                                       {
+                                           "sentence":  "Ludność wiejska na terenach peryferyjnych (z dala od dużych miast) starzeje się szybciej z powodu odpływu młodych ludzi.",
+                                           "answer":  true,
+                                           "explanation":  "Obszary wiejskie oddalone od aglomeracji doświadczają depopulacji i starzenia się społeczeństwa, co wynika z ujemnego salda migracji, głównie osób młodych."
+                                       }
+                                   ]
+                 }
+}

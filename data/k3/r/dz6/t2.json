@@ -1,0 +1,357 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz6-t2",
+                     "title":  "Ochrona środowiska przyrodniczego w Polsce",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Park narodowy",
+                                              "definition":  "Najważniejsza forma ochrony przyrody w Polsce obejmująca obszary o powierzchni powyżej 1000 ha, wyróżniające się wybitnymi walorami przyrodniczymi."
+                                          },
+                                          {
+                                              "term":  "Rezerwat przyrody",
+                                              "definition":  "Obszar objęty ochroną ze względu na zachowanie określonych elementów przyrody (np. rzadkich roślin, zwierząt, form geologicznych), zwykle mniejszy niż 500 ha."
+                                          },
+                                          {
+                                              "term":  "Park krajobrazowy",
+                                              "definition":  "Obszar o nieprzeciętnych walorach przyrodniczych i kulturowych, gdzie dopuszczalna jest działalność gospodarcza niepowodująca degradacji krajobrazu."
+                                          },
+                                          {
+                                              "term":  "Obszar chronionego krajobrazu",
+                                              "definition":  "Rozległy teren wyróżniający się krajobrazowo, często łączący inne formy ochrony i pełniący funkcję korytarza ekologicznego."
+                                          },
+                                          {
+                                              "term":  "Pomnik przyrody",
+                                              "definition":  "Pojedynczy obiekt przyrodniczy (np. sędziwe drzewo, głaz narzutowy) lub ich skupisko, objęte ochroną ze względu na wartości naukowe lub historyczne."
+                                          },
+                                          {
+                                              "term":  "Stanowisko dokumentacyjne",
+                                              "definition":  "Niewielki obszar cenny naukowo i dydaktycznie, np. odsłonięcie geologiczne czy jaskinia."
+                                          },
+                                          {
+                                              "term":  "Użytek ekologiczny",
+                                              "definition":  "Pozostałość ekosystemu mająca znaczenie dla bioróżnorodności, np. śródpolne oczko wodne, kępa drzew lub bagno."
+                                          },
+                                          {
+                                              "term":  "Zespół przyrodniczo-krajobrazowy",
+                                              "definition":  "Fragment krajobrazu chroniony głównie ze względu na walory widokowe i estetyczne."
+                                          },
+                                          {
+                                              "term":  "Ochrona gatunkowa",
+                                              "definition":  "Obejmuje rzadkie i zagrożone gatunki roślin, zwierząt i grzybów, zakazując ich niszczenia czy zabijania (dotyczy ponad 800 gatunków zwierząt)."
+                                          },
+                                          {
+                                              "term":  "Rezerwat ścisły",
+                                              "definition":  "Część rezerwatu przyrody objęta całkowitym zakazem wstępu i jakiejkolwiek ingerencji człowieka w procesy naturalne."
+                                          },
+                                          {
+                                              "term":  "Sieć Natura 2000",
+                                              "definition":  "Europejska sieć ekologiczna wprowadzona w Polsce w 2004 r., chroniąca zagrożone w skali Europy siedliska i gatunki (ptasie i siedliskowe)."
+                                          },
+                                          {
+                                              "term":  "Restytucja gatunku",
+                                              "definition":  "Działania mające na celu odbudowę populacji gatunku zagrożonego wyginięciem poprzez hodowlę rezerwatową i ścisłą ochronę (np. żubra, bobra)."
+                                          },
+                                          {
+                                              "term":  "Reintrodukcja",
+                                              "definition":  "Ponowne wprowadzenie do środowiska naturalnego osobników gatunku, który wcześniej na danym terenie wyginął lub został wytępiony."
+                                          },
+                                          {
+                                              "term":  "Rezerwat Biosfery (MaB)",
+                                              "definition":  "Obszar włączony do międzynarodowego programu UNESCO „Człowiek i Biosfera”, promujący zrównoważoną relację człowieka ze środowiskiem (11 w Polsce)."
+                                          },
+                                          {
+                                              "term":  "Konwencja Ramsarska",
+                                              "definition":  "Międzynarodowy układ chroniący obszary wodno-błotne (np. Jezioro Łuknajno, Biebrzański PN), mający na celu zachowanie siedlisk ptaków wodnych."
+                                          },
+                                          {
+                                              "term":  "Korytarz ekologiczny",
+                                              "definition":  "Wąski pas terenu (np. rzeka, pas lasu) umożliwiający migrację zwierząt i roślin między odizolowanymi obszarami chronionymi."
+                                          },
+                                          {
+                                              "term":  "Endemit",
+                                              "definition":  "Organizm, który w naturalnych warunkach występuje tylko na określonym, niewielkim obszarze (np. brzoza ojcowska, traszka karpacka)."
+                                          },
+                                          {
+                                              "term":  "Relikt",
+                                              "definition":  "Gatunek z minionych epok geologicznych, który przetrwał w niezmienionej formie do czasów współczesnych (np. wierzba lapońska)."
+                                          },
+                                          {
+                                              "term":  "Ochrona czynna",
+                                              "definition":  "Zabiegi ochronne ingerujące w przyrodę w celu ratowania gatunków lub siedlisk, np. hodowla i dokarmianie zwierząt."
+                                          },
+                                          {
+                                              "term":  "Ustawa o ochronie przyrody",
+                                              "definition":  "Akt prawny z 16 kwietnia 2004 r., definiujący cele, zasady i formy ochrony przyrody w Polsce."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Biebrzański Park Narodowy",
+                                                 "pair2":  "Największy park narodowy w Polsce, chroniący rozległe bagna i torfowiska"
+                                             },
+                                             {
+                                                 "pair1":  "Ojcowski Park Narodowy",
+                                                 "pair2":  "Najmniejszy park narodowy w Polsce, słynący z form krasowych i jaskiń"
+                                             },
+                                             {
+                                                 "pair1":  "Park Narodowy „Ujście Warty”",
+                                                 "pair2":  "Najmłodszy park narodowy w Polsce (powstały w 2001 r.), ostoja ptaków wodno-błotnych"
+                                             },
+                                             {
+                                                 "pair1":  "Pieniński Park Narodowy",
+                                                 "pair2":  "Najstarszy park narodowy w Polsce (1932 r.), obejmujący Przełom Dunajca i Trzy Korony"
+                                             },
+                                             {
+                                                 "pair1":  "Białowieski Park Narodowy",
+                                                 "pair2":  "Chroni las zbliżony do pierwotnego i populację żubra (symbol parku)"
+                                             },
+                                             {
+                                                 "pair1":  "Świętokrzyski Park Narodowy",
+                                                 "pair2":  "Charakteryzuje się występowaniem gołoborzy oraz puszczy jodłowej"
+                                             },
+                                             {
+                                                 "pair1":  "Słowiński Park Narodowy",
+                                                 "pair2":  "Obejmuje ruchome wydmy i jeziora przybrzeżne; Rezerwat Biosfery UNESCO"
+                                             },
+                                             {
+                                                 "pair1":  "Sieć Natura 2000",
+                                                 "pair2":  "Najmłodsza forma ochrony w Polsce (od 2004 r.), wyznaczana niezależnie od granic państwowych"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Ile parków narodowych funkcjonuje obecnie na terenie Polski?",
+                                      "options":  [
+                                                      "Obecnie istnieje 16 parków narodowych",
+                                                      "Obecnie istnieją 23 parki narodowe",
+                                                      "Obecnie istnieje 30 parków narodowych",
+                                                      "Obecnie istnieje 45 parków narodowych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na terenie Polski istnieją 23 parki narodowe, które obejmują obszary o powierzchni większej niż 1000 ha,."
+                                  },
+                                  {
+                                      "question":  "Która forma ochrony przyrody jest uznawana za najważniejszą i najwyższą w Polsce?",
+                                      "options":  [
+                                                      "Park krajobrazowy",
+                                                      "Użytek ekologiczny",
+                                                      "Park narodowy",
+                                                      "Obszar chronionego krajobrazu"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Parki narodowe są najważniejszą formą ochrony przyrody w Polsce, chroniącą obszary o wybitnych walorach przyrodniczych, gdzie ochronie podlega cała przyroda."
+                                  },
+                                  {
+                                      "question":  "Jaka jest minimalna powierzchnia wymagana do utworzenia parku narodowego w Polsce?",
+                                      "options":  [
+                                                      "Minimum 100 hektarów",
+                                                      "Minimum 500 hektarów",
+                                                      "Minimum 1000 hektarów",
+                                                      "Minimum 5000 hektarów"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Parki narodowe obejmują obszary o powierzchni większej niż 1 tys. ha (1000 hektarów)."
+                                  },
+                                  {
+                                      "question":  "Na czym polega główna różnica w restrykcjach między parkiem narodowym a krajobrazowym?",
+                                      "options":  [
+                                                      "W parku krajobrazowym zabroniony jest całkowicie wstęp turystów",
+                                                      "W parku narodowym dopuszcza się budowę fabryk i autostrad",
+                                                      "W parku krajobrazowym można prowadzić działalność gospodarczą",
+                                                      "Park krajobrazowy jest formą ochrony wyłącznie międzynarodowej"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W parkach krajobrazowych można prowadzić działalność gospodarczą, która nie powoduje znacznego przekształcenia krajobrazu, w przeciwieństwie do parków narodowych nastawionych na ochronę ścisłą i naukę."
+                                  },
+                                  {
+                                      "question":  "Jaki jest główny cel tworzenia obszarów sieci Natura 2000?",
+                                      "options":  [
+                                                      "Całkowity zakaz wstępu ludzi na chroniony teren",
+                                                      "Ochrona gatunków i siedlisk cennych w skali UE",
+                                                      "Ochrona wyłącznie ptaków wodnych i błotnych",
+                                                      "Promowanie turystyki masowej w regionach rolniczych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Celem sieci Natura 2000 jest zachowanie siedlisk i gatunków cennych i zagrożonych w skali całej Europy, zgodnie z dyrektywami UE."
+                                  },
+                                  {
+                                      "question":  "Które zwierzę jest przykładem sukcesu restytucji gatunku w Polsce?",
+                                      "options":  [
+                                                      "Niedźwiedź brunatny",
+                                                      "Bóbr europejski",
+                                                      "Wilk szary",
+                                                      "Ryś euroazjatycki"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dzięki restytucji i ochronie czynnej, populacja bobra europejskiego, któremu groziło wyginięcie, wzrosła do ponad 130 tys. osobników."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się rezerwat ścisły?",
+                                      "options":  [
+                                                      "Dopuszcza się w nim polowania i planową wycinkę drzew",
+                                                      "Całkowitym zakazem ingerencji człowieka w procesy naturalne",
+                                                      "Jest to teren przeznaczony głównie pod zabudowę rekreacyjną",
+                                                      "Można tam swobodnie zbierać grzyby i owoce leśne"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Rezerwaty ścisłe są objęte całkowitym zakazem wstępu (z wyjątkami) i wszelkie formy ingerencji człowieka są tam zabronione."
+                                  },
+                                  {
+                                      "question":  "Który park narodowy w Polsce jest najstarszy?",
+                                      "options":  [
+                                                      "Białowieski Park Narodowy",
+                                                      "Tatrzański Park Narodowy",
+                                                      "Pieniński Park Narodowy",
+                                                      "Wielkopolski Park Narodowy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  ", Pieniński Park Narodowy (utworzony w 1932 r.) jest najstarszym parkiem narodowym w Polsce."
+                                  },
+                                  {
+                                      "question":  "Jaką funkcję w systemie ochrony przyrody pełnią korytarze ekologiczne?",
+                                      "options":  [
+                                                      "Skutecznie oddzielają tereny przemysłowe od mieszkalnych",
+                                                      "Umożliwiają migrację zwierząt między obszarami chronionymi",
+                                                      "Służą wyłącznie do transportu drewna z lasu do tartaku",
+                                                      "Są strefami zrzutu ścieków oczyszczonych do rzek"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Korytarze ekologiczne to wąskie pasy terenu łączące obszary chronione, co umożliwia migrację zwierząt i rozprzestrzenianie się roślin."
+                                  },
+                                  {
+                                      "question":  "Co jest przedmiotem ochrony Konwencji Ramsarskiej?",
+                                      "options":  [
+                                                      "Obszary wodno-błotne i żyjące na nich ptactwo",
+                                                      "Zabytki architektury drewnianej i sakralnej",
+                                                      "Złoża surowców mineralnych i energetycznych",
+                                                      "Tradycyjne metody uprawy roli i hodowli"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Konwencja Ramsarska dotyczy ochrony obszarów wodno-błotnych i żyjących na nich gatunków, zwłaszcza ptaków."
+                                  },
+                                  {
+                                      "question":  "Który park narodowy jest największy w Polsce i chroni rozległe obszary bagienne?",
+                                      "options":  [
+                                                      "Kampinoski Park Narodowy",
+                                                      "Biebrzański Park Narodowy",
+                                                      "Słowiński Park Narodowy",
+                                                      "Bieszczadzki Park Narodowy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Biebrzański Park Narodowy ma największą powierzchnię (592,2 km²) i chroni obszary bagienne oraz torfowiska."
+                                  },
+                                  {
+                                      "question":  "Dlaczego Tatrzański Park Narodowy jest miejscem występowania wielu endemitów?",
+                                      "options":  [
+                                                      "Ze względu na sztuczne wprowadzanie gatunków",
+                                                      "Z powodu klimatu wysokogórskiego i izolacji siedlisk",
+                                                      "Ponieważ jest to teren nizinny o łagodnym klimacie",
+                                                      "Dzięki bezpośredniej bliskości Morza Bałtyckiego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Tatrzański PN chroni unikatowe w skali kraju ekosystemy wysokogórskie, co sprzyja występowaniu endemitów i reliktów, takich jak kozica tatrzańska i świstak."
+                                  },
+                                  {
+                                      "question":  "Czym jest „restytucja gatunku” w ochronie przyrody?",
+                                      "options":  [
+                                                      "Całkowitym i bezwzględnym zakazem hodowli danego gatunku",
+                                                      "Odbudową populacji gatunku poprzez hodowlę i ochronę",
+                                                      "Polowaniem na gatunki inwazyjne zagrażające ekosystemowi",
+                                                      "Przesiedlaniem zwierząt do ogrodów zoologicznych na stałe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Restytucja to odbudowywanie gatunków zagrożonych wyginięciem poprzez ścisłą ochronę i hodowlę rezerwatową, a następnie reintrodukcję."
+                                  },
+                                  {
+                                      "question":  "Co to jest „użytek ekologiczny”?",
+                                      "options":  [
+                                                      "Teren przeznaczony pod uprawy ekologiczne",
+                                                      "Pozostałość ekosystemu ważna dla bioróżnorodności",
+                                                      "Elektrownia wiatrowa lub słoneczna",
+                                                      "Miejsce składowania odpadów biodegradowalnych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Użytki ekologiczne to zazwyczaj niewielkie pozostałości ekosystemów, takie jak śródpolne oczka wodne czy kępy drzew, mające znaczenie dla zachowania różnorodności biologicznej."
+                                  },
+                                  {
+                                      "question":  "Który z parków narodowych został wpisany na listę rezerwatów biosfery UNESCO?",
+                                      "options":  [
+                                                      "Woliński Park Narodowy",
+                                                      "Słowiński Park Narodowy",
+                                                      "Narwiański Park Narodowy",
+                                                      "Wigierski Park Narodowy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Słowiński Park Narodowy chroni ruchome wydmy i jeziora przybrzeżne oraz jest Rezerwatem Biosfery UNESCO."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "W parkach narodowych dozwolona jest swobodna działalność gospodarcza i budowlana, podobnie jak w parkach krajobrazowych.",
+                                           "answer":  false,
+                                           "explanation":  "Parki narodowe chronią przyrodę w stanie naturalnym i mają na celu jej zachowanie przed zniszczeniem, podczas gdy działalność gospodarczą dopuszcza się w parkach krajobrazowych, o ile nie przekształca ona znacznie krajobrazu."
+                                       },
+                                       {
+                                           "sentence":  "Każdy z 23 parków narodowych w Polsce posiada automatycznie status Rezerwatu Biosfery UNESCO.",
+                                           "answer":  false,
+                                           "explanation":  "W Polsce istnieje 23 parki narodowe, ale tylko 11 obszarów (często obejmujących parki) posiada status Rezerwatu Biosfery UNESCO (MaB),."
+                                       },
+                                       {
+                                           "sentence":  "Ochrona ścisła w rezerwacie przyrody oznacza całkowity zakaz ingerencji człowieka w naturalne procesy przyrodnicze.",
+                                           "answer":  true,
+                                           "explanation":  "Rezerwaty ścisłe są objęte całkowitym zakazem wstępu (z wyjątkami), a wszelkie formy ingerencji człowieka są tam zabronione, co pozwala na swobodny przebieg procesów naturalnych."
+                                       },
+                                       {
+                                           "sentence":  "Sieć Natura 2000 to system, który zastąpił krajowe formy ochrony przyrody, takie jak parki narodowe i rezerwaty.",
+                                           "answer":  false,
+                                           "explanation":  "Sieć Natura 2000 jest niezależną, najmłodszą formą ochrony wprowadzoną w 2004 r. i funkcjonuje obok krajowego systemu, obejmując około 20% powierzchni Polski."
+                                       },
+                                       {
+                                           "sentence":  "Bóbr europejski jest w Polsce gatunkiem, który całkowicie wyginął i nie występuje już w środowisku naturalnym.",
+                                           "answer":  false,
+                                           "explanation":  "Dzięki skutecznej restytucji i ochronie czynnej populacja bobra w Polsce została odbudowana i liczy obecnie ponad 130 tys. osobników."
+                                       },
+                                       {
+                                           "sentence":  "W parkach krajobrazowych obowiązuje całkowity zakaz prowadzenia działalności gospodarczej.",
+                                           "answer":  false,
+                                           "explanation":  "Parki krajobrazowe chronią walory przyrodnicze i kulturowe, ale na ich terenie można prowadzić działalność gospodarczą, która nie powoduje znacznego przekształcenia krajobrazu."
+                                       },
+                                       {
+                                           "sentence":  "Turystykę w parkach narodowych można uprawiać na całym ich obszarze bez ograniczeń.",
+                                           "answer":  false,
+                                           "explanation":  "W parkach narodowych ruch turystyczny może odbywać się wyłącznie po wyznaczonych szlakach."
+                                       },
+                                       {
+                                           "sentence":  "Termin „reintrodukcja” oznacza hodowlę zagrożonego gatunku w zamknięciu (np. w zoo).",
+                                           "answer":  false,
+                                           "explanation":  "Reintrodukcja to ponowne wprowadzenie gatunku do środowiska naturalnego (wypuszczenie na wolność), natomiast hodowla i działania naprawcze to elementy restytucji."
+                                       },
+                                       {
+                                           "sentence":  "Głównym aktem prawnym regulującym ochronę przyrody w Polsce jest Ustawa z dnia 16 kwietnia 2004 roku.",
+                                           "answer":  true,
+                                           "explanation":  "Podstawą prawną systemu ochrony przyrody w Polsce jest Ustawa o ochronie przyrody z 16 kwietnia 2004 r."
+                                       },
+                                       {
+                                           "sentence":  "Endemity to gatunki, które występują pospolicie na terenie całego kraju i Europy.",
+                                           "answer":  false,
+                                           "explanation":  "Endemity to organizmy unikatowe, które w naturalnych warunkach występują tylko na określonym, niewielkim obszarze, np. brzoza ojcowska."
+                                       },
+                                       {
+                                           "sentence":  "Sieć Natura 2000 ma na celu ochronę wszystkich gatunków zwierząt żyjących w Europie.",
+                                           "answer":  false,
+                                           "explanation":  "Celem sieci Natura 2000 jest zachowanie szczególnie cennych i zagrożonych wyginięciem w skali Europy gatunków oraz ich siedlisk, a nie wszystkich gatunków."
+                                       },
+                                       {
+                                           "sentence":  "Pomniki przyrody w Polsce to wyłącznie pojedyncze, sędziwe drzewa.",
+                                           "answer":  false,
+                                           "explanation":  "Choć są to przede wszystkim drzewa, pomnikami przyrody mogą być także grupy drzew, aleje, a w szerszym ujęciu (poza ścisłym tekstem źródłowym, choć tekst wymienia „przede wszystkim drzewa”) także inne obiekty; tekst podręcznika skupia się na drzewach, ale definicja prawna jest szersza."
+                                       }
+                                   ]
+                 }
+}

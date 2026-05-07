@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t4",
+    "title": "Migracje",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Imigracja",
+        "definition": "Napływ ludności na dane terytorium."
+      },
+      {
+        "term": "Emigracja",
+        "definition": "Odpływ ludności z określonego obszaru w celu zmiany miejsca zamieszkania."
+      },
+      {
+        "term": "Reemigracja",
+        "definition": "Powrót emigrantów do poprzedniego miejsca zamieszkania."
+      },
+      {
+        "term": "Saldo migracji",
+        "definition": "Różnica między liczbą imigrantów a liczbą emigrantów w określonym czasie na danym obszarze."
+      },
+      {
+        "term": "Współczynnik salda migracji",
+        "definition": "Wartość salda migracji przeliczona na 1000 mieszkańców danego terytorium i wyrażana w promilach."
+      },
+      {
+        "term": "Uchodźstwo",
+        "definition": "Rodzaj zagranicznych migracji wymuszonych zagrożeniem życia, na przykład konfliktami zbrojnymi, prześladowaniami na różnym tle czy klęskami żywiołowymi."
+      },
+      {
+        "term": "Drenaż mózgów",
+        "definition": "Zjawisko zatrudniania przez kraje wysoko rozwinięte bardzo dobrze wykształconych i wykwalifikowanych pracowników (np. lekarzy, informatyków) pochodzących z innych państw."
+      },
+      {
+        "term": "Czynniki przyciągające (pull)",
+        "definition": "Aspekty zachęcające do osiedlenia się w danym miejscu, np. większe szanse na znalezienie pracy, wyższe zarobki, poczucie bezpieczeństwa i wyższy standard życia."
+      },
+      {
+        "term": "Czynniki wypychające (push)",
+        "definition": "Problemy skłaniające ludzi do opuszczenia miejsca zamieszkania, np. wysoki poziom bezrobocia, ubóstwo, konflikty, klęski żywiołowe i prześladowania."
+      },
+      {
+        "term": "Główne kierunki współczesnych migracji zagranicznych",
+        "definition": "Przepływ ludności głównie z państw słabo i średnio rozwiniętych gospodarczo (np. w Ameryce Łacińskiej, Azji, Afryce) do krajów wysoko rozwiniętych (np. USA, Kanady, Europy Zachodniej)."
+      },
+      {
+        "term": "Sukcesja migracji",
+        "definition": "Zjawisko polegające na zastępowaniu emigrantów wyjeżdżających z danego kraju przez ludność napływową z uboższych państw ościennych."
+      },
+      {
+        "term": "Migracje",
+        "definition": "Wszelkie przemieszczenia ludzi związane ze stałą bądź czasową zmianą miejsca pobytu lub zamieszkania."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Migracja wymuszona bezpośrednim zagrożeniem życia, ucieczka przed wojną lub prześladowaniami (np. wyjazd mieszkańców Syrii)",
+        "pair2": "Uchodźstwo"
+      },
+      {
+        "pair1": "Wyjazd za granicę z obszarów uboższych z zamiarem poprawy warunków bytowych i znalezienia lepiej płatnej pracy",
+        "pair2": "Migracja ekonomiczna"
+      },
+      {
+        "pair1": "Odmłodzenie społeczeństwa, spadek bezrobocia strukturalnego w niektórych branżach oraz zwiększenie wpływów z podatków i rozwój wielokulturowości",
+        "pair2": "Pozytywny skutek dla kraju imigracyjnego"
+      },
+      {
+        "pair1": "Zmniejszenie liczby osób na rynku pracy (spadek bezrobocia) i transfer środków finansowych od bliskich pracujących za granicą",
+        "pair2": "Pozytywny skutek dla kraju emigracyjnego"
+      },
+      {
+        "pair1": "Nasilenie starzenia się społeczeństwa, rozpad rodzin z powodu rozłąki oraz utrata wykwalifikowanych, przedsiębiorczych pracowników",
+        "pair2": "Negatywny skutek dla kraju emigracyjnego"
+      },
+      {
+        "pair1": "Wzrost wydatków na pomoc socjalną dla bezrobotnych przybyszów, powstawanie izolowanych dzielnic obcokrajowców i napięcia społeczne",
+        "pair2": "Negatywny skutek dla kraju imigracyjnego"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Jak nazywa się powrót emigrantów do poprzedniego miejsca zamieszkania w swoim ojczystym kraju?",
+        "options": [
+          "Reemigracja ludności",
+          "Zagraniczna imigracja",
+          "Migracja wewnątrz państwa",
+          "Zjawisko uchodźstwa wojennego"
+        ],
+        "answer": "A",
+        "explanation": "Brak podstawowej opieki medycznej jest wymieniony jako jeden z negatywnych czynników wypychających obywateli z ojczyzny."
+      },
+      {
+        "question": "Co oznacza pojęcie imigracja w kontekście analizy współczesnych ruchów ludnościowych na świecie?",
+        "options": [
+          "Czasowy odpływ ludności z regionu",
+          "Napływ ludzi na dane terytorium",
+          "Zastępowanie jednych grup drugimi",
+          "Masowy powrót do kraju pochodzenia"
+        ],
+        "answer": "B",
+        "explanation": "Uchodźstwo to migracja wymuszona bezpośrednim zagrożeniem życia (np. konfliktami zbrojnymi, prześladowaniami). Wyjazdy w celu polepszenia warunków bytowych to migracje ekonomiczne."
+      },
+      {
+        "question": "Przeprowadzka obywatela z obszaru wiejskiego do wielkiego miasta zlokalizowanego w tym samym państwie to przykład:",
+        "options": [
+          "Zjawiska sukcesji migracyjnej",
+          "Skutku uchodźstwa wojennego",
+          "Zwykłej migracji wewnętrznej",
+          "Zarobkowej migracji zewnętrznej"
+        ],
+        "answer": "C",
+        "explanation": "Migracje wewnętrzne odbywają się w obrębie jednego państwa i obejmują m.in. ruchy z obszarów wiejskich do miejskich."
+      },
+      {
+        "question": "Różnica między liczbą imigrantów a liczbą emigrantów w określonym czasie na danym obszarze to:",
+        "options": [
+          "Zjawisko przyrostu rzeczywistego",
+          "Współczynnik zmiany demograficznej",
+          "Ogólny wskaźnik przyrostu ludności",
+          "Pojęcie salda migracji"
+        ],
+        "answer": "D",
+        "explanation": "Saldo migracji to różnica między liczbą imigrantów a liczbą emigrantów w danym czasie i na określonym terytorium."
+      },
+      {
+        "question": "Państwa, do których współcześnie przybywa znacznie więcej osób niż z nich wyjeżdża, określa się w geografii jako:",
+        "options": [
+          "Bogate kraje imigracyjne",
+          "Zamknięte kraje azjatyckie",
+          "Typowe kraje emigracyjne",
+          "Kraje globalnego południa"
+        ],
+        "answer": "A",
+        "explanation": "Kraje imigracyjne to te, w których przeważa napływ ludności, do nich zaliczają się m.in. wysoko rozwinięte kraje świata."
+      },
+      {
+        "question": "Który z poniższych przykładów stanowi wyraźny czynnik wypychający (push) skłaniający do zagranicznych wyjazdów?",
+        "options": [
+          "Szansa wyższych zarobków w pracy",
+          "Bardzo wysoki standard życia",
+          "Gwarancja pełnego bezpieczeństwa",
+          "Brak opieki medycznej w kraju"
+        ],
+        "answer": "D",
+        "explanation": "Brak podstawowej opieki medycznej to jeden z negatywnych czynników wypychających obywateli z ojczyzny."
+      },
+      {
+        "question": "Który z wymienionych elementów jest pozytywnym czynnikiem przyciągającym (pull) dla potencjalnych migrantów?",
+        "options": [
+          "Niezmiernie wysoki poziom bezrobocia",
+          "Przerażający brak praw obywatelskich",
+          "Poczucie bezpieczeństwa i spokoju",
+          "Katastrofalne uwarunkowania pogodowe"
+        ],
+        "answer": "C",
+        "explanation": "Poczucie bezpieczeństwa jest typowym czynnikiem przyciągającym (pull) migrantów do krajów docelowych."
+      },
+      {
+        "question": "Co jest najczęściej wskazywanym pozytywnym skutkiem migracji dla państwa o profilu zdecydowanie emigracyjnym?",
+        "options": [
+          "Zauważalny spadek bezrobocia na miejscu",
+          "Znaczne odmłodzenie struktury demograficznej",
+          "Podniesienie poziomu wpływów budżetowych",
+          "Szybki rozwój lokalnej wielokulturowości"
+        ],
+        "answer": "A",
+        "explanation": "Wypływ ludzi w wieku produkcyjnym zmniejsza konkurencję na rynku pracy w kraju pochodzenia, obniżając bezrobocie."
+      },
+      {
+        "question": "Istotnym negatywnym skutkiem społeczno-gospodarczym, który bardzo często dotyka kraje tracące obywateli (emigracyjne), jest:",
+        "options": [
+          "Pojawienie się izolowanych dzielnic biedy",
+          "Drastyczne zwiększenie wydatków socjalnych",
+          "Utrata wykwalifikowanych pracowników",
+          "Ogromny wzrost bezrobocia wśród obywateli"
+        ],
+        "answer": "C",
+        "explanation": "Kraje emigracyjne tracą przedsiębiorczych i dobrze wykształconych pracowników, co osłabia ich własną gospodarkę."
+      },
+      {
+        "question": "Proces masowego zatrudniania przez kraje bogate wysoce wykwalifikowanych i świetnie wykształconych specjalistów z zagranicy to:",
+        "options": [
+          "Zjawisko regresu demograficznego",
+          "Proces sukcesji społeczno-migracyjnej",
+          "Zjawisko drenażu mózgów",
+          "Powszechna implozja wielkiej populacji"
+        ],
+        "answer": "C",
+        "explanation": "Drenaż mózgów to pojęcie oznaczające pozyskiwanie wykwalifikowanych kadr, których proces edukacji opłaciło inne państwo."
+      },
+      {
+        "question": "Mechanizm stopniowego zastępowania obywateli wyjeżdżających za granicę przez nową ludność napływową z państw uboższych to:",
+        "options": [
+          "Powszechny regres demograficzny",
+          "Proces sukcesji migracyjnej",
+          "Masowy drenaż światowych mózgów",
+          "Zjawisko uchodźstwa uwarunkowanego"
+        ],
+        "answer": "B",
+        "explanation": "Sukcesja migracyjna to zastępowanie w danym państwie wyjeżdżających za granicę obywateli przez przybyszów z krajów uboższych."
+      },
+      {
+        "question": "Mieszkańcy uboższych państw leżących w Ameryce Łacińskiej oraz Azji najczęściej wybierają jako cel docelowy podróży:",
+        "options": [
+          "Państwa zlokalizowane na Bliskim Wschodzie",
+          "Stany Zjednoczone i bogatą Kanadę",
+          "Najbiedniejsze kraje kontynentu afrykańskiego",
+          "Różnorodne państwa Europy Środkowo-Wschodniej"
+        ],
+        "answer": "B",
+        "explanation": "Mieszkańcy Ameryki Łacińskiej oraz wschodniej Azji koncentrują swoje wyjazdy w kierunku USA i Kanady."
+      },
+      {
+        "question": "Z jakich trzech państw pochodziło łącznie prawie sześćdziesiąt procent wszystkich uciekających uchodźców na świecie w 2018 roku?",
+        "options": [
+          "Turcji, sąsiedniego Pakistanu oraz z Libanu",
+          "Iraku, wschodniej Somalii a także z Etiopii",
+          "Indii, wyspiarskich Filipin oraz z Indonezji",
+          "Syrii, Afganistanu oraz Sudanu Południowego"
+        ],
+        "answer": "D",
+        "explanation": "Blisko 60% uchodźców w 2018 r. pochodziło właśnie z Syrii, Afganistanu i Sudanu Południowego."
+      },
+      {
+        "question": "Które ze zjawisk finansowo-budżetowych stanowi często poważny problem i negatywny skutek dla bogatych państw imigracyjnych?",
+        "options": [
+          "Utrata świetnie wykształconych młodych ludzi",
+          "Błyskawiczne starzenie się lokalnej populacji",
+          "Znaczny spadek przychodów podatkowych państwa",
+          "Wzrost wydatków socjalnych państwa"
+        ],
+        "answer": "D",
+        "explanation": "Kraje przyjmujące muszą liczyć się z kosztami pomocy socjalnej dla imigrantów, którzy są bezrobotni lub potrzebują wsparcia na start."
+      },
+      {
+        "question": "W jaki sposób masowy napływ młodych obcokrajowców do pracy najczęściej oddziałuje na strukturę demograficzną państwa przyjmującego?",
+        "options": [
+          "Skutkuje odmłodzeniem społeczeństwa",
+          "Znacznie przyspiesza starzenie się mieszkańców",
+          "Zmniejsza drastycznie wskaźniki reprodukcji bazy",
+          "Powoduje masowy rozpad wielopokoleniowych rodzin"
+        ],
+        "answer": "A",
+        "explanation": "Ze względu na to, że w migracje zarobkowe angażują się przeważnie ludzie młodzi, w państwie imigracyjnym następuje odmłodzenie społeczeństwa."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Wysoki standard życia, powszechny dostęp do opieki zdrowotnej oraz poczucie bezpieczeństwa to główne czynniki wypychające (push), które decydują o masowych wyjazdach ludności z państw wysoko rozwiniętych.",
+        "answer": false,
+        "explanation": "Wysoki standard życia i poczucie bezpieczeństwa to czynniki przyciągające (pull), które zachęcają imigrantów do przyjazdu, a nie czynniki wypychające (push)."
+      },
+      {
+        "sentence": "Zjawisko reemigracji polega na masowym napływie wykwalifikowanych pracowników do krajów wysoko rozwiniętych, w celu trwałej zmiany ich obywatelstwa.",
+        "answer": false,
+        "explanation": "Reemigracja to powrót emigrantów do poprzedniego miejsca zamieszkania (ojczyzny), a napływ wykwalifikowanych pracowników do innych krajów to imigracja (często wiążąca się ze zjawiskiem drenażu mózgów)."
+      },
+      {
+        "sentence": "Zjawisko drenażu mózgów jest oceniane jako zdecydowanie negatywny skutek dla krajów imigracyjnych, ponieważ zmusza je do ponoszenia ogromnych kosztów edukacji napływających specjalistów.",
+        "answer": false,
+        "explanation": "Drenaż mózgów jest zjawiskiem korzystnym dla krajów imigracyjnych, ponieważ pozwala im korzystać z wiedzy i doświadczenia wykwalifikowanych osób, za których edukację zapłaciło inne państwo (kraj emigracyjny)."
+      },
+      {
+        "sentence": "Saldo migracji to różnica między liczbą imigrantów a liczbą emigrantów w określonym czasie na danym obszarze.",
+        "answer": true,
+        "explanation": "Saldo migracji to różnica między liczbą napływających imigrantów a liczbą wyjeżdżających emigrantów."
+      },
+      {
+        "sentence": "Uchodźstwo jest rodzajem migracji, w którym głównym motywem opuszczenia kraju jest chęć polepszenia warunków bytowych i znalezienia lepiej płatnej pracy w państwach sąsiednich.",
+        "answer": false,
+        "explanation": "Uchodźstwo to migracja wymuszona bezpośrednim zagrożeniem życia (np. konfliktami zbrojnymi, prześladowaniami). Wyjazdy w celu polepszenia warunków bytowych to migracje ekonomiczne."
+      },
+      {
+        "sentence": "Jednym z pozytywnych skutków napływu dużej liczby młodych imigrantów dla państwa przyjmującego jest odmłodzenie jego struktury wiekowej.",
+        "answer": true,
+        "explanation": "W migracjach zagranicznych uczestniczą głównie ludzie młodzi, dlatego ich napływ prowadzi do pozytywnego zjawiska, jakim jest odmłodzenie społeczeństwa w docelowym państwie imigracyjnym."
+      },
+      {
+        "sentence": "Proces wyludniania się wsi na skutek masowych wyjazdów ludności do wielkich ośrodków miejskich w tym samym kraju to przykład współczesnych migracji zagranicznych.",
+        "answer": false,
+        "explanation": "Przemieszczanie się ludności ze wsi do miast w obrębie tego samego państwa to przykład migracji wewnętrznych, a nie zagranicznych."
+      },
+      {
+        "sentence": "W państwach o ujemnym saldzie migracji (krajach emigracyjnych) jednym z głównych pozytywnych skutków odpływu ludności jest spadek poziomu bezrobocia na lokalnym rynku pracy.",
+        "answer": true,
+        "explanation": "Odpływ pracowników za granicę zmniejsza konkurencję na lokalnym rynku pracy, co skutkuje korzystnym dla kraju emigracyjnego spadkiem bezrobocia."
+      },
+      {
+        "sentence": "Zjawisko sukcesji migracyjnej polega na całkowitym zasymilowaniu się imigrantów z rdzenną ludnością i przyjęciu przez nich języka urzędowego państwa przyjmującego.",
+        "answer": false,
+        "explanation": "Sukcesja migracyjna to zjawisko polegające na zastępowaniu emigrantów wyjeżdżających z danego kraju przez ludność napływową z uboższych państw ościennych, a nie asymilacja kulturowo-językowa."
+      },
+      {
+        "sentence": "Według danych z 2018 roku, blisko 60% wszystkich uchodźców na świecie pochodziło zaledwie z trzech państw: Syrii, Afganistanu i Sudanu Południowego.",
+        "answer": true,
+        "explanation": "Blisko 60% uchodźców w 2018 roku pochodziło właśnie z Syrii, Afganistanu i Sudanu Południowego."
+      },
+      {
+        "sentence": "Masowy napływ imigrantów do bogatych krajów Zachodu zawsze skutkuje natychmiastowym obniżeniem wydatków państwa na pomoc socjalną, ponieważ wszyscy przybysze od razu podejmują pracę.",
+        "answer": false,
+        "explanation": "Jednym z negatywnych skutków dla państw imigracyjnych jest wzrost (a nie obniżenie) wydatków państwa na pomoc socjalną dla bezrobotnych i bezdomnych imigrantów."
+      },
+      {
+        "sentence": "Katastrofy o charakterze ekologicznym, takie jak skażenie radioaktywne środowiska w wyniku awarii, zaliczane są do czynników wypychających (push), zmuszających ludzi do zmiany miejsca zamieszkania.",
+        "answer": true,
+        "explanation": "Katastrofy ekologiczne stanowią bezpośrednie zagrożenie i utrudnienie życia, dlatego są wprost wymienione w tekście jako jeden z czynników wypychających (push)."
+      }
+    ]
+  }
+}

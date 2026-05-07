@@ -1,0 +1,327 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t8",
+                     "title":  "Zróżnicowanie aktywności obywatelskiej i preferencji wyborczych",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Frekwencja wyborcza",
+                                              "definition":  "Odsetek uprawnionych do głosowania obywateli, którzy wzięli udział w wyborach (oddali głos)."
+                                          },
+                                          {
+                                              "term":  "Czynne prawo wyborcze",
+                                              "definition":  "Prawo obywatela do głosowania i wybierania przedstawicieli władzy (przysługuje od 18 roku życia)."
+                                          },
+                                          {
+                                              "term":  "Bierne prawo wyborcze",
+                                              "definition":  "Prawo obywatela do kandydowania w wyborach (np. na posła, senatora, prezydenta)."
+                                          },
+                                          {
+                                              "term":  "Referendum ogólnokrajowe",
+                                              "definition":  "Forma bezpośredniego decydowania obywateli o sprawach ważnych dla państwa; wynik jest wiążący, gdy weźmie w nim udział ponad połowa uprawnionych."
+                                          },
+                                          {
+                                              "term":  "Opcja prawicowa",
+                                              "definition":  "Nurt polityczny odwołujący się do wartości tradycyjnych, narodowych, rodzinnych i religii katolickiej (duże poparcie w Polsce płd.-wsch.)."
+                                          },
+                                          {
+                                              "term":  "Opcja lewicowa",
+                                              "definition":  "Nurt polityczny akcentujący takie wartości jak wolność, równość i uniwersalne prawa człowieka (częstsze poparcie w miastach i na zachodzie)."
+                                          },
+                                          {
+                                              "term":  "Opcja liberalna",
+                                              "definition":  "Nurt polityczny dążący do ograniczenia roli państwa w gospodarce, wspierający wolny rynek i prywatną przedsiębiorczość."
+                                          },
+                                          {
+                                              "term":  "Opcja ludowa",
+                                              "definition":  "Nurt popierający ingerencję państwa w gospodarkę, rozbudowany system świadczeń socjalnych i wsparcie dla rolnictwa."
+                                          },
+                                          {
+                                              "term":  "Państwowa Komisja Wyborcza (PKW)",
+                                              "definition":  "Organ państwowy odpowiedzialny za organizację i przeprowadzanie wyborów w Polsce."
+                                          },
+                                          {
+                                              "term":  "Wybory Prezydenckie",
+                                              "definition":  "Rodzaj wyborów w Polsce, który cieszy się zazwyczaj najwyższą frekwencją wyborczą."
+                                          },
+                                          {
+                                              "term":  "Bastion wyborczy",
+                                              "definition":  "Region, w którym dana opcja polityczna uzyskuje stale bardzo wysokie, dominujące poparcie (np. Podkarpacie dla prawicy)."
+                                          },
+                                          {
+                                              "term":  "Fantomowe granice (w kontekście wyborczym)",
+                                              "definition":  "Zjawisko widoczne na mapach wyborczych, gdzie różnice w preferencjach i frekwencji pokrywają się z historycznymi granicami zaborów."
+                                          },
+                                          {
+                                              "term":  "Elektorat wielkomiejski",
+                                              "definition":  "Grupa wyborców z dużych miast, częściej głosująca na partie centrowe, liberalne i lewicowe."
+                                          },
+                                          {
+                                              "term":  "Kodeks wyborczy",
+                                              "definition":  "Akt prawny określający szczegółowe zasady przeprowadzania wyborów w Polsce."
+                                          },
+                                          {
+                                              "term":  "Polska A i Polska B (w kontekście politycznym)",
+                                              "definition":  "Potoczne określenie podziału politycznego kraju na część zachodnią (bardziej liberalną) i wschodnią (bardziej konserwatywną/ludową)."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Obszary dawnego zaboru pruskiego (Wielkopolska, Pomorze)",
+                                                 "pair2":  "Wyższa frekwencja wyborcza i przewaga elektoratu liberalnego"
+                                             },
+                                             {
+                                                 "pair1":  "Obszary dawnego zaboru rosyjskiego (Polska wschodnia i centralna)",
+                                                 "pair2":  "Stosunkowo niska frekwencja i wysokie poparcie dla opcji ludowej lub prawicowej"
+                                             },
+                                             {
+                                                 "pair1":  "Polska południowo-wschodnia (Małopolska, Podkarpacie - dawny zabór austriacki)",
+                                                 "pair2":  "Silny bastion elektoratu prawicowego (przywiązanie do tradycji i religii)"
+                                             },
+                                             {
+                                                 "pair1":  "Ziemie Odzyskane (Polska zachodnia i północna)",
+                                                 "pair2":  "Stosunkowo duże poparcie dla lewicy i liberałów (efekt zróżnicowanego pochodzenia ludności)"
+                                             },
+                                             {
+                                                 "pair1":  "Duże miasta (powyżej 500 tys. mieszkańców)",
+                                                 "pair2":  "Dominacja partii centrowych i liberalnych, najwyższa frekwencja"
+                                             },
+                                             {
+                                                 "pair1":  "Obszary wiejskie",
+                                                 "pair2":  "Dominacja partii prawicowych i ludowych, niższa frekwencja niż w dużych miastach"
+                                             },
+                                             {
+                                                 "pair1":  "Wybory do Parlamentu Europejskiego",
+                                                 "pair2":  "Tradycyjnie najniższa frekwencja wyborcza spośród wszystkich rodzajów wyborów"
+                                             },
+                                             {
+                                                 "pair1":  "Wyborcy z wyższym wykształceniem i dochodami",
+                                                 "pair2":  "Tendencja do głosowania na opcje liberalne i centrowe"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym jest frekwencja wyborcza?",
+                                      "options":  [
+                                                      "Liczbą partii politycznych i komitetów biorących udział w wyborach parlamentarnych.",
+                                                      "Odsetkiem uprawnionych do głosowania obywateli, którzy wzięli udział w wyborach",
+                                                      "Liczbą głosów ważnych oddanych na zwycięską partię w danym okręgu wyborczym.",
+                                                      "Procentem głosów nieważnych w stosunku do wszystkich oddanych kart wyborczych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Frekwencja to kluczowy wskaźnik aktywności obywatelskiej, pokazujący zaangażowanie społeczeństwa w procesy demokratyczne."
+                                  },
+                                  {
+                                      "question":  "W jakim rodzaju wyborów w Polsce odnotowuje się zazwyczaj najwyższą frekwencję?",
+                                      "options":  [
+                                                      "W wyborach do Parlamentu Europejskiego, które budzą najmniejsze zainteresowanie.",
+                                                      "W wyborach samorządowych, które mają charakter lokalny.",
+                                                      "W wyborach parlamentarnych (do Sejmu i Senatu), które decydują o kształcie rządu.",
+                                                      "W wyborach prezydenckich"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Wybory prezydenckie, ze względu na personalizację kampanii i prostotę wyboru, angażują największą część społeczeństwa (często powyżej 60%)."
+                                  },
+                                  {
+                                      "question":  "Ile wynosi kadencja Sejmu i Senatu Rzeczypospolitej Polskiej?",
+                                      "options":  [
+                                                      "2 lata, co sprzyjałoby częstszej weryfikacji polityków.",
+                                                      "4 lata",
+                                                      "5 lat, tyle samo co kadencja Prezydenta RP.",
+                                                      "6 lat, co jest standardem w niektórych krajach zachodnich (np. Senat USA)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zgodnie z Konstytucją RP kadencja parlamentu trwa 4 lata, chyba że zostanie skrócona (rozwiązanie Sejmu)."
+                                  },
+                                  {
+                                      "question":  "Jaki warunek musi zostać spełniony, aby wynik referendum ogólnokrajowego był wiążący dla władz?",
+                                      "options":  [
+                                                      "Musi w nim wziąć udział co najmniej 30% uprawnionych do głosowania obywateli.",
+                                                      "Większość głosujących (ponad 50%) musi poprzeć proponowane rozwiązanie.",
+                                                      "Musi w nim wziąć udział ponad połowa uprawnionych do głosowania",
+                                                      "Referendum jest zawsze wiążące dla władz, niezależnie od frekwencji."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wymóg 50% frekwencji jest często barierą trudną do przekroczenia, co sprawia, że wiele referendów ma charakter jedynie opiniodawczy."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na obszarach dawnego zaboru pruskiego (np. Wielkopolska, Pomorze) obserwuje się wyższą frekwencję wyborczą?",
+                                      "options":  [
+                                                      "Z powodu przymusu administracyjnego stosowanego przez władze lokalne.",
+                                                      "Wynika to z uwarunkowań historycznych – wyższego poziomu rozwoju cywilizacyjnego i tradycji aktywności obywatelskiej na tych terenach",
+                                                      "Ponieważ mieszka tam najwięcej osób starszych, które są bardziej zdyscyplinowane.",
+                                                      "Z powodu znacznie mniejszej liczby mieszkańców wsi w porównaniu do wschodu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dziedzictwo zaboru pruskiego (organizacje rolnicze, spółdzielczość, edukacja) ukształtowało postawy prospołeczne, które przetrwały do dziś."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzują się preferencje wyborcze mieszkańców dużych miast w Polsce w porównaniu do mieszkańców wsi?",
+                                      "options":  [
+                                                      "W miastach wyższe jest poparcie dla opcji liberalnej i centrowej, a na wsi dla ludowej i prawicowej",
+                                                      "W miastach i na wsiach głosuje się tak samo, nie ma różnic terytorialnych.",
+                                                      "W miastach dominuje elektorat ludowy, a na wsi liberalny (odwrócenie trendów).",
+                                                      "Mieszkańcy miast w ogóle nie głosują, ponieważ nie interesują się polityką."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Podział miasto-wieś jest jedną z głównych osi polaryzacji politycznej w Polsce, wynikającą z różnic w stylu życia i wartościach."
+                                  },
+                                  {
+                                      "question":  "W których regionach Polski frekwencja wyborcza jest zazwyczaj najniższa?",
+                                      "options":  [
+                                                      "W Małopolsce i na Mazowszu, gdzie aktywność jest tradycyjnie wysoka.",
+                                                      "W Wielkopolsce i na Pomorzu, które przodują w statystykach wyborczych.",
+                                                      "Na obszarach byłego zaboru rosyjskiego (np. świętokrzyskie) i na niektórych terenach Ziem Odzyskanych (np. opolskie, warmińsko-mazurskie)",
+                                                      "W dużych aglomeracjach miejskich, takich jak Warszawa czy Kraków."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Niska frekwencja na wschodzie i północy wynika często ze słabszego kapitału społecznego i mniejszego zaufania do instytucji państwowych."
+                                  },
+                                  {
+                                      "question":  "Kto najczęściej wygrywa wybory na wójtów i burmistrzów w małych gminach i miastach?",
+                                      "options":  [
+                                                      "Kandydaci największych partii politycznych z Warszawy.",
+                                                      "Osoby bezpartyjne i przedstawiciele lokalnych komitetów wyborczych",
+                                                      "Osoby wskazane bezpośrednio przez premiera w ramach centralizacji.",
+                                                      "Przedstawiciele radykalnych partii lewicowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W samorządach lokalnych wyborcy częściej stawiają na znanych sobie gospodarzy i działaczy lokalnych niż na szyldy partyjne."
+                                  },
+                                  {
+                                      "question":  "Jaką zależność obserwuje się między poziomem wykształcenia i dochodów a preferencjami politycznymi w Polsce?",
+                                      "options":  [
+                                                      "Wraz ze wzrostem wykształcenia i dochodów rośnie poparcie dla opcji liberalnych i centrowych",
+                                                      "Osoby z wyższym wykształceniem najczęściej głosują na partie ludowe.",
+                                                      "Poziom dochodów nie ma żadnego statystycznego wpływu na preferencje wyborcze.",
+                                                      "Najbogatsi wyborcy zawsze głosują na lewicę socjalną."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Grupy lepiej wykształcone i zamożniejsze częściej popierają ugrupowania promujące wolny rynek i wartości liberalne."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „fantomowe granice” w kontekście geografii wyborczej Polski?",
+                                      "options":  [
+                                                      "Są to granice województw, które istniały w PRL i nadal wpływają na administrację.",
+                                                      "To zjawisko, gdzie współczesne różnice w zachowaniach wyborczych pokrywają się z nieistniejącymi już granicami zaborów",
+                                                      "To granice okręgów wyborczych, które są utajnione przed wyborcami.",
+                                                      "To granice stref wpływów mediów lokalnych, które kształtują opinię publiczną."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mapy wyborcze Polski często odtwarzają granice rozbiorowe z XIX wieku, co świadczy o trwałości uwarunkowań kulturowych i historycznych."
+                                  },
+                                  {
+                                      "question":  "Dlaczego w województwie podkarpackim i małopolskim utrzymuje się wysokie poparcie dla opcji prawicowej?",
+                                      "options":  [
+                                                      "Z powodu wyjątkowo wysokiego uprzemysłowienia tych regionów.",
+                                                      "Wynika to z ciągłości tradycji narodowych i religijnych (autonomia galicyjska w zaborze austriackim) oraz silnej roli Kościoła",
+                                                      "Ponieważ są to regiony o najwyższym w Polsce wskaźniku urbanizacji.",
+                                                      "Z powodu masowego napływu ludności z Ziem Odzyskanych o poglądach konserwatywnych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Galicja cieszyła się dużą swobodą w czasach zaborów, co sprzyjało rozwojowi polskiego ruchu narodowego i konserwatywnego."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko społeczne jest kluczowe dla budowania społeczeństwa obywatelskiego i podnoszenia jakości życia na poziomie lokalnym?",
+                                      "options":  [
+                                                      "Pełna centralizacja władzy i decyzji w stolicy kraju.",
+                                                      "Partycypacja społeczna (np. budżet obywatelski, konsultacje)",
+                                                      "Bierność wyborcza i brak zainteresowania sprawami publicznymi.",
+                                                      "Masowa emigracja zarobkowa młodych ludzi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Aktywny udział mieszkańców w życiu gminy (stowarzyszenia, wolontariat, konsultacje) buduje zaufanie i poczucie odpowiedzialności za dobro wspólne."
+                                  },
+                                  {
+                                      "question":  "Analizując mapę wyników wyborów, dlaczego na tzw. Ziemiach Odzyskanych (zachód i północ Polski) często notuje się wyższe poparcie dla lewicy i liberałów niż na wschodzie?",
+                                      "options":  [
+                                                      "Ponieważ mieszka tam ludność rdzenna od wieków, kultywująca stare tradycje.",
+                                                      "Z powodu zróżnicowanego pochodzenia ludności napływowej (przesiedleńcy), co sprzyja mniejszemu przywiązaniu do tradycji i większej otwartości",
+                                                      "Ponieważ są to tereny wyłącznie rolnicze, gdzie nie ma miast.",
+                                                      "Ponieważ frekwencja wyborcza jest tam zawsze 100%."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Brak wielopokoleniowego zakorzenienia (zerwane więzi sąsiedzkie po 1945 r.) sprzyja postawom bardziej liberalnym i mniejszemu wpływowi tradycji czy Kościoła."
+                                  },
+                                  {
+                                      "question":  "Która grupa zawodowa najczęściej stanowi zaplecze elektoratu opcji ludowej?",
+                                      "options":  [
+                                                      "Przedsiębiorcy i kadra zarządzająca z dużych miast.",
+                                                      "Rolnicy oraz mieszkańcy wsi utrzymujący się z rolnictwa",
+                                                      "Studenci i uczniowie szkół średnich.",
+                                                      "Pracownicy korporacji międzynarodowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Partie ludowe (agrarne) tradycyjnie reprezentują interesy rolników i mieszkańców obszarów wiejskich."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób struktura wieku wyborców wpływa na preferencje polityczne w Polsce?",
+                                      "options":  [
+                                                      "Starsi wyborcy (65+) częściej głosują na opcję prawicową, a młodsi na liberalną lub lewicową",
+                                                      "Wiek nie ma żadnego statystycznego znaczenia dla preferencji politycznych.",
+                                                      "Młodzi ludzie (18-24 lata) głosują wyłącznie na partie ludowe.",
+                                                      "Seniorzy są głównym elektoratem partii skrajnie liberalnych gospodarczo."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Osoby starsze są zazwyczaj bardziej konserwatywne i przywiązane do tradycji oraz świadczeń socjalnych, podczas gdy młodzi szukają zmian i wolności światopoglądowej."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Frekwencja wyborcza w Polsce w wyborach parlamentarnych jest zazwyczaj wyższa niż w krajach Europy Zachodniej, takich jak Niemcy czy Szwecja.",
+                                           "answer":  false,
+                                           "explanation":  "Polska charakteryzuje się niższą frekwencją (zwykle poniżej 50% w wyborach parlamentarnych) w porównaniu do Niemiec (ponad 70%) czy Szwecji (ponad 80%)."
+                                       },
+                                       {
+                                           "sentence":  "Na współczesnych mapach wyborczych Polski wciąż widoczne są różnice w zachowaniach wyborczych pokrywające się z granicami zaborów z XIX wieku.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to zjawisko tzw. „fantomowych granic”. Obszary dawnego zaboru pruskiego (zachód/północ) cechują się wyższą frekwencją i poparciem dla liberałów, a rosyjskiego/austriackiego – niższą frekwencją i poparciem dla ludowców/prawicy."
+                                       },
+                                       {
+                                           "sentence":  "Mieszkańcy dużych miast w Polsce głosują w zdecydowanej większości na te same partie co mieszkańcy obszarów wiejskich.",
+                                           "answer":  false,
+                                           "explanation":  "Występuje wyraźna polaryzacja: w dużych miastach dominuje poparcie dla opcji liberalnej, centrowej i lewicowej, natomiast na wsiach przeważa opcja prawicowa i ludowa."
+                                       },
+                                       {
+                                           "sentence":  "Województwa zachodnie (tzw. Ziemie Odzyskane) są bastionem elektoratu prawicowego ze względu na silne przywiązanie do tradycji.",
+                                           "answer":  false,
+                                           "explanation":  "Na Ziemiach Odzyskanych, ze względu na zróżnicowane pochodzenie ludności napływowej i słabsze więzi tradycyjne, notuje się stosunkowo duże poparcie dla opcji lewicowej i liberalnej."
+                                       },
+                                       {
+                                           "sentence":  "Największą frekwencją wyborczą w Polsce cieszą się zazwyczaj wybory do Parlamentu Europejskiego.",
+                                           "answer":  false,
+                                           "explanation":  "Wybory do PE cieszą się najmniejszym zainteresowaniem. Najwyższą frekwencję odnotowuje się w wyborach prezydenckich."
+                                       },
+                                       {
+                                           "sentence":  "Wynik referendum ogólnokrajowego w Polsce jest wiążący dla władz tylko wtedy, gdy weźmie w nim udział ponad połowa uprawnionych do głosowania.",
+                                           "answer":  true,
+                                           "explanation":  "Konstytucyjny wymóg dla wiążącego charakteru referendum ogólnokrajowego to frekwencja przekraczająca 50% uprawnionych."
+                                       },
+                                       {
+                                           "sentence":  "Wysokie poparcie dla opcji prawicowej w Małopolsce i na Podkarpaciu ma uwarunkowania historyczne związane z autonomią galicyjską w zaborze austriackim.",
+                                           "answer":  true,
+                                           "explanation":  "Autonomia w zaborze austriackim pozwoliła na zachowanie ciągłości tradycji narodowych i religijnych, co współcześnie skutkuje konserwatywnymi preferencjami wyborczymi w tym regionie."
+                                       },
+                                       {
+                                           "sentence":  "Komitety wyborcze mniejszości narodowych są zwolnione z konieczności przekraczania 5-procentowego progu wyborczego w wyborach do Sejmu.",
+                                           "answer":  true,
+                                           "explanation":  "Ordynacja wyborcza przewiduje wyjątek dla mniejszości narodowych, co pozwala im wprowadzać przedstawicieli do Sejmu przy niższym poparciu (np. Mniejszość Niemiecka)."
+                                       },
+                                       {
+                                           "sentence":  "Osoby z wyższym wykształceniem i wyższymi dochodami w Polsce częściej głosują na partie o profilu ludowym.",
+                                           "answer":  false,
+                                           "explanation":  "Badania wskazują, że wraz ze wzrostem wykształcenia i dochodów rośnie poparcie dla opcji liberalnych i centrowych, a spada dla ludowych i prawicowych."
+                                       },
+                                       {
+                                           "sentence":  "Wybory samorządowe na szczeblu wójtów i burmistrzów w mniejszych miejscowościach są zdominowane przez kandydatów dużych partii ogólnopolskich.",
+                                           "answer":  false,
+                                           "explanation":  "W gminach wiejskich i mniejszych miastach stanowiska te są najczęściej zajmowane przez osoby bezpartyjne startujące z lokalnych komitetów."
+                                       }
+                                   ]
+                 }
+}

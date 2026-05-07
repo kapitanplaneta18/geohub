@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t7",
+    "title": "Zróżnicowanie religijne ludności świata",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Religia",
+        "definition": "System wierzeń oraz powiązanych z nimi obrzędów i zasad moralnych, określający relację między sferą sacrum a sferą profanum."
+      },
+      {
+        "term": "Religie teistyczne i nieteistyczne",
+        "definition": "Religie teistyczne łączą wiarę w Boga lub bogów (np. islam), natomiast w religiach nieteistycznych przedmiotem kultu nie jest istota boska (np. buddyzm)."
+      },
+      {
+        "term": "Religie monoteistyczne i politeistyczne",
+        "definition": "Religie monoteistyczne opierają się na wierze w jednego Boga (np. chrześcijaństwo, judaizm), a politeistyczne zakładają wiarę w wielu bogów (np. hinduizm)."
+      },
+      {
+        "term": "Wielkie religie uniwersalne",
+        "definition": "Chrześcijaństwo, islam i buddyzm. Są to religie, które w swym założeniu obejmują wszystkie społeczeństwa na świecie."
+      },
+      {
+        "term": "Religie etniczne",
+        "definition": "Religie ściśle powiązane z jednym narodem lub grupą etniczną, wyznawane głównie przez ich członków (np. judaizm dla Żydów, hinduizm dla Hindusów)."
+      },
+      {
+        "term": "Animizm",
+        "definition": "System wierzeń opierający się na kulcie duchów przodków oraz sił i zjawisk przyrody, charakterystyczny np. dla prastarych wierzeń w kręgu afrykańskim."
+      },
+      {
+        "term": "Sekularyzacja (laicyzacja)",
+        "definition": "Proces zmniejszania się wpływu religii na różne sfery życia społecznego, objawiający się m.in. oddzieleniem Kościoła od państwa w celu zachowania tolerancji religijnej."
+      },
+      {
+        "term": "Chrześcijaństwo",
+        "definition": "Religia monoteistyczna oparta na wierze w Trójcę Świętą i zmartwychwstanie Jezusa. Jej świętą księgą jest Biblia. Rozpowszechniona głównie w Europie, obu Amerykach i Australii."
+      },
+      {
+        "term": "Islam",
+        "definition": "Religia monoteistyczna założona w VII w. n.e., której świętą księgą jest Koran. Wymaga od wyznawców m.in. modlitwy, postu (ramadanu) i pielgrzymki do Mekki."
+      },
+      {
+        "term": "Judaizm",
+        "definition": "Najstarsza z głównych religii monoteistycznych (ok. 2000 r. p.n.e.), wierząca w Jahwe. Świętą księgą jest Biblia hebrajska (Tanach). Największe skupiska to Izrael i Ameryka Północna."
+      },
+      {
+        "term": "Buddyzm",
+        "definition": "Religia nieteistyczna założona na przełomie VI i V w. p.n.e. przez Siddharthę Gautamę. Opiera się na czterech szlachetnych prawdach, a celem jest osiągnięcie nirwany."
+      },
+      {
+        "term": "Hinduizm",
+        "definition": "Religia politeistyczna opierająca się na wierze w wielu bogów (m.in. Brahmę), reinkarnację i karmę. Świętą księgą są Wedy. Skupiona jest głównie w Azji (np. Indie)."
+      },
+      {
+        "term": "Wpływ islamu na gospodarkę",
+        "definition": "Zakaz spożywania wieprzowiny i alkoholu, ograniczenie czasu pracy gastronomii podczas ramadanu oraz rozwój bankowości islamskiej (zakaz pobierania odsetek)."
+      },
+      {
+        "term": "Wpływ hinduizmu na gospodarkę i społeczeństwo",
+        "definition": "Niewielkie gospodarcze znaczenie bydła ze względu na zakaz zabijania krów, powszechny wegetarianizm oraz nieformalnie funkcjonujący, dyskryminujący system kastowy."
+      },
+      {
+        "term": "Wpływ judaizmu na gospodarkę i społeczeństwo",
+        "definition": "Rozwój produkcji żywności koszernej (ubój rytualny) oraz obowiązek przestrzegania szabatu, podczas którego zakazane jest wykonywanie codziennych prac."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Chrześcijaństwo",
+        "pair2": "Miejsca pielgrzymkowe: Lourdes, Fatima, Jasna Góra w Częstochowie oraz Jerozolima."
+      },
+      {
+        "pair1": "Islam",
+        "pair2": "Święte miejsca kultu: Mekka (świątynia Al-Kaba) oraz Medyna."
+      },
+      {
+        "pair1": "Judaizm",
+        "pair2": "Główne miejsca kultu: Ściana Płaczu w Jerozolimie, Tyberiada, Hebron i Safed."
+      },
+      {
+        "pair1": "Hinduizm",
+        "pair2": "Najważniejszy rytuał odbywa się w wodach świętej rzeki Ganges w mieście Waranasi."
+      },
+      {
+        "pair1": "Wpływ buddyzmu na gospodarkę",
+        "pair2": "Zmniejsza aktywność gospodarczą przez nieuzależnianie się od dóbr materialnych i stawianie dobra ogółu ponad jednostkę."
+      },
+      {
+        "pair1": "Wpływ islamu na społeczeństwo",
+        "pair2": "Obowiązywanie szariatu, akceptacja dla poligamii oraz niższa pozycja społeczna kobiet względem mężczyzn."
+      },
+      {
+        "pair1": "Wpływ chrześcijaństwa na gospodarkę",
+        "pair2": "Kult pracy i poszanowanie własności prywatnej, stanowiące fundament współczesnej gospodarki rynkowej."
+      },
+      {
+        "pair1": "Wpływ judaizmu na gospodarkę",
+        "pair2": "Wyodrębnienie specyficznego sektora rynku spożywczego poprzez nakaz uboju rytualnego i produkcji koszernego jedzenia."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Która z wymienionych grup zawiera wyłącznie wielkie religie uniwersalne o światowym zasięgu?",
+        "options": [
+          "Chrześcijaństwo, islam, buddyzm",
+          "Judaizm, hinduizm, szintoizm",
+          "Chrześcijaństwo, judaizm, islam",
+          "Hinduizm, buddyzm, katolicyzm"
+        ],
+        "answer": "A",
+        "explanation": "Do wielkich religii uniwersalnych, które obejmują wszystkie społeczeństwa, zalicza się chrześcijaństwo, islam i buddyzm."
+      },
+      {
+        "question": "Świętymi księgami dla wyznawców hinduizmu, opierającego się na wierze w reinkarnację, są:",
+        "options": [
+          "Księgi Tanach",
+          "Księgi Wedy",
+          "Księgi Koranu",
+          "Pisma Nowego"
+        ],
+        "answer": "B",
+        "explanation": "W hinduizmie do kanonu świętych ksiąg należą Wedy, co zostało wyraźnie wskazane w podręczniku w opisie głównych religii."
+      },
+      {
+        "question": "Który z wymienionych regionów świata skupia współcześnie największą liczbę wyznawców hinduizmu?",
+        "options": [
+          "Ameryka Północna",
+          "Europa Południowa",
+          "Azja Południowa",
+          "Afryka Północna"
+        ],
+        "answer": "C",
+        "explanation": "Najwięcej wyznawców hinduizmu, a także buddystów i muzułmanów, zamieszkuje kontynent azjatycki (głównie państwa takie jak Indie)."
+      },
+      {
+        "question": "Najstarszą religią monoteistyczną o charakterze etnicznym, której świętą księgą jest Tanach, jest:",
+        "options": [
+          "Religia judaistyczna",
+          "Religia prawosławna",
+          "Religia hinduistyczna",
+          "Religia chrześcijańska"
+        ],
+        "answer": "A",
+        "explanation": "Judaizm to najstarsza monoteistyczna religia etniczna (ok. 2000 r. p.n.e.), odrzucająca Jezusa, oparta na wierze w Jahwe i Biblii hebrajskiej (Tanach)."
+      },
+      {
+        "question": "Jaki bezpośredni wpływ na rolnictwo wywiera islam w krajach o zdecydowanej dominacji tej religii?",
+        "options": [
+          "Całkowity zakaz uprawy winorośli",
+          "Niskie znaczenie chowu trzody chlewnej",
+          "Ograniczenie rozwoju hodowli bydła rogatego",
+          "Obowiązek masowej produkcji koszernej"
+        ],
+        "answer": "B",
+        "explanation": "W islamie obowiązuje bezwzględny zakaz spożywania wieprzowiny, co decyduje o bardzo małym gospodarczym znaczeniu chowu trzody chlewnej w tych krajach."
+      },
+      {
+        "question": "Niewielkie znaczenie gospodarcze ogromnego pogłowia bydła w Indiach jest bezpośrednio związane z:",
+        "options": [
+          "Wiarą w reinkarnację i zakazem zabijania krów",
+          "Wiarą w nirwanę i odrzuceniem dóbr materialnych",
+          "Zasadami uboju rytualnego i produkcji koszernej",
+          "Niską wydajnością lokalnych ras bydła mlecznego"
+        ],
+        "answer": "A",
+        "explanation": "Hinduizm zakazuje zabijania krów ze względu na wiarę w reinkarnację, co marginalizuje gospodarcze znaczenie bardzo dużego pogłowia bydła w regionie."
+      },
+      {
+        "question": "Ściana Płaczu w Jerozolimie oraz takie miasta jak Tyberiada, Hebron i Safed to święte miejsca kultu:",
+        "options": [
+          "Wyznawców religii judaistycznej",
+          "Wyznawców religii islamskiej",
+          "Wiernych kościoła prawosławnego",
+          "Wiernych wyznania buddyjskiego"
+        ],
+        "answer": "A",
+        "explanation": "To Ściana Płaczu w Jerozolimie, a także Tyberiada, Hebron i Safed jako najważniejsze miejsca pielgrzymkowe i ośrodki kultu judaizmu."
+      },
+      {
+        "question": "Rytualne kąpiele mające moc oczyszczania z grzechów odbywają się w wodach Gangesu w świętym mieście:",
+        "options": [
+          "Mekka na Półwyspie Arabskim",
+          "Waranasi na terytorium Indii",
+          "Lourdes na terytorium Francji",
+          "Tyberiada na Bliskim Wschodzie"
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z tekstem, najważniejszym rytuałem w hinduizmie jest kąpiel w wodach rzeki Ganges, w mieście Waranasi (zwanym miastem światła)."
+      },
+      {
+        "question": "Zmniejszenie aktywności gospodarczej poprzez nieuzależnianie się od dóbr materialnych to domena:",
+        "options": [
+          "Wierzeń tradycji afrykańskich",
+          "Nakazów religii buddyjskiej",
+          "Nakazów tradycji islamskiej",
+          "Zasad etyki protestanckiej"
+        ],
+        "answer": "B",
+        "explanation": "Buddyzm zachęca do nieuzależniania się od dóbr materialnych i stawiania dobra ogółu ponad jednostkę, co w efekcie zmniejsza ogólną aktywność gospodarczą."
+      },
+      {
+        "question": "Rozwój specyficznego sektora rynku spożywczego powiązanego z ubojem rytualnym to wpływ tradycji:",
+        "options": [
+          "Zasad etyki chrześcijańskiej",
+          "Praw wynikających z judaizmu",
+          "Wierzeń kultur animistycznych",
+          "Zasad wyznania buddyjskiego"
+        ],
+        "answer": "B",
+        "explanation": "Judaizm narzuca nakaz spożywania mięsa z uboju rytualnego, co bezpośrednio stymuluje i kreuje sektor rynku produkcji żywności koszernej."
+      },
+      {
+        "question": "Święta Góra Grabarka to miejsce pielgrzymkowe, które gromadzi w Polsce najwięcej wyznawców kościoła:",
+        "options": [
+          "Katolickiego rzymskiego",
+          "Wyznania ewangelickiego",
+          "Wschodniego prawosławnego",
+          "Społeczności muzułmańskiej"
+        ],
+        "answer": "C",
+        "explanation": "W sekcji o strukturze wyznaniowej Polski podano, że Święta Góra Grabarka jest największym prawosławnym sanktuarium w kraju."
+      },
+      {
+        "question": "Które z poniższych miast jest miejscem kultu oraz stałym celem obowiązkowych pielgrzymek w islamie?",
+        "options": [
+          "Waranasi w regionie państw Azji",
+          "Medyna na terytorium arabskim",
+          "Lourdes na terenie państw Europy",
+          "Tyberiada na terytorium Izraela"
+        ],
+        "answer": "B",
+        "explanation": "Muzułmanie zobowiązani są do odbycia pielgrzymki do świętych miejsc islamu, którymi są m.in. miasta Mekka i Medyna na Półwyspie Arabskim."
+      },
+      {
+        "question": "Zakaz bezpośredniego pobierania odsetek od udzielanych kredytów skutkował w krajach islamskich m.in.:",
+        "options": [
+          "Powołaniem bankowości islamskiej",
+          "Zastojem wymiany międzynarodowej",
+          "Wprowadzeniem rynków darmowych",
+          "Całkowitym zakazem handlu walutą"
+        ],
+        "answer": "A",
+        "explanation": "W islamie specyficzne podejście do umów finansowych (zakaz lichwy) wymusiło stworzenie specjalnych instytucji finansowych w ramach tzw. bankowości islamskiej."
+      },
+      {
+        "question": "Który z opisów trafnie definiuje makroekonomiczny wpływ chrześcijaństwa na gospodarkę zachodnią?",
+        "options": [
+          "Powszechna akceptacja zjawiska poligamii",
+          "Kult pracy i poszanowanie praw własności",
+          "Promowanie ścisłego wegetarianizmu diety",
+          "Usankcjonowany podział na kasty społeczne"
+        ],
+        "answer": "B",
+        "explanation": "Chrześcijaństwo, w szczególności protestantyzm i katolicka nauka społeczna, wypromowały kult pracy i własność prywatną, co stanowiło fundament gospodarki rynkowej."
+      },
+      {
+        "question": "Złożony nieformalny system kastowy dyskryminujący obywateli i hamujący awans to bezpośredni skutek:",
+        "options": [
+          "Prawa szariatu w społeczności islamskiej",
+          "Systemu wierzeń religii hinduistycznej",
+          "Etyki buddyjskiej w krajach azjatyckich",
+          "Prawa rabinicznego w religii judaizmu"
+        ],
+        "answer": "B",
+        "explanation": "Hinduizm promuje nieformalny podział społeczeństwa na kasty. Próby awansu społecznego i gospodarczego uważa się w nim za podważanie religijnego porządku."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Buddyzm oraz hinduizm zaliczają się do grupy wielkich religii uniwersalnych, ponieważ w swoim założeniu obejmują wszystkie społeczeństwa na świecie.",
+        "answer": false,
+        "explanation": "Do wielkich religii uniwersalnych należą chrześcijaństwo, islam i buddyzm. Hinduizm nie jest zaliczany do tej grupy."
+      },
+      {
+        "sentence": "W islamie surowy zakaz spożywania wołowiny doprowadził do marginalizacji gospodarczego znaczenia hodowli bydła w państwach arabskich.",
+        "answer": false,
+        "explanation": "To pułapka gospodarcza. W islamie obowiązuje zakaz spożywania wieprzowiny (co ogranicza chów trzody chlewnej). Zakaz zabijania krów i spożywania wołowiny to cecha hinduizmu."
+      },
+      {
+        "sentence": "Buddyzm to religia monoteistyczna, w której głównym przedmiotem kultu jest istota boska uosabiana przez postać historyczną – Siddharthę Gautamę.",
+        "answer": false,
+        "explanation": "Buddyzm jest religią nieteistyczną. Jak wskazuje tekst, buddyści w ogóle nie uznają bogów, a celem wyznawców jest wyzbycie się pragnień i osiągnięcie nirwany."
+      },
+      {
+        "sentence": "W wielu krajach islamskich funkcjonuje bankowość dostosowująca umowy do nakazów religii, co wynika z prawnego zakazu bezpośredniego pobierania odsetek od kredytów.",
+        "answer": true,
+        "explanation": "Islam narzuca specyficzne podejście do umów finansowych, w tym zakaz pobierania odsetek, co wymusiło stworzenie tzw. bankowości islamskiej."
+      },
+      {
+        "sentence": "Tyberiada, Hebron oraz Safed to najważniejsze święte miasta i miejsca pielgrzymkowe wyznawców islamu na Bliskim Wschodzie.",
+        "answer": false,
+        "explanation": "Wymienione miasta, wraz z Jerozolimą, stanowią święte miejsca wyznawców judaizmu, a nie islamu. Dla muzułmanów najważniejsze są Mekka i Medyna."
+      },
+      {
+        "sentence": "Buddyzm zachęca swoich wyznawców do nieuzależniania się od dóbr materialnych, co w ujęciu makroekonomicznym przyczynia się do zmniejszenia ich aktywności gospodarczej.",
+        "answer": true,
+        "explanation": "Buddyjskie dążenie do nieuzależniania się od dóbr materialnych oraz stawianie dobra ogółu ponad jednostkę bezpośrednio zmniejsza aktywność gospodarczą ludności."
+      },
+      {
+        "sentence": "Świętą księgą hinduizmu jest Biblia hebrajska zwana Tanach, na której opiera się powszechny w Indiach, dyskryminujący system kastowy.",
+        "answer": false,
+        "explanation": "Świętą księgą judaizmu jest Tanach, natomiast świętymi księgami dla wyznawców hinduizmu są Wedy."
+      },
+      {
+        "sentence": "Wiara w reinkarnację w hinduizmie skutkuje religijnym zakazem zabijania wszelkich istot żywych, co stanowi silną barierę dla rozwoju produkcji zwierzęcej.",
+        "answer": true,
+        "explanation": "Zgodnie z tekstem, hinduistyczny zakaz zabijania istot żywych (nawet szkodników) wynikający z wiary w reinkarnację wyraźnie hamuje rozwój produkcji zwierzęcej."
+      },
+      {
+        "sentence": "Święta Góra Grabarka stanowi w Polsce największe sanktuarium oraz główne miejsce pielgrzymek wiernych wyznania grekokatolickiego.",
+        "answer": false,
+        "explanation": "Święta Góra Grabarka jest największym prawosławnym sanktuarium w Polsce, a nie grekokatolickim."
+      },
+      {
+        "sentence": "Obowiązujący w judaizmie rygorystyczny nakaz spożywania mięsa ze specjalnie nadzorowanego uboju rytualnego doprowadził do powstania i rozwoju rynku żywności koszernej.",
+        "answer": true,
+        "explanation": "Wpływ judaizmu na gospodarkę obejmuje rozwój specyficznej produkcji jedzenia koszernego, uwarunkowanej ścisłymi zasadami uboju zwierząt."
+      },
+      {
+        "sentence": "Chrześcijańska nauka społeczna hamowała rozwój wolnego rynku, ponieważ w ujęciu historycznym zabraniała posiadania własności prywatnej.",
+        "answer": false,
+        "explanation": "Chrześcijaństwo (szczególnie protestantyzm i katolicka nauka społeczna) wypromowało poszanowanie własności prywatnej i kult pracy, stając się fundamentem gospodarki rynkowej."
+      },
+      {
+        "sentence": "Prawo szariatu kategorycznie zabrania zjawiska poligamii, dążąc w krajach islamskich do pełnego zrównania pozycji społecznej kobiet i mężczyzn.",
+        "answer": false,
+        "explanation": "W świetle prawa szariatu i islamu kobieta ma pozycję podległą mężczyźnie, a w wielu państwach islamskich poligamia (wielożeństwo mężczyzn) jest oficjalnie dopuszczalna."
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t1",
+                     "title":  "Liczba ludności Polski i jej zmiany",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Liczba ludności Polski w 2019 roku",
+                                              "definition":  "38,38 mln osób (co dawało 6. miejsce w Unii Europejskiej)."
+                                          },
+                                          {
+                                              "term":  "Przyrost naturalny (definicja)",
+                                              "definition":  "Różnica między liczbą urodzeń a liczbą zgonów w danym okresie."
+                                          },
+                                          {
+                                              "term":  "Depopulacja",
+                                              "definition":  "Proces polegający na zmniejszaniu się liczby ludności na danym obszarze (wyludnianie)."
+                                          },
+                                          {
+                                              "term":  "Współczynnik dynamiki zmian liczby ludności",
+                                              "definition":  "Miernik pokazujący tempo zmian ludności; obliczany przez podzielenie liczby ludności na końcu okresu przez liczbę na początku i pomnożenie przez 100."
+                                          },
+                                          {
+                                              "term":  "Wyż kompensacyjny",
+                                              "definition":  "Gwałtowny wzrost liczby ludności (duża liczba urodzeń) po zakończeniu wojny, mający na celu wyrównanie strat demograficznych."
+                                          },
+                                          {
+                                              "term":  "Regres demograficzny w Polsce (XXI wiek)",
+                                              "definition":  "Zjawisko spadku liczby ludności obserwowane od 2012 roku (z wyjątkiem 2017 r.), wynikające z ujemnego przyrostu naturalnego i salda migracji."
+                                          },
+                                          {
+                                              "term":  "Przyrost rzeczywisty (definicja składnikowa)",
+                                              "definition":  "Suma przyrostu naturalnego oraz salda migracji (kształtuje faktyczną zmianę liczby ludności)."
+                                          },
+                                          {
+                                              "term":  "Województwa dotknięte największą depopulacją (2000–2019)",
+                                              "definition":  "Opolskie (spadek o 8,2%), łódzkie oraz świętokrzyskie."
+                                          },
+                                          {
+                                              "term":  "Województwa o stałym wzroście liczby ludności",
+                                              "definition":  "Pomorskie, mazowieckie, małopolskie oraz wielkopolskie (regiony atrakcyjne gospodarczo)."
+                                          },
+                                          {
+                                              "term":  "Prognoza demograficzna dla Polski na 2050 rok",
+                                              "definition":  "Spadek liczby ludności do ok. 33,95 mln (ubytek o blisko 4,5 mln osób w stosunku do 2019 r.)."
+                                          },
+                                          {
+                                              "term":  "Zmiana kierunku migracji wewnętrznych po 2000 roku",
+                                              "definition":  "Przewaga migracji z miast na obszary wiejskie (suburbanizacja), co skutkuje wzrostem liczby ludności wsi i spadkiem ludności miast."
+                                          },
+                                          {
+                                              "term":  "Ekonomiczne skutki depopulacji",
+                                              "definition":  "Kurczenie się rynku zbytu (mniejszy popyt), spadek atrakcyjności inwestycyjnej, zmniejszenie wpływów podatkowych, niedobory rąk do pracy."
+                                          },
+                                          {
+                                              "term":  "Społeczne skutki depopulacji",
+                                              "definition":  "Starzenie się społeczeństwa, zubożenie ludności, konieczność zamykania szkół i ograniczenie dostępności usług."
+                                          },
+                                          {
+                                              "term":  "Obszar o największej dynamice wzrostu po II wojnie światowej",
+                                              "definition":  "Ziemie Odzyskane (zachodnia i północna Polska), zasiedlane przez młodych osadników."
+                                          },
+                                          {
+                                              "term":  "Współczynnik przyrostu naturalnego w 2019 roku",
+                                              "definition":  "Wynosił -0,9‰ (promila), co oznacza przewagę liczby zgonów nad liczbą urodzeń."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Zakończenie II wojny światowej",
+                                                 "pair2":  "Wystąpienie wyżu kompensacyjnego (bardzo wysoki przyrost naturalny w latach 50. XX w.)."
+                                             },
+                                             {
+                                                 "pair1":  "Transformacja ustrojowa i gospodarcza po 1989 r.",
+                                                 "pair2":  "Załamanie wskaźnika dynamiki zmian liczby ludności w ostatniej dekadzie XX w."
+                                             },
+                                             {
+                                                 "pair1":  "Ujemny przyrost naturalny i ujemne saldo migracji",
+                                                 "pair2":  "Depopulacja i zmniejszenie ogólnej liczby ludności kraju."
+                                             },
+                                             {
+                                                 "pair1":  "Występowanie atrakcyjnego rynku pracy (duże miasta)",
+                                                 "pair2":  "Dodatnie saldo migracji i wzrost liczby ludności w województwach mazowieckim czy pomorskim."
+                                             },
+                                             {
+                                                 "pair1":  "Migracja mieszkańców miast na tereny podmiejskie (od 2000 r.)",
+                                                 "pair2":  "Spadek liczby ludności miast przy jednoczesnym wzroście liczby ludności wsi."
+                                             },
+                                             {
+                                                 "pair1":  "Zmniejszenie liczby osób w wieku produkcyjnym",
+                                                 "pair2":  "Niedobory na rynku pracy i ograniczenie rozwoju gospodarczego."
+                                             },
+                                             {
+                                                 "pair1":  "Spadek liczby konsumentów i podatników",
+                                                 "pair2":  "Zmniejszenie dochodów samorządów i ograniczenie inwestycji lokalnych."
+                                             },
+                                             {
+                                                 "pair1":  "Okres 2012–2019 (z wyjątkiem 2017 r.)",
+                                                 "pair2":  "Stała tendencja spadkowa liczby ludności Polski (regres demograficzny)."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Według danych z końca 2019 roku, ile wynosiła przybliżona liczba ludności Polski?",
+                                      "options":  [
+                                                      "Ok. 36 mln osób, co odpowiadałoby liczbie mieszkańców Polski w połowie lat 80. XX wieku.",
+                                                      "Ok. 38,4 mln osób",
+                                                      "Ok. 40 mln osób, co byłoby możliwe tylko przy utrzymaniu bardzo wysokiego przyrostu naturalnego z lat 50.",
+                                                      "Ok. 34,5 mln osób"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zgodnie z tekstem, pod koniec 2019 roku w Polsce żyło 38,38 mln osób, co dawało 6. miejsce w Unii Europejskiej."
+                                  },
+                                  {
+                                      "question":  "Czym jest przyrost naturalny?",
+                                      "options":  [
+                                                      "Sumą imigracji i emigracji, czyli wskaźnikiem ogólnego ruchu wędrówkowego ludności.",
+                                                      "Różnicą między liczbą urodzeń a liczbą zgonów w danym okresie",
+                                                      "Różnicą między liczbą osób wyjeżdżających a przyjeżdżających do kraju w celach zarobkowych.",
+                                                      "Sumą liczby urodzeń i salda migracji, która określa przyrost rzeczywisty."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przyrost naturalny definiuje się jako różnicę między liczbą urodzeń a liczbą zgonów. Jest to główny czynnik wpływający na zmiany liczby ludności."
+                                  },
+                                  {
+                                      "question":  "W jakiej jednostce najczęściej wyraża się współczynniki demograficzne, takie jak współczynnik przyrostu naturalnego?",
+                                      "options":  [
+                                                      "W procentach (%), co jest miarą stosowaną rzadziej, głównie dla dynamiki zmian.",
+                                                      "W promilach (‰)",
+                                                      "W liczbach bezwzględnych, co uniemożliwia porównywanie danych między krajami o różnej wielkości populacji.",
+                                                      "W osobach na km²"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Współczynniki demograficzne, w tym przyrost naturalny w przeliczeniu na 1000 mieszkańców, wyraża się w promilach (‰)."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko demograficzne obserwuje się w Polsce od 2012 roku (z wyjątkiem 2017 r.)?",
+                                      "options":  [
+                                                      "Gwałtowny wyż demograficzny, charakterystyczny dla okresu powojennego (lata 50. XX wieku).",
+                                                      "Stabilizację liczby ludności na poziomie 38,5 mln, bez wyraźnych wahań.",
+                                                      "Spadek liczby ludności (regres demograficzny)",
+                                                      "Wzrost liczby ludności dzięki masowej imigracji."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Od 2012 roku (poza 2017 r.) liczba mieszkańców Polski spada, a w latach 2012–2019 obniżyła się o 0,4%."
+                                  },
+                                  {
+                                      "question":  "Co było główną przyczyną dynamicznego wzrostu liczby ludności w Polsce w latach 50. XX wieku?",
+                                      "options":  [
+                                                      "Masowa imigracja z krajów zachodnich, zachęcona dynamicznym rozwojem gospodarczym PRL.",
+                                                      "Kompensacja strat wojennych (wyż kompensacyjny)",
+                                                      "Otwarcie granic po wejściu do UE i swobodny przepływ osób.",
+                                                      "Gwałtowny spadek liczby zgonów dzięki powszechnemu dostępowi do nowoczesnych leków."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Po zakończeniu II wojny światowej nastąpiła kompensacja strat ludnościowych, co skutkowało bardzo wysokim przyrostem naturalnym (wyżem) w latach 50. XX w."
+                                  },
+                                  {
+                                      "question":  "Które z wymienionych województw w latach 2000–2019 odnotowało największy spadek liczby ludności (depopulację)?",
+                                      "options":  [
+                                                      "Mazowieckie, które jako region stołeczny przyciąga migrantów i notuje wzrost.",
+                                                      "Pomorskie, charakteryzujące się dodatnim przyrostem naturalnym.",
+                                                      "Opolskie",
+                                                      "Małopolskie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Największy spadek liczby ludności w latach 2000–2019 odnotowano w województwie opolskim (o 8,2%), a także w łódzkim i świętokrzyskim."
+                                  },
+                                  {
+                                      "question":  "Jakie składniki tworzą przyrost rzeczywisty ludności?",
+                                      "options":  [
+                                                      "Tylko przyrost naturalny",
+                                                      "Przyrost naturalny oraz saldo migracji",
+                                                      "Urodzenia żywe oraz liczba imigrantów, pomijając zgony i emigrantów.",
+                                                      "Zgony oraz liczba emigrantów, które są składnikami ubytku, a nie przyrostu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Przyrost rzeczywisty stanowi sumę przyrostu naturalnego oraz salda migracji."
+                                  },
+                                  {
+                                      "question":  "Jaki jest przewidywany skutek starzenia się społeczeństwa i depopulacji dla systemu emerytalnego w Polsce?",
+                                      "options":  [
+                                                      "Zmniejszenie wydatków budżetowych na emerytury dzięki mniejszej liczbie świadczeniobiorców.",
+                                                      "Konieczność zwiększenia wydatków budżetowych na emerytury z powodu braku zastępowalności pokoleń",
+                                                      "Obniżenie wieku emerytalnego w celu aktywizacji zawodowej seniorów.",
+                                                      "Nadwyżka składek wpływających od osób pracujących, co pozwoliłoby na obniżenie podatków."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Niekorzystny stosunek liczby osób w wieku produkcyjnym do emerytów wymusi zwiększenie wydatków z budżetu, ponieważ emerytury są wypłacane ze składek osób obecnie pracujących, których liczba maleje."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „echo wyżu demograficznego” w kontekście historii demograficznej Polski?",
+                                      "options":  [
+                                                      "Nagły spadek urodzeń po wojnie, wynikający z trudnej sytuacji ekonomicznej i politycznej.",
+                                                      "Wzrost liczby urodzeń w latach 80., gdy wyż powojenny wszedł w dorosłość",
+                                                      "Zjawisko masowej emigracji w latach 80., spowodowane wprowadzeniem stanu wojennego.",
+                                                      "Powrót Polaków z zagranicy po 2004 roku."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W latach 1975–1985 w dorosłe życie weszło pokolenie wyżu z lat 50., co spowodowało kolejny duży wzrost liczby urodzeń, zwany echem wyżu demograficznego."
+                                  },
+                                  {
+                                      "question":  "Jakie są ekonomiczne skutki depopulacji dla regionu?",
+                                      "options":  [
+                                                      "Wzrost atrakcyjności inwestycyjnej i spadek bezrobocia wynikający z mniejszej konkurencji.",
+                                                      "Kurczenie się rynku zbytu, spadek popytu na pracę i zmniejszenie wpływów podatkowych",
+                                                      "Wzrost liczby osób w wieku produkcyjnym, napędzający gospodarkę.",
+                                                      "Dynamiczny rozwój usług edukacyjnych dla dzieci, takich jak przedszkola i szkoły."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Depopulacja powoduje kurczenie się rynku wewnętrznego (mniej konsumentów), spadek atrakcyjności inwestycyjnej oraz zmniejszenie dochodów samorządów z podatków."
+                                  },
+                                  {
+                                      "question":  "W których województwach obserwuje się stały wzrost liczby ludności dzięki dodatniemu przyrostowi rzeczywistemu?",
+                                      "options":  [
+                                                      "Opolskim, świętokrzyskim, łódzkim, które są regionami silnie wyludniającymi się.",
+                                                      "Lubelskim, podlaskim, warmińsko-mazurskim",
+                                                      "Pomorskim, mazowieckim, małopolskim, wielkopolskim",
+                                                      "Zachodniopomorskim, lubuskim, dolnośląskim, gdzie dominuje stagnacja demograficzna."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wzrost liczby ludności utrzymuje się w regionach z dużymi ośrodkami miejskimi: pomorskim, mazowieckim, małopolskim i wielkopolskim."
+                                  },
+                                  {
+                                      "question":  "Jaka zmiana w kierunkach migracji wewnętrznych nastąpiła w Polsce po 2000 roku?",
+                                      "options":  [
+                                                      "Zwiększyła się migracja ze wsi do dużych miast, co było typowe dla okresu industrializacji.",
+                                                      "Po raz pierwszy więcej osób przeniosło się z miast na wieś niż odwrotnie (suburbanizacja)",
+                                                      "Zatrzymano migracje międzywojewódzkie z powodu braku mieszkań.",
+                                                      "Ludność zaczęła masowo wracać do centrów miast w procesie reurbanizacji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W 2000 r. nastąpiło odwrócenie trendu: więcej osób zaczęło przenosić się z miast na obszary wiejskie (głównie podmiejskie), co skutkuje spadkiem ludności miast i wzrostem ludności wsi."
+                                  },
+                                  {
+                                      "question":  "Według prognoz demograficznych GUS, jak zmieni się liczba ludności Polski do 2050 roku?",
+                                      "options":  [
+                                                      "Wzrośnie do 40 mln, dzięki odwróceniu negatywnych trendów w dzietności.",
+                                                      "Pozostanie na poziomie ok. 38 mln, dzięki zrównoważeniu ubytku naturalnego imigracją.",
+                                                      "Spadnie do ok. 33,95 mln (ubytek o blisko 4,5 mln)",
+                                                      "Spadnie nieznacznie o 500 tys. osób"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Prognozy wskazują na utrzymanie trendu spadkowego, co ma doprowadzić do zmniejszenia populacji do ok. 33,95 mln osób w 2050 r."
+                                  },
+                                  {
+                                      "question":  "Analizując wpływ suburbanizacji i prognozy do 2050 roku, jak zmieni się zaludnienie miast i wsi?",
+                                      "options":  [
+                                                      "Miasta będą rosły w siłę, a wsie będą się gwałtownie wyludniać, tracąc funkcje rolnicze.",
+                                                      "Ubytek ludności dotknie bardziej miasta, podczas gdy wsie (do 2030 r.) mogą notować wzrost",
+                                                      "Zarówno miasta, jak i wsie będą się wyludniać w tym samym, szybkim tempie.",
+                                                      "Liczba ludności miast pozostanie bez zmian"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prognozy wskazują, że ubytek ludności bardziej dotknie miasta. Na wsiach do 2030 r. przewiduje się powolny wzrost, wynikający głównie z migracji z miast na tereny podmiejskie."
+                                  },
+                                  {
+                                      "question":  "W którym przypadku matematycznym ubytek rzeczywisty ludności na danym obszarze będzie największy?",
+                                      "options":  [
+                                                      "Gdy przyrost naturalny jest dodatni, a saldo migracji ujemne (ubytek migracyjny jest kompensowany).",
+                                                      "Gdy przyrost naturalny jest ujemny, a saldo migracji dodatnie",
+                                                      "Gdy występuje zarówno ujemny przyrost naturalny, jak i ujemne saldo migracji",
+                                                      "Gdy przyrost naturalny i saldo migracji wynoszą zero, co oznacza stagnację."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ubytek rzeczywisty jest sumą ubytku naturalnego i ujemnego salda migracji. Największa depopulacja (np. w woj. opolskim) zachodzi, gdy oba te wskaźniki są ujemne."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Od 2012 roku liczba ludności Polski nieustannie rośnie dzięki dodatniemu saldu migracji.",
+                                           "answer":  false,
+                                           "explanation":  "Zgodnie z danymi GUS, od 2012 roku (z wyjątkiem niewielkiego wzrostu w 2017 r.) liczba ludności Polski spada. W latach 2012–2019 obniżyła się ona o 0,4%."
+                                       },
+                                       {
+                                           "sentence":  "Wyż demograficzny z lat 50. XX wieku (tzw. kompensacyjny) charakteryzował się wyższą dynamiką i liczbą urodzeń niż wyż z lat 80. (echo wyżu).",
+                                           "answer":  true,
+                                           "explanation":  "Wyż powojenny był silniejszy. W latach 50. populacja zwiększyła się o 19,1%, a rekord urodzeń padł w 1955 r. (ok. 794 tys.). Kulminacja echa wyżu w 1983 r. przyniosła 724 tys. urodzeń."
+                                       },
+                                       {
+                                           "sentence":  "O zmianie całkowitej liczby ludności danego obszaru decyduje wyłącznie przyrost naturalny (różnica między urodzeniami a zgonami).",
+                                           "answer":  false,
+                                           "explanation":  "O faktycznej zmianie liczby ludności decyduje przyrost rzeczywisty, który jest sumą przyrostu naturalnego oraz salda migracji."
+                                       },
+                                       {
+                                           "sentence":  "Proces suburbanizacji w Polsce po 2000 roku polega na masowym odpływie ludności ze wsi do dużych miast.",
+                                           "answer":  false,
+                                           "explanation":  "Trend ten uległ odwróceniu. Od 2000 r. więcej osób przenosi się z miast na obszary wiejskie (głównie podmiejskie) niż odwrotnie, co skutkuje spadkiem liczby ludności miast."
+                                       },
+                                       {
+                                           "sentence":  "Depopulacja to zjawisko polegające na spadku liczby ludności, które może być spowodowane ujemnym przyrostem naturalnym, ujemnym saldem migracji lub obiema tymi przyczynami naraz.",
+                                           "answer":  true,
+                                           "explanation":  "Depopulacja oznacza wyludnianie się obszaru i jest konsekwencją występowania ujemnego salda migracji, ubytku naturalnego ludności lub obu tych zjawisk jednocześnie."
+                                       },
+                                       {
+                                           "sentence":  "Niż demograficzny na przełomie lat 60. i 70. XX wieku był spowodowany wchodzeniem w dorosłość mało licznych roczników urodzonych podczas okupacji.",
+                                           "answer":  true,
+                                           "explanation":  "Spadek liczby urodzeń w tym okresie wynikał z faktu, że w wiek rozrodczy weszły roczniki urodzone w czasie II wojny światowej, które były mniej liczne."
+                                       },
+                                       {
+                                           "sentence":  "W 2019 roku wskaźnik urbanizacji w Polsce przekroczył 70%, co oznacza, że zdecydowana większość Polaków mieszka w miastach.",
+                                           "answer":  false,
+                                           "explanation":  "W 2019 r. wskaźnik urbanizacji w Polsce wynosił 60% i wykazuje tendencję spadkową (w 1991 r. wynosił 62%)."
+                                       },
+                                       {
+                                           "sentence":  "Województwo opolskie jest regionem, w którym w latach 2000–2019 odnotowano największy procentowy spadek liczby ludności.",
+                                           "answer":  true,
+                                           "explanation":  "Województwo opolskie dotknięte jest największą depopulacją; w latach 2000–2019 liczba jego ludności spadła o 8,2%."
+                                       },
+                                       {
+                                           "sentence":  "Prognozy demograficzne zakładają, że do 2050 roku liczba ludności Polski spadnie do poziomu poniżej 34 milionów osób.",
+                                           "answer":  true,
+                                           "explanation":  "Według prognoz GUS liczba ludności Polski w 2050 r. wyniesie około 33,95 mln, co oznacza ubytek o blisko 4,5 mln osób w stosunku do stanu z 2019 r."
+                                       },
+                                       {
+                                           "sentence":  "Przyrost rzeczywisty w Polsce od 1999 roku przyjmuje stale wartości dodatnie dzięki napływowi imigrantów.",
+                                           "answer":  false,
+                                           "explanation":  "Od 1999 r. współczynnik przyrostu rzeczywistego w Polsce przyjmuje przeważnie wartości ujemne (z wyjątkiem lat 2008–2011), co wynikało początkowo z ujemnego salda migracji, a ostatnio z ubytku naturalnego."
+                                       },
+                                       {
+                                           "sentence":  "Współczesne migracje mieszkańców dużych miast na wieś wynikają głównie z chęci podjęcia pracy w rolnictwie.",
+                                           "answer":  false,
+                                           "explanation":  "Mieszkańcy miast przenoszą się na wieś głównie z chęci poprawy warunków mieszkaniowych i środowiskowych (suburbanizacja), a nie w celu pracy w rolnictwie."
+                                       }
+                                   ]
+                 }
+}

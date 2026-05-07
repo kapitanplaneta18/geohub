@@ -1,0 +1,327 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz4-t7",
+                     "title":  "Poziom życia ludności",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Poziom życia ludności",
+                                              "definition":  "Stopień zaspokojenia materialnych i niematerialnych potrzeb społeczeństwa, określany m.in. przez dochody, warunki mieszkaniowe i dostęp do usług."
+                                          },
+                                          {
+                                              "term":  "Jakość życia (wskaźnik subiektywny)",
+                                              "definition":  "Ocena poziomu życia dokonana na podstawie odczuć mieszkańców (satysfakcji); w 2018 r. zadowolenie deklarowało 83% Polaków."
+                                          },
+                                          {
+                                              "term":  "Ubóstwo",
+                                              "definition":  "Sytuacja, w której poziom życia jest bardzo niski, a podstawowe potrzeby człowieka nie są zaspokajane z powodu niedostatku środków."
+                                          },
+                                          {
+                                              "term":  "Minimum egzystencji (ubóstwo skrajne)",
+                                              "definition":  "Wskaźnik określający dolną granicę konsumpcji, poniżej której występuje biologiczne wyniszczenie organizmu i zagrożenie życia."
+                                          },
+                                          {
+                                              "term":  "Minimum socjalne",
+                                              "definition":  "Kwota pozwalająca na zaspokojenie potrzeb na poziomie umożliwiającym nie tylko przeżycie, ale też wychowanie dzieci i utrzymanie więzi społecznych."
+                                          },
+                                          {
+                                              "term":  "Ustawowa granica ubóstwa",
+                                              "definition":  "Kwota dochodów, która zgodnie z prawem uprawnia do ubiegania się o przyznanie świadczeń pomocy społecznej."
+                                          },
+                                          {
+                                              "term":  "Partycypacja społeczna",
+                                              "definition":  "Współuczestnictwo mieszkańców w podejmowaniu decyzji politycznych, społecznych i gospodarczych (np. konsultacje, budżet obywatelski)."
+                                          },
+                                          {
+                                              "term":  "Wykluczenie komunikacyjne",
+                                              "definition":  "Zewnętrzna przyczyna ubóstwa polegająca na braku połączeń transportowych umożliwiających dojazd do pracy lub szkoły."
+                                          },
+                                          {
+                                              "term":  "Świadczenia pieniężne pomocy społecznej",
+                                              "definition":  "Wypłaty dla osób ubogich, takie jak zasiłki stałe, okresowe lub celowe."
+                                          },
+                                          {
+                                              "term":  "Świadczenia niepieniężne pomocy społecznej",
+                                              "definition":  "Formy wsparcia takie jak pomoc rzeczowa, darmowe posiłki, schronienie czy usługi opiekuńcze."
+                                          },
+                                          {
+                                              "term":  "Województwo o najwyższym średnim wynagrodzeniu (2019)",
+                                              "definition":  "Województwo mazowieckie (dzięki obecności Warszawy)."
+                                          },
+                                          {
+                                              "term":  "Regiony o największym zasięgu ubóstwa",
+                                              "definition":  "Województwa: warmińsko-mazurskie, kujawsko-pomorskie i świętokrzyskie (najwyższy odsetek przyznanych świadczeń)."
+                                          },
+                                          {
+                                              "term":  "Infrastruktura społeczna",
+                                              "definition":  "Dostępność obiektów takich jak szkoły, szpitale i instytucje kultury, wpływająca na jakość życia mieszkańców."
+                                          },
+                                          {
+                                              "term":  "Indywidualne przyczyny ubóstwa",
+                                              "definition":  "Czynniki leżące po stronie jednostki, np. niskie wykształcenie, niepełnosprawność, bierność czy wielodzietność."
+                                          },
+                                          {
+                                              "term":  "Zewnętrzne przyczyny ubóstwa",
+                                              "definition":  "Czynniki niezależne od jednostki, np. bezrobocie w regionie, wzrost cen, klęski żywiołowe."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Konsumpcja poniżej minimum egzystencji",
+                                                 "pair2":  "Biologiczne wyniszczenie organizmu i bezpośrednie zagrożenie życia"
+                                             },
+                                             {
+                                                 "pair1":  "Dochód poniżej ustawowej granicy ubóstwa",
+                                                 "pair2":  "Uprawnienie do pobierania świadczeń pomocy społecznej"
+                                             },
+                                             {
+                                                 "pair1":  "Wysokie bezrobocie strukturalne (np. post-PGR)",
+                                                 "pair2":  "Wysoki odsetek beneficjentów pomocy społecznej w woj. warmińsko-mazurskim"
+                                             },
+                                             {
+                                                 "pair1":  "Brak transportu publicznego w małych miejscowościach",
+                                                 "pair2":  "Wykluczenie komunikacyjne utrudniające podjęcie pracy"
+                                             },
+                                             {
+                                                 "pair1":  "Koncentracja dużych firm i usług wyższego rzędu",
+                                                 "pair2":  "Najwyższy poziom wynagrodzeń w aglomeracji warszawskiej"
+                                             },
+                                             {
+                                                 "pair1":  "Aktywność w grupach obywatelskich i konsultacjach",
+                                                 "pair2":  "Wysoki poziom partycypacji społecznej podnoszący jakość życia"
+                                             },
+                                             {
+                                                 "pair1":  "Niski poziom rozwoju gospodarczego regionu",
+                                                 "pair2":  "Rekompensowanie poziomu życia wyższą jakością środowiska przyrodniczego"
+                                             },
+                                             {
+                                                 "pair1":  "Przyzwyczajenie do pomocy społecznej (bierność)",
+                                                 "pair2":  "Utrwalanie ubóstwa i brak działań naprawczych (uwarunkowanie indywidualne)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Które województwo w Polsce odznacza się najwyższym średnim miesięcznym wynagrodzeniem brutto?",
+                                      "options":  [
+                                                      "Dolnośląskie, dzięki inwestycjom zagranicznym.",
+                                                      "Mazowieckie, głównie dzięki bardzo wysokim zarobkom w Warszawie.",
+                                                      "Śląskie, ze względu na dobrze płatne górnictwo.",
+                                                      "Małopolskie, dzięki turystyce."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Warszawa, jako centrum biznesowe i administracyjne, znacznie zawyża średnią dla całego województwa mazowieckiego."
+                                  },
+                                  {
+                                      "question":  "Czym jest „minimum egzystencji” w kontekście pomiaru ubóstwa?",
+                                      "options":  [
+                                                      "Kwotą uprawniającą do zasiłku dla bezrobotnych, ustalaną corocznie przez rząd.",
+                                                      "Poziomem zaspokojenia potrzeb umożliwiającym jedynie biologiczne przeżycie (żywność, schronienie).",
+                                                      "Średnim dochodem na mieszkańca w UE, poniżej którego kraj uznawany jest za ubogi.",
+                                                      "Kwotą potrzebną na wyjazd wakacyjny raz w roku dla całej rodziny."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Minimum egzystencji to próg skrajnego ubóstwa – poniżej tego poziomu dochodów występuje zagrożenie dla życia i zdrowia człowieka."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „wykluczenie komunikacyjne”?",
+                                      "options":  [
+                                                      "Brak dostępu do szybkiego internetu szerokopasmowego na obszarach wiejskich.",
+                                                      "Brak połączeń transportowych uniemożliwiający dojazd do pracy, szkoły czy lekarza.",
+                                                      "Zakaz prowadzenia pojazdów mechanicznych z powodu wieku lub stanu zdrowia.",
+                                                      "Brak telefonu komórkowego uniemożliwiający kontakt ze światem."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wykluczenie to dotyka mieszkańców małych miejscowości, gdzie zlikwidowano połączenia PKS lub kolejowe (np. w woj. warmińsko-mazurskim)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest funkcja „ustawowej granicy ubóstwa”?",
+                                      "options":  [
+                                                      "Określa, kto płaci podatki w najwyższym progu podatkowym.",
+                                                      "Jest progiem dochodowym uprawniającym do ubiegania się o świadczenia pomocy społecznej.",
+                                                      "Wyznacza minimalne wynagrodzenie za pracę, jakie pracodawca musi wypłacić pracownikowi.",
+                                                      "Określa próg, poniżej którego nie można legalnie pracować w Polsce."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Osoby lub rodziny, których dochód jest niższy od tej kwoty, mają prawo do wsparcia finansowego od państwa."
+                                  },
+                                  {
+                                      "question":  "W których województwach odnotowano najwyższy odsetek osób, którym przyznano świadczenia pomocy społecznej (dane z 2019 r.)?",
+                                      "options":  [
+                                                      "Mazowieckim i śląskim, gdzie koszty życia są najwyższe.",
+                                                      "Warmińsko-mazurskim, kujawsko-pomorskim i świętokrzyskim.",
+                                                      "Małopolskim i podkarpackim, ze względu na rozdrobnienie rolnictwa.",
+                                                      "Wielkopolskim i dolnośląskim, gdzie jest najwięcej imigrantów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Są to regiony o słabszym rozwoju gospodarczym i wyższym bezrobociu (często popegeerowskie), co przekłada się na większe ubóstwo."
+                                  },
+                                  {
+                                      "question":  "Czym różni się „minimum socjalne” od „minimum egzystencji”?",
+                                      "options":  [
+                                                      "Niczym, to synonimy oznaczające to samo pojęcie w statystyce.",
+                                                      "Minimum socjalne jest niższe i dotyczy tylko podstawowych produktów żywnościowych.",
+                                                      "Minimum socjalne uwzględnia potrzeby społeczne, kulturalne i wychowanie dzieci, a nie tylko przetrwanie.",
+                                                      "Minimum socjalne dotyczy tylko emerytów i rencistów, a egzystencji – osób pracujących."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Minimum socjalne to próg godnego życia („niedostatku”), pozwalający na integrację ze społeczeństwem, podczas gdy minimum egzystencji to walka o przetrwanie."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych czynników jest zaliczany do zewnętrznych uwarunkowań ubóstwa?",
+                                      "options":  [
+                                                      "Nieodpowiednie wykształcenie i brak kwalifikacji zawodowych.",
+                                                      "Bierność i niepodejmowanie działań w celu poprawy swojej sytuacji.",
+                                                      "Bezrobocie w regionie (brak miejsc pracy) i recesja gospodarcza.",
+                                                      "Wielodzietność i konieczność utrzymania dużej rodziny."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Czynniki zewnętrzne (np. rynek pracy, polityka państwa) są niezależne od jednostki, w przeciwieństwie do uwarunkowań indywidualnych."
+                                  },
+                                  {
+                                      "question":  "Na czym polega zjawisko partycypacji społecznej wpływające na jakość życia?",
+                                      "options":  [
+                                                      "Na obowiązkowym płaceniu składek na ubezpieczenie społeczne przez wszystkich pracujących.",
+                                                      "Na współuczestnictwie mieszkańców w podejmowaniu decyzji (np. konsultacje, budżet obywatelski).",
+                                                      "Na biernym oczekiwaniu na pomoc państwa w trudnych sytuacjach życiowych.",
+                                                      "Na emigracji zarobkowej w celu poprawy bytu materialnego rodziny."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Możliwość wpływania na sprawy lokalne (poczucie sprawstwa) jest ważnym niematerialnym składnikiem jakości życia."
+                                  },
+                                  {
+                                      "question":  "Jakie wskaźniki bierze się pod uwagę, oceniając infrastrukturę społeczną jako element poziomu życia?",
+                                      "options":  [
+                                                      "Liczbę fabryk, kopalń i zakładów przemysłowych w regionie.",
+                                                      "Dostępność łóżek w szpitalach i liczbę miejsc w przedszkolach.",
+                                                      "Wysokość plonów z hektara i pogłowie trzody chlewnej.",
+                                                      "Długość autostrad i dróg ekspresowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Infrastruktura społeczna obejmuje placówki służące zaspokajaniu potrzeb edukacyjnych, zdrowotnych, kulturalnych i opiekuńczych."
+                                  },
+                                  {
+                                      "question":  "Co jest charakterystyczną cechą województw słabiej rozwiniętych gospodarczo w kontekście jakości życia?",
+                                      "options":  [
+                                                      "Bardzo wysokie wynagrodzenia, przyciągające specjalistów z całego kraju.",
+                                                      "Często wyższa jakość środowiska przyrodniczego rekompensująca niższy rozwój ekonomiczny.",
+                                                      "Całkowity brak bezrobocia dzięki interwencjonizmowi państwowemu.",
+                                                      "Najlepsza infrastruktura drogowa i kolejowa w Polsce."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Województwa wschodnie (np. podlaskie) mają niższe PKB, ale oferują czystsze powietrze i walory krajobrazowe, co wpływa na subiektywną jakość życia."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko społeczne określa się mianem „dziedziczenia biedy” (uwarunkowania środowiskowe)?",
+                                      "options":  [
+                                                      "Otrzymanie spadku z długami po zmarłych krewnych.",
+                                                      "Przejmowanie negatywnych wzorców i bierności od rodziców korzystających z pomocy społecznej.",
+                                                      "Konieczność spłacania kredytów zaciągniętych przez rodziców.",
+                                                      "Brak prawa do dziedziczenia ziemi rolnej przez osoby z miasta."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dzieci wychowujące się w rodzinach trwale bezrobotnych często powielają schemat bierności i uzależnienia od pomocy społecznej."
+                                  },
+                                  {
+                                      "question":  "Jaka jest relacja między wielodzietnością a zagrożeniem ubóstwem w Polsce według klasyfikacji przyczyn ubóstwa?",
+                                      "options":  [
+                                                      "Wielodzietność całkowicie chroni przed ubóstwem dzięki wysokim programom socjalnym.",
+                                                      "Wielodzietność jest wymieniana jako indywidualne uwarunkowanie mogące sprzyjać ubóstwu (zwłaszcza przy jednym dochodzie).",
+                                                      "Nie ma żadnego związku między liczbą dzieci a statusem materialnym rodziny.",
+                                                      "Rodziny wielodzietne są statystycznie zawsze najbogatszą grupą społeczną."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Konieczność utrzymania wielu osób z jednego lub dwóch pensji zwiększa ryzyko znalezienia się poniżej progu ubóstwa (choć program 500+ to zmienił)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego województwo warmińsko-mazurskie odnotowuje wysokie wskaźniki korzystania z pomocy społecznej?",
+                                      "options":  [
+                                                      "Z powodu całkowitego braku surowców naturalnych w tym regionie.",
+                                                      "Jest to skutek wysokiego bezrobocia strukturalnego (historycznie po likwidacji PGR) i słabego rozwoju gospodarczego.",
+                                                      "Z powodu nadmiaru miejsc pracy, których mieszkańcy nie chcą podejmować.",
+                                                      "Ponieważ ma najwięcej dużych miast generujących problemy społeczne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Region ten boryka się z problemami strukturalnymi od czasów transformacji ustrojowej, co utrwaliło enklawy ubóstwa na terenach wiejskich."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób „subiektywny wskaźnik zadowolenia z życia” różni się między miastami a wsiami w Polsce (dane 2018)?",
+                                      "options":  [
+                                                      "W miastach zadowolenie jest zawsze znacznie wyższe niż na wsi.",
+                                                      "Jest najwyższy na wsiach i w małych miastach, a niższy w średnich i dużych miastach.",
+                                                      "Jest identyczny w każdym typie miejscowości, niezależnie od wielkości.",
+                                                      "Na wsiach jest drastycznie niski z powodu braku dostępu do kultury."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Badania pokazują, że mimo niższych dochodów, mieszkańcy wsi często deklarują wyższy poziom zadowolenia (spokój, więzi sąsiedzkie) niż mieszkańcy dużych miast."
+                                  },
+                                  {
+                                      "question":  "Co stanowi główne kryterium przyznawania świadczeń pieniężnych z pomocy społecznej?",
+                                      "options":  [
+                                                      "Wiek powyżej 65 lat, niezależnie od sytuacji materialnej.",
+                                                      "Dochód na osobę w rodzinie niższy od ustawowej granicy ubóstwa (kryterium dochodowe).",
+                                                      "Miejsce zamieszkania na terenie wiejskim lub w małym mieście.",
+                                                      "Posiadanie wyższego wykształcenia, ale brak pracy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pomoc społeczna jest adresowana do osób, które nie są w stanie samodzielnie zaspokoić niezbędnych potrzeb życiowych, a ich dochód nie przekracza określonego progu."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Wysoki poziom rozwoju ekonomicznego i wysokie PKB są jedynymi wskaźnikami branymi pod uwagę przy ocenie jakości życia w danym regionie.",
+                                           "answer":  false,
+                                           "explanation":  "Poziom życia jest zagadnieniem złożonym. Oprócz wskaźników ekonomicznych (dochody, praca), ocenia się również infrastrukturę społeczną, techniczną oraz jakość środowiska przyrodniczego."
+                                       },
+                                       {
+                                           "sentence":  "Według badań GUS z 2018 r., mieszkańcy wsi i małych miast deklarowali wyższy poziom ogólnego zadowolenia z życia niż mieszkańcy największych polskich miast.",
+                                           "answer":  true,
+                                           "explanation":  "Najwyższy poziom zadowolenia (84%) odnotowano na wsiach i w miastach poniżej 20 tys. mieszkańców, podczas gdy w dużych miastach wskaźnik ten był niższy (81%)."
+                                       },
+                                       {
+                                           "sentence":  "Minimum socjalne to kwota niższa od minimum egzystencji, zapewniająca jedynie biologiczne przetrwanie.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie. Minimum egzystencji wyznacza dolną granicę konsumpcji (biologiczne przetrwanie), natomiast minimum socjalne jest kwotą wyższą, pozwalającą na zaspokojenie potrzeb społecznych i kulturalnych."
+                                       },
+                                       {
+                                           "sentence":  "Województwo warmińsko-mazurskie należy do regionów o najwyższym odsetku osób korzystających ze świadczeń pomocy społecznej.",
+                                           "answer":  true,
+                                           "explanation":  "Największy odsetek osób, którym przyznano świadczenia pomocy społecznej, odnotowano m.in. w województwach: warmińsko-mazurskim, kujawsko-pomorskim i świętokrzyskim."
+                                       },
+                                       {
+                                           "sentence":  "Wykluczenie komunikacyjne jest zaliczane do indywidualnych uwarunkowań ubóstwa, zależnych od cech danej osoby.",
+                                           "answer":  false,
+                                           "explanation":  "Wykluczenie komunikacyjne (brak połączeń transportowych) jest klasyfikowane jako uwarunkowanie zewnętrzne ubóstwa, niezależne od jednostki."
+                                       },
+                                       {
+                                           "sentence":  "Rozwiązania typu „smart city” (inteligentne miasto) są wdrażane w Polsce wyłącznie w największych metropoliach, takich jak Warszawa czy Kraków.",
+                                           "answer":  false,
+                                           "explanation":  "Cyfryzacja i nowoczesne rozwiązania (np. monitoring środowiska, sterowanie oświetleniem) są wdrażane także w miastach średnich i małych, np. w Łowiczu czy Andrychowie."
+                                       },
+                                       {
+                                           "sentence":  "Ustawowa granica ubóstwa to stała kwota, niezależna od wielkości gospodarstwa domowego.",
+                                           "answer":  false,
+                                           "explanation":  "Wysokość ustawowej granicy ubóstwa jest zmienna i zależy od wielkości gospodarstwa domowego (np. w 2019 r. była inna dla osoby samotnej, a inna na osobę w rodzinie czteroosobowej)."
+                                       },
+                                       {
+                                           "sentence":  "Województwa słabiej rozwinięte gospodarczo mogą oferować mieszkańcom wyższą jakość życia w aspekcie środowiskowym.",
+                                           "answer":  true,
+                                           "explanation":  "Mieszkańcy województw słabiej rozwiniętych (np. wschodnich) często mogą korzystać z wyższej jakości środowiska naturalnego (czystsze powietrze, krajobraz), co jest istotnym elementem jakości życia."
+                                       },
+                                       {
+                                           "sentence":  "Występowanie „gett biedy” w polskich miastach często wiąże się z osiedlami zamieszkiwanymi dawniej przez pracowników zlikwidowanych zakładów przemysłowych.",
+                                           "answer":  true,
+                                           "explanation":  "W polskich warunkach enklawami ubóstwa (gettami biedy) często stawały się osiedla przyfabryczne po upadku dużych zakładów przemysłowych."
+                                       },
+                                       {
+                                           "sentence":  "Partycypacja społeczna, np. udział w budżecie obywatelskim, nie ma wpływu na jakość życia mieszkańców.",
+                                           "answer":  false,
+                                           "explanation":  "Możliwość kształtowania najbliższej przestrzeni poprzez partycypację społeczną jest ważna dla wielu osób i realnie podnosi jakość ich życia."
+                                       }
+                                   ]
+                 }
+}

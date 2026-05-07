@@ -1,0 +1,391 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz6-t7",
+                     "unit":  "VI",
+                     "title":  "Działalność wiatru",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Deflacja",
+                                              "definition":  "Proces polegający na wywiewaniu cząstek mineralnych (piasku i pyłu) z powierzchni zbudowanych ze skał luźnych. "
+                                          },
+                                          {
+                                              "term":  "Korazja",
+                                              "definition":  "Niszcząca działalność wiatru polegająca na rysowaniu, polerowaniu i ścieraniu skał przez twarde ziarna mineralne niesione przez wiatr. "
+                                          },
+                                          {
+                                              "term":  "Bruk deflacyjny",
+                                              "definition":  "Pokrywa złożona z większych fragmentów skalnych, żwirów i kamieni, która pozostaje po wywianiu drobniejszego materiału przez wiatr."
+                                          },
+                                          {
+                                              "term":  "Misy deflacyjne",
+                                              "definition":  "Rozległe zagłębienia terenu powstałe w wyniku wywiewania dużych ilości piasku i pyłu, niekiedy sięgające poziomu wód gruntowych."
+                                          },
+                                          {
+                                              "term":  "Graniaki",
+                                              "definition":  "Głazy i okruchy skalne o ściętych, wypolerowanych powierzchniach i wyraźnych krawędziach, powstałe wskutek szlifowania przez wiatr."
+                                          },
+                                          {
+                                              "term":  "Jardangi",
+                                              "definition":  "Ostre grzbiety skalne o stromych stokach, oddzielające bruzdy korazyjne, powstałe w wyniku niszczenia skał mało zwięzłych."
+                                          },
+                                          {
+                                              "term":  "Grzyby skalne",
+                                              "definition":  "Pojedyncze skałki wąskie przy podstawie i rozszerzające się ku górze, powstałe w wyniku silniejszej korazji przy powierzchni ziemi. "
+                                          },
+                                          {
+                                              "term":  "Saltacja",
+                                              "definition":  "Transport wiatrowy polegający na cyklicznym odrywaniu się materiału o średnim ciężarze od podłoża i przemieszczaniu go skokami. "
+                                          },
+                                          {
+                                              "term":  "Suspensja",
+                                              "definition":  "Rodzaj transportu eolicznego, w którym najdrobniejszy materiał (głównie pył) utrzymuje się w powietrzu przez dłuższy czas in formie zawiesiny."
+                                          },
+                                          {
+                                              "term":  "Trakcja (pełzanie)",
+                                              "definition":  "Transport najcięższego materiału przez wiatr, polegający na jego toczeniu lub przesuwaniu po podłożu."
+                                          },
+                                          {
+                                              "term":  "Ripplemarki",
+                                              "definition":  "Drobne, piaszczyste grzbiety (zmarszczki eoliczne) ułożone prostopadle do kierunku wiania wiatru."
+                                          },
+                                          {
+                                              "term":  "Barchany",
+                                              "definition":  "Wydmy w kształcie sierpa, których ramiona są zwrócone zgodnie z kierunkiem wiatru i poruszają się szybciej niż część środkowa."
+                                          },
+                                          {
+                                              "term":  "Wydmy paraboliczne",
+                                              "definition":  "Wydmy, których ramiona są zwrócone przeciwnie do kierunku wiatru (unieruchomione przez roślinność), a środek porusza się szybciej. "
+                                          },
+                                          {
+                                              "term":  "Less",
+                                              "definition":  "Skała powstała z osadzenia drobnego pyłu wywianego z pustyń lub niecek wyschniętych jezior na znaczne odległości. "
+                                          },
+                                          {
+                                              "term":  "Hamada",
+                                              "definition":  "Pustynia kamienista pozbawiona gleby, na której występują nagie skały formowane przez wiatr."
+                                          },
+                                          {
+                                              "term":  "Serir",
+                                              "definition":  "Pustynia żwirowa, zbudowana ze żwirów oraz dużych ziaren piasku, często występująca na przedpolu gór."
+                                          },
+                                          {
+                                              "term":  "Erg",
+                                              "definition":  "Pustynia piaszczysta, charakteryzująca się występowaniem wydm i akumulacją materiału niesionego przez wiatr. "
+                                          },
+                                          {
+                                              "term":  "Takyr",
+                                              "definition":  "Pustynia ilasta, tworząca się często w nieckach wyschniętych jezior, będąca źródłem pyłu lessowego."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Barchan",
+                                                 "pair2":  "Wydma powstająca na obszarach suchych, której ramiona poruszają się szybciej niż środek"
+                                             },
+                                             {
+                                                 "pair1":  "Wydma paraboliczna",
+                                                 "pair2":  "Wydma powstająca na obszarach wilgotnych, której ramiona są hamowane przez roślinność"
+                                             },
+                                             {
+                                                 "pair1":  "Deflacja",
+                                                 "pair2":  "Proces wywiewania drobnego materiału skalnego (piasku i pyłu)"
+                                             },
+                                             {
+                                                 "pair1":  "Korazja",
+                                                 "pair2":  "Proces szlifowania i polerowania skał przez niesiony wiatrem materiał"
+                                             },
+                                             {
+                                                 "pair1":  "Grzyb skalny",
+                                                 "pair2":  "Forma powstała wskutek silniejszego niszczenia dolnych części skałki (do wys. 30 cm)"
+                                             },
+                                             {
+                                                 "pair1":  "Jardang",
+                                                 "pair2":  "Ostry grzbiet skalny oddzielający bruzdy korazyjne w skałach mniej zwięzłych"
+                                             },
+                                             {
+                                                 "pair1":  "Saltacja",
+                                                 "pair2":  "Skokowe przemieszczanie ziaren piasku przez wiatr"
+                                             },
+                                             {
+                                                 "pair1":  "Bruk deflacyjny",
+                                                 "pair2":  "Pokrywa z grubych żwirów i kamieni pozostała po wywianiu drobnego materiału"
+                                             },
+                                             {
+                                                 "pair1":  "Less",
+                                                 "pair2":  "Osad pyłowy naniesiony przez wiatr z pustyń lub wyschniętych jezior"
+                                             },
+                                             {
+                                                 "pair1":  "Hamada",
+                                                 "pair2":  "Pustynia kamienista z nagimi skałami, pozbawiona gleby"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Które z poniższych stwierdzeń najlepiej definiuje proces deflacji?",
+                                      "options":  [
+                                                      "Jest to proces osadzania materiału niesionego przez wiatr.",
+                                                      "Jest to ścieranie skał przez twarde ziarna niesione wiatrem.",
+                                                      "Jest to wywiewanie drobnego materiału z luźnych skał.",
+                                                      "Jest to toczenie ciężkich okruchów skalnych po podłożu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Deflacja polega na wywiewaniu cząstek mineralnych z powierzchni zbudowanych ze skał luźnych, np. z piasków."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się pustynia typu hamada? ",
+                                      "options":  [
+                                                      "Pokrywą zbudowaną ze żwirów i dużych ziaren piasku.",
+                                                      "Występowaniem nagich skał pozbawionych roślinności.",
+                                                      "Obecnością rozległych pokryw lessowych i gliniastych.",
+                                                      "Dominacją piaszczystych wzniesień zwanych wydmami."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pustynia kamienista (hamada) to obszar pozbawiony roślinności i gleby, na którym znajdują się nagie skały."
+                                  },
+                                  {
+                                      "question":  "Na czym polega transport eoliczny zwany saltacją?",
+                                      "options":  [
+                                                      "Na toczeniu ciężkiego materiału po podłożu.",
+                                                      "Na utrzymywaniu pyłu w formie zawiesiny.",
+                                                      "Na cyklicznym odrywaniu ziaren i ich skokach.",
+                                                      "Na przesuwaniu głazów przez gwałtowne porywy."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Saltacja to cykliczne odrywanie się materiału skalnego o średnim ciężarze na chwilę od podłoża (skoki)."
+                                  },
+                                  {
+                                      "question":  "Jaki rodzaj materiału buduje powierzchnię pustyni typu serir?",
+                                      "options":  [
+                                                      "Lite bloki skalne.",
+                                                      "Żwiry i duże ziarna piasku.",
+                                                      "Drobne pyły lessowe.",
+                                                      "Iły i muły rzeczne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pustynia żwirowa (serir) jest zbudowana ze żwirów oraz z dużych ziaren piasku."
+                                  },
+                                  {
+                                      "question":  "Co jest bezpośrednim skutkiem procesu korazji?",
+                                      "options":  [
+                                                      "Powstanie mis deflacyjnych.",
+                                                      "Utworzenie pokryw lessowych.",
+                                                      "Modelowanie form skalnych.",
+                                                      "Usypywanie wałów wydmowych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Korazja polega przede wszystkim na modelowaniu istniejących form skalnych poprzez rysowanie, polerowanie i ścieranie."
+                                  },
+                                  {
+                                      "question":  "Czym są ripplemarki (zmarszczki eoliczne)? ",
+                                      "options":  [
+                                                      "Zagłębieniami powstałymi po wywianiu piasku.",
+                                                      "Skalnymi grzbietami oddzielającymi jardangi.",
+                                                      "Drobymi grzbietami piaszczystymi na wydmach.",
+                                                      "Głazami o wypolerowanych przez wiatr ścianach."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Ripplemarki (zmarszczki eoliczne) to drobne piaszczyste grzbiety rozdzielone niewielkimi równoległymi obniżeniami."
+                                  },
+                                  {
+                                      "question":  "Jak powstaje bruk deflacyjny?",
+                                      "options":  [
+                                                      "Przez akumulację grubych frakcji niesionych przez wiatr.",
+                                                      "Wskutek wywiewania drobnego materiału z warstwy gruntu.",
+                                                      "Poprzez chemiczne spojenie ziaren piasku i żwiru.",
+                                                      "Na skutek intensywnego ścierania skał przez piasek."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Bruk deflacyjny powstaje wtedy, gdy wiatr wywiewa z powierzchniowej warstwy gruntu drobny materiał skalny (pył i piasek), pozostawiając grubsze fragmenty."
+                                  },
+                                  {
+                                      "question":  "Jaka jest cecha charakterystyczna budowy barchanów?",
+                                      "options":  [
+                                                      "Ramiona są zwrócone zgodnie z kierunkiem wiatru.",
+                                                      "Ramiona są zwrócone przeciwnie do kierunku wiatru.",
+                                                      "Kształt jest niezależny od kierunku wiania wiatru.",
+                                                      "Ramiona są zawsze unieruchomione przez roślinność."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Barchany mają ramiona zwrócone zgodnie z kierunkiem wiania wiatru, ponieważ poruszają się one szybciej niż środek wydmy."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają graniaki wiatrowe? ",
+                                      "options":  [
+                                                      "Przez osadzanie pyłu na zawietrznej stronie głazu.",
+                                                      "Przez szlifowanie skał ziarnami niesionymi przez wiatr.",
+                                                      "Przez pękanie skał pod wpływem zmian temperatury.",
+                                                      "Przez toczenie okruchów skalnych po twardym podłożu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Graniaki wiatrowe to głazy i okruchy skalne o ściętych, wypolerowanych powierzchniach, powstające wskutek szlifowania i ścierania skały ziarnami mineralnymi niesionymi przez wiatr."
+                                  },
+                                  {
+                                      "question":  "Dlaczego grzyby skalne mają węższą podstawę?",
+                                      "options":  [
+                                                      "Ponieważ wiatr u samej podstawy wieje z nieporównywalnie większą siłą.",
+                                                      "Ponieważ korazja zachodzi najsilniej do wysokości ok. 30 cm.",
+                                                      "Ponieważ górne części skał są znacznie bardziej podatne na erozję.",
+                                                      "Ponieważ materiał skalny osadza się wyłącznie w ich górnych partiach."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Proces korazji zachodzi najintensywniej do ok. 30 cm nad powierzchnią terenu, gdzie wiatr niesie największą ilość materiału, co prowadzi do silniejszego niszczenia dolnych części skał."
+                                  },
+                                  {
+                                      "question":  "Czym są jardangi?",
+                                      "options":  [
+                                                      "Ostrymi grzbietami skalnymi oddzielającymi bruzdy.",
+                                                      "Rozległymi zagłębieniami wywianymi w piasku.",
+                                                      "Wałami piaszczystymi usypanymi poprzecznie do wiatru.",
+                                                      "Pojedynczymi ostańcami o kształcie zbliżonym do grzyba."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jardangi to ostre grzbiety skalne o stromych stokach, które oddzielają od siebie wąskie i podłużne bruzdy korazyjne."
+                                  },
+                                  {
+                                      "question":  "Jaki czynnik jest kluczowy dla powstania wydm parabolicznych?",
+                                      "options":  [
+                                                      "Całkowity brak roślinności na danym obszarze piaszczystym.",
+                                                      "Występowanie zmiennych kierunków wiania silnego wiatru.",
+                                                      "Obecność roślinności lub wilgoci hamującej ramiona wydmy.",
+                                                      "Bardzo duża ilość materiału piaszczystego w podłożu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wydmy paraboliczne tworzą się na obszarach, gdzie klimat umożliwia rozwój roślinności, która unieruchamia ramiona wydmy."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób wiatr transportuje najcięższy materiał skalny?",
+                                      "options":  [
+                                                      "Poprzez utrzymywanie go w stałej zawiesinie.",
+                                                      "Poprzez wysokie skoki (saltację) nad podłożem.",
+                                                      "Poprzez toczenie lub przesuwaniu po podłożu (pełzanie).",
+                                                      "Poprzez gwałtowne wiry powietrzne w czasie burz."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Pełzanie to transport najcięższego materiału, polegający na toczeniu lub przesuwaniu go po podłożu."
+                                  },
+                                  {
+                                      "question":  "W jakych warunkach powstają wydmy gwiaździste? ",
+                                      "options":  [
+                                                      "Tam, gdzie wiatr wieje stale z jednego kierunku.",
+                                                      "Tam, gdzie kierunek wiatru ulega częstym zmianom.",
+                                                      "Tam, gdzie występuje gęsta i wysoka roślinność.",
+                                                      "Tam, gdzie podłoże jest trwale wilgotne i spoiste."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wydmy gwiaździste powstają tam, gdzie kierunek wiatru często się zmienia."
+                                  },
+                                  {
+                                      "question":  "Co może ograniczać głębokość mis deflacyjnych?",
+                                      "options":  [
+                                                      "Całkowite wyczerpanie zasobów piasku w okolicy.",
+                                                      "Dotarcie wywiewania do poziomu wód gruntowych.",
+                                                      "Wystąpienie bardzo silnych wiatrów sztormowych.",
+                                                      "Nagromadzenie się zbyt dużej ilości roślinności."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Dna niektórych mis deflacyjnych, np. na pustyni Namib, są na tyle głębokie, że sięgają poziomu wód gruntowych."
+                                  },
+                                  {
+                                      "question":  "Jaka jest geneza pokryw lessowych?",
+                                      "options":  [
+                                                      "Powstają z materiału osadzanego przez topniejące lodowce.",
+                                                      "Są efektem akumulacji pyłu wywianego z obszarów pustynnych.",
+                                                      "Tworzą się w wyniku wietrzenia chemicznego skał węglanowych.",
+                                                      "Stanowią produkt niszczenia brzegów morskich przez fale."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pokrywy lessowe tworzą się, gdy drobny pył przenoszony z obszarów pozbawionych roślinności (np. pustyń) jest wywiewany na znaczne odległości, a następnie osadzany."
+                                  },
+                                  {
+                                      "question":  "Jak wilgotność podłoża wpływa na procesy eoliczne?",
+                                      "options":  [
+                                                      "Zwiększa podatność na wywiewanie poprzez rozluźnienie gruntu.",
+                                                      "Ułatwia transport materiału dzięki poślizgowi ziaren.",
+                                                      "Utrudnia wywiewanie poprzez spojenie ziaren mineralnych.",
+                                                      "Nie ma istotnego wpływu na intensywność erozji wiatrowej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wilgoć powoduje spojenie ziaren mineralnych, co utrudnia ich wywiewanie, zmniejszając podatność podłoża na erozję."
+                                  },
+                                  {
+                                      "question":  "Co odróżnia dynamikę ruchu barchanów od wydm parabolicznych?",
+                                      "options":  [
+                                                      "W barchanach ramiona poruszają się wolniej niż środek.",
+                                                      "W barchanach ramiona poruszają się szybciej niż środek.",
+                                                      "Wydmy paraboliczne przemieszczają się znacznie szybciej niż barchany.",
+                                                      "W obu typach wydm ramiona są nieruchome względem środka."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W barchanach ramiona poruszają się szybciej niż środek (zawierają mniej materiału), natomiast w wydmach parabolicznych ramiona poruszają się wolniej (są hamowane przez roślinność)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Proces, w którym wiatr unosi drobny materiał skalny, pozostawiając na miejscu grubsze okruchy i tworząc bruk deflacyjny, nazywany jest korazją.",
+                                           "answer":  false,
+                                           "explanation":  "Wywiewanie drobnego materiału to deflacja, a nie korazja; bruk deflacyjny jest efektem deflacji."
+                                       },
+                                       {
+                                           "sentence":  "Wydmy paraboliczne powstają na obszarach, gdzie występuje roślinność lub wilgoć, a ich ramiona są zwrócone w stronę przeciwną do kierunku wiania wiatru.",
+                                           "answer":  true,
+                                           "explanation":  "Ramiona wydm parabolicznych są unieruchomione przez roślinność lub wilgoć i zwrócone przeciwnie do kierunku wiatru."
+                                       },
+                                       {
+                                           "sentence":  "Grzyby skalne i jardangi są formami terenu powstałymi w wyniku deflacji, czyli procesu wywiewania luźnych osadów przez wiatr.",
+                                           "answer":  false,
+                                           "explanation":  "Grzyby skalne i jardangi (bruzdy korazyjne) powstają w wyniku korazji, czyli szlifowania skał przez niesiony piasek."
+                                       },
+                                       {
+                                           "sentence":  "Pustynia kamienista, nazywana również hamadą, to obszar pozbawiony gleby i roślinności, na którym występują nagie skały.",
+                                           "answer":  true,
+                                           "explanation":  "Pustynia kamienista to hamada, charakteryzująca się występowaniem nagich skał."
+                                       },
+                                       {
+                                           "sentence":  "W transporcie wiatrowym saltacja polega na utrzymywaniu się najdrobniejszego materiału, takiego jak pył, przez długi czas w powietrzu w formie zawiesiny.",
+                                           "answer":  false,
+                                           "explanation":  "Utrzymywanie się pyłu w zawiesinie to suspensja; saltacja polega na skokowym przemieszczaniu materiału."
+                                       },
+                                       {
+                                           "sentence":  "Ramiona barchanów poruszają się szybciej niż ich część środkowa i są skierowane zgodnie z kierunkiem wiania wiatru.",
+                                           "answer":  true,
+                                           "explanation":  "Ramiona barchanów zawierają mniej materiału, poruszają się szybciej niż środek i są zwrócone zgodnie z wiatrem."
+                                       },
+                                       {
+                                           "sentence":  "Pustynia żwirowa, zbudowana ze żwirów oraz dużych ziaren piasku, jest określana mianem seriru.",
+                                           "answer":  true,
+                                           "explanation":  "Pustynia żwirowa to serir, występujący m.in. na przedpolu gór."
+                                       },
+                                       {
+                                           "sentence":  "Proces korazji zachodzi najintensywniej na wysokości powyżej 2 metrów, gdzie wiatr osiąga największą prędkość i siłę nośną.",
+                                           "answer":  false,
+                                           "explanation":  "Korazja zachodzi najintensywniej do ok. 30 cm nad powierzchnią, gdzie wiatr niesie najwięcej materiału."
+                                       },
+                                       {
+                                           "sentence":  "Misy deflacyjne to rozległe zagłębienia terenu, które powstają wskutek wywiewania dużych ilości piasku i pyłu na obszarach pozbawionych roślinności.",
+                                           "answer":  true,
+                                           "explanation":  "Misy deflacyjne tworzą się w wyniku deflacji, czyli wywiewania materiału sypkiego."
+                                       },
+                                       {
+                                           "sentence":  "Pokrywy lessowe powstają w wyniku erozyjnej działalności wiatru, który niszczy podłoże skalne w miejscu ich występowania.",
+                                           "answer":  false,
+                                           "explanation":  "Pokrywy lessowe są efektem akumulacji (osadzania) pyłu przenoszonego przez wiatr na znaczne odległości."
+                                       },
+                                       {
+                                           "sentence":  "Wydmy gwiaździste tworzą się na obszarach, gdzie wiatr wieje stale z jednego, niezmiennego kierunku.",
+                                           "answer":  false,
+                                           "explanation":  "Wydmy gwiaździste powstają tam, gdzie kierunek wiatru często się zmienia."
+                                       },
+                                       {
+                                           "sentence":  "Ostańce deflacyjne to pagórki o stromych stokach, które powstały w efekcie nierównomiernego usuwania przez wiatr piasków lub pyłów.",
+                                           "answer":  true,
+                                           "explanation":  "Ostańce deflacyjne tworzą się w wyniku nierównomiernego wywiewania materiału (deflacji), często gdy fragment terenu jest utrwalony przez roślinność."
+                                       }
+                                   ]
+                 }
+}

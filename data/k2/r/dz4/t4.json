@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz4-t4",
+    "title": "Główne obszary upraw",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rośliny alimentacyjne (żywieniowe)",
+        "definition": "Grupa roślin uprawnych, które są bezpośrednio lub po przetworzeniu spożywane przez człowieka (np. zboża, rośliny strączkowe, bulwiaste i korzeniowe)."
+      },
+      {
+        "term": "Rośliny przemysłowe",
+        "definition": "Rośliny wykorzystywane jako surowiec w różnych działach przemysłu; dzielą się m.in. na rośliny cukrodajne, oleiste, włóknodajne i kauczukodajne."
+      },
+      {
+        "term": "Używki",
+        "definition": "Produkty roślinne (np. herbata, kawa, kakao), które mają specyficzny wpływ na układ nerwowy człowieka i w zdecydowanej większości nie posiadają wartości odżywczych."
+      },
+      {
+        "term": "Rośliny pastewne",
+        "definition": "Grupa roślin uprawnych przeznaczanych przede wszystkim na paszę dla zwierząt gospodarskich."
+      },
+      {
+        "term": "Zboża",
+        "definition": "Najważniejsza grupa roślin uprawnych na świecie, stanowiąca podstawę wyżywienia. Ich zasiewy zajmują około 70% wszystkich gruntów ornych."
+      },
+      {
+        "term": "Ryż",
+        "definition": "Zboże stanowiące podstawę wyżywienia w południowej i wschodniej Azji. Wymaga klimatu zwrotnikowego wilgotnego, wysokiej temperatury i bardzo dużych opadów."
+      },
+      {
+        "term": "Kukurydza",
+        "definition": "Zboże, którego największymi producentami są USA, Chiny i Brazylia. Odznacza się wysokimi wymaganiami klimatyczno-glebowymi i potrzebuje obfitego nawożenia."
+      },
+      {
+        "term": "Pszenica",
+        "definition": "Zboże należące do najważniejszych roślin żywieniowych świata, którego głównymi producentami są m.in. Chiny, Indie, Rosja i Stany Zjednoczone."
+      },
+      {
+        "term": "Ziemniak",
+        "definition": "Roślina bulwiasta o niewielkich wymaganiach klimatycznych i glebowych, charakteryzująca się jednak brakiem tolerancji na mróz i nadmierne opady."
+      },
+      {
+        "term": "Trzcina cukrowa",
+        "definition": "Ciepło- i wilgotnolubna roślina przemysłowa z grupy cukrodajnych, uprawiana w klimacie zwrotnikowym lub podzwrotnikowym (m.in. w Brazylii i Indiach)."
+      },
+      {
+        "term": "Burak cukrowy",
+        "definition": "Roślina przemysłowa cukrodajna, uprawiana na żyznych glebach w klimacie umiarkowanym ciepłym, odznaczająca się długim okresem wegetacji (m.in. w Rosji i Francji)."
+      },
+      {
+        "term": "Bawełna",
+        "definition": "Roślina przemysłowa włóknodajna uprawiana w suchym i ciepłym klimacie zwrotnikowym i podzwrotnikowym na mało żyznych glebach, m.in. w Indiach, Chinach i USA."
+      },
+      {
+        "term": "Soja",
+        "definition": "Roślina oleista i strączkowa o niewielkich wymaganiach glebowych, niemająca odporności na przymrozki. Uprawiana głównie w USA, Brazylii i Argentynie."
+      },
+      {
+        "term": "Herbata",
+        "definition": "Popularna używka pochodząca z południowo-wschodniej Azji, której największymi światowymi producentami są Chiny, Indie oraz Sri Lanka."
+      },
+      {
+        "term": "Kawa (Kawowiec)",
+        "definition": "Używka wywodząca się z Afryki, obecnie uprawiana głównie w Ameryce Południowej (Brazylia, Kolumbia), Afryce (Wyżyna Abisyńska) oraz w południowo-wschodniej Azji."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Ryż",
+        "pair2": "Zboże wymagające klimatu zwrotnikowego wilgotnego (często w odmianie monsunowej), wysokiej temperatury i bardzo dużych opadów."
+      },
+      {
+        "pair1": "Żyto",
+        "pair2": "Zboże odporne na mróz i choroby, rosnące m.in. w klimacie umiarkowanym chłodnym, nawet na słabych i piaszczystych glebach."
+      },
+      {
+        "pair1": "Chiny, Indie, Sri Lanka",
+        "pair2": "Najwięksi na świecie producenci i eksporterzy herbaty."
+      },
+      {
+        "pair1": "Kukurydza",
+        "pair2": "Roślina o bardzo wysokich wymaganiach klimatyczno-glebowych, której największym producentem na świecie są Stany Zjednoczone."
+      },
+      {
+        "pair1": "Bawełna",
+        "pair2": "Włóknodajna roślina przemysłowa uprawiana na mało żyznych glebach w klimacie suchym i ciepłym; główni producenci to Indie, Chiny i USA."
+      },
+      {
+        "pair1": "Burak cukrowy",
+        "pair2": "Uprawiany na żyznych glebach w klimacie umiarkowanym ciepłym; główni producenci to m.in. Rosja, Francja, Niemcy i USA."
+      },
+      {
+        "pair1": "Ziemniak",
+        "pair2": "Popularna roślina bulwiasta; ma niewielkie wymagania klimatyczne i glebowe, ale nie toleruje mrozów i nadmiernych opadów. Główny producent to Chiny."
+      },
+      {
+        "pair1": "Brazylia, Kolumbia, Wietnam, Indonezja",
+        "pair2": "Główne państwa, na terenie których znajdują się rozległe uprawy krzewów lub drzew kawowca."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Która z poniższych par roślin należy w całości do grupy roślin przemysłowych włóknodajnych?",
+        "options": [
+          "Pszenica ozima oraz ryż",
+          "Bawełna oraz len siewny",
+          "Burak cukrowy i trzcina",
+          "Bób, groch i soczewica"
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z podziałem roślin uprawnych ze względu na cechy biologiczne i wykorzystanie, bawełna i len są klasyfikowane jako rośliny przemysłowe włóknodajne."
+      },
+      {
+        "question": "Które państwa odgrywają rolę największych producentów ryżu na świecie, przeznaczając go głównie na własne potrzeby?",
+        "options": [
+          "Stany Zjednoczone oraz Kanada",
+          "Federacja Rosyjska oraz Polska",
+          "Chińska Republika Ludowa i Indie",
+          "Brazylia oraz Republika Argentyny"
+        ],
+        "answer": "C",
+        "explanation": "Chiny i Indie to najwięksi producenci ryżu na świecie, którzy z powodu ogromnego zapotrzebowania wewnętrznego eksportują jedynie niewielkie nadwyżki produkcyjne."
+      },
+      {
+        "question": "Co jest główną cechą roślin zaliczanych do używek (takich jak herbata, kawa czy kakao) w kontekście ich wartości żywieniowych?",
+        "options": [
+          "Posiadają bardzo wysoką i cennych wartość odżywczą.",
+          "Stanowią główne i najważniejsze źródło białka w diecie.",
+          "Mają znikomą lub nie posiadają żadnych wartości odżywczych.",
+          "Są bogate w witaminy niezbędne do rozwoju organizmu."
+        ],
+        "answer": "C",
+        "explanation": "Używki to rośliny, w których zawarte związki chemiczne oddziałują na układ nerwowy, jednak zdecydowana większość z nich nie posiada praktycznie żadnych wartości odżywczych."
+      },
+      {
+        "question": "Która z wymienionych roślin jest klasyfikowana jako bulwiasta i wymaga ciepłego klimatu, będąc popularną uprawą w strefie równikowej?",
+        "options": [
+          "Maniok jadalny (kassawa)",
+          "Pszenica zwyczajna ozima",
+          "Rzepak o krótkiej wegetacji",
+          "Burak cukrowy korzeniowy"
+        ],
+        "answer": "A",
+        "explanation": "Maniok to wieloletni krzew wytwarzający jadalne bulwy, uprawiany w strefie równikowej, z którego wyrabia się między innymi tapiokę."
+      },
+      {
+        "question": "Który kraj, pomimo że ziemniak posiada stosunkowo niewielkie wymagania klimatyczne i glebowe, jest obecnie jego największym światowym producentem?",
+        "options": [
+          "Rosja (7,6% produkcji światowej)",
+          "USA (5,2% produkcji światowej)",
+          "Indie (10,8% produkcji światowej)",
+          "Chiny (25,6% produkcji światowej)"
+        ],
+        "answer": "D",
+        "explanation": "Zgodnie ze strukturą światowej produkcji z 2017 r., Chiny są największym producentem ziemniaków, odpowiadając za ponad jedną czwartą globalnych zbiorów tej rośliny."
+      },
+      {
+        "question": "Kukurydza wyróżnia się na tle wielu innych zbóż specyficznymi wymaganiami uprawowymi. Co jest jej główną cechą charakterystyczną?",
+        "options": [
+          "Jest wybitnie odporna na bardzo niskie temperatury mrozu.",
+          "Wymaga wysokich nakładów ciepła i obfitego nawożenia gleb.",
+          "Osiąga najwyższe plony na glebach słabych i piaszczystych.",
+          "Jej wegetacja przebiega najszybciej w klimacie subpolarnym."
+        ],
+        "answer": "B",
+        "explanation": "Kukurydza to roślina ciepłolubna o bardzo wysokich wymaganiach klimatyczno-glebowych. Wymaga długiego okresu wegetacji oraz wyjątkowo obfitego nawożenia."
+      },
+      {
+        "question": "Burak cukrowy oraz trzcina cukrowa to kluczowe rośliny cukrodajne. Czym różnią się warunki uprawy buraka cukrowego od wymagań uprawowych trzciny?",
+        "options": [
+          "Burak wymaga wilgotnego klimatu równikowego, a trzcina chłodnego.",
+          "Burak rośnie na piaskach, podczas gdy trzcina na madach rzecznych.",
+          "Burak potrzebuje silnych mrozów, aby wykształcić cukier w bulwach.",
+          "Burak wymaga klimatu umiarkowanego ciepłego oraz żyznych gleb."
+        ],
+        "answer": "D",
+        "explanation": "Burak cukrowy uprawiany jest na żyznych glebach w klimacie umiarkowanym ciepłym, natomiast trzcina cukrowa to roślina ciepło- i wilgotnolubna charakterystyczna dla stref zwrotnikowych."
+      },
+      {
+        "question": "Bawełna jest rośliną przemysłową o bardzo dużym znaczeniu światowym. Jakie warunki naturalne są uznawane za najbardziej optymalne do jej uprawy?",
+        "options": [
+          "Chłodny i wilgotny klimat oraz bardzo żyzne gleby brunatne.",
+          "Suchy i ciepły klimat zwrotnikowy oraz mało żyzne gleby.",
+          "Umiarkowany klimat oraz gleby bagienne z dużą ilością wody.",
+          "Monsunowy klimat równikowy oraz kwaśne gleby bielicowe."
+        ],
+        "answer": "B",
+        "explanation": "Bawełna jest uprawiana głównie w suchym i ciepłym klimacie zwrotnikowym i podzwrotnikowym na mało żyznych glebach, co w znacznym stopniu odróżnia ją od roślin o wyższych wymaganiach glebowych."
+      },
+      {
+        "question": "Co najbardziej trafnie charakteryzuje soję w kontekście jej wymagań klimatyczno-glebowych oraz nowoczesnych, stosowanych współcześnie metod produkcji rolniczej?",
+        "options": [
+          "Ma duże wymagania glebowe, nie znosi przymrozków i często to roślina GMO.",
+          "Jest bardzo odporna na mróz i uprawia się ją głównie w klimacie polarnym.",
+          "Posiada niewielkie wymagania glebowe, ale potrzebuje ogromnych opadów.",
+          "Stanowi roślinę włóknodajną, która nie jest poddawana żadnym modyfikacjom."
+        ],
+        "answer": "A",
+        "explanation": "Soja wykazuje wprawdzie niewielkie wymagania klimatyczne, ale ma bardzo duże wymagania glebowe, nie posiada odporności na przymrozki i należy obecnie do najczęściej modyfikowanych genetycznie roślin (GMO)."
+      },
+      {
+        "question": "Główne obszary uprawy krzewów kawowca koncentrują się na wybranych kontynentach. W jakich regionach geograficznych roślina ta ma aktualnie największe znaczenie?",
+        "options": [
+          "Wyłącznie na obszarze klimatu umiarkowanego chłodnego w Europie.",
+          "Na północnych równinach Stanów Zjednoczonych i w całej Kanadzie.",
+          "W Ameryce Południowej (Brazylia), Afryce i Azji Południowo-Wschodniej.",
+          "Tylko i wyłącznie na suchych terenach pustynnych na Bliskim Wschodzie."
+        ],
+        "answer": "C",
+        "explanation": "Kawa pochodzi z kontynentu afrykańskiego, a obecnie jest uprawiana głównie w Ameryce Południowej (m.in. Brazylia, Kolumbia), Afryce (Wyżyna Abisyńska) oraz w wybranych krajach Azji (Indonezja, Wietnam)."
+      },
+      {
+        "question": "Różnica między wielkością zbiorów a wysokością plonów jest bardzo ważna w rzetelnej ocenie efektywności rolnictwa na świecie. Czym dokładnie są plony?",
+        "options": [
+          "Całkowitą roczną masą wszystkich zebranych płodów wyrażaną tylko w tonach.",
+          "Wartością finansową eksportowanych płodów rolnych w danym roku podatkowym.",
+          "Zyskiem netto rolnika ze sprzedaży wyprodukowanej w gospodarstwie żywności.",
+          "Masą płodów rolnych zebranych z jednostki powierzchni, np. decytonach na hektar."
+        ],
+        "answer": "D",
+        "explanation": "Według podręcznika zbiory to całkowita masa zebranych płodów (mierzona przeważnie w tonach), podczas gdy plony to masa zebrana z określonej jednostki powierzchni, wyrażana zazwyczaj w decytonach na hektar (dt/ha)."
+      },
+      {
+        "question": "W Europie Zachodniej uzyskuje się najwyższe na świecie plony zbóż pomimo dość przeciętnych zbiorów całkowitych. Co jest najważniejszą przyczyną tego zjawiska?",
+        "options": [
+          "Prowadzenie rolnictwa wysokotowarowego z ogromnymi nakładami nawozów i maszyn.",
+          "Ekstensywne wykorzystywanie niezwykle taniej siły roboczej i ogromnych areałów.",
+          "Skupienie całej produkcji na maleńkich i nie stechnicyzowanych farmach lokalnych.",
+          "Wyłączne stosowanie prymitywnych metod rolnictwa żarowo-odłogowego na nizinach."
+        ],
+        "answer": "A",
+        "explanation": "Bardzo wysokie plony w państwach Europy Zachodniej to przede wszystkim efekt prowadzenia rolnictwa intensywnego, kapitałochłonnego, korzystającego na dużą skalę z nowoczesnych środków produkcji, mechanizacji, nawożenia oraz specjalistycznej wiedzy."
+      },
+      {
+        "question": "W oparciu o zestawienie danych z podręcznika, plony pszenicy w Australii (17 dt/ha) są znacznie niższe niż w Nowej Zelandii (87 dt/ha). Jaką główną zależność sformułowano dla takich zjawisk?",
+        "options": [
+          "Spadek plonów jest ściśle związany z procesem przechodzenia na rolnictwo całkowicie ekologiczne.",
+          "Im korzystniejsze warunki naturalne i wyższy poziom rozwoju gospodarczego, tym wyższe są plony.",
+          "Na wysokość plonów wpływa wyłącznie bardzo niska szerokość geograficzna i duże nasłonecznienie.",
+          "Kraje o najwyższym wskaźniku lesistości zawsze notują drastyczny spadek plonów wszystkich zbóż."
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z ćwiczeniem analitycznym zawartym w podręczniku, główną prawidłowością determinującą istotne różnice w wysokości plonów (np. pszenicy) w różnych państwach jest korelacja korzystnych warunków naturalnych i ogólnego poziomu rozwoju gospodarczego."
+      },
+      {
+        "question": "W ciągu ostatnich 50 lat struktura użytkowania ziemi w Wielkiej Brytanii oraz Brazylii uległa bardzo radykalnym, lecz odwrotnym do siebie zmianom. Jak one przebiegały?",
+        "options": [
+          "W obu tych państwach nastąpił niemal całkowity zanik wielkoobszarowych lasów iglastych.",
+          "Brazylia intensywnie zalesia swoje tereny, podczas gdy Brytyjczycy wycinają wszystkie lasy.",
+          "W Brazylii wykarczowano ogromne obszary lasów pod uprawy, a w Brytanii wzrosła lesistość.",
+          "Oba państwa zmniejszyły areał gruntów ornych na rzecz tworzenia rezerwatów przyrody i miast."
+        ],
+        "answer": "C",
+        "explanation": "Zupełnie odmienne poziomy rozwoju gospodarczego sprawiły, że wylesiona w przeszłości Wielka Brytania stopniowo odbudowuje obszary leśne kosztem użytków rolnych, natomiast rozwijająca się rolniczo Brazylia masowo wycina Puszczę Amazońską w celu pozyskania nowych gruntów ornych."
+      },
+      {
+        "question": "W południowej części regionu łacińskoamerykańskiego (m.in. Nizina La Platy) panuje dość wilgotny klimat i występują żyzne gleby. Jakie ogromne uprawy tam dominują?",
+        "options": [
+          "Przeważa uprawa kukurydzy, pszenicy, soi, bawełny oraz wydajnej trzciny cukrowej.",
+          "Dominuje rolnictwo nastawione na buraki cukrowe, rzepak, słonecznik oraz pszenżyto.",
+          "Uprawia się tam głównie mrozoodporne gatunki żyta, owsa, ziemniaków i lnu siewnego.",
+          "Obszar ten wykorzystywany jest wyłącznie pod prymitywne uprawy suchego ryżu i taro."
+        ],
+        "answer": "A",
+        "explanation": "W specyficznym regionie łacińskoamerykańskim, a zwłaszcza na jego południu, dzięki stosunkowo wilgotnemu klimatowi i dobrym glebom, dominują rozległe, wielkoobszarowe uprawy takich roślin jak kukurydza, pszenica, soja, bawełna czy trzcina cukrowa."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Pszenica jest zbożem, które do prawidłowego rozwoju i osiągania najwyższych plonów bezwzględnie wymaga klimatu zwrotnikowego wybitnie wilgotnego z obfitymi opadami monsunowymi.",
+        "answer": false,
+        "explanation": "Opisane wymagania klimatyczne (gorący i wybitnie wilgotny klimat monsunowy) dotyczą ryżu mokrego. Pszenica rośnie głównie w strefie klimatów umiarkowanych i podzwrotnikowych."
+      },
+      {
+        "sentence": "Państwa osiągające największe zbiory całkowite zbóż na świecie, takie jak Chiny i Indie, odznaczają się jednocześnie najwyższymi plonami z jednego hektara dzięki wysokiej intensywności rolnictwa azjatyckiego.",
+        "answer": false,
+        "explanation": "Zbiory (całkowita masa zebranych płodów) w Chinach i Indiach są najwyższe ze względu na rozległy areał i liczbę gospodarstw, jednak to rolnictwo krajów Europy Zachodniej osiąga znacznie wyższe plony (wydajność z hektara) dzięki kapitałochłonnej intensyfikacji."
+      },
+      {
+        "sentence": "Burak cukrowy to główna roślina cukrodajna uprawiana na ogromną skalę w strefie klimatów równikowych i zwrotnikowych, odznaczająca się bardzo wysokim zapotrzebowaniem na ciepło przez cały rok.",
+        "answer": false,
+        "explanation": "To pułapka. Burak cukrowy jest uprawiany w klimacie umiarkowanym ciepłym na żyznych glebach. Rośliną cukrodajną uprawianą w strefach zwrotnikowych i podrównikowych jest trzcina cukrowa."
+      },
+      {
+        "sentence": "Ziemniaki, ze względu na swoje bardzo wysokie wymagania klimatyczno-glebowe, są uprawiane niemal wyłącznie na obszarach o najżyźniejszych madach w strefie międzyzwrotnikowej.",
+        "answer": false,
+        "explanation": "Ziemniak należy do roślin o niewielkich wymaganiach klimatycznych i glebowych. Jego rozwój ograniczają jedynie mrozy oraz bardzo nadmierne opady."
+      },
+      {
+        "sentence": "Bawełna, len, agawa sizalowa oraz konopie siewne to przykłady upraw zaliczanych do grupy roślin przemysłowych włóknodajnych.",
+        "answer": true,
+        "explanation": "Zgodnie z klasyfikacją uwzględniającą cechy biologiczne i wykorzystanie roślin, wszystkie wymienione przykłady należą do kategorii roślin przemysłowych włóknodajnych."
+      },
+      {
+        "sentence": "Kukurydza to zboże bardzo odporne na trudne warunki klimatyczne, w tym na surowy mróz i słabe, piaszczyste gleby, dlatego jej uprawy koncentrują się w klimacie umiarkowanym chłodnym.",
+        "answer": false,
+        "explanation": "Powyższy opis dotyczy żyta. Kukurydza to roślina ciepłolubna o bardzo wysokich wymaganiach klimatyczno-glebowych, wymagająca m.in. obfitego nawożenia."
+      },
+      {
+        "sentence": "Kawowiec pochodzi z kontynentu afrykańskiego, jednak współcześnie największe uprawy tej rośliny znajdują się m.in. w Ameryce Południowej (Brazylia, Kolumbia) oraz południowo-wschodniej Azji.",
+        "answer": true,
+        "explanation": "Mimo afrykańskiego rodowodu rośliny (Wyżyna Abisyńska), obecnie głównymi producentami ziaren kawy są państwa leżące na kontynentach amerykańskim (Brazylia) i azjatyckim (Wietnam, Indonezja)."
+      },
+      {
+        "sentence": "Soja to popularna roślina strączkowa, która wykazuje bardzo niewielkie wymagania glebowe i w wyniku modyfikacji genetycznych posiada niezwykłą odporność na przymrozki, stąd masowo uprawia się ją na północy.",
+        "answer": false,
+        "explanation": "Zgodnie z treścią podręcznika soja odznacza się dużymi wymaganiami glebowymi i całkowitym brakiem odporności na przymrozki, co stanowi odwrotność opisu w pytaniu."
+      },
+      {
+        "sentence": "Bawełna jest rośliną rolniczą uprawianą głównie na suchych i ciepłych stanowiskach w strefie zwrotnikowej i podzwrotnikowej, często na mało żyznych glebach z wykorzystaniem środków chemicznych.",
+        "answer": true,
+        "explanation": "Zgodnie z charakterystyką roślin włóknodajnych, bawełna preferuje mało żyzne gleby oraz klimat suchy i ciepły, przy jednoczesnej konieczności stosowania chemii rolnej."
+      },
+      {
+        "sentence": "Maniok jadalny (kassawa) to krzew dostarczający jadalnych bulw, który stanowi podstawę wyżywienia dla milionów ludzi w strefie równikowej i wymaga ogromnych zabiegów by znosić obfite opady.",
+        "answer": false,
+        "explanation": "Maniok uprawiany jest w strefie równikowej ze względu na klimat, ale zgodnie z podręcznikiem absolutnie nie toleruje mrozu ani nadmiernych opadów."
+      },
+      {
+        "sentence": "Rośliny zaliczane do używek, takie jak herbata, koka czy kakaowiec, stanowią bardzo bogate źródło pełnowartościowego białka i witamin dla głodującej ludności w krajach afrykańskich.",
+        "answer": false,
+        "explanation": "Używki zawierają związki oddziałujące na układ nerwowy człowieka (np. kofeinę czy teinę), jednak w zdecydowanej większości w ogóle nie posiadają żadnych użytecznych wartości odżywczych."
+      },
+      {
+        "sentence": "Pod pojęciem zbiorów w rolnictwie rozumie się całkowitą masę zebranych płodów rolnych wyrażaną w tonach, co ściśle odróżnia je od plonów stanowiących masę z jednostki powierzchni.",
+        "answer": true,
+        "explanation": "Zbiory (masa całkowita, w tonach) a plony (wydajność z jednostki powierzchni np. dt/ha) to dwa odmienne pojęcia kluczowe do analizy statystyk rolniczych."
+      }
+    ]
+  }
+}

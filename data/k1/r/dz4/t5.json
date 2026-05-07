@@ -1,0 +1,354 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz4-t5",
+                     "unit":  "IV",
+                     "title":  "Lodowce górskie i lądolody",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Granica wiecznego śniegu",
+                                              "definition":  "Wysokość, powyżej której w ciągu roku więcej śniegu przybywa, niż ubywa (występuje dodatni bilans masy)."
+                                          },
+                                          {
+                                              "term":  "Pole firnowe",
+                                              "definition":  "Obszar w górnej części doliny górskiej, gdzie gromadzą się masy śnieżne i przekształcają w lód lodowcowy."
+                                          },
+                                          {
+                                              "term":  "Jęzor lodowcowy",
+                                              "definition":  "Część lodowca, która przemieszcza się z pola firnowego w dół doliny i w której dominuje proces topnienia."
+                                          },
+                                          {
+                                              "term":  "Firn",
+                                              "definition":  "Ziarnisty lód powstający z płatków śniegu pod wpływem wielokrotnego zamarzania i odmarzania."
+                                          },
+                                          {
+                                              "term":  "Lód firnowy",
+                                              "definition":  "Lód powstający, gdy zamarzająca woda spaja ziarna firnu pod naciskiem kolejnych warstw śniegu."
+                                          },
+                                          {
+                                              "term":  "Ablacja",
+                                              "definition":  "Proces ubywania lodu w lodowcu, wywołany głównie topnieniem i sublimacją."
+                                          },
+                                          {
+                                              "term":  "Transgresja lodowca",
+                                              "definition":  "Proces wydłużania się języra lodowca, zachodzący wtedy, gdy akumulacja przeważa nad ablacją."
+                                          },
+                                          {
+                                              "term":  "Regresja lodowca",
+                                              "definition":  "Proces zmniejszania zasięgu lodowca (wycofywania się czoła), gdy przeważa ablacja."
+                                          },
+                                          {
+                                              "term":  "Lądolód (lodowiec kontynentalny)",
+                                              "definition":  "Olbrzymia, lekko wypukła czasza lodowa zajmująca ogromne powierzchnie, w której lód przemieszcza się promieniście od środka we wszystkich kierunkach (np. Antarktyda, Grenlandia)."
+                                          },
+                                          {
+                                              "term":  "Lodowiec szelfowy",
+                                              "definition":  "Część lądolodu, która po dotarciu do brzegu unosi się na powierzchni wody, tworząc brzeżną pokrywę zakończoną barierą lodową."
+                                          },
+                                          {
+                                              "term":  "Góra lodowa",
+                                              "definition":  "Duża bryła lodu pływająca po morzu, powstała w wyniku cielenia się lodowca (odłamywania fragmentów od bariery lodowej)."
+                                          },
+                                          {
+                                              "term":  "Lodowiec alpejski (dolinny)",
+                                              "definition":  "Typ lodowca posiadający jedno pole firnowe i jeden długi jęzor lodowcowy wypełniający dolinę (np. w Alpach)."
+                                          },
+                                          {
+                                              "term":  "Lodowiec himalajski (dendrytyczny)",
+                                              "definition":  "Złożony system lodowcowy powstający z połączenia kilku mniejszych lodowców (mających własne pola firnowe) w jeden główny potok lodu."
+                                          },
+                                          {
+                                              "term":  "Lodowiec fieldowy (norweski)",
+                                              "definition":  "Lodowiec w kształcie czapy lodowej zalegającej na płaskowyżu, z której wypływają krótkie jęzory lodowcowe."
+                                          },
+                                          {
+                                              "term":  "Lodowiec piedmoncki (podgórski)",
+                                              "definition":  "Lodowiec powstający na przedpolu gór (równinie) w wyniku połączenia się kilku jęzorów lodowcowych w jedną szeroką pokrywę."
+                                          },
+                                          {
+                                              "term":  "Wieloletnia zmarzlina",
+                                              "definition":  "Warstwa trwale zamarzniętego gruntu (utrzymująca ujemną temperaturę przez cały rok), sięgająca głębokości nawet kilkuset metrów."
+                                          },
+                                          {
+                                              "term":  "Warstwa czynna zmarzliny",
+                                              "definition":  "Przypowierzchniowa warstwa wieloletniej zmarzliny, która latem rozmarza, umożliwiając wegetację roślin, a zimą ponownie zamarza."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Lodowiec himalajski (dendrytyczny)",
+                                                 "pair2":  "Połączenie kilku lodowców w jeden system (wspólny jęzor)"
+                                             },
+                                             {
+                                                 "pair1":  "Lodowiec piedmoncki",
+                                                 "pair2":  "Rozlewa się szeroko na przedpolu gór (wachlarzowaty kształt)"
+                                             },
+                                             {
+                                                 "pair1":  "Lodowiec fieldowy",
+                                                 "pair2":  "Czapa lodowa na płaskowyżu z krótkimi jęzorami"
+                                             },
+                                             {
+                                                 "pair1":  "Lodowiec alpejski",
+                                                 "pair2":  "Jedno pole firnowe i jeden długi jęzor in dolinie"
+                                             },
+                                             {
+                                                 "pair1":  "Okolice zwrotników",
+                                                 "pair2":  "Najwyższa granica wiecznego śniegu (ok. 6000 m n.p.m.)"
+                                             },
+                                             {
+                                                 "pair1":  "Obszary podbiegunowe",
+                                                 "pair2":  "Najniższa granica wiecznego śniegu (poziom morza)"
+                                             },
+                                             {
+                                                 "pair1":  "Cielenie się lodowca",
+                                                 "pair2":  "Powstanie góry lodowej"
+                                             },
+                                             {
+                                                 "pair1":  "Transgresja",
+                                                 "pair2":  "Wydłużanie się jęzora lodowca (akumulacja \u003e ablacja)"
+                                             },
+                                             {
+                                                 "pair1":  "Lądolód antarktyczny",
+                                                 "pair2":  "Skupia 90% światowych zasobów lodu"
+                                             },
+                                             {
+                                                 "pair1":  "Wieloletnia zmarzlina",
+                                                 "pair2":  "Występuje m.in. na Syberii i Alasce"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Wspinacz planuje wyprawę w wysokich górach w strefie zwrotnikowej. Na jakiej wysokości n.p.m. powinien spodziewać się występowania granicy wiecznego śniegu, zgodnie z ogólnymi prawidłowidłowościami geograficznymi?",
+                                      "options":  [
+                                                      "Na poziomie morza, ze względu na niskie temperatury.",
+                                                      "Na wysokości ok. 1000 m n.p.m., co jest typowe dla klimatu umiarkowanego chłodnego (np. Alpy).",
+                                                      "Na wysokości ok. 6000 m n.p.m., gdzie opady są najmniejsze.",
+                                                      "Na wysokości ok. 2500 m n.p.m., ze względu na duże zachmurzenie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Granica wiecznego śniegu przebiega najwyżej w okolicach zwrotników (ok. 6000 m n.p.m.), co wynika z najmniejszych opadów w tej strefie."
+                                  },
+                                  {
+                                      "question":  "Podczas analizy mapy topograficznej zauważono lodowiec, który powstaje z połączenia kilku mniejszych lodowców posiadających własne pola firnowe w jeden główny potok lodu. Jaki to typ lodowca?",
+                                      "options":  [
+                                                      "Lodowiec himalajski (dendrytyczny).",
+                                                      "Lodowiec alpejski (dolinny).",
+                                                      "Lodowiec fieldowy (norweski).",
+                                                      "Lodowiec piedmoncki (podgórski)."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Lodowiec himalajski powstaje z połączenia kilku mniejszych lodowców mających własne pola firnowe, przypominając system rzeczny."
+                                  },
+                                  {
+                                      "question":  "W procesie powstawania lodu lodowcowego, płatki śniegu pod wpływem wielokrotnego zamarzania i odmarzania przekształcają się w ziarnistą strukturę. Jak nazywa się ten etap pośredni?",
+                                      "options":  [
+                                                      "Szreń.",
+                                                      "Firn.",
+                                                      "Lód włóknisty.",
+                                                      "Pak polarny."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pod wpływem wielokrotnego zamarzania i odmarzania płatki śniegu zamieniają się w ziarenka lodu zwane firnem."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych opisów najlepiej charakteryzuje ruch lodu w lądolodzie (lodowcu kontynentalnym)?",
+                                      "options":  [
+                                                      "Lód przemieszcza się wyłącznie wzdłuż nachylenia dolin górskich pod wpływem grawitacji.",
+                                                      "Lód pozostaje nieruchomy, a przemieszczają się jedynie jego fragmenty na wybrzeżu.",
+                                                      "Lód przemieszcza się promieniście od środka czaszy we wszystkich kierunkach.",
+                                                      "Lód przemieszcza się cyklicznie w górę i w dół w zależności od pory roku."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W lądolodach lód przemieszcza się promieniście od centrum czaszy lodowej we wszystkich kierunkach."
+                                  },
+                                  {
+                                      "question":  "Badacz obserwuje lodowiec, którego jęzor wkracza na płaskie przedpole górskie i rozlewa się szeroko, tworząc rozległą pokrywę powstałą z połączenia kilku jęzorów. Jaki to typ lodowca?",
+                                      "options":  [
+                                                      "Lodowiec piedmoncki (podgórski).",
+                                                      "Lodowiec fieldowy (norweski).",
+                                                      "Lodowiec himalajski (dendrytyczny).",
+                                                      "Lodowiec alpejski (dolinny)."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Lodowiec piedmoncki powstaje na przedpolu gór w wyniku połączenia kilku jęzorów lodowcowych wypływających z odrębnych pól firnowych."
+                                  },
+                                  {
+                                      "question":  "Jaka jest zależność między procesami akumulacji i ablacji w przypadku, gdy obserwujemy transgresję lodowca?",
+                                      "options":  [
+                                                      "Ablacja przeważa nad akumulacją, co powoduje cofanie się czoła lodowca.",
+                                                      "Akumulacja i ablacja się równoważą, a czoło lodowca nie zmienia położenia.",
+                                                      "Akumulacja przeważa nad ablacją, co powoduje wydłużanie się jęzora lodowca.",
+                                                      "Zarówno akumulacja, jak i ablacja ustają, co prowadzi do stagnacji lodu."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Transgresja zachodzi wtedy, gdy jęzor lodowca wydłuża się, ponieważ przeważa akumulacja."
+                                  },
+                                  {
+                                      "question":  "Który obszar kuli ziemskiej skupia około 90% światowych zasobów lodu?",
+                                      "options":  [
+                                                      "Lądolód grenlandzki.",
+                                                      "Lodowce górskie Himalajów i Karakorum.",
+                                                      "Lądolód antarktyczny.",
+                                                      "Pak polarny Arktyki."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Lądolód antarktyczny skupia w sobie aż 90% światowych zasobów lodu."
+                                  },
+                                  {
+                                      "question":  "Czym jest bariera lodowa w kontekście lodowców szelfowych?",
+                                      "options":  [
+                                                      "Jest to stroma ściana, którą zakończony jest lodowiec szelfowy od strony morza.",
+                                                      "Jest to dryfująca po oceanie góra lodowa o płaskim wierzchołku.",
+                                                      "Jest to linia oddzielająca pole firnowe od jęzora lodowcowego.",
+                                                      "Jest to dolna granica występowania wieloletniej zmarzliny w gruncie."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Lodowce szelfowe są zakończone stromą ścianą zwaną barierą lodową."
+                                  },
+                                  {
+                                      "question":  "Na czym polega proces cielenia się lodowca?",
+                                      "options":  [
+                                                      "Na gwałtownym topnieniu powierzchniowym lodowca pod wpływem promieniowania słonecznego.",
+                                                      "Na odłamywaniu się fragmentów lodu od czoła lodowca szelfowego lub bariery lodowej.",
+                                                      "Na zamarzaniu wody morskiej wokół lądu, tworząc pak polarny.",
+                                                      "Na łączeniu się kilku mniejszych jęzorów lodowcowych w jeden główny strumień."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Cielenie się lodowca to proces, w którym u czoła lodowca szelfowego fragmenty lodu odłamują się i płyną jako góry lodowe."
+                                  },
+                                  {
+                                      "question":  "Opisano lodowiec składający się z czapy lodowej zalegającej na płaskowyżu, z której wypływają krótkie jęzory. Przykładem takiego lodowca są formy w Górach Skandynawskich. O jaki typ chodzi?",
+                                      "options":  [
+                                                      "Lodowiec himalajski.",
+                                                      "Lodowiec piedmoncki.",
+                                                      "Lodowiec fieldowy.",
+                                                      "Lodowiec alpejski."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Lodowiec fieldowy (norweski) składa się z czapy lodowej i wypływających z niej krótkich jęzorów."
+                                  },
+                                  {
+                                      "question":  "Która warstwa wieloletniej zmarzliny ulega rozmarzaniu w ciepłej porze roku?",
+                                      "options":  [
+                                                      "Jądro zmarzliny.",
+                                                      "Warstwa czynna.",
+                                                      "Warstwa spągowa.",
+                                                      "Strefa aeracji."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W ciepłej porze roku topnieje jedynie powierzchniowa warstwa wieloletniej zmarzliny, zwana warstwą czynną."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na obszarach objętych wieloletnią zmarzliną (np. Syberia) latem często tworzą się rozległe bagna?",
+                                      "options":  [
+                                                      "Ponieważ występują tam najwyższe na świecie opady atmosferyczne.",
+                                                      "Ponieważ woda z topniejącej warstwy czynnej nie może wsiąkać w głąb zamarzniętego gruntu.",
+                                                      "Ponieważ rzeki w tym regionie płyną w kierunku równika, co spowalnia ich odpływ.",
+                                                      "Ponieważ lądolód blokuje naturalny odpływ wód do oceanu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Woda z topniejącej warstwy czynnej nie może wsiąkać w głąb (przez zamarznięte warstwy niżej), więc grunt jest przesiąknięty wodą."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko zachodzi, gdy ablacja (topnienie i sublimacja) przeważa nad akumulacją śniegu w lodowcu?",
+                                      "options":  [
+                                                      "Transgresja lodowca.",
+                                                      "Powstanie lodu firnowego.",
+                                                      "Regresja lodowca.",
+                                                      "Tworzenie się moreny dennej o zwiększonej grubości."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Lodowiec zmniejsza swój zasięg (regresja), gdy przeważa ablacja."
+                                  },
+                                  {
+                                      "question":  "Która cecha odróżnia lodowiec alpejski od himalajskiego?",
+                                      "options":  [
+                                                      "Lodowiec alpejski ma jedno pole firnowe i jeden jęzor, a himalajski powstaje z połączenia kilku mniejszych lodowców.",
+                                                      "Lodowiec alpejski występuje tylko na półkuli południowej, a himalajski na północnej.",
+                                                      "Lodowiec alpejski nie posiada strefy ablacji, w przeciwieństwie do himalajskiego.",
+                                                      "Lodowiec alpejski tworzy rozległe czapy na płaskowyżach, a himalajski wypełnia tylko dna dolin górskich."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Lodowiec alpejski ma jedno pole firnowe i jeden jęzor, natomiast himalajski powstaje z połączenia kilku mniejszych lodowców."
+                                  },
+                                  {
+                                      "question":  "W rejonach polarnych granica wiecznego śniegu przebiega na poziomie morza. Dlaczego w rejonie zwrotników znajduje się ona znacznie wyżej (ok. 6000 m n.p.m.) niż na równiku?",
+                                      "options":  [
+                                                      "Ponieważ na zwrotnikach występują najniższe temperatury na kuli ziemskiej.",
+                                                      "Ponieważ na zwrotnikach opady atmosferyczne są najmniejsze (klimat suchy).",
+                                                      "Ponieważ na zwrotnikach nie ma gór o odpowiedniej wysokości.",
+                                                      "Ponieważ na zwrotnikach działają silne prądy morskie ogrzewające atmosferę."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W okolicach zwrotników granica wiecznego śniegu znajduje się najwyżej, ponieważ opady są tam najmniejsze."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Granica wiecznego śniegu przebiega na najwyższej wysokości (ok. 6000 m n.p.m.) in strefie równikowej ze względu na najwyższe średnie temperatury roczne.",
+                                           "answer":  false,
+                                           "explanation":  "Granica ta przebiega najwyżej w okolicach zwrotników, gdzie opady są najmniejsze; na równiku obfite opady sprawiają, że granica ta znajduje się niżej."
+                                       },
+                                       {
+                                           "sentence":  "Firn to ziarnisty lód powstający z płatków śniegu, które ulegają wielokrotnemu zamarzaniu i odmarzaniu.",
+                                           "answer":  true,
+                                           "explanation":  "Zgodnie z procesem powstawania lodu lodowcowego, śnieg pod wpływem zmian temperatury zamienia się w ziarenka lodu zwane firnem."
+                                       },
+                                       {
+                                           "sentence":  "W lądolodach lód pozostaje w bezruchu i nie przemieszcza się, w przeciwieństwie do lodowców górskich.",
+                                           "answer":  false,
+                                           "explanation":  "W lądolodach lód przemieszcza się promieniście od centrum czaszy lodowej we wszystkich kierunkach."
+                                       },
+                                       {
+                                           "sentence":  "Transgresja lodowca zachodzi wówczas, gdy proces akumulacji śniegu przeważa nad procesem ablacji (topnienia i sublimacji).",
+                                           "answer":  true,
+                                           "explanation":  "Gdy akumulacja przeważa nad ablacją, jęzor lodowca się wydłuża, co nazywamy transgresją."
+                                       },
+                                       {
+                                           "sentence":  "Góry lodowe powstają w wyniku zamarzania wody morskiej na powierzchni oceanu w strefach polarnych.",
+                                           "answer":  false,
+                                           "explanation":  "Góry lodowe powstają w procesie cielenia się lodowca, czyli odłamywania fragmentów lodu od czoła lodowca szelfowego lub bariery lodowej; zamarzanie wody morskiej tworzy pak polarny."
+                                       },
+                                       {
+                                           "sentence":  "Lodowiec himalajski (dendrytyczny) powstaje z połączenia kilku mniejszych lodowców, które mają własne pola firnowe, w jeden główny potok lodu.",
+                                           "answer":  true,
+                                           "explanation":  "Ten typ lodowca charakteryzuje się połączeniem kilku mniejszych lodowców z własnymi polami firnowymi w jeden system."
+                                       },
+                                       {
+                                           "sentence":  "Wieloletnia zmarzlina rozmarza całkowicie w okresie letnim, a zimą ponownie zamarza do głębokości kilkuset metrów.",
+                                           "answer":  false,
+                                           "explanation":  "W ciepłej porze roku topnieje jedynie cienka, powierzchniowa warstwa zmarzliny zwana warstwą czynną; głębsze warstwy pozostają trwale zamarznięte."
+                                       },
+                                       {
+                                           "sentence":  "Lądolód antarktyczny gromadzi około 90% światowych zasobów lodu.",
+                                           "answer":  true,
+                                           "explanation":  "Lądolód na Antarktydzie jest największy na świecie i skupia aż 90% zasobów lodu."
+                                       },
+                                       {
+                                           "sentence":  "Lodowiec piedmoncki (podgórski) tworzy się w wysokich partiach gór, gdzie zalega w kotłach lodowcowych i nie posiada jęzora.",
+                                           "answer":  false,
+                                           "explanation":  "Lodowiec piedmoncki powstaje na przedpolu gór (na nizinie), gdzie jęzory lodowcowe wypływające z gór łączą się w jedną rozległą pokrywę."
+                                       },
+                                       {
+                                           "sentence":  "Topnienie pokrywy lodowej w Arktyce sprawia, że szlaki morskie łączące Amerykę Północną z Azją stają się bardziej dostępne i krótsze.",
+                                           "answer":  true,
+                                           "explanation":  "Mniejsze zlodzenie Oceanu Arktycznego otwiera krótsze szlaki handlowe i ułatwia żeglugę."
+                                       },
+                                       {
+                                           "sentence":  "Lodowiec szelfowy to część lądolodu, która unosi się na powierzchni wody po zejściu z lądu do morza.",
+                                           "answer":  true,
+                                           "explanation":  "Lodowce szelfowe tworzą się, gdy lądolód dociera do brzegu i zaczyna unosić się na wodzie."
+                                       },
+                                       {
+                                           "sentence":  "Regresja lodowca oznacza wydłużanie się jego jęzora w wyniku przewagi dostaw śniegu nad topnieniem.",
+                                           "answer":  false,
+                                           "explanation":  "Regresja to proces zmniejszania zasięgu lodowca (cofania się czoła), gdy przeważa ablacja."
+                                       }
+                                   ]
+                 }
+}

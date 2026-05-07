@@ -1,0 +1,349 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz1-t2",
+                     "title":  "Budowa geologiczna Polski",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Platforma wschodnioeuropejska",
+                                              "definition":  "Jednostka tektoniczna obejmująca północno-wschodnią Polskę, składająca się z krystalicznego fundamentu prekambryjskiego i pokrywy osadowej."
+                                          },
+                                          {
+                                              "term":  "Strefa Teisseyre’a-Tornquista (T-T)",
+                                              "definition":  "Zespół głębokich rozłamów skorupy ziemskiej oddzielający platformę wschodnioeuropejską od struktur geologicznych Europy Zachodniej."
+                                          },
+                                          {
+                                              "term":  "Obszar fałdowań paleozoicznych",
+                                              "definition":  "Jednostka geologiczna obejmująca m.in. Sudety i Góry Świętokrzyskie, ukształtowana w trakcie orogenez kaledońskiej i hercyńskiej."
+                                          },
+                                          {
+                                              "term":  "Obszar fałdowań alpejskich",
+                                              "definition":  "Najmłodsza jednostka tektoniczna w Polsce (Karpaty, zapadlisko przedkarpackie) powstała w mezozoiku i kenozoiku."
+                                          },
+                                          {
+                                              "term":  "Monoklina przedsudecka",
+                                              "definition":  "Struktura geologiczna w zachodniej Polsce, w której warstwy skalne są nachylone w jednym kierunku."
+                                          },
+                                          {
+                                              "term":  "Niecka mogileńsko-łódzka",
+                                              "definition":  "Wklęsła forma tektoniczna wypełniona osadami mezozoicznymi, położona w obrębie obszaru fałdowań paleozoicznych."
+                                          },
+                                          {
+                                              "term":  "Wał Kujawski",
+                                              "definition":  "Wypukła struktura tektoniczna przebiegająca przez środkową Polskę, wypełniona osadami jurajskimi."
+                                          },
+                                          {
+                                              "term":  "Zapadlisko przedkarpackie",
+                                              "definition":  "Rów tektoniczny na przedpolu Karpat wypełniony osadami morskimi z neogenu, m.in. solą kamienną i gipsem."
+                                          },
+                                          {
+                                              "term":  "Karpaty Wewnętrzne",
+                                              "definition":  "Starsza część Karpat obejmująca Tatry, Pieniny i Obniżenie Orawsko-Podhalańskie, sfałdowana w późnej kredzie."
+                                          },
+                                          {
+                                              "term":  "Karpaty Zewnętrzne",
+                                              "definition":  "Młodsza część Karpat (Beskidy, Pogórze Karpackie) zbudowana z fliszu, sfałdowana w paleogenie i neogenie."
+                                          },
+                                          {
+                                              "term":  "Wyniesienie mazurskie",
+                                              "definition":  "Część platformy wschodnioeuropejskiej, gdzie krystaliczny fundament znajduje się płytko pod powierzchnią ziemi."
+                                          },
+                                          {
+                                              "term":  "Góry Świętokrzyskie",
+                                              "definition":  "Góry w środkowej Polsce sfałdowane w orogenezach kaledońskiej i hercyńskiej, z odsłoniętymi skałami paleozoicznymi."
+                                          },
+                                          {
+                                              "term":  "Sudety",
+                                              "definition":  "Góry zrębowe sfałdowane w paleozoiku, a następnie wydźwignięte i popękane w trakcie orogenezy alpejskiej."
+                                          },
+                                          {
+                                              "term":  "Fundament krystaliczny",
+                                              "definition":  "Najstarsza część budowy platformy wschodnioeuropejskiej, utworzona ze skał magmowych i metamorficznych w prekambrze."
+                                          },
+                                          {
+                                              "term":  "Orogeneza kaledońska",
+                                              "definition":  "Ruchy górotwórcze we wczesnym paleozoiku (sylur/dewon), które doprowadziły do sfałdowania części Gór Świętokrzyskich i Sudetów."
+                                          },
+                                          {
+                                              "term":  "Orogeneza hercyńska",
+                                              "definition":  "Ruchy górotwórcze w późnym paleozoiku (karbon), które ostatecznie ukształtowały Sudety i Góry Świętokrzyskie."
+                                          },
+                                          {
+                                              "term":  "Orogeneza alpejska",
+                                              "definition":  "Ruchy górotwórcze trwające od kredy do neogenu, odpowiedzialne za powstanie Karpat i odmłodzenie Sudetów."
+                                          },
+                                          {
+                                              "term":  "Wysad solny",
+                                              "definition":  "Struktura powstała przez wyciskanie plastycznej soli cechsztyńskiej ku górze, występująca m.in. na Kujawach."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Góry Świętokrzyskie",
+                                                 "pair2":  "Orogeneza kaledońska i hercyńska"
+                                             },
+                                             {
+                                                 "pair1":  "Karpaty",
+                                                 "pair2":  "Orogeneza alpejska"
+                                             },
+                                             {
+                                                 "pair1":  "Platforma wschodnioeuropejska",
+                                                 "pair2":  "Fundament prekambryjski"
+                                             },
+                                             {
+                                                 "pair1":  "Sudety",
+                                                 "pair2":  "Góry zrębowe (odmłodzone w kenozoiku)"
+                                             },
+                                             {
+                                                 "pair1":  "Węgiel kamienny",
+                                                 "pair2":  "Karbon"
+                                             },
+                                             {
+                                                 "pair1":  "Sól kamienna na Kujawach",
+                                                 "pair2":  "Perm"
+                                             },
+                                             {
+                                                 "pair1":  "Sól kamienna w Wieliczce",
+                                                 "pair2":  "Neogen"
+                                             },
+                                             {
+                                                 "pair1":  "Powstanie Morza Bałtyckiego",
+                                                 "pair2":  "Czwartorzęd (holocen)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "W której erze geologicznej powstały najstarsze skały występujące na powierzchni Polski, takie jak gnejsy w Górach Sowich?",
+                                      "options":  [
+                                                      "W kenozoiku (era ssaków)",
+                                                      "W mezozoiku (era gadów)",
+                                                      "W paleozoiku (era ryb i płazów)",
+                                                      "W proterozoiku (prekambr)"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Najstarsze formacje skalne w Polsce pochodzą z proterozoiku (eon: prekambr) i są zbudowane ze skał metamorficznych, które na powierzchni występują jedynie w Sudetach."
+                                  },
+                                  {
+                                      "question":  "Z jakim wydarzeniem geologicznym wiąże się powstanie pokładów węgla kamiennego na Wyżynie Śląskiej?",
+                                      "options":  [
+                                                      "Z gorącym i wilgotnym klimatem karbonu sprzyjającym bujnej roślinności",
+                                                      "Z rozległą transgresją morską występującą w jurze, która zalała ląd",
+                                                      "Z osadzaniem szczątków organicznych w płytkich morzach neogenu",
+                                                      "Z działalnością lądolodu skandynawskiego w plejstocenie"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W karbonie (era paleozoiczna) na obszarach lądowych panował gorący i wilgotny klimat, co sprzyjało rozwojowi potężnych lasów paproci, skrzypów i widłaków, z których powstał węgiel kamienny."
+                                  },
+                                  {
+                                      "question":  "Które pasmo górskie w Polsce zostało sfałdowane i wypiętrzone w trakcie orogenezy alpejskiej?",
+                                      "options":  [
+                                                      "Góry Świętokrzyskie",
+                                                      "Pasmo Sudetów",
+                                                      "Łańcuch Karpat",
+                                                      "Góry Pieprzowe"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Karpaty należą do obszaru fałdowań alpejskich, które powstały w mezozoiku oraz na początku kenozoiku w wyniku kolizji płyty afrykańskiej z eurazjatycką."
+                                  },
+                                  {
+                                      "question":  "W jakim okresie geologicznym powstały złoża soli kamiennej na Kujawach (np. Inowrocław, Kłodawa)?",
+                                      "options":  [
+                                                      "W kambrze (wczesny paleozoik)",
+                                                      "W permie (późny paleozoik)",
+                                                      "W jurze (środkowy mezozoik)",
+                                                      "W neogenie (młodszy kenozoik)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Złoża soli na Kujawach powstały w permie (pod koniec paleozoiku), kiedy panował suchy i gorący klimat sprzyjający intensywnemu parowaniu wód w płytkich zbiornikach morskich."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się Zapadlisko przedkarpackie?",
+                                      "options":  [
+                                                      "Jest to stara tarcza krystaliczna pochodząca z eonu prekambryjskiego",
+                                                      "Jest to rów tektoniczny wypełniony osadami morskimi z neogenu",
+                                                      "Jest to pasmo górskie powstałe w orogenezie kaledońskiej",
+                                                      "Jest to równina sandrowa usypana przez lądolód na południu"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zapadlisko przedkarpackie to tektoniczne obniżenie przedgórskie powstałe w neogenie (kenozoik), które zostało wypełnione osadami morskimi, takimi jak iły, gipsy i sole."
+                                  },
+                                  {
+                                      "question":  "Kiedy miało miejsce tzw. odmłodzenie Sudetów, które nadało im charakter gór zrębowych?",
+                                      "options":  [
+                                                      "W trakcie orogenezy kaledońskiej (sylur)",
+                                                      "W trakcie orogenezy hercyńskiej (karbon)",
+                                                      "W trakcie orogenezy alpejskiej (trzeciorzęd)",
+                                                      "Pod koniec zlodowaceń plejstoceńskich"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Sudety, sfałdowane pierwotnie w paleozoiku, zostały wydźwignięte i popękane (odmłodzone) w trakcie orogenezy alpejskiej w erze kenozoicznej (paleogen/neogen)."
+                                  },
+                                  {
+                                      "question":  "Z jakiego okresu pochodzą wapienie budujące Wyżynę Krakowsko-Częstochowską?",
+                                      "options":  [
+                                                      "Z dewonu, kiedy to powstały pierwsze rafy",
+                                                      "Z triasu, w warunkach klimatu pustynnego",
+                                                      "Z jury, w ciepłym i płytkim morzu",
+                                                      "Z kredy, w wyniku osadzania piszącej kredy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wapienie te powstały w jurze (era mezozoiczna) w ciepłym i płytkim morzu ze szkieletów organizmów morskich, co jest efektem ówczesnych transgresji morskich."
+                                  },
+                                  {
+                                      "question":  "W którym okresie geologicznym powstały w Polsce złoża węgla brunatnego (np. Bełchatów)?",
+                                      "options":  [
+                                                      "W karbonie",
+                                                      "W permie",
+                                                      "W neogenie",
+                                                      "W czwartorzędzie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Złoża węgla brunatnego w Polsce powstały w neogenie (era kenozoiczna) w warunkach lądowych, w zapadliskach tektonicznych."
+                                  },
+                                  {
+                                      "question":  "Które góry w Polsce noszą ślady fałdowań zarówno kaledońskich, jak i hercyńskich?",
+                                      "options":  [
+                                                      "Młody łańcuch Karpat",
+                                                      "Góry Świętokrzyskie",
+                                                      "Tatry Wysokie i Zachodnie",
+                                                      "Beskidy Zachodnie (fliszowe)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Góry Świętokrzyskie mają budowę fałdową ukształtowaną podczas dwóch orogenez paleozoicznych: kaledońskiej (sylur/dewon) i hercyńskiej (karbon)."
+                                  },
+                                  {
+                                      "question":  "Co oddziela platformę wschodnioeuropejską od platformy paleozoicznej Europy Zachodniej?",
+                                      "options":  [
+                                                      "Karpaty Zewnętrzne (Pasmo fliszowe)",
+                                                      "Wał Kujawsko-Pomorski",
+                                                      "Strefa Teisseyre’a-Tornquista",
+                                                      "Sudecki Uskok Brzeżny"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Strefa Teisseyre’a-Tornquista (T-T) to zespół głębokich rozłamów skorupy ziemskiej stanowiący granicę między sztywną platformą prekambryjską a młodszymi strukturami zachodnimi."
+                                  },
+                                  {
+                                      "question":  "Kiedy powstały złoża rud miedzi na Dolnym Śląsku (Lubin, Polkowice)?",
+                                      "options":  [
+                                                      "W kambrze",
+                                                      "W dewonie",
+                                                      "W permie",
+                                                      "W triasie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Złoża rud miedzi (łupki miedzionośne) powstały w permie (koniec paleozoiku) w wyniku osadzania się cząstek mineralnych w zbiornikach morskich."
+                                  },
+                                  {
+                                      "question":  "Jaką budowę ma platforma wschodnioeuropejska na terenie Polski?",
+                                      "options":  [
+                                                      "Jest jednolitym, sztywnym blokiem granitu sfałdowanym w kenozoiku",
+                                                      "Składa się z krystalicznego fundamentu i pokrywy osadowej",
+                                                      "Jest zbudowana wyłącznie ze skał wulkanicznych z okresu permu",
+                                                      "Tworzą ją silnie sfałdowane osady fliszowe nasunięte z południa"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Cechą platformy wschodnioeuropejskiej jest dwudzielność: na dole znajduje się sztywny fundament krystaliczny (prekambr), a na nim leży niesfałdowana pokrywa osadowa (paleozoik, mezozoik, kenozoik)."
+                                  },
+                                  {
+                                      "question":  "Które skały dominują w budowie Gór Stołowych w Sudetach?",
+                                      "options":  [
+                                                      "Twarde granity karbońskie",
+                                                      "Stare gnejsy archaiku",
+                                                      "Piaskowce ciosowe z górnej kredy",
+                                                      "Wapienie jurajskie (krasowe)"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Góry Stołowe są jedynymi w Polsce górami płytowymi zbudowanymi z płasko zalegających ławic piaskowców powstałych w górnej kredzie (mezozoik)."
+                                  },
+                                  {
+                                      "question":  "Z jaką aktywnością geologiczną wiąże się występowanie bazaltów na Przedgórzu Sudeckim?",
+                                      "options":  [
+                                                      "Z wulkanizmem w neogenie towarzyszącym orogenezie alpejskiej",
+                                                      "Z wulkanizmem podmorskim występującym w erze paleozoicznej",
+                                                      "Z wielkimi intruzjami granitu w okresie karbonu",
+                                                      "Z niszczącą działalnością lądolodu w plejstocenie"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W neogenie (trzeciorzęd), w trakcie orogenezy alpejskiej, w Sudetach i na ich przedpolu dochodziło do zjawisk wulkanicznych, których efektem są stożki wulkaniczne i skały bazaltowe."
+                                  },
+                                  {
+                                      "question":  "W jakim okresie geologicznym uformowała się niecka Bałtyku i powstało Morze Bałtyckie?",
+                                      "options":  [
+                                                      "W okresie kredowym",
+                                                      "W paleogenie",
+                                                      "W neogenie",
+                                                      "W czwartorzędzie"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Bałtyk jest najmłodszym morzem Europy; jego niecka została ostatecznie ukształtowana przez lądolód w plejstocenie, a samo morze powstało w holocenie po ustąpieniu lodu."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Morze Bałtyckie jest najstarszym morzem w Europie, które powstało w erze paleozoicznej.",
+                                           "answer":  false,
+                                           "explanation":  "Bałtyk to najmłodsze morze w Europie, które uformowało się w czwartorzędzie (holocenie) po ustąpieniu lądolodu."
+                                       },
+                                       {
+                                           "sentence":  "Zlodowacenia południowopolskie miały największy zasięg i dotarły aż do dolin karpackich oraz kotlin sudeckich.",
+                                           "answer":  true,
+                                           "explanation":  "Najstarsze zlodowacenia (południowopolskie) objęły największy obszar Polski, wciskając się w doliny górskie na południu kraju."
+                                       },
+                                       {
+                                           "sentence":  "Sudety są młodymi górami fałdowymi, które powstały od podstaw w trakcie orogenezy alpejskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Sudety to stare góry sfałdowane w paleozoiku (orogenezy kaledońska i hercyńska), które w orogenezie alpejskiej zostały jedynie odmłodzone i wypiętrzone jako zręby."
+                                       },
+                                       {
+                                           "sentence":  "Złoża soli kamiennej w Wieliczce i Bochni są geologicznie młodsze od złóż soli na Kujawach.",
+                                           "answer":  true,
+                                           "explanation":  "Sól w Wieliczce powstała w neogenie (era kenozoiczna), natomiast złoża na Kujawach (np. Kłodawa) pochodzą z permu (era paleozoiczna), więc są znacznie starsze."
+                                       },
+                                       {
+                                           "sentence":  "Platforma wschodnioeuropejska obejmuje południowo-zachodnią część Polski, w tym Sudety.",
+                                           "answer":  false,
+                                           "explanation":  "Platforma wschodnioeuropejska obejmuje północno-wschodnią część Polski; Sudety leżą w obszarze fałdowań paleozoicznych na południowym zachodzie."
+                                       },
+                                       {
+                                           "sentence":  "Jezioro Ancylusowe było jednym ze słodkowodnych etapów rozwoju Morza Bałtyckiego.",
+                                           "answer":  true,
+                                           "explanation":  "W historii Bałtyku występowały etapy słodkowodne (jeziora), do których należało Jezioro Ancylusowe oraz Bałtyckie Jezioro Lodowe."
+                                       },
+                                       {
+                                           "sentence":  "Węgiel kamienny i węgiel brunatny w Polsce powstały w tej samej erze geologicznej.",
+                                           "answer":  false,
+                                           "explanation":  "Węgiel kamienny powstał głównie w karbonie (era paleozoiczna), a węgiel brunatny w neogenie (era kenozoiczna)."
+                                       },
+                                       {
+                                           "sentence":  "Najstarsze skały występujące w Polsce na powierzchni to gnejsy w Górach Sowich (Sudety).",
+                                           "answer":  true,
+                                           "explanation":  "Skały te pochodzą z proterozoiku (prekambr) i występują na powierzchni jedynie w Sudetach."
+                                       },
+                                       {
+                                           "sentence":  "Strefa Teisseyre’a-Tornquista stanowi granicę między Karpatami a zapadliskiem przedkarpackim.",
+                                           "answer":  false,
+                                           "explanation":  "Strefa T-T oddziela platformę wschodnioeuropejską (prekambryjską) od platformy paleozoicznej Europy Zachodniej."
+                                       },
+                                       {
+                                           "sentence":  "Zapadlisko przedkarpackie jest rowem tektonicznym wypełnionym osadami morskimi z okresu neogenu.",
+                                           "answer":  true,
+                                           "explanation":  "Jest to struktura powstała w kenozoiku na przedpolu Karpat, wypełniona m.in. solą, gipsem i iłami."
+                                       },
+                                       {
+                                           "sentence":  "Lądolód skandynawski podczas zlodowaceń północnopolskich pokrył cały obszar Polski.",
+                                           "answer":  false,
+                                           "explanation":  "Zlodowacenia północnopolskie miały najmniejszy zasięg i objęły tylko północną część kraju (Pojezierza)."
+                                       },
+                                       {
+                                           "sentence":  "Góry Świętokrzyskie zostały ostatecznie ukształtowane podczas orogenezy alpejskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Góry Świętokrzyskie zostały sfałdowane w erze paleozoicznej podczas orogenez kaledońskiej i hercyńskiej."
+                                       }
+                                   ]
+                 }
+}

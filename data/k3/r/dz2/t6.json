@@ -1,0 +1,344 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz2-t6",
+                     "title":  "Zróżnicowanie rzeźby pobrzeży Bałtyku",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Pobrzeże (definicja)",
+                                              "definition":  "Pas nizin nadmorskich ciągnący się wzdłuż Bałtyku, gdzie sąsiedztwo morza wyraźnie oddziałuje na klimat, wody i roślinność (zwykle do 50 m n.p.m.)."
+                                          },
+                                          {
+                                              "term":  "Abrazja",
+                                              "definition":  "Proces niszczenia brzegu morskiego przez uderzenia fal, prowadzący do podcinania klifu i powstawania niszy abrazyjnej."
+                                          },
+                                          {
+                                              "term":  "Wybrzeże klifowe (wysokie)",
+                                              "definition":  "Typ wybrzeża powstały tam, gdzie wysoczyzny morenowe (gliny zwałowe) dochodzą do brzegu morza i są niszczone przez abrazję (np. Wolin, Gdynia)."
+                                          },
+                                          {
+                                              "term":  "Wybrzeże niskie (akumulacyjne)",
+                                              "definition":  "Najczęstszy typ wybrzeża w Polsce (ok. 80%), charakteryzujący się szerokimi piaszczystymi plażami i wydmami, powstały w wyniku nanoszenia materiału przez morze."
+                                          },
+                                          {
+                                              "term":  "Mierzeja (geneza)",
+                                              "definition":  "Piaszczysty wał usypany przez prądy przybrzeżne i fale, który odcina zatokę od otwartego morza (np. Mierzeja Helska, Wiślana)."
+                                          },
+                                          {
+                                              "term":  "Jezioro przybrzeżne",
+                                              "definition":  "Płytki zbiornik wodny powstały w wyniku całkowitego odcięcia dawnej zatoki morskiej przez narastającą mierzeję (np. Łebsko, Gardno, Jamno)."
+                                          },
+                                          {
+                                              "term":  "Żuławy Wiślane (geneza)",
+                                              "definition":  "Rozległa równina deltowa powstała w holocenie w miejscu dawnej zatoki morskiej, wypełnionej osadami rzecznymi (aluwiami) Wisły."
+                                          },
+                                          {
+                                              "term":  "Depresja",
+                                              "definition":  "Obszar położony poniżej poziomu morza, charakterystyczny dla Żuław Wiślanych (najniższy punkt w Polsce ok. 2,2 m p.p.m. w okolicy Marzęcina)."
+                                          },
+                                          {
+                                              "term":  "Mady",
+                                              "definition":  "Bardzo żyzne gleby występujące na Żuławach, powstałe z iłów i pyłów rzecznych osadzanych podczas wylewów Wisły (sedymentacja rzeczna)."
+                                          },
+                                          {
+                                              "term":  "Kępa morenowa",
+                                              "definition":  "Odizolowany fragment wysoczyzny morenowej, często o charakterze wyspowym, wznoszący się nad nizinami nadmorskimi (np. Kępa Redłowska, Kępa Pucka)."
+                                          },
+                                          {
+                                              "term":  "Prąd przybrzeżny",
+                                              "definition":  "Ruch wody morskiej wzdłuż brzegu, wywołany wiatrem, odpowiedzialny za transport piasku i budowanie mierzei."
+                                          },
+                                          {
+                                              "term":  "Bryza",
+                                              "definition":  "Wiatr lokalny wiejący na wybrzeżu, zmieniający kierunek w cyklu dobowym w wyniku różnic w tempie nagrzewania się lądu i morza."
+                                          },
+                                          {
+                                              "term":  "Nizina Staropruska",
+                                              "definition":  "Jedyna kraina pobrzeży w Polsce bez bezpośredniego dostępu do morza (oddzielona Zalewem Wiślanym), z najwyższym wzniesieniem pasa (Góra Zamkowa)."
+                                          },
+                                          {
+                                              "term":  "Poldery",
+                                              "definition":  "Obszary depresyjne lub przydepresyjne na Żuławach, otoczone groblami i sztucznie osuszane siecią kanałów (system melioracyjny)."
+                                          },
+                                          {
+                                              "term":  "Wydma ruchoma",
+                                              "definition":  "Forma eoliczna powstała z piasków plażowych, przemieszczająca się pod wpływem wiatru (charakterystyczna dla Słowińskiego Parku Narodowego)."
+                                          },
+                                          {
+                                              "term":  "Wybrzeże zalewowo-mierzejowe",
+                                              "definition":  "Typ wybrzeża, gdzie piaszczysta kosa (mierzeja) oddziela duży akwen (zalew) od morza otwartego (np. Zalew Szczeciński, Zalew Wiślany)."
+                                          },
+                                          {
+                                              "term":  "Jezioro Dąbie",
+                                              "definition":  "Płytkie jezioro deltowe znajdujące się w dolnym biegu Odry (część estuarium Odry)."
+                                          },
+                                          {
+                                              "term":  "Nisza abrazyjna",
+                                              "definition":  "Zagłębienie u podstawy klifu wymyte przez fale, którego powiększanie prowadzi do oberwania się nawisu skalnego."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Podcinanie brzegu wysokiego przez fale (abrazja)",
+                                                 "pair2":  "Cofanie się lądu i powstawanie urwiska klifowego (np. Trzęsacz)"
+                                             },
+                                             {
+                                                 "pair1":  "Akumulacja piasku przez prądy przybrzeżne",
+                                                 "pair2":  "Powstanie mierzei (np. Półwysep Helski)"
+                                             },
+                                             {
+                                                 "pair1":  "Odcięcie zatoki morskiej przez piaszczysty wał",
+                                                 "pair2":  "Powstanie jeziora przybrzeżnego (np. Łebsko, Gardno)"
+                                             },
+                                             {
+                                                 "pair1":  "Akumulacja osadów rzecznych (aluwiów) u ujścia Wisły",
+                                                 "pair2":  "Powstanie delty i żyznych gleb (mad) na Żuławach"
+                                             },
+                                             {
+                                                 "pair1":  "Przewiewanie piasku plażowego przez wiatr",
+                                                 "pair2":  "Powstanie wydm (np. w Słowińskim Parku Narodowym)"
+                                             },
+                                             {
+                                                 "pair1":  "Występowanie obszarów depresyjnych na Żuławach",
+                                                 "pair2":  "Konieczność budowy polderów i sieci melioracyjnej"
+                                             },
+                                             {
+                                                 "pair1":  "Różnice w tempie nagrzewania się lądu i morza",
+                                                 "pair2":  "Powstanie cyrkulacji bryzowej (bryza dzienna i nocna)"
+                                             },
+                                             {
+                                                 "pair1":  "Występowanie wysoczyzn morenowych nad brzegiem",
+                                                 "pair2":  "Tworzenie się wybrzeża wysokiego (klifowego)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Czym charakteryzuje się obszar depresji występujący na Żuławach Wiślanych (np. w okolicach wsi Marzęcino)?",
+                                      "options":  [
+                                                      "Jest to teren położony na wysokości powyżej 300 m n.p.m., stanowiący dział wodny.",
+                                                      "Jest to obszar położony poniżej poziomu morza.",
+                                                      "Jest to głęboka, V-kształtna dolina rzeczna o stromych zboczach porośniętych lasem.",
+                                                      "Jest to teren trwale zalany wodą, tworzący rozległe, płytkie jezioro przybrzeżne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Depresja to obszar lądu położony poniżej poziomu morza. Najniższy punkt w Polsce znajduje się właśnie na Żuławach (ok. -2,2 m p.p.m.)."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się proces niszczenia wysokiego brzegu morskiego przez uderzające o niego fale?",
+                                      "options":  [
+                                                      "Akumulacja eoliczna piasku na plaży.",
+                                                      "Erozja eoliczna wywołana przez silny wiatr.",
+                                                      "Abrazja",
+                                                      "Krasowienie skał wapiennych pod wpływem wody morskiej."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Abrazja to proces mechanicznego niszczenia brzegu przez fale morskie, prowadzący do powstawania klifów i nisz abrazyjnych."
+                                  },
+                                  {
+                                      "question":  "W którym regionie geograficznym Polski znajduje się delta Wisły (Żuławy Wiślane)?",
+                                      "options":  [
+                                                      "Na Pobrzeżu Szczecińskim, u ujścia Odry do Zalewu Szczecińskiego.",
+                                                      "Na Pobrzeżu Koszalińskim, w rejonie jeziora Jamno.",
+                                                      "Na Pobrzeżu Gdańskim",
+                                                      "Na Nizinie Staropruskiej, w dorzeczu Pasłęki."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Żuławy Wiślane stanowią centralną część Pobrzeża Gdańskiego, powstałą w wyniku akumulacji osadów rzecznych (delty) Wisły."
+                                  },
+                                  {
+                                      "question":  "Jaki typ gleb, powstały z osadów rzecznych (aluwiów), dominuje na Żuławach Wiślanych?",
+                                      "options":  [
+                                                      "Ubogie gleby bielicowe powstałe na piaskach sandrowych.",
+                                                      "Żyzne czarnoziemy wytworzone na podłożu lessowym.",
+                                                      "Mady",
+                                                      "Płytkie rędziny powstałe na skałach wapiennych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Mady to gleby powstałe w dolinach rzek i deltach z drobnych cząstek mineralnych i organicznych nanoszonych podczas wylewów."
+                                  },
+                                  {
+                                      "question":  "Jaki jest mechanizm powstawania klifu na polskim wybrzeżu?",
+                                      "options":  [
+                                                      "Fale morskie nadbudowują plażę, tworząc wysoki wał piasku chroniący ląd przed sztormami.",
+                                                      "Silny wiatr wywiewa piasek z wydm, odsłaniając nagą skałę macierzystą.",
+                                                      "Fale wymywają materiał u podstawy brzegu (nisza abrazyjna), co powoduje oberwanie się nawisu i cofanie brzegu.",
+                                                      "Lądolód skandynawski nasuwa się na brzeg, niszcząc plażę i spiętrzając materiał skalny."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Podcinanie podstawy klifu (nisza) powoduje utratę stabilności wyższych partii brzegu, które odpadają w postaci bloków (nawis)."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają mierzeje, takie jak Mierzeja Helska czy Wiślana?",
+                                      "options":  [
+                                                      "W wyniku intensywnej erozji dawnych lądów przez sztormy, które pozostawiły wąskie pasy ziemi.",
+                                                      "Przez akumulację piasku transportowanego przez prądy przybrzeżne w miejscach załamania linii brzegowej.",
+                                                      "Na skutek gwałtownego obniżenia się poziomu morza i odsłonięcia piaszczystego dna morskiego.",
+                                                      "Przez bezpośrednie nanoszenie grubego materiału skalnego (żwiru) przez rzeki wpadające do morza (deltowanie)."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Prąd przybrzeżny transportuje piasek wzdłuż brzegu. Gdy linia brzegowa się cofa, piasek jest osadzany w głąb morza, tworząc wał (kosę)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego obszar Żuław Wiślanych wymaga istnienia systemu polderów i stacji pomp?",
+                                      "options":  [
+                                                      "Aby intensywnie nawadniać pola uprawne w czasie długotrwałej suszy letniej.",
+                                                      "Ponieważ jest to obszar depresyjny i płaski, zagrożony zalaniem przez wody rzeczne i cofkę morską, co uniemożliwiałoby rolnictwo.",
+                                                      "W celu wydobywania cennego bursztynu z głębszych, zalanych wodą warstw ziemi.",
+                                                      "Aby stworzyć sztuczne, głębokie jeziora dla rozwoju turystyki wodnej i żeglarstwa."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Woda z terenów depresyjnych nie odpływa grawitacyjnie do morza, dlatego musi być stale przepompowywana przez system kanałów i pomp."
+                                  },
+                                  {
+                                      "question":  "Jaka jest geneza jezior przybrzeżnych, takich jak Łebsko czy Gardno?",
+                                      "options":  [
+                                                      "Są to dawne zatoki morskie, które zostały odcięte od morza przez narastające piaszczyste mierzeje.",
+                                                      "Są to głębokie rynny podlodowcowe wyżłobione przez wody płynące pod wysokim ciśnieniem pod lądolodem.",
+                                                      "Powstały w zagłębieniach terenu po wytopieniu się wielkich brył martwego lodu (oczka polodowcowe).",
+                                                      "Są to sztuczne zbiorniki retencyjne wybudowane w celu ochrony przeciwpowodziowej."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jeziora te powstały w wyniku odcięcia zatok morskich przez piaszczyste wały (mierzeje) usypane przez prądy morskie."
+                                  },
+                                  {
+                                      "question":  "Czym są kępy morenowe występujące na pobrzeżach (np. Kępa Redłowska, Kępa Oksywska)?",
+                                      "options":  [
+                                                      "Są to wysokie wydmy paraboliczne usypane przez wiatr wiejący od morza.",
+                                                      "Są to fragmenty wysoczyzn morenowych, które zostały odizolowane (pocięte) przez doliny wód powierzchniowych.",
+                                                      "Są to sztuczne nasypy portowe usypane w celu ochrony nabrzeży przed falami.",
+                                                      "Są to wygasłe wulkany z okresu trzeciorzędu, które zostały zdenudowane przez erozję."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Są to izolowane płaty wysoczyzny morenowej (z gliny zwałowej), oddzielone od reszty lądu np. pradolinami (Pradolina Kaszubska)."
+                                  },
+                                  {
+                                      "question":  "Która kraina pobrzeży nie ma bezpośredniego dostępu do otwartego Morza Bałtyckiego?",
+                                      "options":  [
+                                                      "Pobrzeże Szczecińskie",
+                                                      "Pobrzeże Koszalińskim",
+                                                      "Nizina Staropruska",
+                                                      "Pobrzeże Gdańskie"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Nizina Staropruska (polska część) graniczy z Zalewem Wiślanym, który jest oddzielony od otwartego morza Mierzeją Wiślaną."
+                                  },
+                                  {
+                                      "question":  "Dlaczego polskie klify (np. w Trzęsaczu czy Gdyni) są nietrwałe i szybko ulegają niszczeniu, w przeciwieństwie do klifów np. w Norwegii?",
+                                      "options":  [
+                                                      "Ponieważ Morze Bałtyckie ma znacznie bardziej niszczycielskie i wyższe fale niż Ocean Atlantycki.",
+                                                      "Ponieważ są zbudowane z mało odpornych osadów polodowcowych (gliny zwałowej), a nie z litej skały.",
+                                                      "Ponieważ w Polsce nie stosuje się żadnych inżynieryjnych zabezpieczeń brzegu (opasek betonowych).",
+                                                      "Ponieważ klify w Polsce są znacznie wyższe niż norweskie, co sprzyja grawitacyjnemu osuwaniu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klify norweskie są skaliste (granitowe), polskie to miękka glina zwałowa, którą woda łatwo podmywa, powodując osuwiska."
+                                  },
+                                  {
+                                      "question":  "Jaka jest przewidywana przyszłość geologiczna jezior przybrzeżnych (takich jak Łebsko) w obecnych warunkach klimatycznych?",
+                                      "options":  [
+                                                      "Przekształcą się w głębokie, otwarte zatoki morskie wskutek przerwania mierzei przez sztormy.",
+                                                      "Będą ulegać spłycaniu w wyniku akumulacji osadów i zarastania, przekształcając się w torfowiska.",
+                                                      "Ich głębokość znacznie wzrośnie z powodu intensywnej erozji dennej wywołanej prądami.",
+                                                      "Woda w nich stanie się całkowicie słona (jak w morzu) na skutek stałego dopływu wód oceanicznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podobnie jak jeziora polodowcowe, jeziora te ulegają procesowi lądowienia (wypełnianie osadami rzecznymi i organicznymi)."
+                                  },
+                                  {
+                                      "question":  "Dlaczego największe porty morskie w Polsce (Szczecin, Gdańsk) powstały u ujścia wielkich rzek, a nie na środkowym wybrzeżu (np. w Koszalinie)?",
+                                      "options":  [
+                                                      "Ponieważ tylko w ujściach rzek klimat jest wystarczająco łagodny dla żeglugi całorocznej.",
+                                                      "Ponieważ rzeki (Odra, Wisła) zapewniały naturalne szlaki transportowe w głąb lądu oraz wcięcia w ląd chroniące statki przed sztormami.",
+                                                      "Ponieważ na środkowym wybrzeżu występują zbyt wysokie klify, które całkowicie uniemożliwiają budowę jakiejkolwiek infrastruktury.",
+                                                      "Ponieważ woda w ujściach rzek jest bardziej słona, co zwiększa wyporność statków i ułatwia pływanie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Lokalizacja estuariowa umożliwiała łatwy transport towarów w głąb kraju (spław) i dawała naturalne schronienie flocie."
+                                  },
+                                  {
+                                      "question":  "Analizując klimat Pobrzeży: dlaczego okres wegetacyjny w okolicach Szczecina jest o kilkadziesiąt dni dłuższy niż na Nizinie Staropruskiej?",
+                                      "options":  [
+                                                      "Wynika to wyłącznie z różnicy w szerokości geograficznej (Szczecin leży znacznie bardziej na południe).",
+                                                      "Jest to efekt wzrostu kontynentalizmu klimatu w kierunku wschodnim (surowsze zimy na wschodzie) i wpływu ciepłych mas powietrza z zachodu.",
+                                                      "Szczecin leży w głębokiej depresji, gdzie zawsze panują wyższe temperatury niż na otwartym terenie.",
+                                                      "Nizina Staropruska jest terenem wysokogórskim o bardzo surowym, alpejskim klimacie."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wpływ Atlantyku (Prąd Północnoatlantycki) jest silniejszy na zachodzie, co łagodzi zimy i wydłuża okres wegetacji."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają ruchome wydmy w Słowińskim Parku Narodowym?",
+                                      "options":  [
+                                                      "Piasek jest nanoszony przez rzekę Łebę bezpośrednio na las, tworząc wysokie nasypy.",
+                                                      "Wiatr przewiewa wysuszony piasek z plaży w głąb lądu, zasypując roślinność, która nie jest w stanie go ustabilizować.",
+                                                      "Są to pozostałości po morenach czołowych z epoki lodowcowej, które zostały uruchomione przez człowieka.",
+                                                      "Powstają w wyniku trzęsień ziemi przesuwających wielkie masy lądu w kierunku morza."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Silne wiatry zachodnie przenoszą ziarenka piasku, powodując przesuwanie się wydm (nawet do 10 m rocznie) i zasypywanie lasów."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Proces abrazji na wybrzeżu wysokim prowadzi do systematycznego przesuwania się linii brzegowej w stronę morza poprzez nadbudowywanie klifu odpadającym materiałem.",
+                                           "answer":  false,
+                                           "explanation":  "Abrazja to proces niszczący, w wyniku którego podcinany przez fale klif obrywa się, a linia brzegowa cofa się w głąb lądu."
+                                       },
+                                       {
+                                           "sentence":  "Żuławy Wiślane stanowią dno dawnego jeziora polodowcowego, które wyschło w holocenie, odsłaniając żyzne osady.",
+                                           "answer":  false,
+                                           "explanation":  "Żuławy to równina deltowa powstała w miejscu dawnej zatoki morskiej, która została wypełniona osadami rzecznymi (aluwiami) naniesionymi przez Wisłę."
+                                       },
+                                       {
+                                           "sentence":  "Jezioro Łebsko, mimo dużej powierzchni (trzecie w Polsce), jest zbiornikiem bardzo płytkim, co wynika z jego genezy jako dawnej zatoki morskiej.",
+                                           "answer":  true,
+                                           "explanation":  "Jeziora przybrzeżne, powstałe przez odcięcie zatok mierzejami, są rozległe, ale z natury płytkie i podatne na zarastanie."
+                                       },
+                                       {
+                                           "sentence":  "Cały obszar pasa Pobrzeży stanowi depresję, czyli teren położony poniżej poziomu morza, co wymusza stosowanie polderów wzdłuż całego Bałtyku.",
+                                           "answer":  false,
+                                           "explanation":  "Depresje są charakterystyczne głównie dla Żuław Wiślanych (ok. 30% ich powierzchni); na pozostałym obszarze pobrzeży dominują wysoczyzny, a wzniesienia sięgają nawet ponad 200 m n.p.m. (Góra Zamkowa)."
+                                       },
+                                       {
+                                           "sentence":  "Klify występujące na polskim wybrzeżu są bardzo trwałe, ponieważ zbudowane są z odpornych na erozję skał litych (wapieni i granitów).",
+                                           "answer":  false,
+                                           "explanation":  "Polskie klify zbudowane są głównie z gliny morenowej, która jest materiałem mało odpornym na niszczącą działalność fal (abrazję), co powoduje ich szybkie cofanie."
+                                       },
+                                       {
+                                           "sentence":  "Mady występujące na Żuławach Wiślanych to gleby o bardzo wysokiej przydatności rolniczej, powstałe z namułów rzecznych.",
+                                           "answer":  true,
+                                           "explanation":  "Gleby te powstały z iłów, pyłów i próchnicy osadzanych podczas wylewów Wisły, co czyni Żuławy jednym z najżyźniejszych regionów Polski."
+                                       },
+                                       {
+                                           "sentence":  "Na wybrzeżu niskim (akumulacyjnym) zachodzi wyłącznie proces nadbudowywania lądu, a plaże i wydmy są formami stabilnymi, nieulegającymi niszczeniu.",
+                                           "answer":  false,
+                                           "explanation":  "Choć przeważa tu akumulacja, podczas silnych sztormów fale niszczą plaże i podcinają wydmy; jest to dynamiczny układ, w którym zachodzi także erozja."
+                                       },
+                                       {
+                                           "sentence":  "Okres wegetacyjny w zachodniej części pobrzeży (okolice Szczecina) jest dłuższy niż we wschodniej części (Nizina Staropruska) z powodu łagodzącego wpływu oceanicznego.",
+                                           "answer":  true,
+                                           "explanation":  "Na pobrzeżach widoczny jest wzrost kontynentalizmu ku wschodowi; okolice Szczecina mają łagodniejszy klimat i dłuższy okres wegetacyjny niż wschodnie krańce pasa."
+                                       },
+                                       {
+                                           "sentence":  "Mierzeje, takie jak Helska czy Wiślana, powstają w wyniku akumulacji piasku transportowanego przez prądy przybrzeżne wzdłuż brzegu.",
+                                           "answer":  true,
+                                           "explanation":  "Prąd przybrzeżny transportuje materiał dnem i osadza go w miejscach załamania linii brzegowej, tworząc wydłużone wały piaszczyste (kosy/mierzeje)."
+                                       },
+                                       {
+                                           "sentence":  "Najwyższym wzniesieniem pasa pobrzeży są ruchome wydmy w Słowińskim Parku Narodowym, osiągające wysokość ponad 300 m n.p.m.",
+                                           "answer":  false,
+                                           "explanation":  "Wydmy osiągają 30-40 m wysokości; najwyższe wzniesienia to wzgórza morenowe, np. Góra Zamkowa (216 m n.p.m.) na Nizinie Staropruskiej."
+                                       },
+                                       {
+                                           "sentence":  "Rzeki takie jak Słupia, Łeba czy Parsęta są dopływami Wisły, odwadniającymi Pojezierze Pomorskie w kierunku południowym.",
+                                           "answer":  false,
+                                           "explanation":  "Są to rzeki Przymorza, które mają źródła na pojezierzach, ale spływają bezpośrednio do Morza Bałtyckiego (na północ), a nie do Wisły."
+                                       }
+                                   ]
+                 }
+}

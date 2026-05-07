@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t6",
+    "title": "Źródła energii i gospodarka surowcami energetycznymi",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Energia pierwotna",
+        "definition": "Energia zawarta w źródłach odnawialnych i nieodnawialnych, która nie została poddana żadnym przemianom."
+      },
+      {
+        "term": "Energia wtórna",
+        "definition": "Energia uzyskana z przetworzenia energii pierwotnej, wykorzystywana do celów użytkowych (elektryczna, cieplna lub mechaniczna)."
+      },
+      {
+        "term": "Nieodnawialne źródła energii",
+        "definition": "Źródła, które nie ulegają odtworzeniu w krótkim okresie i wyczerpują się bezpowrotnie, np. węgiel kamienny, węgiel brunatny, ropa naftowa, gaz ziemny i torf."
+      },
+      {
+        "term": "Odnawialne źródła energii (OZE)",
+        "definition": "Źródła, które mogą być wykorzystywane w nieograniczonych ilościach, ponieważ nie ulegają wyczerpaniu, np. woda płynąca w rzekach, promieniowanie słoneczne, wiatr, biomasa."
+      },
+      {
+        "term": "Węgiel kamienny",
+        "definition": "Naturalne paliwo stałe zawierające do 98% węgla pierwiastkowego, wykorzystywane w energetyce oraz m.in. do wytwarzania koksu, smoły, leków i barwników."
+      },
+      {
+        "term": "Węgiel brunatny",
+        "definition": "Paliwo kopalne o niewielkiej kaloryczności, dużej zawartości wody i znacznej kruchości, ze względów ekonomicznych zużywane w elektrowniach blisko miejsc eksploatacji."
+      },
+      {
+        "term": "Ropa naftowa",
+        "definition": "Płynna mieszanina węglowodorów o znaczeniu strategicznym. Służy głównie do produkcji paliw, ale również w przemyśle chemicznym (farby, kosmetyki, leki)."
+      },
+      {
+        "term": "Gaz ziemny",
+        "definition": "Mieszanina lotnych węglowodorów (głównie metanu), towarzysząca złożom ropy naftowej (gaz mokry) lub występująca w samodzielnych złożach (gaz suchy)."
+      },
+      {
+        "term": "Gaz łupkowy",
+        "definition": "Rodzaj gazu ziemnego wydobywanego ze skał bogatych w materię organiczną (łupków), obecnie pozyskiwany na największą skalę w Stanach Zjednoczonych."
+      },
+      {
+        "term": "Uran",
+        "definition": "Promieniotwórczy pierwiastek wykorzystywany w energetyce jądrowej. Z 1 kg tego pierwiastka można wytworzyć tyle energii, co z 2,5 tys. ton węgla."
+      },
+      {
+        "term": "Bilans energetyczny",
+        "definition": "Zestawienie udziału poszczególnych źródeł energii pierwotnej w ogólnej produkcji energii wtórnej."
+      },
+      {
+        "term": "OPEC",
+        "definition": "Organizacja Krajów Eksportujących Ropę Naftową. Ustala limity wydobycia tego surowca, wpływając bezpośrednio na jego ceny na światowych rynkach."
+      },
+      {
+        "term": "Elektrownie wodne (hydroelektrownie)",
+        "definition": "Zakłady produkujące prąd dzięki wykorzystaniu naturalnej siły przepływu lub spadku wody. Stanowią one źródło ponad 60% energii ze źródeł odnawialnych na świecie."
+      },
+      {
+        "term": "Biomasa",
+        "definition": "Materia organiczna, z której wytwarza się energię poprzez bezpośrednie spalanie (np. drewna), spalanie biogazu lub poprzez przetwarzanie na biopaliwa."
+      },
+      {
+        "term": "Skutki negatywne energetyki węglowej",
+        "definition": "Zanieczyszczenie atmosfery dwutlenkiem węgla i tlenkami siarki, powstawanie smogu, zasalanie rzek oraz zanieczyszczanie wód metalami ciężkimi ze składowisk popiołów."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Ropa naftowa",
+        "pair2": "Stany Zjednoczone, Arabia Saudyjska, Rosja"
+      },
+      {
+        "pair1": "Węgiel kamienny",
+        "pair2": "Chiny, Indie, Stany Zjednoczone, Australia"
+      },
+      {
+        "pair1": "Gaz ziemny",
+        "pair2": "Stany Zjednoczone, Rosja, Iran, Kanada"
+      },
+      {
+        "pair1": "Węgiel brunatny",
+        "pair2": "Niemcy, Rosja, Stany Zjednoczone"
+      },
+      {
+        "pair1": "Uran",
+        "pair2": "Australia, Kanada, Kazachstan, Rosja"
+      },
+      {
+        "pair1": "Węgiel brunatny",
+        "pair2": "Paliwo kopalne o niewielkiej kaloryczności i dużej zawartości wody, zużywane w elektrowniach blisko miejsca wydobycia"
+      },
+      {
+        "pair1": "Ropa naftowa",
+        "pair2": "Mieszanina węglowodorów dominująca w bilansie energetycznym świata od lat 60. XX wieku"
+      },
+      {
+        "pair1": "Węgiel kamienny",
+        "pair2": "Surowiec energetyczny, którego najwięcej wydobywa się w zagłębiu Datong w Chinach"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Które z wymienionych źródeł zalicza się do grupy odnawialnych źródeł energii (OZE)?",
+        "options": [
+          "Wydobywany spod ziemi węgiel kamienny",
+          "Odnawialny wiatr oraz promienie słońca",
+          "Ropa naftowa oraz jej frakcje z rafinerii",
+          "Promieniotwórczy uran oraz mokry torf"
+        ],
+        "answer": "B",
+        "explanation": "Zgodnie z podręcznikiem promieniowanie słoneczne, wiatr, woda w rzekach i biomasa należą do odnawialnych źródeł energii, ponieważ nie ulegają wyczerpaniu w przeciwieństwie do węgla, ropy, gazu czy uranu."
+      },
+      {
+        "question": "Które państwo zajmuje pierwsze miejsce na świecie pod względem wydobycia węgla kamiennego?",
+        "options": [
+          "Republika Południowej Afryki",
+          "Zjednoczone Emiraty Arabskie",
+          "Azjatycka Republika Chińska",
+          "Stany Zjednoczone Ameryki"
+        ],
+        "answer": "C",
+        "explanation": "Najwięcej tego surowca wydobywa się obecnie w zagłębiu Datong w prowincji Shanxi w Chinach, co daje im niemal połowę światowego wydobycia."
+      },
+      {
+        "question": "Który surowiec dominuje w bilansie energetycznym świata nieprzerwanie od lat 60. XX wieku?",
+        "options": [
+          "Silnie promieniotwórczy pierwiastek",
+          "Stosunkowo tani węgiel kamienny",
+          "Energetyka ze źródeł odnawialnych",
+          "Płynna frakcja i węglowodory ropy"
+        ],
+        "answer": "D",
+        "explanation": "Zgodnie ze źródłami od lat 60. XX wieku w bilansie energetycznym świata wciąż wyraźnie dominuje ropa naftowa ze względu na rozwój motoryzacji i koszty wydobycia."
+      },
+      {
+        "question": "Która grupa surowców zawiera wyłącznie nieodnawialne źródła energii ulegające wyczerpaniu?",
+        "options": [
+          "Węgiel kamienny, gaz ziemny, ropa",
+          "Wiatr, promieniowanie słońca, woda",
+          "Węgiel brunatny, biomasa i energia fal",
+          "Ciepło z wnętrza Ziemi i gaz mokry ze złóż"
+        ],
+        "answer": "A",
+        "explanation": "Węgiel kamienny, gaz ziemny oraz ropa naftowa (także uran i węgiel brunatny) to zasoby, które nie odtwarzają się w krótkim czasie i ulegają bezpowrotnemu wyczerpaniu."
+      },
+      {
+        "question": "Które państwa wymieniane są w podręczniku jako czołowi światowi producenci ropy naftowej?",
+        "options": [
+          "Zjednoczone Emiraty Arabskie oraz Wielka Brytania",
+          "Stany Zjednoczone, Rosja oraz państwo Saudyjskie",
+          "Demokratyczna Republika Konga, Wenezuela oraz Iran",
+          "Chińska Republika Ludowa, Indie i państwo Australia"
+        ],
+        "answer": "B",
+        "explanation": "Niemal 1/3 światowego wydobycia ropy naftowej pochodzi z Bliskiego Wschodu, a do głównych, największych producentów należą USA, Arabia Saudyjska i Rosja."
+      },
+      {
+        "question": "Dlaczego elektrownie spalające węgiel brunatny najczęściej lokalizuje się tuż przy kopalniach tego surowca?",
+        "options": [
+          "Jej parametry fizyczne wykluczają transport poza obręb państwa",
+          "Po wydobyciu z ziemi natychmiast sublimuje powodując silny pożar",
+          "Odznacza się małą kalorycznością i dużą wilgotnością surowca",
+          "Jest to paliwo absolutnie niezbędne dla nowoczesnej zbrojeniówki"
+        ],
+        "answer": "C",
+        "explanation": "Węgiel brunatny ma niską kaloryczność, dużą zawartość wody i znaczną kruchość, dlatego jego transport na odległość jest nieopłacalny ze względów ekonomicznych."
+      },
+      {
+        "question": "Czym charakteryzuje się gaz łupkowy, którego znaczenie w ostatnich dekadach rośnie na rynku surowców?",
+        "options": [
+          "Pozyskuje się go w kopalniach głębinowych wraz ze złożami węgla kamiennego",
+          "Występuje tylko w gigantycznych złożach podmorskich u wybrzeży chłodnej Europy",
+          "Stanowi on wyłącznie niewielką domieszkę towarzyszącą zasobom ropy naftowej",
+          "Wydobywa się go wprost ze skał wyjątkowo bogatych w szczątki organiczne"
+        ],
+        "answer": "D",
+        "explanation": "Gaz łupkowy to rodzaj gazu ziemnego, który technologicznie wydobywa się wprost ze skał łupkowych bogatych w materię organiczną (największa skala w USA)."
+      },
+      {
+        "question": "Który z czynników przyczynił się na początku XX wieku do zahamowania wzrostu potęgi węgla kamiennego?",
+        "options": [
+          "Rosnące koszty i wyczerpywanie się najłatwiej dostępnych pokładów",
+          "Niższa wydajność i kaloryczność ropy naftowej względem brył węgla",
+          "Szybki renesans energetyki opartej o potężne koła wodne w Europie",
+          "Złagodzenie obostrzeń środowiskowych zachęcające do zużycia ropy"
+        ],
+        "answer": "A",
+        "explanation": "Jedną z głównych przyczyn spadku znaczenia węgla był wzrost kosztów wydobycia tego surowca ze względu na szybkie wyczerpywanie się płytkich i korzystnych złóż."
+      },
+      {
+        "question": "Według tekstu podręcznika, w których krajach zlokalizowane są dzisiaj największe udokumentowane zasoby gazu ziemnego?",
+        "options": [
+          "Stany Zjednoczone Ameryki Północnej, potężna Kanada i meksykańskie stany",
+          "Rosja, Republika Islamska Iranu oraz leżący na bliskim wschodzie Katar",
+          "Chińska Republika Ludowa, dynamicznie rozwijające się obszary Japonii",
+          "Rozwinięte kraje Europy, takie jak terytorium Niemiec, Francji czy Belgii"
+        ],
+        "answer": "B",
+        "explanation": "Choć USA są obecnie gigantycznym producentem gazu ze względu na łupki, to największymi udokumentowanymi naturalnymi zasobami gazu ziemnego dysponują właśnie Rosja, Iran oraz Katar."
+      },
+      {
+        "question": "Jakie strategiczne zadanie realizuje na rynkach surowców Organizacja Krajów Eksportujących Ropę Naftową (OPEC)?",
+        "options": [
+          "Dotuje finansowo budowę wielkich elektrowni słonecznych w ciepłych krajach",
+          "Kontroluje bezpośrednio globalne światowe rynki zbytu taniego gazu z łupków",
+          "Decyduje o limitach wydobycia ropy, co wprost kształtuje jej rynkowe ceny",
+          "Prowadzi stanowcze działania na rzecz eliminacji zanieczyszczającego węgla"
+        ],
+        "answer": "C",
+        "explanation": "OPEC to organizacja skupiająca eksporterów ropy, która systemowo ustala odgórne limity wydobycia tego surowca, co wpływa wprost na rynkowe ceny na giełdach światowych."
+      },
+      {
+        "question": "Które sformułowanie precyzyjnie określa wartość energetyczną uranu z perspektywy wydajności jego przetworzenia?",
+        "options": [
+          "Jego masowe wykorzystanie w elektrowniach rodzi olbrzymią emisję dwutlenku węgla wprost na zewnątrz",
+          "Zalicza się do surowców nieskończenie odnawialnych o marginalnej wydajności dla gospodarki świata",
+          "Stanowi rzadko stosowany i zupełnie bezużyteczny minerał bez znaczenia dla wielkiego przemysłu",
+          "Niewielka próbka o masie jednego kilograma uwalnia tyle mocy, co złoże 2,5 tysiąca ton węgla"
+        ],
+        "answer": "D",
+        "explanation": "Mimo że z rudy uzyskuje się śladowe ilości czystego uranu, jego wydajność jest ogromna - jeden kilogram pozwala wytworzyć moc odpowiadającą aż 2,5 tys. ton węgla."
+      },
+      {
+        "question": "Co z perspektywy przemysłu energetycznego dokładnie oznacza termin 'energia pierwotna' zdefiniowany w rozdziale?",
+        "options": [
+          "Potencjał ukryty w surowcach przed jakimikolwiek procesami",
+          "Wyłącznie ta partia zasobów, która napędza generatory wiatrowe",
+          "Energia docelowo wykorzystywana do oświetlania miast oraz wiosek",
+          "Produkcja z uciążliwych dla natury wielkich kopalń oraz rafinerii"
+        ],
+        "answer": "A",
+        "explanation": "Energia pierwotna to energia zawarta bezpośrednio w pozyskanych źródłach (zarówno odnawialnych, jak i nieodnawialnych), która nie została jeszcze poddana żadnym przemianom w celach użytkowych."
+      },
+      {
+        "question": "W jaki sposób zawirowania gospodarcze z lat siedemdziesiątych ubiegłego wieku wpłynęły na postrzeganie gazu ziemnego?",
+        "options": [
+          "Całkowite odgórne zatrzymanie wydobycia węgla z uwagi na normy ochrony atmosfery",
+          "Nagły skok światowych cen ropy skutkujący głębokim chaosem na rynku paliwowym",
+          "Udane skomercjalizowanie nowatorskiej, bezemisyjnej metody czerpania mocy z rzek",
+          "Masowy, nieodwracalny upadek setek starych zakładów i spadek zużycia prądu w miastach"
+        ],
+        "answer": "B",
+        "explanation": "Światowy kryzys energetyczny wywołany nagłym i gwałtownym wzrostem cen ropy naftowej przyczynił się do szukania alternatyw, co bardzo silnie zwiększyło pozycję gazu ziemnego."
+      },
+      {
+        "question": "Jaka strukturalna pułapka na mapie surowcowej dotyczy relacji między pozyskiwaniem gazu łupkowego a zasobami suchego gazu?",
+        "options": [
+          "Federacja Rosyjska jest aktualnym czempionem wydobycia łupków, mimo że Ameryka kryje lepsze złoża",
+          "Zamożne monarchie arabskie zmonopolizowały globalną produkcję węglowodorów, ignorując państwa Zachodu",
+          "USA pompują najwięcej gazu łupkowego, lecz to m.in. Rosja posiada bogatsze udokumentowane rezerwy",
+          "Stany Zjednoczone wraz z rządem w Ottawie kontrolują wszystkie podmorskie rezerwuary cennego metanu"
+        ],
+        "answer": "C",
+        "explanation": "Chociaż Stany Zjednoczone produkują i wydobywają gigantyczne ilości gazu ze swoich łupków wyprzedzając innych, to Rosja, Iran czy Katar mają najbogatsze udokumentowane rezerwy tego surowca."
+      },
+      {
+        "question": "W jaki sposób przebiegały historyczne zmiany dotyczące surowca dominującego w ujęciu produkcji energii pierwotnej od XIX wieku?",
+        "options": [
+          "Udział węgla rósł przez niemal całe dwudzieste stulecie, aż został odrzucony przez dyrektywy ekologiczne",
+          "Odnawialne źródła zdobywały rynek nieprzerwanie od wieku pary aż do nadejścia ery cyfrowych maszyn",
+          "Gaz ziemny od początku rewolucji przemysłowej znacząco dystansował problematyczne w zużyciu bryły węgla",
+          "Drewno ostatecznie ustąpiło bryłom węglowym, a w ubiegłym stuleciu na czoło wysunęła się tańsza ropa"
+        ],
+        "answer": "D",
+        "explanation": "Do końca XVIII w. dominowało drewno. W XIX w. pozycję tę całkowicie przejął węgiel. Jednak w XX wieku (głównie od lat 60.) dominację przejęła łatwiejsza i wydajniejsza ropa naftowa."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Ze względu na to, że gaz ziemny występuje w przyrodzie w formie naturalnej i jest stosunkowo czysty w spalaniu, zalicza się go do odnawialnych źródeł energii.",
+        "answer": false,
+        "explanation": "Gaz ziemny jest paliwem kopalnym i należy do grupy nieodnawialnych źródeł energii, ponieważ ulega bezpowrotnemu wyczerpaniu w przeciwieństwie np. do wiatru czy wody."
+      },
+      {
+        "sentence": "Węgiel brunatny cechuje się wyższą kalorycznością od węgla kamiennego, dzięki czemu opłaca się go masowo transportować na duże odległości, z dala od miejsc wydobycia.",
+        "answer": false,
+        "explanation": "Jest odwrotnie. Węgiel brunatny ma niewielką kaloryczność, dużą zawartość wody i znaczną kruchość, dlatego zużywa się go niemal w całości w elektrowniach położonych tuż przy miejscach eksploatacji."
+      },
+      {
+        "sentence": "Uran to pierwiastek, z którego rudy uzyskuje się śladowe ilości surowca, jednak z jednego kilograma czystego pierwiastka wytwarza się tyle energii, co z 2,5 tysiąca ton węgla.",
+        "answer": true,
+        "explanation": "Mimo że proces wydobycia uranu dostarcza niewiele czystego surowca, to jego wydajność energetyczna jest olbrzymia - 1 kg uranu jest odpowiednikiem 2,5 tys. ton węgla lub 1,8 tys. ton ropy naftowej."
+      },
+      {
+        "sentence": "Stany Zjednoczone, będące obecnie największym producentem gazu łupkowego na świecie, dysponują równocześnie największymi udokumentowanymi naturalnymi zasobami gazu ziemnego.",
+        "answer": false,
+        "explanation": "To pułapka logiczna myląca produkcję z zasobami. Choć Stany Zjednoczone przodują w wydobyciu gazu łupkowego, to największymi udokumentowanymi zasobami gazu ziemnego dysponują Rosja, Iran i Katar."
+      },
+      {
+        "sentence": "Kryzys energetyczny z lat 70. XX wieku doprowadził do trwałej utraty pierwszego miejsca przez ropę naftową w bilansie energetycznym świata na rzecz węgla kamiennego.",
+        "answer": false,
+        "explanation": "Mimo kryzysu energetycznego, który przyniósł wzrost cen ropy i nieznaczny spadek jej roli na korzyść m.in. gazu ziemnego, surowiec ten wciąż nieprzerwanie dominuje w bilansie energetycznym świata od lat 60. XX wieku."
+      },
+      {
+        "sentence": "Energia elektryczna wykorzystywana do oświetlania mieszkań stanowi przykład energii pierwotnej, ponieważ pochodzi z przetworzenia naturalnych zasobów Ziemi.",
+        "answer": false,
+        "explanation": "Energia elektryczna, cieplna i mechaniczna to energia wtórna (przetworzona). Energia pierwotna to energia zawarta bezpośrednio w źródłach (np. w bryle węgla czy wietrze) przed jej przetworzeniem do celów użytkowych."
+      },
+      {
+        "sentence": "Elektrownie wodne przepływowe, w przeciwieństwie do zbiornikowych, nie mają możliwości regulacji mocy wytwarzanej energii, ponieważ pozbawione są zbiorników umożliwiających gromadzenie wody.",
+        "answer": true,
+        "explanation": "Elektrownie przepływowe (budowane np. na rzekach o dużym przepływie lub spadku) uzależnione są od bieżącego stanu rzeki, ponieważ brak zbiorników (jak w elektrowniach szczytowo-pompowych czy zaporowych) uniemożliwia magazynowanie potencjału."
+      },
+      {
+        "sentence": "Spadek znaczenia węgla w bilansie energetycznym świata na początku XX wieku wynikał między innymi z wyczerpywania się płytkich, najkorzystniej położonych złóż i wzrostu kosztów jego wydobycia.",
+        "answer": true,
+        "explanation": "Wzrost kosztów wydobycia spowodowany wyczerpywaniem się najłatwiej dostępnych zasobów był jedną z głównych przyczyn odwrotu od węgla na korzyść tańszej wówczas i wydajniejszej ropy naftowej."
+      },
+      {
+        "sentence": "Największe na świecie wydobycie węgla kamiennego odbywa się obecnie w Chinach, w prowincji Shanxi, która samodzielnie dostarcza ponad 75% światowej produkcji tego surowca.",
+        "answer": false,
+        "explanation": "Chociaż zagłębie Datong w Chinach pozwala im zajmować bezapelacyjnie pierwsze miejsce na świecie pod względem wydobycia węgla kamiennego, to ich łączny globalny udział wynosi 46,7%, a więc mniej niż połowę światowej produkcji."
+      },
+      {
+        "sentence": "Najwięcej energii elektrycznej produkowanej ze źródeł odnawialnych na świecie pochodzi z elektrowni wiatrowych, ze względu na powszechność występowania sprzyjających warunków cyrkulacji powietrza.",
+        "answer": false,
+        "explanation": "To energia z wody (hydroenergia) jest wiodącym odnawialnym źródłem energii na świecie (ponad 60% w ramach OZE i ok. 15% produkcji globalnej). Elektrownie wiatrowe wytwarzają poniżej 5% ogólnej światowej produkcji energii."
+      },
+      {
+        "sentence": "Organizacja Krajów Eksportujących Ropę Naftową (OPEC) ustala limity wydobycia tego surowca, co pozwala jej wpływać bezpośrednio na rynkowe ceny ropy na świecie.",
+        "answer": true,
+        "explanation": "OPEC poprzez systematyczne ustalanie limitów produkcji kształtuje podaż surowca, co bezpośrednio determinuje giełdowe ceny ropy na rynkach międzynarodowych."
+      },
+      {
+        "sentence": "Biomasa zaliczana jest do nieodnawialnych źródeł energii, ponieważ opiera się między innymi na bezpośrednim spalaniu drewna, co bezpowrotnie usuwa ten zasób ze środowiska przyrodniczego.",
+        "answer": false,
+        "explanation": "Biomasa, w tym spalane drewno, biogaz czy biopaliwa, jest zaliczana do odnawialnych źródeł energii (OZE), ponieważ zasoby te mogą ulegać naturalnemu odtworzeniu lub można je uprawiać (np. drzewa) w cyklach zrównoważonych."
+      }
+    ]
+  }
+}

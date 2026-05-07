@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "id": "k2-r-dz3-t1",
+    "title": "Zmiana roli sektorów gospodarki",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rolnictwo (pierwszy sektor gospodarki)",
+        "definition": "Sektor gospodarki, w którego zakres wchodzą przede wszystkim uprawa roślin i chów zwierząt gospodarskich, często w statystykach łączone z leśnictwem i rybactwem. Do jego zadań należy dostarczanie żywności do bezpośredniego spożycia lub przetwarzania oraz surowców wykorzystywanych w innych działach przemysłu."
+      },
+      {
+        "term": "Przemysł (drugi sektor gospodarki)",
+        "definition": "Sektor ten obejmuje eksploatację zasobów naturalnych, przetwarzanie ich na dobra konsumpcyjne i dobra produkcyjne, a także produkcję energii. Zajmuje się również dostarczaniem wody i odprowadzaniem ścieków."
+      },
+      {
+        "term": "Usługi (trzeci sektor gospodarki)",
+        "definition": "Sektor, do którego zalicza się działalność, która nie polega na wytwarzaniu dóbr materialnych, lecz ma charakter świadczeń i służy zaspokajaniu potrzeb ludzi, organizacji i firm."
+      },
+      {
+        "term": "Faza preindustrialna (przedprzemysłowa)",
+        "definition": "Faza rozwoju cywilizacyjnego, w której największy odsetek osób pracuje w rolnictwie."
+      },
+      {
+        "term": "Faza industrialna (przemysłowa)",
+        "definition": "Faza rozwoju cywilizacyjnego odznaczająca się dominacją przemysłu w strukturze zatrudnienia."
+      },
+      {
+        "term": "Faza postindustrialna (poprzemysłowa)",
+        "definition": "Faza rozwoju cywilizacyjnego, której charakterystyczną cechą jest dominacja usług w zatrudnieniu."
+      },
+      {
+        "term": "Faza informacyjna",
+        "definition": "Faza rozwoju cywilizacyjnego, w której w gospodarce dominują usługi zaawansowane związane przede wszystkim ze zdobywaniem, przetwarzaniem i dostarczaniem informacji."
+      },
+      {
+        "term": "Wartość dodana brutto (WDB)",
+        "definition": "Wartość wyrobów i usług wytworzonych przez wszystkie krajowe podmioty gospodarcze pomniejszona o koszty związane z ich wytworzeniem."
+      },
+      {
+        "term": "Polska Klasyfikacja Działalności (PKD)",
+        "definition": "Usystematyzowany i spójny z klasyfikacjami w innych państwach wykaz wszystkich rodzajów działalności społeczno-gospodarczej podzielony na pięciu poziomach: w sekcjach, działach, grupach, klasach i podklasach."
+      },
+      {
+        "term": "Czwarty sektor gospodarki (usługi zaawansowane)",
+        "definition": "Wyodrębniony z usług sektor, którego odbiorcami są przede wszystkim przedsiębiorstwa i instytucje, obejmujący m.in. usługi informatyczne, finansowe, reklamowe i doradcze."
+      },
+      {
+        "term": "Struktura zatrudnienia",
+        "definition": "Odsetek pracujących w poszczególnych sektorach gospodarki. Wraz z rozwojem cywilizacyjnym nieustannie maleje w niej udział rolnictwa, a rośnie udział usług."
+      },
+      {
+        "term": "Przyczyny zmian znaczenia sektorów gospodarki",
+        "definition": "Do głównych przyczyn tych zmian zalicza się postęp cywilizacyjny oraz związane z nim rozwój technologiczny i wzrost zamożności społeczeństw."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Uprawa roślin, chów zwierząt gospodarskich oraz dostarczanie żywności",
+        "pair2": "Rolnictwo (I sektor gospodarki)"
+      },
+      {
+        "pair1": "Eksploatacja zasobów naturalnych, ich przetwarzanie oraz produkcja energii",
+        "pair2": "Przemysł (II sektor gospodarki)"
+      },
+      {
+        "pair1": "Działalność o charakterze niematerialnym służąca zaspokajaniu potrzeb ludzi i firm",
+        "pair2": "Usługi (III sektor gospodarki)"
+      },
+      {
+        "pair1": "Faza preindustrialna (przedprzemysłowa)",
+        "pair2": "Największy odsetek osób pracuje w rolnictwie"
+      },
+      {
+        "pair1": "Faza industrialna (przemysłowa)",
+        "pair2": "Dominacja przemysłu w strukturze zatrudnienia"
+      },
+      {
+        "pair1": "Faza postindustrialna (poprzemysłowa)",
+        "pair2": "Dominacja usług w strukturze zatrudnienia"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Do którego sektora gospodarki zalicza się działalność związaną z dostarczaniem żywności do przetwarzania?",
+        "options": [
+          "Rolnictwo i powiązane działy",
+          "Wydobycie surowców z ziemi",
+          "Przetwarzanie i dystrybucja",
+          "Usługi zaspokajające potrzeby"
+        ],
+        "answer": "A",
+        "explanation": "Rolnictwo to pierwszy sektor, którego głównym zadaniem jest m.in. dostarczanie surowców do innych działów przemysłu oraz żywności."
+      },
+      {
+        "question": "Jak zdefiniowana jest wartość dodana brutto (WDB) w strukturze nowoczesnej gospodarki państwa?",
+        "options": [
+          "Odsetek zatrudnionych w krajowych firmach",
+          "Wydatki poniesione na rozwój całego państwa",
+          "Różnica wartości wyrobów oraz ich kosztów",
+          "Całkowity koszt produkcji dóbr krajowych"
+        ],
+        "answer": "C",
+        "explanation": "WDB to wartość wyrobów i usług wytworzonych przez podmioty gospodarcze pomniejszona o koszty związane z ich wytworzeniem."
+      },
+      {
+        "question": "Gdzie należy sklasyfikować działalność polegającą na eksploatacji zasobów naturalnych z ziemi?",
+        "options": [
+          "Jest to pierwszy sektor gospodarki",
+          "Należy to do sektora usługowego",
+          "Zalicza się to do sektora rolnictwa",
+          "Stanowi to część sektora przemysłu"
+        ],
+        "answer": "D",
+        "explanation": "Eksploatacja zasobów naturalnych to zadanie przemysłu (sekcja wydobywcza), stanowiącego drugi sektor gospodarki, a nie rolnictwa."
+      },
+      {
+        "question": "Jaka jest najważniejsza cecha działalności zaliczanej do trzeciego sektora gospodarki państwowej?",
+        "options": [
+          "Niematerialny charakter świadczonych usług",
+          "Wydobywanie różnorodnych bogactw naturalnych",
+          "Przetwarzanie posiadanych zasobów na towary",
+          "Wytwarzanie całkowicie nowych dóbr trwałych"
+        ],
+        "answer": "A",
+        "explanation": "Podstawową cechą sektora usług jest niematerialność; służy on zaspokajaniu potrzeb bez bezpośredniego wytwarzania dóbr materialnych."
+      },
+      {
+        "question": "Jakie rodzaje działalności gospodarczej wyodrębnia się w literaturze jako czwarty sektor?",
+        "options": [
+          "Prace związane bezpośrednio z hodowlą zwierząt",
+          "Wydobycie surowców z zasobów naturalnych ziemi",
+          "Zaawansowane usługi kierowane do przedsiębiorstw",
+          "Budowę lokalnych dróg oraz wielkich autostrad"
+        ],
+        "answer": "C",
+        "explanation": "Czwarty sektor obejmuje zaawansowane usługi (np. finansowe, informatyczne), których odbiorcami są głównie przedsiębiorstwa."
+      },
+      {
+        "question": "Jaką cechą charakteryzuje się preindustrialna faza rozwoju cywilizacyjnego w danym kraju?",
+        "options": [
+          "Dominacją sektora przemysłowego w zatrudnieniu",
+          "Największym odsetkiem ludzi pracujących na roli",
+          "Wyraźną przewagą zaawansowanych usług rynkowych",
+          "Całkowitą równowagą pomiędzy wszystkimi sektorami"
+        ],
+        "answer": "B",
+        "explanation": "Faza preindustrialna (przedprzemysłowa) to etap, w którym największy odsetek osób w kraju pracuje w rolnictwie."
+      },
+      {
+        "question": "Jakie zjawisko obserwuje się zazwyczaj w strukturze państwa wkraczającego w fazę postindustrialną?",
+        "options": [
+          "Dominację sektora przemysłowego w zatrudnieniu",
+          "Zmniejszający się odsetek branż usługowych w WDB",
+          "Znaczący wzrost pracowników w branży rolniczej",
+          "Wyraźną przewagę sektora usług w zatrudnieniu"
+        ],
+        "answer": "D",
+        "explanation": "Faza postindustrialna (poprzemysłowa) charakteryzuje się zdecydowaną dominacją sektora usług w ogólnej strukturze zatrudnienia."
+      },
+      {
+        "question": "Jakie unikalne zjawisko zaobserwowano w rozwoju cywilizacyjnym małych państw, takich jak Antigua i Barbuda?",
+        "options": [
+          "Skok do fazy przemysłowej z pominięciem usług",
+          "Silną dominację rolnictwa mimo ekspansji fabryk",
+          "Szybkie przejście od rolnictwa w stronę usług",
+          "Brak większych zmian w strukturze zatrudnienia"
+        ],
+        "answer": "C",
+        "explanation": "Dzięki rozwojowi turystyki, w niektórych małych krajach nastąpił przeskok bezpośrednio od fazy preindustrialnej do postindustrialnej."
+      },
+      {
+        "question": "W jaki sposób systematyzuje się wszelką działalność gospodarczą w Polsce w ramach struktury PKD?",
+        "options": [
+          "Tylko na głównym poziomie sekcji oraz działów",
+          "Za pomocą pięciu poziomów od sekcji do podklas",
+          "Używając czterech kategorii według wielkości firm",
+          "Według poziomu zatrudnienia w każdym z sektorów"
+        ],
+        "answer": "B",
+        "explanation": "Polska Klasyfikacja Działalności (PKD) podzielona jest na pięciu poziomach: w sekcjach, działach, grupach, klasach i podklasach."
+      },
+      {
+        "question": "Gdzie w Polskiej Klasyfikacji Działalności (PKD) zalicza się działalność związaną z dostawą wody?",
+        "options": [
+          "Zalicza się ją do powszechnych usług domowych",
+          "Stanowi ona część działalności ogólnobudowlanej",
+          "Klasyfikuje się ją jako usługi wspierające rynek",
+          "Należy ona bezpośrednio do sektora przemysłu"
+        ],
+        "answer": "D",
+        "explanation": "Dostarczanie wody i gospodarowanie ściekami (sekcja E w PKD) zaliczane są w oficjalnych statystykach do sektora przemysłowego."
+      },
+      {
+        "question": "W jaki sposób traktuje się obecnie firmy tworzące nowoczesne oprogramowanie komputerowe (sektor IT)?",
+        "options": [
+          "Należą w całości do pierwszego sektora w państwie",
+          "Zalicza się je wyłącznie do działalności rolniczej",
+          "Są to usługi silnie powiązane z branżą przemysłową",
+          "Są sklasyfikowane jako tradycyjny przemysł ciężki"
+        ],
+        "answer": "C",
+        "explanation": "Firmy IT w PKD zaliczane są do usług (informacja i komunikacja), ale ze względu na tworzenie gotowych produktów traktuje się je łącznie z przemysłem."
+      },
+      {
+        "question": "Z jakiego głównego powodu obszar budownictwa bywa skomplikowany do jednoznacznego sklasyfikowania?",
+        "options": [
+          "Wymaga stosowania przestarzałych metod wytwarzania",
+          "Obejmuje zarówno drobne usługi, jak i duże projekty",
+          "Opiera się wyłącznie na hodowli zwierząt w terenie",
+          "Zajmuje się tylko tworzeniem dóbr niematerialnych"
+        ],
+        "answer": "B",
+        "explanation": "Drobne prace remontowe stanowią usługę, jednak realizacja ogromnych projektów infrastrukturalnych nosi wyraźne cechy produkcji przemysłowej."
+      },
+      {
+        "question": "W jaki sposób prezentuje się standardowa struktura zatrudnienia w najsłabiej rozwiniętych państwach świata?",
+        "options": [
+          "Dominują w niej osoby zatrudnione przy rolnictwie",
+          "Wyróżnia się całkowitą przewagą nowoczesnych usług",
+          "Wykazuje ogromny spadek zatrudnienia we wszystkich",
+          "Pokazuje dużą stabilność w obszarze przemysłowym"
+        ],
+        "answer": "A",
+        "explanation": "W państwach najsłabiej rozwiniętych odnotowuje się zdecydowaną przewagę osób pracujących w rolnictwie (odsetek wynoszący ponad 40%)."
+      },
+      {
+        "question": "Jaką zależnością wyróżniają się usługi tworzące Wartość Dodaną Brutto w krajach słabiej rozwiniętych?",
+        "options": [
+          "Mają wyższy udział w wartości niż w zatrudnieniu",
+          "Wykazują ogromny wskaźnik względem krajów bogatych",
+          "Posiadają niższy udział w WDB niż w zatrudnieniu",
+          "Osiągają podobny poziom względem branży rolniczej"
+        ],
+        "answer": "C",
+        "explanation": "W biedniejszych państwach usługi i przemysł są bardzo pracochłonne, przez co ich udział w WDB jest niższy niż udział w całkowitym zatrudnieniu."
+      },
+      {
+        "question": "Jakie historyczne wydarzenie doprowadziło do bardzo szybkich zmian struktury sektorowej w Polsce?",
+        "options": [
+          "Transformacja gospodarcza w latach dziewięćdziesiątych",
+          "Dynamiczny rozwój turystyki na wybrzeżach państwowych",
+          "Masowe odejście ludności od stanowisk technologicznych",
+          "Zupełnie nowa klasyfikacja gospodarcza w całej Europie"
+        ],
+        "answer": "A",
+        "explanation": "Zmiany roli sektorów w Polsce, w tym szybki wzrost znaczenia usług i spadek przemysłu, wynikały z transformacji ustrojowej rozpoczętej w 1989 r."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Wydobywanie surowców mineralnych, takich jak węgiel kamienny, zalicza się do pierwszego sektora gospodarki, ponieważ polega na bezpośrednim pozyskiwaniu dóbr ze środowiska naturalnego.",
+        "answer": false,
+        "explanation": "Eksploatacja zasobów naturalnych, czyli górnictwo i wydobywanie, zaliczana jest do przemysłu, który stanowi drugi sektor gospodarki, a nie do rolnictwa (pierwszego sektora)."
+      },
+      {
+        "sentence": "Zgodnie z teorią rozwoju cywilizacyjnego każde państwo, aby osiągnąć fazę postindustrialną, musi najpierw przejść przez fazę industrialną.",
+        "answer": false,
+        "explanation": "Nie wszystkie kraje przeszły przez fazę industrialną. Małe państwa o dużym potencjale turystycznym, takie jak Antigua i Barbuda, dokonały przeskoku bezpośrednio od fazy preindustrialnej do postindustrialnej."
+      },
+      {
+        "sentence": "Faza postindustrialna charakteryzuje się tym, że w strukturze zatrudnienia danego kraju zdecydowanie dominuje nowoczesny, wysoce zautomatyzowany przemysł.",
+        "answer": false,
+        "explanation": "Główną cechą fazy postindustrialnej (poprzemysłowej) jest dominacja usług w strukturze zatrudnienia, a nie przemysłu."
+      },
+      {
+        "sentence": "Wartość dodana brutto (WDB) to całkowita wartość wyrobów i usług wytworzonych przez wszystkie krajowe podmioty gospodarcze powiększona o całkowite koszty ich wytworzenia.",
+        "answer": false,
+        "explanation": "Wartość dodana brutto to wartość wyrobów i usług pomniejszona, a nie powiększona, o koszty związane z ich wytworzeniem."
+      },
+      {
+        "sentence": "Działalność polegająca na dostarczaniu wody oraz odprowadzaniu ścieków zaliczana jest w statystykach do sektora przemysłowego.",
+        "answer": true,
+        "explanation": "Dostawa wody, gospodarowanie ściekami i odpadami (sekcja E w PKD) są oficjalnie klasyfikowane jako część sektora przemysłowego."
+      },
+      {
+        "sentence": "Podstawową cechą usług jest ich niematerialność, jednakże działania takie jak naprawa czy tuning samochodu również zaliczają się do tego sektora, mimo że oddziałują na dobra materialne.",
+        "answer": true,
+        "explanation": "Usługi polegają na świadczeniach zaspokajających potrzeby i choć same są niematerialne, często oddziałują bezpośrednio na dobra przemysłowe (np. naprawa aut)."
+      },
+      {
+        "sentence": "Czwarty sektor gospodarki, wyróżniany przez niektórych badaczy, obejmuje wyłącznie produkcję nowoczesnych urządzeń elektronicznych, takich jak telefony komórkowe i komputery.",
+        "answer": false,
+        "explanation": "Czwarty sektor gospodarki to zaawansowane usługi (np. finansowe, informatyczne, doradcze), z których korzystają firmy i instytucje, a nie produkcja urządzeń, która pozostaje domeną przemysłu."
+      },
+      {
+        "sentence": "Budownictwo sprawia problemy klasyfikacyjne, ponieważ realizacja wielkich projektów infrastrukturalnych, takich jak autostrady czy tunele, nosi cechy produkcji przemysłowej, dlatego często bywa łączone z przemysłem.",
+        "answer": true,
+        "explanation": "O ile drobne remonty to typowe usługi, o tyle budowa wielkiej infrastruktury mocno przypomina produkcję przemysłową, co uzasadnia częste łączenie budownictwa z przemysłem w analizach."
+      },
+      {
+        "sentence": "W biedniejszych państwach, ze względu na niską automatyzację, udział usług w wartości dodanej brutto (WDB) jest zazwyczaj wyższy niż udział tego sektora w strukturze zatrudnienia.",
+        "answer": false,
+        "explanation": "W krajach słabiej rozwiniętych sektor usług jest bardzo pracochłonny i pozwala uzyskać relatywnie niską wartość, przez co jego udział w WDB jest niższy niż udział w zatrudnieniu."
+      },
+      {
+        "sentence": "Polska Klasyfikacja Działalności (PKD) dzieli całą działalność społeczno-gospodarczą wyłącznie na trzy poziomy strukturalne: sekcje, grupy i podklasy.",
+        "answer": false,
+        "explanation": "PKD grupuje działalność gospodarczą na pięciu, a nie trzech poziomach. Są to: sekcje, działy, grupy, klasy i podklasy."
+      },
+      {
+        "sentence": "Sektor informatyczny (IT), mimo że bazuje na usługowym pisaniu oprogramowania, bywa traktowany w statystykach łącznie z przemysłem, na przykład ze względu na produkcję i dostarczanie oprogramowania na nośnikach fizycznych.",
+        "answer": true,
+        "explanation": "Produkcja np. gier czy pakietów biurowych na płytach tworzy namacalny produkt. Ze względu na zintegrowanie oprogramowania z urządzeniami sektor IT bywa umiejscawiany na pograniczu z przemysłem."
+      },
+      {
+        "sentence": "Główną przyczyną gwałtownego spadku udziału przemysłu i rolnictwa w Polsce w latach 90. XX wieku była transformacja gospodarcza państwa oraz związany z nią kryzys wielkich zakładów produkcyjnych.",
+        "answer": true,
+        "explanation": "Zmiany w strukturze zatrudnienia w Polsce w pierwszej połowie lat 90. wynikały z transformacji ustrojowo-gospodarczej z 1989 roku, likwidacji PGR-ów oraz kryzysu w przemyśle."
+      }
+    ]
+  }
+}

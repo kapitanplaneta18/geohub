@@ -1,0 +1,358 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz4-t1",
+                     "unit":  "IV",
+                     "title":  "Zasoby wodne Ziemi. Oceany i morza",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Hydrosfera",
+                                              "definition":  "Wodna powłoka Ziemi obejmująca wody atmosferyczne, powierzchniowe i podziemne, przenikająca do pozostałych sfer."
+                                          },
+                                          {
+                                              "term":  "Wszechocean",
+                                              "definition":  "Nazywany również oceanem światowym, zajmuje 71% powierzchni Ziemi i tworzy go pięć oceanów."
+                                          },
+                                          {
+                                              "term":  "Woda słona (udział)",
+                                              "definition":  "Stanowi około 97,5% objętości hydrosfery, obejmując wody mórz, oceanów, słonych jezior i części wód podziemnych."
+                                          },
+                                          {
+                                              "term":  "Woda słodka (udział)",
+                                              "definition":  "Stanowi około 2,5% objętości hydrosfery, z czego większość zgromadzona jest w lodowcach i lądolodach (68,7%)."
+                                          },
+                                          {
+                                              "term":  "Zasolenie",
+                                              "definition":  "Zawartość soli rozpuszczonych w wodzie, wyrażana zazwyczaj w promilach (‰)."
+                                          },
+                                          {
+                                              "term":  "Średnie zasolenie oceanów",
+                                              "definition":  "Przeciętna wartość zasolenia powierzchniowych wód oceanicznych wynosi 35‰."
+                                          },
+                                          {
+                                              "term":  "Morze",
+                                              "definition":  "Przybrzeżna część oceanu oddzielona od otwartych wód łańcuchami wysp, półwyspami lub podwodnymi progami."
+                                          },
+                                          {
+                                              "term":  "Morze przybrzeżne",
+                                              "definition":  "Akwen przylegający do kontynentu i oddzielony od otwartego oceanu wyspami lub półwyspami."
+                                          },
+                                          {
+                                              "term":  "Morze śródziemne",
+                                              "definition":  "Akwen otoczony lądem i połączony z otwartym oceanem lub innym morzem tylko wąskimi cieśninami."
+                                          },
+                                          {
+                                              "term":  "Morze międzywyspowe",
+                                              "definition":  "Część oceanu położona między wyspami lub archipelagami."
+                                          },
+                                          {
+                                              "term":  "Zatoka",
+                                              "definition":  "Część oceanu, morza lub jeziora, która wcina się głęboko w ląd i odznacza swobodną wymianą wód ze zbiornikiem wodnym."
+                                          },
+                                          {
+                                              "term":  "Cieśnina",
+                                              "definition":  "Zwężenie powierzchni wodnej między lądami łączące dwa akweny."
+                                          },
+                                          {
+                                              "term":  "Składniki soli morskiej",
+                                              "definition":  "Głównymi związkami rozpuszczonymi w wodzie morskiej są chlorki oraz siarczany, a podstawowe pierwiastki to chlor i sód."
+                                          },
+                                          {
+                                              "term":  "Izohaliny",
+                                              "definition":  "Linie na mapie łączące punkty o jednakowym zasoleniu wody."
+                                          },
+                                          {
+                                              "term":  "Zasolenie w strefie zwrotnikowej",
+                                              "definition":  "Największe zasolenie otwartych wód (ok. 36‰), wynikające z niewielkich opadów i intensywnego parowania."
+                                          },
+                                          {
+                                              "term":  "Zasolenie w strefie podbiegunowej",
+                                              "definition":  "Niewielkie zasolenie (ok. 25‰) spowodowane małym parowaniem, częstym zamarzaniem wody i topnieniem lodu."
+                                          },
+                                          {
+                                              "term":  "Termika wód powierzchniowych",
+                                              "definition":  "Zależy od szerokości geograficznej; najwyższa przy równiku (24–30°C), najniższa w strefach podbiegunowych (ok. -1°C)."
+                                          },
+                                          {
+                                              "term":  "Zanieczyszczenie wód morskich",
+                                              "definition":  "Jego źródłami są m.in. ścieki rzeczne, odpady ze statków, awarie zbiornikowców i platform wiertniczych oraz plastik."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Wody słone",
+                                                 "pair2":  "Ok. 97,5% objętości hydrosfery"
+                                             },
+                                             {
+                                                 "pair1":  "Wody słodkie",
+                                                 "pair2":  "Ok. 2,5% objętości hydrosfery"
+                                             },
+                                             {
+                                                 "pair1":  "Lodowce górskie i lądolody",
+                                                 "pair2":  "68,7% zasobów wód słodkich"
+                                             },
+                                             {
+                                                 "pair1":  "Wody podziemne",
+                                                 "pair2":  "30,06% zasobów wód słodkich"
+                                             },
+                                             {
+                                                 "pair1":  "Morze śródziemne",
+                                                 "pair2":  "Akwen otoczony lądem, połączony z oceanem cieśninami"
+                                             },
+                                             {
+                                                 "pair1":  "Zatoka",
+                                                 "pair2":  "Część akwenu wcinająca się głęboko w ląd"
+                                             },
+                                             {
+                                                 "pair1":  "Okolice zwrotników",
+                                                 "pair2":  "Największe zasolenie wód otwartych (ok. 36‰)"
+                                             },
+                                             {
+                                                 "pair1":  "Strefy podbiegunowe",
+                                                 "pair2":  "Niewielkie zasolenie (ok. 25‰)"
+                                             },
+                                             {
+                                                 "pair1":  "Wody głębinowe (poniżej 1500 m)",
+                                                 "pair2":  "Stała temperatura od 0°C do 4°C"
+                                             },
+                                             {
+                                                 "pair1":  "Rzeki i opady",
+                                                 "pair2":  "Czynniki zmniejszające zasolenie wód morskich"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Jaka jednostka jest stosowana w geografii do wyrażania stopnia zasolenia wody morskiej?",
+                                      "options":  [
+                                                      "Procent (%)",
+                                                      "Promil (‰)",
+                                                      "Stopień Celsjusza (°C)",
+                                                      "Gram na litr (g/l)"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Zawartość soli w wodzie to zasolenie. Jego stopień zwykle wyraża się w promilach (‰)."
+                                  },
+                                  {
+                                      "question":  "Ile wynosi przybliżony udział wód słodkich w całkowitej objętości hydrosfery?",
+                                      "options":  [
+                                                      "97,5%",
+                                                      "71%",
+                                                      "2,5%",
+                                                      "11%"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wody słodkie stanowią zaledwie około 2,5% objętości hydrosfery."
+                                  },
+                                  {
+                                      "question":  "Żeglujesz po akwenie, który przylega do kontynentu i jest oddzielony od otwartego oceanu łańcuchem wysp. Jaki to typ morza?",
+                                      "options":  [
+                                                      "Morze międzywyspowe",
+                                                      "Morze śródziemne",
+                                                      "Morze przybrzeżne",
+                                                      "Zatoka otwarta"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Morza przybrzeżne to akweny przylegające do kontynentu i oddzielone od otwartego oceanu wyspami lub półwyspami."
+                                  },
+                                  {
+                                      "question":  "Który z oceanów posiada największą powierzchnię zlewiska, odprowadzając wody z niemal połowy obszarów lądowych świata?",
+                                      "options":  [
+                                                      "Ocean Spokojny",
+                                                      "Ocean Indyjski",
+                                                      "Ocean Atlantycki",
+                                                      "Ocean Południowy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Największą powierzchnię zlewiska, czyli obszaru lądowego, z którego wody spływają do jednego zbiornika, ma Ocean Atlantycki."
+                                  },
+                                  {
+                                      "question":  "Ile wynosi średnie zasolenie powierzchniowych wód oceanicznych na Ziemi?",
+                                      "options":  [
+                                                      "25‰",
+                                                      "35‰",
+                                                      "40‰",
+                                                      "5‰"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Średnie zasolenie powierzchniowych wód oceanicznych wynosi 35‰."
+                                  },
+                                  {
+                                      "question":  "Analizujesz mapę hydrograficzną. Jakim terminem określisz część oceanu wcinającą się głęboko w ląd, która odznacza się swobodną wymianą wód?",
+                                      "options":  [
+                                                      "Cieśnina",
+                                                      "Morze śródziemne",
+                                                      "Zalew",
+                                                      "Zatoka"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Zatoka to część oceanu, morza lub jeziora, która wcina się głęboko w ląd i odznacza swobodną wymianą wód ze zbiornikiem wodnym."
+                                  },
+                                  {
+                                      "question":  "W której strefie geograficznej notuje się najwyższe zasolenie otwartych wód oceanicznych (ok. 36‰)?",
+                                      "options":  [
+                                                      "W strefie równikowej",
+                                                      "W okolicach zwrotników, gdzie parowanie przeważa nad opadami",
+                                                      "W strefie umiarkowanej",
+                                                      "W strefie podbiegunowej"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Największe zasolenie otwartych wód oceanicznych występuje nie przy równiku, lecz w okolicach zwrotników (ok. 36‰) ze względu na niewielkie opady i wysokie parowanie."
+                                  },
+                                  {
+                                      "question":  "Które pierwiastki chemiczne są głównymi składnikami soli morskiej?",
+                                      "options":  [
+                                                      "Tlen i wodór",
+                                                      "Chlor i sód",
+                                                      "Magnez i potas",
+                                                      "Wapń i siarka"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Podstawowymi składnikami wody morskiej są m.in. chlor i sód, które tworzą sól morską."
+                                  },
+                                  {
+                                      "question":  "Dlaczego zasolenie w strefach podbiegunowych jest relatywnie niskie (ok. 25‰)?",
+                                      "options":  [
+                                                      "Przez intensywne parowanie przy niskiej wilgotności.",
+                                                      "Przez duży dopływ słonych wód głębinowych.",
+                                                      "Przez małe parowanie oraz topnienie lodu morskiego i lądolodów, co dostarcza słodkiej wody.",
+                                                      "Przez brak opadów atmosferycznych w tej strefie."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W strefach podbiegunowych zasolenie jest niewielkie (ok. 25‰). Wynika to z częstego zamarzania wody i topnienia lodu oraz z niewielkiego parowania."
+                                  },
+                                  {
+                                      "question":  "Gdzie na mapie świata wyznaczono umowną północną granicę Oceanu Południowego?",
+                                      "options":  [
+                                                      "Na równiku (0°)",
+                                                      "Wzdłuż równoleżnika 60°S",
+                                                      "Na Zwrotniku Koziorożca (23°26\u0027S)",
+                                                      "Wzdłuż wybrzeży Antarktydy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Granica ta jest nietypowa i przebiega wzdłuż równoleżnika 60°S ze względu na zróżnicowanie temperatury wód i kierunków ich przemieszczania."
+                                  },
+                                  {
+                                      "question":  "Jaki typ morza reprezentuje akwen otoczony lądem, połączony z oceanem jedynie wąską cieśniną (np. Morze Śródziemne)?",
+                                      "options":  [
+                                                      "Morze przybrzeżne",
+                                                      "Morze międzywyspowe",
+                                                      "Morze otwarte",
+                                                      "Morze śródziemne"
+                                                  ],
+                                      "answer":  "D",
+                                      "explanation":  "Morza śródziemne są otoczone lądem i połączone z otwartym oceanem lub innym morzem tylko wąskimi cieśninami."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób ujścia wielkich rzek wpływają na zasolenie przybrzeżnych wód oceanicznych?",
+                                      "options":  [
+                                                      "Zwiększają zasolenie przez dostawę minerałów.",
+                                                      "Zmniejszają zasolenie przez dostawę słodkiej wody.",
+                                                      "Nie mają wpływu na zasolenie, zmieniają tylko temperaturę.",
+                                                      "Stabilizują zasolenie na poziomie 35‰."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mniejsze zasolenie przybrzeżnych wód oceanów jest charakterystyczne dla okolic ujść wielkich rzek niosących duże ilości wody słodkiej."
+                                  },
+                                  {
+                                      "question":  "W których akwenach temperatura wody powierzchniowej może przekraczać 30°C?",
+                                      "options":  [
+                                                      "W otwartych wodach strefy równikowej.",
+                                                      "W odizolowanych morzach strefy zwrotnikowej.",
+                                                      "W strefach występowania prądów zimnych.",
+                                                      "W głębinach oceanicznych poniżej 1500 m."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W odizolowanych akwenach w okolicach zwrotników temperatura wody może przekraczać 30°C, co wynika m.in. z niewielkiej wymiany wód z otwartym oceanem."
+                                  },
+                                  {
+                                      "question":  "Jaki procent powierzchni Ziemi zajmuje Wszechocean?",
+                                      "options":  [
+                                                      "96,5%",
+                                                      "71%",
+                                                      "50%",
+                                                      "29%"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wszechocean, nazywany również oceanem światowym, zajmuje aż 71% powierzchni Ziemi."
+                                  },
+                                  {
+                                      "question":  "Dlaczego morza śródlądowe w strefie zwrotnikowej (np. Morze Czerwone) mają bardzo wysokie zasolenie (ok. 40‰)?",
+                                      "options":  [
+                                                      "Ponieważ występuje tam intensywne parowanie i brak dopływu dużych ilości słodkiej wody z rzek.",
+                                                      "Ponieważ są zasilane przez liczne rzeki niosące sól.",
+                                                      "Ponieważ w tej strefie występują częste i obfite opady deszczu.",
+                                                      "Ponieważ mają szerokie połączenie z mniej słonym oceanem."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Wynika to z intensywnego parowania, niewielkich opadów, małej liczby rzek i niewielkiej wymiany wód z otwartym oceanem."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Wody słodkie stanowią około 50% objętości całej hydrosfery ziemskiej.",
+                                           "answer":  false,
+                                           "explanation":  "Wody słodkie stanowią zaledwie około 2,5% objętości hydrosfery, podczas gdy wody słone to aż 97,5%."
+                                       },
+                                       {
+                                           "sentence":  "Średnie zasolenie powierzchniowych wód oceanicznych wynosi 35%, co oznacza 350 gramów soli na kilogram wody.",
+                                           "answer":  false,
+                                           "explanation":  "Średnie zasolenie wynosi 35‰ (promili), a nie procent. Oznacza to ok. 35 gramów soli na kilogram wody (3,5%)."
+                                       },
+                                       {
+                                           "sentence":  "Najwyższe zasolenie otwartych wód oceanicznych notuje się w strefie równikowej ze względu na wysoką temperaturę powietrza.",
+                                           "answer":  false,
+                                           "explanation":  "Najwyższe zasolenie (ok. 36‰) występuje w okolicach zwrotników, gdzie opady są niewielkie, a parowanie intensywne. Przy równiku zasolenie jest niższe przez obfite deszcze."
+                                       },
+                                       {
+                                           "sentence":  "Morze przybrzeżne to akwen niemal całkowicie otoczony lądem i połączony z oceanem jedynie wąską cieśniną.",
+                                           "answer":  false,
+                                           "explanation":  "Definicja ta dotyczy morza śródziemnego. Morze przybrzeżne przylega do kontynentu i jest oddzielone od oceanu wyspami lub półwyspami."
+                                       },
+                                       {
+                                           "sentence":  "Poniżej głębokości 1500 m temperatura wód oceanicznych jest niemal stała we wszystkich szerokościach geograficznych i wynosi od 0°C do 4°C.",
+                                           "answer":  true,
+                                           "explanation":  "Wpływ szerokości geograficznej na temperaturę zanika wraz z głębokością; w głębinach temperatura jest wyrównana i niska."
+                                       },
+                                       {
+                                           "sentence":  "Głównymi pierwiastkami budującymi sól morską są magnez i potas.",
+                                           "answer":  false,
+                                           "explanation":  "Podstawowymi składnikami soli morskiej są chlor i sód."
+                                       },
+                                       {
+                                           "sentence":  "Ocean Spokojny posiada największą powierzchnię zlewiska, odprowadzając wody z połowy lądów świata.",
+                                           "answer":  false,
+                                           "explanation":  "Największe zlewisko posiada Ocean Atlantycki, do którego spływają wody z niemal połowy obszarów lądowych."
+                                       },
+                                       {
+                                           "sentence":  "W strefach podbiegunowych zasolenie wód powierzchniowych jest bardzo wysokie (ok. 40‰) z powodu częstego zamarzania wody.",
+                                           "answer":  false,
+                                           "explanation":  "W strefach podbiegunowych zasolenie jest niewielkie (ok. 25‰) m.in. z powodu małego parowania i topnienia lodu."
+                                       },
+                                       {
+                                           "sentence":  "Północna granica Oceanu Południowego została wyznaczona umownie wzdłuż równoleżnika 60°S.",
+                                           "answer":  true,
+                                           "explanation":  "Granica ta przebiega wzdłuż 60°S ze względu na specyfikę termiczną i dynamiczną wód wokół Antarktydy."
+                                       },
+                                       {
+                                           "sentence":  "Zatoka to część oceanu oddzielona od otwartych wód łańcuchami wysp lub podwodnymi progami.",
+                                           "answer":  false,
+                                           "explanation":  "To definicja morza. Zatoka to część akwenu, która wcina się głęboko w ląd i ma swobodną wymianę wód ze zbiornikiem głównym."
+                                       },
+                                       {
+                                           "sentence":  "Morza śródlądowe w strefie zwrotnikowej, takie jak Morze Czerwone, charakteryzują się bardzo wysokim zasoleniem.",
+                                           "answer":  true,
+                                           "explanation":  "Zasolenie w takich morzach może sięgać 40‰ z powodu silnego parowania i braku dopływu dużej ilości wód słodkich."
+                                       },
+                                       {
+                                           "sentence":  "Całkowita ilość wody w hydrosferze ulega gwałtownym wahaniom z roku na rok.",
+                                           "answer":  false,
+                                           "explanation":  "Przyjmuje się, że ilość wody w hydrosferze jest stała; ubytki w górnych warstwach atmosfery są równoważone np. przez procesy wulkaniczne."
+                                       }
+                                   ]
+                 }
+}

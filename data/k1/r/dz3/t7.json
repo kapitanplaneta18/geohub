@@ -1,0 +1,342 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz3-t7",
+                     "unit":  "III",
+                     "title":  "Klimaty kuli ziemskiej",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Klasyfikacja klimatyczna Wincentego Okołowicza",
+                                              "definition":  "Stosowany w Polsce podział na strefy klimatyczne, uwzględniający typ krajobrazu, wartości temperatury powietrza oraz ilość opadów atmosferycznych."
+                                          },
+                                          {
+                                              "term":  "Strefy klimatyczne według Okołowicza",
+                                              "definition":  "Wyróżnia się strefy: jedną równikową oraz po dwie (na obu półkulach) zwrotnikowe, podzwrotnikowe, umiarkowane i okołobiegunowe."
+                                          },
+                                          {
+                                              "term":  "Klimat równikowy wybitnie wilgotny",
+                                              "definition":  "Klimat o średniej rocznej temperaturze powyżej 20°C, rocznej amplitudzie poniżej 5°C i rocznej sumie opadów 2000–3000 mm bez pory deszczowej."
+                                          },
+                                          {
+                                              "term":  "Klimat równikowy suchy (podrównikowy)",
+                                              "definition":  "Charakteryzuje się jedną porą deszczową, roczną sumą opadów 500–1000 mm i roczną amplitudą temperatury powyżej 10°C."
+                                          },
+                                          {
+                                              "term":  "Klimat zwrotnikowy wilgotny",
+                                              "definition":  "Opady głównie latem (1000–2000 mm), temperatura latem powyżej 25°C, zimą do 20°C."
+                                          },
+                                          {
+                                              "term":  "Klimat zwrotnikowy skrajnie suchy",
+                                              "definition":  "Cechuje się dużymi dobowymi amplitudami temperatury oraz opadami sporadycznymi lub ich całkowitym brakiem."
+                                          },
+                                          {
+                                              "term":  "Klimat podzwrotnikowy morski (śródziemnomorski)",
+                                              "definition":  "Lato gorące, zima łagodna (temp. \u003e 0°C), opady deszczu głównie zimą, roczna suma opadów 500–900 mm."
+                                          },
+                                          {
+                                              "term":  "Klimat umiarkowany ciepły morski",
+                                              "definition":  "Lato chłodne, zima łagodna, roczna amplituda temperatury poniżej 20°C, opady całoroczne z przewagą jesienno-zimowych."
+                                          },
+                                          {
+                                              "term":  "Klimat umiarkowany ciepły przejściowy",
+                                              "definition":  "Duża zmienność stanów pogody, roczna amplituda temperatury do 25°C, opady całoroczne (latem deszcz, zimą śnieg)."
+                                          },
+                                          {
+                                              "term":  "Klimat umiarkowany ciepły kontynentalny",
+                                              "definition":  "Upalne lato, mroźna zima, roczna amplituda temperatury do 45°C, niewielkie opady głównie latem."
+                                          },
+                                          {
+                                              "term":  "Klimat umiarkowany chłodny kontynentalny",
+                                              "definition":  "Bardzo duża roczna amplituda temperatury (ponad 45°C), lato krótkie, zima długa i mroźna, opady do 250 mm."
+                                          },
+                                          {
+                                              "term":  "Klimat subpolarny",
+                                              "definition":  "Średnia temperatura najcieplejszego miesiąca nieznacznie powyżej 0°C, opady do 250 mm (głównie śnieg)."
+                                          },
+                                          {
+                                              "term":  "Klimat polarny",
+                                              "definition":  "Średnia temperatura najcieplejszego miesiąca poniżej 0°C, opady do 150 mm (śnieg) lub ich brak."
+                                          },
+                                          {
+                                              "term":  "Klimat górski",
+                                              "definition":  "Klimat astrefowy cechujący się spadkiem temperatury i ciśnienia wraz z wysokością, wzrostem opadów (do pewnej wysokości) i częstą inwersją temperatury."
+                                          },
+                                          {
+                                              "term":  "Klimat monsunowy",
+                                              "definition":  "Występują dwie pory roku: ciepła i wilgotna (monsun letni, obfite opady) oraz chłodna i sucha (brak opadów)."
+                                          },
+                                          {
+                                              "term":  "Miejska wyspa ciepła",
+                                              "definition":  "Zjawisko polegające na tym, że średnia roczna temperatura powietrza w centrum miasta jest wyższa niż na terenach podmiejskich."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Klimat śródziemnomorski",
+                                                 "pair2":  "Opady deszczu występują głównie zimą, lato gorące"
+                                             },
+                                             {
+                                                 "pair1":  "Klimat umiarkowany chłodny kontynentalny",
+                                                 "pair2":  "Roczna amplituda temperatury powietrza przekracza 45°C"
+                                             },
+                                             {
+                                                 "pair1":  "Klimat równikowy wybitnie wilgotny",
+                                                 "pair2":  "Brak dominującej pory deszczowej, opady 2000–3000 mm"
+                                             },
+                                             {
+                                                 "pair1":  "Klimat monsunowy (zwrotnikowy wilgotny)",
+                                                 "pair2":  "Najobfitsze opady związane z monsunem letnim, zima sucha"
+                                             },
+                                             {
+                                                 "pair1":  "Rzym",
+                                                 "pair2":  "Klimat podzwrotnikowy morski"
+                                             },
+                                             {
+                                                 "pair1":  "Londyn",
+                                                 "pair2":  "Klimat umiarkowany ciepły morski"
+                                             },
+                                             {
+                                                 "pair1":  "Jakuck",
+                                                 "pair2":  "Klimat umiarkowany chłodny kontynentalny"
+                                             },
+                                             {
+                                                 "pair1":  "Warszawa",
+                                                 "pair2":  "Klimat umiarkowany ciepły przejściowy"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Na wykresie klimatycznym linia temperatury jest prawie płaska i utrzymuje się na poziomie powyżej 20°C przez cały rok. Roczna amplituda temperatury wynosi mniej niż 5°C. Słupki opadów są wysokie w każdym miesiącu, a roczna suma opadów mieści się w przedziale 2000–3000 mm. Jaki to typ klimatu?",
+                                      "options":  [
+                                                      "Równikowy wilgotny (podrównikowy)",
+                                                      "Równikowy wybitnie wilgotny",
+                                                      "Zwrotnikowy wilgotny",
+                                                      "Podzwrotnikowy morski"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat równikowy wybitnie wilgotny charakteryzuje się średnią roczną temperaturą powyżej 20°C, amplitudą poniżej 5°C, opadami 2000–3000 mm i brakiem pory bezdeszczowej."
+                                  },
+                                  {
+                                      "question":  "Analizujesz dane stacji meteorologicznej: średnia roczna temperatura powietrza wynosi powyżej 15°C, lato jest gorące, a zima łagodna z temperaturą powyżej 0°C. Roczna suma opadów wynosi 800 mm, przy czym maksimum opadów przypada na miesiące zimowe. Jest to charakterystyczne dla klimatu:",
+                                      "options":  [
+                                                      "Umiarkowanego ciepłego morskiego",
+                                                      "Zwrotnikowego wilgotnego",
+                                                      "Podzwrotnikowego morskiego (śródziemnomorskiego)",
+                                                      "Równikowego wilgotnego"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Klimat podzwrotnikowy morski cechuje się gorącym latem, łagodną zimą (\u003e0°C) oraz przewagą opadów w porze zimowej."
+                                  },
+                                  {
+                                      "question":  "Wskaż cechę odróżniającą klimat umiarkowany chłodny kontynentalny od klimatu umiarkowanego ciepłego kontynentalnego według klasyfikacji Wincentego Okołowicza.",
+                                      "options":  [
+                                                      "Występowanie opadów głównie w porze zimowej",
+                                                      "Roczna amplituda temperatury powietrza przekraczająca 45°C",
+                                                      "Brak ujemnych temperatur w miesiącach zimowych",
+                                                      "Roczna suma opadów przekraczająca 1000 mm"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat umiarkowany chłodny kontynentalny wyróżnia się bardzo dużą roczną amplitudą temperatury, która przekracza 45°C, podczas gdy w ciepłym kontynentalnym dochodzi ona do 45°C."
+                                  },
+                                  {
+                                      "question":  "Na klimatogramie widać wyraźny sezonowy rozkład opadów: występują one niemal wyłącznie latem, osiągając roczną sumę 1000–2000 mm. Temperatura latem przekracza 25°C, a zimą spada do ok. 20°C. Opis ten pasuje do klimatu:",
+                                      "options":  [
+                                                      "Zwrotnikowego wilgotnego",
+                                                      "Podzwrotnikowego kontynentalnego",
+                                                      "Równikowego wybitnie wilgotnego",
+                                                      "Umiarkowanego ciepłego przejściowego"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Klimat zwrotnikowy wilgotny charakteryzuje się opadami głównie latem (1000–2000 mm) oraz temperaturą powyżej 25°C w lecie i do 20°C w zimie."
+                                  },
+                                  {
+                                      "question":  "Dane dla stacji: \u0027Najcieplejszy miesiąc ma średnią temperaturę nieznacznie powyżej 0°C. Roczna suma opadów nie przekracza 250 mm, a opady występują głównie w postaci śniegu.\u0027 Jest to opis klimatu:",
+                                      "options":  [
+                                                      "Polarnego",
+                                                      "Subpolarnego",
+                                                      "Umiarkowanego chłodnego morskiego",
+                                                      "Umiarkowanego chłodnego kontynentalnego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat subpolarny cechuje się temperaturą najcieplejszego miesiąca nieznacznie powyżej 0°C i opadami do 250 mm."
+                                  },
+                                  {
+                                      "question":  "Który zestaw cech najlepiej opisuje klimat umiarkowany ciepły przejściowy, charakterystyczny np. dla Warszawy?",
+                                      "options":  [
+                                                      "Mała zmienność pogody, amplituda \u003c 10°C, opady głównie zimą",
+                                                      "Duża zmienność pogody, amplituda do 25°C, opady całoroczne (latem deszcz, zimą śnieg)",
+                                                      "Bardzo mroźna zima, amplituda \u003e 45°C, opady śladowe",
+                                                      "Brak zimy termicznej, wysokie opady zenitalne przez cały rok"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat umiarkowany ciepły przejściowy cechuje duża zmienność stanów pogody, roczna amplituda do 25°C i opady całoroczne z przewagą letnich."
+                                  },
+                                  {
+                                      "question":  "Wyobraź sobie klimatogram stacji w głębi Azji. Krzywa temperatury przypomina głęboką literę \u0027U\u0027 (od +20°C w lipcu do -20°C w styczniu). Słupki opadów są niskie, z niewielkim maksimum w lipcu. Jaki to typ klimatu?",
+                                      "options":  [
+                                                      "Umiarkowany ciepły kontynentalny",
+                                                      "Umiarkowany ciepły morski",
+                                                      "Zwrotnikowy skrajnie suchy",
+                                                      "Podzwrotnikowy morski"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Opis wskazuje na dużą amplitudę (ok. 40°C) i letnie maksimum niewielkich opadów, co jest typowe dla klimatu umiarkowanego ciepłego kontynentalnego."
+                                  },
+                                  {
+                                      "question":  "Klimat górski jest zaliczany do klimatów astrefowych. Która z poniższych cech NIE jest dla niego charakterystyczna?",
+                                      "options":  [
+                                                      "Spadek temperatury i ciśnienia wraz z wysokością",
+                                                      "Ciągły i nieprzerwany wzrost rocznej sumy opadów atmosferycznych od podnóża gór aż po same najwyższe szczyty.",
+                                                      "Częste występowanie inwersji temperatury",
+                                                      "Duża zmienność warunków pogodowych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W klimacie górskim opady atmosferyczne zwiększają się tylko do pewnej wysokości, a nie w sposób ciągły aż po szczyty."
+                                  },
+                                  {
+                                      "question":  "W strefie klimatów równikowych wyróżnia się typ \u0027równikowy suchy\u0027 (podrównikowy suchy). Czym różni się on od typu \u0027równikowego wybitnie wilgotnego\u0027?",
+                                      "options":  [
+                                                      "Ma niższą średnią roczną temperaturę (poniżej 10°C)",
+                                                      "Posiada jedną porę deszczową i roczną sumę opadów 500–1000 mm",
+                                                      "Opady występują w nim wyłącznie w formie śniegu",
+                                                      "Roczna amplituda temperatury wynosi w nim zawsze 0°C"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat równikowy suchy (podrównikowy) ma jedną porę deszczową i opady rzędu 500–1000 mm, w przeciwieństwie do wybitnie wilgotnego (2000–3000 mm, brak pory bezdeszczowej)."
+                                  },
+                                  {
+                                      "question":  "Co jest główną cechą odróżniającą klimat polarny od subpolarnego na wykresach klimatycznych?",
+                                      "options":  [
+                                                      "W klimacie polarnym średnia temperatura najcieplejszego miesiąca jest poniżej 0°C",
+                                                      "W klimacie polarnym roczna suma opadów przekracza 1000 mm",
+                                                      "W klimacie subpolarnym nie występują opady śniegu",
+                                                      "W klimacie polarnym amplituda roczna temperatury jest zawsze mniejsza niż 5°C"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W klimacie polarnym średnia temperatura najcieplejszego miesiąca wynosi poniżej 0°C, podczas gdy w subpolarnym nieznacznie przekracza 0°C."
+                                  },
+                                  {
+                                      "question":  "Który czynnik jest decydujący dla występowania klimatu monsunowego w południowo-wschodniej Azji?",
+                                      "options":  [
+                                                      "Stałe wyże baryczne utrzymujące się nad oceanem przez cały rok",
+                                                      "Sezonowa zmiana kierunku wiatru wynikająca z różnic w nagrzewaniu lądu i oceanu",
+                                                      "Występowanie zimnych prądów morskich wzdłuż równika",
+                                                      "Obecność lądolodu, który silnie wychładza powietrze latem"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat monsunowy powstaje tam, gdzie istnieje cyrkulacja monsunowa (sezonowa zmiana wiatrów), związana z nierównomiernym nagrzewaniem się lądu i oceanu."
+                                  },
+                                  {
+                                      "question":  "Analizujesz klimatogram dla stacji \u0027Londyn\u0027. Zauważasz niską amplitudę roczną (\u003c20°C), chłodne lato i łagodną zimę. Opady są całoroczne, ale z przewagą w półroczu chłodnym (jesień-zima). Jest to typowy przykład klimatu:",
+                                      "options":  [
+                                                      "Umiarkowanego ciepłego morskiego",
+                                                      "Umiarkowanego ciepłego kontynentalnego",
+                                                      "Podzwrotnikowego kontynentalnego suchego",
+                                                      "Zwrotnikowego pośredniego"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Klimat umiarkowany ciepły morski (np. Londyn) cechuje się amplitudą \u003c20°C, łagodną zimą i przewagą opadów jesienno-zimowych."
+                                  },
+                                  {
+                                      "question":  "Klimat zwrotnikowy skrajnie suchy charakteryzuje się specyficznym przebiegiem temperatury. Co jest jego głównym wyróżnikiem?",
+                                      "options":  [
+                                                      "Bardzo małe dobowe amplitudy temperatury",
+                                                      "Duże dobowe amplitudy temperatury przy sporadycznych opadach",
+                                                      "Stała temperatura ok. 10°C przez całą dobę",
+                                                      "Ujemna temperatura w ciągu dnia i dodatnia w nocy"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Klimat zwrotnikowy skrajnie suchy cechuje się dużymi dobowymi amplitudami temperatury oraz opadami sporadycznymi lub ich brakiem."
+                                  },
+                                  {
+                                      "question":  "Zjawisko \u0027miejskiej wyspy ciepła\u0027 w klimacie miejskim polega na tym, że:",
+                                      "options":  [
+                                                      "W centrum miasta notuje się niższą temperaturę niż na przedmieściach z powodu cienia budynków",
+                                                      "Średnia roczna temperatura powietrza w gęsto zabudowanym centrum miasta jest wyraźnie wyższa niż na otaczających je terenach podmiejskich.",
+                                                      "W mieście nie występują opady atmosferyczne z powodu braku roślinności",
+                                                      "Prędkość wiatru w centrum jest zawsze wyższa niż na otwartej przestrzeni poza miastem"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Miejskie wyspa ciepła polega na tym, że średnia roczna temperatura powietrza w centrum miasta jest wyższa niż na terenach podmiejskich (m.in. przez betonową zabudowę i emisję ciepła)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest charakterystyczna cecha opadów w klimacie umiarkowanym chłodnym kontynentalnym (np. Jakuck)?",
+                                      "options":  [
+                                                      "Są bardzo obfite, przekraczają 2000 mm rocznie",
+                                                      "Występują głównie zimą w postaci ulewnych deszczy",
+                                                      "Ich roczna suma jest niska (do 250 mm)",
+                                                      "Są równomiernie rozłożone w ciągu roku i wynoszą ok. 800 mm"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W klimacie umiarkowanym chłodnym kontynentalnym roczna suma opadów jest niska, do 250 mm."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "W klimacie podzwrotnikowym morskim (śródziemnomorskim) maksimum opadów przypada na miesiące letnie, co jest skutkiem oddziaływania wyżów zwrotnikowych.",
+                                           "answer":  false,
+                                           "explanation":  "W klimacie podzwrotnikowym morskim opady deszczu występują głównie zimą, podczas gdy lato jest gorące i suche."
+                                       },
+                                       {
+                                           "sentence":  "Strefa klimatów równikowych wybitnie wilgotnych charakteryzuje się bardzo dużą roczną amplitudą temperatury powietrza ze względu na intensywne nasłonecznienie przez cały rok.",
+                                           "answer":  false,
+                                           "explanation":  "Klimat równikowy wybitnie wilgotny cechuje się bardzo małą roczną amplitudą temperatury powietrza, wynoszącą poniżej 5°C."
+                                       },
+                                       {
+                                           "sentence":  "Cechą charakterystyczną klimatu górskiego jest stały, nieprzerwany wzrost rocznej sumy opadów atmosferycznych wraz ze wzrostem wysokości nad poziomem morza, aż do najwyższych szczytów.",
+                                           "answer":  false,
+                                           "explanation":  "W klimacie górskim opady atmosferyczne zwiększają się wraz ze wzrostem wysokości tylko do pewnej granicy, a nie w sposób ciągły."
+                                       },
+                                       {
+                                           "sentence":  "W klasyfikacji Wincentego Okołowicza głównym kryterium wydzielania stref klimatycznych jest wyłącznie średnia roczna temperatura powietrza.",
+                                           "answer":  false,
+                                           "explanation":  "Klasyfikacja Wincentego Okołowicza uwzględnia typ krajobrazu, wartości temperatury powietrza oraz ilość opadów atmosferycznych."
+                                       },
+                                       {
+                                           "sentence":  "Klimat umiarkowany ciepły kontynentalny wyróżnia się łagodną zimą z temperaturami powyżej 0°C oraz chłodnym latem.",
+                                           "answer":  false,
+                                           "explanation":  "Klimat ten charakteryzuje się upalnym latem i mroźną zimą, a roczna amplituda temperatury może dochodzić do 45°C."
+                                       },
+                                       {
+                                           "sentence":  "Zjawisko miejskiej wyspy ciepła polega na tym, że w centrum dużego miasta notuje się niższe temperatury niż na peryferiach z powodu zacienienia przez wysoką zabudowę.",
+                                           "answer":  false,
+                                           "explanation":  "Miejska wyspa ciepła polega na tym, że średnia roczna temperatura powietrza w centrum miasta jest wyższa niż na terenach podmiejskich."
+                                       },
+                                       {
+                                           "sentence":  "W strefie klimatów okołobiegunowych, typ klimatu polarnego odróżnia się od subpolarnego tym, że średnia temperatura najcieplejszego miesiąca wynosi w nim powyżej 0°C.",
+                                           "answer":  false,
+                                           "explanation":  "W klimacie polarnym średnia temperatura najcieplejszego miesiąca wynosi poniżej 0°C; wartości powyżej 0°C są charakterystyczne dla klimatu subpolarnego."
+                                       },
+                                       {
+                                           "sentence":  "W klimacie monsunowym występuje podział na dwie pory roku, przy czym pora deszczowa związana jest z monsunem zimowym wiejącym znad lądu.",
+                                           "answer":  false,
+                                           "explanation":  "W klimacie monsunowym obfite opady wywołuje monsun letni (wilgotny), natomiast monsun zimowy jest suchy."
+                                       },
+                                       {
+                                           "sentence":  "Klimat umiarkowany ciepły przejściowy cechuje się dużą stabilnością pogody i małą zmiennością ciśnienia atmosferycznego w ciągu roku.",
+                                           "answer":  false,
+                                           "explanation":  "Dla klimatu umiarkowanego ciepłego przejściowego charakterystyczna jest duża zmienność stanów pogody."
+                                       },
+                                       {
+                                           "sentence":  "Klimat zwrotnikowy skrajnie suchy charakteryzuje się bardzo małymi dobowymi amplitudami temperatury powietrza z powodu braku roślinności.",
+                                           "answer":  false,
+                                           "explanation":  "Klimat zwrotnikowy skrajnie suchy cechuje się dużymi dobowymi amplitudami temperatury powietrza."
+                                       },
+                                       {
+                                           "sentence":  "W klimacie podzwrotnikowym kontynentalnym suchym średnia miesięczna temperatura powietrza zimą nigdy nie spada poniżej 0°C.",
+                                           "answer":  false,
+                                           "explanation":  "W tym typie klimatu zimą dobowa temperatura powietrza może spadać nawet poniżej 0°C."
+                                       },
+                                       {
+                                           "sentence":  "Klimat równikowy wybitnie wilgotny charakteryzuje się występowaniem jednej wyraźnej pory deszczowej w miesiącach letnich.",
+                                           "answer":  false,
+                                           "explanation":  "W klimacie równikowym wybitnie wilgotnym występuje brak dominującej pory deszczowej (opady są całoroczne)."
+                                       }
+                                   ]
+                 }
+}

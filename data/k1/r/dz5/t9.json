@@ -1,0 +1,445 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz5-t9",
+                     "unit":  "V",
+                     "title":  "Kronika dziejów Ziemi",
+                     "level":  "R",
+                     "class":  "1",
+                     "source_note":  "Szczegółowe treści merytoryczne oparto na wytycznych programowych oraz wiedzy ogólnej dotyczącej chronostratygrafii."
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Eon",
+                                              "definition":  "Największa jednostka podziału chronostratygraficznego dziejów Ziemi (np. Fanerozoik), dzieląca się na ery. "
+                                          },
+                                          {
+                                              "term":  "Wiek Ziemi",
+                                              "definition":  "Czas istnienia naszej planety szacowany na około 4,6 mld lat."
+                                          },
+                                          {
+                                              "term":  "Skamieniałość przewodnia",
+                                              "definition":  "Szczątki organizmów, które żyły krótko, ale występowały powszechnie na dużym obszarze, umożliwiające określenie wieku względnego skał."
+                                          },
+                                          {
+                                              "term":  "Prekambr",
+                                              "definition":  "Nieformalna nazwa najstarszego okresu dziejów Ziemi (eony Archaik i Proterozoik), obejmująca powstanie atmosfery, hydrosfery i pierwsze ślady życia."
+                                          },
+                                          {
+                                              "term":  "Paleozoik",
+                                              "definition":  "Era w eonie fanerozoicznym, charakteryzująca się rozwojem bezkręgowców, ryb i płazów oraz wyjściem roślin na ląd."
+                                          },
+                                          {
+                                              "term":  "Kambr",
+                                              "definition":  "Najstarszy okres paleozoiku, w którym nastąpiła tzw. eksplozja życia, czyli gwałtowny rozwój organizmów wielokomórkowych."
+                                          },
+                                          {
+                                              "term":  "Trylobity",
+                                              "definition":  "Morskie stawonogi charakterystyczne dla paleozoiku, będące ważnymi skamieniałościami przewodnimi dla tej ery."
+                                          },
+                                          {
+                                              "term":  "Orogeneza kaledońska",
+                                              "definition":  "Ruchy górotwórcze we wczesnym paleozoiku (sylur/dewon), które doprowadziły do powstania m.in. Gór Skandynawskich i Gór Świętokrzyskich."
+                                          },
+                                          {
+                                              "term":  "Orogeneza hercyńska",
+                                              "definition":  "Intensywne ruchy górotwórcze w późnym paleozoiku (karbon/perm), odpowiedzialne za powstanie m.in. Sudetów."
+                                          },
+                                          {
+                                              "term":  "Mezozoik",
+                                              "definition":  "Era obejmująca trias, jurę i kredę; czas dominacji wielkich gadów (dinozaurów) oraz amonitów w morzach."
+                                          },
+                                          {
+                                              "term":  "Dinozaury",
+                                              "definition":  "Grupa gadów lądowych dominująca w erze mezozoicznej, która wyginęła podczas wielkiego wymierania pod koniec kredy."
+                                          },
+                                          {
+                                              "term":  "Amonity i Belemnity",
+                                              "definition":  "Głowonogi morskie będące głównymi skamieniałościami przewodnimi dla ery mezozoicznej."
+                                          },
+                                          {
+                                              "term":  "Kreda",
+                                              "definition":  "Ostatni okres mezozoiku, zakończony wielkim wymieraniem gatunków około 66 mln lat temu."
+                                          },
+                                          {
+                                              "term":  "Orogeneza alpejska",
+                                              "definition":  "Najmłodsze ruchy górotwórcze, zapoczątkowane w mezozoiku i trwające w kenozoiku, tworzące m.in. Alpy, Himalaje i Karpaty."
+                                          },
+                                          {
+                                              "term":  "Kenozoik",
+                                              "definition":  "Obecna era geologiczna (od 66 mln lat temu), charakteryzująca się dominacją ssaków i roślin okrytonasiennych."
+                                          },
+                                          {
+                                              "term":  "Czwartorzęd",
+                                              "definition":  "Najmłodszy okres kenozoiku, trwający od ok. 2,6 mln lat temu do dziś, dzielący się na plejstocen i holocen."
+                                          },
+                                          {
+                                              "term":  "Plejstocen",
+                                              "definition":  "Epoka lodowcowa w czwartorzędzie, charakteryzująca się cyklicznymi zlodowaceniami (glacjałami)."
+                                          },
+                                          {
+                                              "term":  "Holocen",
+                                              "definition":  "Obecna epoka geologiczna czwartorzędu, która rozpoczęła się po ustąpieniu ostatniego lądolodu (ok. 11,7 tys. lat temu)."
+                                          },
+                                          {
+                                              "term":  "Homo sapiens",
+                                              "definition":  "Gatunek człowieka rozumnego, który pojawił się w plejstocenie (era kenozoiczna)."
+                                          },
+                                          {
+                                              "term":  "Tabela stratygraficzna",
+                                              "definition":  "Schemat przedstawiający podział dziejów Ziemi na eony, ery, okresy i epoki, służący do porządkowania wydarzeń geologicznych. "
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Era: Paleozoik",
+                                                 "pair2":  "Okres: Kambr"
+                                             },
+                                             {
+                                                 "pair1":  "Era: Mezozoik",
+                                                 "pair2":  "Okres: Jura"
+                                             },
+                                             {
+                                                 "pair1":  "Era: Kenozoik",
+                                                 "pair2":  "Okres: Czwartorzęd"
+                                             },
+                                             {
+                                                 "pair1":  "Skamieniałość: Trylobity",
+                                                 "pair2":  "Era: Paleozoik"
+                                             },
+                                             {
+                                                 "pair1":  "Skamieniałość: Amonity",
+                                                 "pair2":  "Era: Mezozoik"
+                                             },
+                                             {
+                                                 "pair1":  "Wydarzenie: Pojawienie się Homo sapiens",
+                                                 "pair2":  "Okres: Czwartorzęd (Plejstocen)"
+                                             },
+                                             {
+                                                 "pair1":  "Orogeneza: Kaledońska i Hercyńska",
+                                                 "pair2":  "Era: Paleozoik"
+                                             },
+                                             {
+                                                 "pair1":  "Orogeneza: Alpejska",
+                                                 "pair2":  "Ery: Mezozoik i Kenozoik"
+                                             },
+                                             {
+                                                 "pair1":  "Wydarzenie: Eksplozja życia (kambryjska)",
+                                                 "pair2":  "Początek: Paleozoiku"
+                                             },
+                                             {
+                                                 "pair1":  "Wydarzenie: Wyginięcie dinozaurów",
+                                                 "pair2":  "Koniec: Mezozoiku (Kreda)"
+                                             },
+                                             {
+                                                 "pair1":  "Zjawisko: Zlodowacenia",
+                                                 "pair2":  "Epoka: Plejstocen"
+                                             },
+                                             {
+                                                 "pair1":  "Wydarzenie: Powstanie Ziemi",
+                                                 "pair2":  "Czas: 4,6 mld lat temu"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Która warstwa wnętrza Ziemi, wraz z zewnętrzną częścią płaszcza górnego, tworzy litosferę?",
+                                      "options":  [
+                                                      "Jądro wewnętrzne zbudowane z żelaza i niklu.",
+                                                      "Płaszcz dolny wykazujący cechy ciała plastycznego.",
+                                                      "Skorupa ziemska.",
+                                                      "Jądro zewnętrzne znajdujące się w stanie ciekłym."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego tworzą litosferę."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstają skały magmowe głębinowe (plutoniczne), takie jak granit?",
+                                      "options":  [
+                                                      "Przez szybkie zastyganie lawy na powierzchni",
+                                                      "Z nagromadzenia szczątków organicznych",
+                                                      "Przez powolną krystalizację magmy głęboko pod ziemią",
+                                                      "Pod wpływem wysokiej temperatury na skały osadowe"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Skały magmowe głębinowe powstają z magmy, która powoli krystalizuje głęboko pod powierzchnią ziemi."
+                                  },
+                                  {
+                                      "question":  "Która z wymienionych skał jest przykładem skały osadowej pochodzenia chemicznego?",
+                                      "options":  [
+                                                      "Granit",
+                                                      "Sól kamienna",
+                                                      "Piaskowiec",
+                                                      "Marmur"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sól kamienna jest skałą osadową pochodzenia chemicznego, powstającą, gdy woda odparowuje z mórz i słonych jezior."
+                                  },
+                                  {
+                                      "question":  "Jaki proces geologiczny jest bezpośrednią przyczyną powstawania ryftów i grzbietów śródoceanicznych?",
+                                      "options":  [
+                                                      "Subdukcja płyt",
+                                                      "Kolizja płyt kontynentalnych",
+                                                      "Spreding (rozsuwanie się płyt)",
+                                                      "Ruchy epejrogeniczne"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Rozsuwanie się płyt litosfery (spreding) prowadzi do powstawania ryftów i grzbietów śródoceanicznych."
+                                  },
+                                  {
+                                      "question":  "Co powstaje w strefie subdukcji, gdy płyta oceaniczna podsuwa się pod płytę kontynentalną?",
+                                      "options":  [
+                                                      "Rozległy grzbiet śródoceaniczny w strefie ryftowej.",
+                                                      "Ryft kontynentalny rozrywający strukturę lądu.",
+                                                      "Rów oceaniczny i łańcuch górski.",
+                                                      "Góry zrębowe powstałe wzdłuż linii uskoków."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Gdy płyta oceaniczna podsuwa się pod płytę kontynentalną, powstają rowy oceaniczne oraz łańcuchy górskie na lądzie."
+                                  },
+                                  {
+                                      "question":  "Które góry powstały w wyniku kolizji płyty indyjskiej z płytą eurazjatycką?",
+                                      "options":  [
+                                                      "Andy",
+                                                      "Himalaje",
+                                                      "Alpy",
+                                                      "Góry Smocze"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Himalaje powstały jako efekt kolizji płyty indyjskiej z płytą eurazjatycką."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzują się góry zrębowe?",
+                                      "options":  [
+                                                      "Powstają przez fałdowanie osadów morskich w strefie subdukcji.",
+                                                      "Są efektem wypiętrzania warstw skalnych wzdłuż uskoków.",
+                                                      "Budują je wyłącznie stożki i pokrywy wulkaniczne.",
+                                                      "Są to zawsze najniższe łańcuchy górskie na powierzchni Ziemi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Góry zrębowe powstają w wyniku wypiętrzania się warstw skalnych wzdłuż uskoków."
+                                  },
+                                  {
+                                      "question":  "Jak nazywamy magmę, która wydostała się na powierzchnię Ziemi i utraciła większość gazów?",
+                                      "options":  [
+                                                      "Lawa",
+                                                      "Pluton",
+                                                      "Intruzja",
+                                                      "Lapilli"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Magma wydostaje się na powierzchnię w trakcie erupcji i staje się wówczas lawą."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych materiałów jest zaliczany do materiałów piroklastycznych?",
+                                      "options":  [
+                                                      "Granit",
+                                                      "Bomba wulkaniczna",
+                                                      "Sól potasowa",
+                                                      "Gnejs"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Do materiałów piroklastycznych zalicza się m.in. bomby wulkaniczne, lapilli oraz popioły wulkaniczne."
+                                  },
+                                  {
+                                      "question":  "Co to jest hipocentrum?",
+                                      "options":  [
+                                                      "Miejsce na powierzchni Ziemi nad ogniskiem wstrząsu",
+                                                      "Ognisko trzęsienia ziemi we wnętrzu Ziemi",
+                                                      "Krater wulkanu",
+                                                      "Strefa ryftowa"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Miejsce we wnętrzu Ziemi, z którego rozchodzą się fale sejsmiczne, to ognisko trzęsienia ziemi, czyli hipocentrum."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko zachodzi, gdy lądy się obniżają i są zalewane przez morze?",
+                                      "options":  [
+                                                      "Regresja morza",
+                                                      "Transgresja morza",
+                                                      "Orogeneza",
+                                                      "Plutonizm"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Gdy lądy się obniżają, mogą być zalewane przez morze – zachodzi transgresja morza."
+                                  },
+                                  {
+                                      "question":  "Który minerał jest głównym składnikiem piasku (luźnej skały okruchowej)?",
+                                      "options":  [
+                                                      "Mika",
+                                                      "Kwarc",
+                                                      "Kalcyt",
+                                                      "Gips"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Piasek jest luźną skałą okruchową, którą zazwyczaj tworzą niewielkie ziarna kwarcu."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna przyczyna ruchu płyt litosfery?",
+                                      "options":  [
+                                                      "Przyciąganie Księżyca",
+                                                      "Prądy konwekcyjne w płaszczu Ziemi",
+                                                      "Działalność wiatru",
+                                                      "Promieniowanie słoneczne"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Ciągły ruch płyt wywołują prądy konwekcyjne – strumienie magmy wędrujące z głębi Ziemi."
+                                  },
+                                  {
+                                      "question":  "Która intruzja magmowa ma formę żył przecinających starsze warstwy skalne w pionie lub na ukos?",
+                                      "options":  [
+                                                      "Lakolit",
+                                                      "Batolit",
+                                                      "Dajka",
+                                                      "Ognisko magmowe"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Dajki występują in formie żył przecinających w pionie lub na ukos starsze warstwy skalne."
+                                  },
+                                  {
+                                      "question":  "Który typ wulkanu charakteryzuje się rozległym stożkiem o łagodnych stokach i spokojnymi erupcjami?",
+                                      "options":  [
+                                                      "Stratowulkan",
+                                                      "Wulkan eksplozywny",
+                                                      "Wulkan efuzywny",
+                                                      "Wulkan stożkowy"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wulkan efuzywny ma bardzo rozległy stożek i łagodne stoki, a jego erupcje mają spokojny przebieg."
+                                  },
+                                  {
+                                      "question":  "W jakiej skali najczęściej określa się wielkość (magnitudę) trzęsienia ziemi?",
+                                      "options":  [
+                                                      "Skala Beauforta",
+                                                      "Skala Mohsa",
+                                                      "Skala Richtera",
+                                                      "Skala Celsjusza"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wielkość trzęsień ziemi najczęściej określa się w skali Richtera."
+                                  },
+                                  {
+                                      "question":  "Co jest przykładem skały metamorficznej powstałej z wapienia?",
+                                      "options":  [
+                                                      "Gnejs",
+                                                      "Marmur",
+                                                      "Bazalt",
+                                                      "Węgiel kamienny"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Marmur powstaje z wapieni, które przeobrażają się pod wpływem bardzo wysokiej temperatury i dużego ciśnienia."
+                                  },
+                                  {
+                                      "question":  "W którym z podanych państw, leżącym w Ognistym Pierścieniu Pacyfiku, często występują trzęsienia ziemi?",
+                                      "options":  [
+                                                      "Polska",
+                                                      "Japonia",
+                                                      "Brazylia",
+                                                      "Egipt"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Japonia znajduje się w strefach subdukcji (Ognisty Pierścień Pacyfiku) i przoduje w liczbie trzęsień ziemi."
+                                  },
+                                  {
+                                      "question":  "Który surowiec jest zaliczany do surowców energetycznych?",
+                                      "options":  [
+                                                      "Siarka",
+                                                      "Rudy miedzi",
+                                                      "Węgiel kamienny",
+                                                      "Granit"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Do surowców energetycznych zalicza się m.in. węgiel kamienny, ropę naftową i gaz ziemny."
+                                  },
+                                  {
+                                      "question":  "Czym jest skamieniałość przewodnia?",
+                                      "options":  [
+                                                      "Każdą skałą osadową zawierającą dowolne minerały.",
+                                                      "Skamieniałością pozwalającą precyzyjnie określić wiek skał.",
+                                                      "Rodzajem magmy zastygłej bezpośrednio na powierzchni.",
+                                                      "Fragmentem lawy o dużej porowatości i małej gęstości."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Skamieniałość przewodnia to szczątek organizmu, który żył krótko, ale występował powszechnie, co pozwala określić wiek warstw skalnych."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Litosfera obejmuje wyłącznie skorupę ziemską, bez udziału płaszcza Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Skorupa ziemska wraz z zewnętrzną częścią płaszcza górnego tworzą litosferę."
+                                       },
+                                       {
+                                           "sentence":  "Jądro zewnętrzne Ziemi ma właściwości ciała ciekłego, natomiast jądro wewnętrzne wykazuje cechy ciała stałego.",
+                                           "answer":  true,
+                                           "explanation":  "Jądro zewnętrzne ma właściwości ciała ciekłego, a jądro wewnętrzne wykazuje cechy ciała stałego."
+                                       },
+                                       {
+                                           "sentence":  "Granit jest skałą magmową wylewną, która szybko zastyga na powierzchni Ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Granit to skała magmowa głębinowa, która krystalizuje powoli głęboko pod powierzchnią ziemi."
+                                       },
+                                       {
+                                           "sentence":  "Proces subdukcji polega na podsuwaniu się jednej płyty litosfery pod drugą, co prowadzi do powstawania rowów oceanicznych.",
+                                           "answer":  true,
+                                           "explanation":  "Subdukcja to proces podsuwania się jednej płyty pod drugą, w wyniku czego powstają rowy oceaniczne."
+                                       },
+                                       {
+                                           "sentence":  "Ryfty to rozległe podmorskie wzniesienia powstające w strefach kolizji płyt litosfery.",
+                                           "answer":  false,
+                                           "explanation":  "Ryfty to wąskie i długie pęknięcia powstające w strefach rozsuwania się płyt (spredingu), natomiast wzniesieniami są grzbiety śródoceaniczne."
+                                       },
+                                       {
+                                           "sentence":  "Skały metamorficzne tworzą się w wyniku oddziaływania wysokiej temperatury i ciśnienia na istniejące już skały.",
+                                           "answer":  true,
+                                           "explanation":  "Skały metamorficzne (przeobrażone) powstają, gdy bardzo wysoka temperatura oraz ogromne ciśnienie oddziałują na istniejące skały magmowe lub osadowe."
+                                       },
+                                       {
+                                           "sentence":  "Hipocentrum to punkt na powierzchni Ziemi znajdujący się bezpośrednio nad ogniskiem trzęsienia ziemi.",
+                                           "answer":  false,
+                                           "explanation":  "Hipocentrum to ognisko wstrząsów we wnętrzu Ziemi, natomiast na powierzchni znajduje się epicentrum."
+                                       },
+                                       {
+                                           "sentence":  "Bazalt jest skałą magmową wylewną zbudowaną z mikroskopijnych minerałów.",
+                                           "answer":  true,
+                                           "explanation":  "Bazalt należy do skał magmowych wylewnych i budują go mikroskopijne minerały."
+                                       },
+                                       {
+                                           "sentence":  "Góry zrębowe powstają w wyniku fałdowania elastycznych warstw skalnych na dnie oceanu.",
+                                           "answer":  false,
+                                           "explanation":  "Góry zrębowe powstają w wyniku wypiętrzania się sztywnych warstw skalnych wzdłuż uskoków, a nie fałdowania."
+                                       },
+                                       {
+                                           "sentence":  "Wiercenia geologiczne pozwoliły człowiekowi dotrzeć bezpośrednio do płaszcza Ziemi na głębokość ponad 80 km.",
+                                           "answer":  false,
+                                           "explanation":  "Najgłębszy odwiert sięga 15 km, co jest niewielkim odsetkiem promienia ziemskiego, podczas gdy skorupa kontynentalna ma ok. 80 km grubości."
+                                       },
+                                       {
+                                           "sentence":  "Ruchy epejrogeniczne to powolne, pionowe ruchy skorupy ziemskiej, które mogą powodować transgresję lub regresję morza.",
+                                           "answer":  true,
+                                           "explanation":  "Ruchy epejrogeniczne to bardzo powolne pionowe ruchy skorupy ziemskiej skutkujące zmianami linii brzegowej."
+                                       },
+                                       {
+                                           "sentence":  "Wulkany eksplozywne charakteryzują się spokojnymi wylewami lawy o małej lepkości.",
+                                           "answer":  false,
+                                           "explanation":  "Wulkany eksplozywne cechują gwałtowne erupcje, natomiast spokojne wylewy lawy są charakterystyczne dla wulkanów efuzywnych."
+                                       },
+                                       {
+                                           "sentence":  "Skorupa oceaniczna jest cieńsza od skorupy kontynentalnej, a jej grubość wynosi od 5 do 12 km.",
+                                           "answer":  true,
+                                           "explanation":  "Grubość skorupy oceanicznej wynosi 5-12 km, podczas gdy skorupy kontynentalnej ok. 80 km."
+                                       },
+                                       {
+                                           "sentence":  "Piaskowiec to zwięzła skała osadowa okruchowa powstała w wyniku scementowania ziaren piasku.",
+                                           "answer":  true,
+                                           "explanation":  "Piaskowiec to skała okruchowa zwięzła powstająca ze scementowanych ziaren piasku."
+                                       },
+                                       {
+                                           "sentence":  "Ognisty Pierścień Pacyfiku to strefa wokół Oceanu Spokojnego, gdzie występuje największe skupisko czynnych wulkanów.",
+                                           "answer":  true,
+                                           "explanation":  "Największe skupiska wulkanów występują wokół wybrzeży Oceanu Spokojnego, tworząc Ognisty Pierścień Pacyfiku."
+                                       }
+                                   ]
+                 }
+}

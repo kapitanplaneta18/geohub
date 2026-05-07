@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-dz7-t2",
+    "title": "Wpływ działalności człowieka na atmosferę",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Zanieczyszczenia gazowe atmosfery",
+        "definition": "Substancje takie jak dwutlenek węgla, tlenek węgla, dwutlenek siarki oraz tlenki azotu, które dostają się do powietrza m.in. w wyniku spalania paliw."
+      },
+      {
+        "term": "Zanieczyszczenia pyłowe (PM)",
+        "definition": "Aerozole i cząstki stałe zawieszone w powietrzu, najczęściej opisywane za pomocą symboli PM 2,5 oraz PM 10, określających maksymalną średnicę drobin."
+      },
+      {
+        "term": "Naturalne źródła zanieczyszczeń powietrza",
+        "definition": "Zjawiska takie jak wybuchy wulkanów, pożary lasów, burze pyłowe oraz opadanie pyłów kosmicznych."
+      },
+      {
+        "term": "Antropogeniczne źródła zanieczyszczeń powietrza",
+        "definition": "Emisje pochodzące m.in. z działalności przemysłowej, energetyki cieplnej, transportu, rolnictwa oraz z czynników bytowych (np. palenisk domowych)."
+      },
+      {
+        "term": "Efekt cieplarniany",
+        "definition": "Naturalne zjawisko ogrzewania się atmosfery w wyniku pochłaniania przez nią większości promieniowania cieplnego pochodzącego z Ziemi."
+      },
+      {
+        "term": "Nadmierny efekt cieplarniany",
+        "definition": "Zjawisko wywołane przez wzrastającą koncentrację gazów cieplarnianych w atmosferze wskutek działalności człowieka, prowadzące do globalnego ocieplenia."
+      },
+      {
+        "term": "Główne gazy cieplarniane",
+        "definition": "Dwutlenek węgla, metan, podtlenek azotu, fluorowęglowodory oraz sześciofluorek siarki."
+      },
+      {
+        "term": "Najwięksi producenci gazów cieplarnianych w Europie (w przeliczeniu na mieszkańca)",
+        "definition": "Kraje takie jak Luksemburg, Islandia, Estonia, Irlandia i Czechy."
+      },
+      {
+        "term": "Smog",
+        "definition": "Zjawisko powstające na skutek silnej koncentracji zanieczyszczeń w atmosferze w określonych warunkach pogodowych (np. podczas inwersji temperatury) i przestrzennych."
+      },
+      {
+        "term": "Smog siarkowy (londyński)",
+        "definition": "Typ smogu powstający w chłodnym półroczu w wyniku spalania węgla, charakteryzujący się wysokim stężeniem pyłów, sadzy i tlenków siarki."
+      },
+      {
+        "term": "Smog fotochemiczny (typu Los Angeles)",
+        "definition": "Rodzaj smogu tworzący się w słoneczne, gorące dni pod wpływem promieniowania słonecznego z tlenków azotu i węglowodorów, pochodzących głównie ze spalin samochodowych."
+      },
+      {
+        "term": "Kwaśne opady",
+        "definition": "Żrące roztwory kwasów (np. siarkowego) opadające na ziemię, powstające w wyniku reakcji pary wodnej z zanieczyszczeniami takimi jak dwutlenek siarki."
+      },
+      {
+        "term": "Dziura ozonowa",
+        "definition": "Zjawisko polegające na znacznym obniżeniu koncentracji ozonu w ozonosferze, spowodowane zanieczyszczeniem atmosfery freonami."
+      },
+      {
+        "term": "Wpływ zanieczyszczeń na układ oddechowy człowieka",
+        "definition": "Zwiększone ryzyko zachorowania na raka płuc, astmę, pylicę oraz podrażnienia błon śluzowych gardła i nosa."
+      },
+      {
+        "term": "Wpływ zanieczyszczeń na układ krążenia człowieka",
+        "definition": "Zwiększone ryzyko zawału serca, wystąpienia choroby niedokrwiennej, niewydolności serca oraz niedotlenienia mózgu."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Smog (siarkowy/londyński)",
+        "pair2": "Powstaje zimą, głównie w wyniku spalania węgla, zawiera pyły i tlenki siarki."
+      },
+      {
+        "pair1": "Smog (fotochemiczny/kalifornijski)",
+        "pair2": "Tworzy się w słoneczne, gorące dni przy udziale tlenków azotu i spalin samochodowych."
+      },
+      {
+        "pair1": "Dziura ozonowa (główna przyczyna)",
+        "pair2": "Wprowadzanie do atmosfery freonów, czyli związków fluoru, chloru i węgla."
+      },
+      {
+        "pair1": "Gazy cieplarniane (przykłady)",
+        "pair2": "Dwutlenek węgla, metan, podtlenek azotu oraz sześciofluorek siarki."
+      },
+      {
+        "pair1": "Kwaśne opady (skutek w środowisku)",
+        "pair2": "Degradacja roślinności, zakwaszanie gleb i wód oraz niszczenie budynków i konstrukcji."
+      },
+      {
+        "pair1": "Zanieczyszczenia atmosfery (najwięksi całkowici emitenci CO2 na świecie)",
+        "pair2": "Chiny, USA, Indie i Rosja."
+      },
+      {
+        "pair1": "Zanieczyszczenia powietrza (źródła naturalne)",
+        "pair2": "Wybuchy wulkanów, pożary lasów, burze pyłowe oraz pyły kosmiczne."
+      },
+      {
+        "pair1": "Globalne ocieplenie (skutki przyrodnicze)",
+        "pair2": "Topnienie lądolodów, wzrost siły zjawisk ekstremalnych, długotrwałe susze i pustynnienie."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Które gazy należą do głównych antropogenicznych gazów cieplarnianych powstających wskutek spalania paliw?",
+        "options": [
+          "Dwutlenek węgla, metan, podtlenek azotu.",
+          "Tlenek węgla, amoniak, siarkowodór, ozon.",
+          "Ozon troposferyczny, freon, tlenki azotu.",
+          "Sześciofluorek siarki, azot, hel, argon."
+        ],
+        "answer": "A",
+        "explanation": "Dwutlenek węgla, metan i podtlenek azotu są wymienione jako główne gazy cieplarniane uwalniane w procesach spalania paliw kopalnych."
+      },
+      {
+        "question": "Jakie zjawiska zalicza się do głównych naturalnych źródeł zanieczyszczeń powietrza atmosferycznego?",
+        "options": [
+          "Wybuchy wulkanów oraz pożary obszarów leśnych.",
+          "Spalanie węgli w potężnych elektrociepłowniach.",
+          "Utylizacja stałych śmieci na wielkim wysypisku.",
+          "Emisja spalin przez wielkie transporty drogowe."
+        ],
+        "answer": "A",
+        "explanation": "Naturalne źródła emisji zanieczyszczeń powietrza obejmują procesy występujące w przyrodzie, takie jak aktywność wulkaniczna, pożary lasów czy burze pyłowe."
+      },
+      {
+        "question": "Jaka działalność gospodarcza odpowiada za największą antropogeniczną emisję tlenków siarki w Europie?",
+        "options": [
+          "Przemysł chemiczny produkujący nawozy sztuczne.",
+          "Zakłady energetyki oparte na spalaniu surowców.",
+          "Intensywny transport lądowy oraz ruch lotniczy.",
+          "Gospodarka odpadami oraz liczne oczyszczalnie."
+        ],
+        "answer": "B",
+        "explanation": "Sektor produkujący ciepło i energię oparty na spalaniu surowców wydobywczych generuje największe ilości zanieczyszczeń na tle innych działów gospodarki ze względu na uwalnianie związków siarki zawartych w paliwie kopalnym."
+      },
+      {
+        "question": "Który sektor działalności człowieka jest współcześnie dominującym źródłem emisji tlenków azotu w Unii Europejskiej?",
+        "options": [
+          "Sektor rolnictwa oraz masowej hodowli zwierząt.",
+          "Działalność usługowa oraz komercyjna turystyka.",
+          "Systemy transportu lądowego, wodnego i lotnego.",
+          "Przemysł wydobywczy i ciężkie hutnictwo metali."
+        ],
+        "answer": "C",
+        "explanation": "Eksploatacja nowoczesnej infrastruktury transportowej z udziałem wszystkich typów pojazdów generuje najwięcej zanieczyszczeń azotowych do warstwy atmosferycznej w państwach unijnych."
+      },
+      {
+        "question": "Na czym polega fizyczny mechanizm powstawania naturalnego efektu cieplarnianego na planecie Ziemi?",
+        "options": [
+          "Pochłanianie promieniowania cieplnego z planety.",
+          "Rozpraszanie światła słonecznego w gęstej mgle.",
+          "Odbijanie fal ultrafioletowych w mroczny kosmos.",
+          "Absorbowanie burz słonecznych przez atmosferę."
+        ],
+        "answer": "A",
+        "explanation": "Gazy cieplarniane utrzymują ciepło powracające w postaci promieniowania z ogrzanej promieniami słonecznymi powierzchni lądów i oceanów."
+      },
+      {
+        "question": "Które duże państwa europejskie emitowały największą całkowitą ilość antropogenicznych gazów cieplarnianych w 2016 roku?",
+        "options": [
+          "Luksemburg, chłodna Islandia, Estonia oraz deszczowa Irlandia.",
+          "Potężne Niemcy, Polska, cała Wielka Brytania oraz ciepłe Włochy.",
+          "Duża Francja, wietrzna Hiszpania, Holandia oraz mała Portugalia.",
+          "Rozległa Szwecja, Norwegia, Finlandia a także bogata Szwajcaria."
+        ],
+        "answer": "B",
+        "explanation": "Poziom industrializacji oraz ogromne zużycie węglowodorów skutkują najwyższym w skali Starego Kontynentu tonażem emitowanych zanieczyszczeń gazowych przez gospodarki państw Europy Zachodniej i Środkowej."
+      },
+      {
+        "question": "W jakich państwach Europy odnotowano najwyższe wskaźniki emisji gazów cieplarnianych w przeliczeniu na pojedynczego mieszkańca w 2016 roku?",
+        "options": [
+          "W małym Luksemburgu, w Islandii, mroźnej Estonii i zielonej Irlandii.",
+          "W słonecznych Włoszech, rozległych Niemczech, Polsce oraz w Anglii.",
+          "W wietrznej Holandii, we Francji, upalnej Hiszpanii oraz Portugalii.",
+          "W Szwecji, chłodnej Finlandii, Norwegii oraz w górzystej Szwajcarii."
+        ],
+        "answer": "A",
+        "explanation": "Ogromny wskaźnik emisyjny liczony na osobę występuje zazwyczaj w państwach posiadających bardzo nieliczną demograficznie społeczność lub w państwach dysponujących wielkimi i niezwykle energochłonnymi kompleksami infrastrukturalnymi."
+      },
+      {
+        "question": "Jakie specyficzne warunki meteorologiczne i atmosferyczne napędzają zjawisko powstawania smogu fotochemicznego?",
+        "options": [
+          "Niska temperatura poniżej 4°C, inwersja oraz bardzo duża wilgotność.",
+          "Wysoka temperatura powyżej 24°C, silne słońce oraz mała wilgotność.",
+          "Gwałtowny wiatr, najniższe ciśnienie na froncie oraz silne opady.",
+          "Całkowite zachmurzenie, gęsta mgła radiacyjna oraz mroźne powietrze."
+        ],
+        "answer": "B",
+        "explanation": "Gorące miesiące letnie dostarczające mnóstwa wysokoenergetycznego promieniowania pobudzają serię niezwykle szybkich reakcji zanieczyszczeń w rzadkim, pozbawionym naturalnej wilgoci miejskim powietrzu."
+      },
+      {
+        "question": "Jakie precyzyjnie określone parametry atmosfery potęgują niebezpieczeństwo narastania smogu siarkowego?",
+        "options": [
+          "Temperatura powyżej 24°C, silne nasłonecznienie oraz niska wilgotność.",
+          "Temperatura poniżej 4°C, zjawisko inwersji oraz bardzo duża wilgotność.",
+          "Gwałtowne porywy wiatru, skoki ciśnienia oraz niezwykle obfite deszcze.",
+          "Całkowity brak zachmurzenia, wyżowa pogoda oraz bardzo suche powietrze."
+        ],
+        "answer": "B",
+        "explanation": "Blokada konwekcji wywołana inwersją w połączeniu z masami chłodnego oraz mokrego powietrza zatrzymuje gazy i węglowe drobiny na dnie dolin oraz miejskich aglomeracji zimą."
+      },
+      {
+        "question": "Jaka jest precyzyjna i ugruntowana mieszanina szkodliwych związków charakterystyczna dla letniego smogu fotochemicznego?",
+        "options": [
+          "Związki siarki, drobna sadza węglowa, tlenki węgla oraz twarde pyły.",
+          "Węglowodory, toksyczne tlenki azotu, tlenek węgla oraz stężony ozon.",
+          "Chlorofluorowęglowodory, sześciofluorek siarki oraz podtlenek azotu.",
+          "Silne związki chloru, amoniak, siarkowodór oraz pyły metali ciężkich."
+        ],
+        "answer": "B",
+        "explanation": "Zaburzenia fotochemiczne wytwarzają przy powierzchni ziemi gazową mieszaninę, której dominującym zanieczyszczeniem jest toksyczna forma trójatomowego tlenu powstająca pod wpływem spalin."
+      },
+      {
+        "question": "Która grupa specyficznych związków chemicznych z rur wydechowych i kominów fabryk formuje bezpośrednio bazę klasycznego smogu londyńskiego?",
+        "options": [
+          "Toksyczne węglowodory, tlenki azotu, tlenki węgla oraz stężony ozon.",
+          "Cząstki stałe w formie pyłów i sadzy, tlenki siarki oraz tlenek węgla.",
+          "Chlorofluorowęglowodory, sześciofluorek siarki oraz podtlenek azotu.",
+          "Żrące związki chloru, amoniak, tlenek magnezu i pyły metali ciężkich."
+        ],
+        "answer": "B",
+        "explanation": "Węglowy rodowód oparów zalegających od stuleci w brytyjskich miastach sprawia, że do formującej się tam chemicznej chmury przenikają drobiny węglowej materii, ślady niepełnego spalania i siarka."
+      },
+      {
+        "question": "Uwalnianie jakich cząsteczek gazowych do zurbanizowanych regionów globu wywołało w ubiegłym stuleciu kryzys związany ze zmniejszaniem osłony przed UV?",
+        "options": [
+          "Toksycznych tlenków siarki oraz pyłów zawieszonych z ciężkich fabryk.",
+          "Groźnych węglowodorów aromatycznych uwalnianych z węzłów motoryzacji.",
+          "Cząsteczek freonów będących stabilnymi związkami fluoru oraz chloru.",
+          "Dwutlenku węgla oraz silnych podtlenków azotu stosowanych na polach."
+        ],
+        "answer": "C",
+        "explanation": "Wykorzystywane niegdyś powszechnie gazy pędne i napełniające instalacje chłodnicze, z uwagi na zdolność do długiego wędrowania w powietrzu, reagowały z najwyższymi partiami gazowej powłoki planety."
+      },
+      {
+        "question": "W wyniku jakiego złożonego mechanizmu fizykochemicznego tworzą się szkodliwe kwaśne opady i niszczycielskie mgły o właściwościach silnie żrących?",
+        "options": [
+          "Fotochemicznego oddziaływania promieni słońca na cząsteczki smogu oraz tlenki azotu.",
+          "Wiązania się gęstych dymów ze spalania węgla z drobinami mgły w warunkach inwersji.",
+          "Zachodzenia bezpośrednich reakcji pary wodnej z zanieczyszczeniami z tlenków siarki.",
+          "Kumulowania się pyłów zawieszonych z wybuchów wulkanicznych w warstwach troposfery."
+        ],
+        "answer": "C",
+        "explanation": "Kondensacja cząsteczek wilgoci w wysokich partiach otaczających nas chmur doprowadza do powstawania silnego roztworu kwasu na drodze asymilacji gazowych związków wyrzucanych przez przemysł."
+      },
+      {
+        "question": "W jaki sposób wysokie stężenie niewidocznych gołym okiem lotnych zanieczyszczeń systematycznie obciąża procesy komórkowe całego ludzkiego organizmu?",
+        "options": [
+          "Znacznie potęguje ryzyko niedokrwienia serca oraz bardzo groźnych niedotlenień w mózgu.",
+          "Zaburza naturalną wydajność wielu gruczołów dokrewnych, indukując silne stany osłabienia.",
+          "Błyskawicznie prowadzi do bardzo silnych i przewlekłych stanów zapalnych powłok skórnych.",
+          "Wywołuje całkowicie nieodwracalne zmiany genetyczne we wszystkich komórkach wątrobowych."
+        ],
+        "answer": "A",
+        "explanation": "Przenikanie obcych, niszczycielskich elementów do krwiobiegu skutecznie osłabia wydolność systemów przepompowujących życiodajne płyny i zakłóca funkcjonowanie neurologicznego układu dowodzenia."
+      },
+      {
+        "question": "Jakie powszechnie notowane na arenie globalnej zjawisko wynika natychmiast z rosnącego nasycenia całej otaczającej nas atmosfery gazami szklarniowymi?",
+        "options": [
+          "Podwyższanie średnich temperatur powodujące szybsze topnienie lądolodów oraz lodu morskiego.",
+          "Zmiana składu chemicznego oceanów, która prowadzi do masowego wymierania raf koralowych mórz.",
+          "Zwiększona absorpcja promieniowania ultrafioletowego wywołująca liczne zjawiska wulkaniczne.",
+          "Powstawanie bardzo gęstych mgieł radiacyjnych zatrzymujących silne promieniowanie kosmiczne."
+        ],
+        "answer": "A",
+        "explanation": "Zatrzymana przy powierzchni cieplna moc światła radykalnie narusza strefy wieloletniej zmarzliny, prowadząc do drastycznego i widocznego od lat zmniejszania terytorium potężnych tarcz polarnych."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Smog fotochemiczny, znany również jako smog typu Los Angeles, powstaje w wielkich aglomeracjach w miesiącach zimowych przy temperaturze poniżej 4°C i dużej wilgotności powietrza.",
+        "answer": false,
+        "explanation": "Smog fotochemiczny tworzy się w miesiącach letnich i jesiennych przy temperaturze powyżej 24°C, małej wilgotności i silnym nasłonecznieniu. Opisane warunki zimowe, inwersja temperatury oraz wysoka wilgotność są charakterystyczne dla powstawania smogu siarkowego (londyńskiego)."
+      },
+      {
+        "sentence": "Efekt cieplarniany jest zjawiskiem w całości sztucznym, wywołanym przez działalność przemysłową człowieka, bez którego średnia temperatura na Ziemi byłaby optymalna do życia.",
+        "answer": false,
+        "explanation": "Efekt cieplarniany to zjawisko naturalne, polegające na pochłanianiu promieniowania cieplnego przez gazy w atmosferze, a bez niego życie na Ziemi w ogóle nie byłoby możliwe. Niebezpieczny dla środowiska jest dopiero nadmierny efekt cieplarniany, wynikający ze zbyt dużej antropogenicznej koncentracji tych gazów."
+      },
+      {
+        "sentence": "Główną przyczyną powstawania kwaśnych opadów i kwaśnych mgieł jest wprowadzanie do atmosfery freonów, które następnie reagują z parą wodną zawartą w chmurach.",
+        "answer": false,
+        "explanation": "Kwaśne opady powstają w wyniku reakcji pary wodnej z zanieczyszczeniami takimi jak dwutlenek siarki. Freony to z kolei związki fluoru, chloru i węgla, które niszczą ozonosferę i są bezpośrednią przyczyną powstawania dziury ozonowej."
+      },
+      {
+        "sentence": "Naturalne źródła zanieczyszczeń, takie jak wielkie erupcje wulkaniczne, wprowadzają do atmosfery więcej dwutlenku węgla w ciągu roku niż cała działalność przemysłowa i transportowa człowieka.",
+        "answer": false,
+        "explanation": "Wulkaniczne emisje dwutlenku węgla wynoszą około 0,3 mld ton rocznie, co stanowi mniej niż 1% całkowitej rocznej emisji antropogenicznej tego gazu."
+      },
+      {
+        "sentence": "W 2016 roku najwyższą całkowitą ilość gazów cieplarnianych w związku z produkcją energii w Europie wyemitowały Luksemburg i Islandia ze względu na bardzo silnie rozwinięty przemysł ciężki.",
+        "answer": false,
+        "explanation": "Luksemburg i Islandia były największymi producentami gazów cieplarnianych w Europie jedynie w przeliczeniu na jednego mieszkańca. Największą całkowitą ilość tych gazów ze względu na produkcję energii wyemitowały wówczas Niemcy, Polska, Wielka Brytania i Włochy."
+      },
+      {
+        "sentence": "Zapis PM 10 używany w pomiarach jakości powietrza oznacza stężenie zanieczyszczeń gazowych, głównie tlenku węgla i tlenków azotu, przekraczające 10 mikrogramów na metr sześcienny.",
+        "answer": false,
+        "explanation": "Skrót PM (od pyłów zawieszonych) odnosi się do zanieczyszczeń pyłowych, a liczba obok niego oznacza maksymalną średnicę cząsteczek wyrażoną w mikrometrach (np. nie większą niż 10 μm). Zanieczyszczenia gazowe stanowią zupełnie odrębną grupę substancji."
+      }
+    ]
+  }
+}

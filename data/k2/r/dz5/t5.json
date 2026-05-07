@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "id": "k2-r-dz5-t5",
+    "title": "Budownictwo",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Budownictwo",
+        "definition": "Dział gospodarki zajmujący się wznoszeniem, remontowaniem, konserwacją i rozbiórką obiektów budowlanych."
+      },
+      {
+        "term": "Budownictwo lądowe",
+        "definition": "Rodzaj budownictwa obejmujący obiekty umiejscowione na lądzie, takie jak budynki, drogi, linie kolejowe, mosty, lotniska, a także pomniki czy cmentarze."
+      },
+      {
+        "term": "Budownictwo wodne",
+        "definition": "Rodzaj budownictwa zajmujący się wznoszeniem obiektów związanych z wodą, do których należą m.in. jazy, śluzy, ujęcia wody, sztuczne zbiorniki wodne czy falochrony."
+      },
+      {
+        "term": "Rola budownictwa w gospodarce",
+        "definition": "Dział ten umożliwia funkcjonowanie większości działów rolnictwa, przemysłu i usług oraz stanowi jeden z głównych czynników warunkujących jakość życia mieszkańców."
+      },
+      {
+        "term": "Ekonomiczne czynniki rozwoju budownictwa",
+        "definition": "Należą do nich m.in. poziom i dynamika rozwoju gospodarczego (wielkość popytu), stopa bezrobocia, poziom wynagrodzeń, ceny mieszkań oraz dopływ środków zewnętrznych (np. z UE)."
+      },
+      {
+        "term": "Społeczno-demograficzne czynniki rozwoju budownictwa",
+        "definition": "Obejmują m.in. odsetek osób młodych, poziom dzietności oraz mobilność ludzi; wyższe wartości tych wskaźników generują wyższy popyt na budownictwo mieszkaniowe."
+      },
+      {
+        "term": "Zróżnicowanie zatrudnienia w budownictwie na świecie",
+        "definition": "W krajach wysoko rozwiniętych wynosi ok. 5-10%, w słabo rozwiniętych zwykle do 3%, a w krajach Bliskiego Wschodu nierzadko przekracza 35% z powodu wielkich inwestycji infrastrukturalnych."
+      },
+      {
+        "term": "Styl budownictwa a krajobraz",
+        "definition": "Obiekty budowlane są umiejscawiane w przestrzeni publicznej, dlatego muszą być harmonijnie wkomponowane w otoczenie, aby nie niszczyć istniejących walorów krajobrazu przyrodniczego i kulturowego."
+      },
+      {
+        "term": "Miejscowy plan zagospodarowania przestrzennego",
+        "definition": "Dokument uchwalany w Polsce przez radę gminy lub miasta, zawierający wytyczne dotyczące wyglądu budynków i zapobiegający wznoszeniu obiektów niepasujących do krajobrazu."
+      },
+      {
+        "term": "Harmonizacja budownictwa z tradycją i kulturą",
+        "definition": "Wymóg dopasowania stylu budowli do historii regionu, przejawiający się np. rygorystycznymi wytycznymi dotyczącymi dachówek w Pradze czy stawianiem domków na palach na Bora-Bora."
+      },
+      {
+        "term": "Budownictwo wielkopłytowe",
+        "definition": "Szybka i tania technologia budowy z betonowych prefabrykatów, popularna niegdyś w polskich miastach, która stanowi przykład architektury niebiorącej pod uwagę walorów krajobrazowych."
+      },
+      {
+        "term": "Polityka państwa a budownictwo",
+        "definition": "Działania rządu wpływające na rynek budowlany, takie jak wdrażanie programów aktywizacji (np. budowa mieszkań komunalnych), ulgi podatkowe czy prawne uwarunkowania inwestycji."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Budynki, drogi, linie kolejowe, mosty, tunele i maszty antenowe",
+        "pair2": "Obiekty zaliczane do budownictwa lądowego"
+      },
+      {
+        "pair1": "Jazy, śluzy, kanały, baseny portowe i falochrony",
+        "pair2": "Obiekty zaliczane do budownictwa wodnego"
+      },
+      {
+        "pair1": "Osiedla z betonowych prefabrykatów (tzw. wielka płyta)",
+        "pair2": "Przykład budownictwa nieuwzględniającego lokalnych walorów krajobrazowych"
+      },
+      {
+        "pair1": "Chaty na palach wzorowane na tradycji polinezyjskiej (np. na Bora-Bora)",
+        "pair2": "Przykład budownictwa zharmonizowanego z miejscowym środowiskiem"
+      },
+      {
+        "pair1": "Ścisłe regulacje dotyczące detali takich jak kolor i kształt dachówek",
+        "pair2": "Ochrona krajobrazu kulturowego i historycznego (np. w czeskiej Pradze)"
+      },
+      {
+        "pair1": "Bardzo wysoki udział budownictwa w ogólnym zatrudnieniu (powyżej 35%)",
+        "pair2": "Państwa Bliskiego Wschodu przechodzące etap wielkich inwestycji (np. Katar)"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Czym zgodnie z podziałem gospodarczym zajmuje się dział budownictwa?",
+        "options": [
+          "Wydobywaniem i obróbką twardych surowców",
+          "Wznoszeniem i konserwacją wielu budynków",
+          "Krajowym transportem materiałów drogowych",
+          "Projektowaniem sieci przesyłu energii rzek"
+        ],
+        "answer": "B",
+        "explanation": "Budownictwo to dział gospodarki zajmujący się wznoszeniem, remontowaniem, konserwacją i rozbiórką różnego rodzaju obiektów budowlanych."
+      },
+      {
+        "question": "Do którego rodzaju działalności budowlanej zalicza się konstruowanie mostów?",
+        "options": [
+          "Do budownictwa wysoce infrastrukturalnego",
+          "Do wąsko wyspecjalizowanego budownictwa wód",
+          "Do powszechnego lądowego budownictwa",
+          "Do nowoczesnego i morskiego budownictwa"
+        ],
+        "answer": "C",
+        "explanation": "Zgodnie z klasyfikacją w podręczniku drogi, tunele oraz mosty – mimo że przekraczają rzeki – są zaliczane do obiektów budownictwa lądowego."
+      },
+      {
+        "question": "Jakie obiekty powstają w ramach prowadzonych prac z zakresu budownictwa wodnego?",
+        "options": [
+          "Maszty radiowe oraz nowe drogi międzymiastowe",
+          "Lotniska pasażerskie i wielkie miejskie pomniki",
+          "Śluzy, falochrony i duże sztuczne zbiorniki wód",
+          "Miejskie tunele drogowe i zabytkowe cmentarze"
+        ],
+        "answer": "C",
+        "explanation": "Do budowli wodnych podręcznik zalicza między innymi jazy, ujęcia wody, śluzy, sztuczne zbiorniki wodne oraz portowe falochrony."
+      },
+      {
+        "question": "W obrębie którego sektora gospodarki najczęściej umieszcza się budownictwo?",
+        "options": [
+          "W sektorze powszechnych usług",
+          "W obszarze rozwoju rolnictwa",
+          "W dziale przemysłu wydobycia",
+          "W sekcji nowoczesnego handlu"
+        ],
+        "answer": "A",
+        "explanation": "Mimo bliskich związków z produkcją przemysłową, budownictwo według klasyfikacji należy do trzeciego sektora gospodarki, czyli do usług."
+      },
+      {
+        "question": "W jakim regionie świata udział zatrudnienia w budownictwie przekracza trzydzieści pięć procent?",
+        "options": [
+          "W najbogatszych i rozwiniętych państwach Europy",
+          "W biednych i gęsto zaludnionych krajach Afryki",
+          "W bogatych i rozwijających się krajach Bliskiego Wschodu",
+          "W silnie zurbanizowanej i zasobnej Ameryce Północnej"
+        ],
+        "answer": "C",
+        "explanation": "Kraje Bliskiego Wschodu (np. Katar) notują tak wysoki wskaźnik zatrudnienia z powodu realizacji tam gigantycznych inwestycji infrastrukturalnych."
+      },
+      {
+        "question": "Który z czynników społeczno-demograficznych wyraźnie zwiększa zapotrzebowanie na budowę nowych mieszkań?",
+        "options": [
+          "Długotrwale utrzymująca się niska stopa wolnego bezrobocia",
+          "Stale wzrastający odsetek osób w wieku silnie poprodukcyjnym",
+          "Bardzo wysoki poziom mobilności oraz dzietności mieszkańców",
+          "Potężny napływ funduszy z dużych zewnętrznych źródeł dotacji"
+        ],
+        "answer": "C",
+        "explanation": "Wysoka mobilność przestrzenna ludzi, duży odsetek osób młodych oraz wysoki poziom dzietności generują silny popyt na nowe mieszkania."
+      },
+      {
+        "question": "W jakim celu europejskie władze miejskie w Pradze stosują ścisłe reguły nakazujące określony kolor dachówek?",
+        "options": [
+          "Dla wyraźnego zmniejszenia kosztów budowanych domów",
+          "W celu pełnej harmonizacji nowych budynków z krajobrazem",
+          "Jako wyraz ogromnego wsparcia dla regionalnego rzemiosła",
+          "W celu ochrony dawnych murów przed skutkami ostrej zimy"
+        ],
+        "answer": "B",
+        "explanation": "Narzucanie detali architektonicznych zapobiega niszczeniu unikalnych historycznych walorów krajobrazu i harmonizuje budynki z tradycją."
+      },
+      {
+        "question": "Dlaczego na wyspie Bora-Bora popularne turystyczne budynki wznosi się na osadzonych w płytkiej wodzie palach?",
+        "options": [
+          "Gdyż taka struktura osłabia niszczącą siłę morskich fal",
+          "Wynika to wprost z inspiracji dawnym stylem architektonicznym",
+          "Jest to efekt braku twardego gruntu do wylewania fundamentów",
+          "Ponieważ to jedyny w pełni darmowy materiał w tym regionie"
+        ],
+        "answer": "B",
+        "explanation": "Obiekty na Bora-Bora nawiązują do tradycji polinezyjskich chat, co pomaga chronić pierwotny krajobraz kulturowy."
+      },
+      {
+        "question": "Czym charakteryzuje się wyjątkowa szkocka budowla wodna znana jako Falkirk Wheel?",
+        "options": [
+          "Jest to potężny wał powstrzymujący nagłe uderzenia morskich fal",
+          "Jest to ogromna obrotowa winda dla mniejszych statków i łodzi",
+          "Jest to długi most drogowy łączący brzegi dwóch dalekich wysp",
+          "Jest to wielka betonowa zapora generująca tanią moc elektryczną"
+        ],
+        "answer": "B",
+        "explanation": "Falkirk Wheel funkcjonuje jako wodna winda obrotowa, stanowiąca rodzaj śluzy niwelującej dużą różnicę poziomów w kanałach."
+      },
+      {
+        "question": "Które zjawisko w polskim budownictwie jest przykładem ignorowania estetyki lokalnego krajobrazu przestrzennego?",
+        "options": [
+          "Historyczne drewniane dworki wznoszone na wiejskiej prowincji",
+          "Wysokie blokowiska miejskie oparte na surowej wielkiej płycie",
+          "Rozległe osiedla nowych i niskich domów jednorodzinnych",
+          "Masywne ceglane kamienice budowane w centralnych strefach"
+        ],
+        "answer": "B",
+        "explanation": "Osiedla wielkopłytowe z betonowych prefabrykatów powstawały tanio i szybko, ale nie były w żaden sposób dopasowane do wartości krajobrazowych otoczenia."
+      },
+      {
+        "question": "Na jakim poziomie utrzymuje się zazwyczaj procent pracujących w budownictwie w państwach bardzo bogatych?",
+        "options": [
+          "Wynosi on zazwyczaj znacznie powyżej dwudziestu procent",
+          "Mieści się on w bezpiecznym przedziale od pięciu do dziesięciu",
+          "Nigdy nie przekracza on stabilnego progu wynoszącego zaledwie trzy",
+          "Wzrasta on nieustannie i osiąga stale poziom trzydziestu procent"
+        ],
+        "answer": "B",
+        "explanation": "W państwach o wysokim stopniu rozwoju odsetek pracowników budownictwa w całkowitej strukturze zatrudnienia wynosi zazwyczaj od 5% do 10%."
+      },
+      {
+        "question": "Jaki dokument prawa administracyjnego zabezpiecza wygląd wznoszonych w Polsce prywatnych obiektów budowlanych?",
+        "options": [
+          "Restrykcyjna lokalna ustawa o ochronie fauny i wolnego środowiska",
+          "Złożony krajowy plan stałego zabezpieczenia porządku kulturowego",
+          "Oficjalny miejscowy plan odpowiedniego zagospodarowania przestrzeni",
+          "Wiążąca wojewódzka strategia utrzymywania dawnej infrastruktury"
+        ],
+        "answer": "C",
+        "explanation": "Zgodność powstających budowli z lokalnym krajobrazem jest w Polsce regulowana przez uchwalane przez rady gmin miejscowe plany zagospodarowania przestrzennego."
+      },
+      {
+        "question": "Jakie działania infrastrukturalne spowodowały, że Chiny stały się tak zwanym „największym placem budowy”?",
+        "options": [
+          "Wielka rozbudowa krajowych dróg, kolei oraz wznoszenie budynków",
+          "Działalność wynikająca wyłącznie z budowy autostrad obwodowych",
+          "Stałe stawianie wyłącznie bardzo wysokich bloków mieszkalnych",
+          "Program masowej produkcji sprzętu dla wszystkich robotników"
+        ],
+        "answer": "A",
+        "explanation": "Chiny zyskały to określenie ze względu na gigantyczną skalę rozwoju infrastruktury obejmującej drogi, linie kolejowe, kanały śródlądowe oraz obiekty kubaturowe."
+      },
+      {
+        "question": "W którym z podanych miejsc badacze odnaleźli zabytkowe struktury najstarszych kamiennych domostw (Knap of Howar)?",
+        "options": [
+          "Na archipelagu skalistych wysp położonym przy wybrzeżach Hiszpanii",
+          "Na smaganych silnym wiatrem Orkadach będących terytorium Szkocji",
+          "Na pacyficznych wulkanicznych wyspach z obszaru dawnej Polinezji",
+          "Na bardzo zimnych wyspach bałtyckich należących do rządu Szwecji"
+        ],
+        "answer": "B",
+        "explanation": "Knap of Howar to jedno z najstarszych zachowanych miejsc zamieszkania, zlokalizowane na szkockiej wyspie Papa Westray, wchodzącej w skład archipelagu Orkadów."
+      },
+      {
+        "question": "Jaki wskaźnik makroekonomiczny determinuje bezpośrednio zapotrzebowanie ludności na wszystkie usługi budowlane?",
+        "options": [
+          "Bieżący stopień powszechnej mechanizacji całego sektora rolniczego",
+          "Powszechny poziom oraz wysoka dynamika szybkiego rozwoju państwa",
+          "Utrzymujący się stale kierunek wiatrów zachodnich nad obszarem kraju",
+          "Mocny stopień niebezpiecznego ocieplenia powietrza w skali globalnej"
+        ],
+        "answer": "B",
+        "explanation": "Podstawowym ekonomicznym czynnikiem napędzającym szeroko rozumianą branżę budowlaną jest zawsze aktualny poziom i dynamika rozwoju gospodarczego."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Zgodnie z podziałem budownictwa, wznoszenie mostów drogowo-kolejowych nad rzekami zalicza się do budownictwa wodnego, ponieważ obiekty te znajdują się bezpośrednio nad lustrem wody.",
+        "answer": false,
+        "explanation": "Zgodnie z podręcznikiem, mosty zaliczane są do obiektów budownictwa lądowego, a nie wodnego (do którego należą np. śluzy, jazy czy falochrony)."
+      },
+      {
+        "sentence": "Mimo że budownictwo polega głównie na fizycznym wznoszeniu obiektów z wykorzystaniem maszyn i surowców, oficjalnie zaliczane jest do trzeciego sektora gospodarki, czyli usług.",
+        "answer": true,
+        "explanation": "Podręcznik wyraźnie wskazuje, że budownictwo należy do sektora usług, chociaż ze względu na swój zakres działalności jest bardzo bliskie przemysłowi."
+      },
+      {
+        "sentence": "Harmonizacja stylu budownictwa z krajobrazem polega na wymogu stosowania wyłącznie tradycyjnych, tanich i dostępnych na miejscu materiałów, co gwarantuje niskie koszty inwestycji.",
+        "answer": false,
+        "explanation": "Harmonizacja polega na wkomponowaniu budynków w otoczenie, by nie niszczyć walorów krajobrazowych (np. przez spójność architektoniczną w Pradze czy nawiązanie do tradycji na Bora-Bora), a nie na oszczędzaniu na materiałach."
+      },
+      {
+        "sentence": "Starzenie się społeczeństwa i stały wzrost odsetka osób w podeszłym wieku to zjawiska demograficzne, które według podręcznika najsilniej napędzają popyt na nowe budownictwo mieszkaniowe.",
+        "answer": false,
+        "explanation": "Jest odwrotnie – według podręcznika to wysoki odsetek osób młodych, wysoki poziom dzietności oraz mobilność ludzi są czynnikami generującymi najwyższy popyt na budownictwo mieszkaniowe."
+      },
+      {
+        "sentence": "W państwach najsłabiej rozwiniętych gospodarczo udział budownictwa w strukturze zatrudnienia jest najwyższy na świecie, ponieważ procesy budowlane opierają się tam głównie na pracy ręcznej.",
+        "answer": false,
+        "explanation": "W państwach słabo rozwiniętych odsetek ten zwykle nie przekracza 3%. Najwyższy udział odnotowuje się w krajach Bliskiego Wschodu (np. w Katarze wynosi ponad 35%) z powodu wielkich inwestycji infrastrukturalnych."
+      },
+      {
+        "sentence": "W Polsce o zachowaniu spójności wznoszonych obiektów z lokalnym krajobrazem decydują preferencje prywatnych inwestorów, gdyż przepisy państwowe nie ograniczają wyglądu budowli na terenach prywatnych.",
+        "answer": false,
+        "explanation": "Wygląd obiektów na terenach prywatnych w Polsce musi być zgody z miejscowym planem zagospodarowania przestrzennego, uchwalanym przez radę gminy lub miasta, co zapobiega niszczeniu krajobrazu."
+      },
+      {
+        "sentence": "Wznoszenie infrastruktury przesyłowej i komunikacyjnej, takiej jak linie energetyczne oraz maszty antenowe, jest klasyfikowane w geografii ekonomicznej jako element budownictwa lądowego.",
+        "answer": true,
+        "explanation": "Zgodnie z podręcznikiem, obiekty takie jak drogi, linie kolejowe, tunele, a także linie energetyczne oraz maszty antenowe należą do budownictwa lądowego."
+      },
+      {
+        "sentence": "Polskie osiedla wznoszone w technologii wielkopłytowej (z betonowych prefabrykatów) podano w podręczniku jako przykład zabudowy w pełni zharmonizowanej z walorami krajobrazowymi dzięki swojej prostocie.",
+        "answer": false,
+        "explanation": "Budownictwo wielkopłytowe w Polsce podano w podręczniku jako negatywny przykład metody szybkiej i taniej, która jednak w żaden sposób nie uwzględniała walorów krajobrazowych."
+      },
+      {
+        "sentence": "Wysoki wskaźnik zatrudnienia w budownictwie w państwach arabskich z rejonu Zatoki Perskiej wynika z realizacji wielkich projektów urbanistycznych i infrastrukturalnych.",
+        "answer": true,
+        "explanation": "Wysoki udział budownictwa w zatrudnieniu na Bliskim Wschodzie wynika z realizacji ogromnych inwestycji związanych z rozbudową infrastruktury miejskiej, turystycznej (np. stadiony w Katarze) i przemysłowej."
+      },
+      {
+        "sentence": "Działalność firm zajmujących się wyłącznie wyburzaniem starych fabryk i rozbiórką zniszczonych kamienic nie wlicza się do budownictwa, gdyż to pojęcie dotyczy jedynie wznoszenia nowych konstrukcji.",
+        "answer": false,
+        "explanation": "Podręcznik precyzuje, że budownictwo to dział gospodarki zajmujący się wznoszeniem, remontowaniem, konserwacją i rozbiórką obiektów budowlanych."
+      }
+    ]
+  }
+}

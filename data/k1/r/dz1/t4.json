@@ -1,0 +1,345 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz1-t4",
+                     "title":  "Metody prezentacji na mapach",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Metody jakościowe",
+                                              "definition":  "Służą do prezentacji informacji o rozmieszczeniu obiektów i zjawisk, np. metoda sygnaturowa, zasięgów i powierzchniowa."
+                                          },
+                                          {
+                                              "term":  "Metody ilościowe",
+                                              "definition":  "Informują o wielkości i natężeniu zjawisk, np. metoda kropkowa, izolinii, kartogramu i kartodiagramu."
+                                          },
+                                          {
+                                              "term":  "Metoda sygnaturowa",
+                                              "definition":  "Obrazuje rozmieszczenie zjawiska za pomocą umownych znaków (punktowych lub liniowych) dla obiektów zbyt małych, by ukazać je w skali mapy."
+                                          },
+                                          {
+                                              "term":  "Metoda zasięgów",
+                                              "definition":  "Prezentuje obszar występowania danego zjawiska lub obiektów (np. gatunków zwierząt) za pomocą linii lub barw, tworząc zasięg zamknięty lub otwarty."
+                                          },
+                                          {
+                                              "term":  "Metoda powierzchniowa",
+                                              "definition":  "Polega na oznaczaniu barwami powierzchni podzielonych ze względu na jedną cechę (np. gleby), gdzie obszary występowania nie zachodzą na siebie."
+                                          },
+                                          {
+                                              "term":  "Metoda kropkowa",
+                                              "definition":  "Ukazuje wielkość zjawiska za pomocą kropek o przypisanej wadze liczbowej, gdzie większe zagęszczenie kropek oznacza większe natężenie zjawiska."
+                                          },
+                                          {
+                                              "term":  "Metoda izolinii",
+                                              "definition":  "Służy do przedstawiania zjawisk zmieniających się w sposób ciągły poprzez nanoszenie linii łączących punkty o takich samych wartościach."
+                                          },
+                                          {
+                                              "term":  "Metoda kartogramu",
+                                              "definition":  "Przedstawia uśrednione wartości natężenia zjawiska (wartości względne) w granicach jednostek administracyjnych za pomocą skali barw."
+                                          },
+                                          {
+                                              "term":  "Metoda kartodiagramu",
+                                              "definition":  "Umożliwia przedstawienie wielkości, struktury lub przebiegu zjawiska za pomocą wykresów i diagramów naniesionych na mapę."
+                                          },
+                                          {
+                                              "term":  "Metoda poziomicowa",
+                                              "definition":  "Ukazuje ukształtowanie powierzchni za pomocą poziomic, czyli linii łączących punkty leżące na tej samej wysokości nad poziomem morza."
+                                          },
+                                          {
+                                              "term":  "Metoda hipsometryczna",
+                                              "definition":  "Polega na nakładaniu na mapę poziomicową barw odpowiadających poszczególnym zakresom wysokości (np. zielenie dla terenów niższych, barwy ciepłe dla wyższych)."
+                                          },
+                                          {
+                                              "term":  "Cieniowanie",
+                                              "definition":  "Zabieg graficzny imitujący oświetlenie stoków, który sprawia, że mapa staje się bardziej plastyczna."
+                                          },
+                                          {
+                                              "term":  "Izobaty",
+                                              "definition":  "Linie na mapie łączące punkty o jednakowej głębokości zbiornika wodnego."
+                                          },
+                                          {
+                                              "term":  "Izotermy",
+                                              "definition":  "Linie na mapie łączące punkty o jednakowej temperaturze powietrza."
+                                          },
+                                          {
+                                              "term":  "Izohiety",
+                                              "definition":  "Linie na mapie łączące punkty o jednakowej sumie opadów atmosferycznych."
+                                          },
+                                          {
+                                              "term":  "Izoamplitudy",
+                                              "definition":  "Linie na mapie łączące punkty o jednakowych amplitudach, np. temperatury powietrza."
+                                          },
+                                          {
+                                              "term":  "Izobary",
+                                              "definition":  "Linie na mapie łączące punkty o jednakowej wartości ciśnienia atmosferycznego."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Metoda sygnaturowa",
+                                                 "pair2":  "Lokalizacja przemysłu, surowców mineralnych lub przebieg dróg"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda zasięgów",
+                                                 "pair2":  "Występowanie wybranych gatunków zwierząt lub roślin"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda powierzchniowa",
+                                                 "pair2":  "Rozmieszczenie stref klimatycznych lub typów gleb (obszary rozłączne)"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda kropkowa",
+                                                 "pair2":  "Rozmieszczenie ludności (zagęszczenie kropek o określonej wadze)"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda izolinii",
+                                                 "pair2":  "Linie łączące punkty o tej samej wartości (np. temperatury, opadów)"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda kartogramu",
+                                                 "pair2":  "Wskaźniki względne (np. stopa bezrobocia) w granicach administracyjnych"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda kartodiagramu",
+                                                 "pair2":  "Wielkość lub struktura zjawiska (np. zatrudnienia) na wykresie umieszczonym na mapie"
+                                             },
+                                             {
+                                                 "pair1":  "Metoda hipsometryczna",
+                                                 "pair2":  "Barwy od zieleni (niziny) do czerwieni/brązu (góry) między poziomicami"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Do której grupy metod kartograficznych należy zaliczyć metodę sygnaturową oraz metodę zasięgów?",
+                                      "options":  [
+                                                      "Do metod ilościowych, służących do przedstawiania wielkości i natężenia zjawisk.",
+                                                      "Do metod jakościowych, służących do informowania o rozmieszczeniu obiektów.",
+                                                      "Do metod ilościowych, wykorzystujących izolinie do łączenia punktów o tej samej wartości.",
+                                                      "Do metod jakościowych, polegających na nanoszeniu na mapę wykresów i diagramów."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metoda sygnaturowa i metoda zasięgów to metody jakościowe, które służą do informowania o rozmieszczeniu obiektów i zjawisk."
+                                  },
+                                  {
+                                      "question":  "Na czym polega różnica w doborze barw w metodzie hipsometrycznej w odniesieniu do ukształtowania terenu?",
+                                      "options":  [
+                                                      "Tereny położone niżej oznacza się kolorami cieplejszymi (żółcie, pomarańcze), a wyżej – zimniejszymi (zielenie).",
+                                                      "Tereny położone niżej oznacza się kolorami zimniejszymi (zielenie), a wyżej – cieplejszymi (żółcie, pomarańcze).",
+                                                      "Obszary wodne przedstawia się w odcieniach zieleni, natomiast lądy w odcieniach brązu zależnie od wysokości.",
+                                                      "Barwy dobiera się dowolnie, pod warunkiem zachowania kontrastu między stokami oświetlonymi a zacienionymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W metodzie hipsometrycznej terenom położonym niżej odpowiadają kolory zimniejsze (zielenie), a terenom leżącym wyżej – kolory cieplejsze (żółcie, pomarańcze, czerwienie)."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych definicji poprawnie opisuje metodę powierzchniową stosowaną na mapach?",
+                                      "options":  [
+                                                      "Polega na oznaczaniu barwami powierzchni, na które podzielono obszar ze względu na jedną cechę, bez uwzględniania charakterystyki ilościowej.",
+                                                      "Polega na przedstawianiu uśrednionej wartości natężenia zjawiska w granicach jednostek administracyjnych za pomocą skali barw.",
+                                                      "Polega na nanoszeniu na mapę linii łączących punkty o takich samych wartościach danego zjawiska zmieniającego się w sposób ciągły.",
+                                                      "Polega na umieszczaniu na mapie wykresów lub diagramów prezentujących strukturę zjawiska w określonych punktach lub obszarach."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Metoda powierzchniowa polega na oznaczaniu barwami powierzchni podzielonych ze względu na jedną określoną cechę, przy czym podział ten nie uwzględnia charakterystyki ilościowej."
+                                  },
+                                  {
+                                      "question":  "Jak nazywają się linie łączące na mapie punkty o jednakowej sumie opadów atmosferycznych?",
+                                      "options":  [
+                                                      "Izobary.",
+                                                      "Izohiety.",
+                                                      "Izobaty.",
+                                                      "Izohipsy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Izohiety to linie na mapie łączące punkty o jednakowej sumie opadów atmosferycznych."
+                                  },
+                                  {
+                                      "question":  "Która metoda prezentacji danych pozwala na odróżnienie zasięgu zamkniętego od zasięgu otwartego?",
+                                      "options":  [
+                                                      "Metoda powierzchniowa, gdzie obszary występowania zjawisk nigdy na siebie nie nachodzą.",
+                                                      "Metoda sygnaturowa, która stosuje znaki punktowe dla obiektów całkiem zamkniętych w skali mapy.",
+                                                      "Metoda zasięgów, gdzie zasięg otwarty wykracza poza mapę i może być oznaczony niepełną linią.",
+                                                      "Metoda kartogramu, która zamyka wartości zjawiska w granicach jednostek administracyjnych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "W metodzie zasięgów, jeśli kontur tworzy pełną figurę, jest to zasięg zamknięty; jeśli wykracza poza mapę, mówi się o zasięgu otwartym."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób metoda kropkowa informuje o natężeniu prezentowanego zjawiska?",
+                                      "options":  [
+                                                      "Poprzez zróżnicowanie wielkości kropek, gdzie większe kropki oznaczają wyższą wartość bezwzględną zjawiska.",
+                                                      "Poprzez zagęszczenie kropek, gdzie im większe zagęszczenie, tym większe natężenie zjawiska w danym miejscu.",
+                                                      "Poprzez zastosowanie różnych kolorów kropek, które odpowiadają przedziałom wartości w legendzie mapy.",
+                                                      "Poprzez umieszczenie kropek w centrum jednostek administracyjnych, co wskazuje na średnią wartość dla obszaru."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W metodzie kropkowej im większe jest zagęszczenie kropek, tym większe jest natężenie danego zjawiska."
+                                  },
+                                  {
+                                      "question":  "Którą metodę kartograficzną zastosowano na mapie, jeśli przedstawia ona rozmieszczenie surowców mineralnych za pomocą piktogramów?",
+                                      "options":  [
+                                                      "Metodę powierzchniową.",
+                                                      "Metodę sygnaturową.",
+                                                      "Metodę kartodiagramu.",
+                                                      "Metodę kropkową."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metoda sygnaturowa służy do obrazowania rozmieszczenia zjawisk za pomocą znaków umownych, np. piktogramów naśladujących wygląd obiektów, jak w przypadku surowców mineralnych."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się metoda kartogramu w odróżnieniu od metody kartodiagramu?",
+                                      "options":  [
+                                                      "Prezentuje wartości względne (uśrednione natężenie) w granicach jednostek administracyjnych za pomocą skali barw.",
+                                                      "Umożliwia przedstawienie struktury lub przebiegu zjawiska za pomocą wykresów naniesionych na mapę.",
+                                                      "Służy do przedstawiania zjawisk zmieniających się w sposób ciągły za pomocą linii łączących punkty o tej samej wartości.",
+                                                      "Wykorzystuje sygnatury punktowe do wskazania dokładnej lokalizacji obiektów, których nie można ukazać w skali."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Metoda kartogramu polega na przedstawianiu uśrednionej wartości natężenia zjawiska (wartości względne) w granicach danego obszaru za pomocą skali barw."
+                                  },
+                                  {
+                                      "question":  "Który z poniższych przykładów danych najlepiej przedstawić za pomocą metody izolinii?",
+                                      "options":  [
+                                                      "Rozmieszczenie upraw zbóż na danym kontynencie.",
+                                                      "Lokalizację największych miast i ich funkcje administracyjne.",
+                                                      "Wartości ciśnienia atmosferycznego zmieniające się w sposób ciągły.",
+                                                      "Strukturę zatrudnienia w poszczególnych województwach."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Metoda izolinii służy do przedstawiania zjawisk zmieniających się w przestrzeni w sposób ciągły, takich jak ciśnienie atmosferyczne (izobary)."
+                                  },
+                                  {
+                                      "question":  "Do jakiego rodzaju sygnatur w metodzie sygnaturowej zaliczamy oznaczenie przebiegu drogi lub rzeki?",
+                                      "options":  [
+                                                      "Do sygnatur punktowych.",
+                                                      "Do sygnatur powierzchniowych.",
+                                                      "Do sygnatur liniowych.",
+                                                      "Do sygnatur ilościowych."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Sygnatury liniowe obrazują zjawiska i obiekty o charakterze liniowym, takie jak drogi czy rzeki."
+                                  },
+                                  {
+                                      "question":  "Jeśli na mapie widzimy obszary oznaczone różnymi kolorami, które nie zachodzą na siebie (np. strefy klimatyczne), to zastosowano:",
+                                      "options":  [
+                                                      "Metodę zasięgów.",
+                                                      "Metodę kartogramu.",
+                                                      "Metodę powierzchniową.",
+                                                      "Metodę hipsometryczną."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Metodę powierzchniową stosuje się wtedy, gdy obszary występowania poszczególnych zjawisk (np. stref klimatycznych) nie nachodzą na siebie."
+                                  },
+                                  {
+                                      "question":  "Którą metodę najlepiej wykorzystać do przedstawienia stopy bezrobocia w podziale na województwa?",
+                                      "options":  [
+                                                      "Metodę kartodiagramu, ponieważ pozwala ona na pokazanie struktury bezrobotnych według płci.",
+                                                      "Metodę kartogramu, ponieważ prezentuje ona wartości względne uśrednione dla jednostek administracyjnych.",
+                                                      "Metodę powierzchniową, ponieważ bezrobocie występuje na całej powierzchni danego województwa.",
+                                                      "Metodę kropkową, ponieważ każda kropka może symbolizować jednego bezrobotnego mieszkańca."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Do prezentacji stopy bezrobocia (wartości względnej) w granicach jednostek administracyjnych stosuje się metodę kartogramu."
+                                  },
+                                  {
+                                      "question":  "Która metoda będzie najodpowiedniejsza do zaprezentowania struktury zatrudnienia w miastach wojewódzkich?",
+                                      "options":  [
+                                                      "Metoda kartogramu, ukazująca natężenie zjawiska barwą.",
+                                                      "Metoda sygnaturowa, wskazująca lokalizację miast.",
+                                                      "Metoda kartodiagramu, wykorzystująca wykresy naniesione na mapę.",
+                                                      "Metoda izolinii, łącząca miasta o podobnej strukturze zatrudnienia."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Metoda kartodiagramu umożliwia przedstawienie struktury zjawiska (np. zatrudnienia) za pomocą wykresów naniesionych na mapę."
+                                  },
+                                  {
+                                      "question":  "W której metodzie do każdego znaku graficznego (np. kropki) przypisana jest konkretna waga liczbowa?",
+                                      "options":  [
+                                                      "W metodzie sygnaturowej.",
+                                                      "W metodzie kropkowej.",
+                                                      "W metodzie zasięgów.",
+                                                      "W metodzie kartogramu."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W metodzie kropkowej każda kropka ma przypisaną wartość liczbową, zwaną wagą kropki."
+                                  },
+                                  {
+                                      "question":  "Którą metodę należy wybrać, aby przedstawić rozmieszczenie gleb, wiedząc, że różne typy gleb nie występują w tym samym miejscu jednocześnie?",
+                                      "options":  [
+                                                      "Metodę zasięgów, gdyż pozwala nakładać na siebie różne zjawiska.",
+                                                      "Metodę powierzchniową, gdyż zjawiska te nie nachodzą na siebie.",
+                                                      "Metodę kartogramu, gdyż gleby są związane z jednostkami administracyjnymi.",
+                                                      "Metodę sygnaturową, gdyż typy gleb są obiektami punktowymi."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Metodę powierzchniową stosuje się do oznaczania barwami powierzchni, gdy obszary występowania zjawisk (np. rozmieszczenie gleb) nie nachodzą na siebie."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "W metodzie hipsometrycznej kolory cieplejsze (np. żółcie i czerwienie) są przypisane terenom położonym niżej niż tereny oznaczone kolorami zimniejszymi (np. zieleniami).",
+                                           "answer":  false,
+                                           "explanation":  "W metodzie hipsometrycznej kolory zimniejsze (zielenie) przypisane są terenom położonym niżej, a kolory cieplejsze terenom leżącym wyżej."
+                                       },
+                                       {
+                                           "sentence":  "Metoda sygnaturowa służy do przedstawiania na mapie obiektów, które są zbyt małe, aby można je było ukazać w danej skali.",
+                                           "answer":  true,
+                                           "explanation":  "Metoda sygnaturowa wykorzystuje umowne znaki (sygnatury) do prezentacji obiektów, których nie można ukazać w skali mapy."
+                                       },
+                                       {
+                                           "sentence":  "Metoda zasięgów umożliwia przedstawienie na jednej mapie kilku zjawisk, których obszary występowania nakładają się na siebie.",
+                                           "answer":  true,
+                                           "explanation":  "Metoda zasięgów pozwala przedstawić na mapie kilka nakładających się na siebie zjawisk."
+                                       },
+                                       {
+                                           "sentence":  "Metoda powierzchniowa polega na różnicowaniu natężenia barwy w celu uwzględnienia charakterystyki ilościowej zjawiska na danym obszarze.",
+                                           "answer":  false,
+                                           "explanation":  "Metoda powierzchniowa polega na podziale obszaru ze względu na cechę jakościową i nie uwzględnia charakterystyki ilościowej."
+                                       },
+                                       {
+                                           "sentence":  "Metoda kropkowa zaliczana jest do metod jakościowych, ponieważ wskazuje jedynie miejsce występowania zjawiska, a nie jego wielkość.",
+                                           "answer":  false,
+                                           "explanation":  "Metoda kropkowa jest metodą ilościową, w której każda kropka ma przypisaną wartość liczbową (wagę)."
+                                       },
+                                       {
+                                           "sentence":  "Izohipsy to linie na mapie łączące punkty o jednakowej wysokości nad poziomem morza.",
+                                           "answer":  true,
+                                           "explanation":  "Izohipsy (poziomice) to linie łączące punkty o takiej samej wysokości nad poziomem morza."
+                                       },
+                                       {
+                                           "sentence":  "Metodę kartogramu stosuje się do prezentacji wartości bezwzględnych, takich jak całkowita liczba ludności w danym województwie.",
+                                           "answer":  false,
+                                           "explanation":  "Metodą kartogramu prezentuje się wartości względne (np. gęstość zaludnienia), a nie bezwzględne."
+                                       },
+                                       {
+                                           "sentence":  "Do przedstawienia stopy bezrobocia w podziale na powiaty najodpowiedniejszą metodą będzie metoda kartogramu.",
+                                           "answer":  true,
+                                           "explanation":  "Stopa bezrobocia jest wartością względną, którą prezentuje się metodą kartogramu na tle jednostek administracyjnych."
+                                       },
+                                       {
+                                           "sentence":  "Metoda kartodiagramu pozwala na naniesienie na mapę wykresów ilustrujących wielkość, strukturę lub przebieg zjawiska.",
+                                           "answer":  true,
+                                           "explanation":  "Metoda kartodiagramu umożliwia przedstawienie wielkości, struktury lub przebiegu zjawiska za pomocą wykresów i diagramów naniesionych na mapę."
+                                       },
+                                       {
+                                           "sentence":  "Wybór metody prezentacji informacji na mapie zależy wyłącznie od tematu mapy i nie ma związku z jej skalą.",
+                                           "answer":  false,
+                                           "explanation":  "Wybór metody prezentacji zależy od tematu mapy, jej przeznaczenia oraz skali."
+                                       },
+                                       {
+                                           "sentence":  "Numeryczny model terenu składa się z punktów, którym przypisane są trzy parametry: szerokość geograficzna, długość geograficzna oraz wysokość bezwzględna.",
+                                           "answer":  true,
+                                           "explanation":  "Numeryczny model terenu składa się z punktów, którym przypisane są te trzy parametry."
+                                       },
+                                       {
+                                           "sentence":  "Metodę powierzchniową stosuje się głównie wtedy, gdy obszary występowania poszczególnych zjawisk na siebie nachodzą.",
+                                           "answer":  false,
+                                           "explanation":  "Metodę powierzchniową stosuje się wtedy, gdy obszary występowania poszczególnych zjawisk nie nachodzą na siebie."
+                                       }
+                                   ]
+                 }
+}

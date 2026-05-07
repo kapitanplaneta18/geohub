@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz1-t5",
+    "title": "Podstawowe wskaźniki rozwoju krajów",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Rozwój społeczno-gospodarczy",
+        "definition": "Obejmuje wzrost produkcji dóbr i usług, zwiększenie zamożności społeczeństwa oraz poprawę jakości jego życia."
+      },
+      {
+        "term": "PKB (Produkt krajowy brutto)",
+        "definition": "Wartość rynkowa wszystkich dóbr i usług wytworzonych w kraju w danym okresie, niezależnie od typu własności."
+      },
+      {
+        "term": "PKB per capita",
+        "definition": "Produkt krajowy brutto w przeliczeniu na jednego mieszkańca, stosowany do porównywania wartości PKB w różnych krajach."
+      },
+      {
+        "term": "Parytet siły nabywczej",
+        "definition": "Metoda obliczania wskaźników (np. PKB), która uwzględnia różnice w poziomie cen i sile nabywczej waluty w poszczególnych krajach."
+      },
+      {
+        "term": "WDB (Wartość dodana brutto)",
+        "definition": "Wartość wyrobów i usług wytworzonych w ciągu roku przez krajowe podmioty pomniejszona o koszty związane z ich wytworzeniem."
+      },
+      {
+        "term": "HDI (Human Development Index)",
+        "definition": "Wskaźnik syntetyczny oceniający poziom rozwoju społeczno-gospodarczego państw, przyjmujący wartości od 0 do 1."
+      },
+      {
+        "term": "Składowa HDI: zdrowie",
+        "definition": "Oczekiwana długość trwania życia w momencie urodzenia."
+      },
+      {
+        "term": "Składowa HDI: edukacja",
+        "definition": "Oczekiwana liczba lat edukacji dla dzieci rozpoczynających naukę oraz średnia liczba lat edukacji mieszkańców w wieku 25 lat i starszych."
+      },
+      {
+        "term": "Składowa HDI: dochód",
+        "definition": "Dochód narodowy per capita wyrażony w USD, liczony według parytetu siły nabywczej danej waluty."
+      },
+      {
+        "term": "Państwa bardzo wysoko rozwinięte",
+        "definition": "Kraje o wartości wskaźnika HDI powyżej 0,799, do których należy m.in. Polska."
+      },
+      {
+        "term": "Państwa wysoko rozwinięte",
+        "definition": "Grupa krajów, w których wartość wskaźnika HDI mieści się w przedziale od 0,700 do 0,799."
+      },
+      {
+        "term": "Państwa średnio rozwinięte",
+        "definition": "Kraje, w których wartość syntetycznego miernika HDI wynosi od 0,550 do 0,699."
+      },
+      {
+        "term": "Państwa słabo rozwinięte",
+        "definition": "Kraje o wartości HDI poniżej 0,550, charakteryzujące się ogromnym udziale rolnictwa w PKB, np. Czad i Mali."
+      },
+      {
+        "term": "MPI (Multidimensional Poverty Index)",
+        "definition": "Wielokryterialny wskaźnik ubóstwa obliczany przez ONZ na podstawie 10 wskaźników dla państw o najniższych wartościach HDI."
+      },
+      {
+        "term": "Dochód narodowy (DN)",
+        "definition": "Wartość Produktu Narodowego Netto (PNN) pomniejszona o wartość podatków pośrednich, np. VAT czy akcyzę."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "PKB per capita",
+        "pair2": "Produkt krajowy brutto w przeliczeniu na jednego mieszkańca"
+      },
+      {
+        "pair1": "WDB (Wartość dodana brutto)",
+        "pair2": "Wartość produktów i usług pomniejszona o koszty ich wytworzenia"
+      },
+      {
+        "pair1": "HDI (Human Development Index)",
+        "pair2": "Syntetyczny miernik poziomu rozwoju państw przyjmujący wartości od 0 do 1"
+      },
+      {
+        "pair1": "MPI (Multidimensional Poverty Index)",
+        "pair2": "Wielokryterialny wskaźnik ubóstwa zastępujący dawny miernik HPI"
+      },
+      {
+        "pair1": "Polska",
+        "pair2": "Kraj bardzo wysoko rozwinięty (HDI powyżej 0,799)"
+      },
+      {
+        "pair1": "Czad",
+        "pair2": "Kraj słabo rozwinięty o wysokim udziale rolnictwa w strukturze PKB"
+      },
+      {
+        "pair1": "Produkt Narodowy Netto (PNN)",
+        "pair2": "Wartość PNB pomniejszona o amortyzację, czyli zużycie środków trwałych"
+      },
+      {
+        "pair1": "Parytet siły nabywczej",
+        "pair2": "Metoda stosowana w statystykach niwelująca różnice w poziomie cen między państwami"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co oznacza skrót PKB stosowany do oceny wielkości gospodarki?",
+        "options": [
+          "Produkt krajowy brutto",
+          "Produkt krajowy badany",
+          "Parytet kapitału brutto",
+          "Parytet krajowy brutto"
+        ],
+        "answer": "A",
+        "explanation": "PKB to produkt krajowy brutto, oznaczający wartość rynkową wszystkich dóbr i usług wytworzonych w kraju."
+      },
+      {
+        "question": "Jak nazywa się wskaźnik syntetyczny oceniający rozwój społeczno-gospodarczy państw?",
+        "options": [
+          "Wskaźnik ubóstwa MPI",
+          "Wskaźnik rozwoju HDI",
+          "Wskaźnik dochodu PNN",
+          "Wskaźnik analizy WDB"
+        ],
+        "answer": "B",
+        "explanation": "HDI (Human Development Index) to syntetyczny wskaźnik mierzący rozwój społeczno-gospodarczy państw."
+      },
+      {
+        "question": "Czym z reguły charakteryzują się kraje o bardzo niskim poziomie rozwoju?",
+        "options": [
+          "Wysokimi nakładami na badania i rozwój",
+          "Wyraźną przewagą usług w strukturze PKB",
+          "Bardzo wysokim odsetkiem analfabetyzmu",
+          "Szybko starzejącym się społeczeństwem"
+        ],
+        "answer": "C",
+        "explanation": "W państwach słabo rozwiniętych poziom analfabetyzmu często przekracza 50% z powodu słabego dostępu do edukacji."
+      },
+      {
+        "question": "Który z poniższych czynników przyczynia się do wzrostu dysproporcji na świecie?",
+        "options": [
+          "Powszechny i równy dostęp do edukacji",
+          "Stabilne rządy i brak wojen domowych",
+          "Ujemny wskaźnik przyrostu naturalnego",
+          "Gwałtowny spadek cen różnych surowców"
+        ],
+        "answer": "D",
+        "explanation": "Spadek cen surowców uderza w gospodarki krajów słabo rozwiniętych, które często opierają się na ich wydobyciu i eksporcie."
+      },
+      {
+        "question": "Do jakiej grupy państw pod względem wartości wskaźnika HDI z 2018 roku należy Polska?",
+        "options": [
+          "Państw bardzo wysoko rozwiniętych",
+          "Państw jedynie średnio rozwiniętych",
+          "Państw o bardzo niskim rozwoju MPI",
+          "Państw ewidentnie słabo rozwiniętych"
+        ],
+        "answer": "A",
+        "explanation": "Z wynikiem 0,872 Polska zajmuje pozycję w najwyższej kategorii państw – bardzo wysoko rozwiniętych."
+      },
+      {
+        "question": "Który z poniższych wskaźników NIE jest składnikiem wyznaczania ogólnego poziomu HDI?",
+        "options": [
+          "Oczekiwana długość trwania ludzkiego życia",
+          "Średnia liczba lat edukacji mieszkańców",
+          "Odsetek osób zatrudnionych w branży usług",
+          "Dochód narodowy w przeliczeniu na osobę"
+        ],
+        "answer": "C",
+        "explanation": "Struktura zatrudnienia (udział usług w gospodarce) nie jest jednym z czterech kryteriów wchodzących w skład wskaźnika HDI."
+      },
+      {
+        "question": "Jak nazywa się miernik powstający po pomniejszeniu produktu narodowego o amortyzację?",
+        "options": [
+          "Wskaźnik rozwoju społecznego",
+          "Produkt narodowy w ujęciu netto",
+          "Produkt krajowy ujęty w brutto",
+          "Wartość dodana produktów brutto"
+        ],
+        "answer": "B",
+        "explanation": "Produkt narodowy netto (PNN) to wartość PNB pomniejszona o amortyzację, czyli zużycie środków trwałych."
+      },
+      {
+        "question": "Z jakimi wartościami indeksu HDI bezpośrednio wiąże się kategoria państw słabo rozwiniętych?",
+        "options": [
+          "Przyjmującymi wartość między 0,700-0,799",
+          "Mieszczącymi się w przedziale 0,550-0,699",
+          "Wynoszącymi w każdym wypadku ponad 0,799",
+          "Będącymi wskaźnikami o wartości pod 0,550"
+        ],
+        "answer": "D",
+        "explanation": "Państwa słabo rozwinięte to według metodologii wskaźnika HDI te, które przyjmują jego wartości poniżej progu 0,550."
+      },
+      {
+        "question": "Jakie państwa na świecie mogą odznaczać się dominującym (ponad 40%) udziałem rolnictwa w tworzeniu PKB?",
+        "options": [
+          "Kraje bogate w ropę naftową, na przykład Irak",
+          "Kraje bardzo słabo rozwinięte, na przykład Czad",
+          "Kraje szybko rozwijające się, na przykład Polska",
+          "Kraje o ujemnym wzroście, jak chociażby Japonia"
+        ],
+        "answer": "B",
+        "explanation": "W krajach najsłabiej rozwiniętych gospodarczo, takich jak Czad czy Mali, rolnictwo odpowiada za 40-60% tworzenia PKB."
+      },
+      {
+        "question": "Dla jakiej konkretnej grupy krajów Organizacja Narodów Zjednoczonych wylicza wskaźnik ubóstwa MPI?",
+        "options": [
+          "Dla wszystkich członków w strukturach ONZ",
+          "Tylko dla państw z najniższym PKB w Azji",
+          "Tylko dla krajów o najniższym wyniku HDI",
+          "Dla krajów notujących najwyższy przyrost"
+        ],
+        "answer": "C",
+        "explanation": "Multidimensional Poverty Index (MPI) jest obliczany wyłącznie dla państw osiągających najniższe wartości syntetycznego wskaźnika HDI."
+      },
+      {
+        "question": "Zasadnicza różnica między metodologią WDB a zwykłym określaniem wartości produkcji polega na tym, że WDB:",
+        "options": [
+          "Odejmuje od produktów koszty ich wytworzenia",
+          "Bazuje tylko na dochodach spółek państwowych",
+          "Opiera się wyłącznie na eksporcie materiałów",
+          "Uwzględnia wartość międzynarodowego importu"
+        ],
+        "answer": "A",
+        "explanation": "Wartość dodana brutto (WDB) to wartość wytworzonych wyrobów i usług pomniejszona o poniesione koszty związane z ich wytworzeniem."
+      },
+      {
+        "question": "Co stanowi najbardziej charakterystyczną cechę struktury wiekowej w krajach bardzo wysoko rozwiniętych?",
+        "options": [
+          "Wyraźna dominacja dzieci w strukturze wieku",
+          "Bardzo wysoki wskaźnik przyrostu ludności",
+          "Niewielki udział dorosłych na rynku pracy",
+          "Wysoki odsetek obywateli powyżej 65. roku"
+        ],
+        "answer": "D",
+        "explanation": "Demografia państw o najwyższym poziomie rozwoju wykazuje cechy starzenia się społeczeństwa z rosnącym udziałem osób w wieku 65 lat i starszych."
+      },
+      {
+        "question": "Z jakiego konkretnego powodu przy zestawianiu PKB poszczególnych państw stosuje się parytet siły nabywczej?",
+        "options": [
+          "Eliminuje on zyski z zagranicznych korporacji",
+          "Niweluje on zjawisko różnic w poziomie cen",
+          "Pomija on całkowicie kwestię szarej strefy",
+          "Sztucznie zawyża PKB wszystkich państw Unii"
+        ],
+        "answer": "B",
+        "explanation": "Parytet siły nabywczej niweluje dysproporcje cenowe i wartość walut (np. pozwala ująć, że w jednym kraju za tę samą kwotę można kupić więcej dóbr)."
+      },
+      {
+        "question": "Dlaczego wysokie PKB per capita w krajach naftowych nie gwarantuje im najwyższego szczebla we wskaźniku HDI?",
+        "options": [
+          "PKB ignoruje całkowicie koszty wydobycia ropy",
+          "Zasady HDI stale promują kraje o niskim progu",
+          "HDI bierze pod uwagę także zdrowie i edukację",
+          "Wysokie PKB obniża oczekiwaną długość życia"
+        ],
+        "answer": "C",
+        "explanation": "HDI jest wskaźnikiem wielowymiarowym; nawet przy wielkim bogactwie finansowym państwo straci punkty przy niskiej długości życia lub niedoborach w edukacji."
+      },
+      {
+        "question": "Jak nazywamy miernik gospodarczy powstający wskutek odjęcia podatków pośrednich (VAT i akcyzy) od wartości PNN?",
+        "options": [
+          "Jako globalny wskaźnik poziomu ubóstwa ludzi",
+          "Jako uśredniony parytet siły nabywczej krajów",
+          "Jako kluczowy wskaźnik nowej wartości dodanej",
+          "Jako wielkość dochodu narodowego danego państwa"
+        ],
+        "answer": "D",
+        "explanation": "Wartość Produktu Narodowego Netto (PNN) pomniejszona o wartość podatków pośrednich tworzy ostatecznie wskaźnik nazywany Dochodem Narodowym (DN)."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Produkt krajowy brutto (PKB) uwzględnia wartość wszystkich dóbr i usług wytworzonych na terenie danego kraju, niezależnie od tego, czy zostały wyprodukowane przez podmioty krajowe, czy zagraniczne.",
+        "answer": true,
+        "explanation": "PKB to wartość rynkowa wszystkich dóbr i usług wytworzonych w kraju w danym okresie, co obejmuje produkcję niezależnie od typu własności, w tym firmy zagraniczne."
+      },
+      {
+        "sentence": "Do wskaźników składających się na syntetyczny miernik HDI należy stopa bezrobocia oraz procentowy udział usług w strukturze zatrudnienia.",
+        "answer": false,
+        "explanation": "HDI nie uwzględnia wprost struktury zatrudnienia ani bezrobocia. Składa się z: oczekiwanej długości życia, lat edukacji (oczekiwanych i średnich) oraz dochodu narodowego per capita (PPP)."
+      },
+      {
+        "sentence": "Wskaźnik ubóstwa MPI (Multidimensional Poverty Index) jest obliczany przez ONZ dla wszystkich państw na świecie w celu precyzyjnego porównania globalnego poziomu ubóstwa.",
+        "answer": false,
+        "explanation": "Miernik MPI nie jest obliczany dla wszystkich państw. ONZ wylicza go wyłącznie dla krajów o najniższych wartościach wskaźnika HDI."
+      },
+      {
+        "sentence": "Pojęcie rozwoju społeczno-gospodarczego jest szersze niż wzrost gospodarczy, ponieważ oprócz wzrostu produkcji uwzględnia również poprawę jakości życia oraz zwiększenie zamożności społeczeństwa.",
+        "answer": true,
+        "explanation": "Rozwój społeczno-gospodarczy wykracza poza wskaźniki produkcyjne, kładąc nacisk także na warunki życiowe, zdrowie i poziom bogactwa obywateli."
+      },
+      {
+        "sentence": "Wartość dodana brutto (WDB) w fabryce samochodów stanowi całkowitą rynkową wartość gotowego pojazdu, włączając w to wartość wszystkich części sprowadzonych z zagranicy.",
+        "answer": false,
+        "explanation": "WDB pomniejsza wartość wyrobów o koszty ich wytworzenia. Do WDB nie wlicza się wartości komponentów wyprodukowanych za granicą."
+      },
+      {
+        "sentence": "Stosowanie parytetu siły nabywczej przy obliczaniu PKB pozwala na zniwelowanie różnic w poziomie cen towarów i usług pomiędzy poszczególnymi państwami.",
+        "answer": true,
+        "explanation": "Parytet siły nabywczej urealnia porównania gospodarcze, uwzględniając, że za tę samą kwotę (np. 1 USD) można kupić inną ilość dóbr w różnych krajach."
+      },
+      {
+        "sentence": "Spadek cen surowców mineralnych uderza przede wszystkim w gospodarki państw wysoko rozwiniętych, zmuszając je do szukania nowych źródeł zaopatrzenia.",
+        "answer": false,
+        "explanation": "Spadek cen surowców uderza głównie w kraje słabo rozwinięte i rozwijające się, których gospodarki w dużej mierze opierają się na ich wydobyciu i eksporcie."
+      },
+      {
+        "sentence": "Polska zalicza się do grupy państw bardzo wysoko rozwiniętych, w których wartość syntetycznego wskaźnika HDI przekracza próg 0,799.",
+        "answer": true,
+        "explanation": "Polska z wynikiem HDI 0,872 (według danych z 2018 r.) znajduje się w najwyższej kategorii państw, wyznaczonej dla wartości powyżej 0,799."
+      },
+      {
+        "sentence": "W państwach o bardzo niskim poziomie rozwoju gospodarczego sektor usług generuje większość PKB ze względu na brak nowoczesnego przemysłu.",
+        "answer": false,
+        "explanation": "W państwach najsłabiej rozwiniętych gospodarczo (np. Czad, Mali) to nie usługi, lecz rolnictwo ma dominujący udział w tworzeniu PKB (często 40-60%)."
+      },
+      {
+        "sentence": "Zgodnie z metodologią ONZ, im większą wartość przyjmuje wskaźnik MPI, tym wyższy jest poziom ubóstwa w badanym państwie.",
+        "answer": true,
+        "explanation": "Wskaźnik Multidimensional Poverty Index jest skonstruowany tak, że wyższe wartości liczbowe oznaczają głębszy poziom ubóstwa społecznego i materialnego."
+      },
+      {
+        "sentence": "Podatki pośrednie, takie jak podatek VAT oraz akcyza, wlicza się do ostatecznej wartości Dochodu Narodowego (DN).",
+        "answer": false,
+        "explanation": "Dochód narodowy (DN) to wartość Produktu Narodowego Netto (PNN) pomniejszona właśnie o wartość podatków pośrednich, czyli VAT-u i akcyzy."
+      },
+      {
+        "sentence": "Wysoki przyrost naturalny jest jedną z przyczyn pogłębiania się dysproporcji w rozwoju państw, ponieważ w krajach biednych utrudnia on zapewnienie dostatecznej ilości pożywienia.",
+        "answer": true,
+        "explanation": "Eksplozja demograficzna w państwach słabo rozwiniętych stanowi ogromne obciążenie dla zasobów żywnościowych i usług społecznych, co spowalnia ich rozwój."
+      }
+    ]
+  }
+}

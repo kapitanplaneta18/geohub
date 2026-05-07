@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "id": "k2-r-dz2-t8",
+    "title": "Kręgi kulturowe",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Kręgi kulturowe (cywilizacyjne)",
+        "definition": "Obszary zamieszkiwane przez ludność połączoną od wielu pokoleń wspólną kulturą, wyodrębnione głównie na podstawie zróżnicowania religijnego i językowego."
+      },
+      {
+        "term": "Krąg zachodni",
+        "definition": "Krąg ukształtowany na fundamencie chrześcijaństwa i dorobku antyku (Rzymian i Greków), gdzie kluczowymi wartościami są indywidualizm, swoboda jednostki oraz poszanowanie godności. Obejmuje m.in. Europę, Amerykę Północną i Australię."
+      },
+      {
+        "term": "Krąg prawosławny",
+        "definition": "Krąg charakteryzujący się bliskim związkiem władz kościelnych i państwowych, co buduje silną, scentralizowaną władzę, oraz częstym ograniczaniem wolności gospodarczej obywateli przez państwo."
+      },
+      {
+        "term": "Krąg islamski",
+        "definition": "Krąg ukształtowany przez islam, gdzie w wielu krajach o prawie decydują nakazy religijne (szariat). Oficjalnie uznawane jest w nim wielożeństwo, a w tradycyjnych rejonach kobiety mają być bezwzględnie posłuszne mężczyznom."
+      },
+      {
+        "term": "Krąg hinduski",
+        "definition": "Krąg kulturowy, w którym mimo zakazów prawnych nadal funkcjonuje podział na kasty, a próby awansu społecznego uważa się za podważanie religijnego porządku świata."
+      },
+      {
+        "term": "Krąg afrykański",
+        "definition": "Krąg cechujący się silną identyfikacją plemienną, gdzie wpływy dawnych państw kolonialnych, chrześcijaństwo i islam mieszają się z tradycyjnymi, prastarymi lokalnymi wierzeniami."
+      },
+      {
+        "term": "Krąg japoński",
+        "definition": "Krąg kulturowy kładący nacisk na przedkładanie dobra ogółu nad dobro jednostki, szacunek do władzy, hierarchiczność i ogromną pracowitość, która prowadzi niekiedy do karoshi (śmierci z przepracowania)."
+      },
+      {
+        "term": "Krąg latynoamerykański",
+        "definition": "Krąg, w którym dominuje język hiszpański (w Brazylii portugalski) i katolicyzm, ukształtowany jako mieszanka wierzeń rdzennych mieszkańców, afrykańskich niewolników i europejskich kolonizatorów."
+      },
+      {
+        "term": "Krąg chiński",
+        "definition": "Krąg silnie ukształtowany przez konfucjanizm, w którym dobro ogółu i absolutne posłuszeństwo poddanych wobec władzy, a także zhierarchizowane stosunki społeczne, stanowią wyższe wartości niż dobro jednostki."
+      },
+      {
+        "term": "Krąg buddyjski",
+        "definition": "Krąg kulturowy, w którym propaguje się ascetyczny tryb życia, wiarę w reinkarnację i ulotność życia doczesnego oraz konieczność kształtowania w człowieku postaw takich jak wiara, mądrość czy skupienie."
+      },
+      {
+        "term": "Wkład kręgu islamskiego w dziedzictwo ludzkości",
+        "definition": "Obejmuje m.in. postępy w astronomii, medycynie, fizyce, upowszechnienie cyfr arabskich oraz charakterystyczną ornamentykę (np. roślinną), co wynika z zakazu przedstawiania wizerunku Mahometa i innych ludzi."
+      },
+      {
+        "term": "Karoshi",
+        "definition": "Zjawisko śmierci z przepracowania, występujące głównie w kręgu japońskim jako efekt ekstremalnego zaangażowania w powierzone obowiązki i chęci sprostania wysokim wymaganiom stawianym przez pracodawcę."
+      },
+      {
+        "term": "Prawo szariatu",
+        "definition": "Prawo oparte na Koranie, charakterystyczne dla kręgu islamskiego, nakazujące wiernym określone zasady postępowania (często normujące to, co jest dozwolone i legalne także w państwowym systemie prawnym)."
+      },
+      {
+        "term": "Wielokulturowość (przenikanie się kultur)",
+        "definition": "Zjawisko nasilające się we współczesnym świecie pod wpływem globalizacji i migracji; uczy tolerancji i pozwala czerpać z dorobku innych kultur, ale może też prowadzić do utraty tradycyjnej tożsamości kulturowej."
+      },
+      {
+        "term": "Ksenofobia",
+        "definition": "Negatywne nastawienie do cudzoziemców, które może wynikać ze stykania się różniących się od siebie kultur lub stanowić efekt całkowitego braku kontaktów z innymi kręgami kulturowymi."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Australia, Ameryka Północna, część Oceanii i Europa",
+        "pair2": "Zasięg kręgu zachodniego"
+      },
+      {
+        "pair1": "Silny wpływ konfucjanizmu, dobro ogółu stawiane ponad dobrem jednostki",
+        "pair2": "Krąg chiński"
+      },
+      {
+        "pair1": "Dominacja religii chrześcijańskiej (szczególnie katolicyzmu) i języków hiszpańskiego oraz portugalskiego",
+        "pair2": "Krąg latynoamerykański"
+      },
+      {
+        "pair1": "Zjawisko karoshi i silnie zhierarchizowane relacje społeczne w pracy",
+        "pair2": "Krąg japoński"
+      },
+      {
+        "pair1": "Nieformalny podział na kasty ograniczający szanse rozwoju jednostki",
+        "pair2": "Krąg hinduski"
+      },
+      {
+        "pair1": "Wielożeństwo oraz opieranie norm prawnych i społecznych na nakazach religijnych",
+        "pair2": "Krąg islamski"
+      },
+      {
+        "pair1": "Mieszanie się wierzeń prastarych z chrześcijaństwem, islamem i wpływami państw kolonialnych",
+        "pair2": "Krąg afrykański"
+      },
+      {
+        "pair1": "Silny, bliski związek władzy świeckiej i kościelnej połączony z ingerencją państwa w gospodarkę",
+        "pair2": "Krąg prawosławny"
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Co stanowi główne kryterium wyodrębniania kręgów kulturowych (cywilizacyjnych) na świecie?",
+        "options": [
+          "Wspólnota rasy i warunków klimatycznych.",
+          "Cechy fizyczne i terytorium państwowe.",
+          "Zróżnicowanie religijne i językowe.",
+          "Poziom rozwoju i systemy gospodarcze."
+        ],
+        "answer": "C",
+        "explanation": "Kręgi kulturowe (cywilizacyjne) wyodrębniono na podstawie wspólnych elementów kultury danych społeczności, przede wszystkim religii i języka."
+      },
+      {
+        "question": "Do którego kręgu kulturowego należy terytorium Australii i Ameryki Północnej?",
+        "options": [
+          "Krąg zachodni oparty o chrześcijaństwo.",
+          "Krąg prawosławny o silnej centralizacji.",
+          "Krąg latynoamerykański o radosnym życiu.",
+          "Krąg afrykański o tożsamości plemiennej."
+        ],
+        "answer": "A",
+        "explanation": "Zasięg geograficzny kręgu zachodniego, kształtowanego na fundamencie chrześcijaństwa, obejmuje m.in. Europę, Amerykę Północną, Australię i część Oceanii."
+      },
+      {
+        "question": "Jaka cecha jest wskazywana jako charakterystyczna dla kręgu islamskiego?",
+        "options": [
+          "Występuje ścisły podział na liczne kasty.",
+          "Prawo państwowe opiera się na religii.",
+          "Jednostka jest ważniejsza niż cała grupa.",
+          "Gospodarkę hamuje ascetyczny tryb życia."
+        ],
+        "answer": "B",
+        "explanation": "W kręgu islamskim w wielu krajach obowiązuje prawo szariatu (religijne) lub prawo ukształtowane na jego bazie, więc o tym co jest legalne, decydują nakazy religijne."
+      },
+      {
+        "question": "Czym jest zjawisko określane mianem 'karoshi' i w którym kręgu kulturowym występuje?",
+        "options": [
+          "To system kastowy w kręgu hinduskim.",
+          "To ascetyczne życie w kręgu buddyjskim.",
+          "To śmierć z pracy w kręgu japońskim.",
+          "To rygorystyczne prawo w kręgu chińskim."
+        ],
+        "answer": "C",
+        "explanation": "W kręgu japońskim wyjątkowa pracowitość i zaangażowanie skutkują niekiedy negatywnym zjawiskiem, jakim jest karoshi, czyli śmierć z przepracowania."
+      },
+      {
+        "question": "Które z poniższych stwierdzeń najlepiej oddaje różnicę między systemami norm w wybranych kręgach?",
+        "options": [
+          "Chiński mocno opiera się na konfucjanizmie.",
+          "Japoński odrzuca tradycyjną hierarchiczność.",
+          "Chiński promuje szybki awans indywidualistów.",
+          "Japoński jest oparty na rozwoju ascetycznym."
+        ],
+        "answer": "A",
+        "explanation": "W kręgu chińskim wskazuje się na znaczny wpływ konfucjanizmu (władca dba o poddanych, oni są posłuszni), a w japońskim - silną hierarchiczność."
+      },
+      {
+        "question": "Jaki jest gospodarczy wpływ religii w kręgu buddyjskim?",
+        "options": [
+          "Wymusza tworzenie potężnych korporacji pracy.",
+          "Hamuje wzrost przez wiarę w ulotność życia.",
+          "Sprzyja bardzo szybkiemu postępowi techniki.",
+          "Zachęca do ciągłego bogacenia się jednostek."
+        ],
+        "answer": "B",
+        "explanation": "Wiara w reinkarnację i ulotność życia doczesnego, charakterystyczna dla kręgu buddyjskiego, ogranicza rozwój gospodarczy."
+      },
+      {
+        "question": "Czym charakteryzuje się system religijno-społeczny afrykańskiego kręgu kulturowego?",
+        "options": [
+          "Został całkowicie zdominowany przez prawosławie.",
+          "Odrzuca kategorycznie dawne wierzenia plemienne.",
+          "Łączy lokalne wierzenia z wpływami zewnętrznymi.",
+          "Opiera się wyłącznie na tradycji starych plemion."
+        ],
+        "answer": "C",
+        "explanation": "W afrykańskim kręgu kulturowym postępujące wpływy chrześcijaństwa i islamu mieszają się z prastarymi lokalnymi wierzeniami."
+      },
+      {
+        "question": "Co zalicza się do osiągnięć naukowych przypisywanych kręgowi islamskiemu w dziedzictwie ludzkości?",
+        "options": [
+          "Wprowadzenie prochu, papieru oraz kompasu.",
+          "Rozwój medycyny i cyfry z innej kultury.",
+          "Odkrycie Ameryki i początki globalnej sieci.",
+          "Stworzenie alfabetu łacińskiego oraz prawa."
+        ],
+        "answer": "B",
+        "explanation": "Przedstawiciele kręgu islamskiego mają osiągnięcia w medycynie (pierwsza tracheotomia) oraz rozpowszechnili pochodzące z Indii cyfry arabskie."
+      },
+      {
+        "question": "Co jest charakterystyczną cechą kręgu prawosławnego?",
+        "options": [
+          "Silna władza i mała wolność gospodarcza.",
+          "Bardzo duża wolność i rozwój kapitalizmu.",
+          "Oparcie systemu państwa na konfucjanizmie.",
+          "Ścisły rozdział kościoła oraz form prawnych."
+        ],
+        "answer": "A",
+        "explanation": "W kręgu prawosławnym bliski związek władz kościelnych i państwowych buduje silną, scentralizowaną władzę, a państwo mocno ogranicza m.in. wolność gospodarczą."
+      },
+      {
+        "question": "Jak w kręgu hinduskim interpretowane są próby ekonomicznego awansu z niższych kast?",
+        "options": [
+          "Zdobycz zawodowa to główny nakaz religijny.",
+          "Zakazy prawne trwale zlikwidowały nierówność.",
+          "Awans to naruszenie religijnego porządku.",
+          "Kasty opierają się wyłącznie na dochodach."
+        ],
+        "answer": "C",
+        "explanation": "Mimo prawnych zakazów kasty nadal funkcjonują, a próby awansu społecznego i ekonomicznego osób z niższych kast uważa się za podważanie religijnego porządku świata."
+      },
+      {
+        "question": "Z czego wynika dzisiejsza obyczajowość i religijność w kręgu latynoamerykańskim?",
+        "options": [
+          "Mieszanka wierzeń rdzennych i katolicyzmu.",
+          "Wyłącznie rzymskie tradycje i chrześcijaństwo.",
+          "Kultura chińska, japońska oraz dawne religie.",
+          "Wpływy arabskie połączone z religią afrykańską."
+        ],
+        "answer": "A",
+        "explanation": "Religijność kręgu latynoamerykańskiego stanowi mieszankę wierzeń rdzennej ludności, afrykańskich niewolników i katolików (wpływy kolonizatorów europejskich)."
+      },
+      {
+        "question": "Z czego wynikają misterne, roślinne zdobienia w architekturze kręgu islamskiego?",
+        "options": [
+          "Są efektem ścisłego nakazu budowy świątyń.",
+          "Wynikają z zakazu tworzenia wizerunków.",
+          "Pochodzą z chęci naśladowania sztuki Rzymu.",
+          "Stanowią nakaz ścisłego rysowania przyrody."
+        ],
+        "answer": "B",
+        "explanation": "Misterne zdobienia (motywy roślinne) wynikają z tradycji nieprzedstawiania wizerunku Mahometa, innych ludzi oraz zwierząt."
+      },
+      {
+        "question": "Które z wymienionych kręgów kulturowych wzajemnie się przenikają na kontynencie azjatyckim?",
+        "options": [
+          "Japoński łączy cechy chińskie i buddyjskie.",
+          "Krąg afrykański wchłonął tradycje buddyjskie.",
+          "Zachodni krąg przeniósł się na tereny chińskie.",
+          "Krąg islamski dominuje nad kręgiem japońskim."
+        ],
+        "answer": "A",
+        "explanation": "Krąg chiński i japoński przenikają się, a dodatkowo są w nich widoczne wyraźne wpływy kręgu buddyjskiego (np. architektura w japońskim mieście Ikaruga)."
+      },
+      {
+        "question": "Co charakteryzuje społeczeństwa należące do kręgu latynoamerykańskiego?",
+        "options": [
+          "Wyróżniają się bardzo ascetycznym trybem.",
+          "Odznaczają się totalnym brakiem szacunku.",
+          "Wykazują ogromny dystans w życiu ludzkim.",
+          "Cechują się dużą otwartością na obcych."
+        ],
+        "answer": "D",
+        "explanation": "Społeczeństwa latynoskie są generalnie serdeczne, otwarte na inne kultury i cechują się małym dystansem w relacjach między ludźmi."
+      },
+      {
+        "question": "Z jakim zjawiskiem wiązał się mecenat sztuki oraz wybitne osiągnięcia w kręgu zachodnim?",
+        "options": [
+          "Silnie promowano rozwój kast społecznych.",
+          "Wspólny sukces grupy zatrzymał rozwój sztuki.",
+          "Indywidualizm ludzki pobudzał mecenat.",
+          "Zawsze kładziono nacisk na dobro całej grupy."
+        ],
+        "answer": "C",
+        "explanation": "Docenianie w kręgu zachodnim indywidualizmu, chęci wyróżniania się i osiągnięć jednostki (wynikające z ważnej roli człowieka obok Boga) sprzyjało sprawowaniu mecenatu nad twórcami, co zaowocowało wieloma dziełami."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Ze względu na swoje oddalenie geograficzne i położenie na półkuli południowej, Australia i Nowa Zelandia zaliczane są do osobnego pacyficznego lub afrykańskiego kręgu kulturowego.",
+        "answer": false,
+        "explanation": "Zasięg geograficzny kręgu zachodniego, kształtowanego na fundamencie chrześcijaństwa i dorobku antyku, obejmuje nie tylko Europę i Amerykę Północną, ale również Australię i część Oceanii."
+      },
+      {
+        "sentence": "Zjawisko śmierci z przepracowania, określane jako karoshi, jest charakterystycznym skutkiem konfucjanizmu dominującego w kręgu chińskim.",
+        "answer": false,
+        "explanation": "Zjawisko śmierci z przepracowania (karoshi) jest charakterystyczne dla kręgu japońskiego, w którym kładzie się szczególny nacisk na wyjątkową pracowitość i ogromne zaangażowanie w powierzone obowiązki."
+      },
+      {
+        "sentence": "Cały kontynent afrykański, włącznie z krajami północnej Afryki, tworzy jeden spójny krąg afrykański oparty wyłącznie na silnej identyfikacji plemiennej.",
+        "answer": false,
+        "explanation": "Afryka nie jest jednolita. Północna część kontynentu jest zdominowana przez islam i należy do kręgu islamskiego, podczas gdy krąg afrykański obejmuje głównie obszary, gdzie tradycje plemienne mieszają się z chrześcijaństwem, islamem i wpływami kolonialnymi."
+      },
+      {
+        "sentence": "Krąg prawosławny różni się od zachodniego m.in. bliskim związkiem władz kościelnych i państwowych, co prowadzi do silnej centralizacji władzy i częstego ograniczania wolności gospodarczej obywateli.",
+        "answer": true,
+        "explanation": "Choć wartości w kręgu prawosławnym i zachodnim są zbliżone, to bliski związek Kościoła i państwa w kręgu prawosławnym buduje silną i scentralizowaną władzę, która w większym stopniu ogranicza swobody jednostki, w tym gospodarcze."
+      },
+      {
+        "sentence": "W kręgu hinduskim dominuje ascetyczny tryb życia oraz ograniczenie roli małżeństwa i rodziny, co w połączeniu z wiarą w reinkarnację hamuje rozwój gospodarczy.",
+        "answer": false,
+        "explanation": "Ascetyczny tryb życia oraz ograniczona rola małżeństwa to cechy kręgu buddyjskiego. Z kolei w hinduizmie ważnym religijnym obowiązkiem jest założenie licznej rodziny."
+      },
+      {
+        "sentence": "W kręgu hinduskim próby awansu społecznego i ekonomicznego osób z niższych kast są traktowane jako podważanie religijnego porządku świata, mimo że sam system kastowy jest prawnie zakazany.",
+        "answer": true,
+        "explanation": "Mimo istniejących formalnych zakazów prawnych, podział na kasty wciąż funkcjonuje w świadomości i praktyce społecznej, blokując rozwój i awans najuboższych."
+      },
+      {
+        "sentence": "Charakterystyczna dla kręgu islamskiego bogata ornamentyka z motywami roślinnymi wynika z rygorystycznego nakazu precyzyjnego odwzorowywania przyrody zawartego w Koranie.",
+        "answer": false,
+        "explanation": "Misterne zdobienia roślinne rozwinęły się jako alternatywa artystyczna z powodu tradycyjnego zakazu przedstawiania wizerunku Mahometa, innych ludzi oraz zwierząt."
+      },
+      {
+        "sentence": "Krąg latynoamerykański ukształtował się jako wyizolowana kultura oparta wyłącznie na wierzeniach rdzennej ludności indiańskiej, odrzucając wpływy religijne z zewnątrz.",
+        "answer": false,
+        "explanation": "Kultura i religijność kręgu latynoamerykańskiego to wynik silnego przenikania się kultur - stanowią mieszankę wierzeń rdzennej ludności, afrykańskich niewolników oraz chrześcijaństwa przyniesionego przez europejskich kolonizatorów."
+      },
+      {
+        "sentence": "Pod wpływem filozofii konfucjańskiej, w kręgu chińskim dobro i swoboda działania pojedynczej jednostki są traktowane jako wartość wyższa niż interesy ogółu społeczeństwa.",
+        "answer": false,
+        "explanation": "W kręgu chińskim to dobro ogółu stanowi wartość nadrzędną, co wiąże się z absolutnym posłuszeństwem poddanych wobec władzy i silnie zhierarchizowanymi stosunkami społecznymi."
+      },
+      {
+        "sentence": "Wynalazki takie jak papier, czarny proch, jedwab oraz porcelana zostały wniesione do dziedzictwa kulturowego ludzkości głównie przez krąg japoński.",
+        "answer": false,
+        "explanation": "Wymienione wynalazki (papier, jedwab, porcelana, czarny proch, kompas) stanowią wkład kręgu chińskiego. Osiągnięcia kręgu japońskiego to m.in. riksza, żarówka LED i kod QR."
+      },
+      {
+        "sentence": "Powszechne dziś w świecie tzw. cyfry arabskie zostały zapożyczone z Indii i rozpowszechnione w dziedzictwie ludzkości przez przedstawicieli kręgu islamskiego.",
+        "answer": true,
+        "explanation": ", że jednym z najważniejszych osiągnięć matematycznych kręgu islamskiego było przejęcie z Indii i upowszechnienie na świecie cyfr arabskich, które ostatecznie wyparły system rzymski."
+      },
+      {
+        "sentence": "Granice między wyodrębnionymi dziewięcioma kręgami kulturowymi są ostre i nieprzekraczalne, przez co współcześnie nie obserwuje się zjawiska ich wzajemnego przenikania.",
+        "answer": false,
+        "explanation": "Wszelkie próby wyznaczenia ścisłych granic są skazane na niepowodzenie. Kultury przenikają się, czego dowodem są widoczne wpływy buddyzmu zarówno w kręgu chińskim, jak i japońskim, czy mieszanka wierzeń w kręgu latynoamerykańskim i afrykańskim."
+      }
+    ]
+  }
+}

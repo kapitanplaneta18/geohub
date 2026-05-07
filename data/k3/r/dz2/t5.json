@@ -1,0 +1,352 @@
+{
+    "metadata":  {
+                     "id":  "k3-r-dz2-t5",
+                     "title":  "Wpływ zlodowaceń na środowisko pojezierzy",
+                     "level":  "R",
+                     "class":  "3"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Pojezierza (lokalizacja)",
+                                              "definition":  "Pas rzeźby terenu w północnej Polsce (ok. 1/4 powierzchni kraju), obejmujący obszary objęte zasięgiem zlodowaceń północnopolskich."
+                                          },
+                                          {
+                                              "term":  "Krajobraz młodoglacjalny",
+                                              "definition":  "Typ krajobrazu charakteryzujący się wyraźnymi, dobrze zachowanymi formami polodowcowymi (wysoczyzny, głębokie rynny, liczne jeziora), które nie uległy silnej denudacji."
+                                          },
+                                          {
+                                              "term":  "Zlodowacenie północnopolskie (Wisły)",
+                                              "definition":  "Ostatnie zlodowacenie, które objęło północną Polskę i ukształtowało rzeźbę pojezierzy, cofając się kilkanaście tysięcy lat temu."
+                                          },
+                                          {
+                                              "term":  "Jezioro Śniardwy",
+                                              "definition":  "Największe jezioro w Polsce (113,4 km²), będące płytkim jeziorem morenowym powstałym w zagłębieniu moreny dennej."
+                                          },
+                                          {
+                                              "term":  "Jezioro Hańcza",
+                                              "definition":  "Najgłębsze jezioro w Polsce (108,5 m), będące typowym jeziorem rynnowym o stromych brzegach."
+                                          },
+                                          {
+                                              "term":  "Wieżyca (329 m n.p.m.)",
+                                              "definition":  "Najwyższe wzniesienie polskich pojezierzy (Szymbarskie Wzgórza), będące wałem moreny czołowej na Pojezierzu Kaszubskim."
+                                          },
+                                          {
+                                              "term":  "Morena czołowa (geneza)",
+                                              "definition":  "Wzgórza utworzone z różnorodnego materiału skalnego (gliny, piaski, głazy) akumulowanego przed czołem lądolodu podczas jego dłuższego postoju."
+                                          },
+                                          {
+                                              "term":  "Morena denna (geneza)",
+                                              "definition":  "Falisty lub pagórkowaty teren zbudowany z gliny zwałowej, powstały w wyniku osadzania materiału skalnego pod lądolodem lub po jego wytopieniu."
+                                          },
+                                          {
+                                              "term":  "Głaz narzutowy (eratyk)",
+                                              "definition":  "Fragment skały (często granitowej) przetransportowany przez lądolód z Półwyspu Skandynawskiego i osadzony na pojezierzach."
+                                          },
+                                          {
+                                              "term":  "Rynna podlodowcowa",
+                                              "definition":  "Długie, wąskie i głębokie zagłębienie wyżłobione w podłożu przez wody roztopowe płynące pod wysokim ciśnieniem pod lądolodem."
+                                          },
+                                          {
+                                              "term":  "Jezioro rynnowe",
+                                              "definition":  "Jezioro wypełniające rynnę podlodowcową, charakteryzujące się wydłużonym kształtem, dużą głębokością i stromymi brzegami (np. Jeziorak, Gopło)."
+                                          },
+                                          {
+                                              "term":  "Jezioro morenowe",
+                                              "definition":  "Jezioro powstałe w rozległym zagłębieniu moreny dennej lub zatamowane przez wały morenowe, zazwyczaj duże i płytkie (np. Mamry)."
+                                          },
+                                          {
+                                              "term":  "Jezioro wytopiskowe (oczko)",
+                                              "definition":  "Mały, często okrągły zbiornik wodny powstały w zagłębieniu po wytopieniu się bryły martwego lodu zagrzebanej w osadach."
+                                          },
+                                          {
+                                              "term":  "Sandr (równina sandrowa)",
+                                              "definition":  "Rozległa, płaska równina zbudowana z piasków i żwirów naniesionych przez wody roztopowe wypływające na przedpole lądolodu (np. Bory Tucholskie)."
+                                          },
+                                          {
+                                              "term":  "Oz",
+                                              "definition":  "Długi, kręty wał zbudowany z piasków i żwirów, osadzony przez wody płynące w szczelinach lub tunelach lodowcowych."
+                                          },
+                                          {
+                                              "term":  "Kem",
+                                              "definition":  "Pagórek piaszczysto-żwirowy utworzony w otwartych szczelinach lub zagłębieniach martwego lodu podczas jego topnienia."
+                                          },
+                                          {
+                                              "term":  "Pradolina",
+                                              "definition":  "Szeroka dolina o płaskim dnie, którą odpływały wody z topniejącego lądolodu połączone z wodami rzek płynących z południa (kierunek zachodni)."
+                                          },
+                                          {
+                                              "term":  "Drumlin",
+                                              "definition":  "Niewielkie wzgórze o obłym kształcie i wydłużonym profilu (zgodnym z ruchem lodu), zbudowane z piasków, żwirów lub gliny."
+                                          },
+                                          {
+                                              "term":  "Gliny zwałowe",
+                                              "definition":  "Osad glacjalny tworzący morenę denną, składający się z nieposortowanego materiału (mieszanina iłu, pyłu, piasku i żwiru)."
+                                          },
+                                          {
+                                              "term":  "Zagłębienie bezodpływowe",
+                                              "definition":  "Charakterystyczna cecha rzeźby młodoglacjalnej; obniżenie terenu nieposiadające odpływu powierzchniowego, często wypełnione wodą lub torfem."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Erozja wód płynących pod ciśnieniem w tunelach lodowych",
+                                                 "pair2":  "Głęboka rynna polodowcowa (np. Jezioro Hańcza)"
+                                             },
+                                             {
+                                                 "pair1":  "Postój czoła lądolodu i akumulacja materiału",
+                                                 "pair2":  "Wał moreny czołowej (np. Wieżyca)"
+                                             },
+                                             {
+                                                 "pair1":  "Wytapianie się brył martwego lodu",
+                                                 "pair2":  "Jeziora wytopiskowe (oczka polodowcowe)"
+                                             },
+                                             {
+                                                 "pair1":  "Akumulacja piasków i żwirów przez wody wypływające z lądolodu",
+                                                 "pair2":  "Równina sandrowa (np. Bory Tucholskie)"
+                                             },
+                                             {
+                                                 "pair1":  "Osadzanie materiału pod spodem lądolodu (glina zwałowa)",
+                                                 "pair2":  "Wysoczyzna moreny dennej"
+                                             },
+                                             {
+                                                 "pair1":  "Akumulacja w szczelinach i tunelach lodowcowych",
+                                                 "pair2":  "Kręte wały ozów"
+                                             },
+                                             {
+                                                 "pair1":  "Wypełnienie wodą zagłębień w morenie dennej",
+                                                 "pair2":  "Jeziora morenowe (np. Śniardwy)"
+                                             },
+                                             {
+                                                 "pair1":  "Transport materiału skalnego z Półwyspu Skandynawskiego",
+                                                 "pair2":  "Głazy narzutowe (eratyki)"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Które zlodowacenie odpowiada za ukształtowanie rzeźby młodoglacjalnej polskich pojezierzy?",
+                                      "options":  [
+                                                      "Zlodowacenie południowopolskie (Sanu), które zasięgiem objęło Karpaty i Sudety.",
+                                                      "Zlodowacenie środkowopolskie (Odry), które pozostawiło po sobie rzeźbę staroglacjalną na nizinach.",
+                                                      "Zlodowacenie północnopolskie (Wisły)",
+                                                      "Zlodowacenie podlaskie (Narwi), będące najstarszym śladem epoki lodowcowej w Polsce."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Rzeźba pojezierzy jest najmłodsza i najlepiej zachowana, ponieważ obszar ten był objęty zasięgiem ostatniego zlodowacenia – północnopolskiego (Wisły), które ustąpiło kilkanaście tysięcy lat temu."
+                                  },
+                                  {
+                                      "question":  "Jaka jest główna cecha odróżniająca krajobraz młodoglacjalny pojezierzy od staroglacjalnego krajobrazu nizin?",
+                                      "options":  [
+                                                      "Całkowity brak jakichkolwiek wzniesień i występowanie idealnie płaskiego terenu ukształtowanego przez morze.",
+                                                      "Występowanie licznych, głębokich jezior i wyraźnych form terenu (np. wzgórz morenowych).",
+                                                      "Występowanie intensywnych zjawisk krasowych, takich jak jaskinie i leje krasowe w skałach wapiennych.",
+                                                      "Obecność starych, zdenudowanych gór fałdowych zbudowanych ze skał metamorficznych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Krajobraz młodoglacjalny charakteryzuje się obecnością form, które nie zostały jeszcze zdenudowane (zniszczone) przez erozję, oraz występowaniem tysięcy jezior, które na nizinach już zanikły."
+                                  },
+                                  {
+                                      "question":  "Rozpoznaj typ jeziora na podstawie opisu: „Długie, wąskie, głębokie, o stromych brzegach, powstałe w wyniku erozji wód płynących pod lądolodem”.",
+                                      "options":  [
+                                                      "Jezioro morenowe (np. Śniardwy), charakteryzujące się dużą powierzchnią i małą głębokością.",
+                                                      "Jezioro rynnowe (np. Hańcza)",
+                                                      "Jezioro wytopiskowe (oczko), powstałe w zagłębieniu po wytopieniu bryły martwego lodu.",
+                                                      "Jezioro deltowe (np. Dąbie), powstałe w wyniku akumulacji osadów rzecznych u ujścia rzeki."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Opis dotyczy rynny podlodowcowej wyżłobionej przez wody pod ciśnieniem. Przykładami są jeziora Hańcza, Jeziorak czy Gopło."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się najwyższe wzniesienie polskich pojezierzy (329 m n.p.m.), będące wzgórzem moreny czołowej?",
+                                      "options":  [
+                                                      "Dylewska Góra (312 m n.p.m.) na Pojezierzu Chełmińsko-Dobrzyńskim.",
+                                                      "Szeska Góra (309 m n.p.m.) na Pojezierzu Mazurskim.",
+                                                      "Wieżyca",
+                                                      "Rowokół (115 m n.p.m.) na Pobrzeżu Słowińskim."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wieżyca leży na Pojezierzu Kaszubskim (Szwajcaria Kaszubska) i stanowi kulminację wału moreny czołowej."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstały ozy – długie, kręte wały występujące w krajobrazie pojezierzy?",
+                                      "options":  [
+                                                      "W wyniku akumulacji piasków i żwirów w szczelinach lub tunelach lodowcowych przez płynącą wodę.",
+                                                      "Na skutek dłuższego postoju czoła lądolodu i usypywania materiału skalnego przed ścianą lodu.",
+                                                      "Przez powolne wytapianie się wielkich brył martwego lodu pozostawionych w osadach morenowych.",
+                                                      "W wyniku eolicznej działalności wiatru przewiewającego piaski sandrowe w wydmy paraboliczne."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Ozy to formy fluwioglacjalne (wodno-lodowcowe). Woda płynąca w tunelach we wnętrzu lodu osadzała materiał, który po wytopieniu lodu osiadł na dnie jako wał."
+                                  },
+                                  {
+                                      "question":  "Jaki materiał skalny buduje głównie wysoczyzny moreny dennej i jaki ma to wpływ na rzeźbę terenu?",
+                                      "options":  [
+                                                      "Luźne żwiry i piaski, które tworzą strome, niestabilne stożki nasypowe.",
+                                                      "Gliny zwałowe, tworzące faliste lub pagórkowate równiny.",
+                                                      "Iły wstęgowe, które osadzały się w zastoiskach, tworząc idealnie płaskie równiny.",
+                                                      "Lite skały granitowe, które po odsłonięciu tworzą izolowane ostańce skalne."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Morena denna powstaje pod lądolodem z materiału, który w nim tkwił (glina zwałowa - mieszanina iłu, piasku i głazów). Tworzy ona rozległe, faliste wysoczyzny."
+                                  },
+                                  {
+                                      "question":  "Dlaczego na obszarach sandrowych (np. Bory Tucholskie) dominują lasy iglaste?",
+                                      "options":  [
+                                                      "Ponieważ sandry są zbudowane z bardzo żyznych glin morenowych, które preferują wymagające świerki.",
+                                                      "Ponieważ na piaszczystym i żwirowym podłożu sandrów wykształciły się ubogie gleby bielicowe i rdzawe.",
+                                                      "Ponieważ sandry są terenami silnie podmokłymi i bagiennymi, na których rosną lasy łęgowe.",
+                                                      "Ponieważ lokalny mikroklimat na sandrach jest zbyt surowy i mroźny dla drzew liściastych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Sandry to równiny napływowe wód roztopowych, zbudowane z piasków. Na takim przepuszczalnym i ubogim podłożu powstają słabe gleby, na których naturalnie rosną mało wymagające bory sosnowe."
+                                  },
+                                  {
+                                      "question":  "Jezioro Śniardwy jest płytkie (śr. głębokość \u003c 6 m) i ma urozmaiconą linię brzegową. Jaka jest geneza tego jeziora?",
+                                      "options":  [
+                                                      "Jest to głębokie jezioro rynnowe powstałe w tunelu podlodowcowym pod wysokim ciśnieniem.",
+                                                      "Jest to jezioro morenowe powstałe w zagłębieniu moreny dennej.",
+                                                      "Jest to jezioro cyrkowe (kocioł) powstałe w polu firnowym lodowca górskiego.",
+                                                      "Jest to jezioro krasowe powstałe przez chemiczne rozpuszczanie skał wapiennych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jeziora morenowe wypełniają szerokie, płaskie zagłębienia w morenie dennej. W przeciwieństwie do rynnowych, są rozległe i płytkie."
+                                  },
+                                  {
+                                      "question":  "Czym są kemy i jaki proces doprowadził do ich powstania?",
+                                      "options":  [
+                                                      "Są to piaszczysto-żwirowe pagórki utworzone w otwartych szczelinach lub zagłębieniach topniejącego martwego lodu.",
+                                                      "Są to zagłębienia terenu powstałe po wytopieniu brył lodu, obecnie wypełnione wodą (oczka).",
+                                                      "Są to wydłużone wzgórza usypane przez wiatr z piasków wydmowych w klimacie peryglacjalnym.",
+                                                      "Są to progi skalne w dolinach rzek, powstałe na wychodniach odpornych skał."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Kemy to formy akumulacyjne (wzniesienia) powstałe w miejscach, gdzie woda nanosiła osady do szczelin w bryłach martwego lodu odciętych od głównego lądolodu."
+                                  },
+                                  {
+                                      "question":  "Co oznacza termin „układ schodkowy” w odniesieniu do sieci rzecznej pojezierzy?",
+                                      "options":  [
+                                                      "Rzeki płyną w bardzo głębokich kanionach o skalistych ścianach przypominających schody.",
+                                                      "Rzeki charakteryzują się występowaniem licznych, naturalnych wodospadów i progów skalnych.",
+                                                      "Odcinki rzek na przemian wykorzystują równoleżnikowe pradoliny i płyną południkowo ku północy (zmiana kierunku o 90 stopni).",
+                                                      "Rzeki wypływają z wysokich gór i spływają kaskadowo po stopniach uskoków tektonicznych na niziny."
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Młoda rzeźba terenu wymusza na rzekach (np. Warta, Obra) wykorzystywanie istniejących obniżeń: pradolin (kierunek wschód-zachód) oraz przełomów przez pasy moren (kierunek południe-północ)."
+                                  },
+                                  {
+                                      "question":  "Analizując wpływ budowy geologicznej na rolnictwo: dlaczego na Kujawach (część Pojezierza Wielkopolskiego) występują bardzo żyzne czarne ziemie?",
+                                      "options":  [
+                                                      "Powstały one na grubych pokrywach lessowych nawianych z wyżyn południowej Polski.",
+                                                      "Wykształciły się w uwilgotnionych zagłębieniach terenu na glinach morenowych (pobagienne).",
+                                                      "Są to gleby antropogeniczne (hortisole) wytworzone przez wielowiekową, intensywną kulturę rolną.",
+                                                      "Powstały na wychodniach skał węglanowych (wapieni i margli) jako płytkie rędziny."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Czarne ziemie kujawskie to gleby astrefowe. Powstały w obniżeniach terenu na glinach morenowych przy wysokim poziomie wód gruntowych, co sprzyjało akumulacji próchnicy z roślinności łąkowej/bagiennej."
+                                  },
+                                  {
+                                      "question":  "Suwalszczyzna nazywana jest „polskim biegunem zimna”. Jaka cecha klimatu lokalnego, wynikająca z położenia geograficznego, o tym decyduje?",
+                                      "options":  [
+                                                      "Silny wpływ ciepłych i wilgotnych mas powietrza napływających znad Oceanu Atlantyckiego.",
+                                                      "Wzrost kontynentalizmu klimatu ku wschodowi (surowe zimy) oraz wyższa wysokość bezwzględna.",
+                                                      "Położenie w cieniu opadowym Pojezierza Mazurskiego, co skutkuje brakiem pokrywy śnieżnej.",
+                                                      "Bliskość Morza Bałtyckiego, które silnie ochładza ten region w miesiącach zimowych."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na Suwalszczyźnie nakładają się dwa czynniki: położenie na północnym wschodzie (wpływ mas kontynentalnych, mroźne zimy) oraz wzniesienie terenu (Pojezierze Litewskie), co dodatkowo obniża temperaturę."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób rzeźba terenu (moreny czołowe) wpływa na sumy opadów na Pojezierzu Pomorskim i Mazurskim w porównaniu do nizin?",
+                                      "options":  [
+                                                      "Obecność wzniesień wymusza wznoszenie się mas powietrza, co prowadzi do kondensacji pary wodnej i wyższych opadów (ponad 700 mm).",
+                                                      "Wzgórza morenowe blokują napływ wilgotnych mas powietrza znad Bałtyku, powodując susze w głębi lądu.",
+                                                      "Wzniesienia te są zbyt niskie, by mieć jakikolwiek wpływ na opady; decyduje tylko odległość od morza.",
+                                                      "Opady są znacznie niższe, ponieważ woda szybciej spływa ze stromych zboczy wzgórz morenowych."
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Jest to efekt orograficzny. Wilgotne powietrze napotykając barierę w postaci wzniesień pojeziernych, unosi się, ochładza, co zwiększa opady w porównaniu do płaskich nizin (np. Wielkopolski - 500 mm)."
+                                  },
+                                  {
+                                      "question":  "Jaka jest naturalna tendencja ewolucyjna jezior polodowcowych w obecnych warunkach klimatycznych?",
+                                      "options":  [
+                                                      "Pogłębianie się mis jeziornych wskutek intensywnej erozji dennej wywołanej przez prądy wodne.",
+                                                      "Zanikanie jezior poprzez zarastanie roślinnością i wypełnianie osadami (przekształcanie w torfowiska).",
+                                                      "Łączenie się mniejszych jezior w większe akweny na skutek podnoszenia się poziomu wód gruntowych.",
+                                                      "Stopniowe zasolenie wód jeziornych wskutek intensywnego parowania w klimacie umiarkowanym."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Jest to naturalny proces starzenia się jezior (eutrofizacja i lądowienie). Gromadzenie osadów dennych i rozwój roślinności przybrzeżnej prowadzi do spłycania jezior i ich powolnej zamiany w bagna/torfowiska."
+                                  },
+                                  {
+                                      "question":  "Na Pojezierzu Wielkopolskim występują mniejsze zasoby wód powierzchniowych niż na Pomorskim czy Mazurskim. Z czego to wynika?",
+                                      "options":  [
+                                                      "Z całkowitego braku stałych rzek i jezior w tym regionie.",
+                                                      "Z położenia w cieniu opadowym (niższe opady - ok. 500 mm) oraz intensywnego rolnictwa i parowania.",
+                                                      "Z występowania chłonnych skał krasowych (wapieni), które odprowadzają wodę do głębokich warstw.",
+                                                      "Z braku jezior rynnowych, które są głównym rezerwuarem wody w innych częściach pojezierzy."
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Pojezierze Wielkopolskie ma najniższe opady w pasie pojezierzy (cień opadowy Pojezierza Pomorskiego) oraz wyższe temperatury, co przy intensywnym rolnictwie prowadzi do deficytu wody (stepowienie Wielkopolski)."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Rzeźba młodoglacjalna pojezierzy została ukształtowana w holocenie, czyli w obecnie trwającej epoce geologicznej.",
+                                           "answer":  false,
+                                           "explanation":  "Rzeźba ta powstała w plejstocenie, w trakcie zlodowaceń północnopolskich (Wisły), które zakończyły się kilkanaście tysięcy lat temu, przed nastaniem holocenu."
+                                       },
+                                       {
+                                           "sentence":  "Jezioro Śniardwy, będące największym jeziorem w Polsce, jest typowym przykładem jeziora rynnowego o dużej głębokości i stromych brzegach.",
+                                           "answer":  false,
+                                           "explanation":  "Śniardwy to jezioro morenowe, które powstało w rozległym zagłębieniu moreny dennej; jest płytkie (średnia głębokość \u003c 6 m) i ma urozmaiconą linię brzegową."
+                                       },
+                                       {
+                                           "sentence":  "Wały ozów powstawały w szczelinach lub tunelach lodowcowych, dlatego ich przebieg często jest prostopadły do czoła lądolodu (zgodny z kierunkiem płynięcia wód wewnątrz lodu).",
+                                           "answer":  true,
+                                           "explanation":  "Ozy to formy fluwioglacjalne akumulowane przez wody płynące wewnątrz lądolodu, zazwyczaj zgodnie z jego nachyleniem, w przeciwieństwie do moren czołowych usypywanych równolegle do czoła lodu."
+                                       },
+                                       {
+                                           "sentence":  "Na rozległych równinach sandrowych (np. w Borach Tucholskich) wykształciły się żyzne czarnoziemy, co sprzyja intensywnemu rolnictwu w tych regionach.",
+                                           "answer":  false,
+                                           "explanation":  "Sandry zbudowane są z piasków i żwirów, na których powstają ubogie gleby bielicowe i rdzawe, porastane głównie przez bory sosnowe, a nie żyzne czarnoziemy."
+                                       },
+                                       {
+                                           "sentence":  "Jezioro Hańcza jest najgłębszym jeziorem w Polsce (108,5 m), ponieważ powstało w głębokiej rynnie podlodowcowej wyżłobionej przez wody pod ciśnieniem.",
+                                           "answer":  true,
+                                           "explanation":  "Geneza rynnowa (erozja wód roztopowych pod lądolodem) odpowiada za dużą głębokość i wydłużony kształt jeziora Hańcza."
+                                       },
+                                       {
+                                           "sentence":  "Pojezierze Suwalskie charakteryzuje się najdłuższym okresem wegetacyjnym w pasie pojezierzy ze względu na wpływ mas powietrza kontynentalnego.",
+                                           "answer":  false,
+                                           "explanation":  "Jest odwrotnie – Suwalszczyzna to polski biegun zimna o surowym klimacie i jednym z najkrótszych okresów wegetacyjnych, co wynika ze wzrostu kontynentalizmu na wschodzie."
+                                       },
+                                       {
+                                           "sentence":  "Pradoliny to szerokie doliny, którymi wody roztopowe odpływały bezpośrednio na północ, zgodnie z nachyleniem terenu do Morza Bałtyckiego.",
+                                           "answer":  false,
+                                           "explanation":  "Pradoliny odprowadzały wody na zachód (równolegle do czoła lądolodu), ponieważ odpływ na północ był zablokowany przez czaszę lądolodu."
+                                       },
+                                       {
+                                           "sentence":  "Wysoczyzny moreny dennej na pojezierzach zbudowane są głównie z gliny zwałowej, na której wykształciły się gleby brunatne i płowe.",
+                                           "answer":  true,
+                                           "explanation":  "Morena denna to materiał (glina) pozostawiony przez topniejący lądolód; gliniaste podłoże sprzyja powstawaniu gleb brunatnych i płowych, wykorzystywanych rolniczo."
+                                       },
+                                       {
+                                           "sentence":  "Kemy to formy wklęsłe (zagłębienia) powstałe w wyniku wytopienia się brył martwego lodu zagrzebanych w osadach.",
+                                           "answer":  false,
+                                           "explanation":  "Kemy to formy wypukłe (pagórki) powstałe przez akumulację materiału w szczelinach lodu; zagłębienia po wytopieniu lodu to oczka polodowcowe lub jeziora wytopiskowe."
+                                       },
+                                       {
+                                           "sentence":  "Układ sieci rzecznej na pojezierzach określa się mianem schodkowego, ponieważ rzeki na przemian wykorzystują równoleżnikowe pradoliny i płyną południkowo przełomami na północ.",
+                                           "answer":  true,
+                                           "explanation":  "Młoda rzeźba terenu wymusza na rzekach (np. Warta, Obra) dostosowanie biegu do układu form polodowcowych (pradolin i pasów moren), tworząc charakterystyczne „schody” na mapie."
+                                       },
+                                       {
+                                           "sentence":  "Czarne ziemie kujawskie (Pojezierze Wielkopolskie) powstały na lessach przywianych z południa Polski.",
+                                           "answer":  false,
+                                           "explanation":  "Czarne ziemie na Kujawach to gleby pobagienne powstałe w uwilgotnionych zagłębieniach terenu na glinach morenowych, a nie na lessach (na których powstają czarnoziemy)."
+                                       }
+                                   ]
+                 }
+}

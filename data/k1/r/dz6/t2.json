@@ -1,0 +1,283 @@
+{
+    "metadata":  {
+                     "id":  "k1-r-dz6-t2",
+                     "unit":  "VI",
+                     "title":  "Ruchy masowe",
+                     "level":  "R",
+                     "class":  "1"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Ruchy masowe",
+                                              "definition":  "Procesy polegające na przemieszczaniu się skał lub zwietrzeliny po stoku w wyniku działania siły ciężkości."
+                                          },
+                                          {
+                                              "term":  "Siła grawitacji (ciężkości)",
+                                              "definition":  "Główny czynnik wywołujący ruchy masowe, oddziałujący na wszystko, co znajduje się na kuli ziemskiej."
+                                          },
+                                          {
+                                              "term":  "Przyczyny naturalne ruchów masowych",
+                                              "definition":  "Czynniki takie jak nasiąknięcie zwietrzeliny wodą (zwiększenie masy), podcięcie stoku przez erozję, trzęsienia ziemi lub wietrzenie zmniejszające spoistość skał."
+                                          },
+                                          {
+                                              "term":  "Antropogeniczne przyczyny ruchów masowych",
+                                              "definition":  "Działania człowieka sprzyjające ruchom masowym, np. podcinanie stoku pod budowę dróg, obciążanie stoku zabudową lub wycinka drzew (usunięcie korzeni wzmacniających grunt)."
+                                          },
+                                          {
+                                              "term":  "Odpadanie",
+                                              "definition":  "Odrywanie się pojedynczych okruchów skalnych od ściany i ich swobodne spadanie, prowadzące do powstawania żlebów i stożków usypiskowych (piargów). "
+                                          },
+                                          {
+                                              "term":  "Obrywanie",
+                                              "definition":  "Nagłe oderwanie się dużych mas skalnych od ściany i ich gromadzenie się u podnóża stoku, tworzące blokowisko skalne."
+                                          },
+                                          {
+                                              "term":  "Osuwanie",
+                                              "definition":  "Stosunkowo szybkie zsuwanie się zwietrzeliny lub luźnych skał w dół stoku, w którego wyniku powstaje nisza osuwiskowa (u góry) i jęzor osuwiskowy (u dołu). "
+                                          },
+                                          {
+                                              "term":  "Spływanie",
+                                              "definition":  "Szybkie przemieszczanie się silnie nasiąkniętej wodą zwietrzeliny (np. błota), która traci swoją pierwotną strukturę (np. potoki błotne)."
+                                          },
+                                          {
+                                              "term":  "Spełzywanie",
+                                              "definition":  "Bardzo powolne przesuwanie się zwietrzeliny na stokach o niewielkim nachyleniu, często objawiające się pochyleniem pni drzew lub słupów. "
+                                          },
+                                          {
+                                              "term":  "Soliflukcja",
+                                              "definition":  "Rodzaj ruchu masowego w klimacie zimnym, polegający na powolnym spływaniu latem rozmarzniętej warstwy gruntu po wieloletniej zmarzlinie. "
+                                          },
+                                          {
+                                              "term":  "Stożek usypiskowy (piarg)",
+                                              "definition":  "Forma terenu powstała u podnóża stoku w wyniku nagromadzenia się materiału skalnego pochodzącego z procesu odpadania."
+                                          },
+                                          {
+                                              "term":  "Zapobieganie ruchom masowym",
+                                              "definition":  "Działania inżynieryjne i biologiczne, takie jak zalesianie stoków, stosowanie siatek geotechnicznych, kotew gruntowych, tarasowanie czy budowa murów oporowych. "
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Odpadanie",
+                                                 "pair2":  "Odrywanie się pojedynczych okruchów skalnych i tworzenie stożków usypiskowych"
+                                             },
+                                             {
+                                                 "pair1":  "Obrywanie",
+                                                 "pair2":  "Nagłe oderwanie się dużych bloków skalnych tworzące blokowisko"
+                                             },
+                                             {
+                                                 "pair1":  "Osuwanie",
+                                                 "pair2":  "Powstanie niszy osuwiskowej i jęzora osuwiskowego"
+                                             },
+                                             {
+                                                 "pair1":  "Spełzywanie",
+                                                 "pair2":  "Powolne przemieszczanie się gruntu widoczne jako pochylone drzewa"
+                                             },
+                                             {
+                                                 "pair1":  "Soliflukcja",
+                                                 "pair2":  "Spływanie rozmarzniętej warstwy gruntu po zmarzlinie w klimacie zimnym"
+                                             },
+                                             {
+                                                 "pair1":  "Spływanie",
+                                                 "pair2":  "Ruch rozwodnionej zwietrzeliny (np. błota) z utratą pierwotnej struktury"
+                                             },
+                                             {
+                                                 "pair1":  "Wycinka drzew",
+                                                 "pair2":  "Zwiększenie ryzyka ruchów masowych poprzez usunięcie systemu korzeniowego"
+                                             },
+                                             {
+                                                 "pair1":  "Siatki geotechniczne",
+                                                 "pair2":  "Metoda inżynieryjna służąca do stabilizacji stoków zagrożonych osuwaniem"
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który z procesów masowych polega na odrywaniu się pojedynczych okruchów skalnych od ściany i ich swobodnym spadaniu, co prowadzi do powstawania stożków usypiskowych?",
+                                      "options":  [
+                                                      "Gwałtowne i nagłe obrywanie się ogromnych bloków skalnych od pionowej ściany pod wpływem wietrzenia mrozowego",
+                                                      "Odpadanie",
+                                                      "Powolne osuwanie się zwietrzeliny skalnej wzdłuż wyraźnie zaznaczonej powierzchni poślizgu in warunkach dużej wilgotności",
+                                                      "Spełzywanie"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Odpadanie to odrywanie się pojedynczych okruchów skalnych i ich swobodne spadanie, co formuje żleby i stożki usypiskowe."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób woda opadowa lub roztopowa wpływa na stabilność stoku i inicjowanie ruchów masowych?",
+                                      "options":  [
+                                                      "Znacząco zwiększa kohezję wewnętrzną cząsteczek gruntu oraz powoduje gwałtowne zmniejszenie ciężaru objętościowego zwietrzeliny",
+                                                      "Redukuje tarcie wewnętrzne między ziarnami mineralnymi, jednak in żaden sposób nie oddziałuje na siłę ciężkości działającą na stok",
+                                                      "Zmniejsza spoistość zwietrzeliny i zwiększa jej masę",
+                                                      "Powoduje jedynie wietrzenie chemiczne bez wpływu na grawitację"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Przyczyną ruchów masowych jest nasiąknięcie zwietrzeliny wodą, co prowadzi do zmniejszenia jej spoistości oraz zwiększenia masy materiału."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się proces gwałtownego zsuwania się zwietrzeliny, w wyniku którego w górnej części stoku powstaje zagłębienie, a u podnóża wzniesienie z usypanego materiału?",
+                                      "options":  [
+                                                      "Osuwanie",
+                                                      "Dynamiczne spływanie silnie upłynnionego materiału skalnego z całkowitym zatarciem jego pierwotnej struktury wewnętrznej",
+                                                      "Soliflukcja, czyli powolne przemieszczanie się gruntu po powierzchni wieloletniej zmarzliny wskutek letniego odtajałego warstwy czynnej",
+                                                      "Odpadanie"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Osuwanie to gwałtowne zsuwanie się zwietrzeliny, skutkujące utworzeniem się niszy osuwiskowej (zagłębienie) i języka osuwiskowego (wzniesienie u podnóża)."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się proces spływania (np. spływy błotne)?",
+                                      "options":  [
+                                                      "Całkowitym zachowaniem nienaruszonej pierwotnej struktury i uwarstwienia przemieszczanego gwałtownie gruntu na stromym zboczu",
+                                                      "Wyjątkowo wolnym tempem przemieszczania się wilgotnej zwietrzeliny, które jest zazwyczaj całkowicie niewidoczne dla postronnego obserwatora",
+                                                      "Utrata pierwotnej struktury materiału przesiąkniętego wodą i dużą prędkością",
+                                                      "Występowaniem wyłącznie na suchych stokach o dużym nachyleniu"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Spływanie zachodzi pod wpływem intensywnych opadów, a przemieszczająca się z dużą prędkością zwietrzelina jest tak przemieszana, że traci swoją pierwotną strukturę."
+                                  },
+                                  {
+                                      "question":  "Na czym polega różnica między niszą osuwiskową a jęzorem osuwiskowym?",
+                                      "options":  [
+                                                      "Nisza stanowi nagromadzony u podnóża stoku materiał koluwialny, natomiast jęzor jest głębokim zagłębieniem in jego partii szczytowej",
+                                                      "Nisza to zagłębienie w górnej części stoku, jęzor to materiał u podnóża",
+                                                      "Obie formy występują tylko przy procesie odpadania",
+                                                      "Nisza formuje się wyłącznie in wyniku niszczącej erozji bocznej rzek, natomiast jęzor powstaje wskutek akumulacyjnej działalności wiatru"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "W wyniku osuwania w górnej części stoku powstaje zagłębienie zwane niszą osuwiskową, a u podnóża gromadzi się materiał tworzący jęzor osuwiskowy."
+                                  },
+                                  {
+                                      "question":  "Jaki specyficzny proces ruchów masowych zachodzi na obszarach o zimnym klimacie, gdy latem rozmarza powierzchniowa warstwa gruntu?",
+                                      "options":  [
+                                                      "Cieczenie polegające na przemieszczaniu grubej warstwy zwietrzeliny in warunkach skrajnie wilgotnego i gorącego klimatu równikowego",
+                                                      "Soliflukcja",
+                                                      "Proces krasowienia polegający na chemicznym rozpuszczaniu skał węglanowych przez wody opadowe nasycone dwutlenkiem węgla",
+                                                      "Obrywanie"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Proces polegający na powolnym spływaniu nasiąkniętej wodą warstwy gruntu po wciąż zamarzniętym podłożu (wieloletniej zmarzlinie) to soliflukcja."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych sytuacji jest przykładem antropogenicznej przyczyny ruchów masowych?",
+                                      "options":  [
+                                                      "Naturalne i gwałtowne podcięcie podstawy stoku górskiego przez niszczącą działalność fal morskich podczas sztormu",
+                                                      "Wystąpienie nagłego wstrząsu sejsmicznego wywołanego rozładowaniem naprężeń tektonicznych na granicach płyt litosfery",
+                                                      "Podcięcie stoku przez budowę drogi",
+                                                      "Wybuch wulkanu"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Do przyczyn antropogenicznych zalicza się podcięcie stoku spowodowane pracami budowlanymi, np. budową drogi."
+                                  },
+                                  {
+                                      "question":  "Czym różni się obrywanie od odpadania?",
+                                      "options":  [
+                                                      "Obrywanie dotyczy wyłącznie przemieszczania pojedynczych okruchów, podczas gdy odpadanie obejmuje zrzucanie wielotonowych bloków skalnych",
+                                                      "Obrywanie zachodzi jedynie in środowisku podwodnym, natomiast odpadanie występuje wyłącznie na lądzie in warunkach wysokogórskich",
+                                                      "Obrywanie to nagłe oderwanie dużych mas skalnych tworzących blokowisko",
+                                                      "W procesie obrywania materiał skalny nigdy nie odrywa się całkowicie od podłoża macierzystego"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Obrywanie polega na nagłym odrywaniu się dużych mas skalnych tworzących u podnóża blokowisko, in przeciwieństwie do odpadania dotyczącego pojedynczych okruchów."
+                                  },
+                                  {
+                                      "question":  "Jakie zjawisko w krajobrazie świadczy o zachodzeniu procesu spełzywania?",
+                                      "options":  [
+                                                      "Występowanie pionowych i gładkich ścian skalnych, które zostały całkowicie pozbawione jakiejkolwiek pokrywy roślinnej i glebowej",
+                                                      "Powyginane pnie drzew oraz pochylone słupy",
+                                                      "Masowe występowanie stożków usypiskowych u podnóża bardzo stromych i wysokich ścian skalnych in Tatrach",
+                                                      "Powstawanie głębokich wąwozów rzecznych"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Oznakami powolnego przesuwania się zwietrzeliny in dół stoku (spełzywania) są powyginane pnie drzew, a także pochylone słupy lub płoty."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób można technicznie zabezpieczać stoki przed ruchami masowymi?",
+                                      "options":  [
+                                                      "Całkowita wycinka i usunięcie wszystkich drzew ze stoku in celu znacznego odciążenia powierzchni gruntu przed nasiąknięciem wodą",
+                                                      "Stosując siatki geotechniczne, kotwy gruntowe i tarasowanie",
+                                                      "Sztuczne zwiększanie kąta nachylenia stoku in celu wymuszenia znacznie szybszego i swobodniejszego odpływu wód opadowych",
+                                                      "Budując drogi wyłącznie w poprzek stromych stoków"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Do stabilizowania stoków stosuje się siatki geotechniczne, specjalną roślinność, kotwy gruntowe czy tarasowanie."
+                                  },
+                                  {
+                                      "question":  "Co było jedną z głównych przyczyn katastrofalnego osuwiska na wyspie Leyte w 2006 roku, oprócz czynników naturalnych?",
+                                      "options":  [
+                                                      "Niefortunna budowa potężnej zapory wodnej i zbiornika retencyjnego in dolnym biegu rzeki bezpośrednio u podnóża niestabilnej góry",
+                                                      "Nieracjonalna działalność człowieka polegająca na wycięciu lasów",
+                                                      "Gwałtowna i niespodziewana erupcja czynnego wulkanu tarczowego znajdującego się in bezpośrednim sąsiedztwie osiedli ludzkich",
+                                                      "Nadmierny ruch turystyczny na szczycie góry"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Do katastrofy przyczyniła się nieracjonalna działalność człowieka – wycięcie lasów ze stoków góry pozbawiło ludzi naturalnej bariery ochronnej."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się proces analogiczny do soliflukcji, ale zachodzący w klimacie gorącym i wilgotnym, obejmujący grubą warstwę zwietrzeliny?",
+                                      "options":  [
+                                                      "Cieczenie",
+                                                      "Odpadanie pojedynczych ziaren mineralnych od litych skał podłoża wskutek dobowych zmian temperatury",
+                                                      "Abrazja, czyli proces niszczenia brzegów morskich i jeziornych pod wpływem uderzeń fal oraz materiału skalnego",
+                                                      "Deflacja"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "W klimacie gorącym i wilgotnym, gdzie opady są wysokie, spełzywanie bardzo grubej warstwy nasiąkniętej zwietrzeliny nosi nazwę cieczenia."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Spełzywanie to gwałtowny proces, w którym masy skalne przemieszczają się w dół stoku w ciągu kilku sekund.",
+                                           "answer":  false,
+                                           "explanation":  "Spełzywanie polega na powolnym przesuwaniu się zwietrzeliny w dół stoku."
+                                       },
+                                       {
+                                           "sentence":  "Nasiąknięcie zwietrzeliny wodą zwiększa tarcie między cząsteczkami gruntu i stabilizuje stok przed osuwaniem.",
+                                           "answer":  false,
+                                           "explanation":  "Nasiąknięcie zwietrzeliny wodą prowadzi do zmniejszenia jej spoistości i zwiększenia masy, co sprzyja ruchom masowym."
+                                       },
+                                       {
+                                           "sentence":  "Systemy korzeniowe drzew przyspieszają procesy osuwiskowe poprzez rozluźnianie struktury gleby na zboczach.",
+                                           "answer":  false,
+                                           "explanation":  "Wycinka drzew sprzyja ruchom masowym, ponieważ ich korzenie stanowią naturalną barierę ochronną i stabilizują stok."
+                                       },
+                                       {
+                                           "sentence":  "Soliflukcja to proces zachodzący najintensywniej na obszarach gorących pustyń, gdzie grunt jest suchy.",
+                                           "answer":  false,
+                                           "explanation":  "Soliflukcja zachodzi na obszarach o zimnym klimacie, gdzie latem wierzchnia warstwa wieloletniej zmarzliny rozmarza i spływa po zamarzniętym podłożu."
+                                       },
+                                       {
+                                           "sentence":  "Inwestycje budowlane i podcinanie stoków przez człowieka nie mają wpływu na powstawanie grawitacyjnych ruchów masowych.",
+                                           "answer":  false,
+                                           "explanation":  "Do antropogenicznych przyczyn ruchów masowych należą podcięcie stoku, np. przez budowę drogi, oraz obciążenie stoku zabudową."
+                                       },
+                                       {
+                                           "sentence":  "Obrywanie polega na nagłym odrywaniu się dużych mas skalnych, które spadają swobodnie i tworzą u podnóża blokowisko skalne.",
+                                           "answer":  true,
+                                           "explanation":  "Proces ten polega na nagłym odrywaniu się mas skalnych i gromadzeniu ich u podnóża, tworząc blokowisko."
+                                       },
+                                       {
+                                           "sentence":  "Spływanie błotne zachodzi zwykle pod wpływem intensywnych opadów, gdy zwietrzelina traci swoją pierwotną strukturę.",
+                                           "answer":  true,
+                                           "explanation":  "Spływanie zachodzi pod wpływem intensywnych opadów deszczu, a przemieszczana zwietrzelina jest przesiąknięta wodą i przemieszana."
+                                       },
+                                       {
+                                           "sentence":  "W wyniku osuwania się ziemi w górnej części stoku powstaje nisza osuwiskowa, a u podnóża formuje się jęzor osuwiskowy.",
+                                           "answer":  true,
+                                           "explanation":  "Skutkiem gwałtownego zsuwania się zwietrzeliny jest utworzenie się niszy osuwiskowej i jęzora osuwiskowego."
+                                       },
+                                       {
+                                           "sentence":  "Widocznymi w terenie oznakami procesu spełzywania są pochylone płoty, słupy oraz charakterystycznie powyginane pnie drzew.",
+                                           "answer":  true,
+                                           "explanation":  "Oznakami spełzywania są powyginane pnie drzew, a także pochylone słupy lub płoty."
+                                       },
+                                       {
+                                           "sentence":  "Aby zapobiegać ruchom masowym, stosuje się metody takie jak nasadzanie roślinności, kotwy gruntowe czy siatki geotechniczne.",
+                                           "answer":  true,
+                                           "explanation":  "Do stabilizowania stoków wykorzystuje się siatki geotechniczne, kotwy gruntowe, tarasowanie oraz nasadzanie roślinności."
+                                       }
+                                   ]
+                 }
+}

@@ -1,0 +1,344 @@
+{
+    "metadata":  {
+                     "id":  "t6",
+                     "unit":  "VI",
+                     "title":  "Rzeźbotwórcza działalność morza"
+                 },
+    "lessonData":  {
+                       "flashcards":  [
+                                          {
+                                              "term":  "Abrazja",
+                                              "definition":  "Ogół procesów polegających na niszczeniu brzegu morza przez fale, prowadzący do cofania się wysokich brzegów."
+                                          },
+                                          {
+                                              "term":  "Nisza abrazyjna",
+                                              "definition":  "Zagłębienie powstające w dolnej części klifu na skutek podcinania go przez uderzające fale."
+                                          },
+                                          {
+                                              "term":  "Klif (faleza)",
+                                              "definition":  "Strome, niekiedy pionowe urwisko nadbrzeżne, które w wyniku podcinania przez fale w dolnej części cofa się."
+                                          },
+                                          {
+                                              "term":  "Platforma abrazyjna",
+                                              "definition":  "Lekko nachylona w stronę morza powierzchnia skalna, powstała w wyniku ścierania dna i jego wyrównywania przez materiał skalny niesiony przez wodę."
+                                          },
+                                          {
+                                              "term":  "Platforma akumulacyjna",
+                                              "definition":  "Podwodne przedłużenie platformy abrazyjnej, na której osadza się drobniejszy materiał naniesiony przez cofające się fale."
+                                          },
+                                          {
+                                              "term":  "Mierzeja",
+                                              "definition":  "Piaszczysty wał powstały w wyniku akumulacji drobnego materiału skalnego przenoszonego przez prąd przybrzeżny, odcinający wody zatoki od pełnego morza."
+                                          },
+                                          {
+                                              "term":  "Kosa",
+                                              "definition":  "Mierzeja, która jest przyrośnięta do lądu tylko jednym końcem (np. Mierzeja Helska)."
+                                          },
+                                          {
+                                              "term":  "Lido",
+                                              "definition":  "Piaszczysty wał wystający niekiedy ponad poziom morza, powstający w miejscu załamywania się fal, zwykle oddzielający lagunę od morza."
+                                          },
+                                          {
+                                              "term":  "Laguna",
+                                              "definition":  "Część morza o niewielkiej głębokości, która została odcięta od otwartego akwenu przez wał zwany lido."
+                                          },
+                                          {
+                                              "term":  "Rewa",
+                                              "definition":  "Długi, piaszczysty, podwodny wał (mielizna) biegnący równolegle do wybrzeża, powstający w pobliżu brzegu."
+                                          },
+                                          {
+                                              "term":  "Wybrzeże fiordowe",
+                                              "definition":  "Typ wybrzeża powstały w wyniku zalania przez morze głębokich, U-kształtnych dolin polodowcowych, tworzący kręte i wąskie zatoki."
+                                          },
+                                          {
+                                              "term":  "Wybrzeże szkierowe",
+                                              "definition":  "Typ wybrzeża utworzony na skutek zalania przez morze obszaru polodowcowego z licznymi skalistymi pagórkami wygładzonymi przez lądolód."
+                                          },
+                                          {
+                                              "term":  "Wybrzeże riasowe",
+                                              "definition":  "Typ wybrzeża powstały w wyniku zalania dolin górskich o przebiegu prostopadłym do linii brzegowej."
+                                          },
+                                          {
+                                              "term":  "Wybrzeże dalmatyńskie",
+                                              "definition":  "Typ wybrzeża powstały przez częściowe zalanie silnie rozczłonkowanych grzbietów górskich biegnących równolegle do linii brzegowej."
+                                          },
+                                          {
+                                              "term":  "Atol",
+                                              "definition":  "Wyspa koralowa w kształcie pierścienia otaczającego lagunę, powstała w wyniku narastania koralowców wokół zapadającej się wyspy wulkanicznej."
+                                          }
+                                      ],
+                       "matchingPairs":  [
+                                             {
+                                                 "pair1":  "Wybrzeże dalmatyńskie",
+                                                 "pair2":  "Powstałe w wyniku zalania grzbietów górskich biegnących równolegle do linii brzegowej"
+                                             },
+                                             {
+                                                 "pair1":  "Wybrzeże limanowe",
+                                                 "pair2":  "Powstałe wskutek zalania wylotów dolin rzecznych i odcięcia ich od morza mierzejami"
+                                             },
+                                             {
+                                                 "pair1":  "Wybrzeże riasowe",
+                                                 "pair2":  "Powstałe przez zalanie dolin górskich prostopadłych do linii brzegowej"
+                                             },
+                                             {
+                                                 "pair1":  "Wybrzeże fiordowe",
+                                                 "pair2":  "Powstałe w wyniku zalania przez morze dolin polodowcowych"
+                                             },
+                                             {
+                                                 "pair1":  "Wybrzeże szkierowe",
+                                                 "pair2":  "Charakteryzuje się licznymi skalistymi wysepkami i pagórkami wygładzonymi przez lądolód"
+                                             },
+                                             {
+                                                 "pair1":  "Abrazja",
+                                                 "pair2":  "Ogół procesów polegających na niszczeniu brzegu morza przez fale"
+                                             },
+                                             {
+                                                 "pair1":  "Wał burzowy",
+                                                 "pair2":  "Wał powstający wskutek akumulacji materiału daleko w głąb plaży podczas sztormu"
+                                             },
+                                             {
+                                                 "pair1":  "Wybrzeże namorzynowe",
+                                                 "pair2":  "Wybrzeże porośnięte roślinnością przystosowaną do słonej wody i zmian poziomu wody"
+                                             },
+                                             {
+                                                 "pair1":  "Plaża",
+                                                 "pair2":  "Płaski odcinek wybrzeża powstający tam, gdzie fale wyrzucają więcej materiału, niż zabierają"
+                                             },
+                                             {
+                                                 "pair1":  "Wybrzeże zalewowo-mierzejowe",
+                                                 "pair2":  "Powstaje na obszarach o niewielkich pływach przez częściowe odcięcie zatoki mierzeją."
+                                             }
+                                         ]
+                   },
+    "testData":  {
+                     "quiz":  [
+                                  {
+                                      "question":  "Który z poniższych czynników jest główną siłą napędową procesu abrazji na wybrzeżu wysokim?",
+                                      "options":  [
+                                                      "Długotrwała i intensywna działalność wiatru transportującego drobnoziarnisty piasek eoliczny w głąb lądu",
+                                                      "Energia fal morskich uderzających o brzeg i wtłaczających wodę w szczeliny skalne",
+                                                      "Systematyczna akumulacyjna działalność prądów przybrzeżnych osadzających materiał mineralny",
+                                                      "Okresowe wahania poziomu morza wywołane wyłącznie przez oddziaływanie grawitacyjne Księżyca i Słońca"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Na wybrzeżu wysokim fale niszczą brzeg, ponieważ woda dostaje się do szczelin skalnych i rozsadza skały, co jest istotą procesu abrazji."
+                                  },
+                                  {
+                                      "question":  "Jak nazywa się strome, często pionowe urwisko nadbrzeżne, które powstaje w wyniku podcinania brzegu przez fale?",
+                                      "options":  [
+                                                      "Mierzeja",
+                                                      "Rewa",
+                                                      "Klif",
+                                                      "Lido"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Klif to strome, niekiedy pionowe urwisko nadbrzeżne, które jest podcinane przez fale, przez co z czasem obrywa się i cofa."
+                                  },
+                                  {
+                                      "question":  "Czym charakteryzuje się plaża jako forma rzeźby terenu?",
+                                      "options":  [
+                                                      "Jest to stromy odcinek wybrzeża podlegający nieustannej erozji wgłębnej i procesom osuwiskowym",
+                                                      "Jest to podwodne zagłębienie rynnowe przebiegające równolegle do linii brzegowej w strefie szelfu",
+                                                      "Jest to płaski, piaszczysty lub żwirowy odcinek wybrzeża powstały w wyniku akumulacji",
+                                                      "Jest to skalista wysepka o charakterze ostańcowym, która została wygładzona przez lądolód plejstocenski"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Plaża to płaski, piaszczysty (czasem żwirowy lub kamienisty) odcinek wybrzeża, który powstaje tam, gdzie fale wyrzucają na brzeg więcej materiału, niż zabierają."
+                                  },
+                                  {
+                                      "question":  "Jaki proces jest bezpośrednią przyczyną powstawania mierzei?",
+                                      "options":  [
+                                                      "Intensywna erozja wgłębna rzek uchodzących do zbiornika morskiego w warunkach dużego spadku",
+                                                      "Akumulacja materiału niesionego przez prądy przybrzeżne w miejscu załamania linii brzegowej",
+                                                      "Mechaniczna abrazja klifów oraz systematyczne cofanie się lądu pod wpływem uderzeń fal sztormowych",
+                                                      "Eustatyczne podnoszenie się poziomu morza i zalewanie dolin górskich o przebiegu prostopadłym"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Mierzeje powstają w wyniku akumulacyjnej działalności prądów przybrzeżnych, które transportują materiał wzdłuż wybrzeża i osadzają go, gdy prędkość prądu maleje."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych form jest piaszczystym wałem przyrośniętym do lądu tylko jednym końcem?",
+                                      "options":  [
+                                                      "Kosa",
+                                                      "Atol",
+                                                      "Fiord",
+                                                      "Laguna"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Mierzeję, która jest przyrośnięta do lądu tylko jednym końcem, nazywa się kosą (np. Mierzeja Helska)."
+                                  },
+                                  {
+                                      "question":  "Na czym polega powstawanie niszy abrazyjnej, kluczowej dla procesu cofania się klifu?",
+                                      "options":  [
+                                                      "Na osadzaniu materiału klastycznego u podnóża klifu, co czasowo wzmacnia jego strukturę geologiczną",
+                                                      "Na podcinaniu dolnej części klifu przez fale, co tworzy zagłębienie",
+                                                      "Na selektywnym wywiewaniu drobnego materiału z górnej krawędzi klifu przez porywiste wiatry",
+                                                      "Na chemicznym rozpuszczaniu skał wapiennych na szczycie urwiska przez agresywne wody opadowe"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Fale podcinają klif i w jego dolnej części tworzy się zagłębienie zwane niszą abrazyjną, co prowadzi do obrywania się nawisu skalnego."
+                                  },
+                                  {
+                                      "question":  "Który typ wybrzeża powstaje w wyniku zalania przez morze dolin polodowcowych i charakteryzuje się głębokimi, krętymi zatokami?",
+                                      "options":  [
+                                                      "Wybrzeże szkierowe",
+                                                      "Wybrzeże dalmatyńskie",
+                                                      "Wybrzeże fiordowe",
+                                                      "Wybrzeże limanowe"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wybrzeża fiordowe powstały w wyniku zalania przez morze dolin polodowcowych; fiordy to głębokie, kręte i wąskie zatoki ciągnące się w głąb lądu."
+                                  },
+                                  {
+                                      "question":  "Czym różni się lido od laguny?",
+                                      "options":  [
+                                                      "Lido to piaszczysty wał wystający ponad poziom morza, a laguna to odcięta przez niego część morza",
+                                                      "Laguna to piaszczysty wał wydmowy, a lido to naturalny zbiornik słodkiej wody na wybrzeżu",
+                                                      "Lido powstaje wyłącznie na wybrzeżach klifowych, natomiast laguna jest cechą wybrzeży szkierowych",
+                                                      "Są to synonimy określające ten sam typ płytkiej zatoki odciętej całkowicie od otwartego akwenu"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Lido to piaszczysty wał wystający niekiedy ponad poziom morza, natomiast laguna to część morza o niewielkiej głębokości znajdująca się między lido a wybrzeżem."
+                                  },
+                                  {
+                                      "question":  "Jak powstają wybrzeża szkierowe?",
+                                      "options":  [
+                                                      "Przez zalanie dolin rzecznych o przebiegu prostopadłym do linii brzegowej w obszarach górskich",
+                                                      "Wskutek zalania obszaru polodowcowego z licznymi skalistymi pagórkami wygładzonymi przez lądolód",
+                                                      "W wyniku intensywnego rozwoju kolonii koralowców na obszarach szelfowych o ciepłym klimacie",
+                                                      "Przez akumulacyjne odcięcie ujść rzecznych piaszczystymi mierzejami w strefie małych pływów"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wybrzeża szkierowe utworzyły się na skutek zalania przez morze obszaru polodowcowego z licznymi skalistymi pagórkami wygładzonymi przez lądolód."
+                                  },
+                                  {
+                                      "question":  "Co jest charakterystyczną cechą wybrzeży limanowych?",
+                                      "options":  [
+                                                      "Występowanie równoległych do brzegu grzbietów górskich wystających ponad powierzchnię wody",
+                                                      "Szerokie i głębokie lejkowate ujścia rzek w obszarach o bardzo dużej amplitudzie pływów",
+                                                      "Zalane wyloty dolin rzecznych odcięte od morza mierzejami",
+                                                      "Wąskie i głębokie zatoki o pionowych ścianach skalnych powstałe w wyniku erozji lodowcowej"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Wybrzeża limanowe zostały utworzone wskutek zalania przez morze wylotów dolin rzecznych odciętych od niego mierzejami lub wałami."
+                                  },
+                                  {
+                                      "question":  "Która z poniższych form jest podwodnym wałem piaszczystym, równoległym do wybrzeża?",
+                                      "options":  [
+                                                      "Rewa",
+                                                      "Klif",
+                                                      "Atol",
+                                                      "Estuarium"
+                                                  ],
+                                      "answer":  "A",
+                                      "explanation":  "Rewa to długi, piaszczysty wał równoległy do wybrzeża, powstający w pobliżu brzegu (wał przybrzeżny)."
+                                  },
+                                  {
+                                      "question":  "W jaki sposób powstaje atol?",
+                                      "options":  [
+                                                      "W wyniku niszczącej erozji wulkanicznego stożka przez uderzenia fal morskich podczas sztormów",
+                                                      "Jako efekt rozwoju koralowców tworzących rafę barierową wokół zapadającej się wyspy wulkanicznej",
+                                                      "Przez gwałtowną akumulację piasku na podwodnych wzniesieniach w strefie silnych pływów",
+                                                      "Wskutek zalania krateru wygasłego wulkanu przez podnoszący się transgresywnie poziom morza"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Atole należą do wybrzeży koralowych; powstają, gdy rafa barierowa oddzielona od brzegu laguną rozwija się wokół wyspy, która z czasem może zniknąć pod wodą."
+                                  },
+                                  {
+                                      "question":  "Jaka jest kluczowa różnica w ułożeniu rzeźby terenu względem morza między wybrzeżem dalmatyńskim a riasowym?",
+                                      "options":  [
+                                                      "Wybrzeża dalmatyńskie powstają przy zalaniu dolin prostopadłych, a riasowe – równoległych grzbietów",
+                                                      "Wybrzeża dalmatyńskie to zalane grzbiety równoległe do linii brzegowej, a riasowe to zalane doliny prostopadłe do brzegu",
+                                                      "Oba typy wybrzeży charakteryzują się morfologią równoległą do linii brzegowej zbiornika morskiego",
+                                                      "Wybrzeża riasowe są pochodzenia lodowcowego, natomiast dalmatyńskie – pochodzenia wulkanicznego"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wybrzeża dalmatyńskie powstają w wyniku zalania grzbietów górskich biegnących równolegle do linii brzegowej, natomiast wybrzeża riasowe powstają, gdy morze zalewa doliny górskie o przebiegu prostopadłym do linii brzegowej."
+                                  },
+                                  {
+                                      "question":  "Co dzieje się z materiałem skalnym oderwanym od klifu w procesie jego cofania?",
+                                      "options":  [
+                                                      "Jest on natychmiast wywiewany przez wiatr w głąb lądu, gdzie tworzy systemy wydm śródlądowych",
+                                                      "Tworzy trwałą i twardą barierę ochronną, która całkowicie zatrzymuje dalszą erozję brzegu",
+                                                      "Jest rozkruszany i ściera dno, tworząc platformę abrazyjną, a następnie akumulacyjną",
+                                                      "Rozpuszcza się całkowicie w wodzie morskiej bez pozostawiania jakichkolwiek trwałych osadów"
+                                                  ],
+                                      "answer":  "C",
+                                      "explanation":  "Oderwany materiał skalny jest rozkruszany i ściera dno; w efekcie powstaje platforma abrazyjna, a przedłużeniem jej jest platforma akumulacyjna, na której osadza się drobniejszy materiał."
+                                  },
+                                  {
+                                      "question":  "Jakie warunki sprzyjają powstawaniu wybrzeży zalewowo-mierzejowych, takich jak południowe wybrzeże Bałtyku?",
+                                      "options":  [
+                                                      "Występowanie bardzo dużych pływów morskich oraz brak jakichkolwiek prądów przybrzeżnych",
+                                                      "Niewielkie pływy oraz prądy przybrzeżne akumulujące piasek i odcinające zatoki",
+                                                      "Bardzo głębokie dno morskie występujące bezpośrednio przy niskiej linii brzegowej kontynentu",
+                                                      "Obecność silnych prądów wstecznych, które skutecznie uniemożliwiają jakąkolwiek akumulację piasku"
+                                                  ],
+                                      "answer":  "B",
+                                      "explanation":  "Wybrzeża zalewowo-mierzejowe powstają na obszarach o niewielkich pływach na skutek częściowego odcięcia zatoki oraz akumulacji materiału niesionego przez prądy przybrzeżne."
+                                  }
+                              ],
+                     "trueFalse":  [
+                                       {
+                                           "sentence":  "Wybrzeża szkierowe powstały w wyniku zalania przez morze dolin górskich o przebiegu prostopadłym do linii brzegowej.",
+                                           "answer":  false,
+                                           "explanation":  "Wybrzeża szkierowe utworzyły się na skutek zalania obszaru polodowcowego z licznymi skalistymi pagórkami (mutonami), natomiast zalanie dolin prostopadłych do linii brzegowej jest cechą wybrzeży riasowych."
+                                       },
+                                       {
+                                           "sentence":  "Proces abrazji zachodzi najintensywniej na piaszczystych brzegach niskich, gdzie fale mają swobodny dostęp do lądu.",
+                                           "answer":  false,
+                                           "explanation":  "Na wybrzeżu niskim przeważa akumulacja, natomiast abrazja (niszczenie brzegu) zachodzi głównie na wybrzeżu wysokim, gdzie fale rozsadza skały i podcinają klify."
+                                       },
+                                       {
+                                           "sentence":  "Mierzeja to forma terenu, która zawsze całkowicie odcina zatokę od pełnego morza, tworząc zamknięte jezioro.",
+                                           "answer":  false,
+                                           "explanation":  "Mierzeja to piaszczysty wał, który może odcinać zatokę częściowo; gdy odetnie ją całkowicie, powstaje jezioro przybrzeżne."
+                                       },
+                                       {
+                                           "sentence":  "Lido to piaszczysty wał powstający na wybrzeżu fiordowym w wyniku działalności wiatru.",
+                                           "answer":  false,
+                                           "explanation":  "Lido powstaje na wybrzeżach lagunowych, w obszarach o dużej amplitudzie pływów, odcinając lagunę od morza, a nie na wybrzeżach fiordowych."
+                                       },
+                                       {
+                                           "sentence":  "Atol powstaje w wyniku intensywnej abrazji wyspy wulkanicznej przez fale morskie.",
+                                           "answer":  false,
+                                           "explanation":  "Atole zaliczane są do wybrzeży koralowych i powstają w wyniku rozwoju koralowców, a nie niszczącej działalności fal (abrazji)."
+                                       },
+                                       {
+                                           "sentence":  "Wybrzeża dalmatyńskie powstały w wyniku częściowego zalania grzbietów górskich biegnących równolegle do linii brzegowej.",
+                                           "answer":  true,
+                                           "explanation":  "Takie wybrzeża wyglądają jak równoległy układ zalanych grzbietów górskich."
+                                       },
+                                       {
+                                           "sentence":  "Wskutek podcinania klifu przez fale w jego dolnej części tworzy się zagłębienie nazywane niszą abrazyjną.",
+                                           "answer":  true,
+                                           "explanation":  "Fale uderzające w dolną część klifu powodują powstawanie zagłębienia określanego mianem niszy abrazyjnej."
+                                       },
+                                       {
+                                           "sentence":  "Wybrzeża riasowe powstały w wyniku zalania dolin górskich o przebiegu prostopadłym do linii brzegowej.",
+                                           "answer":  true,
+                                           "explanation":  "Powstanie wybrzeży riasowych wiąże się z wkroczeniem morza na obszar górski, gdzie doliny są prostopadłe do linii brzegowej."
+                                       },
+                                       {
+                                           "sentence":  "Platforma abrazyjna to piaszczysty wał powstający w wyniku akumulacyjnej działalności fal na brzegu niskim.",
+                                           "answer":  false,
+                                           "explanation":  "Platforma abrazyjna to powierzchnia powstała w wyniku ścierania dna przez materiał skalny (abrazji), natomiast piaszczyste wały są efektem akumulacji."
+                                       },
+                                       {
+                                           "sentence":  "Wybrzeża limanowe tworzą się wskutek zalania przez morze wylotów dolin rzecznych odciętych od niego mierzejami.",
+                                           "answer":  true,
+                                           "explanation":  "Geneza wybrzeży limanowych polega na zalaniu wylotów dolin rzecznych i ich odcięciu przez mierzeje lub piaszczyste wały."
+                                       },
+                                       {
+                                           "sentence":  "Mierzeja, która jest przyrośnięta do lądu tylko jednym końcem, nazywana jest kosą.",
+                                           "answer":  true,
+                                           "explanation":  "Źródła precyzują, że mierzeję połączoną z lądem tylko jednym końcem (np. Mierzeja Helska) nazywa się kosą."
+                                       },
+                                       {
+                                           "sentence":  "Abrazja jest procesem polegającym na niszczeniu brzegu i dna morza przez fale.",
+                                           "answer":  true,
+                                           "explanation":  "Ogół procesów niszczenia brzegu przez fale morskie, w tym ścieranie powierzchni skalnych, definiowany jest jako abrazja."
+                                       }
+                                   ]
+                 }
+}

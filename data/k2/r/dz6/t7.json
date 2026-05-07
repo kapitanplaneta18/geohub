@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "id": "k2-r-dz6-t7",
+    "title": "Rozwój turystyki na świecie",
+    "level": "R",
+    "class": "2"
+  },
+  "lessonData": {
+    "flashcards": [
+      {
+        "term": "Turystyka",
+        "definition": "Czasowe i dobrowolne przemieszczanie się ludzi podejmowane w innym celu niż zmiana stałego miejsca zamieszkania, obejmujące również podróże służbowe wiążące się z wypoczynkiem."
+      },
+      {
+        "term": "Przyczyny społeczno-ekonomiczne rozwoju turystyki",
+        "definition": "Wzrost zamożności obywateli państw wysoko rozwiniętych, wydłużenie czasu wolnego od pracy (np. dłuższe urlopy) oraz wyższy poziom wykształcenia i chęć poznawania świata."
+      },
+      {
+        "term": "Przyczyny administracyjno-polityczne rozwoju turystyki",
+        "definition": "Liberalizacja przepisów celnych, paszportowych i wizowych ułatwiająca przemieszczanie się między krajami."
+      },
+      {
+        "term": "Globalne systemy płatnicze a ruch turystyczny",
+        "definition": "Umożliwiają podróżnym swobodne korzystanie ze środków finansowych na całym świecie bez konieczności noszenia dużej ilości gotówki, co zwiększa bezpieczeństwo."
+      },
+      {
+        "term": "Skutki gospodarcze rozwoju turystyki na Seszelach czy Malediwach",
+        "definition": "Wysoki, sięgający niekiedy ponad 20% udział turystyki w strukturze zatrudnienia oraz w tworzeniu Produktu Krajowego Brutto (PKB)."
+      },
+      {
+        "term": "Zagrożenie monokulturą turystyczną",
+        "definition": "Całkowite uzależnienie gospodarki regionu od turystyki, grożące jej załamaniem w przypadku katastrof przyrodniczych, wojen czy ataków terrorystycznych."
+      },
+      {
+        "term": "Wyludnianie się centrów miast turystycznych",
+        "definition": "Zjawisko przenoszenia się stałych mieszkańców na przedmieścia z powodu wzrostu cen towarów, usług i nieruchomości oraz obniżenia jakości życia wskutek masowego ruchu turystycznego."
+      },
+      {
+        "term": "Pozytywny wpływ turystyki na ochronę środowiska",
+        "definition": "Obejmowanie cennym turystycznie i przyrodniczo obszarów prawną ochroną, np. poprzez tworzenie rezerwatów lub parków narodowych."
+      },
+      {
+        "term": "Bariery rozwoju turystyki",
+        "definition": "Niski poziom bezpieczeństwa w regionie wywołany konfliktami zbrojnymi, zagrożeniem terrorystycznym, epidemiami chorób zakaźnych lub ryzykiem klęsk żywiołowych."
+      },
+      {
+        "term": "Udział kontynentów w międzynarodowym ruchu turystycznym",
+        "definition": "Około 50% wszystkich przyjazdów turystycznych i blisko 40% globalnych wpływów z turystyki przypada na Europę, posiadającą rozwiniętą infrastrukturę i walory."
+      }
+    ],
+    "matchingPairs": [
+      {
+        "pair1": "Rozwój turystyki (skutek gospodarczy pozytywny)",
+        "pair2": "Zwiększenie wpływów budżetowych państw i powstawanie nowych miejsc pracy w sektorze usług."
+      },
+      {
+        "pair1": "Rozwój turystyki (skutek gospodarczy negatywny)",
+        "pair2": "Wzrost cen towarów, usług i nieruchomości w miejscowościach popularnych turystycznie."
+      },
+      {
+        "pair1": "Rozwój turystyki (skutek społeczno-kulturowy negatywny)",
+        "pair2": "Zatracanie odrębności kulturowej miejscowej ludności z powodu wzmożonych kontaktów z obcokrajowcami."
+      },
+      {
+        "pair1": "Rozwój turystyki (skutek ekologiczny negatywny)",
+        "pair2": "Przeobrażenie i degradacja krajobrazu z powodu dużego natężenia ruchu i rozbudowy infrastruktury noclegowej."
+      },
+      {
+        "pair1": "Rozwój turystyki (przyczyna technologiczna)",
+        "pair2": "Postęp w dziedzinie środków transportu (np. tanie linie lotnicze) oraz rozwój internetowych systemów rezerwacji."
+      }
+    ]
+  },
+  "testData": {
+    "quiz": [
+      {
+        "question": "Który z poniższych procesów administracyjno-politycznych bezpośrednio wpłynął na masowy rozwój międzynarodowego ruchu turystycznego w ostatnich dekadach?",
+        "options": [
+          "Rozwój globalnych systemów płatniczych ułatwiających transakcje zagraniczne.",
+          "Złagodzenie i liberalizacja przepisów celnych, paszportowych i wizowych.",
+          "Wydłużenie czasu wolnego od świadczenia pracy w krajach rozwiniętych.",
+          "Skrócenie czasu podróży dzięki zastosowaniu nowoczesnego transportu."
+        ],
+        "answer": "B",
+        "explanation": "Zniesienie barier administracyjnych, takich jak konieczność posiadania wiz czy szczegółowe kontrole graniczne, bezpośrednio ułatwia i przyspiesza swobodne przemieszczanie się pomiędzy krajami."
+      },
+      {
+        "question": "W jaki sposób przemiany społeczno-ekonomiczne w państwach nowo uprzemysłowionych (np. w Chinach) wpływają na globalny ruch turystyczny?",
+        "options": [
+          "Sprzyjają tworzeniu nowych parków narodowych i rezerwatów przyrody.",
+          "Wymuszają budowę wielkich globalnych systemów rezerwacji biletów.",
+          "Zwiększają ogólną pulę turystów dzięki wzrostowi dochodów ludności.",
+          "Pozwalają na swobodny przepływ kapitału i inwestycji infrastrukturalnych."
+        ],
+        "answer": "C",
+        "explanation": "Wzrost zamożności obywateli państw o dynamicznie rosnącej gospodarce pozwala im na przeznaczanie znacznie większej ilości środków finansowych na zagraniczne podróże."
+      },
+      {
+        "question": "Jaki innowacyjny czynnik technologiczny w obszarze transportu miał największy wpływ na to, że obecnie przeszło 50% międzynarodowych podróży odbywa się drogą powietrzną?",
+        "options": [
+          "Budowa gęstej sieci połączeń szybkich kolei na kontynencie azjatyckim.",
+          "Rozpowszechnienie się tanich linii lotniczych i obniżenie cen biletów.",
+          "Znaczna poprawa bezpieczeństwa na dużych lotniskach przesiadkowych.",
+          "Zastąpienie transportu wodnego przez nowoczesne samoloty towarowe."
+        ],
+        "answer": "B",
+        "explanation": "Pojawienie się na rynku firm lotniczych oferujących maksymalnie obniżone ceny przelotów uczyniło transport lotniczy dostępnym dla masowego odbiorcy."
+      },
+      {
+        "question": "W jaki sposób rozwój nowych technologii informacyjnych ułatwił turystom bezpieczne zarządzanie finansami podczas podróży zagranicznych?",
+        "options": [
+          "Wyeliminował konieczność uiszczania opłat i podatków turystycznych.",
+          "Pozwolił na powszechne zastosowanie w pełni darmowych przewalutowań.",
+          "Stworzył możliwość korzystania z globalnych systemów płatniczych.",
+          "Ograniczył koszty związane ze sprzedażą wycieczek przez pośredników."
+        ],
+        "answer": "C",
+        "explanation": "Globalne systemy płatnicze umożliwiają turystom swobodne korzystanie ze środków finansowych na całym świecie bez konieczności noszenia dużych i niebezpiecznych ilości gotówki."
+      },
+      {
+        "question": "Które ze zjawisk jest powszechnym, negatywnym skutkiem gospodarczym masowego rozwoju turystyki na poziomie lokalnym?",
+        "options": [
+          "Wzrost cen towarów, podstawowych usług i nieruchomości w kurortach.",
+          "Zatracanie odrębności kulturowej regionów na skutek napływu obcych.",
+          "Przeobrażenie i powolna degradacja naturalnego krajobrazu górskiego.",
+          "Obniżenie ogólnego bezpieczeństwa ze względu na konflikty polityczne."
+        ],
+        "answer": "A",
+        "explanation": "Ogromny popyt generowany przez turystów powoduje podnoszenie cen przez lokalnych sprzedawców i właścicieli ziemskich, co znacznie zwiększa koszty utrzymania w miejscowościach atrakcyjnych turystycznie."
+      },
+      {
+        "question": "W jaki sposób napływ turystów wpływa na długofalową poprawę warunków życia stałych mieszkańców regionów atrakcyjnych turystycznie?",
+        "options": [
+          "Umożliwia objęcie całego regionu rygorystyczną ochroną krajobrazową.",
+          "Prowadzi do wyludniania centrów miast i poprawy jakości podmiejskiej.",
+          "Zapewnia całkowite uniezależnienie lokalnej gospodarki od koniunktury.",
+          "Stymuluje rozbudowę infrastruktury technicznej i usług towarzyszących."
+        ],
+        "answer": "D",
+        "explanation": "Inwestycje w nowoczesne drogi, sieci wodociągowe czy placówki gastronomiczne i handlowe budowane na potrzeby turystów służą na co dzień również lokalnym społecznościom."
+      },
+      {
+        "question": "Który negatywny proces społeczno-kulturowy jest bezpośrednim następstwem długotrwałej obecności masowego ruchu turystycznego w odizolowanych regionach?",
+        "options": [
+          "Całkowite zahamowanie gospodarczego rozwoju terenów peryferyjnych.",
+          "Sukcesywne zatracanie odrębności kulturowej przez miejscową ludność.",
+          "Postępująca degradacja niezwykle cennych, unikalnych ekosystemów.",
+          "Skokowy wzrost opłat nakładanych na rolniczą działalność wytwórczą."
+        ],
+        "answer": "B",
+        "explanation": "Wzmożone kontakty z turystami powodują stopniową asymilację zagranicznych wzorców zachowań, mody i języka, co prowadzi do zaniku tradycyjnych zwyczajów lokalnych."
+      },
+      {
+        "question": "Z jakiego powodu w miastach o bardzo wysokim natężeniu ruchu turystycznego obserwuje się zjawisko ucieczki stałych mieszkańców na przedmieścia?",
+        "options": [
+          "Ze względu na wprowadzenie ścisłej ochrony konserwatorskiej zabytków.",
+          "Z powodu wzrostu kosztów utrzymania i znacznego obniżenia jakości życia.",
+          "W wyniku zamykania lokalnych przedsiębiorstw na rzecz wielkich hoteli.",
+          "Na skutek rygorystycznych ograniczeń dotyczących ruchu pieszego i aut."
+        ],
+        "answer": "B",
+        "explanation": "Przekształcenie centrów miast w strefy nastawione wyłącznie na turystów generuje tłok, hałas oraz bardzo wysokie ceny towarów i usług, co zmusza rezydentów do migracji w spokojniejsze miejsca."
+      },
+      {
+        "question": "W jaki pozytywny sposób rozwój usług turystycznych może oddziaływać na sferę środowiska przyrodniczego?",
+        "options": [
+          "Powoduje drastyczne zmniejszenie emisji spalin przez transport publiczny.",
+          "Wymusza obejmowanie najcenniejszych przyrodniczo obszarów ochroną prawną.",
+          "Prowadzi do zahamowania budowy wszelkiego rodzaju dróg i autostrad.",
+          "Zwiększa globalną produkcję ekologicznej żywności przez społeczności."
+        ],
+        "answer": "B",
+        "explanation": "Zachowanie pierwotnych walorów natury jest kluczowe dla przyciągania turystów, dlatego władze powołują rezerwaty i parki narodowe, chroniąc je przed zniszczeniem."
+      },
+      {
+        "question": "Jakie zagrożenie dla krajobrazu stanowi niekontrolowana rozbudowa infrastruktury noclegowej i gastronomicznej w miejscach atrakcyjnych?",
+        "options": [
+          "Doprowadza do silnej asymilacji zachodnich wzorców konsumpcyjnych.",
+          "Skutkuje trwałym przeobrażeniem i znaczną degradacją przestrzeni.",
+          "Wymusza natychmiastowe obniżenie rygorystycznych norm sanitarnych.",
+          "Ogranicza możliwości powstawania nowych obiektów przemysłowych."
+        ],
+        "answer": "B",
+        "explanation": "Budowa wielkich kompleksów wypoczynkowych o nienaturalnych formach architektonicznych niszczy walory estetyczne otoczenia i prowadzi do wycinki lasów oraz niszczenia siedlisk fauny."
+      },
+      {
+        "question": "Dlaczego całkowite opieranie gospodarki regionu lub państwa wyspiarskiego niemal wyłącznie na turystyce jest uważane za wysoce ryzykowne?",
+        "options": [
+          "Powoduje to powszechny brak rąk do pracy w strategicznym sektorze rolniczym.",
+          "Wymusza gigantyczne zadłużenie państwa w celu budowy portów lotniczych.",
+          "Nagłe katastrofy przyrodnicze lub ataki zbrojne mogą zrujnować całą gospodarkę.",
+          "Spadające ceny biletów lotniczych prowadzą do zubożenia budżetu centralnego."
+        ],
+        "answer": "C",
+        "explanation": "Gospodarki oparte wyłącznie na jednym sektorze są podatne na gwałtowne załamania. Zjawiska ekstremalne (np. wojna, epidemia, tsunami) powodują natychmiastowy spadek popytu i brak innych źródeł dochodu państwa."
+      },
+      {
+        "question": "W jaki bezpośredni sposób turystyka generuje wysoki procent PKB w krajach o niewielkiej powierzchni i atrakcyjnym położeniu geograficznym (np. na Seszelach)?",
+        "options": [
+          "Niezwykle wysoki popyt wymusza rozwój przemysłu wydobywczego na wyspach.",
+          "Dochody z obsługi turystów kompensują ogromne braki surowców mineralnych.",
+          "Wysoki odsetek zatrudnienia w usługach turystycznych generuje największe zyski.",
+          "Napływ osób z zagranicy pozwala na opodatkowanie wyłącznie obcokrajowców."
+        ],
+        "answer": "C",
+        "explanation": "W gospodarkach tych państw obsługa turystów absorbuje znaczną część siły roboczej, co sprawia, że sektor usług odpowiada za tworzenie głównej i decydującej części Produktu Krajowego Brutto."
+      }
+    ],
+    "trueFalse": [
+      {
+        "sentence": "Oparcie całej gospodarki państwa wyspiarskiego wyłącznie na usługach turystycznych gwarantuje jej pełną stabilność finansową w obliczu globalnych kryzysów politycznych i zbrojnych.",
+        "answer": false,
+        "explanation": "Całkowite uzależnienie gospodarki od turystyki grozi jej nagłym załamaniem w przypadku konfliktów zbrojnych, ataków terrorystycznych czy katastrof przyrodniczych."
+      },
+      {
+        "sentence": "Wzmożone kontakty miejscowej ludności z masowo napływającymi turystami stanowią gwarancję umocnienia i zachowania odrębności kulturowej danego regionu.",
+        "answer": false,
+        "explanation": "Zjawiskiem towarzyszącym rozwojowi turystyki jest często zatracanie odrębności kulturowej regionów na skutek intensywnych kontaktów miejscowej ludności z obcokrajowcami."
+      },
+      {
+        "sentence": "Rozwój turystyki na atrakcyjnym przyrodniczo obszarze może stanowić bezpośrednią przyczynę zahamowania rozwoju przemysłu w tym regionie.",
+        "answer": true,
+        "explanation": "Ochrona obszarów cennych turystycznie wiąże się bardzo często z wprowadzaniem rygorystycznych ograniczeń dotyczących budowy nowych zakładów przemysłowych."
+      },
+      {
+        "sentence": "Dynamiczny rozwój usług turystycznych w historycznych centrach miast skutkuje masowym napływem nowych, stałych mieszkańców poszukujących wyższej jakości życia i niższych kosztów utrzymania.",
+        "answer": false,
+        "explanation": "Wzmożony ruch turystyczny powoduje ucieczkę stałych mieszkańców z centrów na przedmieścia, co jest podyktowane wzrostem cen towarów, usług i nieruchomości oraz ogólnym obniżeniem jakości życia."
+      },
+      {
+        "sentence": "Wprowadzenie globalnych systemów płatniczych doprowadziło do bezpośredniego skrócenia czasu podróży oraz zwiększenia komfortu przemieszczania się turystów między kontynentami.",
+        "answer": false,
+        "explanation": "Globalne systemy płatnicze umożliwiają bezpieczne korzystanie ze środków finansowych bez gotówki, natomiast za skrócenie czasu podróży odpowiada postęp technologiczny w dziedzinie środków transportu."
+      }
+    ]
+  }
+}
