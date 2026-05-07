@@ -45,6 +45,8 @@ const app = {
     // Wstrzyknięcie widoków z views.js
     ...appViews,
 
+    lastView: null,
+
     state: {
         view: 'HOME', // HOME, LEVEL, UNITS, TOPICS, LOADING, LESSON_SELECT, UNIT_MODE_SELECT, GAME_VIEW, GAME_RESULT, ERROR
         classId: null, levelId: null, unitId: null, topicId: null, unitTitle: '', topicTitle: '',
@@ -716,8 +718,11 @@ const app = {
     // --- UI RENDERER ---
 
     updateUI() {
-        // Reset scroll position to top on every view change
-        window.scrollTo({ top: 0, behavior: 'instant' });
+        // Scroll to top only if the view has actually changed
+        if (this.state.view !== this.lastView) {
+            window.scrollTo({ top: 0, behavior: 'instant' });
+            this.lastView = this.state.view;
+        }
 
         const root = document.getElementById('app-root');
         const backBtn = document.getElementById('back-btn');
