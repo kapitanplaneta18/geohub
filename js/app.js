@@ -716,6 +716,9 @@ const app = {
     // --- UI RENDERER ---
 
     updateUI() {
+        // Reset scroll position to top on every view change
+        window.scrollTo({ top: 0, behavior: 'instant' });
+
         const root = document.getElementById('app-root');
         const backBtn = document.getElementById('back-btn');
         const breadcrumbs = document.getElementById('breadcrumbs');
@@ -761,3 +764,4 @@ const app = {
 
 // URUCHOMIENIE
 document.addEventListener('DOMContentLoaded', () => app.init());
+
