@@ -6,7 +6,7 @@ const appViews = {
     htmlHome() {
         return `
             <div class="animate-fade-in-up">
-                <div class="flex flex-col items-center justify-center max-w-4xl mx-auto text-center px-2 -mt-2 md:-mt-4 mb-4 md:mb-10">
+                <div class="flex flex-col items-center justify-center max-w-4xl mx-auto text-center px-2 -mt-4 sm:-mt-2 md:-mt-4 mb-4 md:mb-10">
                     <div class="w-24 h-24 sm:w-28 sm:h-28 md:w-32 md:h-32 flex-shrink-0 relative z-10 mt-0 mb-1 md:mb-2">
                         <img src="assets/logo_vector.svg" alt="GeoHub Logo" class="w-full h-full object-contain drop-shadow-lg" style="filter: saturate(0.75);">
                     </div>
@@ -26,20 +26,20 @@ const appViews = {
                             <span class="text-[9px] font-black text-slate-500 uppercase tracking-widest">BETA</span>
                         </div>
                         
-                        <p class="text-[11px] md:text-sm text-slate-500 font-medium leading-tight max-w-xs mx-auto px-2 mt-2">
+                        <p class="text-[10px] sm:text-[11px] md:text-sm text-slate-500 font-medium leading-tight max-w-xs mx-auto px-2 mt-2">
                             Aplikacja do nauki i powtórek z geografii na poziomie rozszerzonym. 
                         </p>
                     </div>
                 </div>
 
-                <div class="flex items-center gap-4 mb-4 px-2 max-w-4xl mx-auto">
+                <div class="flex items-center gap-3 sm:gap-4 mb-3 sm:mb-4 px-2 max-w-4xl mx-auto">
                     <h2 class="text-[10px] md:text-xs font-black text-slate-400 uppercase tracking-[0.25em] whitespace-nowrap">Program Nauczania 2026</h2>
                     <div class="h-[1px] w-full bg-slate-200"></div>
                 </div>
 
-                <div class="grid grid-cols-2 gap-4 md:gap-8 max-w-4xl mx-auto pb-16">
+                <div class="grid grid-cols-2 gap-3 sm:gap-4 md:gap-8 max-w-4xl mx-auto pb-12 sm:pb-16">
 
-                    <div onclick="app.goToLevel(1)" class="group home-class-tile glass-tile glass-tile-emerald p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] cursor-pointer">
+                    <div onclick="app.goToLevel(1)" class="group home-class-tile glass-tile glass-tile-emerald p-3 sm:p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] cursor-pointer">
                         <div class="absolute right-[-20px] bottom-[-20px] md:right-[-64px] md:bottom-[-24px] opacity-[0.04] text-emerald-500 group-hover:opacity-[0.15] group-hover:scale-110 transition-all duration-700 pointer-events-none">
                             <i data-lucide="globe" class="w-32 h-32 md:w-64 md:h-64"></i>
                         </div>
@@ -60,7 +60,7 @@ const appViews = {
                         </div>
                     </div>
 
-                    <div onclick="app.goToLevel(2)" class="group home-class-tile glass-tile glass-tile-blue p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] cursor-pointer">
+                    <div onclick="app.goToLevel(2)" class="group home-class-tile glass-tile glass-tile-blue p-3 sm:p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] cursor-pointer">
                         <div class="absolute right-[-20px] bottom-[-20px] md:right-[-12px] md:bottom-[-12px] opacity-[0.04] text-blue-500 group-hover:opacity-[0.15] group-hover:scale-110 transition-all duration-700 pointer-events-none">
                             <i data-lucide="users" class="w-32 h-32 md:w-64 md:h-64"></i>
                         </div>
@@ -81,7 +81,7 @@ const appViews = {
                         </div>
                     </div>
 
-                    <div onclick="app.goToLevel(3)" class="group home-class-tile glass-tile glass-tile-rose p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] cursor-pointer">
+                    <div onclick="app.goToLevel(3)" class="group home-class-tile glass-tile glass-tile-rose p-3 sm:p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] cursor-pointer">
                         <div class="absolute right-[-20px] bottom-[-20px] md:right-[-32px] md:bottom-[-40px] opacity-[0.04] text-rose-500 group-hover:opacity-[0.15] group-hover:scale-110 transition-all duration-700 pointer-events-none">
                             <i data-lucide="map" class="w-32 h-32 md:w-64 md:h-64"></i>
                         </div>
@@ -102,7 +102,7 @@ const appViews = {
                         </div>
                     </div>
 
-                    <div class="home-class-tile glass-tile p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] grayscale opacity-40 cursor-not-allowed">
+                    <div class="home-class-tile glass-tile p-3 sm:p-4 md:p-8 relative overflow-hidden flex flex-col justify-between aspect-square md:aspect-auto md:min-h-[300px] grayscale opacity-40 cursor-not-allowed">
                         <div class="absolute inset-0 flex flex-col items-center justify-center z-20">
                             <div class="bg-white/90 backdrop-blur-md border border-slate-200 px-5 py-3 rounded-2xl shadow-lg flex flex-col items-center gap-1.5 transform -rotate-2">
                                 <i data-lucide="lock" class="w-5 h-5 text-slate-500"></i>
@@ -175,23 +175,23 @@ const appViews = {
 
         return `
             <div class="animate-fade-in-up">
-                <div class="text-center mb-10">
-                    <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-primary-50 text-primary-600 mb-5 border border-primary-100">
+                <div class="text-center mb-6 sm:mb-10">
+                    <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-primary-50 text-primary-600 mb-3 sm:mb-5 border border-primary-100">
                         <i data-lucide="${icon}" class="w-8 h-8"></i>
                     </div>
                     <h2 class="text-2xl font-extrabold text-slate-800 leading-tight px-2">${this.state.topicTitle}</h2>
-                    <p class="text-slate-500 text-sm mt-3 font-medium">Wybierz, w jaki sposób chcesz opanować ten materiał</p>
+                    <p class="text-slate-500 text-sm mt-2 sm:mt-3 font-medium">Wybierz, w jaki sposób chcesz opanować ten materiał</p>
                 </div>
 
-                <div class="grid gap-6">
-                    <div class="paper-card p-6 border-l-4 border-l-primary-500 hover:border-primary-500 hover:ring-2 hover:ring-primary-50 relative overflow-hidden transition-all">
+                <div class="grid gap-3 sm:gap-6">
+                    <div class="paper-card p-4 sm:p-6 border-l-4 border-l-primary-500 hover:border-primary-500 hover:ring-2 hover:ring-primary-50 relative overflow-hidden transition-all">
                         <div class="absolute -right-4 -top-4 opacity-5 text-primary-600 pointer-events-none">
                             <i data-lucide="book-open" class="w-32 h-32"></i>
                         </div>
                         <h3 class="text-xs font-bold text-primary-600 uppercase tracking-widest mb-4 flex items-center gap-2">
                             <i data-lucide="graduation-cap" class="w-4 h-4"></i> Przyswajanie wiedzy
                         </h3>
-                        <div class="grid grid-cols-2 gap-4">
+                        <div class="grid grid-cols-2 gap-3 sm:gap-4">
                             <button onclick="app.startGame('FLASHCARDS')" class="group bg-white border border-slate-200 text-slate-700 py-4 px-3 rounded-xl font-bold text-sm transition-all shadow-sm flex flex-col items-center gap-2 hover:border-primary-500 hover:text-primary-700 hover:bg-primary-50 active:scale-95">
                                 <div class="p-2 bg-slate-50 rounded-lg group-hover:bg-primary-100 transition-colors">
                                     <i data-lucide="copy" class="w-5 h-5"></i>
@@ -207,14 +207,14 @@ const appViews = {
                         </div>
                     </div>
 
-                    <div class="paper-card p-6 border-l-4 border-l-orange-400 hover:border-orange-400 hover:ring-2 hover:ring-orange-50 relative overflow-hidden transition-all">
+                    <div class="paper-card p-4 sm:p-6 border-l-4 border-l-orange-400 hover:border-orange-400 hover:ring-2 hover:ring-orange-50 relative overflow-hidden transition-all">
                         <div class="absolute -right-4 -top-4 opacity-5 text-orange-600 pointer-events-none">
                             <i data-lucide="check-square" class="w-32 h-32"></i>
                         </div>
                         <h3 class="text-xs font-bold text-orange-600 uppercase tracking-widest mb-4 flex items-center gap-2">
                             <i data-lucide="help-circle" class="w-4 h-4"></i> Sprawdź się
                         </h3>
-                        <div class="grid grid-cols-2 gap-4">
+                        <div class="grid grid-cols-2 gap-3 sm:gap-4">
                             <button onclick="app.startGame('QUIZ')" class="group bg-white border border-slate-200 hover:border-orange-400 hover:text-orange-700 hover:bg-orange-50 text-slate-700 py-4 px-3 rounded-xl font-bold text-sm transition-all shadow-sm flex flex-col items-center gap-2 active:scale-95">
                                 <div class="p-2 bg-slate-50 rounded-lg group-hover:bg-orange-100 transition-colors">
                                     <i data-lucide="help-circle" class="w-5 h-5"></i>
@@ -278,13 +278,13 @@ const appViews = {
         if (units.length === 0) return this.htmlEmpty("Brak zaplanowanych działów w tej sekcji.");
 
         return `
-            <div class="mb-8 animate-fade-in-up">
-                <h2 class="text-3xl font-extrabold text-slate-800 font-fredoka">Działy Tematyczne</h2>
-                <p class="text-sm text-slate-500 mt-1 font-medium">Wybierz główny obszar do nauki</p>
+            <div class="mb-4 sm:mb-8 animate-fade-in-up">
+                <h2 class="text-3xl font-bold text-slate-800 font-plus-jakarta-sans">Działy Tematyczne</h2>
+                <p class="text-sm text-slate-500 mt-1 font-medium">Wybierz dział którego chcesz się nauczyć</p>
             </div>
             <div class="grid gap-4 animate-fade-in-up delay-100">
                 ${units.map((unit, idx) => `
-                    <button onclick="app.goToTopics('${unit.id}', '${unit.title}')" class="paper-card p-4 sm:p-5 flex items-center gap-5 text-left group hover:bg-slate-50/50">
+                    <button onclick="app.goToTopics('${unit.id}', '${unit.title}')" class="paper-card p-3 sm:p-5 flex items-center gap-4 sm:gap-5 text-left group hover:bg-slate-50/50">
                         <div class="w-12 h-12 rounded-xl bg-slate-100 flex items-center justify-center text-slate-500 group-hover:bg-primary-100 group-hover:text-primary-700 transition-colors shadow-sm">
                             <i data-lucide="${this.formatIcon(unit.icon)}" class="w-6 h-6"></i>
                         </div>
@@ -308,7 +308,7 @@ const appViews = {
         const topics = currentUnit ? currentUnit.topics : [];
 
         return `
-            <div class="mb-8 animate-fade-in-up">
+            <div class="mb-4 sm:mb-8 animate-fade-in-up">
                 <div class="inline-flex items-center gap-2 text-xs font-bold text-slate-400 uppercase bg-slate-100 px-3 py-1 rounded-full mb-3">
                     <i data-lucide="folder" class="w-3 h-3"></i> ${this.state.unitId}
                 </div>
@@ -316,7 +316,7 @@ const appViews = {
             </div>
             
             <div class="animate-fade-in-up delay-100">
-                <button onclick="app.loadUnitData()" class="w-full bg-gradient-to-r from-orange-400 to-orange-500 text-white rounded-2xl py-4 font-bold shadow-lg hover:shadow-xl hover:from-orange-500 hover:to-orange-600 transition-all mb-8 flex items-center justify-center gap-3 active:scale-[0.98]">
+                <button onclick="app.loadUnitData()" class="w-full bg-gradient-to-r from-orange-400 to-orange-500 text-white rounded-2xl py-4 font-bold shadow-lg hover:shadow-xl hover:from-orange-500 hover:to-orange-600 transition-all mb-4 sm:mb-8 flex items-center justify-center gap-3 active:scale-[0.98]">
                     <i data-lucide="flame" class="w-6 h-6"></i>
                     KOMPLEKSOWY TEST DZIAŁU
                 </button>
@@ -406,6 +406,15 @@ const appViews = {
         const term = card.term || card.content || "Brak pojęcia";
         const definition = card.definition || card.answer || "Brak definicji";
 
+        let termFontSize = 'text-3xl sm:text-4xl';
+        const termLength = term.length;
+
+        if (termLength > 25) {
+            termFontSize = 'text-xl sm:text-2xl leading-tight';
+        } else if (termLength > 15) {
+            termFontSize = 'text-2xl sm:text-3xl leading-tight';
+        }
+
         return `
             <div class="animate-fade-in-up flex flex-col h-full pt-4">
                 <div class="flex justify-end mb-4">
@@ -418,7 +427,7 @@ const appViews = {
                         <div class="absolute inset-0 paper-card flex flex-col items-center justify-center p-8 backface-hidden border-b-4 border-emerald-500 overflow-hidden bg-white">
                             <span class="absolute top-6 left-1/2 -translate-x-1/2 text-[10px] uppercase font-black tracking-[0.2em] text-emerald-600 bg-emerald-50 px-4 py-1.5 rounded-full shadow-sm">Pojęcie</span>
                             <div class="w-full text-center mt-2">
-                                <h3 class="text-3xl sm:text-4xl font-extrabold text-slate-800 leading-tight">${term}</h3>
+                                <h3 class="${termFontSize} font-extrabold text-center text-slate-800 break-words w-full px-4">${term}</h3>
                             </div>
                             <div class="absolute bottom-6 flex items-center gap-2 text-slate-400">
                                 <i data-lucide="refresh-cw" class="w-4 h-4"></i>
@@ -430,7 +439,7 @@ const appViews = {
                             <span class="absolute top-6 left-1/2 -translate-x-1/2 text-[10px] uppercase font-black tracking-[0.2em] text-slate-400 border border-white/10 bg-white/5 px-4 py-1.5 rounded-full shadow-sm">Definicja</span>
                             
                             <div class="w-full flex-grow flex items-center justify-center overflow-y-auto mt-10 mb-10 px-2 text-center">
-                                <p class="text-lg sm:text-xl leading-relaxed font-bold">${definition}</p>
+                                <p class="text-base sm:text-lg leading-snug font-bold text-center break-words w-full px-4">${definition}</p>
                             </div>
                             
                             <div class="absolute bottom-6 flex items-center gap-2 text-slate-400">
@@ -776,18 +785,27 @@ const appViews = {
     },
 
     htmlRemoved() {
+        const fallbackInfo = {
+            title: 'Temat usunięty z podstawy programowej',
+            message: 'Ten materiał nie jest już wymagany i został wycofany z obowiązującego programu nauczania. Nie musisz się go uczyć do matury. Fajnie, co? :D',
+            icon: 'book-x'
+        };
+
+        const removedInfo = this.state.removedTopicInfo || fallbackInfo;
+
         return `
             <div class="flex flex-col items-center justify-center min-h-[50vh] px-4">
                 <div class="flex flex-col items-center justify-center p-12 bg-slate-50 rounded-3xl border border-slate-200 border-dashed text-center w-full max-w-md mx-auto">
                     <div class="p-4 bg-slate-100 rounded-full mb-5">
-                        <i data-lucide="book-x" class="w-10 h-10 text-slate-400"></i>
+                        <i data-lucide="${removedInfo.icon}" class="w-10 h-10 text-slate-400"></i>
                     </div>
-                    <h3 class="text-xl font-bold text-slate-700 mb-2">Temat usunięty z podstawy programowej</h3>
+                    <h3 class="text-xl font-bold text-slate-700 mb-2">${removedInfo.title}</h3>
                     <p class="text-sm text-slate-500 max-w-md">
-                        Ten materiał nie jest już wymagany i został wycofany z obowiązującego programu nauczania. Nie musisz się go uczyć do matury. Fajnie, co? :D
+                        ${removedInfo.message}
+                    </p>
                 </div>
                 <button onclick="app.goBack()" class="mt-8 px-6 py-2.5 bg-slate-800 text-white rounded-lg font-medium hover:bg-slate-700 transition shadow-lg shadow-slate-200">
-                    Wróć
+                    Powrót do działów
                 </button>
             </div>
         `;

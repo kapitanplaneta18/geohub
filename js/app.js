@@ -51,6 +51,7 @@ const app = {
         view: 'HOME', // HOME, LEVEL, UNITS, TOPICS, LOADING, LESSON_SELECT, UNIT_MODE_SELECT, GAME_VIEW, GAME_RESULT, ERROR
         classId: null, levelId: null, unitId: null, topicId: null, unitTitle: '', topicTitle: '',
         currentData: null, lastAttemptedUrl: '',
+        removedTopicInfo: null,
         
         // GAME ENGINE STATE
         gameView: null, 
@@ -89,6 +90,7 @@ const app = {
         this.state = { 
             view: 'HOME', classId: null, levelId: null, unitId: null, topicId: null, 
             unitTitle: '', topicTitle: '', currentData: null, lastAttemptedUrl: '',
+            removedTopicInfo: null,
             currentExerciseIndex: 0, score: 0
         };
         this.updateUI();
@@ -496,9 +498,38 @@ const app = {
 
     // --- DATA LOADING & MULTI-FETCH ---
 
+    getExcludedTopicInfo(topicId, topicTitle) {
+        const isHighTechTopic = (
+            this.state.classId == 3 &&
+            this.state.levelId === 'r' &&
+            this.state.unitId === 'dz5' &&
+            topicId === 't4'
+        );
+
+        if (isHighTechTopic) {
+            return {
+                title: topicTitle || 'Przemysł wysokich technologii',
+                message: 'Temat ten został wykreślony z obecnej podstawy programowej. Nie jest wymagany na maturze, dlatego nie został ujęty w bazie pytań aplikacji GeoHub. Możesz pominąć ten rozdział.',
+                icon: 'book-x'
+            };
+        }
+
+        return null;
+    },
+
     async loadLessonData(topicId, topicTitle) {
         this.state.topicId = topicId;
         this.state.topicTitle = topicTitle;
+
+        const excludedTopicInfo = this.getExcludedTopicInfo(topicId, topicTitle);
+        if (excludedTopicInfo) {
+            this.state.removedTopicInfo = excludedTopicInfo;
+            this.state.view = 'REMOVED';
+            this.updateUI();
+            return;
+        }
+
+        this.state.removedTopicInfo = null;
         this.state.view = 'LOADING';
         this.updateUI();
 
@@ -528,6 +559,7 @@ const app = {
             
             if (!response.ok) {
                 if (response.status === 404) {
+                    this.state.removedTopicInfo = null;
                     this.state.view = 'REMOVED';
                     this.updateUI();
                     return;
@@ -537,6 +569,7 @@ const app = {
             
             const text = await response.text();
             if (!text || text.trim() === '') {
+                this.state.removedTopicInfo = null;
                 this.state.view = 'REMOVED';
                 this.updateUI();
                 return;
