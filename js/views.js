@@ -174,56 +174,56 @@ const appViews = {
         const icon = currentUnit ? this.formatIcon(currentUnit.icon) : 'book';
 
         return `
-            <div class="animate-fade-in-up">
-                <div class="text-center mb-6 sm:mb-10">
-                    <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-primary-50 text-primary-600 mb-3 sm:mb-5 border border-primary-100">
-                        <i data-lucide="${icon}" class="w-8 h-8"></i>
+            <div class="animate-fade-in-up mt-4 sm:mt-12">
+                <div class="text-center mb-4 sm:mb-10">
+                    <div class="inline-flex items-center justify-center w-12 h-12 sm:w-16 sm:h-16 rounded-xl sm:rounded-2xl bg-primary-50 text-primary-600 mb-2 sm:mb-5 border border-primary-100">
+                        <i data-lucide="${icon}" class="w-6 h-6 sm:w-8 sm:h-8"></i>
                     </div>
-                    <h2 class="text-2xl font-extrabold text-slate-800 leading-tight px-2">${this.state.topicTitle}</h2>
-                    <p class="text-slate-500 text-sm mt-2 sm:mt-3 font-medium">Wybierz, w jaki sposób chcesz opanować ten materiał</p>
+                    <h2 class="text-xl sm:text-2xl font-extrabold text-slate-800 leading-tight px-2">${this.state.topicTitle}</h2>
+                    <p class="text-slate-500 text-xs sm:text-sm mt-1 sm:mt-3 font-medium">Wybierz, w jaki sposób chcesz opanować ten materiał</p>
                 </div>
 
-                <div class="grid gap-3 sm:gap-6">
-                    <div class="paper-card p-4 sm:p-6 border-l-4 border-l-primary-500 hover:border-primary-500 hover:ring-2 hover:ring-primary-50 relative overflow-hidden transition-all">
+                <div class="grid gap-2 sm:gap-6">
+                    <div class="paper-card p-3 sm:p-6 border-l-4 border-l-primary-500 hover:border-primary-500 hover:ring-2 hover:ring-primary-50 relative overflow-hidden transition-all">
                         <div class="absolute -right-4 -top-4 opacity-5 text-primary-600 pointer-events-none">
                             <i data-lucide="book-open" class="w-32 h-32"></i>
                         </div>
-                        <h3 class="text-xs font-bold text-primary-600 uppercase tracking-widest mb-4 flex items-center gap-2">
-                            <i data-lucide="graduation-cap" class="w-4 h-4"></i> Przyswajanie wiedzy
+                        <h3 class="text-[11px] sm:text-xs font-bold text-primary-600 uppercase tracking-widest mb-3 sm:mb-4 flex items-center gap-1.5 sm:gap-2">
+                            <i data-lucide="graduation-cap" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i> Przyswajanie wiedzy
                         </h3>
-                        <div class="grid grid-cols-2 gap-3 sm:gap-4">
-                            <button onclick="app.startGame('FLASHCARDS')" class="group bg-white border border-slate-200 text-slate-700 py-4 px-3 rounded-xl font-bold text-sm transition-all shadow-sm flex flex-col items-center gap-2 hover:border-primary-500 hover:text-primary-700 hover:bg-primary-50 active:scale-95">
-                                <div class="p-2 bg-slate-50 rounded-lg group-hover:bg-primary-100 transition-colors">
-                                    <i data-lucide="copy" class="w-5 h-5"></i>
+                        <div class="grid grid-cols-2 gap-2 sm:gap-4">
+                            <button onclick="app.startGame('FLASHCARDS')" class="group bg-white border border-slate-200 text-slate-700 py-3 sm:py-4 px-2.5 sm:px-3 rounded-xl font-bold text-xs sm:text-sm transition-all shadow-sm flex flex-col items-center gap-1.5 sm:gap-2 hover:border-primary-500 hover:text-primary-700 hover:bg-primary-50 active:scale-95">
+                                <div class="p-1.5 sm:p-2 bg-slate-50 rounded-lg group-hover:bg-primary-100 transition-colors">
+                                    <i data-lucide="copy" class="w-4 h-4 sm:w-5 sm:h-5"></i>
                                 </div>
                                 <span>Fiszki (${fcCount})</span>
                             </button>
-                            <button onclick="app.startGame('MATCHING')" class="group bg-white border border-slate-200 text-slate-700 py-4 px-3 rounded-xl font-bold text-sm transition-all shadow-sm flex flex-col items-center gap-2 hover:border-primary-500 hover:text-primary-700 hover:bg-primary-50 active:scale-95">
-                                <div class="p-2 bg-slate-50 rounded-lg group-hover:bg-primary-100 transition-colors">
-                                    <i data-lucide="combine" class="w-5 h-5"></i>
+                            <button onclick="app.startGame('MATCHING')" class="group bg-white border border-slate-200 text-slate-700 py-3 sm:py-4 px-2.5 sm:px-3 rounded-xl font-bold text-xs sm:text-sm transition-all shadow-sm flex flex-col items-center gap-1.5 sm:gap-2 hover:border-primary-500 hover:text-primary-700 hover:bg-primary-50 active:scale-95">
+                                <div class="p-1.5 sm:p-2 bg-slate-50 rounded-lg group-hover:bg-primary-100 transition-colors">
+                                    <i data-lucide="combine" class="w-4 h-4 sm:w-5 sm:h-5"></i>
                                 </div>
                                 <span>Pary (${pairCount})</span>
                             </button>
                         </div>
                     </div>
 
-                    <div class="paper-card p-4 sm:p-6 border-l-4 border-l-orange-400 hover:border-orange-400 hover:ring-2 hover:ring-orange-50 relative overflow-hidden transition-all">
+                    <div class="paper-card p-3 sm:p-6 border-l-4 border-l-orange-400 hover:border-orange-400 hover:ring-2 hover:ring-orange-50 relative overflow-hidden transition-all">
                         <div class="absolute -right-4 -top-4 opacity-5 text-orange-600 pointer-events-none">
                             <i data-lucide="check-square" class="w-32 h-32"></i>
                         </div>
-                        <h3 class="text-xs font-bold text-orange-600 uppercase tracking-widest mb-4 flex items-center gap-2">
-                            <i data-lucide="help-circle" class="w-4 h-4"></i> Sprawdź się
+                        <h3 class="text-[11px] sm:text-xs font-bold text-orange-600 uppercase tracking-widest mb-3 sm:mb-4 flex items-center gap-1.5 sm:gap-2">
+                            <i data-lucide="help-circle" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i> Sprawdź się
                         </h3>
-                        <div class="grid grid-cols-2 gap-3 sm:gap-4">
-                            <button onclick="app.startGame('QUIZ')" class="group bg-white border border-slate-200 hover:border-orange-400 hover:text-orange-700 hover:bg-orange-50 text-slate-700 py-4 px-3 rounded-xl font-bold text-sm transition-all shadow-sm flex flex-col items-center gap-2 active:scale-95">
-                                <div class="p-2 bg-slate-50 rounded-lg group-hover:bg-orange-100 transition-colors">
-                                    <i data-lucide="help-circle" class="w-5 h-5"></i>
+                        <div class="grid grid-cols-2 gap-2 sm:gap-4">
+                            <button onclick="app.startGame('QUIZ')" class="group bg-white border border-slate-200 hover:border-orange-400 hover:text-orange-700 hover:bg-orange-50 text-slate-700 py-3 sm:py-4 px-2.5 sm:px-3 rounded-xl font-bold text-xs sm:text-sm transition-all shadow-sm flex flex-col items-center gap-1.5 sm:gap-2 active:scale-95">
+                                <div class="p-1.5 sm:p-2 bg-slate-50 rounded-lg group-hover:bg-orange-100 transition-colors">
+                                    <i data-lucide="help-circle" class="w-4 h-4 sm:w-5 sm:h-5"></i>
                                 </div>
                                 <span>Quiz (${quizCount})</span>
                             </button>
-                            <button onclick="app.startGame('TF')" class="group bg-white border border-slate-200 hover:border-orange-400 hover:text-orange-700 hover:bg-orange-50 text-slate-700 py-4 px-3 rounded-xl font-bold text-sm transition-all shadow-sm flex flex-col items-center gap-2 active:scale-95">
-                                <div class="p-2 bg-slate-50 rounded-lg group-hover:bg-orange-100 transition-colors">
-                                    <i data-lucide="check-circle-2" class="w-5 h-5"></i>
+                            <button onclick="app.startGame('TF')" class="group bg-white border border-slate-200 hover:border-orange-400 hover:text-orange-700 hover:bg-orange-50 text-slate-700 py-3 sm:py-4 px-2.5 sm:px-3 rounded-xl font-bold text-xs sm:text-sm transition-all shadow-sm flex flex-col items-center gap-1.5 sm:gap-2 active:scale-95">
+                                <div class="p-1.5 sm:p-2 bg-slate-50 rounded-lg group-hover:bg-orange-100 transition-colors">
+                                    <i data-lucide="check-circle-2" class="w-4 h-4 sm:w-5 sm:h-5"></i>
                                 </div>
                                 <span>P/F (${tfCount})</span>
                             </button>
