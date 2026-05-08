@@ -760,6 +760,8 @@ const app = {
         const root = document.getElementById('app-root');
         const backBtn = document.getElementById('back-btn');
         const breadcrumbs = document.getElementById('breadcrumbs');
+        const footer = document.getElementById('app-footer');
+        const isCompactNoScrollGame = this.state.view === 'GAME_VIEW' && ['FLASHCARDS', 'QUIZ', 'TF'].includes(this.state.gameView);
 
         // Nawigacja
         if (this.state.view === 'HOME') {
@@ -769,6 +771,18 @@ const app = {
             backBtn.classList.remove('hidden');
             if (breadcrumbs) breadcrumbs.classList.remove('hidden');
             backBtn.onclick = () => this.goBack();
+        }
+
+        if (root) {
+            root.classList.toggle('app-root-game-compact', isCompactNoScrollGame);
+        }
+
+        if (footer) {
+            if (isCompactNoScrollGame) {
+                footer.classList.add('hidden', 'sm:block');
+            } else {
+                footer.classList.remove('hidden', 'sm:block');
+            }
         }
 
         // Renderowanie widoków

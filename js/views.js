@@ -371,13 +371,13 @@ const appViews = {
         else content = this.htmlError();
 
         return `
-            <div class="learning-layout animate-fade-in">
+            <div class="learning-layout animate-fade-in flex flex-col h-full min-h-[100dvh]">
                 <div class="learning-header">
                     <div class="learning-header-top">
-                        <span class="text-[10px] font-black text-slate-600 uppercase tracking-[0.22em]">
+                        <span class="text-[9px] sm:text-[10px] font-black text-slate-600 uppercase tracking-[0.22em]">
                             ${modeLabel}
                         </span>
-                        <button onclick="app.goBack()" class="p-2 bg-white text-slate-400 hover:text-red-500 hover:bg-red-50 border border-slate-200 rounded-xl shadow-sm transition-all active:scale-90 flex items-center justify-center min-w-[44px] min-h-[44px]">
+                        <button onclick="app.goBack()" class="p-1.5 sm:p-2 bg-white text-slate-400 hover:text-red-500 hover:bg-red-50 border border-slate-200 rounded-xl shadow-sm transition-all active:scale-90 flex items-center justify-center min-w-[40px] min-h-[40px] sm:min-w-[44px] sm:min-h-[44px]">
                             <i data-lucide="x" class="w-5 h-5"></i>
                         </button>
                     </div>
@@ -388,7 +388,7 @@ const appViews = {
                         <div class="learning-progress-bar ${progressColor} transition-all duration-500" style="width: ${progress}%"></div>
                     </div>
                 </div>
-                <div class="learning-content relative mt-2">
+                <div class="learning-content relative mt-1 sm:mt-2 flex flex-col flex-1 min-h-0">
                     ${content}
                 </div>
             </div>
@@ -406,62 +406,62 @@ const appViews = {
         const term = card.term || card.content || "Brak pojęcia";
         const definition = card.definition || card.answer || "Brak definicji";
 
-        let termFontSize = 'text-3xl sm:text-4xl';
+        let termFontSize = 'text-lg sm:text-2xl';
         const termLength = term.length;
 
         if (termLength > 25) {
-            termFontSize = 'text-xl sm:text-2xl leading-tight';
+            termFontSize = 'text-base sm:text-2xl leading-tight';
         } else if (termLength > 15) {
-            termFontSize = 'text-2xl sm:text-3xl leading-tight';
+            termFontSize = 'text-lg sm:text-3xl leading-tight';
         }
 
         return `
-            <div class="animate-fade-in-up flex flex-col h-full pt-4">
-                <div class="flex justify-end mb-4">
-                     <span class="text-[10px] font-black text-slate-400 uppercase tracking-widest">Pozostało: ${cards.length}</span>
+            <div class="animate-fade-in-up flex flex-col h-full pt-2 sm:pt-6 min-h-0">
+                <div class="flex justify-end mb-2 sm:mb-4">
+                     <span class="text-xs sm:text-sm font-black text-slate-400 uppercase tracking-widest">Pozostało: ${cards.length}</span>
                 </div>
 
-                <div class="perspective-1000 mb-8 cursor-pointer group w-full max-w-sm mx-auto h-[400px] sm:h-[450px]" onclick="app.flipCard()">
+                <div class="perspective-1000 mb-3 sm:mb-8 cursor-pointer group w-full max-w-sm mx-auto h-[40dvh] sm:h-[450px] min-h-[240px]" onclick="app.flipCard()">
                     <div class="relative w-full h-full transform-style-3d flip-card-inner ${flippedClass}">
                         
-                        <div class="absolute inset-0 paper-card flex flex-col items-center justify-center p-8 backface-hidden border-b-4 border-emerald-500 overflow-hidden bg-white">
-                            <span class="absolute top-6 left-1/2 -translate-x-1/2 text-[10px] uppercase font-black tracking-[0.2em] text-emerald-600 bg-emerald-50 px-4 py-1.5 rounded-full shadow-sm">Pojęcie</span>
+                        <div class="absolute inset-0 paper-card flex flex-col items-center justify-center p-4 sm:p-8 backface-hidden border-b-4 border-emerald-500 overflow-hidden bg-white">
+                            <span class="absolute top-4 sm:top-6 left-1/2 -translate-x-1/2 text-[9px] sm:text-[10px] uppercase font-black tracking-[0.2em] text-emerald-600 bg-emerald-50 px-3 sm:px-4 py-1 sm:py-1.5 rounded-full shadow-sm">Pojęcie</span>
                             <div class="w-full text-center mt-2">
-                                <h3 class="${termFontSize} font-extrabold text-center text-slate-800 break-words w-full px-4">${term}</h3>
+                                <h3 class="${termFontSize} font-extrabold text-center text-slate-800 break-words w-full px-2 sm:px-4">${term}</h3>
                             </div>
-                            <div class="absolute bottom-6 flex items-center gap-2 text-slate-400">
+                            <div class="absolute bottom-4 sm:bottom-6 flex items-center gap-2 text-slate-400">
                                 <i data-lucide="refresh-cw" class="w-4 h-4"></i>
-                                <span class="text-[10px] font-bold uppercase tracking-widest">Kliknij, aby sprawdzić</span>
+                                <span class="text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">Kliknij, aby sprawdzić</span>
                             </div>
                         </div>
 
-                        <div class="absolute inset-0 bg-white text-slate-800 rounded-xl shadow-xl flex flex-col items-center p-8 backface-hidden rotate-y-180 border-b-4 border-slate-100 overflow-hidden card-back">
-                            <span class="absolute top-6 left-1/2 -translate-x-1/2 text-[10px] uppercase font-black tracking-[0.2em] text-slate-400 border border-white/10 bg-white/5 px-4 py-1.5 rounded-full shadow-sm">Definicja</span>
+                        <div class="absolute inset-0 bg-white text-slate-800 rounded-xl shadow-xl flex flex-col items-center p-4 sm:p-8 backface-hidden rotate-y-180 border-b-4 border-slate-100 overflow-hidden card-back">
+                            <span class="absolute top-4 sm:top-6 left-1/2 -translate-x-1/2 text-[9px] sm:text-[10px] uppercase font-black tracking-[0.2em] text-slate-400 border border-white/10 bg-white/5 px-3 sm:px-4 py-1 sm:py-1.5 rounded-full shadow-sm">Definicja</span>
                             
                             <div class="w-full flex-grow flex items-center justify-center overflow-y-auto mt-10 mb-10 px-2 text-center">
-                                <p class="text-base sm:text-lg leading-snug font-bold text-center break-words w-full px-4">${definition}</p>
+                                <p class="text-sm sm:text-lg leading-snug font-bold text-center break-words w-full px-2 sm:px-4">${definition}</p>
                             </div>
                             
-                            <div class="absolute bottom-6 flex items-center gap-2 text-slate-400">
+                            <div class="absolute bottom-4 sm:bottom-6 flex items-center gap-2 text-slate-400">
                                 <i data-lucide="refresh-cw" class="w-4 h-4"></i>
-                                <span class="text-[10px] font-bold uppercase tracking-widest">Powrót</span>
+                                <span class="text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">Powrót</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="flex justify-center mb-6">
+                <div class="flex justify-center mb-3 sm:mb-6">
                     <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-widest text-slate-400 hover:text-red-500 transition-all py-2 px-4 rounded-full hover:bg-red-50">
                         <i data-lucide="flag" class="w-3.5 h-3.5"></i> Zgłoś błąd
                     </button>
                 </div>
 
-                <div class="grid grid-cols-2 gap-4 max-w-sm mx-auto w-full mt-auto">
-                    <button onclick="event.stopPropagation(); app.navFlashcard(1)" class="py-4 bg-white border-2 border-slate-200 text-slate-600 rounded-xl font-bold transition hover:bg-slate-50 active:scale-95 shadow-sm flex flex-col items-center gap-1">
+                <div class="grid grid-cols-2 gap-2 sm:gap-4 max-w-sm mx-auto w-full mt-auto mb-4 sm:mb-8">
+                    <button onclick="event.stopPropagation(); app.navFlashcard(1)" class="py-3 sm:py-4 bg-white border-2 border-slate-200 text-slate-600 rounded-xl font-bold transition hover:bg-slate-50 active:scale-95 shadow-sm flex flex-col items-center gap-1">
                         <i data-lucide="rotate-ccw" class="w-5 h-5 opacity-50"></i>
                         <span class="text-xs">Powtórz</span>
                     </button>
-                    <button onclick="event.stopPropagation(); app.markFlashcardKnown()" class="py-4 bg-primary-600 text-white rounded-xl font-bold shadow-soft hover:bg-primary-700 transition active:scale-95 flex flex-col items-center gap-1">
+                    <button onclick="event.stopPropagation(); app.markFlashcardKnown()" class="py-3 sm:py-4 bg-primary-600 text-white rounded-xl font-bold shadow-soft hover:bg-primary-700 transition active:scale-95 flex flex-col items-center gap-1">
                         <i data-lucide="check" class="w-5 h-5"></i>
                         <span class="text-xs">Umiem to</span>
                     </button>
@@ -519,50 +519,52 @@ const appViews = {
         const options = q.shuffledOptions;
 
         return `
-            <div class="animate-fade-in-up pb-10 pt-4 max-w-xl mx-auto w-full">
-                <div class="flex justify-end mb-4">
-                    <span class="text-[10px] font-black text-slate-400 uppercase tracking-widest">Pytanie ${index + 1} / ${questions.length}</span>
+            <div class="animate-fade-in-up flex flex-col h-full pt-2 sm:pt-6 max-w-xl mx-auto w-full min-h-0">
+                <div class="flex justify-end mb-2 sm:mb-4">
+                    <span class="text-xs sm:text-sm font-black text-slate-400 uppercase tracking-widest">Pytanie ${index + 1} / ${questions.length}</span>
                 </div>
 
-                <div class="paper-card p-6 sm:p-8 mb-6 border-b-4 border-b-orange-400 shadow-sm">
-                    <h3 class="text-lg sm:text-xl font-extrabold text-slate-800 leading-snug">${questionText}</h3>
+                <div class="paper-card p-4 sm:p-8 mb-2 sm:mb-6 border-b-4 border-b-orange-400 shadow-sm">
+                    <h3 class="text-lg sm:text-2xl font-extrabold text-slate-800 leading-snug">${questionText}</h3>
                 </div>
 
-                <div class="flex justify-end mb-3">
-                    <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50">
-                        <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
-                    </button>
-                </div>
+                <div class="mt-auto mb-4 sm:mb-8">
+                    <div class="flex justify-end mb-2 sm:mb-3">
+                        <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50">
+                            <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
+                        </button>
+                    </div>
 
-                <div class="flex flex-col gap-3 mb-8">
+                    <div class="flex flex-col gap-2 sm:gap-3 mb-0">
                     ${options.map(([key, value], displayIndex) => {
-                        let btnClass = "p-4 pr-14 rounded-xl border-2 text-left transition-all duration-200 relative flex items-center gap-4 bg-white";
+                        let btnClass = "p-3 sm:p-4 pr-12 sm:pr-14 rounded-xl border-2 text-left transition-all duration-200 relative flex items-center gap-3 sm:gap-4 bg-white";
                         const isCorrectKey = (String(key) === String(q.correctKey) || String(String.fromCharCode(65 + parseInt(key))) === String(q.correctKey));
                         const isSelectedKey = (String(key) === String(this.state.selectedQuizOption));
 
                         if (isAnswered) {
-                            if (isCorrectKey) btnClass = "p-4 pr-14 rounded-xl border-2 border-emerald-500 bg-emerald-50 text-emerald-900 font-bold flex items-center gap-4 relative shadow-md"; 
-                            else if (isSelectedKey) btnClass = "p-4 pr-14 rounded-xl border-2 border-red-500 bg-red-50 text-red-900 font-medium flex items-center gap-4 relative animate-shake"; 
-                            else btnClass = "p-4 pr-14 rounded-xl border-2 border-slate-100 opacity-40 flex items-center gap-4 relative"; 
+                            if (isCorrectKey) btnClass = "p-3 sm:p-4 pr-12 sm:pr-14 rounded-xl border-2 border-emerald-500 bg-emerald-50 text-emerald-900 font-bold flex items-center gap-3 sm:gap-4 relative shadow-md"; 
+                            else if (isSelectedKey) btnClass = "p-3 sm:p-4 pr-12 sm:pr-14 rounded-xl border-2 border-red-500 bg-red-50 text-red-900 font-medium flex items-center gap-3 sm:gap-4 relative animate-shake"; 
+                            else btnClass = "p-3 sm:p-4 pr-12 sm:pr-14 rounded-xl border-2 border-slate-100 opacity-40 flex items-center gap-3 sm:gap-4 relative"; 
                         } else { btnClass += " border-slate-200 hover:border-orange-400 hover:bg-orange-50 cursor-pointer shadow-sm hover:shadow-md"; }
 
                         const label = String.fromCharCode(65 + displayIndex);
 
                         return `
                             <button onclick="app.handleQuizAnswer('${key}')" ${isAnswered ? 'disabled' : ''} class="${btnClass}">
-                                <div class="w-8 h-8 rounded-lg ${isAnswered && isCorrectKey ? 'bg-emerald-200 text-emerald-800' : isAnswered && isSelectedKey ? 'bg-red-200 text-red-800' : 'bg-slate-100 text-slate-500'} flex items-center justify-center font-bold text-sm flex-shrink-0 transition-colors">
+                                <div class="w-7 h-7 sm:w-8 sm:h-8 rounded-lg ${isAnswered && isCorrectKey ? 'bg-emerald-200 text-emerald-800' : isAnswered && isSelectedKey ? 'bg-red-200 text-red-800' : 'bg-slate-100 text-slate-500'} flex items-center justify-center font-bold text-xs sm:text-sm flex-shrink-0 transition-colors">
                                     ${label}
                                 </div>
-                                <span class="text-[15px] sm:text-base ${isAnswered && isCorrectKey ? 'font-bold' : 'font-medium'}">${value}</span>
+                                <span class="text-sm sm:text-base ${isAnswered && isCorrectKey ? 'font-bold' : 'font-medium'}">${value}</span>
                                 ${isAnswered && isCorrectKey ? '<i data-lucide="check-circle" class="absolute right-4 text-emerald-500 w-6 h-6"></i>' : ''}
                                 ${isAnswered && isSelectedKey && !isCorrectKey ? '<i data-lucide="x-circle" class="absolute right-4 text-red-500 w-6 h-6"></i>' : ''}
                             </button>
                         `;
                     }).join('')}
+                    </div>
                 </div>
 
                 ${isAnswered && q.explanation ? `
-                    <div class="mb-6 p-5 bg-blue-50/80 text-blue-900 text-sm rounded-xl border border-blue-100 shadow-inner animate-fade-in-up">
+                    <div class="mb-4 sm:mb-6 p-4 sm:p-5 bg-blue-50/80 text-blue-900 text-sm rounded-xl border border-blue-100 shadow-inner animate-fade-in-up">
                         <div class="font-bold flex items-center gap-2 mb-1 text-blue-700">
                             <i data-lucide="info" class="w-4 h-4"></i> Wyjaśnienie
                         </div>
@@ -571,7 +573,7 @@ const appViews = {
                 ` : ''}
 
                 ${isAnswered ? `
-                    <button onclick="app.nextQuizQuestion()" class="w-full py-4 bg-slate-800 text-white rounded-xl font-bold shadow-lg hover:bg-slate-700 hover:shadow-xl transition-all active:scale-95 animate-fade-in-up">
+                    <button onclick="app.nextQuizQuestion()" class="w-full py-3 sm:py-4 bg-slate-800 text-white rounded-xl font-bold shadow-lg hover:bg-slate-700 hover:shadow-xl transition-all active:scale-95 animate-fade-in-up">
                         ${index === questions.length - 1 ? 'Podsumuj Wyniki' : 'Kolejne Pytanie'}
                     </button>
                 ` : ''}
@@ -601,29 +603,31 @@ const appViews = {
         };
 
         return `
-            <div class="flex flex-col items-center justify-center h-full text-center px-2 animate-fade-in-up pt-4 w-full max-w-lg mx-auto">
-                <div class="w-full flex justify-end mb-4">
-                    <span class="text-[10px] font-black text-slate-400 uppercase tracking-widest">${index + 1} / ${totalQs}</span>
+            <div class="flex flex-col h-full text-center px-2 animate-fade-in-up pt-2 sm:pt-6 w-full max-w-lg mx-auto min-h-0">
+                <div class="w-full flex justify-end mb-2 sm:mb-4">
+                    <span class="text-xs sm:text-sm font-black text-slate-400 uppercase tracking-widest">${index + 1} / ${totalQs}</span>
                 </div>
 
-                <div class="bg-white p-8 sm:p-10 rounded-3xl shadow-soft border border-slate-200 w-full mb-8 mt-2 relative overflow-hidden">
+                <div class="bg-white p-4 sm:p-10 rounded-2xl sm:rounded-3xl shadow-soft border border-slate-200 w-full mb-4 sm:mb-8 mt-1 sm:mt-2 relative overflow-hidden">
                     <div class="absolute top-0 left-0 w-full h-2 bg-emerald-500"></div>
-                    <h3 class="text-xl sm:text-2xl font-extrabold text-slate-800 leading-snug">${text}</h3>
+                    <h3 class="text-lg sm:text-2xl font-extrabold text-slate-800 leading-snug">${text}</h3>
                 </div>
 
-                <div class="flex justify-end mb-4 w-full">
-                    <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50">
-                        <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
-                    </button>
-                </div>
-                
-                <div class="grid grid-cols-2 gap-4 w-full mb-6">
-                    <button onclick="app.handleTFAnswer(true)" ${isAnswered ? 'disabled' : ''} class="p-6 sm:p-8 rounded-2xl font-black text-lg transition-all active:scale-95 ${getBtnClass(true)}">PRAWDA</button>
-                    <button onclick="app.handleTFAnswer(false)" ${isAnswered ? 'disabled' : ''} class="p-6 sm:p-8 rounded-2xl font-black text-lg transition-all active:scale-95 ${getBtnClass(false)}">FAŁSZ</button>
+                <div class="mt-auto w-full mb-4 sm:mb-8">
+                    <div class="flex justify-end mb-2 sm:mb-4 w-full">
+                        <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50">
+                            <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
+                        </button>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 gap-2 sm:gap-4 w-full mb-0">
+                        <button onclick="app.handleTFAnswer(true)" ${isAnswered ? 'disabled' : ''} class="p-4 sm:p-8 rounded-2xl font-black text-base sm:text-lg transition-all active:scale-95 ${getBtnClass(true)}">PRAWDA</button>
+                        <button onclick="app.handleTFAnswer(false)" ${isAnswered ? 'disabled' : ''} class="p-4 sm:p-8 rounded-2xl font-black text-base sm:text-lg transition-all active:scale-95 ${getBtnClass(false)}">FAŁSZ</button>
+                    </div>
                 </div>
 
                 ${isAnswered ? `
-                    <div class="w-full mb-6 animate-fade-in-up text-left">
+                    <div class="w-full mb-4 sm:mb-6 animate-fade-in-up text-left">
                         <div class="p-4 rounded-xl border ${userSel === isTrue ? 'bg-emerald-50 border-emerald-200 text-emerald-800' : 'bg-red-50 border-red-200 text-red-800'} mb-4 flex items-center gap-3">
                             <i data-lucide="${userSel === isTrue ? 'check-circle' : 'x-circle'}" class="w-6 h-6 ${userSel === isTrue ? 'text-emerald-500' : 'text-red-500'} flex-shrink-0"></i>
                             <span class="font-bold">${userSel === isTrue ? 'Świetnie! Poprawna odpowiedź.' : 'Niestety, to błędna odpowiedź.'}</span>
