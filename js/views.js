@@ -451,7 +451,7 @@ const appViews = {
                 </div>
 
                 <div class="flex justify-center mb-3 sm:mb-6">
-                    <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-widest text-slate-400 hover:text-red-500 transition-all py-2 px-4 rounded-full hover:bg-red-50">
+                    <button type="button" class="report-error-btn flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-widest text-slate-400 hover:text-red-500 transition-all py-2 px-4 rounded-full hover:bg-red-50" data-action="report-error">
                         <i data-lucide="flag" class="w-3.5 h-3.5"></i> Zgłoś błąd
                     </button>
                 </div>
@@ -482,7 +482,7 @@ const appViews = {
                 </div>
 
                 <div class="flex justify-end mb-2">
-                    <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50">
+                    <button type="button" class="report-error-btn flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50" data-action="report-error">
                         <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
                     </button>
                 </div>
@@ -530,7 +530,7 @@ const appViews = {
 
                 <div class="mt-auto mb-4 sm:mb-8">
                     <div class="flex justify-end mb-2 sm:mb-3">
-                        <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50">
+                        <button type="button" class="report-error-btn flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50" data-action="report-error">
                             <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
                         </button>
                     </div>
@@ -615,7 +615,7 @@ const appViews = {
 
                 <div class="mt-auto w-full mb-4 sm:mb-8">
                     <div class="flex justify-end mb-2 sm:mb-4 w-full">
-                        <button type="button" onclick="app.openBugReport()" class="flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50">
+                        <button type="button" class="report-error-btn flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50" data-action="report-error">
                             <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
                         </button>
                     </div>

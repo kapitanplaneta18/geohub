@@ -65,7 +65,9 @@
             </div>
             <form id="bugForm" onsubmit="app.submitBugReport(event)" class="p-6 space-y-4">
                 <input type="hidden" name="access_key" value="9b613134-c75c-44d5-8f65-797170889073">
+                <input type="hidden" id="bugContext" name="context" value="">
                 <textarea name="message" required class="w-full p-3 bg-slate-50 border border-slate-200 rounded-lg text-sm min-h-[100px]" placeholder="Opisz błąd..."></textarea>
+                <div id="bugStatus" class="text-sm"></div>
                 <div class="flex gap-3 pt-2">
                     <button type="button" onclick="app.closeBugReport()" class="flex-1 px-4 py-2 bg-slate-100 text-slate-600 rounded-lg font-medium">Anuluj</button>
                     <button type="submit" class="flex-1 px-4 py-2 bg-red-500 text-white rounded-lg font-medium shadow-lg shadow-red-500/20">Wyślij</button>

@@ -81,7 +81,24 @@ const app = {
     },
 
     init() {
+        this.setupGlobalEventDelegation();
         this.renderHome();
+    },
+
+    setupGlobalEventDelegation() {
+        const root = document.getElementById('app-root');
+        if (!root || this._rootClickBound) return;
+
+        root.addEventListener('click', (e) => {
+            const reportBtn = e.target.closest('.report-error-btn, [data-action="report-error"]');
+            if (!reportBtn) return;
+
+            e.preventDefault();
+            e.stopPropagation();
+            this.openBugReport();
+        });
+
+        this._rootClickBound = true;
     },
 
     // --- NAVIGATION ---
@@ -709,22 +726,37 @@ const app = {
         }
 
         const fullContext = `Klasa: ${state.classId} | Dział: ${state.unitId} | Temat: ${state.topicId} | ${content}`;
-        
-        document.getElementById('bugContext').value = fullContext;
-        document.getElementById('bugStatus').innerHTML = '';
-        document.getElementById('bugModal').classList.remove('hidden');
+
+        const bugModal = document.getElementById('bugModal');
+        const bugContext = document.getElementById('bugContext');
+        const bugStatus = document.getElementById('bugStatus');
+
+        if (!bugModal) {
+            alert('System zgłaszania błędów jest chwilowo niedostępny.');
+            return;
+        }
+
+        if (bugContext) bugContext.value = fullContext;
+        if (bugStatus) bugStatus.innerHTML = '';
+        bugModal.classList.remove('hidden');
         if (window.lucide) window.lucide.createIcons();
     },
 
     closeBugReport() {
-        document.getElementById('bugModal').classList.add('hidden');
-        document.getElementById('bugForm').reset();
+        const bugModal = document.getElementById('bugModal');
+        const bugForm = document.getElementById('bugForm');
+        if (bugModal) bugModal.classList.add('hidden');
+        if (bugForm) bugForm.reset();
     },
 
     submitBugReport(e) {
         e.preventDefault();
         const statusDiv = document.getElementById('bugStatus');
         const form = document.getElementById('bugForm');
+        if (!statusDiv || !form) {
+            alert('Nie udało się wysłać zgłoszenia. Spróbuj ponownie za chwilę.');
+            return;
+        }
         statusDiv.innerHTML = '<span class="text-slate-500 animate-pulse">Wysyłanie...</span>';
 
         const formData = new FormData(form);
