@@ -360,6 +360,7 @@ const app = {
             this.state.currentExerciseIndex++;
             this.state.quizAnswered = false;
             this.state.selectedQuizOption = null;
+            window.scrollTo({ top: 0, behavior: 'instant' });
             this.updateUI();
         } else {
             this.finishGame("Quiz", total);
@@ -451,6 +452,7 @@ const app = {
             this.state.currentExerciseIndex++;
             this.state.quizAnswered = false;
             this.state.selectedQuizOption = null;
+            window.scrollTo({ top: 0, behavior: 'instant' });
             this.updateUI();
         } else {
             this.finishGame("Prawda/Fałsz", total);
