@@ -526,7 +526,7 @@ const appViews = {
                 </div>
 
                 <div class="paper-card p-4 sm:p-8 mb-2 sm:mb-6 border-b-4 border-b-orange-400 shadow-sm">
-                    <h3 class="text-lg sm:text-2xl font-extrabold text-slate-800 leading-snug">${questionText}</h3>
+                    <h3 class="text-base sm:text-2xl font-extrabold text-slate-800 leading-snug">${questionText}</h3>
                 </div>
 
                 <div class="mt-auto mb-4 sm:mb-8">
@@ -611,7 +611,7 @@ const appViews = {
 
                 <div class="bg-white p-4 sm:p-10 rounded-2xl sm:rounded-3xl shadow-soft border border-slate-200 w-full mb-4 sm:mb-8 mt-1 sm:mt-2 relative overflow-hidden">
                     <div class="absolute top-0 left-0 w-full h-2 bg-emerald-500"></div>
-                    <h3 class="text-lg sm:text-2xl font-extrabold text-slate-800 leading-snug">${text}</h3>
+                    <h3 class="text-base sm:text-2xl font-extrabold text-slate-800 leading-snug">${text}</h3>
                 </div>
 
                 <div class="mt-auto w-full mb-4 sm:mb-8">
