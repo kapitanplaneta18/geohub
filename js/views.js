@@ -340,6 +340,7 @@ const appViews = {
 
     htmlGameView() {
         const mode = this.state.gameView;
+        const isMatchingMode = mode === 'MATCHING';
         let content = '';
         let modeLabel = '';
         let progress = 0;
@@ -377,7 +378,7 @@ const appViews = {
                         <span class="text-[9px] sm:text-[10px] font-black text-slate-600 uppercase tracking-[0.22em]">
                             ${modeLabel}
                         </span>
-                        <button onclick="app.goBack()" class="p-1.5 sm:p-2 bg-white text-slate-400 hover:text-red-500 hover:bg-red-50 border border-slate-200 rounded-xl shadow-sm transition-all active:scale-90 flex items-center justify-center min-w-[40px] min-h-[40px] sm:min-w-[44px] sm:min-h-[44px]">
+                        <button onclick="app.goBack()" class="${isMatchingMode ? 'p-1 min-w-[36px] min-h-[36px]' : 'p-1.5 min-w-[40px] min-h-[40px]'} sm:p-2 bg-white text-slate-400 hover:text-red-500 hover:bg-red-50 border border-slate-200 rounded-xl shadow-sm transition-all active:scale-90 flex items-center justify-center sm:min-w-[44px] sm:min-h-[44px]">
                             <i data-lucide="x" class="w-5 h-5"></i>
                         </button>
                     </div>
@@ -388,7 +389,7 @@ const appViews = {
                         <div class="learning-progress-bar ${progressColor} transition-all duration-500" style="width: ${progress}%"></div>
                     </div>
                 </div>
-                <div class="learning-content relative mt-1 sm:mt-2 flex flex-col flex-1 min-h-0">
+                <div class="learning-content relative ${isMatchingMode ? 'mt-0 sm:mt-2' : 'mt-1 sm:mt-2'} flex flex-col flex-1 min-h-0">
                     ${content}
                 </div>
             </div>
@@ -473,25 +474,25 @@ const appViews = {
     htmlGameMatching() {
         const cards = this.state.matchingCards;
         return `
-            <div class="animate-fade-in flex flex-col h-full pt-4">
-                <div class="bg-white/40 backdrop-blur-md rounded-3xl p-6 mb-8 border border-white shadow-xl text-center mx-auto max-w-lg">
-                    <p class="text-sm text-slate-800 font-semibold leading-relaxed mb-4">Znajdź pasujące do siebie pojęcia i ich definicje. Pamiętaj: masz trzy życia na tej planecie. Nie strać ich łatwo.</p>
-                    <div class="flex items-center justify-center gap-2 text-red-500">
-                        ${Array.from({length: 3}).map((_, i) => `<i data-lucide="heart" class="w-6 h-6 ${i < this.state.lives ? 'fill-current animate-heartbeat' : 'opacity-20'}"></i>`).join('')}
+            <div class="animate-fade-in flex flex-col h-full pt-1 sm:pt-4">
+                <div class="bg-white/40 backdrop-blur-md rounded-2xl sm:rounded-3xl p-3 sm:p-6 mb-3 sm:mb-8 border border-white shadow-xl text-center mx-auto max-w-lg">
+                    <p class="text-xs sm:text-sm text-slate-800 font-semibold leading-relaxed mb-2 sm:mb-4">Znajdź pasujące do siebie pojęcia i ich definicje. Pamiętaj: masz trzy życia na tej planecie. Nie strać ich łatwo.</p>
+                    <div class="flex items-center justify-center gap-1.5 sm:gap-2 text-red-500">
+                        ${Array.from({length: 3}).map((_, i) => `<i data-lucide="heart" class="w-5 h-5 sm:w-6 sm:h-6 ${i < this.state.lives ? 'fill-current animate-heartbeat' : 'opacity-20'}"></i>`).join('')}
                     </div>
                 </div>
 
-                <div class="flex justify-end mb-2">
+                <div class="flex justify-end mb-1 sm:mb-2">
                     <button type="button" class="report-error-btn flex items-center gap-1.5 text-[10px] uppercase font-bold tracking-wider text-slate-400 hover:text-red-500 transition-colors py-1 px-2 rounded hover:bg-red-50" data-action="report-error">
                         <i data-lucide="flag" class="w-3 h-3"></i> Zgłoś błąd
                     </button>
                 </div>
 
-                <div class="grid grid-cols-2 gap-3 pb-4">
+                <div class="grid grid-cols-2 gap-2 sm:gap-3 pb-2 sm:pb-4">
                     ${cards.map((card, idx) => {
                         const solved = this.state.matchingSolved.includes(card.id);
                         const selected = this.state.matchingSelected?.index === idx;
-                        let classes = "paper-card p-3 min-h-[90px] flex items-center justify-center text-center text-sm font-semibold cursor-pointer match-card select-none border-2";
+                        let classes = "paper-card p-2 sm:p-3 min-h-[72px] sm:min-h-[90px] flex items-center justify-center text-center text-xs sm:text-sm leading-tight font-semibold cursor-pointer match-card select-none border-2";
                         
                         if (this.state.matchingError && this.state.matchingError.includes(card.id)) classes += " border-red-500 bg-red-50 text-red-600 animate-shake";
                         else if (solved) classes += " match-solved";
